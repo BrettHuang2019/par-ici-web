@@ -1,0 +1,99 @@
+import { useEffect, useRef, useState } from 'react';
+import { useParams, Link } from 'react-router-dom';
+import type { Sentence, Chunk, PisteInfo, ManifestData } from '../lib/types';
+import { AudioEngine } from '../lib/audio';
+import { AudioBar } from '../components/AudioBar';
+import { SentenceRow } from '../components/SentenceRow';
+import { usePlayerStore } from '../store/player';
+import { findActiveSentence } from '../lib/timing';
+
+export function Player() {
+  const { ep, piste } = useParams<{ ep: string; piste: string }>();
+  const epNum = Number(ep);
+  const pisteNum = Number(piste);
+
+  const [pisteInfo, setPisteInfo] = useState<PisteInfo | null>(null);
+  const [sentences, setSentences] = useState<Sentence[]>([]);
+  const [activeSentenceIdx, setActiveSentenceIdx] = useState(0);
+  const engineRef = useRef<AudioEngine | null>(null);
+
+  const { setCurrentTime, setDuration, setPlaying, zhMode } = usePlayerStore();
+
+  useEffect(() => {
+    fetch('/data/manifest.json')
+      .then(r => r.json())
+      .then((m: ManifestData) => {
+        const ep_ = m.episodes.find(e => e.id === epNum);
+        const p = ep_?.pistes.find(p => p.piste === pisteNum);
+        if (!p) return;
+        setPisteInfo(p);
+        return fetch(p.data).then(r => r.json()).then((d: { sentences: Sentence[] }) => {
+          setSentences(d.sentences);
+          const engine = new AudioEngine(p.audio, (t) => {
+            setCurrentTime(t);
+            setActiveSentenceIdx(findActiveSentence(d.sentences, t));
+          });
+          engine.onLoadedMetadata(() => setDuration(engine.duration));
+          engine.onEnded(() => setPlaying(false));
+          engine.onRangePaused(() => setPlaying(false));
+          engineRef.current = engine;
+        });
+      });
+
+    return () => {
+      engineRef.current?.destroy();
+      engineRef.current = null;
+      setCurrentTime(0);
+      setDuration(0);
+      setPlaying(false);
+    };
+  }, [epNum, pisteNum]);
+
+  const handleChunkClick = (chunk: Chunk) => {
+    if (!engineRef.current) return;
+    engineRef.current.playRange(chunk.start, chunk.end);
+    setPlaying(true);
+  };
+
+  const handleSentenceClick = (start: number, end: number) => {
+    if (!engineRef.current) return;
+    engineRef.current.playRange(start, end);
+    setPlaying(true);
+  };
+
+  if (!pisteInfo) {
+    return <div className="flex items-center justify-center h-screen bg-gray-950 text-gray-400">Loading...</div>;
+  }
+
+  return (
+    <div className="min-h-screen bg-gray-950 text-white flex flex-col">
+      <div className="sticky top-0 z-10 bg-gray-900">
+        <AudioBar engine={engineRef.current} />
+        <div className="border-b border-gray-800 px-4 py-2 flex items-center gap-3">
+          <Link
+            to="/"
+            className="px-3 py-1.5 rounded bg-gray-700 hover:bg-gray-600 text-sm font-medium border border-gray-600 transition-colors"
+          >
+            ← Home
+          </Link>
+          <span className="text-gray-500">|</span>
+          <span className="text-sm font-medium">Épisode {epNum} — {pisteInfo.title}</span>
+        </div>
+      </div>
+      <div className="flex-1 overflow-y-auto p-3">
+        {sentences.map((s, i) => (
+          <SentenceRow
+            key={s.id}
+            sentence={s}
+            isActive={i === activeSentenceIdx}
+            ep={epNum}
+            piste={pisteNum}
+            onChunkClick={handleChunkClick}
+            onSentenceClick={handleSentenceClick}
+            zhMode={zhMode}
+          />
+        ))}
+      </div>
+    </div>
+  );
+}

@@ -1,0 +1,735 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 4 Piste 21 Page 36",
+      "zh": "第4集 第21轨 第36页",
+      "start": 0.24,
+      "end": 7.52,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.24,
+          "end": 0.96
+        },
+        {
+          "text": "4",
+          "start": 1.44,
+          "end": 2.64
+        },
+        {
+          "text": "Piste",
+          "start": 2.64,
+          "end": 3.04
+        },
+        {
+          "text": "21",
+          "start": 3.68,
+          "end": 3.68
+        },
+        {
+          "text": "Page",
+          "start": 3.92,
+          "end": 4.16
+        },
+        {
+          "text": "36",
+          "start": 6.72,
+          "end": 7.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 4",
+          "zh": "第4集",
+          "start": 0.24,
+          "end": 2.64
+        },
+        {
+          "text": "Piste 21",
+          "zh": "第21轨",
+          "start": 2.64,
+          "end": 3.68
+        },
+        {
+          "text": "Page 36",
+          "zh": "第36页",
+          "start": 3.92,
+          "end": 7.52
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Allo Geneviève.",
+      "zh": "喂，热纳维耶夫。",
+      "start": 8.8,
+      "end": 9.68,
+      "words": [
+        {
+          "text": "Allo",
+          "start": 8.8,
+          "end": 9.04
+        },
+        {
+          "text": "Geneviève",
+          "start": 9.04,
+          "end": 9.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Allo Geneviève.",
+          "zh": "喂，热纳维耶夫。",
+          "start": 8.8,
+          "end": 9.68
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Je voulais te parler à propos de ce soir, mais tu n'es pas là...",
+      "zh": "我想跟你谈谈关于今晚的事，但你不在……",
+      "start": 10.08,
+      "end": 12.48,
+      "words": [
+        {
+          "text": "Je",
+          "start": 10.08,
+          "end": 10.16
+        },
+        {
+          "text": "voulais",
+          "start": 10.16,
+          "end": 10.4
+        },
+        {
+          "text": "te",
+          "start": 10.4,
+          "end": 10.4
+        },
+        {
+          "text": "parler",
+          "start": 10.4,
+          "end": 10.72
+        },
+        {
+          "text": "à",
+          "start": 10.72,
+          "end": 10.8
+        },
+        {
+          "text": "propos",
+          "start": 10.8,
+          "end": 11.12
+        },
+        {
+          "text": "de",
+          "start": 11.12,
+          "end": 11.2
+        },
+        {
+          "text": "ce",
+          "start": 11.2,
+          "end": 11.28
+        },
+        {
+          "text": "soir",
+          "start": 11.28,
+          "end": 11.68
+        },
+        {
+          "text": "mais",
+          "start": 11.68,
+          "end": 12.0
+        },
+        {
+          "text": "tu",
+          "start": 12.0,
+          "end": 12.08
+        },
+        {
+          "text": "n'es",
+          "start": 12.08,
+          "end": 12.08
+        },
+        {
+          "text": "pas",
+          "start": 12.08,
+          "end": 12.24
+        },
+        {
+          "text": "là",
+          "start": 12.32,
+          "end": 12.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je voulais te parler",
+          "zh": "我想跟你谈谈",
+          "start": 10.08,
+          "end": 10.72
+        },
+        {
+          "text": "à propos de ce soir,",
+          "zh": "关于今晚的事，",
+          "start": 10.72,
+          "end": 11.68
+        },
+        {
+          "text": "mais tu n'es pas là...",
+          "zh": "但你不在……",
+          "start": 11.68,
+          "end": 12.48
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Je vais te rappeler un peu plus tard...",
+      "zh": "我晚一点再给你打电话……",
+      "start": 13.04,
+      "end": 14.16,
+      "words": [
+        {
+          "text": "Je",
+          "start": 13.04,
+          "end": 13.12
+        },
+        {
+          "text": "vais",
+          "start": 13.2,
+          "end": 13.28
+        },
+        {
+          "text": "te",
+          "start": 13.28,
+          "end": 13.36
+        },
+        {
+          "text": "rappeler",
+          "start": 13.36,
+          "end": 13.68
+        },
+        {
+          "text": "un",
+          "start": 13.68,
+          "end": 13.76
+        },
+        {
+          "text": "peu",
+          "start": 13.76,
+          "end": 13.84
+        },
+        {
+          "text": "plus",
+          "start": 13.84,
+          "end": 14.0
+        },
+        {
+          "text": "tard",
+          "start": 14.0,
+          "end": 14.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais te rappeler",
+          "zh": "我会再给你打电话",
+          "start": 13.04,
+          "end": 13.68
+        },
+        {
+          "text": "un peu plus tard...",
+          "zh": "晚一点……",
+          "start": 13.68,
+          "end": 14.16
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Là, je vais au garage chercher mon auto.",
+      "zh": "现在，我去修车厂取我的车。",
+      "start": 14.72,
+      "end": 16.64,
+      "words": [
+        {
+          "text": "Là",
+          "start": 14.72,
+          "end": 14.96
+        },
+        {
+          "text": "je",
+          "start": 14.96,
+          "end": 15.04
+        },
+        {
+          "text": "vais",
+          "start": 15.04,
+          "end": 15.12
+        },
+        {
+          "text": "au",
+          "start": 15.12,
+          "end": 15.2
+        },
+        {
+          "text": "garage",
+          "start": 15.2,
+          "end": 15.68
+        },
+        {
+          "text": "chercher",
+          "start": 15.76,
+          "end": 16.16
+        },
+        {
+          "text": "mon",
+          "start": 16.16,
+          "end": 16.32
+        },
+        {
+          "text": "auto",
+          "start": 16.32,
+          "end": 16.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Là,",
+          "zh": "现在，",
+          "start": 14.72,
+          "end": 14.96
+        },
+        {
+          "text": "je vais au garage",
+          "zh": "我去修车厂",
+          "start": 14.96,
+          "end": 15.68
+        },
+        {
+          "text": "chercher mon auto.",
+          "zh": "取我的车。",
+          "start": 15.76,
+          "end": 16.64
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Je l'ai amenée mardi parce que, la veille, j'ai eu des problèmes pour la faire démarrer.",
+      "zh": "我星期二把它带去了，因为前一天我发动它的时候遇到了问题。",
+      "start": 20.24,
+      "end": 23.68,
+      "words": [
+        {
+          "text": "Je",
+          "start": 20.24,
+          "end": 20.32
+        },
+        {
+          "text": "l'ai",
+          "start": 20.32,
+          "end": 20.48
+        },
+        {
+          "text": "amenée",
+          "start": 20.48,
+          "end": 20.72
+        },
+        {
+          "text": "mardi",
+          "start": 20.72,
+          "end": 21.2
+        },
+        {
+          "text": "parce",
+          "start": 21.2,
+          "end": 21.36
+        },
+        {
+          "text": "que",
+          "start": 21.36,
+          "end": 21.44
+        },
+        {
+          "text": "la",
+          "start": 21.44,
+          "end": 21.6
+        },
+        {
+          "text": "veille",
+          "start": 21.6,
+          "end": 21.92
+        },
+        {
+          "text": "j'ai",
+          "start": 21.92,
+          "end": 22.08
+        },
+        {
+          "text": "eu",
+          "start": 22.08,
+          "end": 22.24
+        },
+        {
+          "text": "des",
+          "start": 22.24,
+          "end": 22.4
+        },
+        {
+          "text": "problèmes",
+          "start": 22.4,
+          "end": 22.8
+        },
+        {
+          "text": "pour",
+          "start": 22.8,
+          "end": 22.96
+        },
+        {
+          "text": "la",
+          "start": 22.96,
+          "end": 23.04
+        },
+        {
+          "text": "faire",
+          "start": 23.04,
+          "end": 23.28
+        },
+        {
+          "text": "démarrer",
+          "start": 23.28,
+          "end": 23.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je l'ai amenée mardi",
+          "zh": "我星期二把它带去了",
+          "start": 20.24,
+          "end": 21.2
+        },
+        {
+          "text": "parce que,",
+          "zh": "因为，",
+          "start": 21.2,
+          "end": 21.44
+        },
+        {
+          "text": "la veille,",
+          "zh": "前一天，",
+          "start": 21.44,
+          "end": 21.92
+        },
+        {
+          "text": "j'ai eu des problèmes",
+          "zh": "我遇到了问题",
+          "start": 21.92,
+          "end": 22.8
+        },
+        {
+          "text": "pour la faire démarrer.",
+          "zh": "发动它的时候。",
+          "start": 22.8,
+          "end": 23.68
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Le jour même, j'ai eu un petit accrochage en sortant du garage...",
+      "zh": "同一天，从修车厂出来的时候我发生了一个小刮擦……",
+      "start": 26.4,
+      "end": 29.44,
+      "words": [
+        {
+          "text": "Le",
+          "start": 26.4,
+          "end": 26.48
+        },
+        {
+          "text": "jour",
+          "start": 26.48,
+          "end": 26.8
+        },
+        {
+          "text": "même",
+          "start": 26.8,
+          "end": 27.04
+        },
+        {
+          "text": "j'ai",
+          "start": 27.04,
+          "end": 27.2
+        },
+        {
+          "text": "eu",
+          "start": 27.2,
+          "end": 27.2
+        },
+        {
+          "text": "un",
+          "start": 27.28,
+          "end": 27.44
+        },
+        {
+          "text": "petit",
+          "start": 27.44,
+          "end": 27.6
+        },
+        {
+          "text": "accrochage",
+          "start": 27.68,
+          "end": 28.24
+        },
+        {
+          "text": "en",
+          "start": 28.24,
+          "end": 28.32
+        },
+        {
+          "text": "sortant",
+          "start": 28.32,
+          "end": 28.72
+        },
+        {
+          "text": "du",
+          "start": 28.72,
+          "end": 28.88
+        },
+        {
+          "text": "garage",
+          "start": 28.88,
+          "end": 29.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le jour même,",
+          "zh": "同一天，",
+          "start": 26.4,
+          "end": 27.04
+        },
+        {
+          "text": "j'ai eu un petit accrochage",
+          "zh": "我发生了一个小刮擦",
+          "start": 27.04,
+          "end": 28.24
+        },
+        {
+          "text": "en sortant du garage...",
+          "zh": "从修车厂出来的时候……",
+          "start": 28.24,
+          "end": 29.44
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Le lendemain, je l'ai ramenée pour la faire réparer.",
+      "zh": "第二天，我又把它带去修理了。",
+      "start": 32.08,
+      "end": 34.24,
+      "words": [
+        {
+          "text": "Le",
+          "start": 32.08,
+          "end": 32.32
+        },
+        {
+          "text": "lendemain",
+          "start": 32.32,
+          "end": 32.72
+        },
+        {
+          "text": "je",
+          "start": 32.72,
+          "end": 32.88
+        },
+        {
+          "text": "l'ai",
+          "start": 32.88,
+          "end": 33.04
+        },
+        {
+          "text": "ramenée",
+          "start": 33.04,
+          "end": 33.36
+        },
+        {
+          "text": "pour",
+          "start": 33.36,
+          "end": 33.52
+        },
+        {
+          "text": "la",
+          "start": 33.52,
+          "end": 33.6
+        },
+        {
+          "text": "faire",
+          "start": 33.6,
+          "end": 33.76
+        },
+        {
+          "text": "réparer",
+          "start": 33.76,
+          "end": 34.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le lendemain,",
+          "zh": "第二天，",
+          "start": 32.08,
+          "end": 32.72
+        },
+        {
+          "text": "je l'ai ramenée",
+          "zh": "我又把它带去了",
+          "start": 32.72,
+          "end": 33.36
+        },
+        {
+          "text": "pour la faire réparer.",
+          "zh": "去修理它。",
+          "start": 33.36,
+          "end": 34.24
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Mais là, elle est prête.",
+      "zh": "但是现在，它准备好了。",
+      "start": 36.72,
+      "end": 38.16,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 36.72,
+          "end": 36.96
+        },
+        {
+          "text": "là",
+          "start": 36.96,
+          "end": 37.2
+        },
+        {
+          "text": "elle",
+          "start": 37.6,
+          "end": 37.84
+        },
+        {
+          "text": "est",
+          "start": 37.84,
+          "end": 37.92
+        },
+        {
+          "text": "prête",
+          "start": 37.92,
+          "end": 38.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais là,",
+          "zh": "但是现在，",
+          "start": 36.72,
+          "end": 37.2
+        },
+        {
+          "text": "elle est prête.",
+          "zh": "它准备好了。",
+          "start": 37.6,
+          "end": 38.16
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Bon, on se voit au souper.",
+      "zh": "好，晚饭时见。",
+      "start": 38.56,
+      "end": 40.0,
+      "words": [
+        {
+          "text": "Bon",
+          "start": 38.56,
+          "end": 38.8
+        },
+        {
+          "text": "on",
+          "start": 39.2,
+          "end": 39.36
+        },
+        {
+          "text": "se",
+          "start": 39.36,
+          "end": 39.36
+        },
+        {
+          "text": "voit",
+          "start": 39.36,
+          "end": 39.52
+        },
+        {
+          "text": "au",
+          "start": 39.52,
+          "end": 39.6
+        },
+        {
+          "text": "souper",
+          "start": 39.6,
+          "end": 40.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bon,",
+          "zh": "好，",
+          "start": 38.56,
+          "end": 38.8
+        },
+        {
+          "text": "on se voit au souper.",
+          "zh": "晚饭时见。",
+          "start": 39.2,
+          "end": 40.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Tchao !",
+      "zh": "再见！",
+      "start": 40.32,
+      "end": 40.72,
+      "words": [
+        {
+          "text": "Tchao",
+          "start": 40.32,
+          "end": 40.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tchao !",
+          "zh": "再见！",
+          "start": 40.32,
+          "end": 40.72
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP04_P21",
+  "audio_filename": "FLS2_EP04_P21.mp3",
+  "audio_path": "downloads/FLS2_EP04_P21.mp3",
+  "episode": 4,
+  "piste": 21,
+  "page": 36,
+  "cd": "CD1"
+}

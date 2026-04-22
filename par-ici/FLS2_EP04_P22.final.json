@@ -1,0 +1,1154 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 4 Piste 22 Page 40",
+      "zh": "第4集 第22轨 第40页",
+      "start": 0.8,
+      "end": 7.84,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.8,
+          "end": 1.52
+        },
+        {
+          "text": "4",
+          "start": 2.0,
+          "end": 2.16
+        },
+        {
+          "text": "Piste",
+          "start": 3.2,
+          "end": 3.6
+        },
+        {
+          "text": "22",
+          "start": 4.16,
+          "end": 4.72
+        },
+        {
+          "text": "Page",
+          "start": 6.72,
+          "end": 7.28
+        },
+        {
+          "text": "40",
+          "start": 7.28,
+          "end": 7.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 4 ",
+          "zh": "第4集 ",
+          "start": 0.8,
+          "end": 2.16
+        },
+        {
+          "text": "Piste 22 ",
+          "zh": "第22轨 ",
+          "start": 3.2,
+          "end": 4.72
+        },
+        {
+          "text": "Page 40",
+          "zh": "第40页",
+          "start": 6.72,
+          "end": 7.84
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Depuis que je suis arrivée, j'ai visité plein d'endroits avec Thomas et Marie-France.",
+      "zh": "自从我到了以后，我和托马斯还有玛丽-弗朗斯参观了很多地方。",
+      "start": 9.76,
+      "end": 13.12,
+      "words": [
+        {
+          "text": "Depuis",
+          "start": 9.76,
+          "end": 10.0
+        },
+        {
+          "text": "que",
+          "start": 10.0,
+          "end": 10.08
+        },
+        {
+          "text": "je",
+          "start": 10.08,
+          "end": 10.16
+        },
+        {
+          "text": "suis",
+          "start": 10.16,
+          "end": 10.24
+        },
+        {
+          "text": "arrivée",
+          "start": 10.24,
+          "end": 10.64
+        },
+        {
+          "text": "j'ai",
+          "start": 10.72,
+          "end": 10.88
+        },
+        {
+          "text": "visité",
+          "start": 10.88,
+          "end": 11.2
+        },
+        {
+          "text": "plein",
+          "start": 11.2,
+          "end": 11.52
+        },
+        {
+          "text": "d'endroits",
+          "start": 11.52,
+          "end": 11.92
+        },
+        {
+          "text": "avec",
+          "start": 11.92,
+          "end": 12.16
+        },
+        {
+          "text": "Thomas",
+          "start": 12.16,
+          "end": 12.4
+        },
+        {
+          "text": "et",
+          "start": 12.4,
+          "end": 12.48
+        },
+        {
+          "text": "Marie",
+          "start": 12.48,
+          "end": 12.72
+        },
+        {
+          "text": "France",
+          "start": 12.72,
+          "end": 13.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Depuis que je suis arrivée, ",
+          "zh": "自从我到了以后，",
+          "start": 9.76,
+          "end": 10.64
+        },
+        {
+          "text": "j'ai visité plein d'endroits ",
+          "zh": "我参观了很多地方 ",
+          "start": 10.72,
+          "end": 11.92
+        },
+        {
+          "text": "avec Thomas et Marie-France.",
+          "zh": "和托马斯还有玛丽-弗朗斯。",
+          "start": 11.92,
+          "end": 13.12
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Il y a un mois, à peu près, on est allés à l'Oratoire Saint-Joseph et on s'est promenés sur le mont Royal.",
+      "zh": "大约一个月以前，我们去了圣约瑟夫大教堂，还在皇家山上散了步。",
+      "start": 14.08,
+      "end": 18.72,
+      "words": [
+        {
+          "text": "Il",
+          "start": 14.08,
+          "end": 14.16
+        },
+        {
+          "text": "y",
+          "start": 14.16,
+          "end": 14.24
+        },
+        {
+          "text": "a",
+          "start": 14.24,
+          "end": 14.24
+        },
+        {
+          "text": "un",
+          "start": 14.24,
+          "end": 14.4
+        },
+        {
+          "text": "mois",
+          "start": 14.4,
+          "end": 14.72
+        },
+        {
+          "text": "à",
+          "start": 14.72,
+          "end": 14.72
+        },
+        {
+          "text": "peu",
+          "start": 14.72,
+          "end": 14.8
+        },
+        {
+          "text": "près",
+          "start": 14.8,
+          "end": 15.12
+        },
+        {
+          "text": "on",
+          "start": 15.52,
+          "end": 15.6
+        },
+        {
+          "text": "est",
+          "start": 15.6,
+          "end": 15.84
+        },
+        {
+          "text": "allés",
+          "start": 15.84,
+          "end": 16.0
+        },
+        {
+          "text": "à",
+          "start": 16.0,
+          "end": 16.08
+        },
+        {
+          "text": "l'Oratoire",
+          "start": 16.08,
+          "end": 16.48
+        },
+        {
+          "text": "Saint",
+          "start": 16.48,
+          "end": 16.72
+        },
+        {
+          "text": "Joseph",
+          "start": 16.72,
+          "end": 17.2
+        },
+        {
+          "text": "et",
+          "start": 17.2,
+          "end": 17.28
+        },
+        {
+          "text": "on",
+          "start": 17.28,
+          "end": 17.28
+        },
+        {
+          "text": "s'est",
+          "start": 17.28,
+          "end": 17.44
+        },
+        {
+          "text": "promenés",
+          "start": 17.44,
+          "end": 17.84
+        },
+        {
+          "text": "sur",
+          "start": 17.84,
+          "end": 18.0
+        },
+        {
+          "text": "le",
+          "start": 18.0,
+          "end": 18.08
+        },
+        {
+          "text": "mont",
+          "start": 18.08,
+          "end": 18.24
+        },
+        {
+          "text": "Royal",
+          "start": 18.24,
+          "end": 18.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il y a un mois, à peu près, ",
+          "zh": "大约一个月以前，",
+          "start": 14.08,
+          "end": 15.12
+        },
+        {
+          "text": "on est allés à l'Oratoire Saint-Joseph ",
+          "zh": "我们去了圣约瑟夫大教堂 ",
+          "start": 15.52,
+          "end": 17.2
+        },
+        {
+          "text": "et on s'est promenés sur le mont Royal.",
+          "zh": "还在皇家山上散了步。",
+          "start": 17.2,
+          "end": 18.72
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "C'était vraiment chouette, j'ai beaucoup aimé.",
+      "zh": "那真的很棒，我很喜欢。",
+      "start": 19.04,
+      "end": 20.88,
+      "words": [
+        {
+          "text": "C'était",
+          "start": 19.04,
+          "end": 19.28
+        },
+        {
+          "text": "vraiment",
+          "start": 19.28,
+          "end": 19.68
+        },
+        {
+          "text": "chouette",
+          "start": 19.68,
+          "end": 20.16
+        },
+        {
+          "text": "j'ai",
+          "start": 20.16,
+          "end": 20.32
+        },
+        {
+          "text": "beaucoup",
+          "start": 20.32,
+          "end": 20.64
+        },
+        {
+          "text": "aimé",
+          "start": 20.64,
+          "end": 20.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'était vraiment chouette, ",
+          "zh": "那真的很棒，",
+          "start": 19.04,
+          "end": 20.16
+        },
+        {
+          "text": "j'ai beaucoup aimé.",
+          "zh": "我很喜欢。",
+          "start": 20.16,
+          "end": 20.88
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "La fin de semaine passée, on a loué des BIXI pis on est allés se promener dans le Vieux-Montréal.",
+      "zh": "上个周末，我们租了BIXI自行车，然后去老蒙特利尔逛了逛。",
+      "start": 21.84,
+      "end": 26.08,
+      "words": [
+        {
+          "text": "La",
+          "start": 21.84,
+          "end": 21.92
+        },
+        {
+          "text": "fin",
+          "start": 21.92,
+          "end": 22.08
+        },
+        {
+          "text": "de",
+          "start": 22.08,
+          "end": 22.16
+        },
+        {
+          "text": "semaine",
+          "start": 22.16,
+          "end": 22.4
+        },
+        {
+          "text": "passée",
+          "start": 22.4,
+          "end": 22.88
+        },
+        {
+          "text": "on",
+          "start": 23.2,
+          "end": 23.36
+        },
+        {
+          "text": "a",
+          "start": 23.36,
+          "end": 23.44
+        },
+        {
+          "text": "loué",
+          "start": 23.44,
+          "end": 23.6
+        },
+        {
+          "text": "des",
+          "start": 23.6,
+          "end": 23.76
+        },
+        {
+          "text": "BIXI",
+          "start": 23.76,
+          "end": 24.16
+        },
+        {
+          "text": "pis",
+          "start": 24.16,
+          "end": 24.32
+        },
+        {
+          "text": "on",
+          "start": 24.32,
+          "end": 24.4
+        },
+        {
+          "text": "est",
+          "start": 24.4,
+          "end": 24.56
+        },
+        {
+          "text": "allés",
+          "start": 24.56,
+          "end": 24.72
+        },
+        {
+          "text": "se",
+          "start": 24.72,
+          "end": 24.8
+        },
+        {
+          "text": "promener",
+          "start": 24.8,
+          "end": 25.2
+        },
+        {
+          "text": "dans",
+          "start": 25.2,
+          "end": 25.28
+        },
+        {
+          "text": "le",
+          "start": 25.28,
+          "end": 25.36
+        },
+        {
+          "text": "Vieux",
+          "start": 25.36,
+          "end": 25.52
+        },
+        {
+          "text": "Montréal",
+          "start": 25.52,
+          "end": 26.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La fin de semaine passée, ",
+          "zh": "上个周末，",
+          "start": 21.84,
+          "end": 22.88
+        },
+        {
+          "text": "on a loué des BIXI ",
+          "zh": "我们租了BIXI自行车 ",
+          "start": 23.2,
+          "end": 24.16
+        },
+        {
+          "text": "pis on est allés se promener dans le Vieux-Montréal.",
+          "zh": "然后去老蒙特利尔逛了逛。",
+          "start": 24.16,
+          "end": 26.08
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "J'adore ça, BIXI.",
+      "zh": "我好喜欢BIXI。",
+      "start": 26.72,
+      "end": 27.76,
+      "words": [
+        {
+          "text": "J'adore",
+          "start": 26.72,
+          "end": 27.12
+        },
+        {
+          "text": "ça",
+          "start": 27.12,
+          "end": 27.36
+        },
+        {
+          "text": "BIXI",
+          "start": 27.36,
+          "end": 27.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'adore ça, ",
+          "zh": "我好喜欢，",
+          "start": 26.72,
+          "end": 27.36
+        },
+        {
+          "text": "BIXI.",
+          "zh": "BIXI。",
+          "start": 27.36,
+          "end": 27.76
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Quelle bonne idée, c'est tellement pratique, en plus !",
+      "zh": "多好的主意啊，而且还那么方便！",
+      "start": 28.16,
+      "end": 30.56,
+      "words": [
+        {
+          "text": "Quelle",
+          "start": 28.16,
+          "end": 28.4
+        },
+        {
+          "text": "bonne",
+          "start": 28.4,
+          "end": 28.64
+        },
+        {
+          "text": "idée",
+          "start": 28.64,
+          "end": 28.88
+        },
+        {
+          "text": "c'est",
+          "start": 28.88,
+          "end": 29.12
+        },
+        {
+          "text": "tellement",
+          "start": 29.12,
+          "end": 29.6
+        },
+        {
+          "text": "pratique",
+          "start": 29.6,
+          "end": 30.08
+        },
+        {
+          "text": "en",
+          "start": 30.08,
+          "end": 30.24
+        },
+        {
+          "text": "plus",
+          "start": 30.24,
+          "end": 30.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quelle bonne idée, ",
+          "zh": "多好的主意，",
+          "start": 28.16,
+          "end": 28.88
+        },
+        {
+          "text": "c'est tellement pratique, ",
+          "zh": "那么方便，",
+          "start": 28.88,
+          "end": 30.08
+        },
+        {
+          "text": "en plus !",
+          "zh": "而且！",
+          "start": 30.08,
+          "end": 30.56
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Je vais le refaire, c'est sûr.",
+      "zh": "我一定会再去的，这是肯定的。",
+      "start": 31.04,
+      "end": 31.92,
+      "words": [
+        {
+          "text": "Je",
+          "start": 31.04,
+          "end": 31.12
+        },
+        {
+          "text": "vais",
+          "start": 31.12,
+          "end": 31.28
+        },
+        {
+          "text": "le",
+          "start": 31.28,
+          "end": 31.36
+        },
+        {
+          "text": "refaire",
+          "start": 31.36,
+          "end": 31.68
+        },
+        {
+          "text": "c'est",
+          "start": 31.76,
+          "end": 31.92
+        },
+        {
+          "text": "sûr",
+          "start": 31.92,
+          "end": 31.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais le refaire, ",
+          "zh": "我会再去的，",
+          "start": 31.04,
+          "end": 31.68
+        },
+        {
+          "text": "c'est sûr.",
+          "zh": "这是肯定的。",
+          "start": 31.76,
+          "end": 31.92
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Le Vieux- Montréal, ça, un peu moins...",
+      "zh": "老蒙特利尔嘛，就没那么喜欢了……",
+      "start": 32.08,
+      "end": 35.52,
+      "words": [
+        {
+          "text": "Le",
+          "start": 32.08,
+          "end": 32.24
+        },
+        {
+          "text": "Vieux",
+          "start": 33.44,
+          "end": 33.68
+        },
+        {
+          "text": "Montréal",
+          "start": 33.68,
+          "end": 34.24
+        },
+        {
+          "text": "ça",
+          "start": 34.24,
+          "end": 34.72
+        },
+        {
+          "text": "un",
+          "start": 34.8,
+          "end": 34.96
+        },
+        {
+          "text": "peu",
+          "start": 34.96,
+          "end": 35.12
+        },
+        {
+          "text": "moins",
+          "start": 35.12,
+          "end": 35.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le Vieux- Montréal, ça, ",
+          "zh": "老蒙特利尔嘛，",
+          "start": 32.08,
+          "end": 34.72
+        },
+        {
+          "text": "un peu moins...",
+          "zh": "就没那么喜欢了……",
+          "start": 34.8,
+          "end": 35.52
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "C'est trop touristique à mon gout.",
+      "zh": "以我的口味来说，太游客化了。",
+      "start": 35.92,
+      "end": 37.44,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 35.92,
+          "end": 36.24
+        },
+        {
+          "text": "trop",
+          "start": 36.24,
+          "end": 36.56
+        },
+        {
+          "text": "touristique",
+          "start": 36.56,
+          "end": 36.96
+        },
+        {
+          "text": "à",
+          "start": 37.04,
+          "end": 37.12
+        },
+        {
+          "text": "mon",
+          "start": 37.12,
+          "end": 37.28
+        },
+        {
+          "text": "gout",
+          "start": 37.28,
+          "end": 37.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est trop touristique ",
+          "zh": "太游客化了 ",
+          "start": 35.92,
+          "end": 36.96
+        },
+        {
+          "text": "à mon gout.",
+          "zh": "以我的口味来说。",
+          "start": 37.04,
+          "end": 37.44
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "À part ça, ben, hier, je suis allée au Jardin botanique.",
+      "zh": "除此之外，嗯，昨天，我去了植物园。",
+      "start": 38.48,
+      "end": 40.72,
+      "words": [
+        {
+          "text": "À",
+          "start": 38.48,
+          "end": 38.56
+        },
+        {
+          "text": "part",
+          "start": 38.56,
+          "end": 38.8
+        },
+        {
+          "text": "ça",
+          "start": 38.8,
+          "end": 38.96
+        },
+        {
+          "text": "ben",
+          "start": 38.96,
+          "end": 39.12
+        },
+        {
+          "text": "hier",
+          "start": 39.2,
+          "end": 39.52
+        },
+        {
+          "text": "je",
+          "start": 39.52,
+          "end": 39.68
+        },
+        {
+          "text": "suis",
+          "start": 39.68,
+          "end": 39.68
+        },
+        {
+          "text": "allée",
+          "start": 39.68,
+          "end": 39.84
+        },
+        {
+          "text": "au",
+          "start": 39.84,
+          "end": 39.92
+        },
+        {
+          "text": "Jardin",
+          "start": 39.92,
+          "end": 40.24
+        },
+        {
+          "text": "botanique",
+          "start": 40.24,
+          "end": 40.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "À part ça, ",
+          "zh": "除此之外，",
+          "start": 38.48,
+          "end": 38.96
+        },
+        {
+          "text": "ben, hier, ",
+          "zh": "嗯，昨天，",
+          "start": 38.96,
+          "end": 39.52
+        },
+        {
+          "text": "je suis allée au Jardin botanique.",
+          "zh": "我去了植物园。",
+          "start": 39.52,
+          "end": 40.72
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "À ce temps-ci de l'année, c'est magique.",
+      "zh": "在一年中的这个时候，那里是神奇的。",
+      "start": 41.2,
+      "end": 42.8,
+      "words": [
+        {
+          "text": "À",
+          "start": 41.2,
+          "end": 41.28
+        },
+        {
+          "text": "ce",
+          "start": 41.28,
+          "end": 41.44
+        },
+        {
+          "text": "temps",
+          "start": 41.44,
+          "end": 41.52
+        },
+        {
+          "text": "ci",
+          "start": 41.52,
+          "end": 41.68
+        },
+        {
+          "text": "de",
+          "start": 41.68,
+          "end": 41.76
+        },
+        {
+          "text": "l'année",
+          "start": 41.76,
+          "end": 42.08
+        },
+        {
+          "text": "c'est",
+          "start": 42.08,
+          "end": 42.24
+        },
+        {
+          "text": "magique",
+          "start": 42.24,
+          "end": 42.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "À ce temps-ci de l'année, ",
+          "zh": "在一年中的这个时候，",
+          "start": 41.2,
+          "end": 42.08
+        },
+        {
+          "text": "c'est magique.",
+          "zh": "那里是神奇的。",
+          "start": 42.08,
+          "end": 42.8
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "On dirait qu'on est en campagne tellement c'est tranquille !",
+      "zh": "安静得好像在乡下一样！",
+      "start": 43.2,
+      "end": 45.44,
+      "words": [
+        {
+          "text": "On",
+          "start": 43.2,
+          "end": 43.36
+        },
+        {
+          "text": "dirait",
+          "start": 43.36,
+          "end": 43.6
+        },
+        {
+          "text": "qu'on",
+          "start": 43.6,
+          "end": 43.68
+        },
+        {
+          "text": "est",
+          "start": 43.68,
+          "end": 43.84
+        },
+        {
+          "text": "en",
+          "start": 43.84,
+          "end": 44.0
+        },
+        {
+          "text": "campagne",
+          "start": 44.0,
+          "end": 44.48
+        },
+        {
+          "text": "tellement",
+          "start": 44.48,
+          "end": 44.72
+        },
+        {
+          "text": "c'est",
+          "start": 44.72,
+          "end": 44.88
+        },
+        {
+          "text": "tranquille",
+          "start": 44.88,
+          "end": 45.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On dirait qu'on est en campagne ",
+          "zh": "好像在乡下一样 ",
+          "start": 43.2,
+          "end": 44.48
+        },
+        {
+          "text": "tellement c'est tranquille !",
+          "zh": "因为太安静了！",
+          "start": 44.48,
+          "end": 45.44
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "La semaine prochaine, je vais aller voir un spectacle à la Maison symphonique.",
+      "zh": "下周，我要去交响乐大厅看一场演出。",
+      "start": 46.32,
+      "end": 49.6,
+      "words": [
+        {
+          "text": "La",
+          "start": 46.32,
+          "end": 46.48
+        },
+        {
+          "text": "semaine",
+          "start": 46.48,
+          "end": 46.72
+        },
+        {
+          "text": "prochaine",
+          "start": 46.72,
+          "end": 47.28
+        },
+        {
+          "text": "je",
+          "start": 47.52,
+          "end": 47.6
+        },
+        {
+          "text": "vais",
+          "start": 47.6,
+          "end": 47.6
+        },
+        {
+          "text": "aller",
+          "start": 47.68,
+          "end": 47.84
+        },
+        {
+          "text": "voir",
+          "start": 47.84,
+          "end": 48.0
+        },
+        {
+          "text": "un",
+          "start": 48.0,
+          "end": 48.08
+        },
+        {
+          "text": "spectacle",
+          "start": 48.08,
+          "end": 48.56
+        },
+        {
+          "text": "à",
+          "start": 48.56,
+          "end": 48.64
+        },
+        {
+          "text": "la",
+          "start": 48.64,
+          "end": 48.8
+        },
+        {
+          "text": "Maison",
+          "start": 48.8,
+          "end": 49.04
+        },
+        {
+          "text": "symphonique",
+          "start": 49.04,
+          "end": 49.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La semaine prochaine, ",
+          "zh": "下周，",
+          "start": 46.32,
+          "end": 47.28
+        },
+        {
+          "text": "je vais aller voir un spectacle ",
+          "zh": "我要去看一场演出 ",
+          "start": 47.52,
+          "end": 48.56
+        },
+        {
+          "text": "à la Maison symphonique.",
+          "zh": "在交响乐大厅。",
+          "start": 48.56,
+          "end": 49.6
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "J'ai bien hâte de voir ça.",
+      "zh": "我迫不及待想去看。",
+      "start": 50.32,
+      "end": 51.52,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 50.32,
+          "end": 50.56
+        },
+        {
+          "text": "bien",
+          "start": 50.56,
+          "end": 50.8
+        },
+        {
+          "text": "hâte",
+          "start": 50.8,
+          "end": 50.96
+        },
+        {
+          "text": "de",
+          "start": 50.96,
+          "end": 51.04
+        },
+        {
+          "text": "voir",
+          "start": 51.04,
+          "end": 51.28
+        },
+        {
+          "text": "ça",
+          "start": 51.28,
+          "end": 51.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai bien hâte de voir ça.",
+          "zh": "我迫不及待想去看。",
+          "start": 50.32,
+          "end": 51.52
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "ÉPISODE 5 - Bilan",
+      "zh": "第5集 - 总结",
+      "start": 51.52,
+      "end": 54.32,
+      "words": [
+        {
+          "text": "ÉPISODE",
+          "start": 51.52,
+          "end": 51.52
+        },
+        {
+          "text": "5",
+          "start": 51.52,
+          "end": 54.24
+        },
+        {
+          "text": "Bilan",
+          "start": 54.24,
+          "end": 54.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "ÉPISODE 5 - Bilan",
+          "zh": "第5集 - 总结",
+          "start": 51.52,
+          "end": 54.32
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP04_P22",
+  "audio_filename": "FLS2_EP04_P22.mp3",
+  "audio_path": "downloads/FLS2_EP04_P22.mp3",
+  "episode": 4,
+  "piste": 22,
+  "page": 40,
+  "cd": "CD1"
+}

@@ -1,0 +1,13 @@
+{
+  "episodes": [
+    {
+      "id": 4,
+      "pistes": [
+        { "episode": 4, "piste": 19, "title": "Piste 19", "audio": "/audio/FLS2_EP04_P19.mp3", "data": "/data/FLS2_EP04_P19.final.json" },
+        { "episode": 4, "piste": 20, "title": "Piste 20", "audio": "/audio/FLS2_EP04_P20.mp3", "data": "/data/FLS2_EP04_P20.final.json" },
+        { "episode": 4, "piste": 21, "title": "Piste 21", "audio": "/audio/FLS2_EP04_P21.mp3", "data": "/data/FLS2_EP04_P21.final.json" },
+        { "episode": 4, "piste": 22, "title": "Piste 22", "audio": "/audio/FLS2_EP04_P22.mp3", "data": "/data/FLS2_EP04_P22.final.json" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2555 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 4 Piste 20 Page 35",
+      "zh": "第四集 第20条音轨 第35页",
+      "start": 0.8,
+      "end": 9.28,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.8,
+          "end": 1.52
+        },
+        {
+          "text": "4",
+          "start": 2.0,
+          "end": 3.12
+        },
+        {
+          "text": "Piste",
+          "start": 3.12,
+          "end": 3.6
+        },
+        {
+          "text": "20",
+          "start": 4.24,
+          "end": 4.64
+        },
+        {
+          "text": "Page",
+          "start": 7.44,
+          "end": 8.08
+        },
+        {
+          "text": "35",
+          "start": 9.28,
+          "end": 9.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 4",
+          "zh": "第四集",
+          "start": 0.8,
+          "end": 3.12
+        },
+        {
+          "text": "Piste 20",
+          "zh": "第20条音轨",
+          "start": 3.12,
+          "end": 4.64
+        },
+        {
+          "text": "Page 35",
+          "zh": "第35页",
+          "start": 7.44,
+          "end": 9.28
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Allo Geneviève !",
+      "zh": "喂，Geneviève！",
+      "start": 9.36,
+      "end": 11.04,
+      "words": [
+        {
+          "text": "Allo",
+          "start": 9.36,
+          "end": 10.56
+        },
+        {
+          "text": "Geneviève",
+          "start": 10.56,
+          "end": 11.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Allo Geneviève !",
+          "zh": "喂，Geneviève！",
+          "start": 9.36,
+          "end": 11.04
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "C'est moi, Fannie.",
+      "zh": "是我，Fannie。",
+      "start": 11.92,
+      "end": 12.8,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 11.92,
+          "end": 12.16
+        },
+        {
+          "text": "moi",
+          "start": 12.16,
+          "end": 12.4
+        },
+        {
+          "text": "Fannie",
+          "start": 12.4,
+          "end": 12.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est moi,",
+          "zh": "是我，",
+          "start": 11.92,
+          "end": 12.4
+        },
+        {
+          "text": "Fannie.",
+          "zh": "Fannie。",
+          "start": 12.4,
+          "end": 12.8
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Comment ça va ?",
+      "zh": "你好吗？",
+      "start": 13.6,
+      "end": 14.24,
+      "words": [
+        {
+          "text": "Comment",
+          "start": 13.6,
+          "end": 13.84
+        },
+        {
+          "text": "ça",
+          "start": 13.84,
+          "end": 14.0
+        },
+        {
+          "text": "va",
+          "start": 14.0,
+          "end": 14.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Comment ça va ?",
+          "zh": "你好吗？",
+          "start": 13.6,
+          "end": 14.24
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Puis, la vie à Montréal, comment tu trouves ça ?",
+      "zh": "然后，在蒙特利尔的生活，你觉得怎么样？",
+      "start": 14.96,
+      "end": 17.12,
+      "words": [
+        {
+          "text": "Puis",
+          "start": 14.96,
+          "end": 15.04
+        },
+        {
+          "text": "la",
+          "start": 15.2,
+          "end": 15.28
+        },
+        {
+          "text": "vie",
+          "start": 15.28,
+          "end": 15.44
+        },
+        {
+          "text": "à",
+          "start": 15.44,
+          "end": 15.52
+        },
+        {
+          "text": "Montréal",
+          "start": 15.52,
+          "end": 16.08
+        },
+        {
+          "text": "comment",
+          "start": 16.24,
+          "end": 16.48
+        },
+        {
+          "text": "tu",
+          "start": 16.48,
+          "end": 16.56
+        },
+        {
+          "text": "trouves",
+          "start": 16.64,
+          "end": 16.8
+        },
+        {
+          "text": "ça",
+          "start": 16.8,
+          "end": 17.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Puis,",
+          "zh": "然后，",
+          "start": 14.96,
+          "end": 15.04
+        },
+        {
+          "text": "la vie à Montréal,",
+          "zh": "在蒙特利尔的生活，",
+          "start": 15.2,
+          "end": 16.08
+        },
+        {
+          "text": "comment tu trouves ça ?",
+          "zh": "你觉得怎么样？",
+          "start": 16.24,
+          "end": 17.12
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Ici, tout va bien.",
+      "zh": "这里，一切都好。",
+      "start": 18.24,
+      "end": 18.96,
+      "words": [
+        {
+          "text": "Ici",
+          "start": 18.24,
+          "end": 18.56
+        },
+        {
+          "text": "tout",
+          "start": 18.56,
+          "end": 18.64
+        },
+        {
+          "text": "va",
+          "start": 18.64,
+          "end": 18.8
+        },
+        {
+          "text": "bien",
+          "start": 18.8,
+          "end": 18.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ici,",
+          "zh": "这里，",
+          "start": 18.24,
+          "end": 18.56
+        },
+        {
+          "text": "tout va bien.",
+          "zh": "一切都好。",
+          "start": 18.56,
+          "end": 18.96
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Étienne a commencé à travailler pour une nouvelle compagnie il y a deux semaines.",
+      "zh": "Étienne两周前开始为一家新公司工作了。",
+      "start": 19.84,
+      "end": 23.04,
+      "words": [
+        {
+          "text": "Étienne",
+          "start": 19.84,
+          "end": 20.24
+        },
+        {
+          "text": "a",
+          "start": 20.24,
+          "end": 20.32
+        },
+        {
+          "text": "commencé",
+          "start": 20.32,
+          "end": 20.72
+        },
+        {
+          "text": "à",
+          "start": 20.72,
+          "end": 20.8
+        },
+        {
+          "text": "travailler",
+          "start": 20.8,
+          "end": 21.36
+        },
+        {
+          "text": "pour",
+          "start": 21.36,
+          "end": 21.52
+        },
+        {
+          "text": "une",
+          "start": 21.52,
+          "end": 21.6
+        },
+        {
+          "text": "nouvelle",
+          "start": 21.6,
+          "end": 21.84
+        },
+        {
+          "text": "compagnie",
+          "start": 21.84,
+          "end": 22.4
+        },
+        {
+          "text": "il",
+          "start": 22.4,
+          "end": 22.4
+        },
+        {
+          "text": "y",
+          "start": 22.4,
+          "end": 22.4
+        },
+        {
+          "text": "a",
+          "start": 22.4,
+          "end": 22.48
+        },
+        {
+          "text": "deux",
+          "start": 22.48,
+          "end": 22.64
+        },
+        {
+          "text": "semaines",
+          "start": 22.64,
+          "end": 23.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Étienne a commencé à travailler",
+          "zh": "Étienne开始工作",
+          "start": 19.84,
+          "end": 21.36
+        },
+        {
+          "text": "pour une nouvelle compagnie",
+          "zh": "为一家新公司",
+          "start": 21.36,
+          "end": 22.4
+        },
+        {
+          "text": "il y a deux semaines.",
+          "zh": "两周前。",
+          "start": 22.4,
+          "end": 23.04
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Il aime beaucoup ça.",
+      "zh": "他非常喜欢。",
+      "start": 23.2,
+      "end": 23.92,
+      "words": [
+        {
+          "text": "Il",
+          "start": 23.2,
+          "end": 23.28
+        },
+        {
+          "text": "aime",
+          "start": 23.28,
+          "end": 23.44
+        },
+        {
+          "text": "beaucoup",
+          "start": 23.44,
+          "end": 23.68
+        },
+        {
+          "text": "ça",
+          "start": 23.68,
+          "end": 23.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il aime beaucoup ça.",
+          "zh": "他非常喜欢。",
+          "start": 23.2,
+          "end": 23.92
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "À part ça, ben, on regarde pour acheter une maison, on va déménager bientôt.",
+      "zh": "除此之外，嗯，我们在看买房，我们很快要搬家了。",
+      "start": 24.96,
+      "end": 29.36,
+      "words": [
+        {
+          "text": "À",
+          "start": 24.96,
+          "end": 25.04
+        },
+        {
+          "text": "part",
+          "start": 25.04,
+          "end": 25.28
+        },
+        {
+          "text": "ça",
+          "start": 25.28,
+          "end": 25.52
+        },
+        {
+          "text": "ben",
+          "start": 25.6,
+          "end": 26.08
+        },
+        {
+          "text": "on",
+          "start": 26.4,
+          "end": 26.48
+        },
+        {
+          "text": "regarde",
+          "start": 26.48,
+          "end": 26.8
+        },
+        {
+          "text": "pour",
+          "start": 26.8,
+          "end": 26.96
+        },
+        {
+          "text": "acheter",
+          "start": 26.96,
+          "end": 27.2
+        },
+        {
+          "text": "une",
+          "start": 27.2,
+          "end": 27.28
+        },
+        {
+          "text": "maison",
+          "start": 27.28,
+          "end": 27.68
+        },
+        {
+          "text": "on",
+          "start": 28.16,
+          "end": 28.24
+        },
+        {
+          "text": "va",
+          "start": 28.24,
+          "end": 28.4
+        },
+        {
+          "text": "déménager",
+          "start": 28.4,
+          "end": 28.96
+        },
+        {
+          "text": "bientôt",
+          "start": 28.96,
+          "end": 29.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "À part ça,",
+          "zh": "除此之外，",
+          "start": 24.96,
+          "end": 25.52
+        },
+        {
+          "text": "ben,",
+          "zh": "嗯，",
+          "start": 25.6,
+          "end": 26.08
+        },
+        {
+          "text": "on regarde pour acheter une maison,",
+          "zh": "我们在看买房，",
+          "start": 26.4,
+          "end": 27.68
+        },
+        {
+          "text": "on va déménager bientôt.",
+          "zh": "我们很快要搬家了。",
+          "start": 28.16,
+          "end": 29.36
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Ah, je suis tellement excitée...",
+      "zh": "啊，我好兴奋……",
+      "start": 29.68,
+      "end": 31.84,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 29.68,
+          "end": 29.68
+        },
+        {
+          "text": "je",
+          "start": 30.32,
+          "end": 30.56
+        },
+        {
+          "text": "suis",
+          "start": 30.56,
+          "end": 30.64
+        },
+        {
+          "text": "tellement",
+          "start": 30.88,
+          "end": 31.28
+        },
+        {
+          "text": "excitée",
+          "start": 31.28,
+          "end": 31.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah,",
+          "zh": "啊，",
+          "start": 29.68,
+          "end": 29.68
+        },
+        {
+          "text": "je suis tellement excitée...",
+          "zh": "我好兴奋……",
+          "start": 30.32,
+          "end": 31.84
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Je ne voulais pas t'annoncer ça au téléphone, mais je ne peux pas attendre : je suis enceinte !",
+      "zh": "我不想在电话里告诉你这件事，但我等不及了：我怀孕了！",
+      "start": 32.48,
+      "end": 36.64,
+      "words": [
+        {
+          "text": "Je",
+          "start": 32.48,
+          "end": 32.64
+        },
+        {
+          "text": "ne",
+          "start": 32.64,
+          "end": 32.64
+        },
+        {
+          "text": "voulais",
+          "start": 32.64,
+          "end": 32.8
+        },
+        {
+          "text": "pas",
+          "start": 32.8,
+          "end": 32.96
+        },
+        {
+          "text": "t'annoncer",
+          "start": 32.96,
+          "end": 33.36
+        },
+        {
+          "text": "ça",
+          "start": 33.36,
+          "end": 33.52
+        },
+        {
+          "text": "au",
+          "start": 33.52,
+          "end": 33.6
+        },
+        {
+          "text": "téléphone",
+          "start": 33.6,
+          "end": 34.08
+        },
+        {
+          "text": "mais",
+          "start": 34.08,
+          "end": 34.16
+        },
+        {
+          "text": "je",
+          "start": 34.48,
+          "end": 34.64
+        },
+        {
+          "text": "ne",
+          "start": 34.64,
+          "end": 34.64
+        },
+        {
+          "text": "peux",
+          "start": 34.64,
+          "end": 34.72
+        },
+        {
+          "text": "pas",
+          "start": 34.88,
+          "end": 34.96
+        },
+        {
+          "text": "attendre",
+          "start": 35.36,
+          "end": 35.52
+        },
+        {
+          "text": "je",
+          "start": 35.92,
+          "end": 36.08
+        },
+        {
+          "text": "suis",
+          "start": 36.08,
+          "end": 36.24
+        },
+        {
+          "text": "enceinte",
+          "start": 36.32,
+          "end": 36.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je ne voulais pas t'annoncer ça au téléphone,",
+          "zh": "我不想在电话里告诉你这件事，",
+          "start": 32.48,
+          "end": 34.08
+        },
+        {
+          "text": "mais je ne peux pas attendre :",
+          "zh": "但我等不及了：",
+          "start": 34.08,
+          "end": 35.52
+        },
+        {
+          "text": "je suis enceinte !",
+          "zh": "我怀孕了！",
+          "start": 35.92,
+          "end": 36.64
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Je vais accoucher au début du mois d'aout.",
+      "zh": "我将在八月初生孩子。",
+      "start": 37.76,
+      "end": 39.36,
+      "words": [
+        {
+          "text": "Je",
+          "start": 37.76,
+          "end": 37.84
+        },
+        {
+          "text": "vais",
+          "start": 37.84,
+          "end": 37.92
+        },
+        {
+          "text": "accoucher",
+          "start": 37.92,
+          "end": 38.4
+        },
+        {
+          "text": "au",
+          "start": 38.4,
+          "end": 38.48
+        },
+        {
+          "text": "début",
+          "start": 38.48,
+          "end": 38.88
+        },
+        {
+          "text": "du",
+          "start": 38.88,
+          "end": 38.96
+        },
+        {
+          "text": "mois",
+          "start": 38.96,
+          "end": 39.2
+        },
+        {
+          "text": "d'aout",
+          "start": 39.2,
+          "end": 39.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais accoucher",
+          "zh": "我将会生孩子",
+          "start": 37.76,
+          "end": 38.4
+        },
+        {
+          "text": "au début du mois d'aout.",
+          "zh": "在八月初。",
+          "start": 38.4,
+          "end": 39.36
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Tout se passe bien pour le moment, je suis en pleine forme.",
+      "zh": "目前一切都很顺利，我身体很好。",
+      "start": 40.56,
+      "end": 43.36,
+      "words": [
+        {
+          "text": "Tout",
+          "start": 40.56,
+          "end": 40.72
+        },
+        {
+          "text": "se",
+          "start": 40.72,
+          "end": 40.8
+        },
+        {
+          "text": "passe",
+          "start": 40.8,
+          "end": 41.12
+        },
+        {
+          "text": "bien",
+          "start": 41.12,
+          "end": 41.28
+        },
+        {
+          "text": "pour",
+          "start": 41.28,
+          "end": 41.52
+        },
+        {
+          "text": "le",
+          "start": 41.52,
+          "end": 41.6
+        },
+        {
+          "text": "moment",
+          "start": 41.6,
+          "end": 41.92
+        },
+        {
+          "text": "je",
+          "start": 42.24,
+          "end": 42.4
+        },
+        {
+          "text": "suis",
+          "start": 42.4,
+          "end": 42.4
+        },
+        {
+          "text": "en",
+          "start": 42.4,
+          "end": 42.56
+        },
+        {
+          "text": "pleine",
+          "start": 42.72,
+          "end": 42.96
+        },
+        {
+          "text": "forme",
+          "start": 42.96,
+          "end": 43.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tout se passe bien pour le moment,",
+          "zh": "目前一切都很顺利，",
+          "start": 40.56,
+          "end": 41.92
+        },
+        {
+          "text": "je suis en pleine forme.",
+          "zh": "我身体很好。",
+          "start": 42.24,
+          "end": 43.36
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "J'ai hâte de te raconter...",
+      "zh": "我迫不及待想告诉你……",
+      "start": 44.0,
+      "end": 45.2,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 44.0,
+          "end": 44.24
+        },
+        {
+          "text": "hâte",
+          "start": 44.24,
+          "end": 44.48
+        },
+        {
+          "text": "de",
+          "start": 44.48,
+          "end": 44.56
+        },
+        {
+          "text": "te",
+          "start": 44.56,
+          "end": 44.64
+        },
+        {
+          "text": "raconter",
+          "start": 44.64,
+          "end": 45.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai hâte de te raconter...",
+          "zh": "我迫不及待想告诉你……",
+          "start": 44.0,
+          "end": 45.2
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Bon, je te laisse maintenant.",
+      "zh": "好了，我现在挂了。",
+      "start": 45.84,
+      "end": 47.12,
+      "words": [
+        {
+          "text": "Bon",
+          "start": 45.84,
+          "end": 45.92
+        },
+        {
+          "text": "je",
+          "start": 46.4,
+          "end": 46.48
+        },
+        {
+          "text": "te",
+          "start": 46.48,
+          "end": 46.56
+        },
+        {
+          "text": "laisse",
+          "start": 46.56,
+          "end": 46.8
+        },
+        {
+          "text": "maintenant",
+          "start": 46.8,
+          "end": 47.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bon,",
+          "zh": "好了，",
+          "start": 45.84,
+          "end": 45.92
+        },
+        {
+          "text": "je te laisse maintenant.",
+          "zh": "我现在挂了。",
+          "start": 46.4,
+          "end": 47.12
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Rappelle-moi bientôt.",
+      "zh": "尽快给我回电话。",
+      "start": 47.76,
+      "end": 48.56,
+      "words": [
+        {
+          "text": "Rappelle",
+          "start": 47.76,
+          "end": 48.08
+        },
+        {
+          "text": "moi",
+          "start": 48.08,
+          "end": 48.16
+        },
+        {
+          "text": "bientôt",
+          "start": 48.16,
+          "end": 48.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Rappelle-moi bientôt.",
+          "zh": "尽快给我回电话。",
+          "start": 47.76,
+          "end": 48.56
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Salut, Gen.",
+      "zh": "嗨，Gen。",
+      "start": 52.56,
+      "end": 54.56,
+      "words": [
+        {
+          "text": "Salut",
+          "start": 52.56,
+          "end": 54.16
+        },
+        {
+          "text": "Gen",
+          "start": 54.16,
+          "end": 54.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Salut,",
+          "zh": "嗨，",
+          "start": 52.56,
+          "end": 54.16
+        },
+        {
+          "text": "Gen.",
+          "zh": "Gen。",
+          "start": 54.16,
+          "end": 54.56
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "C'est ton frère.",
+      "zh": "是你弟弟。",
+      "start": 55.36,
+      "end": 56.32,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 55.36,
+          "end": 55.6
+        },
+        {
+          "text": "ton",
+          "start": 55.6,
+          "end": 55.68
+        },
+        {
+          "text": "frère",
+          "start": 55.68,
+          "end": 56.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est ton frère.",
+          "zh": "是你弟弟。",
+          "start": 55.36,
+          "end": 56.32
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Je t'appelais pour savoir comment tu vas.",
+      "zh": "我打电话给你想知道你过得怎么样。",
+      "start": 57.28,
+      "end": 58.88,
+      "words": [
+        {
+          "text": "Je",
+          "start": 57.28,
+          "end": 57.36
+        },
+        {
+          "text": "t'appelais",
+          "start": 57.36,
+          "end": 57.6
+        },
+        {
+          "text": "pour",
+          "start": 57.6,
+          "end": 57.76
+        },
+        {
+          "text": "savoir",
+          "start": 57.76,
+          "end": 58.08
+        },
+        {
+          "text": "comment",
+          "start": 58.08,
+          "end": 58.32
+        },
+        {
+          "text": "tu",
+          "start": 58.32,
+          "end": 58.48
+        },
+        {
+          "text": "vas",
+          "start": 58.48,
+          "end": 58.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je t'appelais",
+          "zh": "我打电话给你",
+          "start": 57.28,
+          "end": 57.6
+        },
+        {
+          "text": "pour savoir comment tu vas.",
+          "zh": "想知道你过得怎么样。",
+          "start": 57.6,
+          "end": 58.88
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Moi, ça ne va pas super ces jours-ci.",
+      "zh": "我，最近不太好。",
+      "start": 60.4,
+      "end": 62.0,
+      "words": [
+        {
+          "text": "Moi",
+          "start": 60.4,
+          "end": 60.48
+        },
+        {
+          "text": "ça",
+          "start": 60.48,
+          "end": 60.64
+        },
+        {
+          "text": "ne",
+          "start": 60.64,
+          "end": 60.72
+        },
+        {
+          "text": "va",
+          "start": 60.72,
+          "end": 60.8
+        },
+        {
+          "text": "pas",
+          "start": 60.8,
+          "end": 60.88
+        },
+        {
+          "text": "super",
+          "start": 60.88,
+          "end": 61.28
+        },
+        {
+          "text": "ces",
+          "start": 61.36,
+          "end": 61.52
+        },
+        {
+          "text": "jours",
+          "start": 61.52,
+          "end": 61.76
+        },
+        {
+          "text": "ci",
+          "start": 61.76,
+          "end": 62.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Moi,",
+          "zh": "我，",
+          "start": 60.4,
+          "end": 60.48
+        },
+        {
+          "text": "ça ne va pas super ces jours-ci.",
+          "zh": "最近不太好。",
+          "start": 60.48,
+          "end": 62.0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Je suis pas mal déprimé.",
+      "zh": "我挺沮丧的。",
+      "start": 62.4,
+      "end": 63.28,
+      "words": [
+        {
+          "text": "Je",
+          "start": 62.4,
+          "end": 62.48
+        },
+        {
+          "text": "suis",
+          "start": 62.48,
+          "end": 62.48
+        },
+        {
+          "text": "pas",
+          "start": 62.48,
+          "end": 62.64
+        },
+        {
+          "text": "mal",
+          "start": 62.64,
+          "end": 62.8
+        },
+        {
+          "text": "déprimé",
+          "start": 62.8,
+          "end": 63.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis pas mal déprimé.",
+          "zh": "我挺沮丧的。",
+          "start": 62.4,
+          "end": 63.28
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Valérie est partie avant-hier.",
+      "zh": "Valérie前天走了。",
+      "start": 64.8,
+      "end": 66.56,
+      "words": [
+        {
+          "text": "Valérie",
+          "start": 64.8,
+          "end": 65.28
+        },
+        {
+          "text": "est",
+          "start": 65.28,
+          "end": 65.28
+        },
+        {
+          "text": "partie",
+          "start": 65.28,
+          "end": 65.76
+        },
+        {
+          "text": "avant",
+          "start": 65.76,
+          "end": 65.92
+        },
+        {
+          "text": "hier",
+          "start": 66.0,
+          "end": 66.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Valérie est partie avant-hier.",
+          "zh": "Valérie前天走了。",
+          "start": 64.8,
+          "end": 66.56
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Elle a emporté toutes ses choses.",
+      "zh": "她带走了她所有的东西。",
+      "start": 66.88,
+      "end": 68.48,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 66.88,
+          "end": 66.96
+        },
+        {
+          "text": "a",
+          "start": 67.04,
+          "end": 67.04
+        },
+        {
+          "text": "emporté",
+          "start": 67.04,
+          "end": 67.44
+        },
+        {
+          "text": "toutes",
+          "start": 67.44,
+          "end": 67.68
+        },
+        {
+          "text": "ses",
+          "start": 67.68,
+          "end": 67.92
+        },
+        {
+          "text": "choses",
+          "start": 67.92,
+          "end": 68.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle a emporté toutes ses choses.",
+          "zh": "她带走了她所有的东西。",
+          "start": 66.88,
+          "end": 68.48
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Je pense que c'est fini.",
+      "zh": "我觉得结束了。",
+      "start": 69.36,
+      "end": 70.32,
+      "words": [
+        {
+          "text": "Je",
+          "start": 69.36,
+          "end": 69.44
+        },
+        {
+          "text": "pense",
+          "start": 69.44,
+          "end": 69.68
+        },
+        {
+          "text": "que",
+          "start": 69.68,
+          "end": 69.84
+        },
+        {
+          "text": "c'est",
+          "start": 69.84,
+          "end": 70.0
+        },
+        {
+          "text": "fini",
+          "start": 70.0,
+          "end": 70.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je pense que c'est fini.",
+          "zh": "我觉得结束了。",
+          "start": 69.36,
+          "end": 70.32
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Rappelle-moi quand tu auras un peu de temps, OK ?",
+      "zh": "你有空的时候给我回电话，好吗？",
+      "start": 72.88,
+      "end": 74.8,
+      "words": [
+        {
+          "text": "Rappelle",
+          "start": 72.88,
+          "end": 73.28
+        },
+        {
+          "text": "moi",
+          "start": 73.28,
+          "end": 73.44
+        },
+        {
+          "text": "quand",
+          "start": 73.44,
+          "end": 73.6
+        },
+        {
+          "text": "tu",
+          "start": 73.68,
+          "end": 73.76
+        },
+        {
+          "text": "auras",
+          "start": 73.76,
+          "end": 73.92
+        },
+        {
+          "text": "un",
+          "start": 73.92,
+          "end": 74.08
+        },
+        {
+          "text": "peu",
+          "start": 74.08,
+          "end": 74.24
+        },
+        {
+          "text": "de",
+          "start": 74.24,
+          "end": 74.24
+        },
+        {
+          "text": "temps",
+          "start": 74.24,
+          "end": 74.64
+        },
+        {
+          "text": "OK",
+          "start": 74.64,
+          "end": 74.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Rappelle-moi",
+          "zh": "给我回电话",
+          "start": 72.88,
+          "end": 73.44
+        },
+        {
+          "text": "quand tu auras un peu de temps,",
+          "zh": "当你有点时间的时候，",
+          "start": 73.44,
+          "end": 74.64
+        },
+        {
+          "text": "OK ?",
+          "zh": "好吗？",
+          "start": 74.64,
+          "end": 74.8
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Allo ma belle !",
+      "zh": "喂，亲爱的！",
+      "start": 79.92,
+      "end": 80.64,
+      "words": [
+        {
+          "text": "Allo",
+          "start": 79.92,
+          "end": 80.16
+        },
+        {
+          "text": "ma",
+          "start": 80.16,
+          "end": 80.32
+        },
+        {
+          "text": "belle",
+          "start": 80.32,
+          "end": 80.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Allo ma belle !",
+          "zh": "喂，亲爱的！",
+          "start": 79.92,
+          "end": 80.64
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Comment ça va, la nouvelle Montréalaise ?",
+      "zh": "你好吗，新蒙特利尔人？",
+      "start": 80.8,
+      "end": 82.64,
+      "words": [
+        {
+          "text": "Comment",
+          "start": 80.8,
+          "end": 81.12
+        },
+        {
+          "text": "ça",
+          "start": 81.12,
+          "end": 81.28
+        },
+        {
+          "text": "va",
+          "start": 81.28,
+          "end": 81.52
+        },
+        {
+          "text": "la",
+          "start": 81.52,
+          "end": 81.6
+        },
+        {
+          "text": "nouvelle",
+          "start": 81.6,
+          "end": 81.92
+        },
+        {
+          "text": "Montréalaise",
+          "start": 81.92,
+          "end": 82.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Comment ça va,",
+          "zh": "你好吗，",
+          "start": 80.8,
+          "end": 81.52
+        },
+        {
+          "text": "la nouvelle Montréalaise ?",
+          "zh": "新蒙特利尔人？",
+          "start": 81.52,
+          "end": 82.64
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "J'ai hâte de te parler.",
+      "zh": "我迫不及待想跟你说话。",
+      "start": 82.88,
+      "end": 84.0,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 82.88,
+          "end": 83.12
+        },
+        {
+          "text": "hâte",
+          "start": 83.12,
+          "end": 83.28
+        },
+        {
+          "text": "de",
+          "start": 83.28,
+          "end": 83.44
+        },
+        {
+          "text": "te",
+          "start": 83.44,
+          "end": 83.52
+        },
+        {
+          "text": "parler",
+          "start": 83.52,
+          "end": 84.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai hâte de te parler.",
+          "zh": "我迫不及待想跟你说话。",
+          "start": 82.88,
+          "end": 84.0
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Moi, ça va super bien.",
+      "zh": "我，非常好。",
+      "start": 84.32,
+      "end": 85.28,
+      "words": [
+        {
+          "text": "Moi",
+          "start": 84.32,
+          "end": 84.48
+        },
+        {
+          "text": "ça",
+          "start": 84.48,
+          "end": 84.64
+        },
+        {
+          "text": "va",
+          "start": 84.64,
+          "end": 84.72
+        },
+        {
+          "text": "super",
+          "start": 84.72,
+          "end": 85.04
+        },
+        {
+          "text": "bien",
+          "start": 85.04,
+          "end": 85.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Moi,",
+          "zh": "我，",
+          "start": 84.32,
+          "end": 84.48
+        },
+        {
+          "text": "ça va super bien.",
+          "zh": "非常好。",
+          "start": 84.48,
+          "end": 85.28
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Je suis revenue de voyage hier matin.",
+      "zh": "我昨天上午旅行回来了。",
+      "start": 85.52,
+      "end": 87.04,
+      "words": [
+        {
+          "text": "Je",
+          "start": 85.52,
+          "end": 85.68
+        },
+        {
+          "text": "suis",
+          "start": 85.68,
+          "end": 85.76
+        },
+        {
+          "text": "revenue",
+          "start": 85.76,
+          "end": 86.0
+        },
+        {
+          "text": "de",
+          "start": 86.0,
+          "end": 86.08
+        },
+        {
+          "text": "voyage",
+          "start": 86.08,
+          "end": 86.48
+        },
+        {
+          "text": "hier",
+          "start": 86.48,
+          "end": 86.64
+        },
+        {
+          "text": "matin",
+          "start": 86.72,
+          "end": 87.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis revenue de voyage",
+          "zh": "我旅行回来了",
+          "start": 85.52,
+          "end": 86.48
+        },
+        {
+          "text": "hier matin.",
+          "zh": "昨天上午。",
+          "start": 86.48,
+          "end": 87.04
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "J'ai adoré l'Italie, c'était incroyable.",
+      "zh": "我很喜欢意大利，太不可思议了。",
+      "start": 87.28,
+      "end": 90.88,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 87.28,
+          "end": 87.6
+        },
+        {
+          "text": "adoré",
+          "start": 87.84,
+          "end": 88.64
+        },
+        {
+          "text": "l'Italie",
+          "start": 88.64,
+          "end": 89.28
+        },
+        {
+          "text": "c'était",
+          "start": 89.36,
+          "end": 89.84
+        },
+        {
+          "text": "incroyable",
+          "start": 90.0,
+          "end": 90.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai adoré l'Italie,",
+          "zh": "我很喜欢意大利，",
+          "start": 87.28,
+          "end": 89.28
+        },
+        {
+          "text": "c'était incroyable.",
+          "zh": "太不可思议了。",
+          "start": 89.36,
+          "end": 90.88
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "Il y a juste une chose : la compagnie aérienne a perdu ma valise au retour.",
+      "zh": "只有一件事：航空公司在回来的时候弄丢了我的行李箱。",
+      "start": 91.36,
+      "end": 94.96,
+      "words": [
+        {
+          "text": "Il",
+          "start": 91.36,
+          "end": 91.44
+        },
+        {
+          "text": "y",
+          "start": 91.44,
+          "end": 91.44
+        },
+        {
+          "text": "a",
+          "start": 91.44,
+          "end": 91.44
+        },
+        {
+          "text": "juste",
+          "start": 91.44,
+          "end": 91.68
+        },
+        {
+          "text": "une",
+          "start": 91.68,
+          "end": 91.84
+        },
+        {
+          "text": "chose",
+          "start": 91.84,
+          "end": 92.24
+        },
+        {
+          "text": "la",
+          "start": 92.48,
+          "end": 92.56
+        },
+        {
+          "text": "compagnie",
+          "start": 92.56,
+          "end": 92.96
+        },
+        {
+          "text": "aérienne",
+          "start": 93.04,
+          "end": 93.52
+        },
+        {
+          "text": "a",
+          "start": 93.52,
+          "end": 93.52
+        },
+        {
+          "text": "perdu",
+          "start": 93.52,
+          "end": 93.84
+        },
+        {
+          "text": "ma",
+          "start": 93.84,
+          "end": 94.0
+        },
+        {
+          "text": "valise",
+          "start": 94.0,
+          "end": 94.4
+        },
+        {
+          "text": "au",
+          "start": 94.4,
+          "end": 94.4
+        },
+        {
+          "text": "retour",
+          "start": 94.4,
+          "end": 94.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il y a juste une chose :",
+          "zh": "只有一件事：",
+          "start": 91.36,
+          "end": 92.24
+        },
+        {
+          "text": "la compagnie aérienne a perdu ma valise",
+          "zh": "航空公司弄丢了我的行李箱",
+          "start": 92.48,
+          "end": 94.4
+        },
+        {
+          "text": "au retour.",
+          "zh": "在回来的时候。",
+          "start": 94.4,
+          "end": 94.96
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "Je vais appeler plus tard pour voir s'ils l'ont retrouvée.",
+      "zh": "我晚点会打电话看看他们有没有找到它。",
+      "start": 95.36,
+      "end": 97.36,
+      "words": [
+        {
+          "text": "Je",
+          "start": 95.36,
+          "end": 95.44
+        },
+        {
+          "text": "vais",
+          "start": 95.44,
+          "end": 95.52
+        },
+        {
+          "text": "appeler",
+          "start": 95.52,
+          "end": 95.76
+        },
+        {
+          "text": "plus",
+          "start": 95.76,
+          "end": 95.92
+        },
+        {
+          "text": "tard",
+          "start": 95.92,
+          "end": 96.24
+        },
+        {
+          "text": "pour",
+          "start": 96.24,
+          "end": 96.32
+        },
+        {
+          "text": "voir",
+          "start": 96.32,
+          "end": 96.56
+        },
+        {
+          "text": "s'ils",
+          "start": 96.56,
+          "end": 96.72
+        },
+        {
+          "text": "l'ont",
+          "start": 96.72,
+          "end": 96.88
+        },
+        {
+          "text": "retrouvée",
+          "start": 96.88,
+          "end": 97.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais appeler plus tard",
+          "zh": "我晚点会打电话",
+          "start": 95.36,
+          "end": 96.24
+        },
+        {
+          "text": "pour voir s'ils l'ont retrouvée.",
+          "zh": "看看他们有没有找到它。",
+          "start": 96.24,
+          "end": 97.36
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "text": "L'enfer...",
+      "zh": "地狱……",
+      "start": 97.6,
+      "end": 98.32,
+      "words": [
+        {
+          "text": "L'enfer",
+          "start": 97.6,
+          "end": 98.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "L'enfer...",
+          "zh": "地狱……",
+          "start": 97.6,
+          "end": 98.32
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "text": "J'ai vu Thomas il y a quelques jours.",
+      "zh": "我几天前见到了Thomas。",
+      "start": 99.28,
+      "end": 100.96,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 99.28,
+          "end": 99.44
+        },
+        {
+          "text": "vu",
+          "start": 99.44,
+          "end": 99.6
+        },
+        {
+          "text": "Thomas",
+          "start": 99.6,
+          "end": 100.0
+        },
+        {
+          "text": "il",
+          "start": 100.0,
+          "end": 100.08
+        },
+        {
+          "text": "y",
+          "start": 100.08,
+          "end": 100.16
+        },
+        {
+          "text": "a",
+          "start": 100.16,
+          "end": 100.16
+        },
+        {
+          "text": "quelques",
+          "start": 100.16,
+          "end": 100.48
+        },
+        {
+          "text": "jours",
+          "start": 100.48,
+          "end": 100.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai vu Thomas",
+          "zh": "我见到了Thomas",
+          "start": 99.28,
+          "end": 100.0
+        },
+        {
+          "text": "il y a quelques jours.",
+          "zh": "几天前。",
+          "start": 100.0,
+          "end": 100.96
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "text": "On va aller diner tout le monde ensemble dimanche prochain, OK ?",
+      "zh": "我们下周日大家一起吃晚饭，好吗？",
+      "start": 101.36,
+      "end": 103.6,
+      "words": [
+        {
+          "text": "On",
+          "start": 101.36,
+          "end": 101.44
+        },
+        {
+          "text": "va",
+          "start": 101.44,
+          "end": 101.6
+        },
+        {
+          "text": "aller",
+          "start": 101.6,
+          "end": 101.76
+        },
+        {
+          "text": "diner",
+          "start": 101.76,
+          "end": 102.0
+        },
+        {
+          "text": "tout",
+          "start": 102.0,
+          "end": 102.16
+        },
+        {
+          "text": "le",
+          "start": 102.16,
+          "end": 102.24
+        },
+        {
+          "text": "monde",
+          "start": 102.24,
+          "end": 102.32
+        },
+        {
+          "text": "ensemble",
+          "start": 102.32,
+          "end": 102.72
+        },
+        {
+          "text": "dimanche",
+          "start": 102.72,
+          "end": 102.96
+        },
+        {
+          "text": "prochain",
+          "start": 103.04,
+          "end": 103.44
+        },
+        {
+          "text": "OK",
+          "start": 103.44,
+          "end": 103.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On va aller diner",
+          "zh": "我们要去吃晚饭",
+          "start": 101.36,
+          "end": 102.0
+        },
+        {
+          "text": "tout le monde ensemble",
+          "zh": "大家一起",
+          "start": 102.0,
+          "end": 102.72
+        },
+        {
+          "text": "dimanche prochain,",
+          "zh": "下周日，",
+          "start": 102.72,
+          "end": 103.44
+        },
+        {
+          "text": "OK ?",
+          "zh": "好吗？",
+          "start": 103.44,
+          "end": 103.6
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "text": "Bon, donne-moi des nouvelles !",
+      "zh": "好了，告诉我你的消息！",
+      "start": 104.08,
+      "end": 105.44,
+      "words": [
+        {
+          "text": "Bon",
+          "start": 104.08,
+          "end": 104.24
+        },
+        {
+          "text": "donne",
+          "start": 104.56,
+          "end": 104.8
+        },
+        {
+          "text": "moi",
+          "start": 104.8,
+          "end": 104.88
+        },
+        {
+          "text": "des",
+          "start": 104.88,
+          "end": 105.04
+        },
+        {
+          "text": "nouvelles",
+          "start": 105.04,
+          "end": 105.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bon,",
+          "zh": "好了，",
+          "start": 104.08,
+          "end": 104.24
+        },
+        {
+          "text": "donne-moi des nouvelles !",
+          "zh": "告诉我你的消息！",
+          "start": 104.56,
+          "end": 105.44
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "text": "Bye !",
+      "zh": "再见！",
+      "start": 105.68,
+      "end": 106.08,
+      "words": [
+        {
+          "text": "Bye",
+          "start": 105.68,
+          "end": 106.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bye !",
+          "zh": "再见！",
+          "start": 105.68,
+          "end": 106.08
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "text": "Salut, c'est moi.",
+      "zh": "嗨，是我。",
+      "start": 110.8,
+      "end": 111.52,
+      "words": [
+        {
+          "text": "Salut",
+          "start": 110.8,
+          "end": 111.12
+        },
+        {
+          "text": "c'est",
+          "start": 111.12,
+          "end": 111.28
+        },
+        {
+          "text": "moi",
+          "start": 111.28,
+          "end": 111.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Salut,",
+          "zh": "嗨，",
+          "start": 110.8,
+          "end": 111.12
+        },
+        {
+          "text": "c'est moi.",
+          "zh": "是我。",
+          "start": 111.12,
+          "end": 111.52
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "text": "J'espère que tu vas bien.",
+      "zh": "我希望你一切都好。",
+      "start": 112.0,
+      "end": 113.04,
+      "words": [
+        {
+          "text": "J'espère",
+          "start": 112.0,
+          "end": 112.4
+        },
+        {
+          "text": "que",
+          "start": 112.4,
+          "end": 112.48
+        },
+        {
+          "text": "tu",
+          "start": 112.48,
+          "end": 112.64
+        },
+        {
+          "text": "vas",
+          "start": 112.64,
+          "end": 112.72
+        },
+        {
+          "text": "bien",
+          "start": 112.72,
+          "end": 113.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'espère que tu vas bien.",
+          "zh": "我希望你一切都好。",
+          "start": 112.0,
+          "end": 113.04
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "text": "Je voulais juste jaser un peu.",
+      "zh": "我只是想聊聊天。",
+      "start": 113.28,
+      "end": 114.56,
+      "words": [
+        {
+          "text": "Je",
+          "start": 113.28,
+          "end": 113.36
+        },
+        {
+          "text": "voulais",
+          "start": 113.44,
+          "end": 113.68
+        },
+        {
+          "text": "juste",
+          "start": 113.68,
+          "end": 113.84
+        },
+        {
+          "text": "jaser",
+          "start": 113.84,
+          "end": 114.24
+        },
+        {
+          "text": "un",
+          "start": 114.24,
+          "end": 114.32
+        },
+        {
+          "text": "peu",
+          "start": 114.32,
+          "end": 114.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je voulais juste jaser un peu.",
+          "zh": "我只是想聊聊天。",
+          "start": 113.28,
+          "end": 114.56
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "text": "Je ne sais pas où tu es partie...",
+      "zh": "我不知道你去了哪里……",
+      "start": 115.36,
+      "end": 116.64,
+      "words": [
+        {
+          "text": "Je",
+          "start": 115.36,
+          "end": 115.68
+        },
+        {
+          "text": "ne",
+          "start": 115.68,
+          "end": 115.68
+        },
+        {
+          "text": "sais",
+          "start": 115.68,
+          "end": 115.68
+        },
+        {
+          "text": "pas",
+          "start": 115.84,
+          "end": 115.92
+        },
+        {
+          "text": "où",
+          "start": 115.92,
+          "end": 116.08
+        },
+        {
+          "text": "tu",
+          "start": 116.08,
+          "end": 116.16
+        },
+        {
+          "text": "es",
+          "start": 116.16,
+          "end": 116.16
+        },
+        {
+          "text": "partie",
+          "start": 116.16,
+          "end": 116.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je ne sais pas",
+          "zh": "我不知道",
+          "start": 115.36,
+          "end": 115.92
+        },
+        {
+          "text": "où tu es partie...",
+          "zh": "你去了哪里……",
+          "start": 115.92,
+          "end": 116.64
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "text": "Rappelle-moi ce soir ou demain.",
+      "zh": "今晚或明天给我回电话。",
+      "start": 117.28,
+      "end": 119.04,
+      "words": [
+        {
+          "text": "Rappelle",
+          "start": 117.28,
+          "end": 117.76
+        },
+        {
+          "text": "moi",
+          "start": 117.76,
+          "end": 117.92
+        },
+        {
+          "text": "ce",
+          "start": 117.92,
+          "end": 118.08
+        },
+        {
+          "text": "soir",
+          "start": 118.08,
+          "end": 118.4
+        },
+        {
+          "text": "ou",
+          "start": 118.48,
+          "end": 118.64
+        },
+        {
+          "text": "demain",
+          "start": 118.64,
+          "end": 119.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Rappelle-moi",
+          "zh": "给我回电话",
+          "start": 117.28,
+          "end": 117.92
+        },
+        {
+          "text": "ce soir ou demain.",
+          "zh": "今晚或明天。",
+          "start": 117.92,
+          "end": 119.04
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "text": "Demain avant-midi, je vais aller travailler avec mon père.",
+      "zh": "明天上午，我要去和我爸爸一起工作。",
+      "start": 119.76,
+      "end": 121.84,
+      "words": [
+        {
+          "text": "Demain",
+          "start": 119.76,
+          "end": 120.08
+        },
+        {
+          "text": "avant",
+          "start": 120.08,
+          "end": 120.32
+        },
+        {
+          "text": "midi",
+          "start": 120.32,
+          "end": 120.64
+        },
+        {
+          "text": "je",
+          "start": 120.64,
+          "end": 120.72
+        },
+        {
+          "text": "vais",
+          "start": 120.72,
+          "end": 120.8
+        },
+        {
+          "text": "aller",
+          "start": 120.8,
+          "end": 120.96
+        },
+        {
+          "text": "travailler",
+          "start": 120.96,
+          "end": 121.36
+        },
+        {
+          "text": "avec",
+          "start": 121.36,
+          "end": 121.52
+        },
+        {
+          "text": "mon",
+          "start": 121.52,
+          "end": 121.68
+        },
+        {
+          "text": "père",
+          "start": 121.68,
+          "end": 121.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Demain avant-midi,",
+          "zh": "明天上午，",
+          "start": 119.76,
+          "end": 120.64
+        },
+        {
+          "text": "je vais aller travailler avec mon père.",
+          "zh": "我要去和我爸爸一起工作。",
+          "start": 120.64,
+          "end": 121.84
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "text": "Il m'a appelé hier pour me demander de l'aider avec ses rénovations...",
+      "zh": "他昨天打电话给我让我帮他装修……",
+      "start": 122.56,
+      "end": 125.52,
+      "words": [
+        {
+          "text": "Il",
+          "start": 122.56,
+          "end": 122.72
+        },
+        {
+          "text": "m'a",
+          "start": 122.72,
+          "end": 122.88
+        },
+        {
+          "text": "appelé",
+          "start": 122.88,
+          "end": 123.12
+        },
+        {
+          "text": "hier",
+          "start": 123.12,
+          "end": 123.36
+        },
+        {
+          "text": "pour",
+          "start": 123.44,
+          "end": 123.6
+        },
+        {
+          "text": "me",
+          "start": 123.6,
+          "end": 123.68
+        },
+        {
+          "text": "demander",
+          "start": 123.68,
+          "end": 124.0
+        },
+        {
+          "text": "de",
+          "start": 124.0,
+          "end": 124.16
+        },
+        {
+          "text": "l'aider",
+          "start": 124.16,
+          "end": 124.64
+        },
+        {
+          "text": "avec",
+          "start": 124.64,
+          "end": 124.8
+        },
+        {
+          "text": "ses",
+          "start": 124.8,
+          "end": 124.96
+        },
+        {
+          "text": "rénovations",
+          "start": 124.96,
+          "end": 125.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il m'a appelé hier",
+          "zh": "他昨天打电话给我",
+          "start": 122.56,
+          "end": 123.36
+        },
+        {
+          "text": "pour me demander de l'aider",
+          "zh": "让我帮他",
+          "start": 123.44,
+          "end": 124.64
+        },
+        {
+          "text": "avec ses rénovations...",
+          "zh": "做他的装修……",
+          "start": 124.64,
+          "end": 125.52
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "text": "Je t'aime.",
+      "zh": "我爱你。",
+      "start": 126.16,
+      "end": 126.56,
+      "words": [
+        {
+          "text": "Je",
+          "start": 126.16,
+          "end": 126.32
+        },
+        {
+          "text": "t'aime",
+          "start": 126.32,
+          "end": 126.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je t'aime.",
+          "zh": "我爱你。",
+          "start": 126.16,
+          "end": 126.56
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "text": "Bye.",
+      "zh": "再见。",
+      "start": 126.88,
+      "end": 127.04,
+      "words": [
+        {
+          "text": "Bye",
+          "start": 126.88,
+          "end": 127.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bye.",
+          "zh": "再见。",
+          "start": 126.88,
+          "end": 127.04
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP04_P20",
+  "audio_filename": "FLS2_EP04_P20.mp3",
+  "audio_path": "downloads/FLS2_EP04_P20.mp3",
+  "episode": 4,
+  "piste": 20,
+  "page": 35,
+  "cd": "CD1"
+}
