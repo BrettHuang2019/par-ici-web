@@ -3,7 +3,11 @@
     {
       "id": 1,
       "text": "Épisode 4 Piste 20 Page 35",
-      "zh": "第四集 第20条音轨 第35页",
+      "translations": {
+        "zh": "第四集 第20条音轨 第35页",
+        "en": "Episode 4 Track 20 Page 35",
+        "es": "Episodio 4 Pista 20 Página 35"
+      },
       "start": 0.8,
       "end": 9.28,
       "words": [
@@ -41,19 +45,31 @@
       "chunks": [
         {
           "text": "Épisode 4",
-          "zh": "第四集",
+          "translations": {
+            "zh": "第四集",
+            "en": "Episode 4",
+            "es": "Episodio 4"
+          },
           "start": 0.8,
           "end": 3.12
         },
         {
           "text": "Piste 20",
-          "zh": "第20条音轨",
+          "translations": {
+            "zh": "第20条音轨",
+            "en": "Track 20",
+            "es": "Pista 20"
+          },
           "start": 3.12,
           "end": 4.64
         },
         {
           "text": "Page 35",
-          "zh": "第35页",
+          "translations": {
+            "zh": "第35页",
+            "en": "Page 35",
+            "es": "Página 35"
+          },
           "start": 7.44,
           "end": 9.28
         }
@@ -62,7 +78,11 @@
     {
       "id": 2,
       "text": "Allo Geneviève !",
-      "zh": "喂，Geneviève！",
+      "translations": {
+        "zh": "喂，Geneviève！",
+        "en": "Hi Geneviève!",
+        "es": "¡Hola Geneviève!"
+      },
       "start": 9.36,
       "end": 11.04,
       "words": [
@@ -80,7 +100,11 @@
       "chunks": [
         {
           "text": "Allo Geneviève !",
-          "zh": "喂，Geneviève！",
+          "translations": {
+            "zh": "喂，Geneviève！",
+            "en": "Hi Geneviève!",
+            "es": "¡Hola Geneviève!"
+          },
           "start": 9.36,
           "end": 11.04
         }
@@ -89,7 +113,11 @@
     {
       "id": 3,
       "text": "C'est moi, Fannie.",
-      "zh": "是我，Fannie。",
+      "translations": {
+        "zh": "是我，Fannie。",
+        "en": "It's me, Fannie.",
+        "es": "Soy yo, Fannie."
+      },
       "start": 11.92,
       "end": 12.8,
       "words": [
@@ -112,13 +140,21 @@
       "chunks": [
         {
           "text": "C'est moi,",
-          "zh": "是我，",
+          "translations": {
+            "zh": "是我，",
+            "en": "It's me,",
+            "es": "Soy yo,"
+          },
           "start": 11.92,
           "end": 12.4
         },
         {
           "text": "Fannie.",
-          "zh": "Fannie。",
+          "translations": {
+            "zh": "Fannie。",
+            "en": "Fannie.",
+            "es": "Fannie."
+          },
           "start": 12.4,
           "end": 12.8
         }
@@ -127,7 +163,11 @@
     {
       "id": 4,
       "text": "Comment ça va ?",
-      "zh": "你好吗？",
+      "translations": {
+        "zh": "你好吗？",
+        "en": "How are you?",
+        "es": "¿Cómo estás?"
+      },
       "start": 13.6,
       "end": 14.24,
       "words": [
@@ -150,7 +190,11 @@
       "chunks": [
         {
           "text": "Comment ça va ?",
-          "zh": "你好吗？",
+          "translations": {
+            "zh": "你好吗？",
+            "en": "How are you?",
+            "es": "¿Cómo estás?"
+          },
           "start": 13.6,
           "end": 14.24
         }
@@ -159,7 +203,11 @@
     {
       "id": 5,
       "text": "Puis, la vie à Montréal, comment tu trouves ça ?",
-      "zh": "然后，在蒙特利尔的生活，你觉得怎么样？",
+      "translations": {
+        "zh": "然后，在蒙特利尔的生活，你觉得怎么样？",
+        "en": "So, life in Montreal, how do you find it?",
+        "es": "Y, la vida en Montreal, ¿qué te parece?"
+      },
       "start": 14.96,
       "end": 17.12,
       "words": [
@@ -212,19 +260,31 @@
       "chunks": [
         {
           "text": "Puis,",
-          "zh": "然后，",
+          "translations": {
+            "zh": "然后，",
+            "en": "So,",
+            "es": "Y,"
+          },
           "start": 14.96,
           "end": 15.04
         },
         {
           "text": "la vie à Montréal,",
-          "zh": "在蒙特利尔的生活，",
+          "translations": {
+            "zh": "在蒙特利尔的生活，",
+            "en": "life in Montreal,",
+            "es": "la vida en Montreal,"
+          },
           "start": 15.2,
           "end": 16.08
         },
         {
           "text": "comment tu trouves ça ?",
-          "zh": "你觉得怎么样？",
+          "translations": {
+            "zh": "你觉得怎么样？",
+            "en": "how do you find it?",
+            "es": "¿qué te parece?"
+          },
           "start": 16.24,
           "end": 17.12
         }
@@ -233,7 +293,11 @@
     {
       "id": 6,
       "text": "Ici, tout va bien.",
-      "zh": "这里，一切都好。",
+      "translations": {
+        "zh": "这里，一切都好。",
+        "en": "Here, everything is going well.",
+        "es": "Aquí, todo va bien."
+      },
       "start": 18.24,
       "end": 18.96,
       "words": [
@@ -261,13 +325,21 @@
       "chunks": [
         {
           "text": "Ici,",
-          "zh": "这里，",
+          "translations": {
+            "zh": "这里，",
+            "en": "Here,",
+            "es": "Aquí,"
+          },
           "start": 18.24,
           "end": 18.56
         },
         {
           "text": "tout va bien.",
-          "zh": "一切都好。",
+          "translations": {
+            "zh": "一切都好。",
+            "en": "everything is going well.",
+            "es": "todo va bien."
+          },
           "start": 18.56,
           "end": 18.96
         }
@@ -276,7 +348,11 @@
     {
       "id": 7,
       "text": "Étienne a commencé à travailler pour une nouvelle compagnie il y a deux semaines.",
-      "zh": "Étienne两周前开始为一家新公司工作了。",
+      "translations": {
+        "zh": "Étienne两周前开始为一家新公司工作了。",
+        "en": "Étienne started working for a new company two weeks ago.",
+        "es": "Étienne empezó a trabajar para una nueva empresa hace dos semanas."
+      },
       "start": 19.84,
       "end": 23.04,
       "words": [
@@ -354,19 +430,31 @@
       "chunks": [
         {
           "text": "Étienne a commencé à travailler",
-          "zh": "Étienne开始工作",
+          "translations": {
+            "zh": "Étienne开始工作",
+            "en": "Étienne started working",
+            "es": "Étienne empezó a trabajar"
+          },
           "start": 19.84,
           "end": 21.36
         },
         {
           "text": "pour une nouvelle compagnie",
-          "zh": "为一家新公司",
+          "translations": {
+            "zh": "为一家新公司",
+            "en": "for a new company",
+            "es": "para una nueva empresa"
+          },
           "start": 21.36,
           "end": 22.4
         },
         {
           "text": "il y a deux semaines.",
-          "zh": "两周前。",
+          "translations": {
+            "zh": "两周前。",
+            "en": "two weeks ago.",
+            "es": "hace dos semanas."
+          },
           "start": 22.4,
           "end": 23.04
         }
@@ -375,7 +463,11 @@
     {
       "id": 8,
       "text": "Il aime beaucoup ça.",
-      "zh": "他非常喜欢。",
+      "translations": {
+        "zh": "他非常喜欢。",
+        "en": "He really likes it.",
+        "es": "Le gusta mucho."
+      },
       "start": 23.2,
       "end": 23.92,
       "words": [
@@ -403,7 +495,11 @@
       "chunks": [
         {
           "text": "Il aime beaucoup ça.",
-          "zh": "他非常喜欢。",
+          "translations": {
+            "zh": "他非常喜欢。",
+            "en": "He really likes it.",
+            "es": "Le gusta mucho."
+          },
           "start": 23.2,
           "end": 23.92
         }
@@ -412,7 +508,11 @@
     {
       "id": 9,
       "text": "À part ça, ben, on regarde pour acheter une maison, on va déménager bientôt.",
-      "zh": "除此之外，嗯，我们在看买房，我们很快要搬家了。",
+      "translations": {
+        "zh": "除此之外，嗯，我们在看买房，我们很快要搬家了。",
+        "en": "Other than that, well, we're looking to buy a house, we're going to move soon.",
+        "es": "Aparte de eso, bueno, estamos buscando comprar una casa, vamos a mudarnos pronto."
+      },
       "start": 24.96,
       "end": 29.36,
       "words": [
@@ -490,25 +590,41 @@
       "chunks": [
         {
           "text": "À part ça,",
-          "zh": "除此之外，",
+          "translations": {
+            "zh": "除此之外，",
+            "en": "Other than that,",
+            "es": "Aparte de eso,"
+          },
           "start": 24.96,
           "end": 25.52
         },
         {
           "text": "ben,",
-          "zh": "嗯，",
+          "translations": {
+            "zh": "嗯，",
+            "en": "well,",
+            "es": "bueno,"
+          },
           "start": 25.6,
           "end": 26.08
         },
         {
           "text": "on regarde pour acheter une maison,",
-          "zh": "我们在看买房，",
+          "translations": {
+            "zh": "我们在看买房，",
+            "en": "we're looking to buy a house,",
+            "es": "estamos buscando comprar una casa,"
+          },
           "start": 26.4,
           "end": 27.68
         },
         {
           "text": "on va déménager bientôt.",
-          "zh": "我们很快要搬家了。",
+          "translations": {
+            "zh": "我们很快要搬家了。",
+            "en": "we're going to move soon.",
+            "es": "vamos a mudarnos pronto."
+          },
           "start": 28.16,
           "end": 29.36
         }
@@ -517,7 +633,11 @@
     {
       "id": 10,
       "text": "Ah, je suis tellement excitée...",
-      "zh": "啊，我好兴奋……",
+      "translations": {
+        "zh": "啊，我好兴奋……",
+        "en": "Ah, I'm so excited...",
+        "es": "Ah, estoy tan emocionada..."
+      },
       "start": 29.68,
       "end": 31.84,
       "words": [
@@ -550,13 +670,21 @@
       "chunks": [
         {
           "text": "Ah,",
-          "zh": "啊，",
+          "translations": {
+            "zh": "啊，",
+            "en": "Ah,",
+            "es": "Ah,"
+          },
           "start": 29.68,
           "end": 29.68
         },
         {
           "text": "je suis tellement excitée...",
-          "zh": "我好兴奋……",
+          "translations": {
+            "zh": "我好兴奋……",
+            "en": "I'm so excited...",
+            "es": "estoy tan emocionada..."
+          },
           "start": 30.32,
           "end": 31.84
         }
@@ -565,7 +693,11 @@
     {
       "id": 11,
       "text": "Je ne voulais pas t'annoncer ça au téléphone, mais je ne peux pas attendre : je suis enceinte !",
-      "zh": "我不想在电话里告诉你这件事，但我等不及了：我怀孕了！",
+      "translations": {
+        "zh": "我不想在电话里告诉你这件事，但我等不及了：我怀孕了！",
+        "en": "I didn't want to tell you this on the phone, but I can't wait: I'm pregnant!",
+        "es": "No quería anunciártelo por teléfono, pero no puedo esperar: ¡estoy embarazada!"
+      },
       "start": 32.48,
       "end": 36.64,
       "words": [
@@ -658,19 +790,31 @@
       "chunks": [
         {
           "text": "Je ne voulais pas t'annoncer ça au téléphone,",
-          "zh": "我不想在电话里告诉你这件事，",
+          "translations": {
+            "zh": "我不想在电话里告诉你这件事，",
+            "en": "I didn't want to tell you this on the phone,",
+            "es": "No quería anunciártelo por teléfono,"
+          },
           "start": 32.48,
           "end": 34.08
         },
         {
           "text": "mais je ne peux pas attendre :",
-          "zh": "但我等不及了：",
+          "translations": {
+            "zh": "但我等不及了：",
+            "en": "but I can't wait:",
+            "es": "pero no puedo esperar:"
+          },
           "start": 34.08,
           "end": 35.52
         },
         {
           "text": "je suis enceinte !",
-          "zh": "我怀孕了！",
+          "translations": {
+            "zh": "我怀孕了！",
+            "en": "I'm pregnant!",
+            "es": "¡estoy embarazada!"
+          },
           "start": 35.92,
           "end": 36.64
         }
@@ -679,7 +823,11 @@
     {
       "id": 12,
       "text": "Je vais accoucher au début du mois d'aout.",
-      "zh": "我将在八月初生孩子。",
+      "translations": {
+        "zh": "我将在八月初生孩子。",
+        "en": "I'm going to give birth at the beginning of August.",
+        "es": "Voy a dar a luz a principios del mes de agosto."
+      },
       "start": 37.76,
       "end": 39.36,
       "words": [
@@ -727,13 +875,21 @@
       "chunks": [
         {
           "text": "Je vais accoucher",
-          "zh": "我将会生孩子",
+          "translations": {
+            "zh": "我将会生孩子",
+            "en": "I'm going to give birth",
+            "es": "Voy a dar a luz"
+          },
           "start": 37.76,
           "end": 38.4
         },
         {
           "text": "au début du mois d'aout.",
-          "zh": "在八月初。",
+          "translations": {
+            "zh": "在八月初。",
+            "en": "at the beginning of August.",
+            "es": "a principios del mes de agosto."
+          },
           "start": 38.4,
           "end": 39.36
         }
@@ -742,7 +898,11 @@
     {
       "id": 13,
       "text": "Tout se passe bien pour le moment, je suis en pleine forme.",
-      "zh": "目前一切都很顺利，我身体很好。",
+      "translations": {
+        "zh": "目前一切都很顺利，我身体很好。",
+        "en": "Everything is going well for now, I'm in great shape.",
+        "es": "Todo va bien por el momento, estoy en plena forma."
+      },
       "start": 40.56,
       "end": 43.36,
       "words": [
@@ -810,13 +970,21 @@
       "chunks": [
         {
           "text": "Tout se passe bien pour le moment,",
-          "zh": "目前一切都很顺利，",
+          "translations": {
+            "zh": "目前一切都很顺利，",
+            "en": "Everything is going well for now,",
+            "es": "Todo va bien por el momento,"
+          },
           "start": 40.56,
           "end": 41.92
         },
         {
           "text": "je suis en pleine forme.",
-          "zh": "我身体很好。",
+          "translations": {
+            "zh": "我身体很好。",
+            "en": "I'm in great shape.",
+            "es": "estoy en plena forma."
+          },
           "start": 42.24,
           "end": 43.36
         }
@@ -825,7 +993,11 @@
     {
       "id": 14,
       "text": "J'ai hâte de te raconter...",
-      "zh": "我迫不及待想告诉你……",
+      "translations": {
+        "zh": "我迫不及待想告诉你……",
+        "en": "I can't wait to tell you about it...",
+        "es": "Tengo muchas ganas de contarte..."
+      },
       "start": 44.0,
       "end": 45.2,
       "words": [
@@ -858,7 +1030,11 @@
       "chunks": [
         {
           "text": "J'ai hâte de te raconter...",
-          "zh": "我迫不及待想告诉你……",
+          "translations": {
+            "zh": "我迫不及待想告诉你……",
+            "en": "I can't wait to tell you about it...",
+            "es": "Tengo muchas ganas de contarte..."
+          },
           "start": 44.0,
           "end": 45.2
         }
@@ -867,7 +1043,11 @@
     {
       "id": 15,
       "text": "Bon, je te laisse maintenant.",
-      "zh": "好了，我现在挂了。",
+      "translations": {
+        "zh": "好了，我现在挂了。",
+        "en": "Well, I'll let you go now.",
+        "es": "Bueno, te dejo ahora."
+      },
       "start": 45.84,
       "end": 47.12,
       "words": [
@@ -900,13 +1080,21 @@
       "chunks": [
         {
           "text": "Bon,",
-          "zh": "好了，",
+          "translations": {
+            "zh": "好了，",
+            "en": "Well,",
+            "es": "Bueno,"
+          },
           "start": 45.84,
           "end": 45.92
         },
         {
           "text": "je te laisse maintenant.",
-          "zh": "我现在挂了。",
+          "translations": {
+            "zh": "我现在挂了。",
+            "en": "I'll let you go now.",
+            "es": "te dejo ahora."
+          },
           "start": 46.4,
           "end": 47.12
         }
@@ -915,7 +1103,11 @@
     {
       "id": 16,
       "text": "Rappelle-moi bientôt.",
-      "zh": "尽快给我回电话。",
+      "translations": {
+        "zh": "尽快给我回电话。",
+        "en": "Call me back soon.",
+        "es": "Lláame pronto."
+      },
       "start": 47.76,
       "end": 48.56,
       "words": [
@@ -938,7 +1130,11 @@
       "chunks": [
         {
           "text": "Rappelle-moi bientôt.",
-          "zh": "尽快给我回电话。",
+          "translations": {
+            "zh": "尽快给我回电话。",
+            "en": "Call me back soon.",
+            "es": "Lláame pronto."
+          },
           "start": 47.76,
           "end": 48.56
         }
@@ -947,7 +1143,11 @@
     {
       "id": 17,
       "text": "Salut, Gen.",
-      "zh": "嗨，Gen。",
+      "translations": {
+        "zh": "嗨，Gen。",
+        "en": "Hi, Gen.",
+        "es": "Hola, Gen."
+      },
       "start": 52.56,
       "end": 54.56,
       "words": [
@@ -965,13 +1165,21 @@
       "chunks": [
         {
           "text": "Salut,",
-          "zh": "嗨，",
+          "translations": {
+            "zh": "嗨，",
+            "en": "Hi,",
+            "es": "Hola,"
+          },
           "start": 52.56,
           "end": 54.16
         },
         {
           "text": "Gen.",
-          "zh": "Gen。",
+          "translations": {
+            "zh": "Gen。",
+            "en": "Gen.",
+            "es": "Gen."
+          },
           "start": 54.16,
           "end": 54.56
         }
@@ -980,7 +1188,11 @@
     {
       "id": 18,
       "text": "C'est ton frère.",
-      "zh": "是你弟弟。",
+      "translations": {
+        "zh": "是你弟弟。",
+        "en": "It's your brother.",
+        "es": "Es tu hermano."
+      },
       "start": 55.36,
       "end": 56.32,
       "words": [
@@ -1003,7 +1215,11 @@
       "chunks": [
         {
           "text": "C'est ton frère.",
-          "zh": "是你弟弟。",
+          "translations": {
+            "zh": "是你弟弟。",
+            "en": "It's your brother.",
+            "es": "Es tu hermano."
+          },
           "start": 55.36,
           "end": 56.32
         }
@@ -1012,7 +1228,11 @@
     {
       "id": 19,
       "text": "Je t'appelais pour savoir comment tu vas.",
-      "zh": "我打电话给你想知道你过得怎么样。",
+      "translations": {
+        "zh": "我打电话给你想知道你过得怎么样。",
+        "en": "I was calling to see how you're doing.",
+        "es": "Te llamaba para saber cómo estás."
+      },
       "start": 57.28,
       "end": 58.88,
       "words": [
@@ -1055,13 +1275,21 @@
       "chunks": [
         {
           "text": "Je t'appelais",
-          "zh": "我打电话给你",
+          "translations": {
+            "zh": "我打电话给你",
+            "en": "I was calling",
+            "es": "Te llamaba"
+          },
           "start": 57.28,
           "end": 57.6
         },
         {
           "text": "pour savoir comment tu vas.",
-          "zh": "想知道你过得怎么样。",
+          "translations": {
+            "zh": "想知道你过得怎么样。",
+            "en": "to see how you're doing.",
+            "es": "para saber cómo estás."
+          },
           "start": 57.6,
           "end": 58.88
         }
@@ -1070,7 +1298,11 @@
     {
       "id": 20,
       "text": "Moi, ça ne va pas super ces jours-ci.",
-      "zh": "我，最近不太好。",
+      "translations": {
+        "zh": "我，最近不太好。",
+        "en": "Me, things aren't going great these days.",
+        "es": "Yo, no me va muy bien estos días."
+      },
       "start": 60.4,
       "end": 62.0,
       "words": [
@@ -1123,13 +1355,21 @@
       "chunks": [
         {
           "text": "Moi,",
-          "zh": "我，",
+          "translations": {
+            "zh": "我，",
+            "en": "Me,",
+            "es": "Yo,"
+          },
           "start": 60.4,
           "end": 60.48
         },
         {
           "text": "ça ne va pas super ces jours-ci.",
-          "zh": "最近不太好。",
+          "translations": {
+            "zh": "最近不太好。",
+            "en": "things aren't going great these days.",
+            "es": "no me va muy bien estos días."
+          },
           "start": 60.48,
           "end": 62.0
         }
@@ -1138,7 +1378,11 @@
     {
       "id": 21,
       "text": "Je suis pas mal déprimé.",
-      "zh": "我挺沮丧的。",
+      "translations": {
+        "zh": "我挺沮丧的。",
+        "en": "I'm pretty depressed.",
+        "es": "Estoy bastante deprimido."
+      },
       "start": 62.4,
       "end": 63.28,
       "words": [
@@ -1171,7 +1415,11 @@
       "chunks": [
         {
           "text": "Je suis pas mal déprimé.",
-          "zh": "我挺沮丧的。",
+          "translations": {
+            "zh": "我挺沮丧的。",
+            "en": "I'm pretty depressed.",
+            "es": "Estoy bastante deprimido."
+          },
           "start": 62.4,
           "end": 63.28
         }
@@ -1180,7 +1428,11 @@
     {
       "id": 22,
       "text": "Valérie est partie avant-hier.",
-      "zh": "Valérie前天走了。",
+      "translations": {
+        "zh": "Valérie前天走了。",
+        "en": "Valérie left the day before yesterday.",
+        "es": "Valérie se fue antier."
+      },
       "start": 64.8,
       "end": 66.56,
       "words": [
@@ -1213,7 +1465,11 @@
       "chunks": [
         {
           "text": "Valérie est partie avant-hier.",
-          "zh": "Valérie前天走了。",
+          "translations": {
+            "zh": "Valérie前天走了。",
+            "en": "Valérie left the day before yesterday.",
+            "es": "Valérie se fue antier."
+          },
           "start": 64.8,
           "end": 66.56
         }
@@ -1222,7 +1478,11 @@
     {
       "id": 23,
       "text": "Elle a emporté toutes ses choses.",
-      "zh": "她带走了她所有的东西。",
+      "translations": {
+        "zh": "她带走了她所有的东西。",
+        "en": "She took all her things.",
+        "es": "Se llevó todas sus cosas."
+      },
       "start": 66.88,
       "end": 68.48,
       "words": [
@@ -1260,7 +1520,11 @@
       "chunks": [
         {
           "text": "Elle a emporté toutes ses choses.",
-          "zh": "她带走了她所有的东西。",
+          "translations": {
+            "zh": "她带走了她所有的东西。",
+            "en": "She took all her things.",
+            "es": "Se llevó todas sus cosas."
+          },
           "start": 66.88,
           "end": 68.48
         }
@@ -1269,7 +1533,11 @@
     {
       "id": 24,
       "text": "Je pense que c'est fini.",
-      "zh": "我觉得结束了。",
+      "translations": {
+        "zh": "我觉得结束了。",
+        "en": "I think it's over.",
+        "es": "Creo que se acabó."
+      },
       "start": 69.36,
       "end": 70.32,
       "words": [
@@ -1302,7 +1570,11 @@
       "chunks": [
         {
           "text": "Je pense que c'est fini.",
-          "zh": "我觉得结束了。",
+          "translations": {
+            "zh": "我觉得结束了。",
+            "en": "I think it's over.",
+            "es": "Creo que se acabó."
+          },
           "start": 69.36,
           "end": 70.32
         }
@@ -1311,7 +1583,11 @@
     {
       "id": 25,
       "text": "Rappelle-moi quand tu auras un peu de temps, OK ?",
-      "zh": "你有空的时候给我回电话，好吗？",
+      "translations": {
+        "zh": "你有空的时候给我回电话，好吗？",
+        "en": "Call me back when you have a little time, OK?",
+        "es": "Lláame cuando tengas un poco de tiempo, ¿OK?"
+      },
       "start": 72.88,
       "end": 74.8,
       "words": [
@@ -1369,19 +1645,31 @@
       "chunks": [
         {
           "text": "Rappelle-moi",
-          "zh": "给我回电话",
+          "translations": {
+            "zh": "给我回电话",
+            "en": "Call me back",
+            "es": "Lláame"
+          },
           "start": 72.88,
           "end": 73.44
         },
         {
           "text": "quand tu auras un peu de temps,",
-          "zh": "当你有点时间的时候，",
+          "translations": {
+            "zh": "当你有点时间的时候，",
+            "en": "when you have a little time,",
+            "es": "cuando tengas un poco de tiempo,"
+          },
           "start": 73.44,
           "end": 74.64
         },
         {
           "text": "OK ?",
-          "zh": "好吗？",
+          "translations": {
+            "zh": "好吗？",
+            "en": "OK?",
+            "es": "¿OK?"
+          },
           "start": 74.64,
           "end": 74.8
         }
@@ -1390,7 +1678,11 @@
     {
       "id": 26,
       "text": "Allo ma belle !",
-      "zh": "喂，亲爱的！",
+      "translations": {
+        "zh": "喂，亲爱的！",
+        "en": "Hi beautiful!",
+        "es": "¡Hola, preciosa!"
+      },
       "start": 79.92,
       "end": 80.64,
       "words": [
@@ -1413,7 +1705,11 @@
       "chunks": [
         {
           "text": "Allo ma belle !",
-          "zh": "喂，亲爱的！",
+          "translations": {
+            "zh": "喂，亲爱的！",
+            "en": "Hi beautiful!",
+            "es": "¡Hola, preciosa!"
+          },
           "start": 79.92,
           "end": 80.64
         }
@@ -1422,7 +1718,11 @@
     {
       "id": 27,
       "text": "Comment ça va, la nouvelle Montréalaise ?",
-      "zh": "你好吗，新蒙特利尔人？",
+      "translations": {
+        "zh": "你好吗，新蒙特利尔人？",
+        "en": "How are you, the new Montrealer?",
+        "es": "¿Cómo estás, la nueva montrealésa?"
+      },
       "start": 80.8,
       "end": 82.64,
       "words": [
@@ -1460,13 +1760,21 @@
       "chunks": [
         {
           "text": "Comment ça va,",
-          "zh": "你好吗，",
+          "translations": {
+            "zh": "你好吗，",
+            "en": "How are you,",
+            "es": "¿Cómo estás,"
+          },
           "start": 80.8,
           "end": 81.52
         },
         {
           "text": "la nouvelle Montréalaise ?",
-          "zh": "新蒙特利尔人？",
+          "translations": {
+            "zh": "新蒙特利尔人？",
+            "en": "the new Montrealer?",
+            "es": "la nueva montrealésa?"
+          },
           "start": 81.52,
           "end": 82.64
         }
@@ -1475,7 +1783,11 @@
     {
       "id": 28,
       "text": "J'ai hâte de te parler.",
-      "zh": "我迫不及待想跟你说话。",
+      "translations": {
+        "zh": "我迫不及待想跟你说话。",
+        "en": "I can't wait to talk to you.",
+        "es": "Tengo muchas ganas de hablar contigo."
+      },
       "start": 82.88,
       "end": 84.0,
       "words": [
@@ -1508,7 +1820,11 @@
       "chunks": [
         {
           "text": "J'ai hâte de te parler.",
-          "zh": "我迫不及待想跟你说话。",
+          "translations": {
+            "zh": "我迫不及待想跟你说话。",
+            "en": "I can't wait to talk to you.",
+            "es": "Tengo muchas ganas de hablar contigo."
+          },
           "start": 82.88,
           "end": 84.0
         }
@@ -1517,7 +1833,11 @@
     {
       "id": 29,
       "text": "Moi, ça va super bien.",
-      "zh": "我，非常好。",
+      "translations": {
+        "zh": "我，非常好。",
+        "en": "Me, things are going really well.",
+        "es": "Yo, me va súper bien."
+      },
       "start": 84.32,
       "end": 85.28,
       "words": [
@@ -1550,13 +1870,21 @@
       "chunks": [
         {
           "text": "Moi,",
-          "zh": "我，",
+          "translations": {
+            "zh": "我，",
+            "en": "Me,",
+            "es": "Yo,"
+          },
           "start": 84.32,
           "end": 84.48
         },
         {
           "text": "ça va super bien.",
-          "zh": "非常好。",
+          "translations": {
+            "zh": "非常好。",
+            "en": "things are going really well.",
+            "es": "me va súper bien."
+          },
           "start": 84.48,
           "end": 85.28
         }
@@ -1565,7 +1893,11 @@
     {
       "id": 30,
       "text": "Je suis revenue de voyage hier matin.",
-      "zh": "我昨天上午旅行回来了。",
+      "translations": {
+        "zh": "我昨天上午旅行回来了。",
+        "en": "I got back from my trip yesterday morning.",
+        "es": "Volví de viaje ayer por la mañana."
+      },
       "start": 85.52,
       "end": 87.04,
       "words": [
@@ -1608,13 +1940,21 @@
       "chunks": [
         {
           "text": "Je suis revenue de voyage",
-          "zh": "我旅行回来了",
+          "translations": {
+            "zh": "我旅行回来了",
+            "en": "I got back from my trip",
+            "es": "Volví de viaje"
+          },
           "start": 85.52,
           "end": 86.48
         },
         {
           "text": "hier matin.",
-          "zh": "昨天上午。",
+          "translations": {
+            "zh": "昨天上午。",
+            "en": "yesterday morning.",
+            "es": "ayer por la mañana."
+          },
           "start": 86.48,
           "end": 87.04
         }
@@ -1623,7 +1963,11 @@
     {
       "id": 31,
       "text": "J'ai adoré l'Italie, c'était incroyable.",
-      "zh": "我很喜欢意大利，太不可思议了。",
+      "translations": {
+        "zh": "我很喜欢意大利，太不可思议了。",
+        "en": "I loved Italy, it was incredible.",
+        "es": "Me encantó Italia, fue increíble."
+      },
       "start": 87.28,
       "end": 90.88,
       "words": [
@@ -1656,13 +2000,21 @@
       "chunks": [
         {
           "text": "J'ai adoré l'Italie,",
-          "zh": "我很喜欢意大利，",
+          "translations": {
+            "zh": "我很喜欢意大利，",
+            "en": "I loved Italy,",
+            "es": "Me encantó Italia,"
+          },
           "start": 87.28,
           "end": 89.28
         },
         {
           "text": "c'était incroyable.",
-          "zh": "太不可思议了。",
+          "translations": {
+            "zh": "太不可思议了。",
+            "en": "it was incredible.",
+            "es": "fue increíble."
+          },
           "start": 89.36,
           "end": 90.88
         }
@@ -1671,7 +2023,11 @@
     {
       "id": 32,
       "text": "Il y a juste une chose : la compagnie aérienne a perdu ma valise au retour.",
-      "zh": "只有一件事：航空公司在回来的时候弄丢了我的行李箱。",
+      "translations": {
+        "zh": "只有一件事：航空公司在回来的时候弄丢了我的行李箱。",
+        "en": "There's just one thing: the airline lost my suitcase on the way back.",
+        "es": "Hay solo una cosa: la aerolínea perdió mi maleta a la vuelta."
+      },
       "start": 91.36,
       "end": 94.96,
       "words": [
@@ -1754,19 +2110,31 @@
       "chunks": [
         {
           "text": "Il y a juste une chose :",
-          "zh": "只有一件事：",
+          "translations": {
+            "zh": "只有一件事：",
+            "en": "There's just one thing:",
+            "es": "Hay solo una cosa:"
+          },
           "start": 91.36,
           "end": 92.24
         },
         {
           "text": "la compagnie aérienne a perdu ma valise",
-          "zh": "航空公司弄丢了我的行李箱",
+          "translations": {
+            "zh": "航空公司弄丢了我的行李箱",
+            "en": "the airline lost my suitcase",
+            "es": "la aerolínea perdió mi maleta"
+          },
           "start": 92.48,
           "end": 94.4
         },
         {
           "text": "au retour.",
-          "zh": "在回来的时候。",
+          "translations": {
+            "zh": "在回来的时候。",
+            "en": "on the way back.",
+            "es": "a la vuelta."
+          },
           "start": 94.4,
           "end": 94.96
         }
@@ -1775,7 +2143,11 @@
     {
       "id": 33,
       "text": "Je vais appeler plus tard pour voir s'ils l'ont retrouvée.",
-      "zh": "我晚点会打电话看看他们有没有找到它。",
+      "translations": {
+        "zh": "我晚点会打电话看看他们有没有找到它。",
+        "en": "I'm going to call later to see if they've found it.",
+        "es": "Voy a llamar más tarde para ver si la encontraron."
+      },
       "start": 95.36,
       "end": 97.36,
       "words": [
@@ -1833,13 +2205,21 @@
       "chunks": [
         {
           "text": "Je vais appeler plus tard",
-          "zh": "我晚点会打电话",
+          "translations": {
+            "zh": "我晚点会打电话",
+            "en": "I'm going to call later",
+            "es": "Voy a llamar más tarde"
+          },
           "start": 95.36,
           "end": 96.24
         },
         {
           "text": "pour voir s'ils l'ont retrouvée.",
-          "zh": "看看他们有没有找到它。",
+          "translations": {
+            "zh": "看看他们有没有找到它。",
+            "en": "to see if they've found it.",
+            "es": "para ver si la encontraron."
+          },
           "start": 96.24,
           "end": 97.36
         }
@@ -1848,7 +2228,11 @@
     {
       "id": 34,
       "text": "L'enfer...",
-      "zh": "地狱……",
+      "translations": {
+        "zh": "地狱……",
+        "en": "Hell...",
+        "es": "El infierno..."
+      },
       "start": 97.6,
       "end": 98.32,
       "words": [
@@ -1861,7 +2245,11 @@
       "chunks": [
         {
           "text": "L'enfer...",
-          "zh": "地狱……",
+          "translations": {
+            "zh": "地狱……",
+            "en": "Hell...",
+            "es": "El infierno..."
+          },
           "start": 97.6,
           "end": 98.32
         }
@@ -1870,7 +2258,11 @@
     {
       "id": 35,
       "text": "J'ai vu Thomas il y a quelques jours.",
-      "zh": "我几天前见到了Thomas。",
+      "translations": {
+        "zh": "我几天前见到了Thomas。",
+        "en": "I saw Thomas a few days ago.",
+        "es": "Vi a Thomas hace unos días."
+      },
       "start": 99.28,
       "end": 100.96,
       "words": [
@@ -1918,13 +2310,21 @@
       "chunks": [
         {
           "text": "J'ai vu Thomas",
-          "zh": "我见到了Thomas",
+          "translations": {
+            "zh": "我见到了Thomas",
+            "en": "I saw Thomas",
+            "es": "Vi a Thomas"
+          },
           "start": 99.28,
           "end": 100.0
         },
         {
           "text": "il y a quelques jours.",
-          "zh": "几天前。",
+          "translations": {
+            "zh": "几天前。",
+            "en": "a few days ago.",
+            "es": "hace unos días."
+          },
           "start": 100.0,
           "end": 100.96
         }
@@ -1933,7 +2333,11 @@
     {
       "id": 36,
       "text": "On va aller diner tout le monde ensemble dimanche prochain, OK ?",
-      "zh": "我们下周日大家一起吃晚饭，好吗？",
+      "translations": {
+        "zh": "我们下周日大家一起吃晚饭，好吗？",
+        "en": "We're all going to have dinner together next Sunday, OK?",
+        "es": "Vamos a ir a cenar todos juntos el domingo que viene, ¿OK?"
+      },
       "start": 101.36,
       "end": 103.6,
       "words": [
@@ -1996,25 +2400,41 @@
       "chunks": [
         {
           "text": "On va aller diner",
-          "zh": "我们要去吃晚饭",
+          "translations": {
+            "zh": "我们要去吃晚饭",
+            "en": "We're going to go have dinner",
+            "es": "Vamos a ir a cenar"
+          },
           "start": 101.36,
           "end": 102.0
         },
         {
           "text": "tout le monde ensemble",
-          "zh": "大家一起",
+          "translations": {
+            "zh": "大家一起",
+            "en": "all together",
+            "es": "todos juntos"
+          },
           "start": 102.0,
           "end": 102.72
         },
         {
           "text": "dimanche prochain,",
-          "zh": "下周日，",
+          "translations": {
+            "zh": "下周日，",
+            "en": "next Sunday,",
+            "es": "el domingo que viene,"
+          },
           "start": 102.72,
           "end": 103.44
         },
         {
           "text": "OK ?",
-          "zh": "好吗？",
+          "translations": {
+            "zh": "好吗？",
+            "en": "OK?",
+            "es": "¿OK?"
+          },
           "start": 103.44,
           "end": 103.6
         }
@@ -2023,7 +2443,11 @@
     {
       "id": 37,
       "text": "Bon, donne-moi des nouvelles !",
-      "zh": "好了，告诉我你的消息！",
+      "translations": {
+        "zh": "好了，告诉我你的消息！",
+        "en": "Well, give me some news!",
+        "es": "Bueno, ¡dame noticias!"
+      },
       "start": 104.08,
       "end": 105.44,
       "words": [
@@ -2056,13 +2480,21 @@
       "chunks": [
         {
           "text": "Bon,",
-          "zh": "好了，",
+          "translations": {
+            "zh": "好了，",
+            "en": "Well,",
+            "es": "Bueno,"
+          },
           "start": 104.08,
           "end": 104.24
         },
         {
           "text": "donne-moi des nouvelles !",
-          "zh": "告诉我你的消息！",
+          "translations": {
+            "zh": "告诉我你的消息！",
+            "en": "give me some news!",
+            "es": "¡dame noticias!"
+          },
           "start": 104.56,
           "end": 105.44
         }
@@ -2071,7 +2503,11 @@
     {
       "id": 38,
       "text": "Bye !",
-      "zh": "再见！",
+      "translations": {
+        "zh": "再见！",
+        "en": "Bye!",
+        "es": "¡Adiós!"
+      },
       "start": 105.68,
       "end": 106.08,
       "words": [
@@ -2084,7 +2520,11 @@
       "chunks": [
         {
           "text": "Bye !",
-          "zh": "再见！",
+          "translations": {
+            "zh": "再见！",
+            "en": "Bye!",
+            "es": "¡Adiós!"
+          },
           "start": 105.68,
           "end": 106.08
         }
@@ -2093,7 +2533,11 @@
     {
       "id": 39,
       "text": "Salut, c'est moi.",
-      "zh": "嗨，是我。",
+      "translations": {
+        "zh": "嗨，是我。",
+        "en": "Hi, it's me.",
+        "es": "Hola, soy yo."
+      },
       "start": 110.8,
       "end": 111.52,
       "words": [
@@ -2116,13 +2560,21 @@
       "chunks": [
         {
           "text": "Salut,",
-          "zh": "嗨，",
+          "translations": {
+            "zh": "嗨，",
+            "en": "Hi,",
+            "es": "Hola,"
+          },
           "start": 110.8,
           "end": 111.12
         },
         {
           "text": "c'est moi.",
-          "zh": "是我。",
+          "translations": {
+            "zh": "是我。",
+            "en": "it's me.",
+            "es": "soy yo."
+          },
           "start": 111.12,
           "end": 111.52
         }
@@ -2131,7 +2583,11 @@
     {
       "id": 40,
       "text": "J'espère que tu vas bien.",
-      "zh": "我希望你一切都好。",
+      "translations": {
+        "zh": "我希望你一切都好。",
+        "en": "I hope you're doing well.",
+        "es": "Espero que estés bien."
+      },
       "start": 112.0,
       "end": 113.04,
       "words": [
@@ -2164,7 +2620,11 @@
       "chunks": [
         {
           "text": "J'espère que tu vas bien.",
-          "zh": "我希望你一切都好。",
+          "translations": {
+            "zh": "我希望你一切都好。",
+            "en": "I hope you're doing well.",
+            "es": "Espero que estés bien."
+          },
           "start": 112.0,
           "end": 113.04
         }
@@ -2173,7 +2633,11 @@
     {
       "id": 41,
       "text": "Je voulais juste jaser un peu.",
-      "zh": "我只是想聊聊天。",
+      "translations": {
+        "zh": "我只是想聊聊天。",
+        "en": "I just wanted to chat a bit.",
+        "es": "Solo quería charlar un poco."
+      },
       "start": 113.28,
       "end": 114.56,
       "words": [
@@ -2211,7 +2675,11 @@
       "chunks": [
         {
           "text": "Je voulais juste jaser un peu.",
-          "zh": "我只是想聊聊天。",
+          "translations": {
+            "zh": "我只是想聊聊天。",
+            "en": "I just wanted to chat a bit.",
+            "es": "Solo quería charlar un poco."
+          },
           "start": 113.28,
           "end": 114.56
         }
@@ -2220,7 +2688,11 @@
     {
       "id": 42,
       "text": "Je ne sais pas où tu es partie...",
-      "zh": "我不知道你去了哪里……",
+      "translations": {
+        "zh": "我不知道你去了哪里……",
+        "en": "I don't know where you went...",
+        "es": "No sé adónde te fuiste..."
+      },
       "start": 115.36,
       "end": 116.64,
       "words": [
@@ -2268,13 +2740,21 @@
       "chunks": [
         {
           "text": "Je ne sais pas",
-          "zh": "我不知道",
+          "translations": {
+            "zh": "我不知道",
+            "en": "I don't know",
+            "es": "No sé"
+          },
           "start": 115.36,
           "end": 115.92
         },
         {
           "text": "où tu es partie...",
-          "zh": "你去了哪里……",
+          "translations": {
+            "zh": "你去了哪里……",
+            "en": "where you went...",
+            "es": "adónde te fuiste..."
+          },
           "start": 115.92,
           "end": 116.64
         }
@@ -2283,7 +2763,11 @@
     {
       "id": 43,
       "text": "Rappelle-moi ce soir ou demain.",
-      "zh": "今晚或明天给我回电话。",
+      "translations": {
+        "zh": "今晚或明天给我回电话。",
+        "en": "Call me back tonight or tomorrow.",
+        "es": "Lláame esta noche o mañana."
+      },
       "start": 117.28,
       "end": 119.04,
       "words": [
@@ -2321,13 +2805,21 @@
       "chunks": [
         {
           "text": "Rappelle-moi",
-          "zh": "给我回电话",
+          "translations": {
+            "zh": "给我回电话",
+            "en": "Call me back",
+            "es": "Lláame"
+          },
           "start": 117.28,
           "end": 117.92
         },
         {
           "text": "ce soir ou demain.",
-          "zh": "今晚或明天。",
+          "translations": {
+            "zh": "今晚或明天。",
+            "en": "tonight or tomorrow.",
+            "es": "esta noche o mañana."
+          },
           "start": 117.92,
           "end": 119.04
         }
@@ -2336,7 +2828,11 @@
     {
       "id": 44,
       "text": "Demain avant-midi, je vais aller travailler avec mon père.",
-      "zh": "明天上午，我要去和我爸爸一起工作。",
+      "translations": {
+        "zh": "明天上午，我要去和我爸爸一起工作。",
+        "en": "Tomorrow morning, I'm going to go work with my dad.",
+        "es": "Mañana por la mañana, voy a ir a trabajar con mi padre."
+      },
       "start": 119.76,
       "end": 121.84,
       "words": [
@@ -2394,13 +2890,21 @@
       "chunks": [
         {
           "text": "Demain avant-midi,",
-          "zh": "明天上午，",
+          "translations": {
+            "zh": "明天上午，",
+            "en": "Tomorrow morning,",
+            "es": "Mañana por la mañana,"
+          },
           "start": 119.76,
           "end": 120.64
         },
         {
           "text": "je vais aller travailler avec mon père.",
-          "zh": "我要去和我爸爸一起工作。",
+          "translations": {
+            "zh": "我要去和我爸爸一起工作。",
+            "en": "I'm going to go work with my dad.",
+            "es": "voy a ir a trabajar con mi padre."
+          },
           "start": 120.64,
           "end": 121.84
         }
@@ -2409,7 +2913,11 @@
     {
       "id": 45,
       "text": "Il m'a appelé hier pour me demander de l'aider avec ses rénovations...",
-      "zh": "他昨天打电话给我让我帮他装修……",
+      "translations": {
+        "zh": "他昨天打电话给我让我帮他装修……",
+        "en": "He called me yesterday to ask me to help him with his renovations...",
+        "es": "Me llamó ayer para pedirme que lo ayude con sus renovaciones..."
+      },
       "start": 122.56,
       "end": 125.52,
       "words": [
@@ -2477,19 +2985,31 @@
       "chunks": [
         {
           "text": "Il m'a appelé hier",
-          "zh": "他昨天打电话给我",
+          "translations": {
+            "zh": "他昨天打电话给我",
+            "en": "He called me yesterday",
+            "es": "Me llamó ayer"
+          },
           "start": 122.56,
           "end": 123.36
         },
         {
           "text": "pour me demander de l'aider",
-          "zh": "让我帮他",
+          "translations": {
+            "zh": "让我帮他",
+            "en": "to ask me to help him",
+            "es": "para pedirme que lo ayude"
+          },
           "start": 123.44,
           "end": 124.64
         },
         {
           "text": "avec ses rénovations...",
-          "zh": "做他的装修……",
+          "translations": {
+            "zh": "做他的装修……",
+            "en": "with his renovations...",
+            "es": "con sus renovaciones..."
+          },
           "start": 124.64,
           "end": 125.52
         }
@@ -2498,7 +3018,11 @@
     {
       "id": 46,
       "text": "Je t'aime.",
-      "zh": "我爱你。",
+      "translations": {
+        "zh": "我爱你。",
+        "en": "I love you.",
+        "es": "Te amo."
+      },
       "start": 126.16,
       "end": 126.56,
       "words": [
@@ -2516,7 +3040,11 @@
       "chunks": [
         {
           "text": "Je t'aime.",
-          "zh": "我爱你。",
+          "translations": {
+            "zh": "我爱你。",
+            "en": "I love you.",
+            "es": "Te amo."
+          },
           "start": 126.16,
           "end": 126.56
         }
@@ -2525,7 +3053,11 @@
     {
       "id": 47,
       "text": "Bye.",
-      "zh": "再见。",
+      "translations": {
+        "zh": "再见。",
+        "en": "Bye.",
+        "es": "Adiós."
+      },
       "start": 126.88,
       "end": 127.04,
       "words": [
@@ -2538,7 +3070,11 @@
       "chunks": [
         {
           "text": "Bye.",
-          "zh": "再见。",
+          "translations": {
+            "zh": "再见。",
+            "en": "Bye.",
+            "es": "Adiós."
+          },
           "start": 126.88,
           "end": 127.04
         }

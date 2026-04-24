@@ -1,11 +1,14 @@
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import type { ManifestData, Sentence } from '../lib/types';
+import type { LanguageCode, ManifestData, Sentence } from '../lib/types';
 import { LessonCard } from '../components/LessonCard';
+import { usePlayerStore } from '../store/player';
+import { SUPPORTED_LANGUAGES } from '../lib/translations';
 
 export function Home() {
   const [manifest, setManifest] = useState<ManifestData | null>(null);
   const [pisteData, setPisteData] = useState<Record<string, Sentence[]>>({});
+  const { translationLanguage, setTranslationLanguage } = usePlayerStore();
 
   useEffect(() => {
     fetch('/data/manifest.json')
@@ -36,12 +39,27 @@ export function Home() {
     <div className="min-h-screen bg-gray-950 text-white p-4 max-w-4xl mx-auto">
       <div className="flex items-center justify-between mb-6 pt-4">
         <h1 className="text-2xl font-bold">Par Ici</h1>
-        <Link
-          to="/practice"
-          className="px-3 py-1.5 rounded-lg bg-purple-800 hover:bg-purple-700 text-sm font-medium"
-        >
-          Practice
-        </Link>
+        <div className="flex items-center gap-2">
+          <select
+            value={translationLanguage}
+            onChange={(event) => setTranslationLanguage(event.target.value as LanguageCode)}
+            className="h-8 rounded border border-gray-700 bg-gray-900 px-2 text-sm text-gray-100"
+            title="Translation language"
+            aria-label="Translation language"
+          >
+            {SUPPORTED_LANGUAGES.map(language => (
+              <option key={language.code} value={language.code}>
+                {language.label}
+              </option>
+            ))}
+          </select>
+          <Link
+            to="/practice"
+            className="px-3 py-1.5 rounded-lg bg-purple-800 hover:bg-purple-700 text-sm font-medium"
+          >
+            Practice
+          </Link>
+        </div>
       </div>
       {manifest.episodes.map(ep => (
         <div key={ep.id} className="mb-6">

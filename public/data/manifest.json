@@ -1,12 +1,95 @@
 {
   "episodes": [
     {
+      "id": 1,
+      "pistes": [
+        {
+          "episode": 1,
+          "piste": 1,
+          "title": "Piste 1",
+          "audio": "/audio/FLS2_EP01_P1.mp3",
+          "data": "/data/FLS2_EP01_P1.final.json"
+        },
+        {
+          "episode": 1,
+          "piste": 2,
+          "title": "Piste 2",
+          "audio": "/audio/FLS2_EP01_P2.mp3",
+          "data": "/data/FLS2_EP01_P2.final.json"
+        },
+        {
+          "episode": 1,
+          "piste": 7,
+          "title": "Piste 7",
+          "audio": "/audio/FLS2_EP01_P7.mp3",
+          "data": "/data/FLS2_EP01_P7.final.json"
+        }
+      ]
+    },
+    {
       "id": 4,
       "pistes": [
-        { "episode": 4, "piste": 19, "title": "Piste 19", "audio": "/audio/FLS2_EP04_P19.mp3", "data": "/data/FLS2_EP04_P19.final.json" },
-        { "episode": 4, "piste": 20, "title": "Piste 20", "audio": "/audio/FLS2_EP04_P20.mp3", "data": "/data/FLS2_EP04_P20.final.json" },
-        { "episode": 4, "piste": 21, "title": "Piste 21", "audio": "/audio/FLS2_EP04_P21.mp3", "data": "/data/FLS2_EP04_P21.final.json" },
-        { "episode": 4, "piste": 22, "title": "Piste 22", "audio": "/audio/FLS2_EP04_P22.mp3", "data": "/data/FLS2_EP04_P22.final.json" }
+        {
+          "episode": 4,
+          "piste": 19,
+          "title": "Piste 19",
+          "audio": "/audio/FLS2_EP04_P19.mp3",
+          "data": "/data/FLS2_EP04_P19.final.json"
+        },
+        {
+          "episode": 4,
+          "piste": 20,
+          "title": "Piste 20",
+          "audio": "/audio/FLS2_EP04_P20.mp3",
+          "data": "/data/FLS2_EP04_P20.final.json"
+        },
+        {
+          "episode": 4,
+          "piste": 21,
+          "title": "Piste 21",
+          "audio": "/audio/FLS2_EP04_P21.mp3",
+          "data": "/data/FLS2_EP04_P21.final.json"
+        },
+        {
+          "episode": 4,
+          "piste": 22,
+          "title": "Piste 22",
+          "audio": "/audio/FLS2_EP04_P22.mp3",
+          "data": "/data/FLS2_EP04_P22.final.json"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "pistes": [
+        {
+          "episode": 5,
+          "piste": 23,
+          "title": "Piste 23",
+          "audio": "/audio/FLS2_EP05_P23.mp3",
+          "data": "/data/FLS2_EP05_P23.final.json"
+        },
+        {
+          "episode": 5,
+          "piste": 24,
+          "title": "Piste 24",
+          "audio": "/audio/FLS2_EP05_P24.mp3",
+          "data": "/data/FLS2_EP05_P24.final.json"
+        },
+        {
+          "episode": 5,
+          "piste": 25,
+          "title": "Piste 25",
+          "audio": "/audio/FLS2_EP05_P25.mp3",
+          "data": "/data/FLS2_EP05_P25.final.json"
+        },
+        {
+          "episode": 5,
+          "piste": 26,
+          "title": "Piste 26",
+          "audio": "/audio/FLS2_EP05_P26.mp3",
+          "data": "/data/FLS2_EP05_P26.final.json"
+        }
       ]
     }
   ]

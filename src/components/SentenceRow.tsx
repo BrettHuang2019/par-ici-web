@@ -1,10 +1,11 @@
 import { useRef, useEffect, useState } from 'react';
-import type { Sentence, Chunk } from '../lib/types';
+import type { Sentence, Chunk, LanguageCode } from '../lib/types';
 import { ChunkBox } from './ChunkBox';
 import { useProgressStore, sentenceKey } from '../store/progress';
 import { useRedWordsStore } from '../store/redWords';
 import { findActiveWord, findActiveChunk, findChunkForWord } from '../lib/timing';
 import { usePlayerStore } from '../store/player';
+import { getTranslation } from '../lib/translations';
 
 type WordState = 'hidden' | 'revealed' | 'red';
 
@@ -15,11 +16,22 @@ type Props = {
   piste: number;
   onChunkClick: (chunk: Chunk) => void;
   onSentenceClick: (start: number, end: number) => void;
-  zhMode: number;
+  translationMode: 0 | 1 | 2 | 3;
+  translationLanguage: LanguageCode;
   practiceMode?: boolean;
 };
 
-export function SentenceRow({ sentence, isActive, ep, piste, onChunkClick, onSentenceClick, zhMode, practiceMode = false }: Props) {
+export function SentenceRow({
+  sentence,
+  isActive,
+  ep,
+  piste,
+  onChunkClick,
+  onSentenceClick,
+  translationMode,
+  translationLanguage,
+  practiceMode = false,
+}: Props) {
   const key = sentenceKey(ep, piste, sentence.id);
   const { getProgress, setStatus, setRevealed } = useProgressStore();
   const { isRed, addRed, clearSentenceReds } = useRedWordsStore();
@@ -53,6 +65,7 @@ export function SentenceRow({ sentence, isActive, ep, piste, onChunkClick, onSen
 
   const activeWordIdx = isActive ? findActiveWord(sentence.words, currentTime) : -1;
   const activeChunkIdx = isActive ? findActiveChunk(sentence.chunks, currentTime) : -1;
+  const sentenceTranslation = getTranslation(sentence.translations, translationLanguage);
 
   const wordToChunk = sentence.words.map(w => findChunkForWord(sentence.chunks, w.start) ?? sentence.chunks[0]);
 
@@ -143,7 +156,8 @@ export function SentenceRow({ sentence, isActive, ep, piste, onChunkClick, onSen
                 wordStates={localWordStates}
                 onWordStateChange={handleWordStateChange}
                 onChunkClick={onChunkClick}
-                zhMode={zhMode}
+                translationMode={translationMode}
+                translationLanguage={translationLanguage}
                 ep={ep}
                 piste={piste}
                 sentenceId={sentence.id}
@@ -151,8 +165,8 @@ export function SentenceRow({ sentence, isActive, ep, piste, onChunkClick, onSen
             );
           })}
         </div>
-        {(zhMode === 1 || zhMode === 2 || effectiveRevealed) && (
-          <div className="text-xs text-yellow-300/70 mt-1.5 pl-0.5">{sentence.zh}</div>
+        {(translationMode === 1 || translationMode === 2 || effectiveRevealed) && sentenceTranslation && (
+          <div className="text-xs text-yellow-300/70 mt-1.5 pl-0.5">{sentenceTranslation}</div>
         )}
       </div>
 

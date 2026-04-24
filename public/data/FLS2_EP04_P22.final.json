@@ -3,7 +3,11 @@
     {
       "id": 1,
       "text": "Épisode 4 Piste 22 Page 40",
-      "zh": "第4集 第22轨 第40页",
+      "translations": {
+        "zh": "第4集 第22轨 第40页",
+        "en": "Episode 4 Track 22 Page 40",
+        "es": "Episodio 4 Pista 22 Página 40"
+      },
       "start": 0.8,
       "end": 7.84,
       "words": [
@@ -41,19 +45,31 @@
       "chunks": [
         {
           "text": "Épisode 4 ",
-          "zh": "第4集 ",
+          "translations": {
+            "zh": "第4集 ",
+            "en": "Episode 4 ",
+            "es": "Episodio 4 "
+          },
           "start": 0.8,
           "end": 2.16
         },
         {
           "text": "Piste 22 ",
-          "zh": "第22轨 ",
+          "translations": {
+            "zh": "第22轨 ",
+            "en": "Track 22 ",
+            "es": "Pista 22 "
+          },
           "start": 3.2,
           "end": 4.72
         },
         {
           "text": "Page 40",
-          "zh": "第40页",
+          "translations": {
+            "zh": "第40页",
+            "en": "Page 40",
+            "es": "Página 40"
+          },
           "start": 6.72,
           "end": 7.84
         }
@@ -62,7 +78,11 @@
     {
       "id": 2,
       "text": "Depuis que je suis arrivée, j'ai visité plein d'endroits avec Thomas et Marie-France.",
-      "zh": "自从我到了以后，我和托马斯还有玛丽-弗朗斯参观了很多地方。",
+      "translations": {
+        "zh": "自从我到了以后，我和托马斯还有玛丽-弗朗斯参观了很多地方。",
+        "en": "Since I arrived, I've visited lots of places with Thomas and Marie-France.",
+        "es": "Desde que llegué, he visitado un montón de lugares con Thomas y Marie-France."
+      },
       "start": 9.76,
       "end": 13.12,
       "words": [
@@ -140,19 +160,31 @@
       "chunks": [
         {
           "text": "Depuis que je suis arrivée, ",
-          "zh": "自从我到了以后，",
+          "translations": {
+            "zh": "自从我到了以后，",
+            "en": "Since I arrived, ",
+            "es": "Desde que llegué, "
+          },
           "start": 9.76,
           "end": 10.64
         },
         {
           "text": "j'ai visité plein d'endroits ",
-          "zh": "我参观了很多地方 ",
+          "translations": {
+            "zh": "我参观了很多地方 ",
+            "en": "I've visited lots of places ",
+            "es": "he visitado un montón de lugares "
+          },
           "start": 10.72,
           "end": 11.92
         },
         {
           "text": "avec Thomas et Marie-France.",
-          "zh": "和托马斯还有玛丽-弗朗斯。",
+          "translations": {
+            "zh": "和托马斯还有玛丽-弗朗斯。",
+            "en": "with Thomas and Marie-France.",
+            "es": "con Thomas y Marie-France."
+          },
           "start": 11.92,
           "end": 13.12
         }
@@ -161,7 +193,11 @@
     {
       "id": 3,
       "text": "Il y a un mois, à peu près, on est allés à l'Oratoire Saint-Joseph et on s'est promenés sur le mont Royal.",
-      "zh": "大约一个月以前，我们去了圣约瑟夫大教堂，还在皇家山上散了步。",
+      "translations": {
+        "zh": "大约一个月以前，我们去了圣约瑟夫大教堂，还在皇家山上散了步。",
+        "en": "About a month ago, we went to the Oratoire Saint-Joseph and we walked around Mount Royal.",
+        "es": "Hace un mes, más o menos, fuimos al Oratorio Saint-Joseph y nos paseamos por el monte Royal."
+      },
       "start": 14.08,
       "end": 18.72,
       "words": [
@@ -284,19 +320,31 @@
       "chunks": [
         {
           "text": "Il y a un mois, à peu près, ",
-          "zh": "大约一个月以前，",
+          "translations": {
+            "zh": "大约一个月以前，",
+            "en": "About a month ago, ",
+            "es": "Hace un mes, más o menos, "
+          },
           "start": 14.08,
           "end": 15.12
         },
         {
           "text": "on est allés à l'Oratoire Saint-Joseph ",
-          "zh": "我们去了圣约瑟夫大教堂 ",
+          "translations": {
+            "zh": "我们去了圣约瑟夫大教堂 ",
+            "en": "we went to the Oratoire Saint-Joseph ",
+            "es": "fuimos al Oratorio Saint-Joseph "
+          },
           "start": 15.52,
           "end": 17.2
         },
         {
           "text": "et on s'est promenés sur le mont Royal.",
-          "zh": "还在皇家山上散了步。",
+          "translations": {
+            "zh": "还在皇家山上散了步。",
+            "en": "and we walked around Mount Royal.",
+            "es": "y nos paseamos por el monte Royal."
+          },
           "start": 17.2,
           "end": 18.72
         }
@@ -305,7 +353,11 @@
     {
       "id": 4,
       "text": "C'était vraiment chouette, j'ai beaucoup aimé.",
-      "zh": "那真的很棒，我很喜欢。",
+      "translations": {
+        "zh": "那真的很棒，我很喜欢。",
+        "en": "It was really nice, I liked it a lot.",
+        "es": "Estuvo realmente genial, me gustó mucho."
+      },
       "start": 19.04,
       "end": 20.88,
       "words": [
@@ -343,13 +395,21 @@
       "chunks": [
         {
           "text": "C'était vraiment chouette, ",
-          "zh": "那真的很棒，",
+          "translations": {
+            "zh": "那真的很棒，",
+            "en": "It was really nice, ",
+            "es": "Estuvo realmente genial, "
+          },
           "start": 19.04,
           "end": 20.16
         },
         {
           "text": "j'ai beaucoup aimé.",
-          "zh": "我很喜欢。",
+          "translations": {
+            "zh": "我很喜欢。",
+            "en": "I liked it a lot.",
+            "es": "me gustó mucho."
+          },
           "start": 20.16,
           "end": 20.88
         }
@@ -358,7 +418,11 @@
     {
       "id": 5,
       "text": "La fin de semaine passée, on a loué des BIXI pis on est allés se promener dans le Vieux-Montréal.",
-      "zh": "上个周末，我们租了BIXI自行车，然后去老蒙特利尔逛了逛。",
+      "translations": {
+        "zh": "上个周末，我们租了BIXI自行车，然后去老蒙特利尔逛了逛。",
+        "en": "Last weekend, we rented BIXIs and we went for a ride in Old Montreal.",
+        "es": "El fin de semana pasado, alquilamos unas BIXI y fuimos a pasear por el Vieux-Montréal."
+      },
       "start": 21.84,
       "end": 26.08,
       "words": [
@@ -466,19 +530,31 @@
       "chunks": [
         {
           "text": "La fin de semaine passée, ",
-          "zh": "上个周末，",
+          "translations": {
+            "zh": "上个周末，",
+            "en": "Last weekend, ",
+            "es": "El fin de semana pasado, "
+          },
           "start": 21.84,
           "end": 22.88
         },
         {
           "text": "on a loué des BIXI ",
-          "zh": "我们租了BIXI自行车 ",
+          "translations": {
+            "zh": "我们租了BIXI自行车 ",
+            "en": "we rented BIXIs ",
+            "es": "alquilamos unas BIXI "
+          },
           "start": 23.2,
           "end": 24.16
         },
         {
           "text": "pis on est allés se promener dans le Vieux-Montréal.",
-          "zh": "然后去老蒙特利尔逛了逛。",
+          "translations": {
+            "zh": "然后去老蒙特利尔逛了逛。",
+            "en": "and we went for a ride in Old Montreal.",
+            "es": "y fuimos a pasear por el Vieux-Montréal."
+          },
           "start": 24.16,
           "end": 26.08
         }
@@ -487,7 +563,11 @@
     {
       "id": 6,
       "text": "J'adore ça, BIXI.",
-      "zh": "我好喜欢BIXI。",
+      "translations": {
+        "zh": "我好喜欢BIXI。",
+        "en": "I love it, BIXI.",
+        "es": "Me encanta, BIXI."
+      },
       "start": 26.72,
       "end": 27.76,
       "words": [
@@ -510,13 +590,21 @@
       "chunks": [
         {
           "text": "J'adore ça, ",
-          "zh": "我好喜欢，",
+          "translations": {
+            "zh": "我好喜欢，",
+            "en": "I love it, ",
+            "es": "Me encanta, "
+          },
           "start": 26.72,
           "end": 27.36
         },
         {
           "text": "BIXI.",
-          "zh": "BIXI。",
+          "translations": {
+            "zh": "BIXI。",
+            "en": "BIXI.",
+            "es": "BIXI."
+          },
           "start": 27.36,
           "end": 27.76
         }
@@ -525,7 +613,11 @@
     {
       "id": 7,
       "text": "Quelle bonne idée, c'est tellement pratique, en plus !",
-      "zh": "多好的主意啊，而且还那么方便！",
+      "translations": {
+        "zh": "多好的主意啊，而且还那么方便！",
+        "en": "What a good idea, it's so practical, too!",
+        "es": "Qué buena idea, es tan práctico, además!"
+      },
       "start": 28.16,
       "end": 30.56,
       "words": [
@@ -573,19 +665,31 @@
       "chunks": [
         {
           "text": "Quelle bonne idée, ",
-          "zh": "多好的主意，",
+          "translations": {
+            "zh": "多好的主意，",
+            "en": "What a good idea, ",
+            "es": "Qué buena idea, "
+          },
           "start": 28.16,
           "end": 28.88
         },
         {
           "text": "c'est tellement pratique, ",
-          "zh": "那么方便，",
+          "translations": {
+            "zh": "那么方便，",
+            "en": "it's so practical, ",
+            "es": "es tan práctico, "
+          },
           "start": 28.88,
           "end": 30.08
         },
         {
           "text": "en plus !",
-          "zh": "而且！",
+          "translations": {
+            "zh": "而且！",
+            "en": "too!",
+            "es": "además!"
+          },
           "start": 30.08,
           "end": 30.56
         }
@@ -594,7 +698,11 @@
     {
       "id": 8,
       "text": "Je vais le refaire, c'est sûr.",
-      "zh": "我一定会再去的，这是肯定的。",
+      "translations": {
+        "zh": "我一定会再去的，这是肯定的。",
+        "en": "I'm going to do it again, for sure.",
+        "es": "Lo voy a volver a hacer, es seguro."
+      },
       "start": 31.04,
       "end": 31.92,
       "words": [
@@ -632,13 +740,21 @@
       "chunks": [
         {
           "text": "Je vais le refaire, ",
-          "zh": "我会再去的，",
+          "translations": {
+            "zh": "我会再去的，",
+            "en": "I'm going to do it again, ",
+            "es": "Lo voy a volver a hacer, "
+          },
           "start": 31.04,
           "end": 31.68
         },
         {
           "text": "c'est sûr.",
-          "zh": "这是肯定的。",
+          "translations": {
+            "zh": "这是肯定的。",
+            "en": "for sure.",
+            "es": "es seguro."
+          },
           "start": 31.76,
           "end": 31.92
         }
@@ -647,7 +763,11 @@
     {
       "id": 9,
       "text": "Le Vieux- Montréal, ça, un peu moins...",
-      "zh": "老蒙特利尔嘛，就没那么喜欢了……",
+      "translations": {
+        "zh": "老蒙特利尔嘛，就没那么喜欢了……",
+        "en": "Old Montreal, that, a little less...",
+        "es": "El Vieux-Montréal, eso, un poco menos..."
+      },
       "start": 32.08,
       "end": 35.52,
       "words": [
@@ -690,13 +810,21 @@
       "chunks": [
         {
           "text": "Le Vieux- Montréal, ça, ",
-          "zh": "老蒙特利尔嘛，",
+          "translations": {
+            "zh": "老蒙特利尔嘛，",
+            "en": "Old Montreal, that, ",
+            "es": "El Vieux-Montréal, eso, "
+          },
           "start": 32.08,
           "end": 34.72
         },
         {
           "text": "un peu moins...",
-          "zh": "就没那么喜欢了……",
+          "translations": {
+            "zh": "就没那么喜欢了……",
+            "en": "a little less...",
+            "es": "un poco menos..."
+          },
           "start": 34.8,
           "end": 35.52
         }
@@ -705,7 +833,11 @@
     {
       "id": 10,
       "text": "C'est trop touristique à mon gout.",
-      "zh": "以我的口味来说，太游客化了。",
+      "translations": {
+        "zh": "以我的口味来说，太游客化了。",
+        "en": "It's too touristy to my taste.",
+        "es": "Es demasiado turístico a mi gusto."
+      },
       "start": 35.92,
       "end": 37.44,
       "words": [
@@ -743,13 +875,21 @@
       "chunks": [
         {
           "text": "C'est trop touristique ",
-          "zh": "太游客化了 ",
+          "translations": {
+            "zh": "太游客化了 ",
+            "en": "It's too touristy ",
+            "es": "Es demasiado turístico "
+          },
           "start": 35.92,
           "end": 36.96
         },
         {
           "text": "à mon gout.",
-          "zh": "以我的口味来说。",
+          "translations": {
+            "zh": "以我的口味来说。",
+            "en": "to my taste.",
+            "es": "a mi gusto."
+          },
           "start": 37.04,
           "end": 37.44
         }
@@ -758,7 +898,11 @@
     {
       "id": 11,
       "text": "À part ça, ben, hier, je suis allée au Jardin botanique.",
-      "zh": "除此之外，嗯，昨天，我去了植物园。",
+      "translations": {
+        "zh": "除此之外，嗯，昨天，我去了植物园。",
+        "en": "Other than that, well, yesterday, I went to the Botanical Garden.",
+        "es": "Aparte de eso, bueno, ayer, fui al Jardín botánico."
+      },
       "start": 38.48,
       "end": 40.72,
       "words": [
@@ -821,19 +965,31 @@
       "chunks": [
         {
           "text": "À part ça, ",
-          "zh": "除此之外，",
+          "translations": {
+            "zh": "除此之外，",
+            "en": "Other than that, ",
+            "es": "Aparte de eso, "
+          },
           "start": 38.48,
           "end": 38.96
         },
         {
           "text": "ben, hier, ",
-          "zh": "嗯，昨天，",
+          "translations": {
+            "zh": "嗯，昨天，",
+            "en": "well, yesterday, ",
+            "es": "bueno, ayer, "
+          },
           "start": 38.96,
           "end": 39.52
         },
         {
           "text": "je suis allée au Jardin botanique.",
-          "zh": "我去了植物园。",
+          "translations": {
+            "zh": "我去了植物园。",
+            "en": "I went to the Botanical Garden.",
+            "es": "fui al Jardín botánico."
+          },
           "start": 39.52,
           "end": 40.72
         }
@@ -842,7 +998,11 @@
     {
       "id": 12,
       "text": "À ce temps-ci de l'année, c'est magique.",
-      "zh": "在一年中的这个时候，那里是神奇的。",
+      "translations": {
+        "zh": "在一年中的这个时候，那里是神奇的。",
+        "en": "At this time of year, it's magical.",
+        "es": "En esta época del año, es mágico."
+      },
       "start": 41.2,
       "end": 42.8,
       "words": [
@@ -890,13 +1050,21 @@
       "chunks": [
         {
           "text": "À ce temps-ci de l'année, ",
-          "zh": "在一年中的这个时候，",
+          "translations": {
+            "zh": "在一年中的这个时候，",
+            "en": "At this time of year, ",
+            "es": "En esta época del año, "
+          },
           "start": 41.2,
           "end": 42.08
         },
         {
           "text": "c'est magique.",
-          "zh": "那里是神奇的。",
+          "translations": {
+            "zh": "那里是神奇的。",
+            "en": "it's magical.",
+            "es": "es mágico."
+          },
           "start": 42.08,
           "end": 42.8
         }
@@ -905,7 +1073,11 @@
     {
       "id": 13,
       "text": "On dirait qu'on est en campagne tellement c'est tranquille !",
-      "zh": "安静得好像在乡下一样！",
+      "translations": {
+        "zh": "安静得好像在乡下一样！",
+        "en": "It feels like we're in the countryside, it's so quiet!",
+        "es": "Diríase que estamos en el campo de lo tranquilo que es!"
+      },
       "start": 43.2,
       "end": 45.44,
       "words": [
@@ -958,13 +1130,21 @@
       "chunks": [
         {
           "text": "On dirait qu'on est en campagne ",
-          "zh": "好像在乡下一样 ",
+          "translations": {
+            "zh": "好像在乡下一样 ",
+            "en": "It feels like we're in the countryside ",
+            "es": "Diríase que estamos en el campo "
+          },
           "start": 43.2,
           "end": 44.48
         },
         {
           "text": "tellement c'est tranquille !",
-          "zh": "因为太安静了！",
+          "translations": {
+            "zh": "因为太安静了！",
+            "en": "it's so quiet!",
+            "es": "de lo tranquilo que es!"
+          },
           "start": 44.48,
           "end": 45.44
         }
@@ -973,7 +1153,11 @@
     {
       "id": 14,
       "text": "La semaine prochaine, je vais aller voir un spectacle à la Maison symphonique.",
-      "zh": "下周，我要去交响乐大厅看一场演出。",
+      "translations": {
+        "zh": "下周，我要去交响乐大厅看一场演出。",
+        "en": "Next week, I'm going to see a show at the Maison symphonique.",
+        "es": "La semana que viene, voy a ir a ver un espectáculo en la Maison symphonique."
+      },
       "start": 46.32,
       "end": 49.6,
       "words": [
@@ -1046,19 +1230,31 @@
       "chunks": [
         {
           "text": "La semaine prochaine, ",
-          "zh": "下周，",
+          "translations": {
+            "zh": "下周，",
+            "en": "Next week, ",
+            "es": "La semana que viene, "
+          },
           "start": 46.32,
           "end": 47.28
         },
         {
           "text": "je vais aller voir un spectacle ",
-          "zh": "我要去看一场演出 ",
+          "translations": {
+            "zh": "我要去看一场演出 ",
+            "en": "I'm going to see a show ",
+            "es": "voy a ir a ver un espectáculo "
+          },
           "start": 47.52,
           "end": 48.56
         },
         {
           "text": "à la Maison symphonique.",
-          "zh": "在交响乐大厅。",
+          "translations": {
+            "zh": "在交响乐大厅。",
+            "en": "at the Maison symphonique.",
+            "es": "en la Maison symphonique."
+          },
           "start": 48.56,
           "end": 49.6
         }
@@ -1067,7 +1263,11 @@
     {
       "id": 15,
       "text": "J'ai bien hâte de voir ça.",
-      "zh": "我迫不及待想去看。",
+      "translations": {
+        "zh": "我迫不及待想去看。",
+        "en": "I can't wait to see it.",
+        "es": "Tengo muchas ganas de ver eso."
+      },
       "start": 50.32,
       "end": 51.52,
       "words": [
@@ -1105,7 +1305,11 @@
       "chunks": [
         {
           "text": "J'ai bien hâte de voir ça.",
-          "zh": "我迫不及待想去看。",
+          "translations": {
+            "zh": "我迫不及待想去看。",
+            "en": "I can't wait to see it.",
+            "es": "Tengo muchas ganas de ver eso."
+          },
           "start": 50.32,
           "end": 51.52
         }
@@ -1114,7 +1318,11 @@
     {
       "id": 16,
       "text": "ÉPISODE 5 - Bilan",
-      "zh": "第5集 - 总结",
+      "translations": {
+        "zh": "第5集 - 总结",
+        "en": "EPISODE 5 - Review",
+        "es": "EPISODIO 5 - Balance"
+      },
       "start": 51.52,
       "end": 54.32,
       "words": [
@@ -1137,7 +1345,11 @@
       "chunks": [
         {
           "text": "ÉPISODE 5 - Bilan",
-          "zh": "第5集 - 总结",
+          "translations": {
+            "zh": "第5集 - 总结",
+            "en": "EPISODE 5 - Review",
+            "es": "EPISODIO 5 - Balance"
+          },
           "start": 51.52,
           "end": 54.32
         }

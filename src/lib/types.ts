@@ -1,9 +1,11 @@
 export type Word = { text: string; start: number; end: number };
-export type Chunk = { text: string; zh: string; start: number; end: number };
+export type LanguageCode = string;
+export type TranslationMap = Record<LanguageCode, string>;
+export type Chunk = { text: string; translations: TranslationMap; start: number; end: number };
 export type Sentence = {
   id: number;
   text: string;
-  zh: string;
+  translations: TranslationMap;
   start: number;
   end: number;
   words: Word[];

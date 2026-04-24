@@ -1,0 +1,1131 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 5 Piste 25 Page 44",
+      "translations": {
+        "zh": "第5集 第25轨 第44页",
+        "en": "Episode 5 Track 25 Page 44",
+        "es": "Episodio 5 Pista 25 Página 44"
+      },
+      "start": 0.32,
+      "end": 9.6,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.32,
+          "end": 1.04
+        },
+        {
+          "text": "5",
+          "start": 1.44,
+          "end": 1.76
+        },
+        {
+          "text": "Piste",
+          "start": 2.72,
+          "end": 3.12
+        },
+        {
+          "text": "25",
+          "start": 3.76,
+          "end": 4.48
+        },
+        {
+          "text": "Page",
+          "start": 6.16,
+          "end": 6.64
+        },
+        {
+          "text": "44",
+          "start": 9.36,
+          "end": 9.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 5",
+          "translations": {
+            "zh": "第5集",
+            "en": "Episode 5",
+            "es": "Episodio 5"
+          },
+          "start": 0.32,
+          "end": 1.76
+        },
+        {
+          "text": "Piste 25",
+          "translations": {
+            "zh": "第25轨",
+            "en": "Track 25",
+            "es": "Pista 25"
+          },
+          "start": 2.72,
+          "end": 4.48
+        },
+        {
+          "text": "Page 44",
+          "translations": {
+            "zh": "第44页",
+            "en": "Page 44",
+            "es": "Página 44"
+          },
+          "start": 6.16,
+          "end": 9.6
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Nous invitons toutes les personnes qui souhaitent emprunter des documents à se rendre au comptoir de prêt.",
+      "translations": {
+        "zh": "我们邀请所有希望借阅资料的人员前往借阅柜台。",
+        "en": "We invite all persons who wish to borrow documents to go to the loan counter.",
+        "es": "Invitamos a todas las personas que deseen tomar prestados documentos a dirigirse al mostrador de préstamo."
+      },
+      "start": 11.6,
+      "end": 16.72,
+      "words": [
+        {
+          "text": "Nous",
+          "start": 11.6,
+          "end": 11.84
+        },
+        {
+          "text": "invitons",
+          "start": 11.84,
+          "end": 12.4
+        },
+        {
+          "text": "toutes",
+          "start": 12.48,
+          "end": 12.64
+        },
+        {
+          "text": "les",
+          "start": 12.64,
+          "end": 12.72
+        },
+        {
+          "text": "personnes",
+          "start": 12.72,
+          "end": 13.12
+        },
+        {
+          "text": "qui",
+          "start": 13.12,
+          "end": 13.28
+        },
+        {
+          "text": "souhaitent",
+          "start": 13.28,
+          "end": 13.6
+        },
+        {
+          "text": "emprunter",
+          "start": 13.6,
+          "end": 14.0
+        },
+        {
+          "text": "des",
+          "start": 14.0,
+          "end": 14.16
+        },
+        {
+          "text": "documents",
+          "start": 14.16,
+          "end": 14.72
+        },
+        {
+          "text": "à",
+          "start": 15.12,
+          "end": 15.2
+        },
+        {
+          "text": "se",
+          "start": 15.2,
+          "end": 15.36
+        },
+        {
+          "text": "rendre",
+          "start": 15.36,
+          "end": 15.76
+        },
+        {
+          "text": "au",
+          "start": 15.76,
+          "end": 15.76
+        },
+        {
+          "text": "comptoir",
+          "start": 15.76,
+          "end": 16.24
+        },
+        {
+          "text": "de",
+          "start": 16.24,
+          "end": 16.4
+        },
+        {
+          "text": "prêt",
+          "start": 16.4,
+          "end": 16.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Nous invitons toutes les personnes",
+          "translations": {
+            "zh": "我们邀请所有人员",
+            "en": "We invite all persons",
+            "es": "Invitamos a todas las personas"
+          },
+          "start": 11.6,
+          "end": 13.12
+        },
+        {
+          "text": "qui souhaitent emprunter des documents",
+          "translations": {
+            "zh": "希望借阅资料的",
+            "en": "who wish to borrow documents",
+            "es": "que desean tomar prestados documentos"
+          },
+          "start": 13.12,
+          "end": 14.72
+        },
+        {
+          "text": "à se rendre au comptoir de prêt.",
+          "translations": {
+            "zh": "前往借阅柜台。",
+            "en": "to go to the loan counter.",
+            "es": "a dirigirse al mostrador de préstamo."
+          },
+          "start": 15.12,
+          "end": 16.72
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "C'est avec plaisir que nous vous accueillerons demain, à compter de 10 h.",
+      "translations": {
+        "zh": "我们很高兴将于明天10点起接待您。",
+        "en": "It is with pleasure that we will welcome you tomorrow, starting from 10 a.m.",
+        "es": "Es con placer que los recibiremos mañana, a partir de las 10 h."
+      },
+      "start": 17.44,
+      "end": 21.52,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 17.44,
+          "end": 17.68
+        },
+        {
+          "text": "avec",
+          "start": 17.68,
+          "end": 17.92
+        },
+        {
+          "text": "plaisir",
+          "start": 17.92,
+          "end": 18.56
+        },
+        {
+          "text": "que",
+          "start": 18.56,
+          "end": 18.64
+        },
+        {
+          "text": "nous",
+          "start": 18.64,
+          "end": 18.8
+        },
+        {
+          "text": "vous",
+          "start": 18.8,
+          "end": 19.04
+        },
+        {
+          "text": "accueillerons",
+          "start": 19.04,
+          "end": 19.52
+        },
+        {
+          "text": "demain",
+          "start": 19.52,
+          "end": 20.0
+        },
+        {
+          "text": "à",
+          "start": 20.24,
+          "end": 20.32
+        },
+        {
+          "text": "compter",
+          "start": 20.32,
+          "end": 20.72
+        },
+        {
+          "text": "de",
+          "start": 20.72,
+          "end": 20.8
+        },
+        {
+          "text": "10",
+          "start": 20.8,
+          "end": 21.12
+        },
+        {
+          "text": "h",
+          "start": 21.12,
+          "end": 21.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est avec plaisir",
+          "translations": {
+            "zh": "我们很高兴",
+            "en": "It is with pleasure",
+            "es": "Es con placer"
+          },
+          "start": 17.44,
+          "end": 18.56
+        },
+        {
+          "text": "que nous vous accueillerons demain,",
+          "translations": {
+            "zh": "将于明天接待您，",
+            "en": "that we will welcome you tomorrow,",
+            "es": "que los recibiremos mañana,"
+          },
+          "start": 18.56,
+          "end": 20.0
+        },
+        {
+          "text": "à compter de 10 h.",
+          "translations": {
+            "zh": "从10点起。",
+            "en": "starting from 10 a.m.",
+            "es": "a partir de las 10 h."
+          },
+          "start": 20.24,
+          "end": 21.52
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Merci et bonne soirée.",
+      "translations": {
+        "zh": "谢谢，祝您晚安。",
+        "en": "Thank you and have a good evening.",
+        "es": "Gracias y buena tarde."
+      },
+      "start": 21.84,
+      "end": 23.36,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 21.84,
+          "end": 22.4
+        },
+        {
+          "text": "et",
+          "start": 22.56,
+          "end": 22.72
+        },
+        {
+          "text": "bonne",
+          "start": 22.72,
+          "end": 22.88
+        },
+        {
+          "text": "soirée",
+          "start": 22.88,
+          "end": 23.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci",
+          "translations": {
+            "zh": "谢谢",
+            "en": "Thank you",
+            "es": "Gracias"
+          },
+          "start": 21.84,
+          "end": 22.4
+        },
+        {
+          "text": "et bonne soirée.",
+          "translations": {
+            "zh": "祝您晚安。",
+            "en": "and have a good evening.",
+            "es": "y buena tarde."
+          },
+          "start": 22.56,
+          "end": 23.36
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Chers clients et clientes, le propriétaire d'une voiture de marque Nissan Leaf de couleur grise immatriculée 234 PPQ est prié de se rendre à son véhicule immédiatement.",
+      "translations": {
+        "zh": "尊敬的顾客们，一辆灰色日产Leaf品牌轿车的车主，车牌号为234 PPQ，请立即前往您的车辆。",
+        "en": "Dear customers, the owner of a Nissan Leaf car, gray in color, registered 234 PPQ, is asked to go to their vehicle immediately.",
+        "es": "Estimados clientes y clientas, el propietario de un coche de marca Nissan Leaf de color gris con matrícula 234 PPQ está invitado a dirigirse a su vehículo inmediatamente."
+      },
+      "start": 28.8,
+      "end": 40.08,
+      "words": [
+        {
+          "text": "Chers",
+          "start": 28.8,
+          "end": 29.12
+        },
+        {
+          "text": "clients",
+          "start": 29.12,
+          "end": 29.52
+        },
+        {
+          "text": "et",
+          "start": 29.52,
+          "end": 29.6
+        },
+        {
+          "text": "clientes",
+          "start": 29.6,
+          "end": 30.24
+        },
+        {
+          "text": "le",
+          "start": 30.4,
+          "end": 30.48
+        },
+        {
+          "text": "propriétaire",
+          "start": 30.48,
+          "end": 31.2
+        },
+        {
+          "text": "d'une",
+          "start": 31.2,
+          "end": 31.36
+        },
+        {
+          "text": "voiture",
+          "start": 31.36,
+          "end": 31.84
+        },
+        {
+          "text": "de",
+          "start": 31.84,
+          "end": 31.92
+        },
+        {
+          "text": "marque",
+          "start": 31.92,
+          "end": 32.32
+        },
+        {
+          "text": "Nissan",
+          "start": 32.32,
+          "end": 32.88
+        },
+        {
+          "text": "Leaf",
+          "start": 32.88,
+          "end": 33.36
+        },
+        {
+          "text": "de",
+          "start": 33.36,
+          "end": 33.44
+        },
+        {
+          "text": "couleur",
+          "start": 33.44,
+          "end": 33.92
+        },
+        {
+          "text": "grise",
+          "start": 33.92,
+          "end": 34.4
+        },
+        {
+          "text": "immatriculée",
+          "start": 34.4,
+          "end": 35.2
+        },
+        {
+          "text": "234",
+          "start": 35.2,
+          "end": 36.24
+        },
+        {
+          "text": "PPQ",
+          "start": 36.64,
+          "end": 37.12
+        },
+        {
+          "text": "est",
+          "start": 37.12,
+          "end": 37.12
+        },
+        {
+          "text": "prié",
+          "start": 37.6,
+          "end": 37.92
+        },
+        {
+          "text": "de",
+          "start": 37.92,
+          "end": 38.08
+        },
+        {
+          "text": "se",
+          "start": 38.08,
+          "end": 38.24
+        },
+        {
+          "text": "rendre",
+          "start": 38.24,
+          "end": 38.56
+        },
+        {
+          "text": "à",
+          "start": 38.56,
+          "end": 38.56
+        },
+        {
+          "text": "son",
+          "start": 38.56,
+          "end": 38.72
+        },
+        {
+          "text": "véhicule",
+          "start": 38.72,
+          "end": 39.28
+        },
+        {
+          "text": "immédiatement",
+          "start": 39.36,
+          "end": 40.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Chers clients et clientes,",
+          "translations": {
+            "zh": "尊敬的顾客们，",
+            "en": "Dear customers,",
+            "es": "Estimados clientes y clientas,"
+          },
+          "start": 28.8,
+          "end": 30.24
+        },
+        {
+          "text": "le propriétaire d'une voiture de marque Nissan Leaf",
+          "translations": {
+            "zh": "日产Leaf品牌轿车的车主",
+            "en": "the owner of a Nissan Leaf car",
+            "es": "el propietario de un coche de marca Nissan Leaf"
+          },
+          "start": 30.4,
+          "end": 33.36
+        },
+        {
+          "text": "de couleur grise",
+          "translations": {
+            "zh": "灰色的",
+            "en": "gray in color",
+            "es": "de color gris"
+          },
+          "start": 33.36,
+          "end": 34.4
+        },
+        {
+          "text": "immatriculée 234 PPQ",
+          "translations": {
+            "zh": "车牌号为234 PPQ",
+            "en": "registered 234 PPQ",
+            "es": "con matrícula 234 PPQ"
+          },
+          "start": 34.4,
+          "end": 37.12
+        },
+        {
+          "text": "est prié de se rendre à son véhicule immédiatement.",
+          "translations": {
+            "zh": "请立即前往您的车辆。",
+            "en": "is asked to go to their vehicle immediately.",
+            "es": "está invitado a dirigirse a su vehículo inmediatamente."
+          },
+          "start": 37.12,
+          "end": 40.08
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Madame France Lagacé est priée de se rendre à la porte 9.",
+      "translations": {
+        "zh": "France Lagacé女士请前往9号门。",
+        "en": "Mrs. France Lagacé is asked to go to gate 9.",
+        "es": "La señora France Lagacé está invitada a dirigirse a la puerta 9."
+      },
+      "start": 45.44,
+      "end": 48.64,
+      "words": [
+        {
+          "text": "Madame",
+          "start": 45.44,
+          "end": 45.92
+        },
+        {
+          "text": "France",
+          "start": 45.92,
+          "end": 46.32
+        },
+        {
+          "text": "Lagacé",
+          "start": 46.32,
+          "end": 46.96
+        },
+        {
+          "text": "est",
+          "start": 47.04,
+          "end": 47.12
+        },
+        {
+          "text": "priée",
+          "start": 47.12,
+          "end": 47.44
+        },
+        {
+          "text": "de",
+          "start": 47.44,
+          "end": 47.52
+        },
+        {
+          "text": "se",
+          "start": 47.52,
+          "end": 47.68
+        },
+        {
+          "text": "rendre",
+          "start": 47.68,
+          "end": 47.92
+        },
+        {
+          "text": "à",
+          "start": 47.92,
+          "end": 48.0
+        },
+        {
+          "text": "la",
+          "start": 48.0,
+          "end": 48.08
+        },
+        {
+          "text": "porte",
+          "start": 48.08,
+          "end": 48.4
+        },
+        {
+          "text": "9",
+          "start": 48.4,
+          "end": 48.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Madame France Lagacé",
+          "translations": {
+            "zh": "France Lagacé女士",
+            "en": "Mrs. France Lagacé",
+            "es": "La señora France Lagacé"
+          },
+          "start": 45.44,
+          "end": 46.96
+        },
+        {
+          "text": "est priée de se rendre à la porte 9.",
+          "translations": {
+            "zh": "请前往9号门。",
+            "en": "is asked to go to gate 9.",
+            "es": "está invitada a dirigirse a la puerta 9."
+          },
+          "start": 47.04,
+          "end": 48.64
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "France Lagacé, rendez-vous à la porte 9.",
+      "translations": {
+        "zh": "France Lagacé，请前往9号门。",
+        "en": "France Lagacé, please go to gate 9.",
+        "es": "France Lagacé, diríjase a la puerta 9."
+      },
+      "start": 49.6,
+      "end": 52.16,
+      "words": [
+        {
+          "text": "France",
+          "start": 49.6,
+          "end": 49.92
+        },
+        {
+          "text": "Lagacé",
+          "start": 49.92,
+          "end": 50.64
+        },
+        {
+          "text": "rendez",
+          "start": 50.96,
+          "end": 51.36
+        },
+        {
+          "text": "vous",
+          "start": 51.36,
+          "end": 51.52
+        },
+        {
+          "text": "à",
+          "start": 51.52,
+          "end": 51.6
+        },
+        {
+          "text": "la",
+          "start": 51.6,
+          "end": 51.68
+        },
+        {
+          "text": "porte",
+          "start": 51.68,
+          "end": 52.0
+        },
+        {
+          "text": "9",
+          "start": 52.0,
+          "end": 52.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "France Lagacé,",
+          "translations": {
+            "zh": "France Lagacé，",
+            "en": "France Lagacé,",
+            "es": "France Lagacé,"
+          },
+          "start": 49.6,
+          "end": 50.64
+        },
+        {
+          "text": "rendez-vous à la porte 9.",
+          "translations": {
+            "zh": "请前往9号门。",
+            "en": "please go to gate 9.",
+            "es": "diríjase a la puerta 9."
+          },
+          "start": 50.96,
+          "end": 52.16
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Merci.",
+      "translations": {
+        "zh": "谢谢。",
+        "en": "Thank you.",
+        "es": "Gracias."
+      },
+      "start": 52.16,
+      "end": 53.2,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 52.16,
+          "end": 53.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci.",
+          "translations": {
+            "zh": "谢谢。",
+            "en": "Thank you.",
+            "es": "Gracias."
+          },
+          "start": 52.16,
+          "end": 53.2
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Le service sur la ligne jaune est interrompu pour une durée indéterminée.",
+      "translations": {
+        "zh": "黄线的服务已中断，时间不确定。",
+        "en": "Service on the yellow line is interrupted for an indefinite period.",
+        "es": "El servicio en la línea amarilla está interrumpido por un período indeterminado."
+      },
+      "start": 59.76,
+      "end": 64.08,
+      "words": [
+        {
+          "text": "Le",
+          "start": 59.76,
+          "end": 59.84
+        },
+        {
+          "text": "service",
+          "start": 59.84,
+          "end": 60.4
+        },
+        {
+          "text": "sur",
+          "start": 60.4,
+          "end": 60.64
+        },
+        {
+          "text": "la",
+          "start": 60.64,
+          "end": 60.72
+        },
+        {
+          "text": "ligne",
+          "start": 60.72,
+          "end": 60.96
+        },
+        {
+          "text": "jaune",
+          "start": 60.96,
+          "end": 61.52
+        },
+        {
+          "text": "est",
+          "start": 61.68,
+          "end": 61.84
+        },
+        {
+          "text": "interrompu",
+          "start": 61.84,
+          "end": 62.48
+        },
+        {
+          "text": "pour",
+          "start": 62.48,
+          "end": 62.72
+        },
+        {
+          "text": "une",
+          "start": 62.72,
+          "end": 62.88
+        },
+        {
+          "text": "durée",
+          "start": 62.88,
+          "end": 63.2
+        },
+        {
+          "text": "indéterminée",
+          "start": 63.2,
+          "end": 64.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le service sur la ligne jaune",
+          "translations": {
+            "zh": "黄线的服务",
+            "en": "Service on the yellow line",
+            "es": "El servicio en la línea amarilla"
+          },
+          "start": 59.76,
+          "end": 61.52
+        },
+        {
+          "text": "est interrompu",
+          "translations": {
+            "zh": "已中断",
+            "en": "is interrupted",
+            "es": "está interrumpido"
+          },
+          "start": 61.68,
+          "end": 62.48
+        },
+        {
+          "text": "pour une durée indéterminée.",
+          "translations": {
+            "zh": "时间不确定。",
+            "en": "for an indefinite period.",
+            "es": "por un período indeterminado."
+          },
+          "start": 62.48,
+          "end": 64.08
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "D'autres messages suivront.",
+      "translations": {
+        "zh": "后续将有更多消息。",
+        "en": "More messages will follow.",
+        "es": "Otros mensajes seguirán."
+      },
+      "start": 64.48,
+      "end": 65.76,
+      "words": [
+        {
+          "text": "D'autres",
+          "start": 64.48,
+          "end": 64.8
+        },
+        {
+          "text": "messages",
+          "start": 64.8,
+          "end": 65.28
+        },
+        {
+          "text": "suivront",
+          "start": 65.28,
+          "end": 65.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'autres messages suivront.",
+          "translations": {
+            "zh": "后续将有更多消息。",
+            "en": "More messages will follow.",
+            "es": "Otros mensajes seguirán."
+          },
+          "start": 64.48,
+          "end": 65.76
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Merci de votre compréhension.",
+      "translations": {
+        "zh": "感谢您的理解。",
+        "en": "Thank you for your understanding.",
+        "es": "Gracias por su comprensión."
+      },
+      "start": 66.16,
+      "end": 67.76,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 66.16,
+          "end": 66.64
+        },
+        {
+          "text": "de",
+          "start": 66.64,
+          "end": 66.72
+        },
+        {
+          "text": "votre",
+          "start": 66.72,
+          "end": 67.04
+        },
+        {
+          "text": "compréhension",
+          "start": 67.04,
+          "end": 67.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci de votre compréhension.",
+          "translations": {
+            "zh": "感谢您的理解。",
+            "en": "Thank you for your understanding.",
+            "es": "Gracias por su comprensión."
+          },
+          "start": 66.16,
+          "end": 67.76
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Monsieur Jacques Dallaire, passager du vol AS 352, est prié de se présenter au comptoir d'embarquement dans les plus brefs délais.",
+      "translations": {
+        "zh": "Jacques Dallaire先生，AS 352航班的乘客，请尽快前往登机柜台。",
+        "en": "Mr. Jacques Dallaire, passenger on flight AS 352, is asked to report to the boarding counter as soon as possible.",
+        "es": "El señor Jacques Dallaire, pasajero del vuelo AS 352, está invitado a presentarse al mostrador de embarque en el menor tiempo posible."
+      },
+      "start": 73.92,
+      "end": 83.44,
+      "words": [
+        {
+          "text": "Monsieur",
+          "start": 73.92,
+          "end": 74.56
+        },
+        {
+          "text": "Jacques",
+          "start": 74.72,
+          "end": 75.28
+        },
+        {
+          "text": "Dallaire",
+          "start": 75.28,
+          "end": 75.84
+        },
+        {
+          "text": "passager",
+          "start": 76.24,
+          "end": 76.72
+        },
+        {
+          "text": "du",
+          "start": 76.72,
+          "end": 76.8
+        },
+        {
+          "text": "vol",
+          "start": 76.8,
+          "end": 77.12
+        },
+        {
+          "text": "AS",
+          "start": 77.2,
+          "end": 77.68
+        },
+        {
+          "text": "352",
+          "start": 77.68,
+          "end": 78.8
+        },
+        {
+          "text": "est",
+          "start": 79.28,
+          "end": 79.36
+        },
+        {
+          "text": "prié",
+          "start": 79.36,
+          "end": 79.84
+        },
+        {
+          "text": "de",
+          "start": 79.84,
+          "end": 79.92
+        },
+        {
+          "text": "se",
+          "start": 79.92,
+          "end": 80.08
+        },
+        {
+          "text": "présenter",
+          "start": 80.08,
+          "end": 80.56
+        },
+        {
+          "text": "au",
+          "start": 80.56,
+          "end": 80.72
+        },
+        {
+          "text": "comptoir",
+          "start": 80.72,
+          "end": 81.2
+        },
+        {
+          "text": "d'embarquement",
+          "start": 81.2,
+          "end": 81.84
+        },
+        {
+          "text": "dans",
+          "start": 82.24,
+          "end": 82.4
+        },
+        {
+          "text": "les",
+          "start": 82.4,
+          "end": 82.48
+        },
+        {
+          "text": "plus",
+          "start": 82.48,
+          "end": 82.72
+        },
+        {
+          "text": "brefs",
+          "start": 82.72,
+          "end": 83.04
+        },
+        {
+          "text": "délais",
+          "start": 83.04,
+          "end": 83.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Monsieur Jacques Dallaire,",
+          "translations": {
+            "zh": "Jacques Dallaire先生，",
+            "en": "Mr. Jacques Dallaire,",
+            "es": "El señor Jacques Dallaire,"
+          },
+          "start": 73.92,
+          "end": 75.84
+        },
+        {
+          "text": "passager du vol AS 352,",
+          "translations": {
+            "zh": "AS 352航班的乘客，",
+            "en": "passenger on flight AS 352,",
+            "es": "pasajero del vuelo AS 352,"
+          },
+          "start": 76.24,
+          "end": 78.8
+        },
+        {
+          "text": "est prié de se présenter au comptoir d'embarquement",
+          "translations": {
+            "zh": "请前往登机柜台",
+            "en": "is asked to report to the boarding counter",
+            "es": "está invitado a presentarse al mostrador de embarque"
+          },
+          "start": 79.28,
+          "end": 81.84
+        },
+        {
+          "text": "dans les plus brefs délais.",
+          "translations": {
+            "zh": "尽快。",
+            "en": "as soon as possible.",
+            "es": "en el menor tiempo posible."
+          },
+          "start": 82.24,
+          "end": 83.44
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP05_P25",
+  "audio_filename": "FLS2_EP05_P25.mp3",
+  "audio_path": "downloads/FLS2_EP05_P25.mp3",
+  "episode": 5,
+  "piste": 25,
+  "page": 44,
+  "cd": "CD1"
+}

@@ -3,7 +3,11 @@
     {
       "id": 1,
       "text": "Épisode 4 Piste 19 Page 34",
-      "zh": "第4集 第19课 第34页",
+      "translations": {
+        "zh": "第4集 第19课 第34页",
+        "en": "Episode 4 Track 19 Page 34",
+        "es": "Episodio 4 Pista 19 Página 34"
+      },
       "start": 0.56,
       "end": 7.52,
       "words": [
@@ -41,19 +45,31 @@
       "chunks": [
         {
           "text": "Épisode 4",
-          "zh": "第4集",
+          "translations": {
+            "zh": "第4集",
+            "en": "Episode 4",
+            "es": "Episodio 4"
+          },
           "start": 0.56,
           "end": 1.92
         },
         {
           "text": "Piste 19",
-          "zh": "第19课",
+          "translations": {
+            "zh": "第19课",
+            "en": "Track 19",
+            "es": "Pista 19"
+          },
           "start": 2.88,
           "end": 4.48
         },
         {
           "text": "Page 34",
-          "zh": "第34页",
+          "translations": {
+            "zh": "第34页",
+            "en": "Page 34",
+            "es": "Página 34"
+          },
           "start": 6.48,
           "end": 7.52
         }
@@ -62,7 +78,11 @@
     {
       "id": 2,
       "text": "Allo ma belle chouette, c'est maman.",
-      "zh": "喂，我美丽的小猫头鹰，是妈妈。",
+      "translations": {
+        "zh": "喂，我美丽的小猫头鹰，是妈妈。",
+        "en": "Hi my pretty owl, it's Mom.",
+        "es": "Hola mi bella lechuza, es mamá."
+      },
       "start": 10.4,
       "end": 12.0,
       "words": [
@@ -100,13 +120,21 @@
       "chunks": [
         {
           "text": "Allo ma belle chouette,",
-          "zh": "喂，我美丽的小猫头鹰，",
+          "translations": {
+            "zh": "喂，我美丽的小猫头鹰，",
+            "en": "Hi my pretty owl,",
+            "es": "Hola mi bella lechuza,"
+          },
           "start": 10.4,
           "end": 11.44
         },
         {
           "text": "c'est maman.",
-          "zh": "是妈妈。",
+          "translations": {
+            "zh": "是妈妈。",
+            "en": "it's Mom.",
+            "es": "es mamá."
+          },
           "start": 11.44,
           "end": 12.0
         }
@@ -115,7 +143,11 @@
     {
       "id": 3,
       "text": "On est jeudi soir, 8 h 30 à peu près.",
-      "zh": "现在是星期四晚上，大约8点30分。",
+      "translations": {
+        "zh": "现在是星期四晚上，大约8点30分。",
+        "en": "It's Thursday evening, around 8:30.",
+        "es": "Es jueves por la noche, las 8 y 30 más o menos."
+      },
       "start": 12.32,
       "end": 14.48,
       "words": [
@@ -173,13 +205,21 @@
       "chunks": [
         {
           "text": "On est jeudi soir,",
-          "zh": "现在是星期四晚上，",
+          "translations": {
+            "zh": "现在是星期四晚上，",
+            "en": "It's Thursday evening,",
+            "es": "Es jueves por la noche,"
+          },
           "start": 12.32,
           "end": 13.44
         },
         {
           "text": "8 h 30 à peu près.",
-          "zh": "大约8点30分。",
+          "translations": {
+            "zh": "大约8点30分。",
+            "en": "around 8:30.",
+            "es": "las 8 y 30 más o menos."
+          },
           "start": 13.44,
           "end": 14.48
         }
@@ -188,7 +228,11 @@
     {
       "id": 4,
       "text": "Je t'appelais pour prendre de tes nouvelles.",
-      "zh": "我打电话给你是为了了解你的近况。",
+      "translations": {
+        "zh": "我打电话给你是为了了解你的近况。",
+        "en": "I was calling you to see how you're doing.",
+        "es": "Te llamaba para tener noticias tuyas."
+      },
       "start": 14.8,
       "end": 16.08,
       "words": [
@@ -231,13 +275,21 @@
       "chunks": [
         {
           "text": "Je t'appelais",
-          "zh": "我打电话给你",
+          "translations": {
+            "zh": "我打电话给你",
+            "en": "I was calling you",
+            "es": "Te llamaba"
+          },
           "start": 14.8,
           "end": 15.12
         },
         {
           "text": "pour prendre de tes nouvelles.",
-          "zh": "是为了了解你的近况。",
+          "translations": {
+            "zh": "是为了了解你的近况。",
+            "en": "to see how you're doing.",
+            "es": "para tener noticias tuyas."
+          },
           "start": 15.12,
           "end": 16.08
         }
@@ -246,7 +298,11 @@
     {
       "id": 5,
       "text": "J'espère que tu vas bien et que tout se passe comme tu veux.",
-      "zh": "我希望你一切都好，一切都如你所愿。",
+      "translations": {
+        "zh": "我希望你一切都好，一切都如你所愿。",
+        "en": "I hope you're doing well and that everything is going the way you want.",
+        "es": "Espero que estés bien y que todo salga como quieres."
+      },
       "start": 16.56,
       "end": 19.04,
       "words": [
@@ -319,13 +375,21 @@
       "chunks": [
         {
           "text": "J'espère que tu vas bien",
-          "zh": "我希望你一切都好",
+          "translations": {
+            "zh": "我希望你一切都好",
+            "en": "I hope you're doing well",
+            "es": "Espero que estés bien"
+          },
           "start": 16.56,
           "end": 17.68
         },
         {
           "text": "et que tout se passe comme tu veux.",
-          "zh": "一切都如你所愿。",
+          "translations": {
+            "zh": "一切都如你所愿。",
+            "en": "and that everything is going the way you want.",
+            "es": "y que todo salga como quieres."
+          },
           "start": 17.68,
           "end": 19.04
         }
@@ -334,7 +398,11 @@
     {
       "id": 6,
       "text": "Ici, ça va bien.",
-      "zh": "这里，一切都好。",
+      "translations": {
+        "zh": "这里，一切都好。",
+        "en": "Here, things are fine.",
+        "es": "Aquí, todo va bien."
+      },
       "start": 19.52,
       "end": 20.32,
       "words": [
@@ -362,13 +430,21 @@
       "chunks": [
         {
           "text": "Ici,",
-          "zh": "这里，",
+          "translations": {
+            "zh": "这里，",
+            "en": "Here,",
+            "es": "Aquí,"
+          },
           "start": 19.52,
           "end": 19.76
         },
         {
           "text": "ça va bien.",
-          "zh": "一切都好。",
+          "translations": {
+            "zh": "一切都好。",
+            "en": "things are fine.",
+            "es": "todo va bien."
+          },
           "start": 19.76,
           "end": 20.32
         }
@@ -377,7 +453,11 @@
     {
       "id": 7,
       "text": "Hier, ton père et moi, on est allés souper chez ton oncle André et ta tante Monique.",
-      "zh": "昨天，你爸爸和我，我们去了你安德烈叔叔和莫尼克婶婶家吃晚饭。",
+      "translations": {
+        "zh": "昨天，你爸爸和我，我们去了你安德烈叔叔和莫尼克婶婶家吃晚饭。",
+        "en": "Yesterday, your father and I, we went to have dinner at your uncle André and your aunt Monique's place.",
+        "es": "Ayer, tu padre y yo fuimos a cenar a casa de tu tío André y tu tía Monique."
+      },
       "start": 20.72,
       "end": 24.16,
       "words": [
@@ -470,25 +550,41 @@
       "chunks": [
         {
           "text": "Hier,",
-          "zh": "昨天，",
+          "translations": {
+            "zh": "昨天，",
+            "en": "Yesterday,",
+            "es": "Ayer,"
+          },
           "start": 20.72,
           "end": 20.96
         },
         {
           "text": "ton père et moi,",
-          "zh": "你爸爸和我，",
+          "translations": {
+            "zh": "你爸爸和我，",
+            "en": "your father and I,",
+            "es": "tu padre y yo,"
+          },
           "start": 21.04,
           "end": 21.52
         },
         {
           "text": "on est allés souper",
-          "zh": "我们去吃晚饭",
+          "translations": {
+            "zh": "我们去吃晚饭",
+            "en": "we went to have dinner",
+            "es": "fuimos a cenar"
+          },
           "start": 21.6,
           "end": 22.32
         },
         {
           "text": "chez ton oncle André et ta tante Monique.",
-          "zh": "在你安德烈叔叔和莫尼克婶婶家。",
+          "translations": {
+            "zh": "在你安德烈叔叔和莫尼克婶婶家。",
+            "en": "at your uncle André and your aunt Monique's place.",
+            "es": "a casa de tu tío André y tu tía Monique."
+          },
           "start": 22.32,
           "end": 24.16
         }
@@ -497,7 +593,11 @@
     {
       "id": 8,
       "text": "Imagine-toi donc qu'ils ont vendu leur maison et qu'ils vont déménager en Floride dans deux mois.",
-      "zh": "你想想看，他们把房子卖了，而且两个月后他们要搬到佛罗里达去。",
+      "translations": {
+        "zh": "你想想看，他们把房子卖了，而且两个月后他们要搬到佛罗里达去。",
+        "en": "Just imagine that they sold their house and that they're going to move to Florida in two months.",
+        "es": "Imagínate pues que han vendido su casa y que se van a mudar a Florida en dos meses."
+      },
       "start": 24.56,
       "end": 29.2,
       "words": [
@@ -590,25 +690,41 @@
       "chunks": [
         {
           "text": "Imagine-toi donc",
-          "zh": "你想想看",
+          "translations": {
+            "zh": "你想想看",
+            "en": "Just imagine",
+            "es": "Imagínate pues"
+          },
           "start": 24.56,
           "end": 25.36
         },
         {
           "text": "qu'ils ont vendu leur maison",
-          "zh": "他们把房子卖了",
+          "translations": {
+            "zh": "他们把房子卖了",
+            "en": "that they sold their house",
+            "es": "que han vendido su casa"
+          },
           "start": 25.36,
           "end": 26.56
         },
         {
           "text": "et qu'ils vont déménager en Floride",
-          "zh": "而且他们要搬到佛罗里达去",
+          "translations": {
+            "zh": "而且他们要搬到佛罗里达去",
+            "en": "and that they're going to move to Florida",
+            "es": "y que se van a mudar a Florida"
+          },
           "start": 26.8,
           "end": 28.48
         },
         {
           "text": "dans deux mois.",
-          "zh": "两个月后。",
+          "translations": {
+            "zh": "两个月后。",
+            "en": "in two months.",
+            "es": "en dos meses."
+          },
           "start": 28.48,
           "end": 29.2
         }
@@ -617,7 +733,11 @@
     {
       "id": 9,
       "text": "Je n'en reviens pas !",
-      "zh": "我简直不敢相信！",
+      "translations": {
+        "zh": "我简直不敢相信！",
+        "en": "I can't believe it!",
+        "es": "¡No lo puedo creer!"
+      },
       "start": 29.44,
       "end": 30.16,
       "words": [
@@ -645,7 +765,11 @@
       "chunks": [
         {
           "text": "Je n'en reviens pas !",
-          "zh": "我简直不敢相信！",
+          "translations": {
+            "zh": "我简直不敢相信！",
+            "en": "I can't believe it!",
+            "es": "¡No lo puedo creer!"
+          },
           "start": 29.44,
           "end": 30.16
         }
@@ -654,7 +778,11 @@
     {
       "id": 10,
       "text": "En tout cas...",
-      "zh": "总之……",
+      "translations": {
+        "zh": "总之……",
+        "en": "Anyway...",
+        "es": "En todo caso..."
+      },
       "start": 30.88,
       "end": 31.36,
       "words": [
@@ -677,7 +805,11 @@
       "chunks": [
         {
           "text": "En tout cas...",
-          "zh": "总之……",
+          "translations": {
+            "zh": "总之……",
+            "en": "Anyway...",
+            "es": "En todo caso..."
+          },
           "start": 30.88,
           "end": 31.36
         }
@@ -686,7 +818,11 @@
     {
       "id": 11,
       "text": "On va pouvoir aller les visiter l'année prochaine !",
-      "zh": "明年我们就能去看望他们了！",
+      "translations": {
+        "zh": "明年我们就能去看望他们了！",
+        "en": "We'll be able to go visit them next year!",
+        "es": "¡Vamos a poder ir a visitarlos el año que viene!"
+      },
       "start": 32.08,
       "end": 34.08,
       "words": [
@@ -734,13 +870,21 @@
       "chunks": [
         {
           "text": "On va pouvoir aller les visiter",
-          "zh": "我们就能去看望他们",
+          "translations": {
+            "zh": "我们就能去看望他们",
+            "en": "We'll be able to go visit them",
+            "es": "Vamos a poder ir a visitarlos"
+          },
           "start": 32.08,
           "end": 33.28
         },
         {
           "text": "l'année prochaine !",
-          "zh": "明年！",
+          "translations": {
+            "zh": "明年！",
+            "en": "next year!",
+            "es": "¡el año que viene!"
+          },
           "start": 33.28,
           "end": 34.08
         }
@@ -749,7 +893,11 @@
     {
       "id": 12,
       "text": "J'ai parlé à ton frère tout à l'heure.",
-      "zh": "刚才我跟你哥哥说了话。",
+      "translations": {
+        "zh": "刚才我跟你哥哥说了话。",
+        "en": "I talked to your brother earlier.",
+        "es": "He hablado con tu hermano hace un rato."
+      },
       "start": 34.96,
       "end": 36.48,
       "words": [
@@ -797,13 +945,21 @@
       "chunks": [
         {
           "text": "J'ai parlé à ton frère",
-          "zh": "我跟你哥哥说了话",
+          "translations": {
+            "zh": "我跟你哥哥说了话",
+            "en": "I talked to your brother",
+            "es": "He hablado con tu hermano"
+          },
           "start": 34.96,
           "end": 35.92
         },
         {
           "text": "tout à l'heure.",
-          "zh": "刚才。",
+          "translations": {
+            "zh": "刚才。",
+            "en": "earlier.",
+            "es": "hace un rato."
+          },
           "start": 35.92,
           "end": 36.48
         }
@@ -812,7 +968,11 @@
     {
       "id": 13,
       "text": "Appelle-le quand tu vas avoir un peu de temps.",
-      "zh": "等你有一点时间的时候给他打个电话。",
+      "translations": {
+        "zh": "等你有一点时间的时候给他打个电话。",
+        "en": "Call him when you have a little time.",
+        "es": "Llámalo cuando tengas un poco de tiempo."
+      },
       "start": 36.88,
       "end": 38.48,
       "words": [
@@ -870,13 +1030,21 @@
       "chunks": [
         {
           "text": "Appelle-le",
-          "zh": "给他打个电话",
+          "translations": {
+            "zh": "给他打个电话",
+            "en": "Call him",
+            "es": "Llámalo"
+          },
           "start": 36.88,
           "end": 37.36
         },
         {
           "text": "quand tu vas avoir un peu de temps.",
-          "zh": "等你有一点时间的时候。",
+          "translations": {
+            "zh": "等你有一点时间的时候。",
+            "en": "when you have a little time.",
+            "es": "cuando tengas un poco de tiempo."
+          },
           "start": 37.36,
           "end": 38.48
         }
@@ -885,7 +1053,11 @@
     {
       "id": 14,
       "text": "Je pense que ses histoires d'amour ne vont pas trop bien.",
-      "zh": "我觉得他的爱情故事不太顺利。",
+      "translations": {
+        "zh": "我觉得他的爱情故事不太顺利。",
+        "en": "I think that his love life isn't going too well.",
+        "es": "Creo que sus historias de amor no van muy bien."
+      },
       "start": 38.8,
       "end": 40.72,
       "words": [
@@ -948,13 +1120,21 @@
       "chunks": [
         {
           "text": "Je pense",
-          "zh": "我觉得",
+          "translations": {
+            "zh": "我觉得",
+            "en": "I think",
+            "es": "Creo"
+          },
           "start": 38.8,
           "end": 39.04
         },
         {
           "text": "que ses histoires d'amour ne vont pas trop bien.",
-          "zh": "他的爱情故事不太顺利。",
+          "translations": {
+            "zh": "他的爱情故事不太顺利。",
+            "en": "that his love life isn't going too well.",
+            "es": "que sus historias de amor no van muy bien."
+          },
           "start": 39.04,
           "end": 40.72
         }
@@ -963,7 +1143,11 @@
     {
       "id": 15,
       "text": "Je suis sure qu'il va te raconter tout ça quand tu vas lui parler.",
-      "zh": "我确信他会在你跟他说话的时候把这一切都告诉你。",
+      "translations": {
+        "zh": "我确信他会在你跟他说话的时候把这一切都告诉你。",
+        "en": "I'm sure that he'll tell you all about it when you talk to him.",
+        "es": "Estoy segura de que te va a contar todo eso cuando hables con él."
+      },
       "start": 41.28,
       "end": 43.6,
       "words": [
@@ -1041,19 +1225,31 @@
       "chunks": [
         {
           "text": "Je suis sure",
-          "zh": "我确信",
+          "translations": {
+            "zh": "我确信",
+            "en": "I'm sure",
+            "es": "Estoy segura"
+          },
           "start": 41.28,
           "end": 41.76
         },
         {
           "text": "qu'il va te raconter tout ça",
-          "zh": "他会把这一切都告诉你",
+          "translations": {
+            "zh": "他会把这一切都告诉你",
+            "en": "that he'll tell you all about it",
+            "es": "de que te va a contar todo eso"
+          },
           "start": 41.76,
           "end": 42.8
         },
         {
           "text": "quand tu vas lui parler.",
-          "zh": "当你跟他说话的时候。",
+          "translations": {
+            "zh": "当你跟他说话的时候。",
+            "en": "when you talk to him.",
+            "es": "cuando hables con él."
+          },
           "start": 42.8,
           "end": 43.6
         }
@@ -1062,7 +1258,11 @@
     {
       "id": 16,
       "text": "Bon, je vais aller prendre mon bain.",
-      "zh": "好了，我要去洗澡了。",
+      "translations": {
+        "zh": "好了，我要去洗澡了。",
+        "en": "Well, I'm going to go take my bath.",
+        "es": "Bueno, voy a ir a tomar mi baño."
+      },
       "start": 44.48,
       "end": 45.84,
       "words": [
@@ -1105,13 +1305,21 @@
       "chunks": [
         {
           "text": "Bon,",
-          "zh": "好了，",
+          "translations": {
+            "zh": "好了，",
+            "en": "Well,",
+            "es": "Bueno,"
+          },
           "start": 44.48,
           "end": 44.64
         },
         {
           "text": "je vais aller prendre mon bain.",
-          "zh": "我要去洗澡了。",
+          "translations": {
+            "zh": "我要去洗澡了。",
+            "en": "I'm going to go take my bath.",
+            "es": "voy a ir a tomar mi baño."
+          },
           "start": 44.96,
           "end": 45.84
         }
@@ -1120,7 +1328,11 @@
     {
       "id": 17,
       "text": "Appelle-moi demain soir si tu peux.",
-      "zh": "如果可以的话，明天晚上给我打电话。",
+      "translations": {
+        "zh": "如果可以的话，明天晚上给我打电话。",
+        "en": "Call me tomorrow evening if you can.",
+        "es": "Llámame mañana por la noche si puedes."
+      },
       "start": 46.48,
       "end": 47.92,
       "words": [
@@ -1163,13 +1375,21 @@
       "chunks": [
         {
           "text": "Appelle-moi demain soir",
-          "zh": "明天晚上给我打电话",
+          "translations": {
+            "zh": "明天晚上给我打电话",
+            "en": "Call me tomorrow evening",
+            "es": "Llámame mañana por la noche"
+          },
           "start": 46.48,
           "end": 47.44
         },
         {
           "text": "si tu peux.",
-          "zh": "如果你可以的话。",
+          "translations": {
+            "zh": "如果你可以的话。",
+            "en": "if you can.",
+            "es": "si puedes."
+          },
           "start": 47.44,
           "end": 47.92
         }
@@ -1178,7 +1398,11 @@
     {
       "id": 18,
       "text": "Je t'embrasse et ton père aussi.",
-      "zh": "我亲亲你，你爸爸也亲亲你。",
+      "translations": {
+        "zh": "我亲亲你，你爸爸也亲亲你。",
+        "en": "I kiss you, and your father too.",
+        "es": "Te beso y tu padre también."
+      },
       "start": 48.24,
       "end": 49.6,
       "words": [
@@ -1216,13 +1440,21 @@
       "chunks": [
         {
           "text": "Je t'embrasse",
-          "zh": "我亲亲你",
+          "translations": {
+            "zh": "我亲亲你",
+            "en": "I kiss you",
+            "es": "Te beso"
+          },
           "start": 48.24,
           "end": 48.8
         },
         {
           "text": "et ton père aussi.",
-          "zh": "你爸爸也是。",
+          "translations": {
+            "zh": "你爸爸也是。",
+            "en": "and your father too.",
+            "es": "y tu padre también."
+          },
           "start": 48.8,
           "end": 49.6
         }
@@ -1231,7 +1463,11 @@
     {
       "id": 19,
       "text": "Bye, et dis bonjour à Thomas et Marie- France.",
-      "zh": "再见，替我向托马斯和玛丽-弗朗斯问好。",
+      "translations": {
+        "zh": "再见，替我向托马斯和玛丽-弗朗斯问好。",
+        "en": "Bye, and say hello to Thomas and Marie-France.",
+        "es": "Adiós, y da saludos a Thomas y Marie-France."
+      },
       "start": 50.0,
       "end": 52.64,
       "words": [
@@ -1284,13 +1520,21 @@
       "chunks": [
         {
           "text": "Bye,",
-          "zh": "再见，",
+          "translations": {
+            "zh": "再见，",
+            "en": "Bye,",
+            "es": "Adiós,"
+          },
           "start": 50.0,
           "end": 50.32
         },
         {
           "text": "et dis bonjour à Thomas et Marie- France.",
-          "zh": "替我向托马斯和玛丽-弗朗斯问好。",
+          "translations": {
+            "zh": "替我向托马斯和玛丽-弗朗斯问好。",
+            "en": "and say hello to Thomas and Marie-France.",
+            "es": "y da saludos a Thomas y Marie-France."
+          },
           "start": 50.64,
           "end": 52.64
         }

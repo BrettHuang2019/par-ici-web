@@ -1,0 +1,1571 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 5 Piste 24 Page 43",
+      "translations": {
+        "zh": "第5集 第24轨 第43页",
+        "en": "Episode 5 Track 24 Page 43",
+        "es": "Episodio 5 Pista 24 Página 43"
+      },
+      "start": 0.56,
+      "end": 8.0,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.56,
+          "end": 1.2
+        },
+        {
+          "text": "5",
+          "start": 1.6,
+          "end": 1.92
+        },
+        {
+          "text": "Piste",
+          "start": 2.88,
+          "end": 3.36
+        },
+        {
+          "text": "24",
+          "start": 3.92,
+          "end": 4.8
+        },
+        {
+          "text": "Page",
+          "start": 4.8,
+          "end": 4.8
+        },
+        {
+          "text": "43",
+          "start": 7.12,
+          "end": 8.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 5",
+          "translations": {
+            "zh": "第5集",
+            "en": "Episode 5",
+            "es": "Episodio 5"
+          },
+          "start": 0.56,
+          "end": 1.92
+        },
+        {
+          "text": "Piste 24",
+          "translations": {
+            "zh": "第24轨",
+            "en": "Track 24",
+            "es": "Pista 24"
+          },
+          "start": 2.88,
+          "end": 4.8
+        },
+        {
+          "text": "Page 43",
+          "translations": {
+            "zh": "第43页",
+            "en": "Page 43",
+            "es": "Página 43"
+          },
+          "start": 4.8,
+          "end": 8.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bonjour, ici monsieur Forget, votre propriétaire.",
+      "translations": {
+        "zh": "您好，我是福尔热先生，您的房东。",
+        "en": "Hello, this is Mr. Forget, your landlord.",
+        "es": "Buenos días, aquí el señor Forget, su propietario."
+      },
+      "start": 9.84,
+      "end": 12.24,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 9.84,
+          "end": 10.24
+        },
+        {
+          "text": "ici",
+          "start": 10.24,
+          "end": 10.72
+        },
+        {
+          "text": "monsieur",
+          "start": 10.72,
+          "end": 10.96
+        },
+        {
+          "text": "Forget",
+          "start": 10.96,
+          "end": 11.44
+        },
+        {
+          "text": "votre",
+          "start": 11.44,
+          "end": 11.6
+        },
+        {
+          "text": "propriétaire",
+          "start": 11.6,
+          "end": 12.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Buenos días,"
+          },
+          "start": 9.84,
+          "end": 10.24
+        },
+        {
+          "text": "ici monsieur Forget,",
+          "translations": {
+            "zh": "我是福尔热先生，",
+            "en": "this is Mr. Forget,",
+            "es": "aquí el señor Forget,"
+          },
+          "start": 10.24,
+          "end": 11.44
+        },
+        {
+          "text": "votre propriétaire.",
+          "translations": {
+            "zh": "您的房东。",
+            "en": "your landlord.",
+            "es": "su propietario."
+          },
+          "start": 11.44,
+          "end": 12.24
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "J'ai reçu la note que vous m'avez laissée ce matin.",
+      "translations": {
+        "zh": "我收到了您今天早上留给我的便条。",
+        "en": "I received the note that you left me this morning.",
+        "es": "He recibido la nota que me dejó esta mañana."
+      },
+      "start": 12.88,
+      "end": 14.64,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 12.88,
+          "end": 13.04
+        },
+        {
+          "text": "reçu",
+          "start": 13.04,
+          "end": 13.28
+        },
+        {
+          "text": "la",
+          "start": 13.28,
+          "end": 13.44
+        },
+        {
+          "text": "note",
+          "start": 13.44,
+          "end": 13.6
+        },
+        {
+          "text": "que",
+          "start": 13.6,
+          "end": 13.68
+        },
+        {
+          "text": "vous",
+          "start": 13.68,
+          "end": 13.84
+        },
+        {
+          "text": "m'avez",
+          "start": 13.84,
+          "end": 14.08
+        },
+        {
+          "text": "laissée",
+          "start": 14.08,
+          "end": 14.32
+        },
+        {
+          "text": "ce",
+          "start": 14.32,
+          "end": 14.4
+        },
+        {
+          "text": "matin",
+          "start": 14.4,
+          "end": 14.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai reçu la note",
+          "translations": {
+            "zh": "我收到了便条",
+            "en": "I received the note",
+            "es": "He recibido la nota"
+          },
+          "start": 12.88,
+          "end": 13.6
+        },
+        {
+          "text": "que vous m'avez laissée ce matin.",
+          "translations": {
+            "zh": "您今天早上留给我的。",
+            "en": "that you left me this morning.",
+            "es": "que me dejó esta mañana."
+          },
+          "start": 13.6,
+          "end": 14.64
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Je ne savais pas qu'il y avait tous ces petits problèmes, je suis désolé.",
+      "translations": {
+        "zh": "我不知道有这些小问题，我很抱歉。",
+        "en": "I didn't know there were all these little problems, I'm sorry.",
+        "es": "No sabía que había todos estos pequeños problemas, lo siento."
+      },
+      "start": 15.68,
+      "end": 17.92,
+      "words": [
+        {
+          "text": "Je",
+          "start": 15.68,
+          "end": 15.84
+        },
+        {
+          "text": "ne",
+          "start": 15.84,
+          "end": 15.84
+        },
+        {
+          "text": "savais",
+          "start": 15.84,
+          "end": 16.08
+        },
+        {
+          "text": "pas",
+          "start": 16.08,
+          "end": 16.24
+        },
+        {
+          "text": "qu'il",
+          "start": 16.24,
+          "end": 16.32
+        },
+        {
+          "text": "y",
+          "start": 16.32,
+          "end": 16.4
+        },
+        {
+          "text": "avait",
+          "start": 16.4,
+          "end": 16.48
+        },
+        {
+          "text": "tous",
+          "start": 16.48,
+          "end": 16.64
+        },
+        {
+          "text": "ces",
+          "start": 16.64,
+          "end": 16.8
+        },
+        {
+          "text": "petits",
+          "start": 16.8,
+          "end": 16.88
+        },
+        {
+          "text": "problèmes",
+          "start": 16.88,
+          "end": 17.28
+        },
+        {
+          "text": "je",
+          "start": 17.36,
+          "end": 17.44
+        },
+        {
+          "text": "suis",
+          "start": 17.44,
+          "end": 17.52
+        },
+        {
+          "text": "désolé",
+          "start": 17.52,
+          "end": 17.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je ne savais pas",
+          "translations": {
+            "zh": "我不知道",
+            "en": "I didn't know",
+            "es": "No sabía"
+          },
+          "start": 15.68,
+          "end": 16.24
+        },
+        {
+          "text": "qu'il y avait tous ces petits problèmes,",
+          "translations": {
+            "zh": "有这些小问题，",
+            "en": "that there were all these little problems,",
+            "es": "que había todos estos pequeños problemas,"
+          },
+          "start": 16.24,
+          "end": 17.28
+        },
+        {
+          "text": "je suis désolé.",
+          "translations": {
+            "zh": "我很抱歉。",
+            "en": "I'm sorry.",
+            "es": "lo siento."
+          },
+          "start": 17.36,
+          "end": 17.92
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "L'ancien locataire ne m'avait rien dit à ce sujet-là.",
+      "translations": {
+        "zh": "之前的房客关于这件事什么也没跟我说过。",
+        "en": "The previous tenant hadn't told me anything about that.",
+        "es": "El antiguo inquilino no me había dicho nada al respecto."
+      },
+      "start": 18.48,
+      "end": 20.56,
+      "words": [
+        {
+          "text": "L'ancien",
+          "start": 18.48,
+          "end": 18.8
+        },
+        {
+          "text": "locataire",
+          "start": 18.8,
+          "end": 19.28
+        },
+        {
+          "text": "ne",
+          "start": 19.28,
+          "end": 19.36
+        },
+        {
+          "text": "m'avait",
+          "start": 19.36,
+          "end": 19.52
+        },
+        {
+          "text": "rien",
+          "start": 19.52,
+          "end": 19.76
+        },
+        {
+          "text": "dit",
+          "start": 19.76,
+          "end": 19.92
+        },
+        {
+          "text": "à",
+          "start": 19.92,
+          "end": 19.92
+        },
+        {
+          "text": "ce",
+          "start": 19.92,
+          "end": 20.0
+        },
+        {
+          "text": "sujet",
+          "start": 20.0,
+          "end": 20.32
+        },
+        {
+          "text": "là",
+          "start": 20.32,
+          "end": 20.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "L'ancien locataire",
+          "translations": {
+            "zh": "之前的房客",
+            "en": "The previous tenant",
+            "es": "El antiguo inquilino"
+          },
+          "start": 18.48,
+          "end": 19.28
+        },
+        {
+          "text": "ne m'avait rien dit",
+          "translations": {
+            "zh": "什么也没跟我说过",
+            "en": "hadn't told me anything",
+            "es": "no me había dicho nada"
+          },
+          "start": 19.28,
+          "end": 19.92
+        },
+        {
+          "text": "à ce sujet-là.",
+          "translations": {
+            "zh": "关于这件事。",
+            "en": "about that.",
+            "es": "al respecto."
+          },
+          "start": 19.92,
+          "end": 20.56
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Écoutez, pour la hotte, je vais envoyer un électricien dans le courant de la semaine, parce que je pense qu'il va falloir la changer au complet.",
+      "translations": {
+        "zh": "听我说，关于抽油烟机，我会在本周内派一个电工来，因为我觉得需要把它全部换掉。",
+        "en": "Listen, for the range hood, I'm going to send an electrician sometime during the week, because I think it will need to be completely replaced.",
+        "es": "Escuche, para la campana extractora, voy a enviar un electricista en el transcurso de la semana, porque creo que va a haber que cambiarla por completo."
+      },
+      "start": 21.28,
+      "end": 26.56,
+      "words": [
+        {
+          "text": "Écoutez",
+          "start": 21.28,
+          "end": 21.6
+        },
+        {
+          "text": "pour",
+          "start": 21.92,
+          "end": 22.08
+        },
+        {
+          "text": "la",
+          "start": 22.08,
+          "end": 22.24
+        },
+        {
+          "text": "hotte",
+          "start": 22.24,
+          "end": 22.48
+        },
+        {
+          "text": "je",
+          "start": 22.56,
+          "end": 22.64
+        },
+        {
+          "text": "vais",
+          "start": 22.64,
+          "end": 22.72
+        },
+        {
+          "text": "envoyer",
+          "start": 22.72,
+          "end": 23.04
+        },
+        {
+          "text": "un",
+          "start": 23.04,
+          "end": 23.04
+        },
+        {
+          "text": "électricien",
+          "start": 23.12,
+          "end": 23.68
+        },
+        {
+          "text": "dans",
+          "start": 23.68,
+          "end": 23.68
+        },
+        {
+          "text": "le",
+          "start": 23.76,
+          "end": 23.76
+        },
+        {
+          "text": "courant",
+          "start": 23.76,
+          "end": 24.08
+        },
+        {
+          "text": "de",
+          "start": 24.08,
+          "end": 24.08
+        },
+        {
+          "text": "la",
+          "start": 24.08,
+          "end": 24.16
+        },
+        {
+          "text": "semaine",
+          "start": 24.16,
+          "end": 24.56
+        },
+        {
+          "text": "parce",
+          "start": 24.64,
+          "end": 24.8
+        },
+        {
+          "text": "que",
+          "start": 24.8,
+          "end": 24.88
+        },
+        {
+          "text": "je",
+          "start": 24.88,
+          "end": 24.96
+        },
+        {
+          "text": "pense",
+          "start": 25.04,
+          "end": 25.2
+        },
+        {
+          "text": "qu'il",
+          "start": 25.2,
+          "end": 25.36
+        },
+        {
+          "text": "va",
+          "start": 25.36,
+          "end": 25.44
+        },
+        {
+          "text": "falloir",
+          "start": 25.44,
+          "end": 25.76
+        },
+        {
+          "text": "la",
+          "start": 25.76,
+          "end": 25.84
+        },
+        {
+          "text": "changer",
+          "start": 25.84,
+          "end": 26.08
+        },
+        {
+          "text": "au",
+          "start": 26.08,
+          "end": 26.24
+        },
+        {
+          "text": "complet",
+          "start": 26.24,
+          "end": 26.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Écoutez,",
+          "translations": {
+            "zh": "听我说，",
+            "en": "Listen,",
+            "es": "Escuche,"
+          },
+          "start": 21.28,
+          "end": 21.6
+        },
+        {
+          "text": "pour la hotte,",
+          "translations": {
+            "zh": "关于抽油烟机，",
+            "en": "for the range hood,",
+            "es": "para la campana extractora,"
+          },
+          "start": 21.92,
+          "end": 22.48
+        },
+        {
+          "text": "je vais envoyer un électricien",
+          "translations": {
+            "zh": "我会派一个电工",
+            "en": "I'm going to send an electrician",
+            "es": "voy a enviar un electricista"
+          },
+          "start": 22.56,
+          "end": 23.68
+        },
+        {
+          "text": "dans le courant de la semaine,",
+          "translations": {
+            "zh": "在本周内，",
+            "en": "sometime during the week,",
+            "es": "en el transcurso de la semana,"
+          },
+          "start": 23.68,
+          "end": 24.56
+        },
+        {
+          "text": "parce que je pense",
+          "translations": {
+            "zh": "因为我觉得",
+            "en": "because I think",
+            "es": "porque creo"
+          },
+          "start": 24.64,
+          "end": 25.2
+        },
+        {
+          "text": "qu'il va falloir la changer au complet.",
+          "translations": {
+            "zh": "需要把它全部换掉。",
+            "en": "it will need to be completely replaced.",
+            "es": "que va a haber que cambiarla por completo."
+          },
+          "start": 25.2,
+          "end": 26.56
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "En même temps, je vais lui demander de vérifier la prise électrique.",
+      "translations": {
+        "zh": "同时，我会请他检查一下电源插座。",
+        "en": "At the same time, I'll ask him to check the electrical outlet.",
+        "es": "Al mismo tiempo, le voy a pedir que verifique el enchufe."
+      },
+      "start": 27.36,
+      "end": 29.76,
+      "words": [
+        {
+          "text": "En",
+          "start": 27.36,
+          "end": 27.44
+        },
+        {
+          "text": "même",
+          "start": 27.44,
+          "end": 27.6
+        },
+        {
+          "text": "temps",
+          "start": 27.6,
+          "end": 27.84
+        },
+        {
+          "text": "je",
+          "start": 27.84,
+          "end": 27.84
+        },
+        {
+          "text": "vais",
+          "start": 27.84,
+          "end": 28.0
+        },
+        {
+          "text": "lui",
+          "start": 28.0,
+          "end": 28.08
+        },
+        {
+          "text": "demander",
+          "start": 28.08,
+          "end": 28.4
+        },
+        {
+          "text": "de",
+          "start": 28.4,
+          "end": 28.48
+        },
+        {
+          "text": "vérifier",
+          "start": 28.48,
+          "end": 28.88
+        },
+        {
+          "text": "la",
+          "start": 28.88,
+          "end": 28.96
+        },
+        {
+          "text": "prise",
+          "start": 28.96,
+          "end": 29.2
+        },
+        {
+          "text": "électrique",
+          "start": 29.2,
+          "end": 29.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "En même temps,",
+          "translations": {
+            "zh": "同时，",
+            "en": "At the same time,",
+            "es": "Al mismo tiempo,"
+          },
+          "start": 27.36,
+          "end": 27.84
+        },
+        {
+          "text": "je vais lui demander",
+          "translations": {
+            "zh": "我会请他",
+            "en": "I'll ask him",
+            "es": "le voy a pedir"
+          },
+          "start": 27.84,
+          "end": 28.4
+        },
+        {
+          "text": "de vérifier la prise électrique.",
+          "translations": {
+            "zh": "检查一下电源插座。",
+            "en": "to check the electrical outlet.",
+            "es": "que verifique el enchufe."
+          },
+          "start": 28.4,
+          "end": 29.76
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Je suis déjà passé chez vous et j'ai réparé la sonnette.",
+      "translations": {
+        "zh": "我已经去过您家了，把门铃修好了。",
+        "en": "I already went by your place and I fixed the doorbell.",
+        "es": "Ya he pasado por su casa y he reparado el timbre."
+      },
+      "start": 30.64,
+      "end": 32.96,
+      "words": [
+        {
+          "text": "Je",
+          "start": 30.64,
+          "end": 30.72
+        },
+        {
+          "text": "suis",
+          "start": 30.72,
+          "end": 30.88
+        },
+        {
+          "text": "déjà",
+          "start": 30.88,
+          "end": 31.12
+        },
+        {
+          "text": "passé",
+          "start": 31.12,
+          "end": 31.36
+        },
+        {
+          "text": "chez",
+          "start": 31.36,
+          "end": 31.6
+        },
+        {
+          "text": "vous",
+          "start": 31.6,
+          "end": 31.76
+        },
+        {
+          "text": "et",
+          "start": 31.76,
+          "end": 31.92
+        },
+        {
+          "text": "j'ai",
+          "start": 31.92,
+          "end": 32.08
+        },
+        {
+          "text": "réparé",
+          "start": 32.08,
+          "end": 32.4
+        },
+        {
+          "text": "la",
+          "start": 32.4,
+          "end": 32.48
+        },
+        {
+          "text": "sonnette",
+          "start": 32.48,
+          "end": 32.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis déjà passé chez vous",
+          "translations": {
+            "zh": "我已经去过您家了",
+            "en": "I already went by your place",
+            "es": "Ya he pasado por su casa"
+          },
+          "start": 30.64,
+          "end": 31.76
+        },
+        {
+          "text": "et j'ai réparé la sonnette.",
+          "translations": {
+            "zh": "把门铃修好了。",
+            "en": "and I fixed the doorbell.",
+            "es": "y he reparado el timbre."
+          },
+          "start": 31.76,
+          "end": 32.96
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Le fil avait été débranché, elle fonctionne très bien maintenant.",
+      "translations": {
+        "zh": "电线被拔掉了，现在它工作得很好。",
+        "en": "The wire had been unplugged, it works very well now.",
+        "es": "El cable había sido desconectado, funciona muy bien ahora."
+      },
+      "start": 33.68,
+      "end": 36.0,
+      "words": [
+        {
+          "text": "Le",
+          "start": 33.68,
+          "end": 33.76
+        },
+        {
+          "text": "fil",
+          "start": 33.76,
+          "end": 34.0
+        },
+        {
+          "text": "avait",
+          "start": 34.0,
+          "end": 34.08
+        },
+        {
+          "text": "été",
+          "start": 34.08,
+          "end": 34.24
+        },
+        {
+          "text": "débranché",
+          "start": 34.24,
+          "end": 34.72
+        },
+        {
+          "text": "elle",
+          "start": 34.88,
+          "end": 34.96
+        },
+        {
+          "text": "fonctionne",
+          "start": 34.96,
+          "end": 35.44
+        },
+        {
+          "text": "très",
+          "start": 35.44,
+          "end": 35.6
+        },
+        {
+          "text": "bien",
+          "start": 35.6,
+          "end": 35.76
+        },
+        {
+          "text": "maintenant",
+          "start": 35.76,
+          "end": 36.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le fil avait été débranché,",
+          "translations": {
+            "zh": "电线被拔掉了，",
+            "en": "The wire had been unplugged,",
+            "es": "El cable había sido desconectado,"
+          },
+          "start": 33.68,
+          "end": 34.72
+        },
+        {
+          "text": "elle fonctionne très bien maintenant.",
+          "translations": {
+            "zh": "现在它工作得很好。",
+            "en": "it works very well now.",
+            "es": "funciona muy bien ahora."
+          },
+          "start": 34.88,
+          "end": 36.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Pour ce qui est de la boite aux lettres, ben, je vous propose d'aller en acheter une vous-même, pis de me donner le reçu pour que je vous la rembourse.",
+      "translations": {
+        "zh": "关于信箱的事，嗯，我建议您自己去买一个，然后把收据给我，这样我好给您报销。",
+        "en": "As for the mailbox, well, I suggest you go buy one yourself, and give me the receipt so I can reimburse you.",
+        "es": "En cuanto al buzón, bueno, le propongo que vaya a comprar uno usted mismo, y que me dé el recibo para que se lo reembolse."
+      },
+      "start": 37.12,
+      "end": 42.4,
+      "words": [
+        {
+          "text": "Pour",
+          "start": 37.12,
+          "end": 37.28
+        },
+        {
+          "text": "ce",
+          "start": 37.28,
+          "end": 37.36
+        },
+        {
+          "text": "qui",
+          "start": 37.36,
+          "end": 37.44
+        },
+        {
+          "text": "est",
+          "start": 37.44,
+          "end": 37.52
+        },
+        {
+          "text": "de",
+          "start": 37.52,
+          "end": 37.52
+        },
+        {
+          "text": "la",
+          "start": 37.52,
+          "end": 37.6
+        },
+        {
+          "text": "boite",
+          "start": 37.6,
+          "end": 37.92
+        },
+        {
+          "text": "aux",
+          "start": 37.92,
+          "end": 38.0
+        },
+        {
+          "text": "lettres",
+          "start": 38.0,
+          "end": 38.24
+        },
+        {
+          "text": "ben",
+          "start": 38.32,
+          "end": 38.56
+        },
+        {
+          "text": "je",
+          "start": 38.56,
+          "end": 38.72
+        },
+        {
+          "text": "vous",
+          "start": 38.72,
+          "end": 38.8
+        },
+        {
+          "text": "propose",
+          "start": 38.8,
+          "end": 39.12
+        },
+        {
+          "text": "d'aller",
+          "start": 39.12,
+          "end": 39.36
+        },
+        {
+          "text": "en",
+          "start": 39.36,
+          "end": 39.44
+        },
+        {
+          "text": "acheter",
+          "start": 39.44,
+          "end": 39.76
+        },
+        {
+          "text": "une",
+          "start": 39.76,
+          "end": 39.92
+        },
+        {
+          "text": "vous",
+          "start": 39.92,
+          "end": 40.0
+        },
+        {
+          "text": "même",
+          "start": 40.0,
+          "end": 40.32
+        },
+        {
+          "text": "pis",
+          "start": 40.4,
+          "end": 40.48
+        },
+        {
+          "text": "de",
+          "start": 40.48,
+          "end": 40.56
+        },
+        {
+          "text": "me",
+          "start": 40.56,
+          "end": 40.64
+        },
+        {
+          "text": "donner",
+          "start": 40.64,
+          "end": 40.88
+        },
+        {
+          "text": "le",
+          "start": 40.88,
+          "end": 40.96
+        },
+        {
+          "text": "reçu",
+          "start": 40.96,
+          "end": 41.36
+        },
+        {
+          "text": "pour",
+          "start": 41.36,
+          "end": 41.52
+        },
+        {
+          "text": "que",
+          "start": 41.52,
+          "end": 41.6
+        },
+        {
+          "text": "je",
+          "start": 41.6,
+          "end": 41.68
+        },
+        {
+          "text": "vous",
+          "start": 41.68,
+          "end": 41.76
+        },
+        {
+          "text": "la",
+          "start": 41.76,
+          "end": 41.84
+        },
+        {
+          "text": "rembourse",
+          "start": 41.84,
+          "end": 42.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pour ce qui est de la boite aux lettres,",
+          "translations": {
+            "zh": "关于信箱的事，",
+            "en": "As for the mailbox,",
+            "es": "En cuanto al buzón,"
+          },
+          "start": 37.12,
+          "end": 38.24
+        },
+        {
+          "text": "ben,",
+          "translations": {
+            "zh": "嗯，",
+            "en": "well,",
+            "es": "bueno,"
+          },
+          "start": 38.32,
+          "end": 38.56
+        },
+        {
+          "text": "je vous propose d'aller en acheter une vous-même,",
+          "translations": {
+            "zh": "我建议您自己去买一个，",
+            "en": "I suggest you go buy one yourself,",
+            "es": "le propongo que vaya a comprar uno usted mismo,"
+          },
+          "start": 38.56,
+          "end": 40.32
+        },
+        {
+          "text": "pis de me donner le reçu",
+          "translations": {
+            "zh": "然后把收据给我，",
+            "en": "and give me the receipt",
+            "es": "y que me dé el recibo"
+          },
+          "start": 40.4,
+          "end": 41.36
+        },
+        {
+          "text": "pour que je vous la rembourse.",
+          "translations": {
+            "zh": "这样我好给您报销。",
+            "en": "so I can reimburse you.",
+            "es": "para que se lo reembolse."
+          },
+          "start": 41.36,
+          "end": 42.4
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Comme ça, vous allez pouvoir choisir le modèle que vous aimez.",
+      "translations": {
+        "zh": "这样，您就可以选择您喜欢的款式了。",
+        "en": "That way, you'll be able to choose the model you like.",
+        "es": "Así, va a poder elegir el modelo que le guste."
+      },
+      "start": 42.64,
+      "end": 44.8,
+      "words": [
+        {
+          "text": "Comme",
+          "start": 42.64,
+          "end": 42.8
+        },
+        {
+          "text": "ça",
+          "start": 42.8,
+          "end": 42.96
+        },
+        {
+          "text": "vous",
+          "start": 42.96,
+          "end": 43.12
+        },
+        {
+          "text": "allez",
+          "start": 43.12,
+          "end": 43.28
+        },
+        {
+          "text": "pouvoir",
+          "start": 43.28,
+          "end": 43.6
+        },
+        {
+          "text": "choisir",
+          "start": 43.6,
+          "end": 43.92
+        },
+        {
+          "text": "le",
+          "start": 43.92,
+          "end": 44.0
+        },
+        {
+          "text": "modèle",
+          "start": 44.0,
+          "end": 44.32
+        },
+        {
+          "text": "que",
+          "start": 44.32,
+          "end": 44.4
+        },
+        {
+          "text": "vous",
+          "start": 44.4,
+          "end": 44.56
+        },
+        {
+          "text": "aimez",
+          "start": 44.56,
+          "end": 44.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Comme ça,",
+          "translations": {
+            "zh": "这样，",
+            "en": "That way,",
+            "es": "Así,"
+          },
+          "start": 42.64,
+          "end": 42.96
+        },
+        {
+          "text": "vous allez pouvoir choisir le modèle",
+          "translations": {
+            "zh": "您就可以选择款式",
+            "en": "you'll be able to choose the model",
+            "es": "va a poder elegir el modelo"
+          },
+          "start": 42.96,
+          "end": 44.32
+        },
+        {
+          "text": "que vous aimez.",
+          "translations": {
+            "zh": "您喜欢的。",
+            "en": "you like.",
+            "es": "que le guste."
+          },
+          "start": 44.32,
+          "end": 44.8
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Si ça vous va, on va procéder comme ça.",
+      "translations": {
+        "zh": "如果这样可以的话，我们就这么办。",
+        "en": "If that works for you, we'll proceed like that.",
+        "es": "Si le parece bien, vamos a proceder así."
+      },
+      "start": 45.44,
+      "end": 47.28,
+      "words": [
+        {
+          "text": "Si",
+          "start": 45.44,
+          "end": 45.6
+        },
+        {
+          "text": "ça",
+          "start": 45.6,
+          "end": 45.76
+        },
+        {
+          "text": "vous",
+          "start": 45.76,
+          "end": 45.92
+        },
+        {
+          "text": "va",
+          "start": 45.92,
+          "end": 46.08
+        },
+        {
+          "text": "on",
+          "start": 46.08,
+          "end": 46.24
+        },
+        {
+          "text": "va",
+          "start": 46.24,
+          "end": 46.32
+        },
+        {
+          "text": "procéder",
+          "start": 46.32,
+          "end": 46.8
+        },
+        {
+          "text": "comme",
+          "start": 46.8,
+          "end": 46.96
+        },
+        {
+          "text": "ça",
+          "start": 46.96,
+          "end": 47.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Si ça vous va,",
+          "translations": {
+            "zh": "如果可以的话，",
+            "en": "If that works for you,",
+            "es": "Si le parece bien,"
+          },
+          "start": 45.44,
+          "end": 46.08
+        },
+        {
+          "text": "on va procéder comme ça.",
+          "translations": {
+            "zh": "我们就这么办。",
+            "en": "we'll proceed like that.",
+            "es": "vamos a proceder así."
+          },
+          "start": 46.08,
+          "end": 47.28
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Juste une chose, peut-être, rappelez-moi pour me dire à quel moment l'électricien peut passer chez vous.",
+      "translations": {
+        "zh": "还有一件事，也许，请回电话告诉我电工什么时候可以去您家。",
+        "en": "Just one thing, maybe, call me back to tell me what time the electrician can come by your place.",
+        "es": "Solo una cosa, tal vez, llámeme para decirme a qué hora puede pasar el electricista por su casa."
+      },
+      "start": 47.6,
+      "end": 51.76,
+      "words": [
+        {
+          "text": "Juste",
+          "start": 47.6,
+          "end": 47.92
+        },
+        {
+          "text": "une",
+          "start": 47.92,
+          "end": 48.0
+        },
+        {
+          "text": "chose",
+          "start": 48.0,
+          "end": 48.24
+        },
+        {
+          "text": "peut",
+          "start": 48.24,
+          "end": 48.32
+        },
+        {
+          "text": "être",
+          "start": 48.4,
+          "end": 48.64
+        },
+        {
+          "text": "rappelez",
+          "start": 48.88,
+          "end": 49.2
+        },
+        {
+          "text": "moi",
+          "start": 49.2,
+          "end": 49.44
+        },
+        {
+          "text": "pour",
+          "start": 49.44,
+          "end": 49.6
+        },
+        {
+          "text": "me",
+          "start": 49.6,
+          "end": 49.68
+        },
+        {
+          "text": "dire",
+          "start": 49.68,
+          "end": 49.84
+        },
+        {
+          "text": "à",
+          "start": 49.84,
+          "end": 49.92
+        },
+        {
+          "text": "quel",
+          "start": 49.92,
+          "end": 50.16
+        },
+        {
+          "text": "moment",
+          "start": 50.16,
+          "end": 50.4
+        },
+        {
+          "text": "l'électricien",
+          "start": 50.4,
+          "end": 50.96
+        },
+        {
+          "text": "peut",
+          "start": 50.96,
+          "end": 51.04
+        },
+        {
+          "text": "passer",
+          "start": 51.04,
+          "end": 51.36
+        },
+        {
+          "text": "chez",
+          "start": 51.36,
+          "end": 51.52
+        },
+        {
+          "text": "vous",
+          "start": 51.52,
+          "end": 51.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Juste une chose,",
+          "translations": {
+            "zh": "还有一件事，",
+            "en": "Just one thing,",
+            "es": "Solo una cosa,"
+          },
+          "start": 47.6,
+          "end": 48.24
+        },
+        {
+          "text": "peut-être,",
+          "translations": {
+            "zh": "也许，",
+            "en": "maybe,",
+            "es": "tal vez,"
+          },
+          "start": 48.24,
+          "end": 48.64
+        },
+        {
+          "text": "rappelez-moi pour me dire",
+          "translations": {
+            "zh": "请回电话告诉我",
+            "en": "call me back to tell me",
+            "es": "llámeme para decirme"
+          },
+          "start": 48.88,
+          "end": 49.84
+        },
+        {
+          "text": "à quel moment l'électricien peut passer chez vous.",
+          "translations": {
+            "zh": "电工什么时候可以去您家。",
+            "en": "what time the electrician can come by your place.",
+            "es": "a qué hora puede pasar el electricista por su casa."
+          },
+          "start": 49.84,
+          "end": 51.76
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Merci et à bientôt.",
+      "translations": {
+        "zh": "谢谢，回头见。",
+        "en": "Thank you and see you soon.",
+        "es": "Gracias y hasta pronto."
+      },
+      "start": 52.32,
+      "end": 53.52,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 52.32,
+          "end": 52.8
+        },
+        {
+          "text": "et",
+          "start": 52.88,
+          "end": 53.12
+        },
+        {
+          "text": "à",
+          "start": 53.12,
+          "end": 53.2
+        },
+        {
+          "text": "bientôt",
+          "start": 53.2,
+          "end": 53.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci",
+          "translations": {
+            "zh": "谢谢",
+            "en": "Thank you",
+            "es": "Gracias"
+          },
+          "start": 52.32,
+          "end": 52.8
+        },
+        {
+          "text": "et à bientôt.",
+          "translations": {
+            "zh": "回头见。",
+            "en": "and see you soon.",
+            "es": "y hasta pronto."
+          },
+          "start": 52.88,
+          "end": 53.52
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Bye.",
+      "translations": {
+        "zh": "再见。",
+        "en": "Bye.",
+        "es": "Adiós."
+      },
+      "start": 53.92,
+      "end": 54.16,
+      "words": [
+        {
+          "text": "Bye",
+          "start": 53.92,
+          "end": 54.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bye.",
+          "translations": {
+            "zh": "再见。",
+            "en": "Bye.",
+            "es": "Adiós."
+          },
+          "start": 53.92,
+          "end": 54.16
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP05_P24",
+  "audio_filename": "FLS2_EP05_P24.mp3",
+  "audio_path": "downloads/FLS2_EP05_P24.mp3",
+  "episode": 5,
+  "piste": 24,
+  "page": 43,
+  "cd": "CD1"
+}

@@ -1,0 +1,1686 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 1 Piste 2 Page 17",
+      "translations": {
+        "zh": "第一集 第二轨 第17页",
+        "en": "Episode 1 Track 2 Page 17",
+        "es": "Episodio 1 Pista 2 Página 17"
+      },
+      "start": 0.4,
+      "end": 7.28,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.4,
+          "end": 1.12
+        },
+        {
+          "text": "1",
+          "start": 1.28,
+          "end": 1.44
+        },
+        {
+          "text": "Piste",
+          "start": 2.32,
+          "end": 2.72
+        },
+        {
+          "text": "2",
+          "start": 3.44,
+          "end": 3.68
+        },
+        {
+          "text": "Page",
+          "start": 6.0,
+          "end": 6.0
+        },
+        {
+          "text": "17",
+          "start": 6.0,
+          "end": 7.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 1",
+          "translations": {
+            "zh": "第一集",
+            "en": "Episode 1",
+            "es": "Episodio 1"
+          },
+          "start": 0.4,
+          "end": 1.44
+        },
+        {
+          "text": "Piste 2",
+          "translations": {
+            "zh": "第二轨",
+            "en": "Track 2",
+            "es": "Pista 2"
+          },
+          "start": 2.32,
+          "end": 3.68
+        },
+        {
+          "text": "Page 17",
+          "translations": {
+            "zh": "第17页",
+            "en": "Page 17",
+            "es": "Página 17"
+          },
+          "start": 6.0,
+          "end": 7.28
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bonsoir.",
+      "translations": {
+        "zh": "晚上好。",
+        "en": "Good evening.",
+        "es": "Buenas noches."
+      },
+      "start": 10.08,
+      "end": 10.8,
+      "words": [
+        {
+          "text": "Bonsoir",
+          "start": 10.08,
+          "end": 10.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonsoir.",
+          "translations": {
+            "zh": "晚上好。",
+            "en": "Good evening.",
+            "es": "Buenas noches."
+          },
+          "start": 10.08,
+          "end": 10.8
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Je viens rejoindre un ami, je ne sais pas s'il est déjà arrivé.",
+      "translations": {
+        "zh": "我来找一位朋友，我不知道他是不是已经到了。",
+        "en": "I'm coming to meet a friend, I don't know if he's already arrived.",
+        "es": "Vengo a reunirme con un amigo, no sé si ya ha llegado."
+      },
+      "start": 11.04,
+      "end": 13.6,
+      "words": [
+        {
+          "text": "Je",
+          "start": 11.04,
+          "end": 11.04
+        },
+        {
+          "text": "viens",
+          "start": 11.12,
+          "end": 11.36
+        },
+        {
+          "text": "rejoindre",
+          "start": 11.36,
+          "end": 11.68
+        },
+        {
+          "text": "un",
+          "start": 11.68,
+          "end": 11.84
+        },
+        {
+          "text": "ami",
+          "start": 11.84,
+          "end": 12.16
+        },
+        {
+          "text": "je",
+          "start": 12.32,
+          "end": 12.4
+        },
+        {
+          "text": "ne",
+          "start": 12.4,
+          "end": 12.48
+        },
+        {
+          "text": "sais",
+          "start": 12.48,
+          "end": 12.56
+        },
+        {
+          "text": "pas",
+          "start": 12.56,
+          "end": 12.72
+        },
+        {
+          "text": "s'il",
+          "start": 12.72,
+          "end": 12.96
+        },
+        {
+          "text": "est",
+          "start": 12.96,
+          "end": 12.96
+        },
+        {
+          "text": "déjà",
+          "start": 12.96,
+          "end": 13.2
+        },
+        {
+          "text": "arrivé",
+          "start": 13.2,
+          "end": 13.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je viens rejoindre un ami,",
+          "translations": {
+            "zh": "我来找一位朋友，",
+            "en": "I'm coming to meet a friend,",
+            "es": "Vengo a reunirme con un amigo,"
+          },
+          "start": 11.04,
+          "end": 12.16
+        },
+        {
+          "text": "je ne sais pas s'il est déjà arrivé.",
+          "translations": {
+            "zh": "我不知道他是不是已经到了。",
+            "en": "I don't know if he's already arrived.",
+            "es": "no sé si ya ha llegado."
+          },
+          "start": 12.32,
+          "end": 13.6
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "D'accord.",
+      "translations": {
+        "zh": "好的。",
+        "en": "All right.",
+        "es": "De acuerdo."
+      },
+      "start": 14.16,
+      "end": 14.88,
+      "words": [
+        {
+          "text": "D'accord",
+          "start": 14.16,
+          "end": 14.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'accord.",
+          "translations": {
+            "zh": "好的。",
+            "en": "All right.",
+            "es": "De acuerdo."
+          },
+          "start": 14.16,
+          "end": 14.88
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Il ressemble à quoi ?",
+      "translations": {
+        "zh": "他长什么样？",
+        "en": "What does he look like?",
+        "es": "¿Cómo es?"
+      },
+      "start": 15.28,
+      "end": 16.16,
+      "words": [
+        {
+          "text": "Il",
+          "start": 15.28,
+          "end": 15.36
+        },
+        {
+          "text": "ressemble",
+          "start": 15.36,
+          "end": 15.76
+        },
+        {
+          "text": "à",
+          "start": 15.76,
+          "end": 15.84
+        },
+        {
+          "text": "quoi",
+          "start": 15.84,
+          "end": 16.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il ressemble à quoi ?",
+          "translations": {
+            "zh": "他长什么样？",
+            "en": "What does he look like?",
+            "es": "¿Cómo es?"
+          },
+          "start": 15.28,
+          "end": 16.16
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Il a des lunettes, une barbe, il a les cheveux rasés, il est assez grand...",
+      "translations": {
+        "zh": "他戴着眼镜，有胡子，头发剃短了，他相当高……",
+        "en": "He has glasses, a beard, he has shaved hair, he's fairly tall...",
+        "es": "Lleva gafas, barba, tiene el pelo rapado, es bastante alto..."
+      },
+      "start": 16.72,
+      "end": 20.56,
+      "words": [
+        {
+          "text": "Il",
+          "start": 16.72,
+          "end": 16.72
+        },
+        {
+          "text": "a",
+          "start": 16.8,
+          "end": 16.88
+        },
+        {
+          "text": "des",
+          "start": 16.88,
+          "end": 16.96
+        },
+        {
+          "text": "lunettes",
+          "start": 16.96,
+          "end": 17.6
+        },
+        {
+          "text": "une",
+          "start": 17.68,
+          "end": 17.92
+        },
+        {
+          "text": "barbe",
+          "start": 17.92,
+          "end": 18.4
+        },
+        {
+          "text": "il",
+          "start": 18.72,
+          "end": 18.8
+        },
+        {
+          "text": "a",
+          "start": 18.8,
+          "end": 18.88
+        },
+        {
+          "text": "les",
+          "start": 18.88,
+          "end": 18.96
+        },
+        {
+          "text": "cheveux",
+          "start": 18.96,
+          "end": 19.2
+        },
+        {
+          "text": "rasés",
+          "start": 19.2,
+          "end": 19.84
+        },
+        {
+          "text": "il",
+          "start": 19.84,
+          "end": 19.84
+        },
+        {
+          "text": "est",
+          "start": 19.84,
+          "end": 20.0
+        },
+        {
+          "text": "assez",
+          "start": 20.0,
+          "end": 20.24
+        },
+        {
+          "text": "grand",
+          "start": 20.24,
+          "end": 20.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il a des lunettes,",
+          "translations": {
+            "zh": "他戴着眼镜，",
+            "en": "He has glasses,",
+            "es": "Lleva gafas,"
+          },
+          "start": 16.72,
+          "end": 17.6
+        },
+        {
+          "text": "une barbe,",
+          "translations": {
+            "zh": "有胡子，",
+            "en": "a beard,",
+            "es": "barba,"
+          },
+          "start": 17.68,
+          "end": 18.4
+        },
+        {
+          "text": "il a les cheveux rasés,",
+          "translations": {
+            "zh": "头发剃短了，",
+            "en": "he has shaved hair,",
+            "es": "tiene el pelo rapado,"
+          },
+          "start": 18.72,
+          "end": 19.84
+        },
+        {
+          "text": "il est assez grand...",
+          "translations": {
+            "zh": "他相当高……",
+            "en": "he's fairly tall...",
+            "es": "es bastante alto..."
+          },
+          "start": 19.84,
+          "end": 20.56
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Ah oui, je vois.",
+      "translations": {
+        "zh": "啊，是的，我看到了。",
+        "en": "Oh yes, I see.",
+        "es": "Ah, sí, ya veo."
+      },
+      "start": 20.8,
+      "end": 21.6,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 20.8,
+          "end": 20.96
+        },
+        {
+          "text": "oui",
+          "start": 20.96,
+          "end": 21.2
+        },
+        {
+          "text": "je",
+          "start": 21.2,
+          "end": 21.36
+        },
+        {
+          "text": "vois",
+          "start": 21.36,
+          "end": 21.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah oui,",
+          "translations": {
+            "zh": "啊，是的，",
+            "en": "Oh yes,",
+            "es": "Ah, sí,"
+          },
+          "start": 20.8,
+          "end": 21.2
+        },
+        {
+          "text": "je vois.",
+          "translations": {
+            "zh": "我看到了。",
+            "en": "I see.",
+            "es": "ya veo."
+          },
+          "start": 21.2,
+          "end": 21.6
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Il est déjà ici.",
+      "translations": {
+        "zh": "他已经在这里了。",
+        "en": "He's already here.",
+        "es": "Ya está aquí."
+      },
+      "start": 21.84,
+      "end": 22.48,
+      "words": [
+        {
+          "text": "Il",
+          "start": 21.84,
+          "end": 21.92
+        },
+        {
+          "text": "est",
+          "start": 21.92,
+          "end": 21.92
+        },
+        {
+          "text": "déjà",
+          "start": 21.92,
+          "end": 22.16
+        },
+        {
+          "text": "ici",
+          "start": 22.16,
+          "end": 22.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il est déjà ici.",
+          "translations": {
+            "zh": "他已经在这里了。",
+            "en": "He's already here.",
+            "es": "Ya está aquí."
+          },
+          "start": 21.84,
+          "end": 22.48
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Suivez-moi !",
+      "translations": {
+        "zh": "跟我来！",
+        "en": "Follow me!",
+        "es": "¡Síganme!"
+      },
+      "start": 22.88,
+      "end": 23.36,
+      "words": [
+        {
+          "text": "Suivez",
+          "start": 22.88,
+          "end": 23.2
+        },
+        {
+          "text": "moi",
+          "start": 23.2,
+          "end": 23.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Suivez-moi !",
+          "translations": {
+            "zh": "跟我来！",
+            "en": "Follow me!",
+            "es": "¡Síganme!"
+          },
+          "start": 22.88,
+          "end": 23.36
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Mon amie Marie-Ève est célibataire, tu devrais la rencontrer.",
+      "translations": {
+        "zh": "我的朋友玛丽-伊芙是单身，你应该见见她。",
+        "en": "My friend Marie-Ève is single, you should meet her.",
+        "es": "Mi amiga Marie-Ève está soltera, deberías conocerla."
+      },
+      "start": 25.44,
+      "end": 30.4,
+      "words": [
+        {
+          "text": "Mon",
+          "start": 25.44,
+          "end": 27.44
+        },
+        {
+          "text": "amie",
+          "start": 27.44,
+          "end": 27.68
+        },
+        {
+          "text": "Marie",
+          "start": 27.68,
+          "end": 28.0
+        },
+        {
+          "text": "Ève",
+          "start": 28.0,
+          "end": 28.16
+        },
+        {
+          "text": "est",
+          "start": 28.16,
+          "end": 28.24
+        },
+        {
+          "text": "célibataire",
+          "start": 28.24,
+          "end": 28.96
+        },
+        {
+          "text": "tu",
+          "start": 29.28,
+          "end": 29.44
+        },
+        {
+          "text": "devrais",
+          "start": 29.44,
+          "end": 29.68
+        },
+        {
+          "text": "la",
+          "start": 29.68,
+          "end": 29.76
+        },
+        {
+          "text": "rencontrer",
+          "start": 29.76,
+          "end": 30.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mon amie Marie-Ève est célibataire,",
+          "translations": {
+            "zh": "我的朋友玛丽-伊芙是单身，",
+            "en": "My friend Marie-Ève is single,",
+            "es": "Mi amiga Marie-Ève está soltera,"
+          },
+          "start": 25.44,
+          "end": 28.96
+        },
+        {
+          "text": "tu devrais la rencontrer.",
+          "translations": {
+            "zh": "你应该见见她。",
+            "en": "you should meet her.",
+            "es": "deberías conocerla."
+          },
+          "start": 29.28,
+          "end": 30.4
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Il me semble que vous iriez bien ensemble.",
+      "translations": {
+        "zh": "我觉得你们在一起会很合适。",
+        "en": "It seems to me that you would go well together.",
+        "es": "Me parece que irían bien juntos."
+      },
+      "start": 30.8,
+      "end": 32.8,
+      "words": [
+        {
+          "text": "Il",
+          "start": 30.8,
+          "end": 30.96
+        },
+        {
+          "text": "me",
+          "start": 30.96,
+          "end": 30.96
+        },
+        {
+          "text": "semble",
+          "start": 30.96,
+          "end": 31.2
+        },
+        {
+          "text": "que",
+          "start": 31.2,
+          "end": 31.36
+        },
+        {
+          "text": "vous",
+          "start": 31.36,
+          "end": 31.6
+        },
+        {
+          "text": "iriez",
+          "start": 31.6,
+          "end": 31.84
+        },
+        {
+          "text": "bien",
+          "start": 31.84,
+          "end": 32.24
+        },
+        {
+          "text": "ensemble",
+          "start": 32.24,
+          "end": 32.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il me semble",
+          "translations": {
+            "zh": "我觉得",
+            "en": "It seems to me",
+            "es": "Me parece"
+          },
+          "start": 30.8,
+          "end": 31.2
+        },
+        {
+          "text": "que vous iriez bien ensemble.",
+          "translations": {
+            "zh": "你们在一起会很合适。",
+            "en": "that you would go well together.",
+            "es": "que irían bien juntos."
+          },
+          "start": 31.2,
+          "end": 32.8
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Ah oui ?",
+      "translations": {
+        "zh": "啊，是吗？",
+        "en": "Oh yeah?",
+        "es": "¿Ah, sí?"
+      },
+      "start": 33.36,
+      "end": 33.84,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 33.36,
+          "end": 33.6
+        },
+        {
+          "text": "oui",
+          "start": 33.6,
+          "end": 33.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah oui ?",
+          "translations": {
+            "zh": "啊，是吗？",
+            "en": "Oh yeah?",
+            "es": "¿Ah, sí?"
+          },
+          "start": 33.36,
+          "end": 33.84
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Elle a l'air de quoi ?",
+      "translations": {
+        "zh": "她看起来什么样？",
+        "en": "What does she look like?",
+        "es": "¿Qué aspecto tiene?"
+      },
+      "start": 34.32,
+      "end": 34.96,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 34.32,
+          "end": 34.48
+        },
+        {
+          "text": "a",
+          "start": 34.48,
+          "end": 34.56
+        },
+        {
+          "text": "l'air",
+          "start": 34.56,
+          "end": 34.64
+        },
+        {
+          "text": "de",
+          "start": 34.64,
+          "end": 34.72
+        },
+        {
+          "text": "quoi",
+          "start": 34.72,
+          "end": 34.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle a l'air de quoi ?",
+          "translations": {
+            "zh": "她看起来什么样？",
+            "en": "What does she look like?",
+            "es": "¿Qué aspecto tiene?"
+          },
+          "start": 34.32,
+          "end": 34.96
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Elle est toute petite, elle a les cheveux mi-longs, blonds, des yeux incroyablement verts.",
+      "translations": {
+        "zh": "她很矮，她有中长的金发，一双难以置信的绿眼睛。",
+        "en": "She's quite short, she has medium-length, blonde hair, incredibly green eyes.",
+        "es": "Es muy bajita, tiene el pelo medio largo, rubio, unos ojos increíblemente verdes."
+      },
+      "start": 35.68,
+      "end": 40.64,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 35.68,
+          "end": 35.84
+        },
+        {
+          "text": "est",
+          "start": 35.84,
+          "end": 35.92
+        },
+        {
+          "text": "toute",
+          "start": 35.92,
+          "end": 36.08
+        },
+        {
+          "text": "petite",
+          "start": 36.08,
+          "end": 36.32
+        },
+        {
+          "text": "elle",
+          "start": 36.72,
+          "end": 36.88
+        },
+        {
+          "text": "a",
+          "start": 36.88,
+          "end": 36.96
+        },
+        {
+          "text": "les",
+          "start": 36.96,
+          "end": 37.12
+        },
+        {
+          "text": "cheveux",
+          "start": 37.12,
+          "end": 37.44
+        },
+        {
+          "text": "mi",
+          "start": 37.44,
+          "end": 37.68
+        },
+        {
+          "text": "longs",
+          "start": 37.68,
+          "end": 37.92
+        },
+        {
+          "text": "blonds",
+          "start": 38.16,
+          "end": 38.64
+        },
+        {
+          "text": "des",
+          "start": 38.72,
+          "end": 39.12
+        },
+        {
+          "text": "yeux",
+          "start": 39.12,
+          "end": 39.2
+        },
+        {
+          "text": "incroyablement",
+          "start": 39.28,
+          "end": 40.16
+        },
+        {
+          "text": "verts",
+          "start": 40.16,
+          "end": 40.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle est toute petite,",
+          "translations": {
+            "zh": "她很矮，",
+            "en": "She's quite short,",
+            "es": "Es muy bajita,"
+          },
+          "start": 35.68,
+          "end": 36.32
+        },
+        {
+          "text": "elle a les cheveux mi-longs, blonds,",
+          "translations": {
+            "zh": "她有中长的金发，",
+            "en": "she has medium-length, blonde hair,",
+            "es": "tiene el pelo medio largo, rubio,"
+          },
+          "start": 36.72,
+          "end": 38.64
+        },
+        {
+          "text": "des yeux incroyablement verts.",
+          "translations": {
+            "zh": "一双难以置信的绿眼睛。",
+            "en": "incredibly green eyes.",
+            "es": "unos ojos increíblemente verdes."
+          },
+          "start": 38.72,
+          "end": 40.64
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Elle a un très joli visage, un petit nez retroussé.",
+      "translations": {
+        "zh": "她有一张很漂亮的脸，一个小巧的翘鼻子。",
+        "en": "She has a very pretty face, a small turned-up nose.",
+        "es": "Tiene una cara muy bonita, una pequeña nariz respingada."
+      },
+      "start": 41.12,
+      "end": 43.6,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 41.12,
+          "end": 41.2
+        },
+        {
+          "text": "a",
+          "start": 41.2,
+          "end": 41.28
+        },
+        {
+          "text": "un",
+          "start": 41.28,
+          "end": 41.36
+        },
+        {
+          "text": "très",
+          "start": 41.36,
+          "end": 41.6
+        },
+        {
+          "text": "joli",
+          "start": 41.6,
+          "end": 41.92
+        },
+        {
+          "text": "visage",
+          "start": 41.92,
+          "end": 42.48
+        },
+        {
+          "text": "un",
+          "start": 42.48,
+          "end": 42.64
+        },
+        {
+          "text": "petit",
+          "start": 42.64,
+          "end": 42.88
+        },
+        {
+          "text": "nez",
+          "start": 42.88,
+          "end": 43.04
+        },
+        {
+          "text": "retroussé",
+          "start": 43.04,
+          "end": 43.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle a un très joli visage,",
+          "translations": {
+            "zh": "她有一张很漂亮的脸，",
+            "en": "She has a very pretty face,",
+            "es": "Tiene una cara muy bonita,"
+          },
+          "start": 41.12,
+          "end": 42.48
+        },
+        {
+          "text": "un petit nez retroussé.",
+          "translations": {
+            "zh": "一个小巧的翘鼻子。",
+            "en": "a small turned-up nose.",
+            "es": "una pequeña nariz respingada."
+          },
+          "start": 42.48,
+          "end": 43.6
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "C'est une super belle fille, très sportive, comme toi.",
+      "translations": {
+        "zh": "她是一个超级漂亮的女孩，很喜欢运动，和你一样。",
+        "en": "She's a really beautiful girl, very athletic, like you.",
+        "es": "Es una chica súper guapa, muy deportista, como tú."
+      },
+      "start": 44.16,
+      "end": 46.8,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 44.16,
+          "end": 44.4
+        },
+        {
+          "text": "une",
+          "start": 44.4,
+          "end": 44.56
+        },
+        {
+          "text": "super",
+          "start": 44.56,
+          "end": 44.96
+        },
+        {
+          "text": "belle",
+          "start": 44.96,
+          "end": 45.12
+        },
+        {
+          "text": "fille",
+          "start": 45.12,
+          "end": 45.44
+        },
+        {
+          "text": "très",
+          "start": 45.52,
+          "end": 45.76
+        },
+        {
+          "text": "sportive",
+          "start": 45.76,
+          "end": 46.32
+        },
+        {
+          "text": "comme",
+          "start": 46.32,
+          "end": 46.56
+        },
+        {
+          "text": "toi",
+          "start": 46.56,
+          "end": 46.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est une super belle fille,",
+          "translations": {
+            "zh": "她是一个超级漂亮的女孩，",
+            "en": "She's a really beautiful girl,",
+            "es": "Es una chica súper guapa,"
+          },
+          "start": 44.16,
+          "end": 45.44
+        },
+        {
+          "text": "très sportive,",
+          "translations": {
+            "zh": "很喜欢运动，",
+            "en": "very athletic,",
+            "es": "muy deportista,"
+          },
+          "start": 45.52,
+          "end": 46.32
+        },
+        {
+          "text": "comme toi.",
+          "translations": {
+            "zh": "和你一样。",
+            "en": "like you.",
+            "es": "como tú."
+          },
+          "start": 46.32,
+          "end": 46.8
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Pourriez-vous me donner une description précise de la personne que vous avez vue ?",
+      "translations": {
+        "zh": "您能不能给我一个精确的描述，关于您看到的那个人？",
+        "en": "Could you give me a precise description of the person that you saw?",
+        "es": "¿Podría darme una descripción precisa de la persona que usted ha visto?"
+      },
+      "start": 51.12,
+      "end": 54.48,
+      "words": [
+        {
+          "text": "Pourriez",
+          "start": 51.12,
+          "end": 51.36
+        },
+        {
+          "text": "vous",
+          "start": 51.36,
+          "end": 51.52
+        },
+        {
+          "text": "me",
+          "start": 51.52,
+          "end": 51.6
+        },
+        {
+          "text": "donner",
+          "start": 51.6,
+          "end": 51.84
+        },
+        {
+          "text": "une",
+          "start": 51.84,
+          "end": 52.08
+        },
+        {
+          "text": "description",
+          "start": 52.08,
+          "end": 52.64
+        },
+        {
+          "text": "précise",
+          "start": 52.64,
+          "end": 53.28
+        },
+        {
+          "text": "de",
+          "start": 53.28,
+          "end": 53.28
+        },
+        {
+          "text": "la",
+          "start": 53.28,
+          "end": 53.36
+        },
+        {
+          "text": "personne",
+          "start": 53.36,
+          "end": 53.76
+        },
+        {
+          "text": "que",
+          "start": 53.76,
+          "end": 53.84
+        },
+        {
+          "text": "vous",
+          "start": 53.84,
+          "end": 54.08
+        },
+        {
+          "text": "avez",
+          "start": 54.08,
+          "end": 54.24
+        },
+        {
+          "text": "vue",
+          "start": 54.24,
+          "end": 54.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pourriez-vous me donner",
+          "translations": {
+            "zh": "您能不能给我",
+            "en": "Could you give me",
+            "es": "¿Podría darme"
+          },
+          "start": 51.12,
+          "end": 51.84
+        },
+        {
+          "text": "une description précise",
+          "translations": {
+            "zh": "一个精确的描述",
+            "en": "a precise description",
+            "es": "una descripción precisa"
+          },
+          "start": 51.84,
+          "end": 53.28
+        },
+        {
+          "text": "de la personne",
+          "translations": {
+            "zh": "关于那个人",
+            "en": "of the person",
+            "es": "de la persona"
+          },
+          "start": 53.28,
+          "end": 53.76
+        },
+        {
+          "text": "que vous avez vue ?",
+          "translations": {
+            "zh": "您看到的？",
+            "en": "that you saw?",
+            "es": "que usted ha visto?"
+          },
+          "start": 53.76,
+          "end": 54.48
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Oui, c'était un homme dans la trentaine, grand, au moins 6 pieds, élancé, les cheveux courts, foncés, noirs je pense, les yeux foncés aussi, bruns, probablement, avec une barbe.",
+      "translations": {
+        "zh": "是的，那是一个三十多岁的男人，很高，至少六英尺，身材修长，短头发，深色的，我想是黑色的，眼睛也是深色的，棕色的，大概，有胡子。",
+        "en": "Yes, it was a man in his thirties, tall, at least 6 feet, slim, short, dark hair, black I think, dark eyes too, brown, probably, with a beard.",
+        "es": "Sí, era un hombre de unos treinta años, alto, de al menos 6 pies, esbelto, el pelo corto, oscuro, negro creo, los ojos oscuros también, marrones, probablemente, con barba."
+      },
+      "start": 54.8,
+      "end": 70.4,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 54.8,
+          "end": 55.2
+        },
+        {
+          "text": "c'était",
+          "start": 55.68,
+          "end": 56.24
+        },
+        {
+          "text": "un",
+          "start": 56.24,
+          "end": 56.4
+        },
+        {
+          "text": "homme",
+          "start": 56.4,
+          "end": 56.48
+        },
+        {
+          "text": "dans",
+          "start": 56.48,
+          "end": 56.56
+        },
+        {
+          "text": "la",
+          "start": 56.56,
+          "end": 56.72
+        },
+        {
+          "text": "trentaine",
+          "start": 56.72,
+          "end": 57.6
+        },
+        {
+          "text": "grand",
+          "start": 58.0,
+          "end": 58.48
+        },
+        {
+          "text": "au",
+          "start": 58.8,
+          "end": 58.96
+        },
+        {
+          "text": "moins",
+          "start": 58.96,
+          "end": 59.12
+        },
+        {
+          "text": "6",
+          "start": 59.12,
+          "end": 59.76
+        },
+        {
+          "text": "pieds",
+          "start": 59.76,
+          "end": 59.76
+        },
+        {
+          "text": "élancé",
+          "start": 60.48,
+          "end": 61.28
+        },
+        {
+          "text": "les",
+          "start": 61.76,
+          "end": 61.92
+        },
+        {
+          "text": "cheveux",
+          "start": 61.92,
+          "end": 62.16
+        },
+        {
+          "text": "courts",
+          "start": 62.16,
+          "end": 62.88
+        },
+        {
+          "text": "foncés",
+          "start": 63.04,
+          "end": 64.08
+        },
+        {
+          "text": "noirs",
+          "start": 64.72,
+          "end": 65.04
+        },
+        {
+          "text": "je",
+          "start": 65.04,
+          "end": 65.12
+        },
+        {
+          "text": "pense",
+          "start": 65.12,
+          "end": 65.52
+        },
+        {
+          "text": "les",
+          "start": 66.32,
+          "end": 66.48
+        },
+        {
+          "text": "yeux",
+          "start": 66.48,
+          "end": 66.56
+        },
+        {
+          "text": "foncés",
+          "start": 66.56,
+          "end": 66.96
+        },
+        {
+          "text": "aussi",
+          "start": 66.96,
+          "end": 67.6
+        },
+        {
+          "text": "bruns",
+          "start": 68.0,
+          "end": 68.4
+        },
+        {
+          "text": "probablement",
+          "start": 68.4,
+          "end": 68.96
+        },
+        {
+          "text": "avec",
+          "start": 69.68,
+          "end": 69.92
+        },
+        {
+          "text": "une",
+          "start": 69.92,
+          "end": 70.0
+        },
+        {
+          "text": "barbe",
+          "start": 70.0,
+          "end": 70.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 54.8,
+          "end": 55.2
+        },
+        {
+          "text": "c'était un homme dans la trentaine,",
+          "translations": {
+            "zh": "那是一个三十多岁的男人，",
+            "en": "it was a man in his thirties,",
+            "es": "era un hombre de unos treinta años,"
+          },
+          "start": 55.68,
+          "end": 57.6
+        },
+        {
+          "text": "grand,",
+          "translations": {
+            "zh": "很高，",
+            "en": "tall,",
+            "es": "alto,"
+          },
+          "start": 58.0,
+          "end": 58.48
+        },
+        {
+          "text": "au moins 6 pieds,",
+          "translations": {
+            "zh": "至少六英尺，",
+            "en": "at least 6 feet,",
+            "es": "de al menos 6 pies,"
+          },
+          "start": 58.8,
+          "end": 59.76
+        },
+        {
+          "text": "élancé,",
+          "translations": {
+            "zh": "身材修长，",
+            "en": "slim,",
+            "es": "esbelto,"
+          },
+          "start": 60.48,
+          "end": 61.28
+        },
+        {
+          "text": "les cheveux courts, foncés,",
+          "translations": {
+            "zh": "短头发，深色的，",
+            "en": "short, dark hair,",
+            "es": "el pelo corto, oscuro,"
+          },
+          "start": 61.76,
+          "end": 64.08
+        },
+        {
+          "text": "noirs je pense,",
+          "translations": {
+            "zh": "我想是黑色的，",
+            "en": "black I think,",
+            "es": "negro creo,"
+          },
+          "start": 64.72,
+          "end": 65.52
+        },
+        {
+          "text": "les yeux foncés aussi, bruns,",
+          "translations": {
+            "zh": "眼睛也是深色的，棕色的，",
+            "en": "dark eyes too, brown,",
+            "es": "los ojos oscuros también, marrones,"
+          },
+          "start": 66.32,
+          "end": 68.4
+        },
+        {
+          "text": "probablement,",
+          "translations": {
+            "zh": "大概，",
+            "en": "probably,",
+            "es": "probablemente,"
+          },
+          "start": 68.4,
+          "end": 68.96
+        },
+        {
+          "text": "avec une barbe.",
+          "translations": {
+            "zh": "有胡子。",
+            "en": "with a beard.",
+            "es": "con barba."
+          },
+          "start": 69.68,
+          "end": 70.4
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "D'autres détails ?",
+      "translations": {
+        "zh": "还有其他细节吗？",
+        "en": "Any other details?",
+        "es": "¿Otros detalles?"
+      },
+      "start": 71.12,
+      "end": 72.24,
+      "words": [
+        {
+          "text": "D'autres",
+          "start": 71.12,
+          "end": 71.52
+        },
+        {
+          "text": "détails",
+          "start": 71.52,
+          "end": 72.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'autres détails ?",
+          "translations": {
+            "zh": "还有其他细节吗？",
+            "en": "Any other details?",
+            "es": "¿Otros detalles?"
+          },
+          "start": 71.12,
+          "end": 72.24
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Des lunettes, une cicatrice ?",
+      "translations": {
+        "zh": "眼镜，疤痕？",
+        "en": "Glasses, a scar?",
+        "es": "¿Gafas, una cicatriz?"
+      },
+      "start": 72.24,
+      "end": 74.24,
+      "words": [
+        {
+          "text": "Des",
+          "start": 72.24,
+          "end": 72.48
+        },
+        {
+          "text": "lunettes",
+          "start": 72.48,
+          "end": 73.12
+        },
+        {
+          "text": "une",
+          "start": 73.12,
+          "end": 73.2
+        },
+        {
+          "text": "cicatrice",
+          "start": 73.2,
+          "end": 74.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Des lunettes,",
+          "translations": {
+            "zh": "眼镜，",
+            "en": "Glasses,",
+            "es": "¿Gafas,"
+          },
+          "start": 72.24,
+          "end": 73.12
+        },
+        {
+          "text": "une cicatrice ?",
+          "translations": {
+            "zh": "疤痕？",
+            "en": "a scar?",
+            "es": "una cicatriz?"
+          },
+          "start": 73.12,
+          "end": 74.24
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Euh, oui.",
+      "translations": {
+        "zh": "嗯，是的。",
+        "en": "Um, yes.",
+        "es": "Eh, sí."
+      },
+      "start": 74.8,
+      "end": 75.84,
+      "words": [
+        {
+          "text": "Euh",
+          "start": 74.8,
+          "end": 75.28
+        },
+        {
+          "text": "oui",
+          "start": 75.6,
+          "end": 75.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Euh,",
+          "translations": {
+            "zh": "嗯，",
+            "en": "Um,",
+            "es": "Eh,"
+          },
+          "start": 74.8,
+          "end": 75.28
+        },
+        {
+          "text": "oui.",
+          "translations": {
+            "zh": "是的。",
+            "en": "yes.",
+            "es": "sí."
+          },
+          "start": 75.6,
+          "end": 75.84
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Il avait des tatouages sur les mains.",
+      "translations": {
+        "zh": "他手上有纹身。",
+        "en": "He had tattoos on his hands.",
+        "es": "Tenía tatuajes en las manos."
+      },
+      "start": 76.72,
+      "end": 78.4,
+      "words": [
+        {
+          "text": "Il",
+          "start": 76.72,
+          "end": 76.88
+        },
+        {
+          "text": "avait",
+          "start": 76.88,
+          "end": 77.04
+        },
+        {
+          "text": "des",
+          "start": 77.04,
+          "end": 77.2
+        },
+        {
+          "text": "tatouages",
+          "start": 77.2,
+          "end": 77.76
+        },
+        {
+          "text": "sur",
+          "start": 77.76,
+          "end": 78.0
+        },
+        {
+          "text": "les",
+          "start": 78.0,
+          "end": 78.24
+        },
+        {
+          "text": "mains",
+          "start": 78.24,
+          "end": 78.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il avait des tatouages",
+          "translations": {
+            "zh": "他有纹身",
+            "en": "He had tattoos",
+            "es": "Tenía tatuajes"
+          },
+          "start": 76.72,
+          "end": 77.76
+        },
+        {
+          "text": "sur les mains.",
+          "translations": {
+            "zh": "在手上。",
+            "en": "on his hands.",
+            "es": "en las manos."
+          },
+          "start": 77.76,
+          "end": 78.4
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP01_P2",
+  "audio_filename": "FLS2_EP01_P2.mp3",
+  "audio_path": "downloads/FLS2_EP01_P2.mp3",
+  "episode": 1,
+  "piste": 2,
+  "page": 17,
+  "cd": "CD1"
+}

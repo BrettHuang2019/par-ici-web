@@ -19,7 +19,7 @@ export function Player() {
   const [engine, setEngine] = useState<AudioEngine | null>(null);
   const engineRef = useRef<AudioEngine | null>(null);
 
-  const { setCurrentTime, setDuration, setPlaying, zhMode } = usePlayerStore();
+  const { setCurrentTime, setDuration, setPlaying, translationMode, translationLanguage } = usePlayerStore();
   const progressData = useProgressStore(s => s.data);
   const totalSentences = sentences.length;
   const processedSentences = sentences.filter(sentence => {
@@ -104,7 +104,8 @@ export function Player() {
             piste={pisteNum}
             onChunkClick={handleChunkClick}
             onSentenceClick={handleSentenceClick}
-            zhMode={zhMode}
+            translationMode={translationMode}
+            translationLanguage={translationLanguage}
           />
         ))}
       </div>

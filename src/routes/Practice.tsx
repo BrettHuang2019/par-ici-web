@@ -6,6 +6,7 @@ import { useRedWordsStore } from '../store/redWords';
 import { SentenceRow } from '../components/SentenceRow';
 import { AudioEngine } from '../lib/audio';
 import { usePlayerStore } from '../store/player';
+import { TranslationModeButton } from '../components/TranslationModeButton';
 
 type PracticeSentence = {
   sentence: Sentence;
@@ -19,7 +20,7 @@ export function Practice() {
   const [loading, setLoading] = useState(true);
   const getProgress = useProgressStore(s => s.getProgress);
   const getRedKeysForSentence = useRedWordsStore(s => s.getRedKeysForSentence);
-  const { zhMode, setCurrentTime, setDuration, setPlaying } = usePlayerStore();
+  const { translationMode, translationLanguage, setCurrentTime, setDuration, setPlaying } = usePlayerStore();
   const enginesRef = useRef<Map<string, AudioEngine>>(new Map());
 
   useEffect(() => {
@@ -96,6 +97,9 @@ export function Practice() {
         </Link>
         <span className="text-gray-500">|</span>
         <span className="text-sm font-semibold text-purple-300">Practice ({items.length})</span>
+        <div className="ml-auto">
+          <TranslationModeButton />
+        </div>
       </div>
       <div className="flex-1 overflow-y-auto p-3">
         {items.length === 0 ? (
@@ -114,7 +118,8 @@ export function Practice() {
               piste={piste}
               onChunkClick={(chunk) => handleChunkClick(audioSrc, chunk)}
               onSentenceClick={(start, end) => handleSentenceClick(audioSrc, start, end)}
-              zhMode={zhMode}
+              translationMode={translationMode}
+              translationLanguage={translationLanguage}
               practiceMode
             />
           ))
