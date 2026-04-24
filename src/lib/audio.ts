@@ -1,5 +1,5 @@
 type TimeCallback = (t: number) => void;
-const RANGE_PRE_ROLL_SECONDS = 0.5;
+const RANGE_PRE_ROLL_SECONDS = 0.3;
 
 export class AudioEngine {
   private audio: HTMLAudioElement;
