@@ -1,4 +1,5 @@
 type TimeCallback = (t: number) => void;
+const RANGE_PRE_ROLL_SECONDS = 0.5;
 
 export class AudioEngine {
   private audio: HTMLAudioElement;
@@ -43,7 +44,7 @@ export class AudioEngine {
 
   playRange(start: number, end: number) {
     this.stopAt = end;
-    this.audio.currentTime = start;
+    this.audio.currentTime = Math.max(0, start - RANGE_PRE_ROLL_SECONDS);
     this.audio.play();
     this.startRaf();
   }

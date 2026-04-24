@@ -3,7 +3,7 @@ import type { Sentence, Chunk } from '../lib/types';
 import { ChunkBox } from './ChunkBox';
 import { useProgressStore, sentenceKey } from '../store/progress';
 import { useRedWordsStore } from '../store/redWords';
-import { findActiveWord, findActiveChunk } from '../lib/timing';
+import { findActiveWord, findActiveChunk, findChunkForWord } from '../lib/timing';
 import { usePlayerStore } from '../store/player';
 
 type WordState = 'hidden' | 'revealed' | 'red';
@@ -46,13 +46,6 @@ export function SentenceRow({ sentence, isActive, ep, piste, onChunkClick, onSen
   const effectiveRevealed = (practiceMode && !practiceInteracted) ? false : progress.revealed;
 
   useEffect(() => {
-    if (practiceMode) return;
-    if (progress.revealed) {
-      setWordStates(prev => prev.map(s => s === 'hidden' ? 'revealed' : s));
-    }
-  }, [progress.revealed]);
-
-  useEffect(() => {
     if (isActive && rowRef.current) {
       rowRef.current.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     }
@@ -61,9 +54,7 @@ export function SentenceRow({ sentence, isActive, ep, piste, onChunkClick, onSen
   const activeWordIdx = isActive ? findActiveWord(sentence.words, currentTime) : -1;
   const activeChunkIdx = isActive ? findActiveChunk(sentence.chunks, currentTime) : -1;
 
-  const wordToChunk = sentence.words.map(w =>
-    sentence.chunks.find(c => w.start >= c.start && w.start <= c.end) ?? sentence.chunks[0]
-  );
+  const wordToChunk = sentence.words.map(w => findChunkForWord(sentence.chunks, w.start) ?? sentence.chunks[0]);
 
   const chunkWordIndices: number[][] = sentence.chunks.map((_, ci) =>
     sentence.words.reduce<number[]>((acc, _w, wi) => {
@@ -115,7 +106,13 @@ export function SentenceRow({ sentence, isActive, ep, piste, onChunkClick, onSen
 
   const handleFail = () => {
     if (practiceMode) setPracticeInteracted(true);
-    setStatus(key, progress.status === 'fail' ? 'none' : 'fail');
+    if (progress.status === 'fail') {
+      setStatus(key, 'none');
+    } else {
+      setWordStates(sentence.words.map((w) => isRed(w.text) ? 'red' : 'revealed'));
+      setRevealed(key, true);
+      setStatus(key, 'fail');
+    }
   };
 
   const statusBg =

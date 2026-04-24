@@ -6,6 +6,7 @@ import { AudioBar } from '../components/AudioBar';
 import { SentenceRow } from '../components/SentenceRow';
 import { usePlayerStore } from '../store/player';
 import { findActiveSentence } from '../lib/timing';
+import { useProgressStore, sentenceKey } from '../store/progress';
 
 export function Player() {
   const { ep, piste } = useParams<{ ep: string; piste: string }>();
@@ -15,9 +16,17 @@ export function Player() {
   const [pisteInfo, setPisteInfo] = useState<PisteInfo | null>(null);
   const [sentences, setSentences] = useState<Sentence[]>([]);
   const [activeSentenceIdx, setActiveSentenceIdx] = useState(0);
+  const [engine, setEngine] = useState<AudioEngine | null>(null);
   const engineRef = useRef<AudioEngine | null>(null);
 
   const { setCurrentTime, setDuration, setPlaying, zhMode } = usePlayerStore();
+  const progressData = useProgressStore(s => s.data);
+  const totalSentences = sentences.length;
+  const processedSentences = sentences.filter(sentence => {
+    const progress = progressData[sentenceKey(epNum, pisteNum, sentence.id)];
+    return progress && (progress.status !== 'none' || progress.revealed);
+  }).length;
+  const progressPercent = totalSentences > 0 ? Math.round((processedSentences / totalSentences) * 100) : 0;
 
   useEffect(() => {
     fetch('/data/manifest.json')
@@ -37,17 +46,19 @@ export function Player() {
           engine.onEnded(() => setPlaying(false));
           engine.onRangePaused(() => setPlaying(false));
           engineRef.current = engine;
+          setEngine(engine);
         });
       });
 
     return () => {
       engineRef.current?.destroy();
       engineRef.current = null;
+      setEngine(null);
       setCurrentTime(0);
       setDuration(0);
       setPlaying(false);
     };
-  }, [epNum, pisteNum]);
+  }, [epNum, pisteNum, setCurrentTime, setDuration, setPlaying]);
 
   const handleChunkClick = (chunk: Chunk) => {
     if (!engineRef.current) return;
@@ -68,7 +79,6 @@ export function Player() {
   return (
     <div className="min-h-screen bg-gray-950 text-white flex flex-col">
       <div className="sticky top-0 z-10 bg-gray-900">
-        <AudioBar engine={engineRef.current} />
         <div className="border-b border-gray-800 px-4 py-2 flex items-center gap-3">
           <Link
             to="/"
@@ -77,8 +87,12 @@ export function Player() {
             ← Home
           </Link>
           <span className="text-gray-500">|</span>
-          <span className="text-sm font-medium">Épisode {epNum} — {pisteInfo.title}</span>
+          <span className="min-w-0 flex-1 truncate text-sm font-medium">Épisode {epNum} — {pisteInfo.title}</span>
+          <span className="rounded border border-gray-700 bg-gray-800 px-2 py-1 text-xs font-semibold text-gray-200">
+            {progressPercent}%
+          </span>
         </div>
+        <AudioBar engine={engine} />
       </div>
       <div className="flex-1 overflow-y-auto p-3">
         {sentences.map((s, i) => (

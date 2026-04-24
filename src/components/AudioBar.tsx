@@ -4,7 +4,25 @@ import type { AudioEngine } from '../lib/audio';
 
 type Props = { engine: AudioEngine | null };
 
-const ZH_LABELS = ['中', '句', '全', '块'];
+const ZH_MODE_LABELS = ['Translations off', 'Sentence translation', 'Sentence and chunk translations', 'Chunk translations'];
+const ZH_MODE_ICONS = [
+  <span aria-hidden="true" className="flex gap-0.5">
+    <span className="block h-1.5 w-1.5 rounded-full bg-current opacity-35" />
+    <span className="block h-1.5 w-1.5 rounded-full bg-current opacity-35" />
+  </span>,
+  <span aria-hidden="true" className="flex gap-0.5">
+    <span className="block h-1.5 w-1.5 rounded-full bg-current" />
+    <span className="block h-1.5 w-1.5 rounded-full bg-current opacity-35" />
+  </span>,
+  <span aria-hidden="true" className="flex gap-0.5">
+    <span className="block h-1.5 w-1.5 rounded-full bg-current" />
+    <span className="block h-1.5 w-1.5 rounded-full bg-current" />
+  </span>,
+  <span aria-hidden="true" className="flex gap-0.5">
+    <span className="block h-1.5 w-1.5 rounded-full bg-current opacity-35" />
+    <span className="block h-1.5 w-1.5 rounded-full bg-current" />
+  </span>,
+];
 
 export function AudioBar({ engine }: Props) {
   const { currentTime, duration, playing, zhMode, setPlaying, cycleZh } = usePlayerStore();
@@ -48,9 +66,11 @@ export function AudioBar({ engine }: Props) {
         <span className="text-gray-400 text-sm w-10 flex-shrink-0 text-right">{fmt(duration)}</span>
         <button
           onClick={cycleZh}
-          className={`px-2 py-1 rounded text-xs font-bold border ${zhMode > 0 ? 'bg-yellow-500 border-yellow-400 text-black' : 'bg-gray-700 border-gray-600 text-gray-300'}`}
+          className={`h-8 w-8 rounded border flex items-center justify-center ${zhMode > 0 ? 'bg-yellow-500 border-yellow-400 text-black' : 'bg-gray-700 border-gray-600 text-gray-300'}`}
+          title={ZH_MODE_LABELS[zhMode]}
+          aria-label={ZH_MODE_LABELS[zhMode]}
         >
-          {ZH_LABELS[zhMode]}
+          {ZH_MODE_ICONS[zhMode]}
         </button>
       </div>
     </div>

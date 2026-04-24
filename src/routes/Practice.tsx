@@ -43,16 +43,17 @@ export function Practice() {
         setItems(result);
         setLoading(false);
       });
-  }, []);
+  }, [getProgress, getRedKeysForSentence]);
 
   useEffect(() => {
+    const engines = enginesRef.current;
     return () => {
-      for (const eng of enginesRef.current.values()) eng.destroy();
+      for (const eng of engines.values()) eng.destroy();
       setCurrentTime(0);
       setDuration(0);
       setPlaying(false);
     };
-  }, []);
+  }, [setCurrentTime, setDuration, setPlaying]);
 
   const getEngine = (audioSrc: string): AudioEngine => {
     if (!enginesRef.current.has(audioSrc)) {
