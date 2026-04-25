@@ -1,0 +1,1761 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 2 Piste 10 Page 22",
+      "translations": {
+        "zh": "第二集 第十段 第二十二页",
+        "en": "Episode 2 Track 10 Page 22",
+        "es": "Episodio 2 Pista 10 Página 22"
+      },
+      "start": 0.56,
+      "end": 7.68,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.56,
+          "end": 1.28
+        },
+        {
+          "text": "2",
+          "start": 1.68,
+          "end": 1.84
+        },
+        {
+          "text": "Piste",
+          "start": 2.72,
+          "end": 3.12
+        },
+        {
+          "text": "10",
+          "start": 3.84,
+          "end": 4.16
+        },
+        {
+          "text": "Page",
+          "start": 4.16,
+          "end": 6.88
+        },
+        {
+          "text": "22",
+          "start": 7.12,
+          "end": 7.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 2",
+          "translations": {
+            "zh": "第二集",
+            "en": "Episode 2",
+            "es": "Episodio 2"
+          },
+          "start": 0.56,
+          "end": 1.84
+        },
+        {
+          "text": "Piste 10",
+          "translations": {
+            "zh": "第十段",
+            "en": "Track 10",
+            "es": "Pista 10"
+          },
+          "start": 2.72,
+          "end": 4.16
+        },
+        {
+          "text": "Page 22",
+          "translations": {
+            "zh": "第二十二页",
+            "en": "Page 22",
+            "es": "Página 22"
+          },
+          "start": 4.16,
+          "end": 7.68
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Ah, Marie-France !",
+      "translations": {
+        "zh": "啊，玛丽-弗朗丝！",
+        "en": "Ah, Marie-France!",
+        "es": "¡Ah, Marie-France!"
+      },
+      "start": 9.28,
+      "end": 10.16,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 9.28,
+          "end": 9.52
+        },
+        {
+          "text": "Marie",
+          "start": 9.52,
+          "end": 9.76
+        },
+        {
+          "text": "France",
+          "start": 9.76,
+          "end": 10.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah,",
+          "translations": {
+            "zh": "啊，",
+            "en": "Ah,",
+            "es": "Ah,"
+          },
+          "start": 9.28,
+          "end": 9.52
+        },
+        {
+          "text": "Marie-France !",
+          "translations": {
+            "zh": "玛丽-弗朗丝！",
+            "en": "Marie-France!",
+            "es": "Marie-France!"
+          },
+          "start": 9.52,
+          "end": 10.16
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "C'est toi !",
+      "translations": {
+        "zh": "是你！",
+        "en": "It's you!",
+        "es": "¡Eres tú!"
+      },
+      "start": 10.24,
+      "end": 10.72,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 10.24,
+          "end": 10.48
+        },
+        {
+          "text": "toi",
+          "start": 10.48,
+          "end": 10.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est toi !",
+          "translations": {
+            "zh": "是你！",
+            "en": "It's you!",
+            "es": "¡Eres tú!"
+          },
+          "start": 10.24,
+          "end": 10.72
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "J'avais tellement hâte que tu rentres.",
+      "translations": {
+        "zh": "我特别盼着你回来。",
+        "en": "I was so eager for you to come home.",
+        "es": "Tenía tantas ganas de que regresaras."
+      },
+      "start": 10.88,
+      "end": 12.48,
+      "words": [
+        {
+          "text": "J'avais",
+          "start": 10.88,
+          "end": 11.2
+        },
+        {
+          "text": "tellement",
+          "start": 11.2,
+          "end": 11.6
+        },
+        {
+          "text": "hâte",
+          "start": 11.6,
+          "end": 11.84
+        },
+        {
+          "text": "que",
+          "start": 11.84,
+          "end": 11.92
+        },
+        {
+          "text": "tu",
+          "start": 11.92,
+          "end": 12.08
+        },
+        {
+          "text": "rentres",
+          "start": 12.08,
+          "end": 12.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'avais tellement hâte",
+          "translations": {
+            "zh": "我特别盼望",
+            "en": "I was so eager",
+            "es": "Tenía tantas ganas"
+          },
+          "start": 10.88,
+          "end": 11.84
+        },
+        {
+          "text": "que tu rentres.",
+          "translations": {
+            "zh": "你回来。",
+            "en": "for you to come home.",
+            "es": "de que regresaras."
+          },
+          "start": 11.84,
+          "end": 12.48
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Salut.",
+      "translations": {
+        "zh": "你好。",
+        "en": "Hi.",
+        "es": "Hola."
+      },
+      "start": 12.8,
+      "end": 13.28,
+      "words": [
+        {
+          "text": "Salut",
+          "start": 12.8,
+          "end": 13.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Salut.",
+          "translations": {
+            "zh": "你好。",
+            "en": "Hi.",
+            "es": "Hola."
+          },
+          "start": 12.8,
+          "end": 13.28
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "As-tu passé une bonne journée ?",
+      "translations": {
+        "zh": "你今天过得好吗？",
+        "en": "Did you have a good day?",
+        "es": "¿Pasaste un buen día?"
+      },
+      "start": 13.52,
+      "end": 14.64,
+      "words": [
+        {
+          "text": "As",
+          "start": 13.52,
+          "end": 13.6
+        },
+        {
+          "text": "tu",
+          "start": 13.6,
+          "end": 13.76
+        },
+        {
+          "text": "passé",
+          "start": 13.76,
+          "end": 14.0
+        },
+        {
+          "text": "une",
+          "start": 14.0,
+          "end": 14.08
+        },
+        {
+          "text": "bonne",
+          "start": 14.08,
+          "end": 14.24
+        },
+        {
+          "text": "journée",
+          "start": 14.24,
+          "end": 14.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "As-tu passé une bonne journée ?",
+          "translations": {
+            "zh": "你今天过得好吗？",
+            "en": "Did you have a good day?",
+            "es": "¿Pasaste un buen día?"
+          },
+          "start": 13.52,
+          "end": 14.64
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Oui, oui, mais j'ai fait toute une découverte tout à l'heure !",
+      "translations": {
+        "zh": "是的，是的，但我刚才有了一个大发现！",
+        "en": "Yes, yes, but I made quite a discovery earlier!",
+        "es": "¡Sí, sí, pero hice todo un descubrimiento hace un rato!"
+      },
+      "start": 15.12,
+      "end": 17.28,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 15.12,
+          "end": 15.36
+        },
+        {
+          "text": "oui",
+          "start": 15.36,
+          "end": 15.36
+        },
+        {
+          "text": "mais",
+          "start": 15.36,
+          "end": 15.6
+        },
+        {
+          "text": "j'ai",
+          "start": 15.6,
+          "end": 15.68
+        },
+        {
+          "text": "fait",
+          "start": 15.68,
+          "end": 15.92
+        },
+        {
+          "text": "toute",
+          "start": 15.92,
+          "end": 16.16
+        },
+        {
+          "text": "une",
+          "start": 16.16,
+          "end": 16.24
+        },
+        {
+          "text": "découverte",
+          "start": 16.24,
+          "end": 16.72
+        },
+        {
+          "text": "tout",
+          "start": 16.72,
+          "end": 16.8
+        },
+        {
+          "text": "à",
+          "start": 16.88,
+          "end": 16.88
+        },
+        {
+          "text": "l'heure",
+          "start": 16.88,
+          "end": 17.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui, oui,",
+          "translations": {
+            "zh": "是的，是的，",
+            "en": "Yes, yes,",
+            "es": "Sí, sí,"
+          },
+          "start": 15.12,
+          "end": 15.36
+        },
+        {
+          "text": "mais j'ai fait toute une découverte",
+          "translations": {
+            "zh": "但我有了一个大发现",
+            "en": "but I made quite a discovery",
+            "es": "pero hice todo un descubrimiento"
+          },
+          "start": 15.36,
+          "end": 16.72
+        },
+        {
+          "text": "tout à l'heure !",
+          "translations": {
+            "zh": "刚才！",
+            "en": "earlier!",
+            "es": "¡hace un rato!"
+          },
+          "start": 16.72,
+          "end": 17.28
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Quoi ?",
+      "translations": {
+        "zh": "什么？",
+        "en": "What?",
+        "es": "¿Qué?"
+      },
+      "start": 17.68,
+      "end": 17.92,
+      "words": [
+        {
+          "text": "Quoi",
+          "start": 17.68,
+          "end": 17.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quoi ?",
+          "translations": {
+            "zh": "什么？",
+            "en": "What?",
+            "es": "¿Qué?"
+          },
+          "start": 17.68,
+          "end": 17.92
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "J'ai fait du lavage après le diner, pis je suis sorti sur le balcon pour aller étendre le linge sur la corde à linge.",
+      "translations": {
+        "zh": "晚饭后我洗了衣服，然后我去了阳台把衣服晾在晾衣绳上。",
+        "en": "I did some laundry after dinner, and I went out onto the balcony to hang the laundry on the clothesline.",
+        "es": "Hice lavado después de la cena, y salí al balcón para tender la ropa en la cuerda de tender."
+      },
+      "start": 18.56,
+      "end": 22.72,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 18.56,
+          "end": 18.72
+        },
+        {
+          "text": "fait",
+          "start": 18.72,
+          "end": 18.88
+        },
+        {
+          "text": "du",
+          "start": 18.88,
+          "end": 18.96
+        },
+        {
+          "text": "lavage",
+          "start": 18.96,
+          "end": 19.36
+        },
+        {
+          "text": "après",
+          "start": 19.36,
+          "end": 19.6
+        },
+        {
+          "text": "le",
+          "start": 19.6,
+          "end": 19.6
+        },
+        {
+          "text": "diner",
+          "start": 19.6,
+          "end": 20.0
+        },
+        {
+          "text": "pis",
+          "start": 20.0,
+          "end": 20.16
+        },
+        {
+          "text": "je",
+          "start": 20.16,
+          "end": 20.16
+        },
+        {
+          "text": "suis",
+          "start": 20.16,
+          "end": 20.32
+        },
+        {
+          "text": "sorti",
+          "start": 20.32,
+          "end": 20.64
+        },
+        {
+          "text": "sur",
+          "start": 20.64,
+          "end": 20.8
+        },
+        {
+          "text": "le",
+          "start": 20.8,
+          "end": 20.8
+        },
+        {
+          "text": "balcon",
+          "start": 20.8,
+          "end": 21.2
+        },
+        {
+          "text": "pour",
+          "start": 21.2,
+          "end": 21.36
+        },
+        {
+          "text": "aller",
+          "start": 21.36,
+          "end": 21.44
+        },
+        {
+          "text": "étendre",
+          "start": 21.44,
+          "end": 21.68
+        },
+        {
+          "text": "le",
+          "start": 21.68,
+          "end": 21.76
+        },
+        {
+          "text": "linge",
+          "start": 21.76,
+          "end": 21.92
+        },
+        {
+          "text": "sur",
+          "start": 21.92,
+          "end": 22.08
+        },
+        {
+          "text": "la",
+          "start": 22.08,
+          "end": 22.08
+        },
+        {
+          "text": "corde",
+          "start": 22.08,
+          "end": 22.32
+        },
+        {
+          "text": "à",
+          "start": 22.32,
+          "end": 22.4
+        },
+        {
+          "text": "linge",
+          "start": 22.4,
+          "end": 22.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai fait du lavage après le diner,",
+          "translations": {
+            "zh": "晚饭后我洗了衣服，",
+            "en": "I did some laundry after dinner,",
+            "es": "Hice lavado después de la cena,"
+          },
+          "start": 18.56,
+          "end": 20.0
+        },
+        {
+          "text": "pis je suis sorti sur le balcon",
+          "translations": {
+            "zh": "然后我去了阳台上",
+            "en": "and I went out onto the balcony",
+            "es": "y salí al balcón"
+          },
+          "start": 20.0,
+          "end": 21.2
+        },
+        {
+          "text": "pour aller étendre le linge sur la corde à linge.",
+          "translations": {
+            "zh": "把衣服晾在晾衣绳上。",
+            "en": "to hang the laundry on the clothesline.",
+            "es": "para tender la ropa en la cuerda de tender."
+          },
+          "start": 21.2,
+          "end": 22.72
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Pis là, en arrivant dehors, j'ai découvert un raton laveur avec ses petits.",
+      "translations": {
+        "zh": "然后呢，到了外面，我发现了一只浣熊和它的幼崽。",
+        "en": "And then, upon going outside, I discovered a raccoon with her babies.",
+        "es": "Y entonces, al salir afuera, descubrí un mapache con sus crías."
+      },
+      "start": 23.36,
+      "end": 26.72,
+      "words": [
+        {
+          "text": "Pis",
+          "start": 23.36,
+          "end": 23.52
+        },
+        {
+          "text": "là",
+          "start": 23.52,
+          "end": 23.68
+        },
+        {
+          "text": "en",
+          "start": 23.76,
+          "end": 23.92
+        },
+        {
+          "text": "arrivant",
+          "start": 23.92,
+          "end": 24.24
+        },
+        {
+          "text": "dehors",
+          "start": 24.24,
+          "end": 24.64
+        },
+        {
+          "text": "j'ai",
+          "start": 24.64,
+          "end": 24.8
+        },
+        {
+          "text": "découvert",
+          "start": 24.8,
+          "end": 25.28
+        },
+        {
+          "text": "un",
+          "start": 25.28,
+          "end": 25.36
+        },
+        {
+          "text": "raton",
+          "start": 25.36,
+          "end": 25.68
+        },
+        {
+          "text": "laveur",
+          "start": 25.68,
+          "end": 26.08
+        },
+        {
+          "text": "avec",
+          "start": 26.08,
+          "end": 26.24
+        },
+        {
+          "text": "ses",
+          "start": 26.24,
+          "end": 26.4
+        },
+        {
+          "text": "petits",
+          "start": 26.4,
+          "end": 26.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pis là,",
+          "translations": {
+            "zh": "然后呢，",
+            "en": "And then,",
+            "es": "Y entonces,"
+          },
+          "start": 23.36,
+          "end": 23.68
+        },
+        {
+          "text": "en arrivant dehors,",
+          "translations": {
+            "zh": "到了外面，",
+            "en": "upon going outside,",
+            "es": "al salir afuera,"
+          },
+          "start": 23.76,
+          "end": 24.64
+        },
+        {
+          "text": "j'ai découvert un raton laveur",
+          "translations": {
+            "zh": "我发现了一只浣熊",
+            "en": "I discovered a raccoon",
+            "es": "descubrí un mapache"
+          },
+          "start": 24.64,
+          "end": 26.08
+        },
+        {
+          "text": "avec ses petits.",
+          "translations": {
+            "zh": "和它的幼崽。",
+            "en": "with her babies.",
+            "es": "con sus crías."
+          },
+          "start": 26.08,
+          "end": 26.72
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Le nid est entre le barbecue pis la table.",
+      "translations": {
+        "zh": "窝在烧烤架和桌子之间。",
+        "en": "The nest is between the barbecue and the table.",
+        "es": "El nido está entre la barbacoa y la mesa."
+      },
+      "start": 27.52,
+      "end": 29.28,
+      "words": [
+        {
+          "text": "Le",
+          "start": 27.52,
+          "end": 27.68
+        },
+        {
+          "text": "nid",
+          "start": 27.68,
+          "end": 27.92
+        },
+        {
+          "text": "est",
+          "start": 27.92,
+          "end": 28.08
+        },
+        {
+          "text": "entre",
+          "start": 28.08,
+          "end": 28.24
+        },
+        {
+          "text": "le",
+          "start": 28.24,
+          "end": 28.32
+        },
+        {
+          "text": "barbecue",
+          "start": 28.32,
+          "end": 28.72
+        },
+        {
+          "text": "pis",
+          "start": 28.8,
+          "end": 28.88
+        },
+        {
+          "text": "la",
+          "start": 28.88,
+          "end": 28.96
+        },
+        {
+          "text": "table",
+          "start": 28.96,
+          "end": 29.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le nid est",
+          "translations": {
+            "zh": "窝在",
+            "en": "The nest is",
+            "es": "El nido está"
+          },
+          "start": 27.52,
+          "end": 28.08
+        },
+        {
+          "text": "entre le barbecue pis la table.",
+          "translations": {
+            "zh": "烧烤架和桌子之间。",
+            "en": "between the barbecue and the table.",
+            "es": "entre la barbacoa y la mesa."
+          },
+          "start": 28.08,
+          "end": 29.28
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Ils sont tellement beaux !",
+      "translations": {
+        "zh": "它们太漂亮了！",
+        "en": "They're so beautiful!",
+        "es": "¡Son tan hermosos!"
+      },
+      "start": 29.52,
+      "end": 30.32,
+      "words": [
+        {
+          "text": "Ils",
+          "start": 29.52,
+          "end": 29.6
+        },
+        {
+          "text": "sont",
+          "start": 29.6,
+          "end": 29.76
+        },
+        {
+          "text": "tellement",
+          "start": 29.76,
+          "end": 30.08
+        },
+        {
+          "text": "beaux",
+          "start": 30.08,
+          "end": 30.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ils sont tellement beaux !",
+          "translations": {
+            "zh": "它们太漂亮了！",
+            "en": "They're so beautiful!",
+            "es": "¡Son tan hermosos!"
+          },
+          "start": 29.52,
+          "end": 30.32
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Qu'est-ce que tu as fait ?",
+      "translations": {
+        "zh": "你做了什么？",
+        "en": "What did you do?",
+        "es": "¿Qué hiciste?"
+      },
+      "start": 30.8,
+      "end": 31.6,
+      "words": [
+        {
+          "text": "Qu'est",
+          "start": 30.8,
+          "end": 31.04
+        },
+        {
+          "text": "ce",
+          "start": 31.04,
+          "end": 31.04
+        },
+        {
+          "text": "que",
+          "start": 31.04,
+          "end": 31.2
+        },
+        {
+          "text": "tu",
+          "start": 31.2,
+          "end": 31.28
+        },
+        {
+          "text": "as",
+          "start": 31.28,
+          "end": 31.36
+        },
+        {
+          "text": "fait",
+          "start": 31.36,
+          "end": 31.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Qu'est-ce que tu as fait ?",
+          "translations": {
+            "zh": "你做了什么？",
+            "en": "What did you do?",
+            "es": "¿Qué hiciste?"
+          },
+          "start": 30.8,
+          "end": 31.6
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Ben, rien.",
+      "translations": {
+        "zh": "嗯，什么也没做。",
+        "en": "Well, nothing.",
+        "es": "Pues, nada."
+      },
+      "start": 32.32,
+      "end": 32.72,
+      "words": [
+        {
+          "text": "Ben",
+          "start": 32.32,
+          "end": 32.4
+        },
+        {
+          "text": "rien",
+          "start": 32.4,
+          "end": 32.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ben,",
+          "translations": {
+            "zh": "嗯，",
+            "en": "Well,",
+            "es": "Pues,"
+          },
+          "start": 32.32,
+          "end": 32.4
+        },
+        {
+          "text": "rien.",
+          "translations": {
+            "zh": "什么也没做。",
+            "en": "nothing.",
+            "es": "nada."
+          },
+          "start": 32.4,
+          "end": 32.72
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Je suis rentré, je ne voulais pas leur faire peur.",
+      "translations": {
+        "zh": "我回屋了，我不想吓到它们。",
+        "en": "I went back inside, I didn't want to scare them.",
+        "es": "Entré, no quería asustarlos."
+      },
+      "start": 32.96,
+      "end": 35.28,
+      "words": [
+        {
+          "text": "Je",
+          "start": 32.96,
+          "end": 33.04
+        },
+        {
+          "text": "suis",
+          "start": 33.04,
+          "end": 33.12
+        },
+        {
+          "text": "rentré",
+          "start": 33.12,
+          "end": 33.52
+        },
+        {
+          "text": "je",
+          "start": 34.16,
+          "end": 34.24
+        },
+        {
+          "text": "ne",
+          "start": 34.24,
+          "end": 34.24
+        },
+        {
+          "text": "voulais",
+          "start": 34.32,
+          "end": 34.48
+        },
+        {
+          "text": "pas",
+          "start": 34.48,
+          "end": 34.64
+        },
+        {
+          "text": "leur",
+          "start": 34.64,
+          "end": 34.72
+        },
+        {
+          "text": "faire",
+          "start": 34.72,
+          "end": 35.28
+        },
+        {
+          "text": "peur",
+          "start": 35.28,
+          "end": 35.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis rentré,",
+          "translations": {
+            "zh": "我回屋了，",
+            "en": "I went back inside,",
+            "es": "Entré,"
+          },
+          "start": 32.96,
+          "end": 33.52
+        },
+        {
+          "text": "je ne voulais pas",
+          "translations": {
+            "zh": "我不想",
+            "en": "I didn't want to",
+            "es": "no quería"
+          },
+          "start": 34.16,
+          "end": 34.64
+        },
+        {
+          "text": "leur faire peur.",
+          "translations": {
+            "zh": "吓到它们。",
+            "en": "to scare them.",
+            "es": "asustarlos."
+          },
+          "start": 34.64,
+          "end": 35.28
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Ayoye !",
+      "translations": {
+        "zh": "哎呀！",
+        "en": "Yikes!",
+        "es": "¡Uy!"
+      },
+      "start": 35.84,
+      "end": 36.56,
+      "words": [
+        {
+          "text": "Ayoye",
+          "start": 35.84,
+          "end": 36.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ayoye !",
+          "translations": {
+            "zh": "哎呀！",
+            "en": "Yikes!",
+            "es": "¡Uy!"
+          },
+          "start": 35.84,
+          "end": 36.56
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Qu'est-ce qu'on fait ?",
+      "translations": {
+        "zh": "我们怎么办？",
+        "en": "What do we do?",
+        "es": "¿Qué hacemos?"
+      },
+      "start": 36.56,
+      "end": 37.04,
+      "words": [
+        {
+          "text": "Qu'est",
+          "start": 36.56,
+          "end": 36.64
+        },
+        {
+          "text": "ce",
+          "start": 36.64,
+          "end": 36.72
+        },
+        {
+          "text": "qu'on",
+          "start": 36.72,
+          "end": 36.88
+        },
+        {
+          "text": "fait",
+          "start": 36.88,
+          "end": 37.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Qu'est-ce qu'on fait ?",
+          "translations": {
+            "zh": "我们怎么办？",
+            "en": "What do we do?",
+            "es": "¿Qué hacemos?"
+          },
+          "start": 36.56,
+          "end": 37.04
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Je vais essayer de les attraper, pis de les amener dans un parc.",
+      "translations": {
+        "zh": "我要试着抓住它们，然后带它们去一个公园。",
+        "en": "I'm going to try to catch them, and take them to a park.",
+        "es": "Voy a intentar atraparlos y llevarlos a un parque."
+      },
+      "start": 37.92,
+      "end": 40.08,
+      "words": [
+        {
+          "text": "Je",
+          "start": 37.92,
+          "end": 38.0
+        },
+        {
+          "text": "vais",
+          "start": 38.0,
+          "end": 38.08
+        },
+        {
+          "text": "essayer",
+          "start": 38.08,
+          "end": 38.32
+        },
+        {
+          "text": "de",
+          "start": 38.32,
+          "end": 38.4
+        },
+        {
+          "text": "les",
+          "start": 38.4,
+          "end": 38.56
+        },
+        {
+          "text": "attraper",
+          "start": 38.56,
+          "end": 38.96
+        },
+        {
+          "text": "pis",
+          "start": 38.96,
+          "end": 39.12
+        },
+        {
+          "text": "de",
+          "start": 39.12,
+          "end": 39.12
+        },
+        {
+          "text": "les",
+          "start": 39.12,
+          "end": 39.28
+        },
+        {
+          "text": "amener",
+          "start": 39.28,
+          "end": 39.52
+        },
+        {
+          "text": "dans",
+          "start": 39.52,
+          "end": 39.68
+        },
+        {
+          "text": "un",
+          "start": 39.68,
+          "end": 39.76
+        },
+        {
+          "text": "parc",
+          "start": 39.76,
+          "end": 40.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais essayer de les attraper,",
+          "translations": {
+            "zh": "我要试着抓住它们，",
+            "en": "I'm going to try to catch them,",
+            "es": "Voy a intentar atraparlos,"
+          },
+          "start": 37.92,
+          "end": 38.96
+        },
+        {
+          "text": "pis de les amener dans un parc.",
+          "translations": {
+            "zh": "然后带它们去一个公园。",
+            "en": "and take them to a park.",
+            "es": "y llevarlos a un parque."
+          },
+          "start": 38.96,
+          "end": 40.08
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Comment tu vas faire ça ?",
+      "translations": {
+        "zh": "你要怎么做？",
+        "en": "How are you going to do that?",
+        "es": "¿Cómo vas a hacer eso?"
+      },
+      "start": 40.4,
+      "end": 41.6,
+      "words": [
+        {
+          "text": "Comment",
+          "start": 40.4,
+          "end": 40.72
+        },
+        {
+          "text": "tu",
+          "start": 40.72,
+          "end": 40.88
+        },
+        {
+          "text": "vas",
+          "start": 40.88,
+          "end": 40.96
+        },
+        {
+          "text": "faire",
+          "start": 40.96,
+          "end": 41.2
+        },
+        {
+          "text": "ça",
+          "start": 41.2,
+          "end": 41.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Comment tu vas faire ça ?",
+          "translations": {
+            "zh": "你要怎么做？",
+            "en": "How are you going to do that?",
+            "es": "¿Cómo vas a hacer eso?"
+          },
+          "start": 40.4,
+          "end": 41.6
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "On n'a pas de cage !",
+      "translations": {
+        "zh": "我们没有笼子！",
+        "en": "We don't have a cage!",
+        "es": "¡No tenemos jaula!"
+      },
+      "start": 41.92,
+      "end": 42.96,
+      "words": [
+        {
+          "text": "On",
+          "start": 41.92,
+          "end": 42.0
+        },
+        {
+          "text": "n'a",
+          "start": 42.0,
+          "end": 42.08
+        },
+        {
+          "text": "pas",
+          "start": 42.08,
+          "end": 42.24
+        },
+        {
+          "text": "de",
+          "start": 42.24,
+          "end": 42.32
+        },
+        {
+          "text": "cage",
+          "start": 42.32,
+          "end": 42.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On n'a pas de cage !",
+          "translations": {
+            "zh": "我们没有笼子！",
+            "en": "We don't have a cage!",
+            "es": "¡No tenemos jaula!"
+          },
+          "start": 41.92,
+          "end": 42.96
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Ils ont peut-être la rage, ce n'est pas une bonne idée.",
+      "translations": {
+        "zh": "它们可能有狂犬病，这不是个好主意。",
+        "en": "They might have rabies, it's not a good idea.",
+        "es": "Quizás tengan rabia, no es una buena idea."
+      },
+      "start": 43.52,
+      "end": 45.92,
+      "words": [
+        {
+          "text": "Ils",
+          "start": 43.52,
+          "end": 43.6
+        },
+        {
+          "text": "ont",
+          "start": 43.6,
+          "end": 43.68
+        },
+        {
+          "text": "peut",
+          "start": 43.68,
+          "end": 43.84
+        },
+        {
+          "text": "être",
+          "start": 43.84,
+          "end": 43.92
+        },
+        {
+          "text": "la",
+          "start": 43.92,
+          "end": 44.0
+        },
+        {
+          "text": "rage",
+          "start": 44.0,
+          "end": 44.64
+        },
+        {
+          "text": "ce",
+          "start": 45.04,
+          "end": 45.2
+        },
+        {
+          "text": "n'est",
+          "start": 45.2,
+          "end": 45.2
+        },
+        {
+          "text": "pas",
+          "start": 45.2,
+          "end": 45.36
+        },
+        {
+          "text": "une",
+          "start": 45.36,
+          "end": 45.52
+        },
+        {
+          "text": "bonne",
+          "start": 45.52,
+          "end": 45.68
+        },
+        {
+          "text": "idée",
+          "start": 45.68,
+          "end": 45.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ils ont peut-être la rage,",
+          "translations": {
+            "zh": "它们可能有狂犬病，",
+            "en": "They might have rabies,",
+            "es": "Quizás tengan rabia,"
+          },
+          "start": 43.52,
+          "end": 44.64
+        },
+        {
+          "text": "ce n'est pas une bonne idée.",
+          "translations": {
+            "zh": "这不是个好主意。",
+            "en": "it's not a good idea.",
+            "es": "no es una buena idea."
+          },
+          "start": 45.04,
+          "end": 45.92
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Ouais, tu as raison.",
+      "translations": {
+        "zh": "嗯，你说得对。",
+        "en": "Yeah, you're right.",
+        "es": "Sí, tienes razón."
+      },
+      "start": 46.56,
+      "end": 47.52,
+      "words": [
+        {
+          "text": "Ouais",
+          "start": 46.56,
+          "end": 46.8
+        },
+        {
+          "text": "tu",
+          "start": 47.04,
+          "end": 47.12
+        },
+        {
+          "text": "as",
+          "start": 47.12,
+          "end": 47.12
+        },
+        {
+          "text": "raison",
+          "start": 47.12,
+          "end": 47.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ouais,",
+          "translations": {
+            "zh": "嗯，",
+            "en": "Yeah,",
+            "es": "Sí,"
+          },
+          "start": 46.56,
+          "end": 46.8
+        },
+        {
+          "text": "tu as raison.",
+          "translations": {
+            "zh": "你说得对。",
+            "en": "you're right.",
+            "es": "tienes razón."
+          },
+          "start": 47.04,
+          "end": 47.52
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "On va appeler la propriétaire pour lui dire.",
+      "translations": {
+        "zh": "我们给房东打电话告诉她。",
+        "en": "We'll call the landlady to tell her.",
+        "es": "Vamos a llamar a la propietaria para decírselo."
+      },
+      "start": 48.16,
+      "end": 49.76,
+      "words": [
+        {
+          "text": "On",
+          "start": 48.16,
+          "end": 48.32
+        },
+        {
+          "text": "va",
+          "start": 48.32,
+          "end": 48.4
+        },
+        {
+          "text": "appeler",
+          "start": 48.4,
+          "end": 48.56
+        },
+        {
+          "text": "la",
+          "start": 48.56,
+          "end": 48.72
+        },
+        {
+          "text": "propriétaire",
+          "start": 48.72,
+          "end": 49.28
+        },
+        {
+          "text": "pour",
+          "start": 49.28,
+          "end": 49.36
+        },
+        {
+          "text": "lui",
+          "start": 49.36,
+          "end": 49.52
+        },
+        {
+          "text": "dire",
+          "start": 49.52,
+          "end": 49.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On va appeler la propriétaire",
+          "translations": {
+            "zh": "我们给房东打电话",
+            "en": "We'll call the landlady",
+            "es": "Vamos a llamar a la propietaria"
+          },
+          "start": 48.16,
+          "end": 49.28
+        },
+        {
+          "text": "pour lui dire.",
+          "translations": {
+            "zh": "告诉她。",
+            "en": "to tell her.",
+            "es": "para decírselo."
+          },
+          "start": 49.28,
+          "end": 49.76
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "OK.",
+      "translations": {
+        "zh": "好的。",
+        "en": "OK.",
+        "es": "OK."
+      },
+      "start": 50.4,
+      "end": 50.56,
+      "words": [
+        {
+          "text": "OK",
+          "start": 50.4,
+          "end": 50.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "OK.",
+          "translations": {
+            "zh": "好的。",
+            "en": "OK.",
+            "es": "OK."
+          },
+          "start": 50.4,
+          "end": 50.56
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "As-tu son numéro ?",
+      "translations": {
+        "zh": "你有她的电话号码吗？",
+        "en": "Do you have her number?",
+        "es": "¿Tienes su número?"
+      },
+      "start": 50.56,
+      "end": 51.84,
+      "words": [
+        {
+          "text": "As",
+          "start": 50.56,
+          "end": 51.2
+        },
+        {
+          "text": "tu",
+          "start": 51.2,
+          "end": 51.2
+        },
+        {
+          "text": "son",
+          "start": 51.28,
+          "end": 51.44
+        },
+        {
+          "text": "numéro",
+          "start": 51.44,
+          "end": 51.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "As-tu son numéro ?",
+          "translations": {
+            "zh": "你有她的电话号码吗？",
+            "en": "Do you have her number?",
+            "es": "¿Tienes su número?"
+          },
+          "start": 50.56,
+          "end": 51.84
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Je ne le trouve pas dans mes trucs...",
+      "translations": {
+        "zh": "我在我的东西里找不到它……",
+        "en": "I can't find it in my stuff...",
+        "es": "No lo encuentro entre mis cosas..."
+      },
+      "start": 52.72,
+      "end": 53.84,
+      "words": [
+        {
+          "text": "Je",
+          "start": 52.72,
+          "end": 52.8
+        },
+        {
+          "text": "ne",
+          "start": 52.8,
+          "end": 52.8
+        },
+        {
+          "text": "le",
+          "start": 52.8,
+          "end": 52.88
+        },
+        {
+          "text": "trouve",
+          "start": 52.88,
+          "end": 53.12
+        },
+        {
+          "text": "pas",
+          "start": 53.12,
+          "end": 53.2
+        },
+        {
+          "text": "dans",
+          "start": 53.2,
+          "end": 53.36
+        },
+        {
+          "text": "mes",
+          "start": 53.36,
+          "end": 53.44
+        },
+        {
+          "text": "trucs",
+          "start": 53.44,
+          "end": 53.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je ne le trouve pas",
+          "translations": {
+            "zh": "我找不到它",
+            "en": "I can't find it",
+            "es": "No lo encuentro"
+          },
+          "start": 52.72,
+          "end": 53.2
+        },
+        {
+          "text": "dans mes trucs...",
+          "translations": {
+            "zh": "在我的东西里……",
+            "en": "in my stuff...",
+            "es": "entre mis cosas..."
+          },
+          "start": 53.2,
+          "end": 53.84
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Oui, attends un peu...",
+      "translations": {
+        "zh": "有，等一下……",
+        "en": "Yes, wait a moment...",
+        "es": "Sí, espera un poco..."
+      },
+      "start": 54.24,
+      "end": 55.44,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 54.24,
+          "end": 54.56
+        },
+        {
+          "text": "attends",
+          "start": 54.96,
+          "end": 55.12
+        },
+        {
+          "text": "un",
+          "start": 55.12,
+          "end": 55.2
+        },
+        {
+          "text": "peu",
+          "start": 55.2,
+          "end": 55.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "有，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 54.24,
+          "end": 54.56
+        },
+        {
+          "text": "attends un peu...",
+          "translations": {
+            "zh": "等一下……",
+            "en": "wait a moment...",
+            "es": "espera un poco..."
+          },
+          "start": 54.96,
+          "end": 55.44
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP02_P10",
+  "audio_filename": "FLS2_EP02_P10.mp3",
+  "audio_path": "downloads/FLS2_EP02_P10.mp3",
+  "episode": 2,
+  "piste": 10,
+  "page": 22,
+  "cd": "CD1"
+}

@@ -1,0 +1,1081 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 1 Piste 4 Page 19",
+      "translations": {
+        "zh": "第1集 第4轨 第19页",
+        "en": "Episode 1 Track 4 Page 19",
+        "es": "Episodio 1 Pista 4 Página 19"
+      },
+      "start": 0.8,
+      "end": 7.12,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.8,
+          "end": 1.52
+        },
+        {
+          "text": "1",
+          "start": 1.68,
+          "end": 1.84
+        },
+        {
+          "text": "Piste",
+          "start": 3.12,
+          "end": 3.52
+        },
+        {
+          "text": "4",
+          "start": 4.24,
+          "end": 4.72
+        },
+        {
+          "text": "Page",
+          "start": 4.72,
+          "end": 4.72
+        },
+        {
+          "text": "19",
+          "start": 6.56,
+          "end": 7.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 1",
+          "translations": {
+            "zh": "第1集",
+            "en": "Episode 1",
+            "es": "Episodio 1"
+          },
+          "start": 0.8,
+          "end": 1.84
+        },
+        {
+          "text": "Piste 4",
+          "translations": {
+            "zh": "第4轨",
+            "en": "Track 4",
+            "es": "Pista 4"
+          },
+          "start": 3.12,
+          "end": 4.72
+        },
+        {
+          "text": "Page 19",
+          "translations": {
+            "zh": "第19页",
+            "en": "Page 19",
+            "es": "Página 19"
+          },
+          "start": 4.72,
+          "end": 7.12
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Thomas !",
+      "translations": {
+        "zh": "托马斯！",
+        "en": "Thomas!",
+        "es": "¡Thomas!"
+      },
+      "start": 9.76,
+      "end": 10.08,
+      "words": [
+        {
+          "text": "Thomas",
+          "start": 9.76,
+          "end": 10.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Thomas !",
+          "translations": {
+            "zh": "托马斯！",
+            "en": "Thomas!",
+            "es": "¡Thomas!"
+          },
+          "start": 9.76,
+          "end": 10.08
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Tu ne sais pas ce qui m'est arrivé ?",
+      "translations": {
+        "zh": "你不知道我发生了什么事吗？",
+        "en": "You don't know what happened to me?",
+        "es": "¿No sabes lo que me pasó?"
+      },
+      "start": 10.4,
+      "end": 11.36,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 10.4,
+          "end": 10.4
+        },
+        {
+          "text": "ne",
+          "start": 10.4,
+          "end": 10.4
+        },
+        {
+          "text": "sais",
+          "start": 10.4,
+          "end": 10.56
+        },
+        {
+          "text": "pas",
+          "start": 10.56,
+          "end": 10.8
+        },
+        {
+          "text": "ce",
+          "start": 10.8,
+          "end": 10.8
+        },
+        {
+          "text": "qui",
+          "start": 10.8,
+          "end": 10.88
+        },
+        {
+          "text": "m'est",
+          "start": 10.88,
+          "end": 11.04
+        },
+        {
+          "text": "arrivé",
+          "start": 11.04,
+          "end": 11.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu ne sais pas",
+          "translations": {
+            "zh": "你不知道",
+            "en": "You don't know",
+            "es": "¿No sabes"
+          },
+          "start": 10.4,
+          "end": 10.8
+        },
+        {
+          "text": "ce qui m'est arrivé ?",
+          "translations": {
+            "zh": "我发生了什么事吗？",
+            "en": "what happened to me?",
+            "es": "lo que me pasó?"
+          },
+          "start": 10.8,
+          "end": 11.36
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Non ?",
+      "translations": {
+        "zh": "不知道吗？",
+        "en": "No?",
+        "es": "¿No?"
+      },
+      "start": 11.84,
+      "end": 12.16,
+      "words": [
+        {
+          "text": "Non",
+          "start": 11.84,
+          "end": 12.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Non ?",
+          "translations": {
+            "zh": "不知道吗？",
+            "en": "No?",
+            "es": "¿No?"
+          },
+          "start": 11.84,
+          "end": 12.16
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Quand je suis arrivée au terminus...",
+      "translations": {
+        "zh": "当我到达终点站的时候……",
+        "en": "When I arrived at the terminus...",
+        "es": "Cuando llegué a la terminal..."
+      },
+      "start": 12.88,
+      "end": 14.16,
+      "words": [
+        {
+          "text": "Quand",
+          "start": 12.88,
+          "end": 12.96
+        },
+        {
+          "text": "je",
+          "start": 12.96,
+          "end": 13.04
+        },
+        {
+          "text": "suis",
+          "start": 13.04,
+          "end": 13.2
+        },
+        {
+          "text": "arrivée",
+          "start": 13.2,
+          "end": 13.44
+        },
+        {
+          "text": "au",
+          "start": 13.44,
+          "end": 13.52
+        },
+        {
+          "text": "terminus",
+          "start": 13.52,
+          "end": 14.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quand je suis arrivée",
+          "translations": {
+            "zh": "当我到达的时候",
+            "en": "When I arrived",
+            "es": "Cuando llegué"
+          },
+          "start": 12.88,
+          "end": 13.44
+        },
+        {
+          "text": "au terminus...",
+          "translations": {
+            "zh": "在终点站……",
+            "en": "at the terminus...",
+            "es": "a la terminal..."
+          },
+          "start": 13.44,
+          "end": 14.16
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Je pensais que tu venais me chercher...",
+      "translations": {
+        "zh": "我以为你来接我……",
+        "en": "I thought that you were coming to pick me up...",
+        "es": "Pensaba que venías a buscarme..."
+      },
+      "start": 14.64,
+      "end": 15.92,
+      "words": [
+        {
+          "text": "Je",
+          "start": 14.64,
+          "end": 14.8
+        },
+        {
+          "text": "pensais",
+          "start": 14.8,
+          "end": 15.04
+        },
+        {
+          "text": "que",
+          "start": 15.04,
+          "end": 15.12
+        },
+        {
+          "text": "tu",
+          "start": 15.12,
+          "end": 15.28
+        },
+        {
+          "text": "venais",
+          "start": 15.28,
+          "end": 15.36
+        },
+        {
+          "text": "me",
+          "start": 15.36,
+          "end": 15.44
+        },
+        {
+          "text": "chercher",
+          "start": 15.44,
+          "end": 15.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je pensais",
+          "translations": {
+            "zh": "我以为",
+            "en": "I thought",
+            "es": "Pensaba"
+          },
+          "start": 14.64,
+          "end": 15.04
+        },
+        {
+          "text": "que tu venais me chercher...",
+          "translations": {
+            "zh": "你来接我……",
+            "en": "that you were coming to pick me up...",
+            "es": "que venías a buscarme..."
+          },
+          "start": 15.04,
+          "end": 15.92
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Je rentre dans le terminus, je vois un gars de dos.",
+      "translations": {
+        "zh": "我走进终点站，看到一个家伙的背影。",
+        "en": "I go into the terminus, I see a guy from behind.",
+        "es": "Entro a la terminal, veo a un chico de espaldas."
+      },
+      "start": 16.64,
+      "end": 18.8,
+      "words": [
+        {
+          "text": "Je",
+          "start": 16.64,
+          "end": 16.72
+        },
+        {
+          "text": "rentre",
+          "start": 16.72,
+          "end": 16.96
+        },
+        {
+          "text": "dans",
+          "start": 16.96,
+          "end": 17.04
+        },
+        {
+          "text": "le",
+          "start": 17.04,
+          "end": 17.12
+        },
+        {
+          "text": "terminus",
+          "start": 17.12,
+          "end": 17.76
+        },
+        {
+          "text": "je",
+          "start": 17.84,
+          "end": 18.0
+        },
+        {
+          "text": "vois",
+          "start": 18.0,
+          "end": 18.16
+        },
+        {
+          "text": "un",
+          "start": 18.16,
+          "end": 18.24
+        },
+        {
+          "text": "gars",
+          "start": 18.24,
+          "end": 18.48
+        },
+        {
+          "text": "de",
+          "start": 18.48,
+          "end": 18.56
+        },
+        {
+          "text": "dos",
+          "start": 18.56,
+          "end": 18.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je rentre dans le terminus,",
+          "translations": {
+            "zh": "我走进终点站，",
+            "en": "I go into the terminus,",
+            "es": "Entro a la terminal,"
+          },
+          "start": 16.64,
+          "end": 17.76
+        },
+        {
+          "text": "je vois un gars de dos.",
+          "translations": {
+            "zh": "我看到一个家伙的背影。",
+            "en": "I see a guy from behind.",
+            "es": "veo a un chico de espaldas."
+          },
+          "start": 17.84,
+          "end": 18.8
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Je lance mon sac à dos par terre, je me mets à courir vers lui, je le serre dans mes bras de toutes mes forces, pis je dis : \" Allo cousin !",
+      "translations": {
+        "zh": "我把背包扔到地上，我朝他跑过去，我拼命地把他紧紧抱在怀里，然后我说：\" 嗨表哥！",
+        "en": "I throw my backpack on the ground, I start running toward him, I hug him with all my strength, and then I say: \"Hey cousin!",
+        "es": "Tiro mi mochila al suelo, me pongo a correr hacia él, lo abrazo con todas mis fuerzas, y digo: \" ¡Hola primo!"
+      },
+      "start": 19.36,
+      "end": 26.0,
+      "words": [
+        {
+          "text": "Je",
+          "start": 19.36,
+          "end": 19.52
+        },
+        {
+          "text": "lance",
+          "start": 19.52,
+          "end": 19.76
+        },
+        {
+          "text": "mon",
+          "start": 19.76,
+          "end": 19.84
+        },
+        {
+          "text": "sac",
+          "start": 19.84,
+          "end": 20.08
+        },
+        {
+          "text": "à",
+          "start": 20.16,
+          "end": 20.16
+        },
+        {
+          "text": "dos",
+          "start": 20.16,
+          "end": 20.32
+        },
+        {
+          "text": "par",
+          "start": 20.32,
+          "end": 20.48
+        },
+        {
+          "text": "terre",
+          "start": 20.48,
+          "end": 20.8
+        },
+        {
+          "text": "je",
+          "start": 20.88,
+          "end": 21.04
+        },
+        {
+          "text": "me",
+          "start": 21.04,
+          "end": 21.12
+        },
+        {
+          "text": "mets",
+          "start": 21.12,
+          "end": 21.2
+        },
+        {
+          "text": "à",
+          "start": 21.2,
+          "end": 21.28
+        },
+        {
+          "text": "courir",
+          "start": 21.28,
+          "end": 21.68
+        },
+        {
+          "text": "vers",
+          "start": 21.68,
+          "end": 21.92
+        },
+        {
+          "text": "lui",
+          "start": 21.92,
+          "end": 22.24
+        },
+        {
+          "text": "je",
+          "start": 22.24,
+          "end": 22.4
+        },
+        {
+          "text": "le",
+          "start": 22.4,
+          "end": 22.48
+        },
+        {
+          "text": "serre",
+          "start": 22.48,
+          "end": 22.8
+        },
+        {
+          "text": "dans",
+          "start": 22.8,
+          "end": 22.88
+        },
+        {
+          "text": "mes",
+          "start": 22.88,
+          "end": 23.04
+        },
+        {
+          "text": "bras",
+          "start": 23.04,
+          "end": 23.28
+        },
+        {
+          "text": "de",
+          "start": 23.28,
+          "end": 23.36
+        },
+        {
+          "text": "toutes",
+          "start": 23.36,
+          "end": 23.6
+        },
+        {
+          "text": "mes",
+          "start": 23.6,
+          "end": 23.76
+        },
+        {
+          "text": "forces",
+          "start": 23.76,
+          "end": 24.16
+        },
+        {
+          "text": "pis",
+          "start": 24.16,
+          "end": 24.32
+        },
+        {
+          "text": "je",
+          "start": 24.32,
+          "end": 24.4
+        },
+        {
+          "text": "dis",
+          "start": 24.4,
+          "end": 24.64
+        },
+        {
+          "text": "Allo",
+          "start": 24.88,
+          "end": 25.36
+        },
+        {
+          "text": "cousin",
+          "start": 25.36,
+          "end": 26.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je lance mon sac à dos par terre,",
+          "translations": {
+            "zh": "我把背包扔到地上，",
+            "en": "I throw my backpack on the ground,",
+            "es": "Tiro mi mochila al suelo,"
+          },
+          "start": 19.36,
+          "end": 20.8
+        },
+        {
+          "text": "je me mets à courir vers lui,",
+          "translations": {
+            "zh": "我开始朝他跑过去，",
+            "en": "I start running toward him,",
+            "es": "me pongo a correr hacia él,"
+          },
+          "start": 20.88,
+          "end": 22.24
+        },
+        {
+          "text": "je le serre dans mes bras de toutes mes forces,",
+          "translations": {
+            "zh": "我拼命地把他紧紧抱在怀里，",
+            "en": "I hug him with all my strength,",
+            "es": "lo abrazo con todas mis fuerzas,"
+          },
+          "start": 22.24,
+          "end": 24.16
+        },
+        {
+          "text": "pis je dis :",
+          "translations": {
+            "zh": "然后我说：",
+            "en": "and then I say:",
+            "es": "y digo:"
+          },
+          "start": 24.16,
+          "end": 24.64
+        },
+        {
+          "text": "\" Allo cousin !",
+          "translations": {
+            "zh": "\" 嗨表哥！",
+            "en": "\"Hey cousin!",
+            "es": "\" ¡Hola primo!"
+          },
+          "start": 24.88,
+          "end": 26.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Le gars se retourne il me regarde pis il me dit Euh je pense que vous vous trompez de personne",
+      "translations": {
+        "zh": "那个家伙转过身来，他看着我，然后他对我说 嗯 我觉得 你认错人了",
+        "en": "The guy turns around, he looks at me, and then he says to me, Um I think that you've got the wrong person",
+        "es": "El chico se da la vuelta, me mira y me dice: Eh, creo que se equivoca de persona"
+      },
+      "start": 27.12,
+      "end": 33.12,
+      "words": [
+        {
+          "text": "Le",
+          "start": 27.12,
+          "end": 27.2
+        },
+        {
+          "text": "gars",
+          "start": 27.2,
+          "end": 27.44
+        },
+        {
+          "text": "se",
+          "start": 27.44,
+          "end": 27.52
+        },
+        {
+          "text": "retourne",
+          "start": 27.52,
+          "end": 28.08
+        },
+        {
+          "text": "il",
+          "start": 28.48,
+          "end": 28.64
+        },
+        {
+          "text": "me",
+          "start": 28.64,
+          "end": 28.64
+        },
+        {
+          "text": "regarde",
+          "start": 28.64,
+          "end": 29.2
+        },
+        {
+          "text": "pis",
+          "start": 29.2,
+          "end": 29.36
+        },
+        {
+          "text": "il",
+          "start": 29.36,
+          "end": 29.44
+        },
+        {
+          "text": "me",
+          "start": 29.44,
+          "end": 29.52
+        },
+        {
+          "text": "dit",
+          "start": 29.52,
+          "end": 29.92
+        },
+        {
+          "text": "Euh",
+          "start": 30.56,
+          "end": 30.88
+        },
+        {
+          "text": "je",
+          "start": 31.2,
+          "end": 31.28
+        },
+        {
+          "text": "pense",
+          "start": 31.28,
+          "end": 31.6
+        },
+        {
+          "text": "que",
+          "start": 31.6,
+          "end": 31.76
+        },
+        {
+          "text": "vous",
+          "start": 31.76,
+          "end": 31.84
+        },
+        {
+          "text": "vous",
+          "start": 31.84,
+          "end": 32.0
+        },
+        {
+          "text": "trompez",
+          "start": 32.0,
+          "end": 32.4
+        },
+        {
+          "text": "de",
+          "start": 32.4,
+          "end": 32.48
+        },
+        {
+          "text": "personne",
+          "start": 32.48,
+          "end": 33.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le gars se retourne",
+          "translations": {
+            "zh": "那个家伙转过身来",
+            "en": "The guy turns around",
+            "es": "El chico se da la vuelta"
+          },
+          "start": 27.12,
+          "end": 28.08
+        },
+        {
+          "text": "il me regarde",
+          "translations": {
+            "zh": "他看着我",
+            "en": "he looks at me",
+            "es": "me mira"
+          },
+          "start": 28.48,
+          "end": 29.2
+        },
+        {
+          "text": "pis il me dit",
+          "translations": {
+            "zh": "然后他对我说",
+            "en": "and then he says to me",
+            "es": "y me dice"
+          },
+          "start": 29.2,
+          "end": 29.92
+        },
+        {
+          "text": "Euh je pense que",
+          "translations": {
+            "zh": "嗯 我觉得",
+            "en": "Um I think that",
+            "es": "Eh, creo que"
+          },
+          "start": 30.56,
+          "end": 31.76
+        },
+        {
+          "text": "vous vous trompez de personne",
+          "translations": {
+            "zh": "你认错人了",
+            "en": "you've got the wrong person",
+            "es": "se equivoca de persona"
+          },
+          "start": 31.76,
+          "end": 33.12
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Au même moment Marie France vient vers moi et elle me dit Excuse moi est ce que c'est toi Geneviève",
+      "translations": {
+        "zh": "与此同时玛丽·弗朗斯朝我走来，她对我说 打扰一下 你是热纳维耶芙吗",
+        "en": "At the same moment Marie France comes toward me and she says to me, Excuse me, are you Geneviève",
+        "es": "En ese mismo momento Marie France viene hacia mí y me dice: Perdona, ¿eres tú Geneviève?"
+      },
+      "start": 33.68,
+      "end": 39.36,
+      "words": [
+        {
+          "text": "Au",
+          "start": 33.68,
+          "end": 33.76
+        },
+        {
+          "text": "même",
+          "start": 33.76,
+          "end": 34.0
+        },
+        {
+          "text": "moment",
+          "start": 34.08,
+          "end": 34.48
+        },
+        {
+          "text": "Marie",
+          "start": 34.96,
+          "end": 35.2
+        },
+        {
+          "text": "France",
+          "start": 35.2,
+          "end": 35.52
+        },
+        {
+          "text": "vient",
+          "start": 35.52,
+          "end": 35.76
+        },
+        {
+          "text": "vers",
+          "start": 35.76,
+          "end": 35.92
+        },
+        {
+          "text": "moi",
+          "start": 35.92,
+          "end": 36.24
+        },
+        {
+          "text": "et",
+          "start": 36.24,
+          "end": 36.32
+        },
+        {
+          "text": "elle",
+          "start": 36.32,
+          "end": 36.48
+        },
+        {
+          "text": "me",
+          "start": 36.48,
+          "end": 36.48
+        },
+        {
+          "text": "dit",
+          "start": 36.48,
+          "end": 36.8
+        },
+        {
+          "text": "Excuse",
+          "start": 37.36,
+          "end": 37.76
+        },
+        {
+          "text": "moi",
+          "start": 37.76,
+          "end": 38.0
+        },
+        {
+          "text": "est",
+          "start": 38.24,
+          "end": 38.24
+        },
+        {
+          "text": "ce",
+          "start": 38.24,
+          "end": 38.4
+        },
+        {
+          "text": "que",
+          "start": 38.4,
+          "end": 38.48
+        },
+        {
+          "text": "c'est",
+          "start": 38.48,
+          "end": 38.64
+        },
+        {
+          "text": "toi",
+          "start": 38.64,
+          "end": 38.88
+        },
+        {
+          "text": "Geneviève",
+          "start": 38.88,
+          "end": 39.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Au même moment",
+          "translations": {
+            "zh": "与此同时",
+            "en": "At the same moment",
+            "es": "En ese mismo momento"
+          },
+          "start": 33.68,
+          "end": 34.48
+        },
+        {
+          "text": "Marie France vient vers moi",
+          "translations": {
+            "zh": "玛丽·弗朗斯朝我走来",
+            "en": "Marie France comes toward me",
+            "es": "Marie France viene hacia mí"
+          },
+          "start": 34.96,
+          "end": 36.24
+        },
+        {
+          "text": "et elle me dit",
+          "translations": {
+            "zh": "她对我说",
+            "en": "and she says to me",
+            "es": "y me dice"
+          },
+          "start": 36.24,
+          "end": 36.8
+        },
+        {
+          "text": "Excuse moi",
+          "translations": {
+            "zh": "打扰一下",
+            "en": "Excuse me",
+            "es": "Perdona"
+          },
+          "start": 37.36,
+          "end": 38.0
+        },
+        {
+          "text": "est ce que c'est toi Geneviève",
+          "translations": {
+            "zh": "你是热纳维耶芙吗",
+            "en": "are you Geneviève",
+            "es": "¿eres tú Geneviève?"
+          },
+          "start": 38.24,
+          "end": 39.36
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "J'étais tellement gênée là tu ne peux pas t'imaginer",
+      "translations": {
+        "zh": "我当时太尴尬了 真的 你简直无法想象",
+        "en": "I was so embarrassed, you can't imagine",
+        "es": "Estaba tan avergonzada, no te puedes imaginar"
+      },
+      "start": 42.48,
+      "end": 44.8,
+      "words": [
+        {
+          "text": "J'étais",
+          "start": 42.48,
+          "end": 42.8
+        },
+        {
+          "text": "tellement",
+          "start": 42.8,
+          "end": 43.28
+        },
+        {
+          "text": "gênée",
+          "start": 43.28,
+          "end": 43.76
+        },
+        {
+          "text": "là",
+          "start": 43.76,
+          "end": 43.92
+        },
+        {
+          "text": "tu",
+          "start": 43.92,
+          "end": 44.08
+        },
+        {
+          "text": "ne",
+          "start": 44.08,
+          "end": 44.16
+        },
+        {
+          "text": "peux",
+          "start": 44.16,
+          "end": 44.16
+        },
+        {
+          "text": "pas",
+          "start": 44.16,
+          "end": 44.32
+        },
+        {
+          "text": "t'imaginer",
+          "start": 44.32,
+          "end": 44.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'étais tellement gênée",
+          "translations": {
+            "zh": "我当时太尴尬了",
+            "en": "I was so embarrassed",
+            "es": "Estaba tan avergonzada"
+          },
+          "start": 42.48,
+          "end": 43.76
+        },
+        {
+          "text": "là",
+          "translations": {
+            "zh": "真的",
+            "en": "there",
+            "es": "ahí"
+          },
+          "start": 43.76,
+          "end": 43.92
+        },
+        {
+          "text": "tu ne peux pas t'imaginer",
+          "translations": {
+            "zh": "你简直无法想象",
+            "en": "you can't imagine",
+            "es": "no te puedes imaginar"
+          },
+          "start": 43.92,
+          "end": 44.8
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP01_P4",
+  "audio_filename": "FLS2_EP01_P4.mp3",
+  "audio_path": "downloads/FLS2_EP01_P4.mp3",
+  "episode": 1,
+  "piste": 4,
+  "page": 19,
+  "cd": "CD1"
+}

@@ -1,0 +1,781 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 1 Piste 6 Page 20",
+      "translations": {
+        "zh": "第1集 第6轨 第20页",
+        "en": "Episode 1 Track 6 Page 20",
+        "es": "Episodio 1 Pista 6 Página 20"
+      },
+      "start": 0.8,
+      "end": 7.6,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.8,
+          "end": 1.52
+        },
+        {
+          "text": "1",
+          "start": 1.68,
+          "end": 1.84
+        },
+        {
+          "text": "Piste",
+          "start": 3.12,
+          "end": 3.52
+        },
+        {
+          "text": "6",
+          "start": 4.4,
+          "end": 4.8
+        },
+        {
+          "text": "Page",
+          "start": 6.56,
+          "end": 7.04
+        },
+        {
+          "text": "20",
+          "start": 7.28,
+          "end": 7.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 1",
+          "translations": {
+            "zh": "第1集",
+            "en": "Episode 1",
+            "es": "Episodio 1"
+          },
+          "start": 0.8,
+          "end": 1.84
+        },
+        {
+          "text": "Piste 6",
+          "translations": {
+            "zh": "第6轨",
+            "en": "Track 6",
+            "es": "Pista 6"
+          },
+          "start": 3.12,
+          "end": 4.8
+        },
+        {
+          "text": "Page 20",
+          "translations": {
+            "zh": "第20页",
+            "en": "Page 20",
+            "es": "Página 20"
+          },
+          "start": 6.56,
+          "end": 7.6
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Thomas : Elle est grande et elle a les cheveux bruns.",
+      "translations": {
+        "zh": "托马斯：她个子很高，她有棕色的头发。",
+        "en": "Thomas: She is tall and she has brown hair.",
+        "es": "Thomas: Ella es alta y tiene el pelo castaño."
+      },
+      "start": 7.6,
+      "end": 11.92,
+      "words": [
+        {
+          "text": "Thomas",
+          "start": 7.6,
+          "end": 9.52
+        },
+        {
+          "text": "Elle",
+          "start": 10.32,
+          "end": 10.48
+        },
+        {
+          "text": "est",
+          "start": 10.48,
+          "end": 10.56
+        },
+        {
+          "text": "grande",
+          "start": 10.56,
+          "end": 10.88
+        },
+        {
+          "text": "et",
+          "start": 10.96,
+          "end": 11.04
+        },
+        {
+          "text": "elle",
+          "start": 11.04,
+          "end": 11.2
+        },
+        {
+          "text": "a",
+          "start": 11.2,
+          "end": 11.28
+        },
+        {
+          "text": "les",
+          "start": 11.28,
+          "end": 11.36
+        },
+        {
+          "text": "cheveux",
+          "start": 11.36,
+          "end": 11.6
+        },
+        {
+          "text": "bruns",
+          "start": 11.6,
+          "end": 11.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Thomas :",
+          "translations": {
+            "zh": "托马斯：",
+            "en": "Thomas:",
+            "es": "Thomas:"
+          },
+          "start": 7.6,
+          "end": 9.52
+        },
+        {
+          "text": "Elle est grande",
+          "translations": {
+            "zh": "她个子很高",
+            "en": "She is tall",
+            "es": "Ella es alta"
+          },
+          "start": 10.32,
+          "end": 10.88
+        },
+        {
+          "text": "et elle a les cheveux bruns.",
+          "translations": {
+            "zh": "她有棕色的头发。",
+            "en": "and she has brown hair.",
+            "es": "y tiene el pelo castaño."
+          },
+          "start": 10.96,
+          "end": 11.92
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Marie-France : Quand j'étais jeune, j'habitais au Manitoba.",
+      "translations": {
+        "zh": "玛丽-弗朗斯：当我年轻的时候，我住在曼尼托巴。",
+        "en": "Marie-France: When I was young, I lived in Manitoba.",
+        "es": "Marie-France: Cuando era joven, vivía en Manitoba."
+      },
+      "start": 13.84,
+      "end": 17.84,
+      "words": [
+        {
+          "text": "Marie",
+          "start": 13.84,
+          "end": 14.0
+        },
+        {
+          "text": "France",
+          "start": 15.28,
+          "end": 15.28
+        },
+        {
+          "text": "Quand",
+          "start": 15.28,
+          "end": 15.44
+        },
+        {
+          "text": "j'étais",
+          "start": 15.44,
+          "end": 15.68
+        },
+        {
+          "text": "jeune",
+          "start": 15.68,
+          "end": 15.92
+        },
+        {
+          "text": "j'habitais",
+          "start": 16.48,
+          "end": 16.96
+        },
+        {
+          "text": "au",
+          "start": 17.04,
+          "end": 17.12
+        },
+        {
+          "text": "Manitoba",
+          "start": 17.12,
+          "end": 17.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Marie-France :",
+          "translations": {
+            "zh": "玛丽-弗朗斯：",
+            "en": "Marie-France:",
+            "es": "Marie-France:"
+          },
+          "start": 13.84,
+          "end": 15.28
+        },
+        {
+          "text": "Quand j'étais jeune,",
+          "translations": {
+            "zh": "当我年轻的时候，",
+            "en": "When I was young,",
+            "es": "Cuando era joven,"
+          },
+          "start": 15.28,
+          "end": 15.92
+        },
+        {
+          "text": "j'habitais au Manitoba.",
+          "translations": {
+            "zh": "我住在曼尼托巴。",
+            "en": "I lived in Manitoba.",
+            "es": "vivía en Manitoba."
+          },
+          "start": 16.48,
+          "end": 17.84
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Geneviève : Hier, il faisait froid et il ventait beaucoup.",
+      "translations": {
+        "zh": "热纳维耶芙：昨天，天气很冷，风很大。",
+        "en": "Geneviève: Yesterday, it was cold and it was very windy.",
+        "es": "Geneviève: Ayer, hacía frío y hacía mucho viento."
+      },
+      "start": 19.68,
+      "end": 23.44,
+      "words": [
+        {
+          "text": "Geneviève",
+          "start": 19.68,
+          "end": 19.68
+        },
+        {
+          "text": "Hier",
+          "start": 21.28,
+          "end": 21.6
+        },
+        {
+          "text": "il",
+          "start": 21.76,
+          "end": 21.76
+        },
+        {
+          "text": "faisait",
+          "start": 21.84,
+          "end": 22.16
+        },
+        {
+          "text": "froid",
+          "start": 22.16,
+          "end": 22.48
+        },
+        {
+          "text": "et",
+          "start": 22.56,
+          "end": 22.64
+        },
+        {
+          "text": "il",
+          "start": 22.64,
+          "end": 22.72
+        },
+        {
+          "text": "ventait",
+          "start": 22.72,
+          "end": 23.04
+        },
+        {
+          "text": "beaucoup",
+          "start": 23.04,
+          "end": 23.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Geneviève :",
+          "translations": {
+            "zh": "热纳维耶芙：",
+            "en": "Geneviève:",
+            "es": "Geneviève:"
+          },
+          "start": 19.68,
+          "end": 19.68
+        },
+        {
+          "text": "Hier,",
+          "translations": {
+            "zh": "昨天，",
+            "en": "Yesterday,",
+            "es": "Ayer,"
+          },
+          "start": 21.28,
+          "end": 21.6
+        },
+        {
+          "text": "il faisait froid",
+          "translations": {
+            "zh": "天气很冷",
+            "en": "it was cold",
+            "es": "hacía frío"
+          },
+          "start": 21.76,
+          "end": 22.48
+        },
+        {
+          "text": "et il ventait beaucoup.",
+          "translations": {
+            "zh": "风很大。",
+            "en": "and it was very windy.",
+            "es": "y hacía mucho viento."
+          },
+          "start": 22.56,
+          "end": 23.44
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Marie-France : Je cherche un emploi dans mon domaine.",
+      "translations": {
+        "zh": "玛丽-弗朗斯：我在找我的专业领域的工作。",
+        "en": "Marie-France: I am looking for a job in my field.",
+        "es": "Marie-France: Busco un empleo en mi campo."
+      },
+      "start": 25.6,
+      "end": 28.64,
+      "words": [
+        {
+          "text": "Marie",
+          "start": 25.6,
+          "end": 25.76
+        },
+        {
+          "text": "France",
+          "start": 25.76,
+          "end": 26.08
+        },
+        {
+          "text": "Je",
+          "start": 26.72,
+          "end": 26.88
+        },
+        {
+          "text": "cherche",
+          "start": 26.88,
+          "end": 27.2
+        },
+        {
+          "text": "un",
+          "start": 27.2,
+          "end": 27.36
+        },
+        {
+          "text": "emploi",
+          "start": 27.36,
+          "end": 27.76
+        },
+        {
+          "text": "dans",
+          "start": 27.76,
+          "end": 27.92
+        },
+        {
+          "text": "mon",
+          "start": 27.92,
+          "end": 28.08
+        },
+        {
+          "text": "domaine",
+          "start": 28.08,
+          "end": 28.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Marie-France :",
+          "translations": {
+            "zh": "玛丽-弗朗斯：",
+            "en": "Marie-France:",
+            "es": "Marie-France:"
+          },
+          "start": 25.6,
+          "end": 26.08
+        },
+        {
+          "text": "Je cherche un emploi dans mon domaine.",
+          "translations": {
+            "zh": "我在找我的专业领域的工作。",
+            "en": "I am looking for a job in my field.",
+            "es": "Busco un empleo en mi campo."
+          },
+          "start": 26.72,
+          "end": 28.64
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Thomas : L'année passée, je travaillais dans un café.",
+      "translations": {
+        "zh": "托马斯：去年，我在一家咖啡馆工作。",
+        "en": "Thomas: Last year, I was working in a café.",
+        "es": "Thomas: El año pasado, trabajaba en un café."
+      },
+      "start": 30.56,
+      "end": 33.68,
+      "words": [
+        {
+          "text": "Thomas",
+          "start": 30.56,
+          "end": 30.96
+        },
+        {
+          "text": "L'année",
+          "start": 31.92,
+          "end": 32.16
+        },
+        {
+          "text": "passée",
+          "start": 32.16,
+          "end": 32.56
+        },
+        {
+          "text": "je",
+          "start": 32.56,
+          "end": 32.64
+        },
+        {
+          "text": "travaillais",
+          "start": 32.64,
+          "end": 33.04
+        },
+        {
+          "text": "dans",
+          "start": 33.04,
+          "end": 33.2
+        },
+        {
+          "text": "un",
+          "start": 33.2,
+          "end": 33.28
+        },
+        {
+          "text": "café",
+          "start": 33.28,
+          "end": 33.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Thomas :",
+          "translations": {
+            "zh": "托马斯：",
+            "en": "Thomas:",
+            "es": "Thomas:"
+          },
+          "start": 30.56,
+          "end": 30.96
+        },
+        {
+          "text": "L'année passée,",
+          "translations": {
+            "zh": "去年，",
+            "en": "Last year,",
+            "es": "El año pasado,"
+          },
+          "start": 31.92,
+          "end": 32.56
+        },
+        {
+          "text": "je travaillais dans un café.",
+          "translations": {
+            "zh": "我在一家咖啡馆工作。",
+            "en": "I was working in a café.",
+            "es": "trabajaba en un café."
+          },
+          "start": 32.56,
+          "end": 33.68
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Thomas : Je suis vraiment content de te voir.",
+      "translations": {
+        "zh": "托马斯：我真的很高兴见到你。",
+        "en": "Thomas: I am really happy to see you.",
+        "es": "Thomas: Estoy muy contento de verte."
+      },
+      "start": 35.04,
+      "end": 37.92,
+      "words": [
+        {
+          "text": "Thomas",
+          "start": 35.04,
+          "end": 35.04
+        },
+        {
+          "text": "Je",
+          "start": 36.8,
+          "end": 36.8
+        },
+        {
+          "text": "suis",
+          "start": 36.8,
+          "end": 36.8
+        },
+        {
+          "text": "vraiment",
+          "start": 36.8,
+          "end": 37.12
+        },
+        {
+          "text": "content",
+          "start": 37.12,
+          "end": 37.36
+        },
+        {
+          "text": "de",
+          "start": 37.36,
+          "end": 37.44
+        },
+        {
+          "text": "te",
+          "start": 37.44,
+          "end": 37.52
+        },
+        {
+          "text": "voir",
+          "start": 37.52,
+          "end": 37.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Thomas :",
+          "translations": {
+            "zh": "托马斯：",
+            "en": "Thomas:",
+            "es": "Thomas:"
+          },
+          "start": 35.04,
+          "end": 35.04
+        },
+        {
+          "text": "Je suis vraiment content de te voir.",
+          "translations": {
+            "zh": "我真的很高兴见到你。",
+            "en": "I am really happy to see you.",
+            "es": "Estoy muy contento de verte."
+          },
+          "start": 36.8,
+          "end": 37.92
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Marie-France : Quand j'étais petite, j'étais très timide.",
+      "translations": {
+        "zh": "玛丽-弗朗斯：当我小的时候，我很害羞。",
+        "en": "Marie-France: When I was little, I was very shy.",
+        "es": "Marie-France: Cuando era pequeña, era muy tímida."
+      },
+      "start": 39.68,
+      "end": 43.2,
+      "words": [
+        {
+          "text": "Marie",
+          "start": 39.68,
+          "end": 39.84
+        },
+        {
+          "text": "France",
+          "start": 41.04,
+          "end": 41.04
+        },
+        {
+          "text": "Quand",
+          "start": 41.04,
+          "end": 41.2
+        },
+        {
+          "text": "j'étais",
+          "start": 41.2,
+          "end": 41.44
+        },
+        {
+          "text": "petite",
+          "start": 41.44,
+          "end": 41.92
+        },
+        {
+          "text": "j'étais",
+          "start": 42.24,
+          "end": 42.56
+        },
+        {
+          "text": "très",
+          "start": 42.56,
+          "end": 42.8
+        },
+        {
+          "text": "timide",
+          "start": 42.8,
+          "end": 43.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Marie-France :",
+          "translations": {
+            "zh": "玛丽-弗朗斯：",
+            "en": "Marie-France:",
+            "es": "Marie-France:"
+          },
+          "start": 39.68,
+          "end": 41.04
+        },
+        {
+          "text": "Quand j'étais petite,",
+          "translations": {
+            "zh": "当我小的时候，",
+            "en": "When I was little,",
+            "es": "Cuando era pequeña,"
+          },
+          "start": 41.04,
+          "end": 41.92
+        },
+        {
+          "text": "j'étais très timide.",
+          "translations": {
+            "zh": "我很害羞。",
+            "en": "I was very shy.",
+            "es": "era muy tímida."
+          },
+          "start": 42.24,
+          "end": 43.2
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Geneviève : Avant, j'allais au gym trois fois par semaine.",
+      "translations": {
+        "zh": "热纳维耶芙：以前，我每周去健身房三次。",
+        "en": "Geneviève: Before, I used to go to the gym three times a week.",
+        "es": "Geneviève: Antes, iba al gimnasio tres veces por semana."
+      },
+      "start": 45.6,
+      "end": 49.04,
+      "words": [
+        {
+          "text": "Geneviève",
+          "start": 45.6,
+          "end": 46.0
+        },
+        {
+          "text": "Avant",
+          "start": 46.88,
+          "end": 47.28
+        },
+        {
+          "text": "j'allais",
+          "start": 47.36,
+          "end": 47.68
+        },
+        {
+          "text": "au",
+          "start": 47.68,
+          "end": 47.84
+        },
+        {
+          "text": "gym",
+          "start": 47.84,
+          "end": 48.08
+        },
+        {
+          "text": "trois",
+          "start": 48.08,
+          "end": 48.32
+        },
+        {
+          "text": "fois",
+          "start": 48.32,
+          "end": 48.48
+        },
+        {
+          "text": "par",
+          "start": 48.48,
+          "end": 48.56
+        },
+        {
+          "text": "semaine",
+          "start": 48.56,
+          "end": 49.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Geneviève :",
+          "translations": {
+            "zh": "热纳维耶芙：",
+            "en": "Geneviève:",
+            "es": "Geneviève:"
+          },
+          "start": 45.6,
+          "end": 46.0
+        },
+        {
+          "text": "Avant,",
+          "translations": {
+            "zh": "以前，",
+            "en": "Before,",
+            "es": "Antes,"
+          },
+          "start": 46.88,
+          "end": 47.28
+        },
+        {
+          "text": "j'allais au gym trois fois par semaine.",
+          "translations": {
+            "zh": "我每周去健身房三次。",
+            "en": "I used to go to the gym three times a week.",
+            "es": "iba al gimnasio tres veces por semana."
+          },
+          "start": 47.36,
+          "end": 49.04
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP01_P6",
+  "audio_filename": "FLS2_EP01_P6.mp3",
+  "audio_path": "downloads/FLS2_EP01_P6.mp3",
+  "episode": 1,
+  "piste": 6,
+  "page": 20,
+  "cd": "CD1"
+}

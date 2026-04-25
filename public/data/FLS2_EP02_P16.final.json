@@ -1,0 +1,1611 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 2 Piste 16 Page 26",
+      "translations": {
+        "zh": "第2集 第16段 第26页",
+        "en": "Episode 2 Track 16 Page 26",
+        "es": "Episodio 2 Pista 16 Página 26"
+      },
+      "start": 0.64,
+      "end": 7.92,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.64,
+          "end": 1.44
+        },
+        {
+          "text": "2",
+          "start": 1.84,
+          "end": 1.92
+        },
+        {
+          "text": "Piste",
+          "start": 3.04,
+          "end": 3.52
+        },
+        {
+          "text": "16",
+          "start": 4.32,
+          "end": 4.96
+        },
+        {
+          "text": "Page",
+          "start": 6.4,
+          "end": 6.88
+        },
+        {
+          "text": "26",
+          "start": 7.12,
+          "end": 7.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 2",
+          "translations": {
+            "zh": "第2集",
+            "en": "Episode 2",
+            "es": "Episodio 2"
+          },
+          "start": 0.64,
+          "end": 1.92
+        },
+        {
+          "text": "Piste 16",
+          "translations": {
+            "zh": "第16段",
+            "en": "Track 16",
+            "es": "Pista 16"
+          },
+          "start": 3.04,
+          "end": 4.96
+        },
+        {
+          "text": "Page 26",
+          "translations": {
+            "zh": "第26页",
+            "en": "Page 26",
+            "es": "Página 26"
+          },
+          "start": 6.4,
+          "end": 7.92
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Pendant que vous êtes là, Madame Dupré...",
+      "translations": {
+        "zh": "既然您在这儿，杜普雷夫人……",
+        "en": "While you're here, Madame Dupré...",
+        "es": "Mientras usted esté aquí, señora Dupré..."
+      },
+      "start": 9.76,
+      "end": 11.12,
+      "words": [
+        {
+          "text": "Pendant",
+          "start": 9.76,
+          "end": 10.0
+        },
+        {
+          "text": "que",
+          "start": 10.0,
+          "end": 10.0
+        },
+        {
+          "text": "vous",
+          "start": 10.0,
+          "end": 10.16
+        },
+        {
+          "text": "êtes",
+          "start": 10.16,
+          "end": 10.32
+        },
+        {
+          "text": "là",
+          "start": 10.32,
+          "end": 10.4
+        },
+        {
+          "text": "Madame",
+          "start": 10.4,
+          "end": 10.72
+        },
+        {
+          "text": "Dupré",
+          "start": 10.72,
+          "end": 11.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pendant que vous êtes là,",
+          "translations": {
+            "zh": "既然您在这儿，",
+            "en": "While you're here,",
+            "es": "Mientras usted esté aquí,"
+          },
+          "start": 9.76,
+          "end": 10.4
+        },
+        {
+          "text": "Madame Dupré...",
+          "translations": {
+            "zh": "杜普雷夫人……",
+            "en": "Madame Dupré...",
+            "es": "señora Dupré..."
+          },
+          "start": 10.4,
+          "end": 11.12
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Il y a quelques petites rénovations que je voudrais faire dans l'appartement...",
+      "translations": {
+        "zh": "我想在公寓里做几处小翻修……",
+        "en": "There are a few small renovations I'd like to do in the apartment...",
+        "es": "Hay algunas pequeñas reformas que me gustaría hacer en el apartamento..."
+      },
+      "start": 11.44,
+      "end": 14.24,
+      "words": [
+        {
+          "text": "Il",
+          "start": 11.44,
+          "end": 11.52
+        },
+        {
+          "text": "y",
+          "start": 11.52,
+          "end": 11.6
+        },
+        {
+          "text": "a",
+          "start": 11.6,
+          "end": 11.68
+        },
+        {
+          "text": "quelques",
+          "start": 11.68,
+          "end": 12.16
+        },
+        {
+          "text": "petites",
+          "start": 12.16,
+          "end": 12.24
+        },
+        {
+          "text": "rénovations",
+          "start": 12.24,
+          "end": 12.8
+        },
+        {
+          "text": "que",
+          "start": 12.8,
+          "end": 12.96
+        },
+        {
+          "text": "je",
+          "start": 12.96,
+          "end": 13.04
+        },
+        {
+          "text": "voudrais",
+          "start": 13.04,
+          "end": 13.28
+        },
+        {
+          "text": "faire",
+          "start": 13.28,
+          "end": 13.52
+        },
+        {
+          "text": "dans",
+          "start": 13.52,
+          "end": 13.6
+        },
+        {
+          "text": "l'appartement",
+          "start": 13.6,
+          "end": 14.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il y a quelques petites rénovations",
+          "translations": {
+            "zh": "有几处小翻修",
+            "en": "There are a few small renovations",
+            "es": "Hay algunas pequeñas reformas"
+          },
+          "start": 11.44,
+          "end": 12.8
+        },
+        {
+          "text": "que je voudrais faire",
+          "translations": {
+            "zh": "我想做的",
+            "en": "that I'd like to do",
+            "es": "que me gustaría hacer"
+          },
+          "start": 12.8,
+          "end": 13.52
+        },
+        {
+          "text": "dans l'appartement...",
+          "translations": {
+            "zh": "在公寓里……",
+            "en": "in the apartment...",
+            "es": "en el apartamento..."
+          },
+          "start": 13.52,
+          "end": 14.24
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Ah oui ?",
+      "translations": {
+        "zh": "哦，是吗？",
+        "en": "Oh yes?",
+        "es": "¿Ah, sí?"
+      },
+      "start": 14.64,
+      "end": 14.96,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 14.64,
+          "end": 14.8
+        },
+        {
+          "text": "oui",
+          "start": 14.8,
+          "end": 14.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah oui ?",
+          "translations": {
+            "zh": "哦，是吗？",
+            "en": "Oh yes?",
+            "es": "¿Ah, sí?"
+          },
+          "start": 14.64,
+          "end": 14.96
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Quel genre de rénovations ?",
+      "translations": {
+        "zh": "什么样的翻修？",
+        "en": "What kind of renovations?",
+        "es": "¿Qué tipo de reformas?"
+      },
+      "start": 15.36,
+      "end": 16.56,
+      "words": [
+        {
+          "text": "Quel",
+          "start": 15.36,
+          "end": 15.6
+        },
+        {
+          "text": "genre",
+          "start": 15.6,
+          "end": 15.84
+        },
+        {
+          "text": "de",
+          "start": 15.84,
+          "end": 15.92
+        },
+        {
+          "text": "rénovations",
+          "start": 15.92,
+          "end": 16.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quel genre de rénovations ?",
+          "translations": {
+            "zh": "什么样的翻修？",
+            "en": "What kind of renovations?",
+            "es": "¿Qué tipo de reformas?"
+          },
+          "start": 15.36,
+          "end": 16.56
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Je voudrais poser des tablettes dans la cuisine.",
+      "translations": {
+        "zh": "我想在厨房里装一些搁板。",
+        "en": "I'd like to put up shelves in the kitchen.",
+        "es": "Me gustaría instalar estantes en la cocina."
+      },
+      "start": 17.2,
+      "end": 18.88,
+      "words": [
+        {
+          "text": "Je",
+          "start": 17.2,
+          "end": 17.36
+        },
+        {
+          "text": "voudrais",
+          "start": 17.36,
+          "end": 17.52
+        },
+        {
+          "text": "poser",
+          "start": 17.52,
+          "end": 17.84
+        },
+        {
+          "text": "des",
+          "start": 17.84,
+          "end": 17.92
+        },
+        {
+          "text": "tablettes",
+          "start": 17.92,
+          "end": 18.32
+        },
+        {
+          "text": "dans",
+          "start": 18.32,
+          "end": 18.4
+        },
+        {
+          "text": "la",
+          "start": 18.4,
+          "end": 18.48
+        },
+        {
+          "text": "cuisine",
+          "start": 18.48,
+          "end": 18.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je voudrais poser des tablettes",
+          "translations": {
+            "zh": "我想装一些搁板",
+            "en": "I'd like to put up shelves",
+            "es": "Me gustaría instalar estantes"
+          },
+          "start": 17.2,
+          "end": 18.32
+        },
+        {
+          "text": "dans la cuisine.",
+          "translations": {
+            "zh": "在厨房里。",
+            "en": "in the kitchen.",
+            "es": "en la cocina."
+          },
+          "start": 18.32,
+          "end": 18.88
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Et on aimerait ça refaire la peinture de la salle de bain.",
+      "translations": {
+        "zh": "我们还想要重新粉刷浴室。",
+        "en": "And we'd like to repaint the bathroom.",
+        "es": "Y también nos gustaría volver a pintar el baño."
+      },
+      "start": 19.68,
+      "end": 21.6,
+      "words": [
+        {
+          "text": "Et",
+          "start": 19.68,
+          "end": 19.84
+        },
+        {
+          "text": "on",
+          "start": 19.84,
+          "end": 19.92
+        },
+        {
+          "text": "aimerait",
+          "start": 20.0,
+          "end": 20.16
+        },
+        {
+          "text": "ça",
+          "start": 20.16,
+          "end": 20.32
+        },
+        {
+          "text": "refaire",
+          "start": 20.32,
+          "end": 20.56
+        },
+        {
+          "text": "la",
+          "start": 20.56,
+          "end": 20.64
+        },
+        {
+          "text": "peinture",
+          "start": 20.64,
+          "end": 21.04
+        },
+        {
+          "text": "de",
+          "start": 21.04,
+          "end": 21.04
+        },
+        {
+          "text": "la",
+          "start": 21.04,
+          "end": 21.12
+        },
+        {
+          "text": "salle",
+          "start": 21.12,
+          "end": 21.28
+        },
+        {
+          "text": "de",
+          "start": 21.28,
+          "end": 21.36
+        },
+        {
+          "text": "bain",
+          "start": 21.36,
+          "end": 21.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et on aimerait ça",
+          "translations": {
+            "zh": "我们还想",
+            "en": "And we'd like",
+            "es": "Y también nos gustaría"
+          },
+          "start": 19.68,
+          "end": 20.32
+        },
+        {
+          "text": "refaire la peinture",
+          "translations": {
+            "zh": "重新粉刷",
+            "en": "to repaint",
+            "es": "volver a pintar"
+          },
+          "start": 20.32,
+          "end": 21.04
+        },
+        {
+          "text": "de la salle de bain.",
+          "translations": {
+            "zh": "浴室的。",
+            "en": "the bathroom.",
+            "es": "el baño."
+          },
+          "start": 21.04,
+          "end": 21.6
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Je peux facilement faire ça moi-même.",
+      "translations": {
+        "zh": "我可以轻松地自己搞定。",
+        "en": "I can easily do that myself.",
+        "es": "Puedo hacerlo fácilmente yo mismo."
+      },
+      "start": 21.68,
+      "end": 23.2,
+      "words": [
+        {
+          "text": "Je",
+          "start": 21.68,
+          "end": 21.92
+        },
+        {
+          "text": "peux",
+          "start": 21.92,
+          "end": 22.08
+        },
+        {
+          "text": "facilement",
+          "start": 22.08,
+          "end": 22.48
+        },
+        {
+          "text": "faire",
+          "start": 22.48,
+          "end": 22.64
+        },
+        {
+          "text": "ça",
+          "start": 22.64,
+          "end": 22.72
+        },
+        {
+          "text": "moi",
+          "start": 22.72,
+          "end": 22.88
+        },
+        {
+          "text": "même",
+          "start": 22.88,
+          "end": 23.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je peux facilement faire ça moi-même.",
+          "translations": {
+            "zh": "我可以轻松地自己搞定。",
+            "en": "I can easily do that myself.",
+            "es": "Puedo hacerlo fácilmente yo mismo."
+          },
+          "start": 21.68,
+          "end": 23.2
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "C'est d'accord pour les tablettes.",
+      "translations": {
+        "zh": "搁板的事没问题。",
+        "en": "That's fine for the shelves.",
+        "es": "Está bien para los estantes."
+      },
+      "start": 23.6,
+      "end": 24.96,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 23.6,
+          "end": 23.76
+        },
+        {
+          "text": "d'accord",
+          "start": 23.76,
+          "end": 24.16
+        },
+        {
+          "text": "pour",
+          "start": 24.16,
+          "end": 24.32
+        },
+        {
+          "text": "les",
+          "start": 24.32,
+          "end": 24.48
+        },
+        {
+          "text": "tablettes",
+          "start": 24.48,
+          "end": 24.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est d'accord",
+          "translations": {
+            "zh": "没问题",
+            "en": "That's fine",
+            "es": "Está bien"
+          },
+          "start": 23.6,
+          "end": 24.16
+        },
+        {
+          "text": "pour les tablettes.",
+          "translations": {
+            "zh": "搁板的事。",
+            "en": "for the shelves.",
+            "es": "para los estantes."
+          },
+          "start": 24.16,
+          "end": 24.96
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Et, pour la peinture, c'est vrai que ça ferait du bien.",
+      "translations": {
+        "zh": "而且，粉刷的事，确实也该弄一下了。",
+        "en": "And, for the paint, it's true that it would do some good.",
+        "es": "Y, para la pintura, es verdad que le vendría bien."
+      },
+      "start": 25.28,
+      "end": 27.36,
+      "words": [
+        {
+          "text": "Et",
+          "start": 25.28,
+          "end": 25.36
+        },
+        {
+          "text": "pour",
+          "start": 25.36,
+          "end": 25.52
+        },
+        {
+          "text": "la",
+          "start": 25.52,
+          "end": 25.6
+        },
+        {
+          "text": "peinture",
+          "start": 25.6,
+          "end": 26.16
+        },
+        {
+          "text": "c'est",
+          "start": 26.16,
+          "end": 26.4
+        },
+        {
+          "text": "vrai",
+          "start": 26.4,
+          "end": 26.56
+        },
+        {
+          "text": "que",
+          "start": 26.56,
+          "end": 26.64
+        },
+        {
+          "text": "ça",
+          "start": 26.64,
+          "end": 26.72
+        },
+        {
+          "text": "ferait",
+          "start": 26.72,
+          "end": 26.96
+        },
+        {
+          "text": "du",
+          "start": 26.96,
+          "end": 27.12
+        },
+        {
+          "text": "bien",
+          "start": 27.12,
+          "end": 27.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et, pour la peinture,",
+          "translations": {
+            "zh": "而且，粉刷的事，",
+            "en": "And, for the paint,",
+            "es": "Y, para la pintura,"
+          },
+          "start": 25.28,
+          "end": 26.16
+        },
+        {
+          "text": "c'est vrai que ça ferait du bien.",
+          "translations": {
+            "zh": "确实也该弄一下了。",
+            "en": "it's true that it would do some good.",
+            "es": "es verdad que le vendría bien."
+          },
+          "start": 26.16,
+          "end": 27.36
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Si tu le fais toi-même, je vais te payer la peinture.",
+      "translations": {
+        "zh": "如果你自己做的话，我来付油漆的钱。",
+        "en": "If you do it yourself, I'll pay for the paint.",
+        "es": "Si lo haces tú mismo, te voy a pagar la pintura."
+      },
+      "start": 27.84,
+      "end": 30.16,
+      "words": [
+        {
+          "text": "Si",
+          "start": 27.84,
+          "end": 28.08
+        },
+        {
+          "text": "tu",
+          "start": 28.08,
+          "end": 28.16
+        },
+        {
+          "text": "le",
+          "start": 28.16,
+          "end": 28.24
+        },
+        {
+          "text": "fais",
+          "start": 28.24,
+          "end": 28.4
+        },
+        {
+          "text": "toi",
+          "start": 28.4,
+          "end": 28.56
+        },
+        {
+          "text": "même",
+          "start": 28.56,
+          "end": 28.88
+        },
+        {
+          "text": "je",
+          "start": 28.88,
+          "end": 28.96
+        },
+        {
+          "text": "vais",
+          "start": 28.96,
+          "end": 29.04
+        },
+        {
+          "text": "te",
+          "start": 29.04,
+          "end": 29.2
+        },
+        {
+          "text": "payer",
+          "start": 29.2,
+          "end": 29.52
+        },
+        {
+          "text": "la",
+          "start": 29.52,
+          "end": 29.6
+        },
+        {
+          "text": "peinture",
+          "start": 29.6,
+          "end": 30.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Si tu le fais toi-même,",
+          "translations": {
+            "zh": "如果你自己做的话，",
+            "en": "If you do it yourself,",
+            "es": "Si lo haces tú mismo,"
+          },
+          "start": 27.84,
+          "end": 28.88
+        },
+        {
+          "text": "je vais te payer la peinture.",
+          "translations": {
+            "zh": "我来付油漆的钱。",
+            "en": "I'll pay for the paint.",
+            "es": "te voy a pagar la pintura."
+          },
+          "start": 28.88,
+          "end": 30.16
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Achète ce dont tu as besoin : des pinceaux, des clous...",
+      "translations": {
+        "zh": "你需要什么就买什么：刷子、钉子……",
+        "en": "Buy what you need: paintbrushes, nails...",
+        "es": "Compra lo que necesites: pinceles, clavos..."
+      },
+      "start": 30.48,
+      "end": 32.96,
+      "words": [
+        {
+          "text": "Achète",
+          "start": 30.48,
+          "end": 30.8
+        },
+        {
+          "text": "ce",
+          "start": 30.8,
+          "end": 30.88
+        },
+        {
+          "text": "dont",
+          "start": 30.88,
+          "end": 31.04
+        },
+        {
+          "text": "tu",
+          "start": 31.04,
+          "end": 31.2
+        },
+        {
+          "text": "as",
+          "start": 31.2,
+          "end": 31.28
+        },
+        {
+          "text": "besoin",
+          "start": 31.28,
+          "end": 31.76
+        },
+        {
+          "text": "des",
+          "start": 31.76,
+          "end": 31.84
+        },
+        {
+          "text": "pinceaux",
+          "start": 31.84,
+          "end": 32.4
+        },
+        {
+          "text": "des",
+          "start": 32.4,
+          "end": 32.56
+        },
+        {
+          "text": "clous",
+          "start": 32.56,
+          "end": 32.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Achète ce dont tu as besoin :",
+          "translations": {
+            "zh": "你需要什么就买什么：",
+            "en": "Buy what you need:",
+            "es": "Compra lo que necesites:"
+          },
+          "start": 30.48,
+          "end": 31.76
+        },
+        {
+          "text": "des pinceaux, des clous...",
+          "translations": {
+            "zh": "刷子、钉子……",
+            "en": "paintbrushes, nails...",
+            "es": "pinceles, clavos..."
+          },
+          "start": 31.76,
+          "end": 32.96
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "et puis tu me donneras le reçu, je vais te rembourser, OK ?",
+      "translations": {
+        "zh": "然后你把收据给我，我会给你报销，好吗？",
+        "en": "and then you'll give me the receipt, I'll reimburse you, OK?",
+        "es": "y luego me darás el recibo, te voy a reembolsar, ¿OK?"
+      },
+      "start": 33.28,
+      "end": 35.76,
+      "words": [
+        {
+          "text": "et",
+          "start": 33.28,
+          "end": 33.44
+        },
+        {
+          "text": "puis",
+          "start": 33.44,
+          "end": 33.52
+        },
+        {
+          "text": "tu",
+          "start": 33.52,
+          "end": 33.68
+        },
+        {
+          "text": "me",
+          "start": 33.68,
+          "end": 33.76
+        },
+        {
+          "text": "donneras",
+          "start": 33.76,
+          "end": 34.08
+        },
+        {
+          "text": "le",
+          "start": 34.08,
+          "end": 34.08
+        },
+        {
+          "text": "reçu",
+          "start": 34.08,
+          "end": 34.56
+        },
+        {
+          "text": "je",
+          "start": 34.56,
+          "end": 34.72
+        },
+        {
+          "text": "vais",
+          "start": 34.72,
+          "end": 34.8
+        },
+        {
+          "text": "te",
+          "start": 34.8,
+          "end": 34.88
+        },
+        {
+          "text": "rembourser",
+          "start": 34.88,
+          "end": 35.36
+        },
+        {
+          "text": "OK",
+          "start": 35.52,
+          "end": 35.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "et puis tu me donneras le reçu,",
+          "translations": {
+            "zh": "然后你把收据给我，",
+            "en": "and then you'll give me the receipt,",
+            "es": "y luego me darás el recibo,"
+          },
+          "start": 33.28,
+          "end": 34.56
+        },
+        {
+          "text": "je vais te rembourser,",
+          "translations": {
+            "zh": "我会给你报销，",
+            "en": "I'll reimburse you,",
+            "es": "te voy a reembolsar,"
+          },
+          "start": 34.56,
+          "end": 35.36
+        },
+        {
+          "text": "OK ?",
+          "translations": {
+            "zh": "好吗？",
+            "en": "OK?",
+            "es": "¿OK?"
+          },
+          "start": 35.52,
+          "end": 35.76
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "C'est parfait.",
+      "translations": {
+        "zh": "太好了。",
+        "en": "That's perfect.",
+        "es": "Es perfecto."
+      },
+      "start": 36.4,
+      "end": 36.88,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 36.4,
+          "end": 36.48
+        },
+        {
+          "text": "parfait",
+          "start": 36.48,
+          "end": 36.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est parfait.",
+          "translations": {
+            "zh": "太好了。",
+            "en": "That's perfect.",
+            "es": "Es perfecto."
+          },
+          "start": 36.4,
+          "end": 36.88
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Et une dernière petite chose : pensez-vous que vous pourriez changer la fenêtre de la chambre ?",
+      "translations": {
+        "zh": "还有最后一件小事：您觉得能把卧室的窗户换了吗？",
+        "en": "And one last little thing: do you think you could change the bedroom window?",
+        "es": "Y una última cosita: ¿cree que podría cambiar la ventana del dormitorio?"
+      },
+      "start": 37.36,
+      "end": 41.28,
+      "words": [
+        {
+          "text": "Et",
+          "start": 37.36,
+          "end": 37.68
+        },
+        {
+          "text": "une",
+          "start": 37.68,
+          "end": 37.84
+        },
+        {
+          "text": "dernière",
+          "start": 37.84,
+          "end": 38.24
+        },
+        {
+          "text": "petite",
+          "start": 38.24,
+          "end": 38.48
+        },
+        {
+          "text": "chose",
+          "start": 38.48,
+          "end": 38.8
+        },
+        {
+          "text": "pensez",
+          "start": 39.04,
+          "end": 39.36
+        },
+        {
+          "text": "vous",
+          "start": 39.36,
+          "end": 39.52
+        },
+        {
+          "text": "que",
+          "start": 39.52,
+          "end": 39.6
+        },
+        {
+          "text": "vous",
+          "start": 39.6,
+          "end": 39.76
+        },
+        {
+          "text": "pourriez",
+          "start": 39.76,
+          "end": 40.0
+        },
+        {
+          "text": "changer",
+          "start": 40.0,
+          "end": 40.4
+        },
+        {
+          "text": "la",
+          "start": 40.4,
+          "end": 40.48
+        },
+        {
+          "text": "fenêtre",
+          "start": 40.48,
+          "end": 40.8
+        },
+        {
+          "text": "de",
+          "start": 40.8,
+          "end": 40.8
+        },
+        {
+          "text": "la",
+          "start": 40.8,
+          "end": 40.88
+        },
+        {
+          "text": "chambre",
+          "start": 40.88,
+          "end": 41.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et une dernière petite chose :",
+          "translations": {
+            "zh": "还有最后一件小事：",
+            "en": "And one last little thing:",
+            "es": "Y una última cosita:"
+          },
+          "start": 37.36,
+          "end": 38.8
+        },
+        {
+          "text": "pensez-vous que vous pourriez changer",
+          "translations": {
+            "zh": "您觉得能不能换一下",
+            "en": "do you think you could change",
+            "es": "¿cree que podría cambiar"
+          },
+          "start": 39.04,
+          "end": 40.4
+        },
+        {
+          "text": "la fenêtre de la chambre ?",
+          "translations": {
+            "zh": "卧室的窗户？",
+            "en": "the bedroom window?",
+            "es": "la ventana del dormitorio?"
+          },
+          "start": 40.4,
+          "end": 41.28
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Elle n'ouvre plus et disons que l'isolation n'est pas terrible.",
+      "translations": {
+        "zh": "它已经打不开了，而且说实话隔热也不怎么样。",
+        "en": "It doesn't open anymore and let's say the insulation isn't great.",
+        "es": "Ya no abre y digamos que el aislamiento no es nada del otro mundo."
+      },
+      "start": 42.0,
+      "end": 44.48,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 42.0,
+          "end": 42.16
+        },
+        {
+          "text": "n'ouvre",
+          "start": 42.16,
+          "end": 42.48
+        },
+        {
+          "text": "plus",
+          "start": 42.48,
+          "end": 42.88
+        },
+        {
+          "text": "et",
+          "start": 42.88,
+          "end": 42.96
+        },
+        {
+          "text": "disons",
+          "start": 42.96,
+          "end": 43.2
+        },
+        {
+          "text": "que",
+          "start": 43.2,
+          "end": 43.36
+        },
+        {
+          "text": "l'isolation",
+          "start": 43.36,
+          "end": 43.84
+        },
+        {
+          "text": "n'est",
+          "start": 43.84,
+          "end": 43.84
+        },
+        {
+          "text": "pas",
+          "start": 43.84,
+          "end": 44.0
+        },
+        {
+          "text": "terrible",
+          "start": 44.0,
+          "end": 44.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle n'ouvre plus",
+          "translations": {
+            "zh": "它已经打不开了",
+            "en": "It doesn't open anymore",
+            "es": "Ya no abre"
+          },
+          "start": 42.0,
+          "end": 42.88
+        },
+        {
+          "text": "et disons que l'isolation n'est pas terrible.",
+          "translations": {
+            "zh": "而且说实话隔热也不怎么样。",
+            "en": "and let's say the insulation isn't great.",
+            "es": "y digamos que el aislamiento no es nada del otro mundo."
+          },
+          "start": 42.88,
+          "end": 44.48
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Ah oui, les fenêtres, je vais les faire changer par un installateur professionnel.",
+      "translations": {
+        "zh": "哦对，窗户的事，我会请一位专业安装师傅来更换。",
+        "en": "Oh yes, the windows, I'm going to have them changed by a professional installer.",
+        "es": "Ah, sí, las ventanas, voy a hacerlas cambiar por un instalador profesional."
+      },
+      "start": 44.96,
+      "end": 49.44,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 44.96,
+          "end": 45.36
+        },
+        {
+          "text": "oui",
+          "start": 45.36,
+          "end": 45.6
+        },
+        {
+          "text": "les",
+          "start": 45.6,
+          "end": 45.76
+        },
+        {
+          "text": "fenêtres",
+          "start": 45.76,
+          "end": 46.48
+        },
+        {
+          "text": "je",
+          "start": 46.96,
+          "end": 47.04
+        },
+        {
+          "text": "vais",
+          "start": 47.12,
+          "end": 47.2
+        },
+        {
+          "text": "les",
+          "start": 47.2,
+          "end": 47.28
+        },
+        {
+          "text": "faire",
+          "start": 47.28,
+          "end": 47.44
+        },
+        {
+          "text": "changer",
+          "start": 47.44,
+          "end": 47.84
+        },
+        {
+          "text": "par",
+          "start": 47.84,
+          "end": 48.0
+        },
+        {
+          "text": "un",
+          "start": 48.0,
+          "end": 48.16
+        },
+        {
+          "text": "installateur",
+          "start": 48.16,
+          "end": 48.72
+        },
+        {
+          "text": "professionnel",
+          "start": 48.72,
+          "end": 49.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah oui, les fenêtres,",
+          "translations": {
+            "zh": "哦对，窗户的事，",
+            "en": "Oh yes, the windows,",
+            "es": "Ah, sí, las ventanas,"
+          },
+          "start": 44.96,
+          "end": 46.48
+        },
+        {
+          "text": "je vais les faire changer",
+          "translations": {
+            "zh": "我会让人来更换",
+            "en": "I'm going to have them changed",
+            "es": "voy a hacerlas cambiar"
+          },
+          "start": 46.96,
+          "end": 47.84
+        },
+        {
+          "text": "par un installateur professionnel.",
+          "translations": {
+            "zh": "请一位专业安装师傅。",
+            "en": "by a professional installer.",
+            "es": "por un instalador profesional."
+          },
+          "start": 47.84,
+          "end": 49.44
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Il devrait venir le mois prochain pour prendre les mesures.",
+      "translations": {
+        "zh": "他应该下个月来量尺寸。",
+        "en": "He should come next month to take measurements.",
+        "es": "Debería venir el mes que viene para tomar las medidas."
+      },
+      "start": 49.84,
+      "end": 52.16,
+      "words": [
+        {
+          "text": "Il",
+          "start": 49.84,
+          "end": 49.92
+        },
+        {
+          "text": "devrait",
+          "start": 49.92,
+          "end": 50.24
+        },
+        {
+          "text": "venir",
+          "start": 50.24,
+          "end": 50.4
+        },
+        {
+          "text": "le",
+          "start": 50.4,
+          "end": 50.56
+        },
+        {
+          "text": "mois",
+          "start": 50.56,
+          "end": 50.72
+        },
+        {
+          "text": "prochain",
+          "start": 50.72,
+          "end": 51.12
+        },
+        {
+          "text": "pour",
+          "start": 51.12,
+          "end": 51.28
+        },
+        {
+          "text": "prendre",
+          "start": 51.28,
+          "end": 51.52
+        },
+        {
+          "text": "les",
+          "start": 51.52,
+          "end": 51.6
+        },
+        {
+          "text": "mesures",
+          "start": 51.6,
+          "end": 52.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il devrait venir le mois prochain",
+          "translations": {
+            "zh": "他应该下个月来",
+            "en": "He should come next month",
+            "es": "Debería venir el mes que viene"
+          },
+          "start": 49.84,
+          "end": 51.12
+        },
+        {
+          "text": "pour prendre les mesures.",
+          "translations": {
+            "zh": "量尺寸。",
+            "en": "to take measurements.",
+            "es": "para tomar las medidas."
+          },
+          "start": 51.12,
+          "end": 52.16
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Ah, ben, c'est une bonne nouvelle, ça !",
+      "translations": {
+        "zh": "啊，那，这真是个好消息！",
+        "en": "Oh, well, that's good news!",
+        "es": "¡Ah, pues, esa sí que es una buena noticia!"
+      },
+      "start": 52.88,
+      "end": 54.08,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 52.88,
+          "end": 53.04
+        },
+        {
+          "text": "ben",
+          "start": 53.04,
+          "end": 53.12
+        },
+        {
+          "text": "c'est",
+          "start": 53.2,
+          "end": 53.28
+        },
+        {
+          "text": "une",
+          "start": 53.28,
+          "end": 53.36
+        },
+        {
+          "text": "bonne",
+          "start": 53.36,
+          "end": 53.52
+        },
+        {
+          "text": "nouvelle",
+          "start": 53.6,
+          "end": 53.84
+        },
+        {
+          "text": "ça",
+          "start": 53.84,
+          "end": 54.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah, ben,",
+          "translations": {
+            "zh": "啊，那，",
+            "en": "Oh, well,",
+            "es": "¡Ah, pues,"
+          },
+          "start": 52.88,
+          "end": 53.12
+        },
+        {
+          "text": "c'est une bonne nouvelle, ça !",
+          "translations": {
+            "zh": "这真是个好消息！",
+            "en": "that's good news!",
+            "es": "esa sí que es una buena noticia!"
+          },
+          "start": 53.2,
+          "end": 54.08
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Marie-France va être contente.",
+      "translations": {
+        "zh": "玛丽-弗朗斯会很高兴的。",
+        "en": "Marie-France will be happy.",
+        "es": "Marie-France va a estar contenta."
+      },
+      "start": 54.32,
+      "end": 55.6,
+      "words": [
+        {
+          "text": "Marie",
+          "start": 54.32,
+          "end": 54.56
+        },
+        {
+          "text": "France",
+          "start": 54.56,
+          "end": 54.88
+        },
+        {
+          "text": "va",
+          "start": 54.88,
+          "end": 54.96
+        },
+        {
+          "text": "être",
+          "start": 54.96,
+          "end": 55.04
+        },
+        {
+          "text": "contente",
+          "start": 55.04,
+          "end": 55.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Marie-France va être contente.",
+          "translations": {
+            "zh": "玛丽-弗朗斯会很高兴的。",
+            "en": "Marie-France will be happy.",
+            "es": "Marie-France va a estar contenta."
+          },
+          "start": 54.32,
+          "end": 55.6
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "ÉPISODE 3",
+      "translations": {
+        "zh": "第3集",
+        "en": "EPISODE 3",
+        "es": "EPISODIO 3"
+      },
+      "start": 55.6,
+      "end": 55.6,
+      "words": [
+        {
+          "text": "ÉPISODE",
+          "start": 55.6,
+          "end": 55.6
+        },
+        {
+          "text": "3",
+          "start": 55.6,
+          "end": 55.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "ÉPISODE 3",
+          "translations": {
+            "zh": "第3集",
+            "en": "EPISODE 3",
+            "es": "EPISODIO 3"
+          },
+          "start": 55.6,
+          "end": 55.6
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP02_P16",
+  "audio_filename": "FLS2_EP02_P16.mp3",
+  "audio_path": "downloads/FLS2_EP02_P16.mp3",
+  "episode": 2,
+  "piste": 16,
+  "page": 26,
+  "cd": "CD1"
+}

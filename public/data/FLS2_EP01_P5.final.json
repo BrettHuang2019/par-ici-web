@@ -1,0 +1,491 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 1 Piste 5 Page 19",
+      "translations": {
+        "zh": "第1集 第5音轨 第19页",
+        "en": "Episode 1 Track 5 Page 19",
+        "es": "Episodio 1 Pista 5 Página 19"
+      },
+      "start": 0.72,
+      "end": 9.68,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.72,
+          "end": 1.44
+        },
+        {
+          "text": "1",
+          "start": 1.6,
+          "end": 1.76
+        },
+        {
+          "text": "Piste",
+          "start": 2.96,
+          "end": 3.44
+        },
+        {
+          "text": "5",
+          "start": 4.16,
+          "end": 4.48
+        },
+        {
+          "text": "Page",
+          "start": 4.48,
+          "end": 4.64
+        },
+        {
+          "text": "19",
+          "start": 6.56,
+          "end": 9.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 1",
+          "translations": {
+            "zh": "第1集",
+            "en": "Episode 1",
+            "es": "Episodio 1"
+          },
+          "start": 0.72,
+          "end": 1.76
+        },
+        {
+          "text": "Piste 5",
+          "translations": {
+            "zh": "第5音轨",
+            "en": "Track 5",
+            "es": "Pista 5"
+          },
+          "start": 2.96,
+          "end": 4.48
+        },
+        {
+          "text": "Page 19",
+          "translations": {
+            "zh": "第19页",
+            "en": "Page 19",
+            "es": "Página 19"
+          },
+          "start": 4.48,
+          "end": 9.68
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Je pensais que tu venais me chercher.",
+      "translations": {
+        "zh": "我以为你来接我的。",
+        "en": "I thought you were coming to get me.",
+        "es": "Pensaba que venías a buscarme."
+      },
+      "start": 9.68,
+      "end": 11.76,
+      "words": [
+        {
+          "text": "Je",
+          "start": 9.68,
+          "end": 9.68
+        },
+        {
+          "text": "pensais",
+          "start": 10.48,
+          "end": 10.8
+        },
+        {
+          "text": "que",
+          "start": 10.88,
+          "end": 10.88
+        },
+        {
+          "text": "tu",
+          "start": 10.88,
+          "end": 11.04
+        },
+        {
+          "text": "venais",
+          "start": 11.04,
+          "end": 11.2
+        },
+        {
+          "text": "me",
+          "start": 11.2,
+          "end": 11.2
+        },
+        {
+          "text": "chercher",
+          "start": 11.2,
+          "end": 11.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je pensais",
+          "translations": {
+            "zh": "我以为",
+            "en": "I thought",
+            "es": "Pensaba"
+          },
+          "start": 9.68,
+          "end": 10.8
+        },
+        {
+          "text": "que tu venais me chercher.",
+          "translations": {
+            "zh": "你来接我的。",
+            "en": "you were coming to get me.",
+            "es": "que venías a buscarme."
+          },
+          "start": 10.88,
+          "end": 11.76
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Je rentre dans le terminus.",
+      "translations": {
+        "zh": "我走进终点站。",
+        "en": "I go in to the terminus.",
+        "es": "Entro en la terminal."
+      },
+      "start": 13.6,
+      "end": 16.0,
+      "words": [
+        {
+          "text": "Je",
+          "start": 13.6,
+          "end": 13.76
+        },
+        {
+          "text": "rentre",
+          "start": 14.8,
+          "end": 15.04
+        },
+        {
+          "text": "dans",
+          "start": 15.04,
+          "end": 15.2
+        },
+        {
+          "text": "le",
+          "start": 15.2,
+          "end": 15.28
+        },
+        {
+          "text": "terminus",
+          "start": 15.28,
+          "end": 16.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je rentre",
+          "translations": {
+            "zh": "我走进",
+            "en": "I go in",
+            "es": "Entro"
+          },
+          "start": 13.6,
+          "end": 15.04
+        },
+        {
+          "text": "dans le terminus.",
+          "translations": {
+            "zh": "终点站。",
+            "en": "to the terminus.",
+            "es": "en la terminal."
+          },
+          "start": 15.04,
+          "end": 16.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Je lance mon sac à dos par terre.",
+      "translations": {
+        "zh": "我把背包扔在地上。",
+        "en": "I throw my backpack on the ground.",
+        "es": "Tiro mi mochila al suelo."
+      },
+      "start": 19.52,
+      "end": 21.12,
+      "words": [
+        {
+          "text": "Je",
+          "start": 19.52,
+          "end": 19.52
+        },
+        {
+          "text": "lance",
+          "start": 19.68,
+          "end": 20.0
+        },
+        {
+          "text": "mon",
+          "start": 20.0,
+          "end": 20.08
+        },
+        {
+          "text": "sac",
+          "start": 20.08,
+          "end": 20.32
+        },
+        {
+          "text": "à",
+          "start": 20.32,
+          "end": 20.4
+        },
+        {
+          "text": "dos",
+          "start": 20.4,
+          "end": 20.48
+        },
+        {
+          "text": "par",
+          "start": 20.48,
+          "end": 20.72
+        },
+        {
+          "text": "terre",
+          "start": 20.72,
+          "end": 21.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je lance mon sac à dos",
+          "translations": {
+            "zh": "我把背包扔",
+            "en": "I throw my backpack",
+            "es": "Tiro mi mochila"
+          },
+          "start": 19.52,
+          "end": 20.48
+        },
+        {
+          "text": "par terre.",
+          "translations": {
+            "zh": "在地上。",
+            "en": "on the ground.",
+            "es": "al suelo."
+          },
+          "start": 20.48,
+          "end": 21.12
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Je me mets à courir vers lui.",
+      "translations": {
+        "zh": "我朝他跑去。",
+        "en": "I start running toward him.",
+        "es": "Me pongo a correr hacia él."
+      },
+      "start": 24.64,
+      "end": 26.08,
+      "words": [
+        {
+          "text": "Je",
+          "start": 24.64,
+          "end": 24.8
+        },
+        {
+          "text": "me",
+          "start": 24.8,
+          "end": 24.96
+        },
+        {
+          "text": "mets",
+          "start": 24.96,
+          "end": 25.12
+        },
+        {
+          "text": "à",
+          "start": 25.12,
+          "end": 25.2
+        },
+        {
+          "text": "courir",
+          "start": 25.2,
+          "end": 25.6
+        },
+        {
+          "text": "vers",
+          "start": 25.6,
+          "end": 25.76
+        },
+        {
+          "text": "lui",
+          "start": 25.76,
+          "end": 26.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je me mets à courir",
+          "translations": {
+            "zh": "我开始跑",
+            "en": "I start running",
+            "es": "Me pongo a correr"
+          },
+          "start": 24.64,
+          "end": 25.6
+        },
+        {
+          "text": "vers lui.",
+          "translations": {
+            "zh": "朝向他。",
+            "en": "toward him.",
+            "es": "hacia él."
+          },
+          "start": 25.6,
+          "end": 26.08
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Le gars se retourne, il me regarde.",
+      "translations": {
+        "zh": "那个家伙转过身来，他看着我。",
+        "en": "The guy turns around, he looks at me.",
+        "es": "El chico se vuelve, me mira."
+      },
+      "start": 29.36,
+      "end": 31.44,
+      "words": [
+        {
+          "text": "Le",
+          "start": 29.36,
+          "end": 29.52
+        },
+        {
+          "text": "gars",
+          "start": 29.52,
+          "end": 29.68
+        },
+        {
+          "text": "se",
+          "start": 29.68,
+          "end": 29.92
+        },
+        {
+          "text": "retourne",
+          "start": 29.92,
+          "end": 30.4
+        },
+        {
+          "text": "il",
+          "start": 30.64,
+          "end": 30.8
+        },
+        {
+          "text": "me",
+          "start": 30.8,
+          "end": 30.8
+        },
+        {
+          "text": "regarde",
+          "start": 30.8,
+          "end": 31.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le gars se retourne,",
+          "translations": {
+            "zh": "那个家伙转过身来，",
+            "en": "The guy turns around,",
+            "es": "El chico se vuelve,"
+          },
+          "start": 29.36,
+          "end": 30.4
+        },
+        {
+          "text": "il me regarde.",
+          "translations": {
+            "zh": "他看着我。",
+            "en": "he looks at me.",
+            "es": "me mira."
+          },
+          "start": 30.64,
+          "end": 31.44
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Marie-France vient vers moi.",
+      "translations": {
+        "zh": "玛丽-弗朗斯向我走来。",
+        "en": "Marie-France comes toward me.",
+        "es": "Marie-France viene hacia mí."
+      },
+      "start": 34.96,
+      "end": 36.24,
+      "words": [
+        {
+          "text": "Marie",
+          "start": 34.96,
+          "end": 35.2
+        },
+        {
+          "text": "France",
+          "start": 35.2,
+          "end": 35.6
+        },
+        {
+          "text": "vient",
+          "start": 35.6,
+          "end": 35.76
+        },
+        {
+          "text": "vers",
+          "start": 35.76,
+          "end": 36.0
+        },
+        {
+          "text": "moi",
+          "start": 36.0,
+          "end": 36.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Marie-France vient",
+          "translations": {
+            "zh": "玛丽-弗朗斯走来",
+            "en": "Marie-France comes",
+            "es": "Marie-France viene"
+          },
+          "start": 34.96,
+          "end": 35.76
+        },
+        {
+          "text": "vers moi.",
+          "translations": {
+            "zh": "向我。",
+            "en": "toward me.",
+            "es": "hacia mí."
+          },
+          "start": 35.76,
+          "end": 36.24
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP01_P5",
+  "audio_filename": "FLS2_EP01_P5.mp3",
+  "audio_path": "downloads/FLS2_EP01_P5.mp3",
+  "episode": 1,
+  "piste": 5,
+  "page": 19,
+  "cd": "CD1"
+}

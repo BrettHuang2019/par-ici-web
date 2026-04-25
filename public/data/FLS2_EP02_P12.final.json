@@ -1,0 +1,1721 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 2 Piste 12 Page 24",
+      "translations": {
+        "zh": "第2集 第12音轨 第24页",
+        "en": "Episode 2 Track 12 Page 24",
+        "es": "Episodio 2 Pista 12 Página 24"
+      },
+      "start": 0.72,
+      "end": 7.68,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.72,
+          "end": 1.52
+        },
+        {
+          "text": "2",
+          "start": 1.92,
+          "end": 2.08
+        },
+        {
+          "text": "Piste",
+          "start": 3.2,
+          "end": 3.6
+        },
+        {
+          "text": "12",
+          "start": 4.16,
+          "end": 4.72
+        },
+        {
+          "text": "Page",
+          "start": 6.32,
+          "end": 6.8
+        },
+        {
+          "text": "24",
+          "start": 6.88,
+          "end": 7.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 2",
+          "translations": {
+            "zh": "第2集",
+            "en": "Episode 2",
+            "es": "Episodio 2"
+          },
+          "start": 0.72,
+          "end": 2.08
+        },
+        {
+          "text": "Piste 12",
+          "translations": {
+            "zh": "第12音轨",
+            "en": "Track 12",
+            "es": "Pista 12"
+          },
+          "start": 3.2,
+          "end": 4.72
+        },
+        {
+          "text": "Page 24",
+          "translations": {
+            "zh": "第24页",
+            "en": "Page 24",
+            "es": "Página 24"
+          },
+          "start": 6.32,
+          "end": 7.68
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Allo ?",
+      "translations": {
+        "zh": "喂？",
+        "en": "Hello?",
+        "es": "¿Aló?"
+      },
+      "start": 10.72,
+      "end": 11.04,
+      "words": [
+        {
+          "text": "Allo",
+          "start": 10.72,
+          "end": 11.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Allo ?",
+          "translations": {
+            "zh": "喂？",
+            "en": "Hello?",
+            "es": "¿Aló?"
+          },
+          "start": 10.72,
+          "end": 11.04
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Oui, bonjour, Madame Dupré ?",
+      "translations": {
+        "zh": "是的，您好，杜普雷太太吗？",
+        "en": "Yes, hello, Mrs. Dupré?",
+        "es": "¿Sí, buenos días, señora Dupré?"
+      },
+      "start": 11.68,
+      "end": 12.88,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 11.68,
+          "end": 11.92
+        },
+        {
+          "text": "bonjour",
+          "start": 11.92,
+          "end": 12.24
+        },
+        {
+          "text": "Madame",
+          "start": 12.24,
+          "end": 12.56
+        },
+        {
+          "text": "Dupré",
+          "start": 12.56,
+          "end": 12.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 11.68,
+          "end": 11.92
+        },
+        {
+          "text": "bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "hello,",
+            "es": "buenos días,"
+          },
+          "start": 11.92,
+          "end": 12.24
+        },
+        {
+          "text": "Madame Dupré ?",
+          "translations": {
+            "zh": "杜普雷太太吗？",
+            "en": "Mrs. Dupré?",
+            "es": "¿señora Dupré?"
+          },
+          "start": 12.24,
+          "end": 12.88
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Oui, c'est moi.",
+      "translations": {
+        "zh": "是的，是我。",
+        "en": "Yes, it's me.",
+        "es": "Sí, soy yo."
+      },
+      "start": 13.2,
+      "end": 13.84,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 13.2,
+          "end": 13.44
+        },
+        {
+          "text": "c'est",
+          "start": 13.44,
+          "end": 13.6
+        },
+        {
+          "text": "moi",
+          "start": 13.6,
+          "end": 13.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 13.2,
+          "end": 13.44
+        },
+        {
+          "text": "c'est moi.",
+          "translations": {
+            "zh": "是我。",
+            "en": "it's me.",
+            "es": "soy yo."
+          },
+          "start": 13.44,
+          "end": 13.84
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Bonjour, c'est Thomas Bélanger, le locataire de l'appartement 202.",
+      "translations": {
+        "zh": "您好，我是托马斯·贝朗热，202号公寓的租客。",
+        "en": "Hello, this is Thomas Bélanger, the tenant of apartment 202.",
+        "es": "Buenos días, soy Thomas Bélanger, el inquilino del apartamento 202."
+      },
+      "start": 14.24,
+      "end": 17.6,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 14.24,
+          "end": 14.72
+        },
+        {
+          "text": "c'est",
+          "start": 14.96,
+          "end": 15.2
+        },
+        {
+          "text": "Thomas",
+          "start": 15.2,
+          "end": 15.44
+        },
+        {
+          "text": "Bélanger",
+          "start": 15.44,
+          "end": 15.92
+        },
+        {
+          "text": "le",
+          "start": 15.92,
+          "end": 16.0
+        },
+        {
+          "text": "locataire",
+          "start": 16.0,
+          "end": 16.48
+        },
+        {
+          "text": "de",
+          "start": 16.48,
+          "end": 16.56
+        },
+        {
+          "text": "l'appartement",
+          "start": 16.56,
+          "end": 17.04
+        },
+        {
+          "text": "202",
+          "start": 17.04,
+          "end": 17.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Buenos días,"
+          },
+          "start": 14.24,
+          "end": 14.72
+        },
+        {
+          "text": "c'est Thomas Bélanger,",
+          "translations": {
+            "zh": "我是托马斯·贝朗热，",
+            "en": "this is Thomas Bélanger,",
+            "es": "soy Thomas Bélanger,"
+          },
+          "start": 14.96,
+          "end": 15.92
+        },
+        {
+          "text": "le locataire de l'appartement 202.",
+          "translations": {
+            "zh": "202号公寓的租客。",
+            "en": "the tenant of apartment 202.",
+            "es": "el inquilino del apartamento 202."
+          },
+          "start": 15.92,
+          "end": 17.6
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Oui !",
+      "translations": {
+        "zh": "是的！",
+        "en": "Yes!",
+        "es": "¡Sí!"
+      },
+      "start": 18.0,
+      "end": 18.56,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 18.0,
+          "end": 18.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui !",
+          "translations": {
+            "zh": "是的！",
+            "en": "Yes!",
+            "es": "¡Sí!"
+          },
+          "start": 18.0,
+          "end": 18.56
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Allo Thomas, comment vas-tu ?",
+      "translations": {
+        "zh": "喂，托马斯，你好吗？",
+        "en": "Hello Thomas, how are you?",
+        "es": "Hola, Thomas, ¿cómo estás?"
+      },
+      "start": 18.8,
+      "end": 20.16,
+      "words": [
+        {
+          "text": "Allo",
+          "start": 18.8,
+          "end": 19.12
+        },
+        {
+          "text": "Thomas",
+          "start": 19.12,
+          "end": 19.52
+        },
+        {
+          "text": "comment",
+          "start": 19.52,
+          "end": 19.76
+        },
+        {
+          "text": "vas",
+          "start": 19.76,
+          "end": 19.92
+        },
+        {
+          "text": "tu",
+          "start": 19.92,
+          "end": 20.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Allo Thomas,",
+          "translations": {
+            "zh": "喂，托马斯，",
+            "en": "Hello Thomas,",
+            "es": "Hola, Thomas,"
+          },
+          "start": 18.8,
+          "end": 19.52
+        },
+        {
+          "text": "comment vas-tu ?",
+          "translations": {
+            "zh": "你好吗？",
+            "en": "how are you?",
+            "es": "¿cómo estás?"
+          },
+          "start": 19.52,
+          "end": 20.16
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Bien, merci, sauf qu'on a un petit problème à l'appartement...",
+      "translations": {
+        "zh": "挺好的，谢谢，就是公寓里出了点小问题……",
+        "en": "Good, thanks, except we have a little problem at the apartment...",
+        "es": "Bien, gracias, excepto que tenemos un pequeño problema en el apartamento..."
+      },
+      "start": 20.8,
+      "end": 23.84,
+      "words": [
+        {
+          "text": "Bien",
+          "start": 20.8,
+          "end": 21.04
+        },
+        {
+          "text": "merci",
+          "start": 21.12,
+          "end": 21.44
+        },
+        {
+          "text": "sauf",
+          "start": 21.92,
+          "end": 22.24
+        },
+        {
+          "text": "qu'on",
+          "start": 22.24,
+          "end": 22.48
+        },
+        {
+          "text": "a",
+          "start": 22.48,
+          "end": 22.56
+        },
+        {
+          "text": "un",
+          "start": 22.56,
+          "end": 22.64
+        },
+        {
+          "text": "petit",
+          "start": 22.64,
+          "end": 22.72
+        },
+        {
+          "text": "problème",
+          "start": 22.72,
+          "end": 23.2
+        },
+        {
+          "text": "à",
+          "start": 23.2,
+          "end": 23.2
+        },
+        {
+          "text": "l'appartement",
+          "start": 23.2,
+          "end": 23.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bien, merci,",
+          "translations": {
+            "zh": "挺好的，谢谢，",
+            "en": "Good, thanks,",
+            "es": "Bien, gracias,"
+          },
+          "start": 20.8,
+          "end": 21.44
+        },
+        {
+          "text": "sauf qu'on a un petit problème",
+          "translations": {
+            "zh": "就是出了点小问题",
+            "en": "except we have a little problem",
+            "es": "excepto que tenemos un pequeño problema"
+          },
+          "start": 21.92,
+          "end": 23.2
+        },
+        {
+          "text": "à l'appartement...",
+          "translations": {
+            "zh": "在公寓里……",
+            "en": "at the apartment...",
+            "es": "en el apartamento..."
+          },
+          "start": 23.2,
+          "end": 23.84
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Ah oui ?",
+      "translations": {
+        "zh": "哦，是吗？",
+        "en": "Oh yes?",
+        "es": "¿Ah, sí?"
+      },
+      "start": 24.48,
+      "end": 24.96,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 24.48,
+          "end": 24.64
+        },
+        {
+          "text": "oui",
+          "start": 24.64,
+          "end": 24.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah oui ?",
+          "translations": {
+            "zh": "哦，是吗？",
+            "en": "Oh yes?",
+            "es": "¿Ah, sí?"
+          },
+          "start": 24.48,
+          "end": 24.96
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Qu'est-ce qui se passe ?",
+      "translations": {
+        "zh": "发生什么事了？",
+        "en": "What's happening?",
+        "es": "¿Qué pasa?"
+      },
+      "start": 25.52,
+      "end": 26.4,
+      "words": [
+        {
+          "text": "Qu'est",
+          "start": 25.52,
+          "end": 25.6
+        },
+        {
+          "text": "ce",
+          "start": 25.6,
+          "end": 25.68
+        },
+        {
+          "text": "qui",
+          "start": 25.68,
+          "end": 25.76
+        },
+        {
+          "text": "se",
+          "start": 25.76,
+          "end": 25.84
+        },
+        {
+          "text": "passe",
+          "start": 25.84,
+          "end": 26.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Qu'est-ce qui se passe ?",
+          "translations": {
+            "zh": "发生什么事了？",
+            "en": "What's happening?",
+            "es": "¿Qué pasa?"
+          },
+          "start": 25.52,
+          "end": 26.4
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "On vient juste de s'apercevoir qu'il y a une famille de ratons laveurs qui a élu domicile sur notre balcon.",
+      "translations": {
+        "zh": "我们刚刚才发现有一家浣熊在我们阳台上安了家。",
+        "en": "We just noticed that there's a family of raccoons that has taken up residence on our balcony.",
+        "es": "Acabamos de darnos cuenta de que hay una familia de mapaches que se ha instalado en nuestro balcón."
+      },
+      "start": 27.04,
+      "end": 31.52,
+      "words": [
+        {
+          "text": "On",
+          "start": 27.04,
+          "end": 27.2
+        },
+        {
+          "text": "vient",
+          "start": 27.2,
+          "end": 27.44
+        },
+        {
+          "text": "juste",
+          "start": 27.44,
+          "end": 27.68
+        },
+        {
+          "text": "de",
+          "start": 27.68,
+          "end": 27.76
+        },
+        {
+          "text": "s'apercevoir",
+          "start": 27.76,
+          "end": 28.4
+        },
+        {
+          "text": "qu'il",
+          "start": 28.4,
+          "end": 28.56
+        },
+        {
+          "text": "y",
+          "start": 28.56,
+          "end": 28.56
+        },
+        {
+          "text": "a",
+          "start": 28.56,
+          "end": 28.56
+        },
+        {
+          "text": "une",
+          "start": 28.56,
+          "end": 28.64
+        },
+        {
+          "text": "famille",
+          "start": 28.64,
+          "end": 28.96
+        },
+        {
+          "text": "de",
+          "start": 28.96,
+          "end": 29.04
+        },
+        {
+          "text": "ratons",
+          "start": 29.04,
+          "end": 29.36
+        },
+        {
+          "text": "laveurs",
+          "start": 29.36,
+          "end": 29.76
+        },
+        {
+          "text": "qui",
+          "start": 29.76,
+          "end": 29.92
+        },
+        {
+          "text": "a",
+          "start": 29.92,
+          "end": 30.0
+        },
+        {
+          "text": "élu",
+          "start": 30.0,
+          "end": 30.16
+        },
+        {
+          "text": "domicile",
+          "start": 30.16,
+          "end": 30.64
+        },
+        {
+          "text": "sur",
+          "start": 30.64,
+          "end": 30.88
+        },
+        {
+          "text": "notre",
+          "start": 30.88,
+          "end": 31.04
+        },
+        {
+          "text": "balcon",
+          "start": 31.04,
+          "end": 31.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On vient juste de s'apercevoir",
+          "translations": {
+            "zh": "我们刚刚才发现",
+            "en": "We just noticed",
+            "es": "Acabamos de darnos cuenta"
+          },
+          "start": 27.04,
+          "end": 28.4
+        },
+        {
+          "text": "qu'il y a une famille de ratons laveurs",
+          "translations": {
+            "zh": "有一家浣熊",
+            "en": "that there's a family of raccoons",
+            "es": "de que hay una familia de mapaches"
+          },
+          "start": 28.4,
+          "end": 29.76
+        },
+        {
+          "text": "qui a élu domicile sur notre balcon.",
+          "translations": {
+            "zh": "在我们阳台上安了家。",
+            "en": "that has taken up residence on our balcony.",
+            "es": "que se ha instalado en nuestro balcón."
+          },
+          "start": 29.76,
+          "end": 31.52
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Je ne sais pas trop quoi faire avec ça.",
+      "translations": {
+        "zh": "我不太知道该怎么处理这件事。",
+        "en": "I don't really know what to do about it.",
+        "es": "No sé muy bien qué hacer con eso."
+      },
+      "start": 31.92,
+      "end": 33.28,
+      "words": [
+        {
+          "text": "Je",
+          "start": 31.92,
+          "end": 32.16
+        },
+        {
+          "text": "ne",
+          "start": 32.16,
+          "end": 32.16
+        },
+        {
+          "text": "sais",
+          "start": 32.16,
+          "end": 32.16
+        },
+        {
+          "text": "pas",
+          "start": 32.16,
+          "end": 32.32
+        },
+        {
+          "text": "trop",
+          "start": 32.32,
+          "end": 32.48
+        },
+        {
+          "text": "quoi",
+          "start": 32.48,
+          "end": 32.64
+        },
+        {
+          "text": "faire",
+          "start": 32.64,
+          "end": 32.8
+        },
+        {
+          "text": "avec",
+          "start": 32.8,
+          "end": 32.96
+        },
+        {
+          "text": "ça",
+          "start": 32.96,
+          "end": 33.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je ne sais pas trop",
+          "translations": {
+            "zh": "我不太知道",
+            "en": "I don't really know",
+            "es": "No sé muy bien"
+          },
+          "start": 31.92,
+          "end": 32.48
+        },
+        {
+          "text": "quoi faire avec ça.",
+          "translations": {
+            "zh": "该怎么处理这件事。",
+            "en": "what to do about it.",
+            "es": "qué hacer con eso."
+          },
+          "start": 32.48,
+          "end": 33.28
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Quoi ?",
+      "translations": {
+        "zh": "什么？",
+        "en": "What?",
+        "es": "¿Qué?"
+      },
+      "start": 33.92,
+      "end": 34.16,
+      "words": [
+        {
+          "text": "Quoi",
+          "start": 33.92,
+          "end": 34.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quoi ?",
+          "translations": {
+            "zh": "什么？",
+            "en": "What?",
+            "es": "¿Qué?"
+          },
+          "start": 33.92,
+          "end": 34.16
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Une famille de ratons laveurs ?",
+      "translations": {
+        "zh": "一家浣熊？",
+        "en": "A family of raccoons?",
+        "es": "¿Una familia de mapaches?"
+      },
+      "start": 34.88,
+      "end": 36.72,
+      "words": [
+        {
+          "text": "Une",
+          "start": 34.88,
+          "end": 35.04
+        },
+        {
+          "text": "famille",
+          "start": 35.04,
+          "end": 35.52
+        },
+        {
+          "text": "de",
+          "start": 35.52,
+          "end": 35.68
+        },
+        {
+          "text": "ratons",
+          "start": 35.68,
+          "end": 36.08
+        },
+        {
+          "text": "laveurs",
+          "start": 36.08,
+          "end": 36.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Une famille de ratons laveurs ?",
+          "translations": {
+            "zh": "一家浣熊？",
+            "en": "A family of raccoons?",
+            "es": "¿Una familia de mapaches?"
+          },
+          "start": 34.88,
+          "end": 36.72
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "C'est la première fois que j'entends ça !",
+      "translations": {
+        "zh": "这是我第一次听说这事！",
+        "en": "This is the first time I'm hearing about this!",
+        "es": "¡Es la primera vez que oigo eso!"
+      },
+      "start": 37.12,
+      "end": 38.64,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 37.12,
+          "end": 37.28
+        },
+        {
+          "text": "la",
+          "start": 37.28,
+          "end": 37.36
+        },
+        {
+          "text": "première",
+          "start": 37.36,
+          "end": 37.76
+        },
+        {
+          "text": "fois",
+          "start": 37.76,
+          "end": 37.92
+        },
+        {
+          "text": "que",
+          "start": 37.92,
+          "end": 38.0
+        },
+        {
+          "text": "j'entends",
+          "start": 38.0,
+          "end": 38.4
+        },
+        {
+          "text": "ça",
+          "start": 38.4,
+          "end": 38.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est la première fois",
+          "translations": {
+            "zh": "这是我第一次",
+            "en": "This is the first time",
+            "es": "Es la primera vez"
+          },
+          "start": 37.12,
+          "end": 37.92
+        },
+        {
+          "text": "que j'entends ça !",
+          "translations": {
+            "zh": "听说这事！",
+            "en": "I'm hearing about this!",
+            "es": "¡que oigo eso!"
+          },
+          "start": 37.92,
+          "end": 38.64
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Ben oui...",
+      "translations": {
+        "zh": "是啊……",
+        "en": "Well yeah...",
+        "es": "Pues sí..."
+      },
+      "start": 39.2,
+      "end": 39.6,
+      "words": [
+        {
+          "text": "Ben",
+          "start": 39.2,
+          "end": 39.44
+        },
+        {
+          "text": "oui",
+          "start": 39.44,
+          "end": 39.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ben oui...",
+          "translations": {
+            "zh": "是啊……",
+            "en": "Well yeah...",
+            "es": "Pues sí..."
+          },
+          "start": 39.2,
+          "end": 39.6
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Une mère avec ses petits...",
+      "translations": {
+        "zh": "一只母浣熊带着它的小崽子们……",
+        "en": "A mother with her little ones...",
+        "es": "Una madre con sus crías..."
+      },
+      "start": 39.76,
+      "end": 40.88,
+      "words": [
+        {
+          "text": "Une",
+          "start": 39.76,
+          "end": 40.0
+        },
+        {
+          "text": "mère",
+          "start": 40.0,
+          "end": 40.24
+        },
+        {
+          "text": "avec",
+          "start": 40.24,
+          "end": 40.48
+        },
+        {
+          "text": "ses",
+          "start": 40.48,
+          "end": 40.64
+        },
+        {
+          "text": "petits",
+          "start": 40.64,
+          "end": 40.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Une mère avec ses petits...",
+          "translations": {
+            "zh": "一只母浣熊带着它的小崽子们……",
+            "en": "A mother with her little ones...",
+            "es": "Una madre con sus crías..."
+          },
+          "start": 39.76,
+          "end": 40.88
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Ils sont pas mal beaux, mais ils seraient surement mieux ailleurs...",
+      "translations": {
+        "zh": "它们挺好看的，但肯定更适合待在别的地方……",
+        "en": "They're pretty cute, but they'd surely be better off somewhere else...",
+        "es": "Son bastante bonitos, pero seguramente estarían mejor en otra parte..."
+      },
+      "start": 41.12,
+      "end": 43.68,
+      "words": [
+        {
+          "text": "Ils",
+          "start": 41.12,
+          "end": 41.28
+        },
+        {
+          "text": "sont",
+          "start": 41.28,
+          "end": 41.44
+        },
+        {
+          "text": "pas",
+          "start": 41.44,
+          "end": 41.52
+        },
+        {
+          "text": "mal",
+          "start": 41.52,
+          "end": 41.76
+        },
+        {
+          "text": "beaux",
+          "start": 41.76,
+          "end": 41.92
+        },
+        {
+          "text": "mais",
+          "start": 41.92,
+          "end": 42.16
+        },
+        {
+          "text": "ils",
+          "start": 42.16,
+          "end": 42.32
+        },
+        {
+          "text": "seraient",
+          "start": 42.32,
+          "end": 42.56
+        },
+        {
+          "text": "surement",
+          "start": 42.56,
+          "end": 42.96
+        },
+        {
+          "text": "mieux",
+          "start": 42.96,
+          "end": 43.2
+        },
+        {
+          "text": "ailleurs",
+          "start": 43.2,
+          "end": 43.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ils sont pas mal beaux,",
+          "translations": {
+            "zh": "它们挺好看的，",
+            "en": "They're pretty cute,",
+            "es": "Son bastante bonitos,"
+          },
+          "start": 41.12,
+          "end": 41.92
+        },
+        {
+          "text": "mais ils seraient surement mieux ailleurs...",
+          "translations": {
+            "zh": "但肯定更适合待在别的地方……",
+            "en": "but they'd surely be better off somewhere else...",
+            "es": "pero seguramente estarían mejor en otra parte..."
+          },
+          "start": 41.92,
+          "end": 43.68
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Ouin, je vais dire comme toi : je ne sais pas trop quoi faire avec ça.",
+      "translations": {
+        "zh": "嗯，我跟你的想法一样：我不太知道该怎么处理这件事。",
+        "en": "Yeah, I'll say the same as you: I don't really know what to do about it.",
+        "es": "Mmm, voy a decir como tú: no sé muy bien qué hacer con eso."
+      },
+      "start": 44.16,
+      "end": 47.28,
+      "words": [
+        {
+          "text": "Ouin",
+          "start": 44.16,
+          "end": 44.48
+        },
+        {
+          "text": "je",
+          "start": 44.48,
+          "end": 44.56
+        },
+        {
+          "text": "vais",
+          "start": 44.64,
+          "end": 44.72
+        },
+        {
+          "text": "dire",
+          "start": 44.72,
+          "end": 44.96
+        },
+        {
+          "text": "comme",
+          "start": 44.96,
+          "end": 45.12
+        },
+        {
+          "text": "toi",
+          "start": 45.12,
+          "end": 45.44
+        },
+        {
+          "text": "je",
+          "start": 45.92,
+          "end": 46.08
+        },
+        {
+          "text": "ne",
+          "start": 46.08,
+          "end": 46.16
+        },
+        {
+          "text": "sais",
+          "start": 46.16,
+          "end": 46.16
+        },
+        {
+          "text": "pas",
+          "start": 46.16,
+          "end": 46.24
+        },
+        {
+          "text": "trop",
+          "start": 46.24,
+          "end": 46.4
+        },
+        {
+          "text": "quoi",
+          "start": 46.4,
+          "end": 46.56
+        },
+        {
+          "text": "faire",
+          "start": 46.56,
+          "end": 46.72
+        },
+        {
+          "text": "avec",
+          "start": 46.8,
+          "end": 46.96
+        },
+        {
+          "text": "ça",
+          "start": 46.96,
+          "end": 47.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ouin,",
+          "translations": {
+            "zh": "嗯，",
+            "en": "Yeah,",
+            "es": "Mmm,"
+          },
+          "start": 44.16,
+          "end": 44.48
+        },
+        {
+          "text": "je vais dire comme toi :",
+          "translations": {
+            "zh": "我跟你的想法一样：",
+            "en": "I'll say the same as you:",
+            "es": "voy a decir como tú:"
+          },
+          "start": 44.48,
+          "end": 45.44
+        },
+        {
+          "text": "je ne sais pas trop quoi faire avec ça.",
+          "translations": {
+            "zh": "我不太知道该怎么处理这件事。",
+            "en": "I don't really know what to do about it.",
+            "es": "no sé muy bien qué hacer con eso."
+          },
+          "start": 45.92,
+          "end": 47.28
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Euh, je vais appeler à la Ville pour voir s'ils peuvent faire quelque chose pour ça.",
+      "translations": {
+        "zh": "呃，我打电话给市政看看他们能不能处理一下。",
+        "en": "Um, I'm going to call the City to see if they can do something about it.",
+        "es": "Eh, voy a llamar a la Ciudad para ver si pueden hacer algo por eso."
+      },
+      "start": 48.56,
+      "end": 52.08,
+      "words": [
+        {
+          "text": "Euh",
+          "start": 48.56,
+          "end": 48.56
+        },
+        {
+          "text": "je",
+          "start": 48.56,
+          "end": 48.56
+        },
+        {
+          "text": "vais",
+          "start": 48.64,
+          "end": 49.12
+        },
+        {
+          "text": "appeler",
+          "start": 49.44,
+          "end": 49.68
+        },
+        {
+          "text": "à",
+          "start": 49.68,
+          "end": 49.76
+        },
+        {
+          "text": "la",
+          "start": 49.76,
+          "end": 49.84
+        },
+        {
+          "text": "Ville",
+          "start": 49.84,
+          "end": 50.16
+        },
+        {
+          "text": "pour",
+          "start": 50.16,
+          "end": 50.32
+        },
+        {
+          "text": "voir",
+          "start": 50.32,
+          "end": 50.48
+        },
+        {
+          "text": "s'ils",
+          "start": 50.48,
+          "end": 50.72
+        },
+        {
+          "text": "peuvent",
+          "start": 50.72,
+          "end": 50.88
+        },
+        {
+          "text": "faire",
+          "start": 50.88,
+          "end": 51.12
+        },
+        {
+          "text": "quelque",
+          "start": 51.12,
+          "end": 51.28
+        },
+        {
+          "text": "chose",
+          "start": 51.28,
+          "end": 51.52
+        },
+        {
+          "text": "pour",
+          "start": 51.52,
+          "end": 51.68
+        },
+        {
+          "text": "ça",
+          "start": 51.68,
+          "end": 52.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Euh,",
+          "translations": {
+            "zh": "呃，",
+            "en": "Um,",
+            "es": "Eh,"
+          },
+          "start": 48.56,
+          "end": 48.56
+        },
+        {
+          "text": "je vais appeler à la Ville",
+          "translations": {
+            "zh": "我打电话给市政",
+            "en": "I'm going to call the City",
+            "es": "voy a llamar a la Ciudad"
+          },
+          "start": 48.56,
+          "end": 50.16
+        },
+        {
+          "text": "pour voir s'ils peuvent faire quelque chose pour ça.",
+          "translations": {
+            "zh": "看看他们能不能处理一下。",
+            "en": "to see if they can do something about it.",
+            "es": "para ver si pueden hacer algo por eso."
+          },
+          "start": 50.16,
+          "end": 52.08
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Sinon, il va falloir que j'appelle un exterminateur, j'imagine, pour les relocaliser...",
+      "translations": {
+        "zh": "否则的话，我想我得叫个除虫公司来把它们转移走……",
+        "en": "Otherwise, I'll have to call an exterminator, I suppose, to relocate them...",
+        "es": "Si no, tendré que llamar a un exterminador, imagino, para reubicarlos..."
+      },
+      "start": 52.48,
+      "end": 56.56,
+      "words": [
+        {
+          "text": "Sinon",
+          "start": 52.48,
+          "end": 53.04
+        },
+        {
+          "text": "il",
+          "start": 53.04,
+          "end": 53.04
+        },
+        {
+          "text": "va",
+          "start": 53.04,
+          "end": 53.12
+        },
+        {
+          "text": "falloir",
+          "start": 53.12,
+          "end": 53.44
+        },
+        {
+          "text": "que",
+          "start": 53.44,
+          "end": 53.6
+        },
+        {
+          "text": "j'appelle",
+          "start": 53.6,
+          "end": 54.0
+        },
+        {
+          "text": "un",
+          "start": 54.0,
+          "end": 54.16
+        },
+        {
+          "text": "exterminateur",
+          "start": 54.16,
+          "end": 54.88
+        },
+        {
+          "text": "j'imagine",
+          "start": 54.88,
+          "end": 55.44
+        },
+        {
+          "text": "pour",
+          "start": 55.52,
+          "end": 55.68
+        },
+        {
+          "text": "les",
+          "start": 55.68,
+          "end": 55.76
+        },
+        {
+          "text": "relocaliser",
+          "start": 55.76,
+          "end": 56.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Sinon,",
+          "translations": {
+            "zh": "否则的话，",
+            "en": "Otherwise,",
+            "es": "Si no,"
+          },
+          "start": 52.48,
+          "end": 53.04
+        },
+        {
+          "text": "il va falloir que j'appelle un exterminateur,",
+          "translations": {
+            "zh": "我得叫个除虫公司，",
+            "en": "I'll have to call an exterminator,",
+            "es": "tendré que llamar a un exterminador,"
+          },
+          "start": 53.04,
+          "end": 54.88
+        },
+        {
+          "text": "j'imagine,",
+          "translations": {
+            "zh": "我想，",
+            "en": "I suppose,",
+            "es": "imagino,"
+          },
+          "start": 54.88,
+          "end": 55.44
+        },
+        {
+          "text": "pour les relocaliser...",
+          "translations": {
+            "zh": "来把它们转移走……",
+            "en": "to relocate them...",
+            "es": "para reubicarlos..."
+          },
+          "start": 55.52,
+          "end": 56.56
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Donne-moi quelques minutes pis je te rappelle, OK ?",
+      "translations": {
+        "zh": "给我几分钟，我再给你回电话，好吗？",
+        "en": "Give me a few minutes and I'll call you back, OK?",
+        "es": "Dame unos minutos y te llamo de vuelta, ¿OK?"
+      },
+      "start": 57.52,
+      "end": 59.12,
+      "words": [
+        {
+          "text": "Donne",
+          "start": 57.52,
+          "end": 57.76
+        },
+        {
+          "text": "moi",
+          "start": 57.76,
+          "end": 57.84
+        },
+        {
+          "text": "quelques",
+          "start": 57.84,
+          "end": 58.08
+        },
+        {
+          "text": "minutes",
+          "start": 58.08,
+          "end": 58.4
+        },
+        {
+          "text": "pis",
+          "start": 58.4,
+          "end": 58.56
+        },
+        {
+          "text": "je",
+          "start": 58.56,
+          "end": 58.56
+        },
+        {
+          "text": "te",
+          "start": 58.56,
+          "end": 58.64
+        },
+        {
+          "text": "rappelle",
+          "start": 58.64,
+          "end": 58.96
+        },
+        {
+          "text": "OK",
+          "start": 58.96,
+          "end": 59.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Donne-moi quelques minutes",
+          "translations": {
+            "zh": "给我几分钟",
+            "en": "Give me a few minutes",
+            "es": "Dame unos minutos"
+          },
+          "start": 57.52,
+          "end": 58.4
+        },
+        {
+          "text": "pis je te rappelle,",
+          "translations": {
+            "zh": "我再给你回电话，",
+            "en": "and I'll call you back,",
+            "es": "y te llamo de vuelta,"
+          },
+          "start": 58.4,
+          "end": 58.96
+        },
+        {
+          "text": "OK ?",
+          "translations": {
+            "zh": "好吗？",
+            "en": "OK?",
+            "es": "¿OK?"
+          },
+          "start": 58.96,
+          "end": 59.12
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Oui, pas de problème.",
+      "translations": {
+        "zh": "好的，没问题。",
+        "en": "Yes, no problem.",
+        "es": "Sí, sin problema."
+      },
+      "start": 59.12,
+      "end": 60.56,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 59.12,
+          "end": 59.84
+        },
+        {
+          "text": "pas",
+          "start": 60.0,
+          "end": 60.08
+        },
+        {
+          "text": "de",
+          "start": 60.08,
+          "end": 60.08
+        },
+        {
+          "text": "problème",
+          "start": 60.08,
+          "end": 60.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "好的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 59.12,
+          "end": 59.84
+        },
+        {
+          "text": "pas de problème.",
+          "translations": {
+            "zh": "没问题。",
+            "en": "no problem.",
+            "es": "sin problema."
+          },
+          "start": 60.0,
+          "end": 60.56
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Pourrais-tu me redonner ton numéro de téléphone ?",
+      "translations": {
+        "zh": "你能把你的电话号码再给我一次吗？",
+        "en": "Could you give me your phone number again?",
+        "es": "¿Podrías volver a darme tu número de teléfono?"
+      },
+      "start": 61.12,
+      "end": 62.72,
+      "words": [
+        {
+          "text": "Pourrais",
+          "start": 61.12,
+          "end": 61.36
+        },
+        {
+          "text": "tu",
+          "start": 61.36,
+          "end": 61.52
+        },
+        {
+          "text": "me",
+          "start": 61.52,
+          "end": 61.52
+        },
+        {
+          "text": "redonner",
+          "start": 61.52,
+          "end": 61.84
+        },
+        {
+          "text": "ton",
+          "start": 61.84,
+          "end": 62.0
+        },
+        {
+          "text": "numéro",
+          "start": 62.0,
+          "end": 62.24
+        },
+        {
+          "text": "de",
+          "start": 62.24,
+          "end": 62.32
+        },
+        {
+          "text": "téléphone",
+          "start": 62.32,
+          "end": 62.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pourrais-tu me redonner",
+          "translations": {
+            "zh": "你能再给我一次",
+            "en": "Could you give me again",
+            "es": "¿Podrías volver a darme"
+          },
+          "start": 61.12,
+          "end": 61.84
+        },
+        {
+          "text": "ton numéro de téléphone ?",
+          "translations": {
+            "zh": "你的电话号码吗？",
+            "en": "your phone number?",
+            "es": "tu número de teléfono?"
+          },
+          "start": 61.84,
+          "end": 62.72
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP02_P12",
+  "audio_filename": "FLS2_EP02_P12.mp3",
+  "audio_path": "downloads/FLS2_EP02_P12.mp3",
+  "episode": 2,
+  "piste": 12,
+  "page": 24,
+  "cd": "CD1"
+}

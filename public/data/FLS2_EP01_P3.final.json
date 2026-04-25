@@ -1,0 +1,701 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 1 Piste 3 Page 18",
+      "translations": {
+        "zh": "第1集 第3轨 第18页",
+        "en": "Episode 1 Track 3 Page 18",
+        "es": "Episodio 1 Pista 3 Página 18"
+      },
+      "start": 0.8,
+      "end": 12.0,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.8,
+          "end": 1.52
+        },
+        {
+          "text": "1",
+          "start": 1.68,
+          "end": 1.84
+        },
+        {
+          "text": "Piste",
+          "start": 2.96,
+          "end": 3.44
+        },
+        {
+          "text": "3",
+          "start": 4.0,
+          "end": 4.32
+        },
+        {
+          "text": "Page",
+          "start": 4.32,
+          "end": 7.12
+        },
+        {
+          "text": "18",
+          "start": 7.6,
+          "end": 12.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 1",
+          "translations": {
+            "zh": "第1集",
+            "en": "Episode 1",
+            "es": "Episodio 1"
+          },
+          "start": 0.8,
+          "end": 1.84
+        },
+        {
+          "text": "Piste 3",
+          "translations": {
+            "zh": "第3轨",
+            "en": "Track 3",
+            "es": "Pista 3"
+          },
+          "start": 2.96,
+          "end": 4.32
+        },
+        {
+          "text": "Page 18",
+          "translations": {
+            "zh": "第18页",
+            "en": "Page 18",
+            "es": "Página 18"
+          },
+          "start": 4.32,
+          "end": 12.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Cheveux courts ou cheveux longs Cheveux noirs ou cheveux blonds Queue d'cheval ou en chignon Coupe Longueuil ou champignon Je l'aime de toute façon De toute façon Dans la chambre ou au salon Robe du soir ou pantalon À Hochelag', à Outremont Saint-Laurent ou Jean-Talon Je l'aime de toute façon En Jeanne d'Arc ou en Suzanne Valadon Amelia dans son avion, en Juliette au balcon Dans chacune de ses saisons Sous toutes les déclinaisons Je l'aime de toute façon Cheveux courts ou cheveux longs",
+      "translations": {
+        "zh": "短发或长发 黑发或金发 马尾辫或发髻 朗格伊发型或蘑菇头 无论如何我都爱她 无论如何 在卧室或客厅 晚礼服或长裤 在奥舍拉加，在乌特蒙 圣洛朗或让-塔隆 无论如何我都爱她 扮作圣女贞德或苏珊·瓦拉东 阿梅莉亚在她的飞机里，扮作阳台上的朱丽叶 在她的每一个季节 在所有的变化之中 无论如何我都爱她 短发或长发",
+        "en": "Short hair or long hair Black hair or blond hair Ponytail or in a bun Longueuil cut or mushroom cut I love her anyway Anyway In the bedroom or in the living room Evening gown or pants In Hochelaga, in Outremont Saint-Laurent or Jean-Talon I love her anyway As Joan of Arc or as Suzanne Valadon Amelia in her plane, as Juliet on the balcony In each of her seasons In all her variations I love her anyway Short hair or long hair",
+        "es": "Pelo corto o pelo largo Pelo negro o pelo rubio Coleta o en moño Corte Longueuil o hongo La quiero de todas formas De todas formas En el cuarto o en el salón Vestido de noche o pantalón En Hochelag', en Outremont Saint-Laurent o Jean-Talon La quiero de todas formas De Juana de Arco o de Suzanne Valadon Amelia en su avión, de Julieta en el balcón En cada una de sus estaciones Bajo todas las declinaciones La quiero de todas formas Pelo corto o pelo largo"
+      },
+      "start": 12.0,
+      "end": 94.8,
+      "words": [
+        {
+          "text": "Cheveux",
+          "start": 12.0,
+          "end": 12.0
+        },
+        {
+          "text": "courts",
+          "start": 18.08,
+          "end": 18.4
+        },
+        {
+          "text": "ou",
+          "start": 18.72,
+          "end": 18.88
+        },
+        {
+          "text": "cheveux",
+          "start": 18.88,
+          "end": 19.2
+        },
+        {
+          "text": "longs",
+          "start": 19.6,
+          "end": 19.84
+        },
+        {
+          "text": "Cheveux",
+          "start": 20.88,
+          "end": 21.36
+        },
+        {
+          "text": "noirs",
+          "start": 21.36,
+          "end": 21.76
+        },
+        {
+          "text": "ou",
+          "start": 21.92,
+          "end": 22.0
+        },
+        {
+          "text": "cheveux",
+          "start": 22.0,
+          "end": 22.56
+        },
+        {
+          "text": "blonds",
+          "start": 22.72,
+          "end": 22.96
+        },
+        {
+          "text": "Queue",
+          "start": 22.96,
+          "end": 25.52
+        },
+        {
+          "text": "d'cheval",
+          "start": 25.52,
+          "end": 25.92
+        },
+        {
+          "text": "ou",
+          "start": 26.48,
+          "end": 26.88
+        },
+        {
+          "text": "en",
+          "start": 26.88,
+          "end": 27.12
+        },
+        {
+          "text": "chignon",
+          "start": 27.12,
+          "end": 27.6
+        },
+        {
+          "text": "Coupe",
+          "start": 28.4,
+          "end": 28.64
+        },
+        {
+          "text": "Longueuil",
+          "start": 28.72,
+          "end": 29.6
+        },
+        {
+          "text": "ou",
+          "start": 29.6,
+          "end": 29.84
+        },
+        {
+          "text": "champignon",
+          "start": 29.84,
+          "end": 30.8
+        },
+        {
+          "text": "Je",
+          "start": 32.0,
+          "end": 32.16
+        },
+        {
+          "text": "l'aime",
+          "start": 32.16,
+          "end": 32.56
+        },
+        {
+          "text": "de",
+          "start": 33.52,
+          "end": 33.6
+        },
+        {
+          "text": "toute",
+          "start": 33.6,
+          "end": 34.56
+        },
+        {
+          "text": "façon",
+          "start": 34.96,
+          "end": 35.36
+        },
+        {
+          "text": "De",
+          "start": 36.08,
+          "end": 37.76
+        },
+        {
+          "text": "toute",
+          "start": 37.84,
+          "end": 38.08
+        },
+        {
+          "text": "façon",
+          "start": 38.08,
+          "end": 38.48
+        },
+        {
+          "text": "Dans",
+          "start": 42.24,
+          "end": 42.4
+        },
+        {
+          "text": "la",
+          "start": 45.92,
+          "end": 46.08
+        },
+        {
+          "text": "chambre",
+          "start": 46.08,
+          "end": 46.4
+        },
+        {
+          "text": "ou",
+          "start": 46.72,
+          "end": 47.36
+        },
+        {
+          "text": "au",
+          "start": 47.36,
+          "end": 47.36
+        },
+        {
+          "text": "salon",
+          "start": 47.36,
+          "end": 47.84
+        },
+        {
+          "text": "Robe",
+          "start": 48.72,
+          "end": 48.96
+        },
+        {
+          "text": "du",
+          "start": 48.96,
+          "end": 48.96
+        },
+        {
+          "text": "soir",
+          "start": 49.04,
+          "end": 50.0
+        },
+        {
+          "text": "ou",
+          "start": 50.08,
+          "end": 50.08
+        },
+        {
+          "text": "pantalon",
+          "start": 50.24,
+          "end": 50.88
+        },
+        {
+          "text": "À",
+          "start": 53.36,
+          "end": 53.76
+        },
+        {
+          "text": "Hochelag",
+          "start": 53.76,
+          "end": 54.56
+        },
+        {
+          "text": "à",
+          "start": 54.56,
+          "end": 54.56
+        },
+        {
+          "text": "Outremont",
+          "start": 55.04,
+          "end": 55.6
+        },
+        {
+          "text": "Saint",
+          "start": 56.32,
+          "end": 56.64
+        },
+        {
+          "text": "Laurent",
+          "start": 56.88,
+          "end": 57.44
+        },
+        {
+          "text": "ou",
+          "start": 57.76,
+          "end": 57.76
+        },
+        {
+          "text": "Jean",
+          "start": 57.84,
+          "end": 58.24
+        },
+        {
+          "text": "Talon",
+          "start": 58.48,
+          "end": 58.72
+        },
+        {
+          "text": "Je",
+          "start": 60.0,
+          "end": 60.24
+        },
+        {
+          "text": "l'aime",
+          "start": 60.24,
+          "end": 60.64
+        },
+        {
+          "text": "de",
+          "start": 61.6,
+          "end": 61.68
+        },
+        {
+          "text": "toute",
+          "start": 61.68,
+          "end": 62.0
+        },
+        {
+          "text": "façon",
+          "start": 63.12,
+          "end": 63.44
+        },
+        {
+          "text": "En",
+          "start": 67.44,
+          "end": 67.76
+        },
+        {
+          "text": "Jeanne",
+          "start": 67.84,
+          "end": 68.16
+        },
+        {
+          "text": "d'Arc",
+          "start": 68.16,
+          "end": 68.48
+        },
+        {
+          "text": "ou",
+          "start": 68.88,
+          "end": 68.96
+        },
+        {
+          "text": "en",
+          "start": 69.04,
+          "end": 69.28
+        },
+        {
+          "text": "Suzanne",
+          "start": 69.36,
+          "end": 70.16
+        },
+        {
+          "text": "Valadon",
+          "start": 70.72,
+          "end": 71.12
+        },
+        {
+          "text": "Amelia",
+          "start": 73.76,
+          "end": 74.32
+        },
+        {
+          "text": "dans",
+          "start": 74.8,
+          "end": 75.04
+        },
+        {
+          "text": "son",
+          "start": 75.04,
+          "end": 75.6
+        },
+        {
+          "text": "avion",
+          "start": 75.6,
+          "end": 76.16
+        },
+        {
+          "text": "en",
+          "start": 76.16,
+          "end": 77.52
+        },
+        {
+          "text": "Juliette",
+          "start": 77.52,
+          "end": 78.16
+        },
+        {
+          "text": "au",
+          "start": 78.24,
+          "end": 78.32
+        },
+        {
+          "text": "balcon",
+          "start": 78.32,
+          "end": 81.36
+        },
+        {
+          "text": "Dans",
+          "start": 81.52,
+          "end": 81.76
+        },
+        {
+          "text": "chacune",
+          "start": 81.76,
+          "end": 82.64
+        },
+        {
+          "text": "de",
+          "start": 82.64,
+          "end": 82.72
+        },
+        {
+          "text": "ses",
+          "start": 82.72,
+          "end": 83.28
+        },
+        {
+          "text": "saisons",
+          "start": 83.28,
+          "end": 84.08
+        },
+        {
+          "text": "Sous",
+          "start": 84.72,
+          "end": 84.96
+        },
+        {
+          "text": "toutes",
+          "start": 84.96,
+          "end": 85.28
+        },
+        {
+          "text": "les",
+          "start": 85.28,
+          "end": 85.68
+        },
+        {
+          "text": "déclinaisons",
+          "start": 85.68,
+          "end": 86.8
+        },
+        {
+          "text": "Je",
+          "start": 89.6,
+          "end": 89.92
+        },
+        {
+          "text": "l'aime",
+          "start": 89.92,
+          "end": 90.4
+        },
+        {
+          "text": "de",
+          "start": 90.4,
+          "end": 90.48
+        },
+        {
+          "text": "toute",
+          "start": 90.48,
+          "end": 90.88
+        },
+        {
+          "text": "façon",
+          "start": 90.96,
+          "end": 91.52
+        },
+        {
+          "text": "Cheveux",
+          "start": 92.16,
+          "end": 92.88
+        },
+        {
+          "text": "courts",
+          "start": 92.96,
+          "end": 93.68
+        },
+        {
+          "text": "ou",
+          "start": 93.68,
+          "end": 93.68
+        },
+        {
+          "text": "cheveux",
+          "start": 93.76,
+          "end": 94.56
+        },
+        {
+          "text": "longs",
+          "start": 94.56,
+          "end": 94.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Cheveux courts ou cheveux longs",
+          "translations": {
+            "zh": "短发或长发",
+            "en": "Short hair or long hair",
+            "es": "Pelo corto o pelo largo"
+          },
+          "start": 12.0,
+          "end": 19.84
+        },
+        {
+          "text": "Cheveux noirs ou cheveux blonds",
+          "translations": {
+            "zh": "黑发或金发",
+            "en": "Black hair or blond hair",
+            "es": "Pelo negro o pelo rubio"
+          },
+          "start": 20.88,
+          "end": 22.96
+        },
+        {
+          "text": "Queue d'cheval ou en chignon",
+          "translations": {
+            "zh": "马尾辫或发髻",
+            "en": "Ponytail or in a bun",
+            "es": "Coleta o en moño"
+          },
+          "start": 22.96,
+          "end": 27.6
+        },
+        {
+          "text": "Coupe Longueuil ou champignon",
+          "translations": {
+            "zh": "朗格伊发型或蘑菇头",
+            "en": "Longueuil cut or mushroom cut",
+            "es": "Corte Longueuil o hongo"
+          },
+          "start": 28.4,
+          "end": 30.8
+        },
+        {
+          "text": "Je l'aime de toute façon",
+          "translations": {
+            "zh": "无论如何我都爱她",
+            "en": "I love her anyway",
+            "es": "La quiero de todas formas"
+          },
+          "start": 32.0,
+          "end": 35.36
+        },
+        {
+          "text": "De toute façon",
+          "translations": {
+            "zh": "无论如何",
+            "en": "Anyway",
+            "es": "De todas formas"
+          },
+          "start": 36.08,
+          "end": 38.48
+        },
+        {
+          "text": "Dans la chambre ou au salon",
+          "translations": {
+            "zh": "在卧室或客厅",
+            "en": "In the bedroom or in the living room",
+            "es": "En el cuarto o en el salón"
+          },
+          "start": 42.24,
+          "end": 47.84
+        },
+        {
+          "text": "Robe du soir ou pantalon",
+          "translations": {
+            "zh": "晚礼服或长裤",
+            "en": "Evening gown or pants",
+            "es": "Vestido de noche o pantalón"
+          },
+          "start": 48.72,
+          "end": 50.88
+        },
+        {
+          "text": "À Hochelag', à Outremont",
+          "translations": {
+            "zh": "在奥舍拉加，在乌特蒙",
+            "en": "In Hochelaga, in Outremont",
+            "es": "En Hochelag', en Outremont"
+          },
+          "start": 53.36,
+          "end": 55.6
+        },
+        {
+          "text": "Saint-Laurent ou Jean-Talon",
+          "translations": {
+            "zh": "圣洛朗或让-塔隆",
+            "en": "Saint-Laurent or Jean-Talon",
+            "es": "Saint-Laurent o Jean-Talon"
+          },
+          "start": 56.32,
+          "end": 58.72
+        },
+        {
+          "text": "Je l'aime de toute façon",
+          "translations": {
+            "zh": "无论如何我都爱她",
+            "en": "I love her anyway",
+            "es": "La quiero de todas formas"
+          },
+          "start": 60.0,
+          "end": 63.44
+        },
+        {
+          "text": "En Jeanne d'Arc ou en Suzanne Valadon",
+          "translations": {
+            "zh": "扮作圣女贞德或苏珊·瓦拉东",
+            "en": "As Joan of Arc or as Suzanne Valadon",
+            "es": "De Juana de Arco o de Suzanne Valadon"
+          },
+          "start": 67.44,
+          "end": 71.12
+        },
+        {
+          "text": "Amelia dans son avion, en Juliette au balcon",
+          "translations": {
+            "zh": "阿梅莉亚在她的飞机里，扮作阳台上的朱丽叶",
+            "en": "Amelia in her plane, as Juliet on the balcony",
+            "es": "Amelia en su avión, de Julieta en el balcón"
+          },
+          "start": 73.76,
+          "end": 81.36
+        },
+        {
+          "text": "Dans chacune de ses saisons",
+          "translations": {
+            "zh": "在她的每一个季节",
+            "en": "In each of her seasons",
+            "es": "En cada una de sus estaciones"
+          },
+          "start": 81.52,
+          "end": 84.08
+        },
+        {
+          "text": "Sous toutes les déclinaisons",
+          "translations": {
+            "zh": "在所有的变化之中",
+            "en": "In all her variations",
+            "es": "Bajo todas las declinaciones"
+          },
+          "start": 84.72,
+          "end": 86.8
+        },
+        {
+          "text": "Je l'aime de toute façon",
+          "translations": {
+            "zh": "无论如何我都爱她",
+            "en": "I love her anyway",
+            "es": "La quiero de todas formas"
+          },
+          "start": 89.6,
+          "end": 91.52
+        },
+        {
+          "text": "Cheveux courts ou cheveux longs",
+          "translations": {
+            "zh": "短发或长发",
+            "en": "Short hair or long hair",
+            "es": "Pelo corto o pelo largo"
+          },
+          "start": 92.16,
+          "end": 94.8
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP01_P3",
+  "audio_filename": "FLS2_EP01_P3.mp3",
+  "audio_path": "downloads/FLS2_EP01_P3.mp3",
+  "episode": 1,
+  "piste": 3,
+  "page": 18,
+  "cd": "CD1"
+}

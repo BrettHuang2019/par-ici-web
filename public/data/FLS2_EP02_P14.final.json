@@ -1,0 +1,1431 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 2 Piste 14 Page 25",
+      "translations": {
+        "zh": "第二集 第14段 第25页",
+        "en": "Episode 2 Track 14 Page 25",
+        "es": "Episodio 2 Pista 14 Página 25"
+      },
+      "start": 0.64,
+      "end": 7.68,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.64,
+          "end": 1.44
+        },
+        {
+          "text": "2",
+          "start": 1.84,
+          "end": 2.0
+        },
+        {
+          "text": "Piste",
+          "start": 3.04,
+          "end": 3.52
+        },
+        {
+          "text": "14",
+          "start": 4.16,
+          "end": 4.96
+        },
+        {
+          "text": "Page",
+          "start": 6.24,
+          "end": 6.64
+        },
+        {
+          "text": "25",
+          "start": 6.88,
+          "end": 7.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 2",
+          "translations": {
+            "zh": "第二集",
+            "en": "Episode 2",
+            "es": "Episodio 2"
+          },
+          "start": 0.64,
+          "end": 2.0
+        },
+        {
+          "text": "Piste 14",
+          "translations": {
+            "zh": "第14段",
+            "en": "Track 14",
+            "es": "Pista 14"
+          },
+          "start": 3.04,
+          "end": 4.96
+        },
+        {
+          "text": "Page 25",
+          "translations": {
+            "zh": "第25页",
+            "en": "Page 25",
+            "es": "Página 25"
+          },
+          "start": 6.24,
+          "end": 7.68
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bonjour, j'ai bien eu votre message.",
+      "translations": {
+        "zh": "您好，我已经收到了您的留言。",
+        "en": "Hello, I did receive your message.",
+        "es": "Hola, he recibido su mensaje."
+      },
+      "start": 11.76,
+      "end": 13.44,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 11.76,
+          "end": 12.32
+        },
+        {
+          "text": "j'ai",
+          "start": 12.32,
+          "end": 12.48
+        },
+        {
+          "text": "bien",
+          "start": 12.48,
+          "end": 12.64
+        },
+        {
+          "text": "eu",
+          "start": 12.72,
+          "end": 12.8
+        },
+        {
+          "text": "votre",
+          "start": 12.8,
+          "end": 12.96
+        },
+        {
+          "text": "message",
+          "start": 12.96,
+          "end": 13.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 11.76,
+          "end": 12.32
+        },
+        {
+          "text": "j'ai bien eu votre message.",
+          "translations": {
+            "zh": "我已经收到了您的留言。",
+            "en": "I did receive your message.",
+            "es": "he recibido su mensaje."
+          },
+          "start": 12.32,
+          "end": 13.44
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Écoutez, je suis en train de peinturer en ce moment.",
+      "translations": {
+        "zh": "您听我说，我现在正在刷漆。",
+        "en": "Listen, I am painting right now.",
+        "es": "Escuche, estoy pintando en este momento."
+      },
+      "start": 14.24,
+      "end": 16.16,
+      "words": [
+        {
+          "text": "Écoutez",
+          "start": 14.24,
+          "end": 14.56
+        },
+        {
+          "text": "je",
+          "start": 14.56,
+          "end": 14.64
+        },
+        {
+          "text": "suis",
+          "start": 14.64,
+          "end": 14.72
+        },
+        {
+          "text": "en",
+          "start": 14.8,
+          "end": 14.88
+        },
+        {
+          "text": "train",
+          "start": 14.88,
+          "end": 15.04
+        },
+        {
+          "text": "de",
+          "start": 15.04,
+          "end": 15.12
+        },
+        {
+          "text": "peinturer",
+          "start": 15.12,
+          "end": 15.68
+        },
+        {
+          "text": "en",
+          "start": 15.68,
+          "end": 15.76
+        },
+        {
+          "text": "ce",
+          "start": 15.76,
+          "end": 15.84
+        },
+        {
+          "text": "moment",
+          "start": 15.84,
+          "end": 16.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Écoutez,",
+          "translations": {
+            "zh": "您听我说，",
+            "en": "Listen,",
+            "es": "Escuche,"
+          },
+          "start": 14.24,
+          "end": 14.56
+        },
+        {
+          "text": "je suis en train de peinturer",
+          "translations": {
+            "zh": "我正在刷漆",
+            "en": "I am painting",
+            "es": "estoy pintando"
+          },
+          "start": 14.56,
+          "end": 15.68
+        },
+        {
+          "text": "en ce moment.",
+          "translations": {
+            "zh": "现在。",
+            "en": "right now.",
+            "es": "en este momento."
+          },
+          "start": 15.68,
+          "end": 16.16
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Est-ce que je peux aller la réparer ce soir, votre poignée de porte ?",
+      "translations": {
+        "zh": "我今天晚上可以去修理您的门把手吗？",
+        "en": "Can I go repair it tonight, your door handle?",
+        "es": "¿Puedo ir a repararla esta noche, su manija de puerta?"
+      },
+      "start": 16.64,
+      "end": 19.04,
+      "words": [
+        {
+          "text": "Est",
+          "start": 16.64,
+          "end": 16.72
+        },
+        {
+          "text": "ce",
+          "start": 16.72,
+          "end": 16.8
+        },
+        {
+          "text": "que",
+          "start": 16.8,
+          "end": 16.88
+        },
+        {
+          "text": "je",
+          "start": 16.88,
+          "end": 16.96
+        },
+        {
+          "text": "peux",
+          "start": 16.96,
+          "end": 17.04
+        },
+        {
+          "text": "aller",
+          "start": 17.04,
+          "end": 17.28
+        },
+        {
+          "text": "la",
+          "start": 17.28,
+          "end": 17.36
+        },
+        {
+          "text": "réparer",
+          "start": 17.36,
+          "end": 17.76
+        },
+        {
+          "text": "ce",
+          "start": 17.76,
+          "end": 17.92
+        },
+        {
+          "text": "soir",
+          "start": 17.92,
+          "end": 18.24
+        },
+        {
+          "text": "votre",
+          "start": 18.24,
+          "end": 18.4
+        },
+        {
+          "text": "poignée",
+          "start": 18.4,
+          "end": 18.64
+        },
+        {
+          "text": "de",
+          "start": 18.64,
+          "end": 18.72
+        },
+        {
+          "text": "porte",
+          "start": 18.72,
+          "end": 19.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que je peux aller la réparer ce soir,",
+          "translations": {
+            "zh": "我今天晚上可以去修理它，",
+            "en": "Can I go repair it tonight,",
+            "es": "¿Puedo ir a repararla esta noche,"
+          },
+          "start": 16.64,
+          "end": 18.24
+        },
+        {
+          "text": "votre poignée de porte ?",
+          "translations": {
+            "zh": "您的门把手？",
+            "en": "your door handle?",
+            "es": "su manija de puerta?"
+          },
+          "start": 18.24,
+          "end": 19.04
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Merci de me rappeler le plus tôt possible.",
+      "translations": {
+        "zh": "请尽快给我回电话。",
+        "en": "Please call me back as soon as possible.",
+        "es": "Gracias por llamarme lo antes posible."
+      },
+      "start": 19.68,
+      "end": 21.2,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 19.68,
+          "end": 19.84
+        },
+        {
+          "text": "de",
+          "start": 19.84,
+          "end": 20.0
+        },
+        {
+          "text": "me",
+          "start": 20.0,
+          "end": 20.08
+        },
+        {
+          "text": "rappeler",
+          "start": 20.08,
+          "end": 20.32
+        },
+        {
+          "text": "le",
+          "start": 20.32,
+          "end": 20.4
+        },
+        {
+          "text": "plus",
+          "start": 20.4,
+          "end": 20.56
+        },
+        {
+          "text": "tôt",
+          "start": 20.56,
+          "end": 20.64
+        },
+        {
+          "text": "possible",
+          "start": 20.64,
+          "end": 21.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci de me rappeler",
+          "translations": {
+            "zh": "请给我回电话",
+            "en": "Please call me back",
+            "es": "Gracias por llamarme"
+          },
+          "start": 19.68,
+          "end": 20.32
+        },
+        {
+          "text": "le plus tôt possible.",
+          "translations": {
+            "zh": "尽快。",
+            "en": "as soon as possible.",
+            "es": "lo antes posible."
+          },
+          "start": 20.32,
+          "end": 21.2
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "À bientôt !",
+      "translations": {
+        "zh": "回头见！",
+        "en": "See you soon!",
+        "es": "¡Hasta pronto!"
+      },
+      "start": 21.36,
+      "end": 21.76,
+      "words": [
+        {
+          "text": "À",
+          "start": 21.36,
+          "end": 21.44
+        },
+        {
+          "text": "bientôt",
+          "start": 21.44,
+          "end": 21.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "À bientôt !",
+          "translations": {
+            "zh": "回头见！",
+            "en": "See you soon!",
+            "es": "¡Hasta pronto!"
+          },
+          "start": 21.36,
+          "end": 21.76
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Bonsoir Monsieur Desrochers.",
+      "translations": {
+        "zh": "晚上好，德罗谢先生。",
+        "en": "Good evening Mr. Desrochers.",
+        "es": "Buenas noches, señor Desrochers."
+      },
+      "start": 27.68,
+      "end": 28.88,
+      "words": [
+        {
+          "text": "Bonsoir",
+          "start": 27.68,
+          "end": 28.08
+        },
+        {
+          "text": "Monsieur",
+          "start": 28.08,
+          "end": 28.32
+        },
+        {
+          "text": "Desrochers",
+          "start": 28.32,
+          "end": 28.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonsoir Monsieur Desrochers.",
+          "translations": {
+            "zh": "晚上好，德罗谢先生。",
+            "en": "Good evening Mr. Desrochers.",
+            "es": "Buenas noches, señor Desrochers."
+          },
+          "start": 27.68,
+          "end": 28.88
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "J'ai eu votre message.",
+      "translations": {
+        "zh": "我收到了您的留言。",
+        "en": "I received your message.",
+        "es": "He recibido su mensaje."
+      },
+      "start": 29.36,
+      "end": 30.24,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 29.36,
+          "end": 29.44
+        },
+        {
+          "text": "eu",
+          "start": 29.44,
+          "end": 29.6
+        },
+        {
+          "text": "votre",
+          "start": 29.6,
+          "end": 29.76
+        },
+        {
+          "text": "message",
+          "start": 29.76,
+          "end": 30.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai eu votre message.",
+          "translations": {
+            "zh": "我收到了您的留言。",
+            "en": "I received your message.",
+            "es": "He recibido su mensaje."
+          },
+          "start": 29.36,
+          "end": 30.24
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Je suis en train de chercher le numéro de téléphone de mon plombier.",
+      "translations": {
+        "zh": "我正在找我的水管工的电话号码。",
+        "en": "I am looking for my plumber's phone number.",
+        "es": "Estoy buscando el número de teléfono de mi fontanero."
+      },
+      "start": 30.56,
+      "end": 33.2,
+      "words": [
+        {
+          "text": "Je",
+          "start": 30.56,
+          "end": 30.64
+        },
+        {
+          "text": "suis",
+          "start": 30.64,
+          "end": 30.72
+        },
+        {
+          "text": "en",
+          "start": 30.72,
+          "end": 30.88
+        },
+        {
+          "text": "train",
+          "start": 30.88,
+          "end": 31.04
+        },
+        {
+          "text": "de",
+          "start": 31.04,
+          "end": 31.04
+        },
+        {
+          "text": "chercher",
+          "start": 31.04,
+          "end": 31.52
+        },
+        {
+          "text": "le",
+          "start": 31.52,
+          "end": 31.6
+        },
+        {
+          "text": "numéro",
+          "start": 31.68,
+          "end": 32.0
+        },
+        {
+          "text": "de",
+          "start": 32.0,
+          "end": 32.0
+        },
+        {
+          "text": "téléphone",
+          "start": 32.0,
+          "end": 32.48
+        },
+        {
+          "text": "de",
+          "start": 32.48,
+          "end": 32.56
+        },
+        {
+          "text": "mon",
+          "start": 32.56,
+          "end": 32.72
+        },
+        {
+          "text": "plombier",
+          "start": 32.72,
+          "end": 33.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis en train de chercher",
+          "translations": {
+            "zh": "我正在找",
+            "en": "I am looking for",
+            "es": "Estoy buscando"
+          },
+          "start": 30.56,
+          "end": 31.52
+        },
+        {
+          "text": "le numéro de téléphone de mon plombier.",
+          "translations": {
+            "zh": "我的水管工的电话号码。",
+            "en": "my plumber's phone number.",
+            "es": "el número de teléfono de mi fontanero."
+          },
+          "start": 31.52,
+          "end": 33.2
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Je l'appelle tout de suite et lui dis de se rendre chez vous dès demain.",
+      "translations": {
+        "zh": "我马上给他打电话，让他明天就去您家。",
+        "en": "I'll call him right away and tell him to go to your place as of tomorrow.",
+        "es": "Lo llamo ahora mismo y le digo que vaya a su casa desde mañana."
+      },
+      "start": 33.68,
+      "end": 36.48,
+      "words": [
+        {
+          "text": "Je",
+          "start": 33.68,
+          "end": 33.84
+        },
+        {
+          "text": "l'appelle",
+          "start": 33.84,
+          "end": 34.16
+        },
+        {
+          "text": "tout",
+          "start": 34.16,
+          "end": 34.32
+        },
+        {
+          "text": "de",
+          "start": 34.32,
+          "end": 34.32
+        },
+        {
+          "text": "suite",
+          "start": 34.32,
+          "end": 34.72
+        },
+        {
+          "text": "et",
+          "start": 34.72,
+          "end": 34.8
+        },
+        {
+          "text": "lui",
+          "start": 34.8,
+          "end": 35.04
+        },
+        {
+          "text": "dis",
+          "start": 35.04,
+          "end": 35.2
+        },
+        {
+          "text": "de",
+          "start": 35.2,
+          "end": 35.2
+        },
+        {
+          "text": "se",
+          "start": 35.2,
+          "end": 35.36
+        },
+        {
+          "text": "rendre",
+          "start": 35.36,
+          "end": 35.52
+        },
+        {
+          "text": "chez",
+          "start": 35.52,
+          "end": 35.76
+        },
+        {
+          "text": "vous",
+          "start": 35.76,
+          "end": 36.0
+        },
+        {
+          "text": "dès",
+          "start": 36.0,
+          "end": 36.32
+        },
+        {
+          "text": "demain",
+          "start": 36.32,
+          "end": 36.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je l'appelle tout de suite",
+          "translations": {
+            "zh": "我马上给他打电话",
+            "en": "I'll call him right away",
+            "es": "Lo llamo ahora mismo"
+          },
+          "start": 33.68,
+          "end": 34.72
+        },
+        {
+          "text": "et lui dis de se rendre chez vous",
+          "translations": {
+            "zh": "让他去您家",
+            "en": "and tell him to go to your place",
+            "es": "y le digo que vaya a su casa"
+          },
+          "start": 34.72,
+          "end": 36.0
+        },
+        {
+          "text": "dès demain.",
+          "translations": {
+            "zh": "明天就去。",
+            "en": "as of tomorrow.",
+            "es": "desde mañana."
+          },
+          "start": 36.0,
+          "end": 36.48
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Pourriez-vous me rappeler ce soir pour me dire si ça vous va ?",
+      "translations": {
+        "zh": "您今晚能给我回个电话告诉我这样行不行吗？",
+        "en": "Could you call me back tonight to let me know if that works for you?",
+        "es": "¿Podría llamarme esta noche para decirme si le parece bien?"
+      },
+      "start": 37.28,
+      "end": 39.68,
+      "words": [
+        {
+          "text": "Pourriez",
+          "start": 37.28,
+          "end": 37.52
+        },
+        {
+          "text": "vous",
+          "start": 37.52,
+          "end": 37.68
+        },
+        {
+          "text": "me",
+          "start": 37.68,
+          "end": 37.76
+        },
+        {
+          "text": "rappeler",
+          "start": 37.76,
+          "end": 38.0
+        },
+        {
+          "text": "ce",
+          "start": 38.0,
+          "end": 38.16
+        },
+        {
+          "text": "soir",
+          "start": 38.16,
+          "end": 38.56
+        },
+        {
+          "text": "pour",
+          "start": 38.64,
+          "end": 38.8
+        },
+        {
+          "text": "me",
+          "start": 38.8,
+          "end": 38.88
+        },
+        {
+          "text": "dire",
+          "start": 38.88,
+          "end": 39.04
+        },
+        {
+          "text": "si",
+          "start": 39.04,
+          "end": 39.2
+        },
+        {
+          "text": "ça",
+          "start": 39.2,
+          "end": 39.36
+        },
+        {
+          "text": "vous",
+          "start": 39.36,
+          "end": 39.44
+        },
+        {
+          "text": "va",
+          "start": 39.44,
+          "end": 39.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pourriez-vous me rappeler ce soir",
+          "translations": {
+            "zh": "您今晚能给我回个电话",
+            "en": "Could you call me back tonight",
+            "es": "¿Podría llamarme esta noche"
+          },
+          "start": 37.28,
+          "end": 38.56
+        },
+        {
+          "text": "pour me dire si ça vous va ?",
+          "translations": {
+            "zh": "告诉我这样行不行？",
+            "en": "to let me know if that works for you?",
+            "es": "para decirme si le parece bien?"
+          },
+          "start": 38.64,
+          "end": 39.68
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Bonjour, c'est le propriétaire à l'appareil.",
+      "translations": {
+        "zh": "您好，我是房东。",
+        "en": "Hello, it's the landlord on the line.",
+        "es": "Hola, es el propietario al teléfono."
+      },
+      "start": 45.92,
+      "end": 48.08,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 45.92,
+          "end": 46.56
+        },
+        {
+          "text": "c'est",
+          "start": 46.64,
+          "end": 46.8
+        },
+        {
+          "text": "le",
+          "start": 46.8,
+          "end": 46.88
+        },
+        {
+          "text": "propriétaire",
+          "start": 46.88,
+          "end": 47.52
+        },
+        {
+          "text": "à",
+          "start": 47.52,
+          "end": 47.52
+        },
+        {
+          "text": "l'appareil",
+          "start": 47.52,
+          "end": 48.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 45.92,
+          "end": 46.56
+        },
+        {
+          "text": "c'est le propriétaire à l'appareil.",
+          "translations": {
+            "zh": "我是房东。",
+            "en": "it's the landlord on the line.",
+            "es": "es el propietario al teléfono."
+          },
+          "start": 46.64,
+          "end": 48.08
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Je vous rappelle à propos de votre tapis.",
+      "translations": {
+        "zh": "我给您回电话是关于您的地毯的事。",
+        "en": "I'm calling you back about your carpet.",
+        "es": "Le llamo a propósito de su alfombra."
+      },
+      "start": 48.72,
+      "end": 50.24,
+      "words": [
+        {
+          "text": "Je",
+          "start": 48.72,
+          "end": 48.88
+        },
+        {
+          "text": "vous",
+          "start": 48.88,
+          "end": 48.96
+        },
+        {
+          "text": "rappelle",
+          "start": 48.96,
+          "end": 49.28
+        },
+        {
+          "text": "à",
+          "start": 49.28,
+          "end": 49.36
+        },
+        {
+          "text": "propos",
+          "start": 49.36,
+          "end": 49.68
+        },
+        {
+          "text": "de",
+          "start": 49.68,
+          "end": 49.68
+        },
+        {
+          "text": "votre",
+          "start": 49.68,
+          "end": 49.84
+        },
+        {
+          "text": "tapis",
+          "start": 49.84,
+          "end": 50.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vous rappelle",
+          "translations": {
+            "zh": "我给您回电话",
+            "en": "I'm calling you back",
+            "es": "Le llamo"
+          },
+          "start": 48.72,
+          "end": 49.28
+        },
+        {
+          "text": "à propos de votre tapis.",
+          "translations": {
+            "zh": "是关于您的地毯的事。",
+            "en": "about your carpet.",
+            "es": "a propósito de su alfombra."
+          },
+          "start": 49.28,
+          "end": 50.24
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Je vais passer voir ça la semaine prochaine, je ne suis pas dans le coin en ce moment.",
+      "translations": {
+        "zh": "我下周过去看看，我现在不在附近。",
+        "en": "I'll come by to check it next week, I'm not in the area right now.",
+        "es": "Voy a pasar a ver eso la semana que viene, no estoy por la zona en este momento."
+      },
+      "start": 50.96,
+      "end": 54.08,
+      "words": [
+        {
+          "text": "Je",
+          "start": 50.96,
+          "end": 51.04
+        },
+        {
+          "text": "vais",
+          "start": 51.12,
+          "end": 51.2
+        },
+        {
+          "text": "passer",
+          "start": 51.2,
+          "end": 51.52
+        },
+        {
+          "text": "voir",
+          "start": 51.52,
+          "end": 51.68
+        },
+        {
+          "text": "ça",
+          "start": 51.68,
+          "end": 51.84
+        },
+        {
+          "text": "la",
+          "start": 51.84,
+          "end": 51.92
+        },
+        {
+          "text": "semaine",
+          "start": 51.92,
+          "end": 52.08
+        },
+        {
+          "text": "prochaine",
+          "start": 52.08,
+          "end": 52.64
+        },
+        {
+          "text": "je",
+          "start": 52.64,
+          "end": 52.64
+        },
+        {
+          "text": "ne",
+          "start": 52.64,
+          "end": 52.64
+        },
+        {
+          "text": "suis",
+          "start": 52.64,
+          "end": 52.88
+        },
+        {
+          "text": "pas",
+          "start": 52.88,
+          "end": 53.04
+        },
+        {
+          "text": "dans",
+          "start": 53.04,
+          "end": 53.2
+        },
+        {
+          "text": "le",
+          "start": 53.2,
+          "end": 53.28
+        },
+        {
+          "text": "coin",
+          "start": 53.28,
+          "end": 53.68
+        },
+        {
+          "text": "en",
+          "start": 53.68,
+          "end": 53.68
+        },
+        {
+          "text": "ce",
+          "start": 53.68,
+          "end": 53.76
+        },
+        {
+          "text": "moment",
+          "start": 53.76,
+          "end": 54.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais passer voir ça",
+          "translations": {
+            "zh": "我过去看看",
+            "en": "I'll come by to check it",
+            "es": "Voy a pasar a ver eso"
+          },
+          "start": 50.96,
+          "end": 51.84
+        },
+        {
+          "text": "la semaine prochaine,",
+          "translations": {
+            "zh": "下周，",
+            "en": "next week,",
+            "es": "la semana que viene,"
+          },
+          "start": 51.84,
+          "end": 52.64
+        },
+        {
+          "text": "je ne suis pas dans le coin",
+          "translations": {
+            "zh": "我不在附近",
+            "en": "I'm not in the area",
+            "es": "no estoy por la zona"
+          },
+          "start": 52.64,
+          "end": 53.68
+        },
+        {
+          "text": "en ce moment.",
+          "translations": {
+            "zh": "现在。",
+            "en": "right now.",
+            "es": "en este momento."
+          },
+          "start": 53.68,
+          "end": 54.08
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Je suis en train d'aider ma fille qui déménage, je vais vous rappeler lundi prochain pour qu'on puisse prendre rendez-vous.",
+      "translations": {
+        "zh": "我正在帮我女儿搬家，我下周一会给您回电话，好让我们约个时间。",
+        "en": "I am helping my daughter who is moving, I'll call you back next Monday so we can set up an appointment.",
+        "es": "Estoy ayudando a mi hija que se muda, le llamaré el lunes que viene para que podamos fijar una cita."
+      },
+      "start": 54.64,
+      "end": 59.52,
+      "words": [
+        {
+          "text": "Je",
+          "start": 54.64,
+          "end": 54.72
+        },
+        {
+          "text": "suis",
+          "start": 54.72,
+          "end": 54.88
+        },
+        {
+          "text": "en",
+          "start": 54.88,
+          "end": 54.96
+        },
+        {
+          "text": "train",
+          "start": 54.96,
+          "end": 55.2
+        },
+        {
+          "text": "d'aider",
+          "start": 55.2,
+          "end": 55.36
+        },
+        {
+          "text": "ma",
+          "start": 55.36,
+          "end": 55.52
+        },
+        {
+          "text": "fille",
+          "start": 55.52,
+          "end": 55.76
+        },
+        {
+          "text": "qui",
+          "start": 55.76,
+          "end": 55.92
+        },
+        {
+          "text": "déménage",
+          "start": 55.92,
+          "end": 56.4
+        },
+        {
+          "text": "je",
+          "start": 56.4,
+          "end": 56.72
+        },
+        {
+          "text": "vais",
+          "start": 56.72,
+          "end": 56.88
+        },
+        {
+          "text": "vous",
+          "start": 56.88,
+          "end": 56.96
+        },
+        {
+          "text": "rappeler",
+          "start": 56.96,
+          "end": 57.28
+        },
+        {
+          "text": "lundi",
+          "start": 57.28,
+          "end": 57.68
+        },
+        {
+          "text": "prochain",
+          "start": 57.68,
+          "end": 58.08
+        },
+        {
+          "text": "pour",
+          "start": 58.16,
+          "end": 58.32
+        },
+        {
+          "text": "qu'on",
+          "start": 58.32,
+          "end": 58.56
+        },
+        {
+          "text": "puisse",
+          "start": 58.56,
+          "end": 58.8
+        },
+        {
+          "text": "prendre",
+          "start": 58.8,
+          "end": 59.12
+        },
+        {
+          "text": "rendez",
+          "start": 59.12,
+          "end": 59.36
+        },
+        {
+          "text": "vous",
+          "start": 59.36,
+          "end": 59.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis en train d'aider ma fille qui déménage,",
+          "translations": {
+            "zh": "我正在帮我女儿搬家，",
+            "en": "I am helping my daughter who is moving,",
+            "es": "Estoy ayudando a mi hija que se muda,"
+          },
+          "start": 54.64,
+          "end": 56.4
+        },
+        {
+          "text": "je vais vous rappeler lundi prochain",
+          "translations": {
+            "zh": "我下周一会给您回电话",
+            "en": "I'll call you back next Monday",
+            "es": "le llamaré el lunes que viene"
+          },
+          "start": 56.4,
+          "end": 58.08
+        },
+        {
+          "text": "pour qu'on puisse prendre rendez-vous.",
+          "translations": {
+            "zh": "好让我们约个时间。",
+            "en": "so we can set up an appointment.",
+            "es": "para que podamos fijar una cita."
+          },
+          "start": 58.16,
+          "end": 59.52
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Est-ce que ça vous convient ?",
+      "translations": {
+        "zh": "这样可以吗？",
+        "en": "Does that work for you?",
+        "es": "¿Le conviene?"
+      },
+      "start": 60.56,
+      "end": 61.44,
+      "words": [
+        {
+          "text": "Est",
+          "start": 60.56,
+          "end": 60.64
+        },
+        {
+          "text": "ce",
+          "start": 60.64,
+          "end": 60.72
+        },
+        {
+          "text": "que",
+          "start": 60.72,
+          "end": 60.8
+        },
+        {
+          "text": "ça",
+          "start": 60.8,
+          "end": 60.88
+        },
+        {
+          "text": "vous",
+          "start": 60.88,
+          "end": 61.04
+        },
+        {
+          "text": "convient",
+          "start": 61.04,
+          "end": 61.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que ça vous convient ?",
+          "translations": {
+            "zh": "这样可以吗？",
+            "en": "Does that work for you?",
+            "es": "¿Le conviene?"
+          },
+          "start": 60.56,
+          "end": 61.44
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "J'attends de vos nouvelles !",
+      "translations": {
+        "zh": "我等您的消息！",
+        "en": "I look forward to hearing from you!",
+        "es": "¡Espero noticias suyas!"
+      },
+      "start": 62.32,
+      "end": 63.2,
+      "words": [
+        {
+          "text": "J'attends",
+          "start": 62.32,
+          "end": 62.64
+        },
+        {
+          "text": "de",
+          "start": 62.64,
+          "end": 62.72
+        },
+        {
+          "text": "vos",
+          "start": 62.72,
+          "end": 62.8
+        },
+        {
+          "text": "nouvelles",
+          "start": 62.8,
+          "end": 63.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'attends de vos nouvelles !",
+          "translations": {
+            "zh": "我等您的消息！",
+            "en": "I look forward to hearing from you!",
+            "es": "¡Espero noticias suyas!"
+          },
+          "start": 62.32,
+          "end": 63.2
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Merci.",
+      "translations": {
+        "zh": "谢谢。",
+        "en": "Thank you.",
+        "es": "Gracias."
+      },
+      "start": 63.92,
+      "end": 64.24,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 63.92,
+          "end": 64.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci.",
+          "translations": {
+            "zh": "谢谢。",
+            "en": "Thank you.",
+            "es": "Gracias."
+          },
+          "start": 63.92,
+          "end": 64.24
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP02_P14",
+  "audio_filename": "FLS2_EP02_P14.mp3",
+  "audio_path": "downloads/FLS2_EP02_P14.mp3",
+  "episode": 2,
+  "piste": 14,
+  "page": 25,
+  "cd": "CD1"
+}

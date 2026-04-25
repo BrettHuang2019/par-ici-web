@@ -1,0 +1,2516 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 3 Piste 17 Page 29",
+      "translations": {
+        "zh": "第三集 第17段 第29页",
+        "en": "Episode 3 Track 17 Page 29",
+        "es": "Episodio 3 Pista 17 Página 29"
+      },
+      "start": 0.48,
+      "end": 7.76,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.48,
+          "end": 1.2
+        },
+        {
+          "text": "3",
+          "start": 1.6,
+          "end": 1.92
+        },
+        {
+          "text": "Piste",
+          "start": 2.88,
+          "end": 3.36
+        },
+        {
+          "text": "17",
+          "start": 4.0,
+          "end": 4.56
+        },
+        {
+          "text": "Page",
+          "start": 4.56,
+          "end": 4.56
+        },
+        {
+          "text": "29",
+          "start": 7.04,
+          "end": 7.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 3",
+          "translations": {
+            "zh": "第三集",
+            "en": "Episode 3",
+            "es": "Episodio 3"
+          },
+          "start": 0.48,
+          "end": 1.92
+        },
+        {
+          "text": "Piste 17",
+          "translations": {
+            "zh": "第17段",
+            "en": "Track 17",
+            "es": "Pista 17"
+          },
+          "start": 2.88,
+          "end": 4.56
+        },
+        {
+          "text": "Page 29",
+          "translations": {
+            "zh": "第29页",
+            "en": "Page 29",
+            "es": "Página 29"
+          },
+          "start": 4.56,
+          "end": 7.76
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bonjour et bienvenue à la Caisse régionale.",
+      "translations": {
+        "zh": "您好，欢迎来到地区分行。",
+        "en": "Hello and welcome to the Caisse régionale.",
+        "es": "Hola y bienvenidos a la Caja Regional."
+      },
+      "start": 10.0,
+      "end": 12.0,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 10.0,
+          "end": 10.4
+        },
+        {
+          "text": "et",
+          "start": 10.4,
+          "end": 10.56
+        },
+        {
+          "text": "bienvenue",
+          "start": 10.56,
+          "end": 10.96
+        },
+        {
+          "text": "à",
+          "start": 10.96,
+          "end": 11.04
+        },
+        {
+          "text": "la",
+          "start": 11.04,
+          "end": 11.2
+        },
+        {
+          "text": "Caisse",
+          "start": 11.2,
+          "end": 11.52
+        },
+        {
+          "text": "régionale",
+          "start": 11.52,
+          "end": 12.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour",
+          "translations": {
+            "zh": "您好",
+            "en": "Hello",
+            "es": "Hola"
+          },
+          "start": 10.0,
+          "end": 10.4
+        },
+        {
+          "text": "et bienvenue à la Caisse régionale.",
+          "translations": {
+            "zh": "欢迎来到地区分行。",
+            "en": "and welcome to the Caisse régionale.",
+            "es": "y bienvenidos a la Caja Regional."
+          },
+          "start": 10.4,
+          "end": 12.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Pour le service en anglais, faites le 9 maintenant.",
+      "translations": {
+        "zh": "如需英语服务，请现在按9。",
+        "en": "For service in English, press 9 now.",
+        "es": "Para el servicio en inglés, marque el 9 ahora."
+      },
+      "start": 12.72,
+      "end": 15.52,
+      "words": [
+        {
+          "text": "Pour",
+          "start": 12.72,
+          "end": 12.88
+        },
+        {
+          "text": "le",
+          "start": 12.88,
+          "end": 12.96
+        },
+        {
+          "text": "service",
+          "start": 12.96,
+          "end": 13.44
+        },
+        {
+          "text": "en",
+          "start": 13.44,
+          "end": 13.52
+        },
+        {
+          "text": "anglais",
+          "start": 13.52,
+          "end": 13.92
+        },
+        {
+          "text": "faites",
+          "start": 14.24,
+          "end": 14.56
+        },
+        {
+          "text": "le",
+          "start": 14.56,
+          "end": 14.64
+        },
+        {
+          "text": "9",
+          "start": 14.64,
+          "end": 14.88
+        },
+        {
+          "text": "maintenant",
+          "start": 15.12,
+          "end": 15.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pour le service en anglais,",
+          "translations": {
+            "zh": "如需英语服务，",
+            "en": "For service in English,",
+            "es": "Para el servicio en inglés,"
+          },
+          "start": 12.72,
+          "end": 13.92
+        },
+        {
+          "text": "faites le 9 maintenant.",
+          "translations": {
+            "zh": "请现在按9。",
+            "en": "press 9 now.",
+            "es": "marque el 9 ahora."
+          },
+          "start": 14.24,
+          "end": 15.52
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Pour prendre un rendez- vous, faites le 1.",
+      "translations": {
+        "zh": "如需预约，请按1。",
+        "en": "To make an appointment, press 1.",
+        "es": "Para concertar una cita, marque el 1."
+      },
+      "start": 16.4,
+      "end": 18.32,
+      "words": [
+        {
+          "text": "Pour",
+          "start": 16.4,
+          "end": 16.56
+        },
+        {
+          "text": "prendre",
+          "start": 16.56,
+          "end": 16.88
+        },
+        {
+          "text": "un",
+          "start": 16.88,
+          "end": 16.96
+        },
+        {
+          "text": "rendez",
+          "start": 16.96,
+          "end": 17.2
+        },
+        {
+          "text": "vous",
+          "start": 17.2,
+          "end": 17.44
+        },
+        {
+          "text": "faites",
+          "start": 17.76,
+          "end": 18.0
+        },
+        {
+          "text": "le",
+          "start": 18.0,
+          "end": 18.16
+        },
+        {
+          "text": "1",
+          "start": 18.24,
+          "end": 18.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pour prendre un rendez- vous,",
+          "translations": {
+            "zh": "如需预约，",
+            "en": "To make an appointment,",
+            "es": "Para concertar una cita,"
+          },
+          "start": 16.4,
+          "end": 17.44
+        },
+        {
+          "text": "faites le 1.",
+          "translations": {
+            "zh": "请按1。",
+            "en": "press 1.",
+            "es": "marque el 1."
+          },
+          "start": 17.76,
+          "end": 18.32
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Pour parler à un de nos agents, faites le 2.",
+      "translations": {
+        "zh": "如需与我们的客服人员通话，请按2。",
+        "en": "To speak to one of our agents, press 2.",
+        "es": "Para hablar con uno de nuestros agentes, marque el 2."
+      },
+      "start": 19.12,
+      "end": 25.04,
+      "words": [
+        {
+          "text": "Pour",
+          "start": 19.12,
+          "end": 19.28
+        },
+        {
+          "text": "parler",
+          "start": 19.28,
+          "end": 19.6
+        },
+        {
+          "text": "à",
+          "start": 19.6,
+          "end": 19.84
+        },
+        {
+          "text": "un",
+          "start": 19.84,
+          "end": 19.84
+        },
+        {
+          "text": "de",
+          "start": 19.84,
+          "end": 20.0
+        },
+        {
+          "text": "nos",
+          "start": 20.0,
+          "end": 20.16
+        },
+        {
+          "text": "agents",
+          "start": 20.24,
+          "end": 20.4
+        },
+        {
+          "text": "faites",
+          "start": 20.72,
+          "end": 21.04
+        },
+        {
+          "text": "le",
+          "start": 21.12,
+          "end": 21.2
+        },
+        {
+          "text": "2",
+          "start": 24.96,
+          "end": 25.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pour parler à un de nos agents,",
+          "translations": {
+            "zh": "如需与我们的客服人员通话，",
+            "en": "To speak to one of our agents,",
+            "es": "Para hablar con uno de nuestros agentes,"
+          },
+          "start": 19.12,
+          "end": 20.4
+        },
+        {
+          "text": "faites le 2.",
+          "translations": {
+            "zh": "请按2。",
+            "en": "press 2.",
+            "es": "marque el 2."
+          },
+          "start": 20.72,
+          "end": 25.04
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Bonjour, bienvenue à la Caisse régionale.",
+      "translations": {
+        "zh": "您好，欢迎来到地区分行。",
+        "en": "Hello, welcome to the Caisse régionale.",
+        "es": "Hola, bienvenidos a la Caja Regional."
+      },
+      "start": 25.04,
+      "end": 26.96,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 25.04,
+          "end": 25.52
+        },
+        {
+          "text": "bienvenue",
+          "start": 25.52,
+          "end": 25.84
+        },
+        {
+          "text": "à",
+          "start": 25.84,
+          "end": 25.92
+        },
+        {
+          "text": "la",
+          "start": 25.92,
+          "end": 26.0
+        },
+        {
+          "text": "Caisse",
+          "start": 26.0,
+          "end": 26.24
+        },
+        {
+          "text": "régionale",
+          "start": 26.24,
+          "end": 26.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 25.04,
+          "end": 25.52
+        },
+        {
+          "text": "bienvenue à la Caisse régionale.",
+          "translations": {
+            "zh": "欢迎来到地区分行。",
+            "en": "welcome to the Caisse régionale.",
+            "es": "bienvenidos a la Caja Regional."
+          },
+          "start": 25.52,
+          "end": 26.96
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Mon nom est Philippe, comment puis-je vous aider ?",
+      "translations": {
+        "zh": "我叫菲利普，我能怎么帮您？",
+        "en": "My name is Philippe, how may I help you?",
+        "es": "Mi nombre es Philippe, ¿cómo puedo ayudarle?"
+      },
+      "start": 27.04,
+      "end": 28.64,
+      "words": [
+        {
+          "text": "Mon",
+          "start": 27.04,
+          "end": 27.2
+        },
+        {
+          "text": "nom",
+          "start": 27.2,
+          "end": 27.36
+        },
+        {
+          "text": "est",
+          "start": 27.36,
+          "end": 27.44
+        },
+        {
+          "text": "Philippe",
+          "start": 27.44,
+          "end": 27.76
+        },
+        {
+          "text": "comment",
+          "start": 27.76,
+          "end": 28.0
+        },
+        {
+          "text": "puis",
+          "start": 28.0,
+          "end": 28.16
+        },
+        {
+          "text": "je",
+          "start": 28.16,
+          "end": 28.32
+        },
+        {
+          "text": "vous",
+          "start": 28.32,
+          "end": 28.4
+        },
+        {
+          "text": "aider",
+          "start": 28.4,
+          "end": 28.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mon nom est Philippe,",
+          "translations": {
+            "zh": "我叫菲利普，",
+            "en": "My name is Philippe,",
+            "es": "Mi nombre es Philippe,"
+          },
+          "start": 27.04,
+          "end": 27.76
+        },
+        {
+          "text": "comment puis-je vous aider ?",
+          "translations": {
+            "zh": "我能怎么帮您？",
+            "en": "how may I help you?",
+            "es": "¿cómo puedo ayudarle?"
+          },
+          "start": 27.76,
+          "end": 28.64
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Bonjour, j'aimerais prendre rendez-vous pour ouvrir un compte.",
+      "translations": {
+        "zh": "您好，我想预约开一个账户。",
+        "en": "Hello, I would like to make an appointment to open an account.",
+        "es": "Hola, me gustaría concertar una cita para abrir una cuenta."
+      },
+      "start": 29.44,
+      "end": 31.84,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 29.44,
+          "end": 29.92
+        },
+        {
+          "text": "j'aimerais",
+          "start": 30.0,
+          "end": 30.32
+        },
+        {
+          "text": "prendre",
+          "start": 30.32,
+          "end": 30.56
+        },
+        {
+          "text": "rendez",
+          "start": 30.56,
+          "end": 30.72
+        },
+        {
+          "text": "vous",
+          "start": 30.72,
+          "end": 30.88
+        },
+        {
+          "text": "pour",
+          "start": 30.88,
+          "end": 31.04
+        },
+        {
+          "text": "ouvrir",
+          "start": 31.04,
+          "end": 31.28
+        },
+        {
+          "text": "un",
+          "start": 31.28,
+          "end": 31.44
+        },
+        {
+          "text": "compte",
+          "start": 31.44,
+          "end": 31.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 29.44,
+          "end": 29.92
+        },
+        {
+          "text": "j'aimerais prendre rendez-vous pour ouvrir un compte.",
+          "translations": {
+            "zh": "我想预约开一个账户。",
+            "en": "I would like to make an appointment to open an account.",
+            "es": "me gustaría concertar una cita para abrir una cuenta."
+          },
+          "start": 30.0,
+          "end": 31.84
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "D'accord.",
+      "translations": {
+        "zh": "好的。",
+        "en": "All right.",
+        "es": "De acuerdo."
+      },
+      "start": 32.32,
+      "end": 32.96,
+      "words": [
+        {
+          "text": "D'accord",
+          "start": 32.32,
+          "end": 32.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'accord.",
+          "translations": {
+            "zh": "好的。",
+            "en": "All right.",
+            "es": "De acuerdo."
+          },
+          "start": 32.32,
+          "end": 32.96
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Pourriez-vous s'il vous plait me donner d'abord votre prénom et votre nom de famille ?",
+      "translations": {
+        "zh": "请问您能不能先告诉我您的名字和姓？",
+        "en": "Could you please give me your first name and your last name first?",
+        "es": "¿Podría usted por favor darme primero su nombre y su apellido?"
+      },
+      "start": 33.52,
+      "end": 36.96,
+      "words": [
+        {
+          "text": "Pourriez",
+          "start": 33.52,
+          "end": 33.84
+        },
+        {
+          "text": "vous",
+          "start": 33.84,
+          "end": 34.0
+        },
+        {
+          "text": "s'il",
+          "start": 34.0,
+          "end": 34.24
+        },
+        {
+          "text": "vous",
+          "start": 34.24,
+          "end": 34.32
+        },
+        {
+          "text": "plait",
+          "start": 34.32,
+          "end": 34.56
+        },
+        {
+          "text": "me",
+          "start": 34.56,
+          "end": 34.64
+        },
+        {
+          "text": "donner",
+          "start": 34.64,
+          "end": 34.96
+        },
+        {
+          "text": "d'abord",
+          "start": 34.96,
+          "end": 35.36
+        },
+        {
+          "text": "votre",
+          "start": 35.36,
+          "end": 35.6
+        },
+        {
+          "text": "prénom",
+          "start": 35.6,
+          "end": 36.08
+        },
+        {
+          "text": "et",
+          "start": 36.08,
+          "end": 36.16
+        },
+        {
+          "text": "votre",
+          "start": 36.16,
+          "end": 36.4
+        },
+        {
+          "text": "nom",
+          "start": 36.4,
+          "end": 36.56
+        },
+        {
+          "text": "de",
+          "start": 36.56,
+          "end": 36.64
+        },
+        {
+          "text": "famille",
+          "start": 36.64,
+          "end": 36.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pourriez-vous s'il vous plait",
+          "translations": {
+            "zh": "请问您能不能",
+            "en": "Could you please",
+            "es": "¿Podría usted por favor"
+          },
+          "start": 33.52,
+          "end": 34.56
+        },
+        {
+          "text": "me donner d'abord votre prénom et votre nom de famille ?",
+          "translations": {
+            "zh": "先告诉我您的名字和姓？",
+            "en": "give me your first name and your last name first?",
+            "es": "darme primero su nombre y su apellido?"
+          },
+          "start": 34.56,
+          "end": 36.96
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Oui, c'est Geneviève Paquette.",
+      "translations": {
+        "zh": "好的，是热纳维耶芙·帕凯特。",
+        "en": "Yes, it's Geneviève Paquette.",
+        "es": "Sí, es Geneviève Paquette."
+      },
+      "start": 37.52,
+      "end": 40.16,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 37.52,
+          "end": 37.76
+        },
+        {
+          "text": "c'est",
+          "start": 37.92,
+          "end": 38.4
+        },
+        {
+          "text": "Geneviève",
+          "start": 38.4,
+          "end": 39.2
+        },
+        {
+          "text": "Paquette",
+          "start": 39.52,
+          "end": 40.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "好的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 37.52,
+          "end": 37.76
+        },
+        {
+          "text": "c'est Geneviève Paquette.",
+          "translations": {
+            "zh": "是热纳维耶芙·帕凯特。",
+            "en": "it's Geneviève Paquette.",
+            "es": "es Geneviève Paquette."
+          },
+          "start": 37.92,
+          "end": 40.16
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "J'aurais aussi besoin de votre adresse.",
+      "translations": {
+        "zh": "我还需要您的地址。",
+        "en": "I would also need your address.",
+        "es": "También necesitaría su dirección."
+      },
+      "start": 41.28,
+      "end": 42.96,
+      "words": [
+        {
+          "text": "J'aurais",
+          "start": 41.28,
+          "end": 41.6
+        },
+        {
+          "text": "aussi",
+          "start": 41.6,
+          "end": 41.92
+        },
+        {
+          "text": "besoin",
+          "start": 41.92,
+          "end": 42.24
+        },
+        {
+          "text": "de",
+          "start": 42.24,
+          "end": 42.32
+        },
+        {
+          "text": "votre",
+          "start": 42.32,
+          "end": 42.48
+        },
+        {
+          "text": "adresse",
+          "start": 42.48,
+          "end": 42.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'aurais aussi besoin de votre adresse.",
+          "translations": {
+            "zh": "我还需要您的地址。",
+            "en": "I would also need your address.",
+            "es": "También necesitaría su dirección."
+          },
+          "start": 41.28,
+          "end": 42.96
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Euh, ben...",
+      "translations": {
+        "zh": "呃，嗯……",
+        "en": "Um, well...",
+        "es": "Eh, bueno..."
+      },
+      "start": 43.2,
+      "end": 44.0,
+      "words": [
+        {
+          "text": "Euh",
+          "start": 43.2,
+          "end": 43.68
+        },
+        {
+          "text": "ben",
+          "start": 43.68,
+          "end": 44.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Euh, ben...",
+          "translations": {
+            "zh": "呃，嗯……",
+            "en": "Um, well...",
+            "es": "Eh, bueno..."
+          },
+          "start": 43.2,
+          "end": 44.0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "c'est une adresse temporaire.",
+      "translations": {
+        "zh": "这是一个临时地址。",
+        "en": "it's a temporary address.",
+        "es": "es una dirección temporal."
+      },
+      "start": 44.0,
+      "end": 45.68,
+      "words": [
+        {
+          "text": "c'est",
+          "start": 44.0,
+          "end": 44.24
+        },
+        {
+          "text": "une",
+          "start": 44.24,
+          "end": 44.4
+        },
+        {
+          "text": "adresse",
+          "start": 44.4,
+          "end": 44.88
+        },
+        {
+          "text": "temporaire",
+          "start": 44.88,
+          "end": 45.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "c'est une adresse temporaire.",
+          "translations": {
+            "zh": "这是一个临时地址。",
+            "en": "it's a temporary address.",
+            "es": "es una dirección temporal."
+          },
+          "start": 44.0,
+          "end": 45.68
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Je devrais déménager bientôt.",
+      "translations": {
+        "zh": "我不久就要搬家了。",
+        "en": "I should be moving soon.",
+        "es": "Debería mudarme pronto."
+      },
+      "start": 45.76,
+      "end": 47.04,
+      "words": [
+        {
+          "text": "Je",
+          "start": 45.76,
+          "end": 45.84
+        },
+        {
+          "text": "devrais",
+          "start": 45.84,
+          "end": 46.16
+        },
+        {
+          "text": "déménager",
+          "start": 46.16,
+          "end": 46.56
+        },
+        {
+          "text": "bientôt",
+          "start": 46.56,
+          "end": 47.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je devrais déménager bientôt.",
+          "translations": {
+            "zh": "我不久就要搬家了。",
+            "en": "I should be moving soon.",
+            "es": "Debería mudarme pronto."
+          },
+          "start": 45.76,
+          "end": 47.04
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Ça ne pose pas de problème, je veux seulement identifier la succursale qui se trouve le plus près d'où vous êtes en ce moment.",
+      "translations": {
+        "zh": "这没有问题，我只是想确定离您目前所在位置最近的分行。",
+        "en": "That's not a problem, I just want to identify the branch that is closest to where you are right now.",
+        "es": "Eso no representa ningún problema, solo quiero identificar la sucursal que se encuentra más cerca de donde usted está en este momento."
+      },
+      "start": 47.52,
+      "end": 52.8,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 47.52,
+          "end": 47.84
+        },
+        {
+          "text": "ne",
+          "start": 47.84,
+          "end": 47.92
+        },
+        {
+          "text": "pose",
+          "start": 47.92,
+          "end": 48.16
+        },
+        {
+          "text": "pas",
+          "start": 48.16,
+          "end": 48.32
+        },
+        {
+          "text": "de",
+          "start": 48.32,
+          "end": 48.32
+        },
+        {
+          "text": "problème",
+          "start": 48.32,
+          "end": 48.72
+        },
+        {
+          "text": "je",
+          "start": 48.8,
+          "end": 49.04
+        },
+        {
+          "text": "veux",
+          "start": 49.04,
+          "end": 49.12
+        },
+        {
+          "text": "seulement",
+          "start": 49.12,
+          "end": 49.44
+        },
+        {
+          "text": "identifier",
+          "start": 49.44,
+          "end": 50.0
+        },
+        {
+          "text": "la",
+          "start": 50.0,
+          "end": 50.08
+        },
+        {
+          "text": "succursale",
+          "start": 50.08,
+          "end": 50.8
+        },
+        {
+          "text": "qui",
+          "start": 50.88,
+          "end": 50.96
+        },
+        {
+          "text": "se",
+          "start": 50.96,
+          "end": 51.04
+        },
+        {
+          "text": "trouve",
+          "start": 51.04,
+          "end": 51.36
+        },
+        {
+          "text": "le",
+          "start": 51.36,
+          "end": 51.36
+        },
+        {
+          "text": "plus",
+          "start": 51.44,
+          "end": 51.6
+        },
+        {
+          "text": "près",
+          "start": 51.6,
+          "end": 51.92
+        },
+        {
+          "text": "d'où",
+          "start": 51.92,
+          "end": 52.0
+        },
+        {
+          "text": "vous",
+          "start": 52.0,
+          "end": 52.32
+        },
+        {
+          "text": "êtes",
+          "start": 52.32,
+          "end": 52.4
+        },
+        {
+          "text": "en",
+          "start": 52.4,
+          "end": 52.48
+        },
+        {
+          "text": "ce",
+          "start": 52.48,
+          "end": 52.56
+        },
+        {
+          "text": "moment",
+          "start": 52.56,
+          "end": 52.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça ne pose pas de problème,",
+          "translations": {
+            "zh": "这没有问题，",
+            "en": "That's not a problem,",
+            "es": "Eso no representa ningún problema,"
+          },
+          "start": 47.52,
+          "end": 48.72
+        },
+        {
+          "text": "je veux seulement identifier la succursale",
+          "translations": {
+            "zh": "我只想确定分行，",
+            "en": "I just want to identify the branch",
+            "es": "solo quiero identificar la sucursal"
+          },
+          "start": 48.8,
+          "end": 50.8
+        },
+        {
+          "text": "qui se trouve le plus près d'où vous êtes en ce moment.",
+          "translations": {
+            "zh": "离您目前所在位置最近的那家。",
+            "en": "that is closest to where you are right now.",
+            "es": "que se encuentra más cerca de donde usted está en este momento."
+          },
+          "start": 50.88,
+          "end": 52.8
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Ah, OK.",
+      "translations": {
+        "zh": "啊，好的。",
+        "en": "Ah, OK.",
+        "es": "Ah, OK."
+      },
+      "start": 53.36,
+      "end": 53.76,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 53.36,
+          "end": 53.52
+        },
+        {
+          "text": "OK",
+          "start": 53.6,
+          "end": 53.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah, OK.",
+          "translations": {
+            "zh": "啊，好的。",
+            "en": "Ah, OK.",
+            "es": "Ah, OK."
+          },
+          "start": 53.36,
+          "end": 53.76
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "C'est le 1815, avenue de Lorimier, à Montréal.",
+      "translations": {
+        "zh": "是蒙特利尔的洛里米耶大道1815号。",
+        "en": "It's 1815 Lorimier Avenue, in Montreal.",
+        "es": "Es el 1815, avenida de Lorimier, en Montreal."
+      },
+      "start": 54.48,
+      "end": 58.56,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 54.48,
+          "end": 54.8
+        },
+        {
+          "text": "le",
+          "start": 54.8,
+          "end": 55.04
+        },
+        {
+          "text": "1815",
+          "start": 55.04,
+          "end": 56.16
+        },
+        {
+          "text": "avenue",
+          "start": 56.48,
+          "end": 56.8
+        },
+        {
+          "text": "de",
+          "start": 56.8,
+          "end": 56.96
+        },
+        {
+          "text": "Lorimier",
+          "start": 56.96,
+          "end": 57.6
+        },
+        {
+          "text": "à",
+          "start": 58.08,
+          "end": 58.16
+        },
+        {
+          "text": "Montréal",
+          "start": 58.16,
+          "end": 58.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est le 1815, avenue de Lorimier,",
+          "translations": {
+            "zh": "是洛里米耶大道1815号，",
+            "en": "It's 1815 Lorimier Avenue,",
+            "es": "Es el 1815, avenida de Lorimier,"
+          },
+          "start": 54.48,
+          "end": 57.6
+        },
+        {
+          "text": "à Montréal.",
+          "translations": {
+            "zh": "在蒙特利尔。",
+            "en": "in Montreal.",
+            "es": "en Montreal."
+          },
+          "start": 58.08,
+          "end": 58.56
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "D'accord, ce ne sera pas très long...",
+      "translations": {
+        "zh": "好的，不会太久的……",
+        "en": "All right, it won't take very long...",
+        "es": "De acuerdo, no será muy largo..."
+      },
+      "start": 59.84,
+      "end": 61.44,
+      "words": [
+        {
+          "text": "D'accord",
+          "start": 59.84,
+          "end": 60.56
+        },
+        {
+          "text": "ce",
+          "start": 60.64,
+          "end": 60.8
+        },
+        {
+          "text": "ne",
+          "start": 60.8,
+          "end": 60.88
+        },
+        {
+          "text": "sera",
+          "start": 60.88,
+          "end": 61.04
+        },
+        {
+          "text": "pas",
+          "start": 61.04,
+          "end": 61.12
+        },
+        {
+          "text": "très",
+          "start": 61.12,
+          "end": 61.36
+        },
+        {
+          "text": "long",
+          "start": 61.36,
+          "end": 61.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'accord,",
+          "translations": {
+            "zh": "好的，",
+            "en": "All right,",
+            "es": "De acuerdo,"
+          },
+          "start": 59.84,
+          "end": 60.56
+        },
+        {
+          "text": "ce ne sera pas très long...",
+          "translations": {
+            "zh": "不会太久的……",
+            "en": "it won't take very long...",
+            "es": "no será muy largo..."
+          },
+          "start": 60.64,
+          "end": 61.44
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "La succursale la plus près de chez vous se trouve au 1934, rue Ontario.",
+      "translations": {
+        "zh": "离您家最近的分行在安大略街1934号。",
+        "en": "The branch closest to your home is at 1934 Ontario Street.",
+        "es": "La sucursal más cercana a su domicilio se encuentra en el 1934, calle Ontario."
+      },
+      "start": 63.44,
+      "end": 69.44,
+      "words": [
+        {
+          "text": "La",
+          "start": 63.44,
+          "end": 63.6
+        },
+        {
+          "text": "succursale",
+          "start": 63.6,
+          "end": 64.4
+        },
+        {
+          "text": "la",
+          "start": 64.4,
+          "end": 64.48
+        },
+        {
+          "text": "plus",
+          "start": 64.48,
+          "end": 64.64
+        },
+        {
+          "text": "près",
+          "start": 64.64,
+          "end": 64.8
+        },
+        {
+          "text": "de",
+          "start": 64.8,
+          "end": 64.88
+        },
+        {
+          "text": "chez",
+          "start": 64.88,
+          "end": 65.12
+        },
+        {
+          "text": "vous",
+          "start": 65.12,
+          "end": 65.52
+        },
+        {
+          "text": "se",
+          "start": 65.6,
+          "end": 65.84
+        },
+        {
+          "text": "trouve",
+          "start": 65.84,
+          "end": 66.48
+        },
+        {
+          "text": "au",
+          "start": 66.56,
+          "end": 66.72
+        },
+        {
+          "text": "1934",
+          "start": 66.72,
+          "end": 67.76
+        },
+        {
+          "text": "rue",
+          "start": 68.64,
+          "end": 68.72
+        },
+        {
+          "text": "Ontario",
+          "start": 68.96,
+          "end": 69.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La succursale la plus près de chez vous",
+          "translations": {
+            "zh": "离您家最近的分行",
+            "en": "The branch closest to your home",
+            "es": "La sucursal más cercana a su domicilio"
+          },
+          "start": 63.44,
+          "end": 65.52
+        },
+        {
+          "text": "se trouve au 1934, rue Ontario.",
+          "translations": {
+            "zh": "在安大略街1934号。",
+            "en": "is at 1934 Ontario Street.",
+            "es": "se encuentra en el 1934, calle Ontario."
+          },
+          "start": 65.6,
+          "end": 69.44
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Est-ce que cela vous conviendrait comme lieu de rendez-vous ?",
+      "translations": {
+        "zh": "这个地点作为见面地点您方便吗？",
+        "en": "Would that suit you as an appointment location?",
+        "es": "¿Le convendría eso como lugar de cita?"
+      },
+      "start": 70.24,
+      "end": 72.16,
+      "words": [
+        {
+          "text": "Est",
+          "start": 70.24,
+          "end": 70.32
+        },
+        {
+          "text": "ce",
+          "start": 70.32,
+          "end": 70.4
+        },
+        {
+          "text": "que",
+          "start": 70.4,
+          "end": 70.48
+        },
+        {
+          "text": "cela",
+          "start": 70.48,
+          "end": 70.64
+        },
+        {
+          "text": "vous",
+          "start": 70.64,
+          "end": 70.72
+        },
+        {
+          "text": "conviendrait",
+          "start": 70.72,
+          "end": 71.36
+        },
+        {
+          "text": "comme",
+          "start": 71.36,
+          "end": 71.6
+        },
+        {
+          "text": "lieu",
+          "start": 71.6,
+          "end": 71.76
+        },
+        {
+          "text": "de",
+          "start": 71.76,
+          "end": 71.76
+        },
+        {
+          "text": "rendez",
+          "start": 71.76,
+          "end": 72.0
+        },
+        {
+          "text": "vous",
+          "start": 72.0,
+          "end": 72.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que cela vous conviendrait",
+          "translations": {
+            "zh": "这对您方便吗",
+            "en": "Would that suit you",
+            "es": "¿Le convendría eso"
+          },
+          "start": 70.24,
+          "end": 71.36
+        },
+        {
+          "text": "comme lieu de rendez-vous ?",
+          "translations": {
+            "zh": "作为见面地点？",
+            "en": "as an appointment location?",
+            "es": "como lugar de cita?"
+          },
+          "start": 71.36,
+          "end": 72.16
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "TRAN S C RIP TION DE S DIALO GUES Oui, tout à fait.",
+      "translations": {
+        "zh": "对话转录 是的，完全可以。",
+        "en": "TRANSCRIPTION OF THE DIALOGUES Yes, absolutely.",
+        "es": "TRANSCRIPCIÓN DE LOS DIÁLOGOS Sí, por supuesto."
+      },
+      "start": 73.04,
+      "end": 76.16,
+      "words": [
+        {
+          "text": "TRAN",
+          "start": 73.04,
+          "end": 73.2
+        },
+        {
+          "text": "S",
+          "start": 73.2,
+          "end": 73.76
+        },
+        {
+          "text": "C",
+          "start": 73.76,
+          "end": 73.76
+        },
+        {
+          "text": "RIP",
+          "start": 73.76,
+          "end": 73.76
+        },
+        {
+          "text": "TION",
+          "start": 73.76,
+          "end": 73.76
+        },
+        {
+          "text": "DE",
+          "start": 75.28,
+          "end": 75.28
+        },
+        {
+          "text": "S",
+          "start": 75.36,
+          "end": 75.52
+        },
+        {
+          "text": "DIALO",
+          "start": 75.52,
+          "end": 75.52
+        },
+        {
+          "text": "GUES",
+          "start": 75.6,
+          "end": 75.66
+        },
+        {
+          "text": "Oui",
+          "start": 75.72,
+          "end": 75.78
+        },
+        {
+          "text": "tout",
+          "start": 75.84,
+          "end": 75.84
+        },
+        {
+          "text": "à",
+          "start": 76.16,
+          "end": 76.16
+        },
+        {
+          "text": "fait",
+          "start": 76.16,
+          "end": 76.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "TRAN S C RIP TION DE S DIALO GUES",
+          "translations": {
+            "zh": "对话转录",
+            "en": "TRANSCRIPTION OF THE DIALOGUES",
+            "es": "TRANSCRIPCIÓN DE LOS DIÁLOGOS"
+          },
+          "start": 73.04,
+          "end": 75.66
+        },
+        {
+          "text": "Oui, tout à fait.",
+          "translations": {
+            "zh": "是的，完全可以。",
+            "en": "Yes, absolutely.",
+            "es": "Sí, por supuesto."
+          },
+          "start": 75.72,
+          "end": 76.16
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Êtes-vous disponible cet après-midi à 14 h 45 ?",
+      "translations": {
+        "zh": "您今天下午两点四十五分有空吗？",
+        "en": "Are you available this afternoon at 2:45?",
+        "es": "¿Está usted disponible esta tarde a las 14 h 45?"
+      },
+      "start": 76.16,
+      "end": 77.28,
+      "words": [
+        {
+          "text": "Êtes",
+          "start": 76.16,
+          "end": 76.16
+        },
+        {
+          "text": "vous",
+          "start": 76.16,
+          "end": 76.16
+        },
+        {
+          "text": "disponible",
+          "start": 76.16,
+          "end": 76.16
+        },
+        {
+          "text": "cet",
+          "start": 76.16,
+          "end": 76.16
+        },
+        {
+          "text": "après",
+          "start": 76.16,
+          "end": 76.16
+        },
+        {
+          "text": "midi",
+          "start": 76.16,
+          "end": 76.16
+        },
+        {
+          "text": "à",
+          "start": 76.16,
+          "end": 76.16
+        },
+        {
+          "text": "14",
+          "start": 76.16,
+          "end": 76.56
+        },
+        {
+          "text": "h",
+          "start": 76.56,
+          "end": 77.2
+        },
+        {
+          "text": "45",
+          "start": 77.2,
+          "end": 77.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Êtes-vous disponible",
+          "translations": {
+            "zh": "您有空吗",
+            "en": "Are you available",
+            "es": "¿Está usted disponible"
+          },
+          "start": 76.16,
+          "end": 76.16
+        },
+        {
+          "text": "cet après-midi à 14 h 45 ?",
+          "translations": {
+            "zh": "今天下午两点四十五分？",
+            "en": "this afternoon at 2:45?",
+            "es": "esta tarde a las 14 h 45?"
+          },
+          "start": 76.16,
+          "end": 77.28
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Oui.",
+      "translations": {
+        "zh": "是的。",
+        "en": "Yes.",
+        "es": "Sí."
+      },
+      "start": 77.76,
+      "end": 77.92,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 77.76,
+          "end": 77.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui.",
+          "translations": {
+            "zh": "是的。",
+            "en": "Yes.",
+            "es": "Sí."
+          },
+          "start": 77.76,
+          "end": 77.92
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "D'accord.",
+      "translations": {
+        "zh": "好的。",
+        "en": "All right.",
+        "es": "De acuerdo."
+      },
+      "start": 79.28,
+      "end": 79.84,
+      "words": [
+        {
+          "text": "D'accord",
+          "start": 79.28,
+          "end": 79.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'accord.",
+          "translations": {
+            "zh": "好的。",
+            "en": "All right.",
+            "es": "De acuerdo."
+          },
+          "start": 79.28,
+          "end": 79.84
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Vous allez rencontrer une de nos conseillères, madame Jocelyne Bérubé.",
+      "translations": {
+        "zh": "您将见到我们的一位顾问，乔斯林·贝吕贝女士。",
+        "en": "You will meet with one of our advisors, Mrs. Jocelyne Bérubé.",
+        "es": "Usted va a reunirse con una de nuestras consejeras, la señora Jocelyne Bérubé."
+      },
+      "start": 81.36,
+      "end": 84.64,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 81.36,
+          "end": 81.6
+        },
+        {
+          "text": "allez",
+          "start": 81.6,
+          "end": 81.76
+        },
+        {
+          "text": "rencontrer",
+          "start": 81.76,
+          "end": 82.24
+        },
+        {
+          "text": "une",
+          "start": 82.24,
+          "end": 82.4
+        },
+        {
+          "text": "de",
+          "start": 82.4,
+          "end": 82.48
+        },
+        {
+          "text": "nos",
+          "start": 82.48,
+          "end": 82.64
+        },
+        {
+          "text": "conseillères",
+          "start": 82.64,
+          "end": 83.2
+        },
+        {
+          "text": "madame",
+          "start": 83.2,
+          "end": 83.6
+        },
+        {
+          "text": "Jocelyne",
+          "start": 83.6,
+          "end": 84.16
+        },
+        {
+          "text": "Bérubé",
+          "start": 84.16,
+          "end": 84.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous allez rencontrer une de nos conseillères,",
+          "translations": {
+            "zh": "您将见到我们的一位顾问，",
+            "en": "You will meet with one of our advisors,",
+            "es": "Usted va a reunirse con una de nuestras consejeras,"
+          },
+          "start": 81.36,
+          "end": 83.2
+        },
+        {
+          "text": "madame Jocelyne Bérubé.",
+          "translations": {
+            "zh": "乔斯林·贝吕贝女士。",
+            "en": "Mrs. Jocelyne Bérubé.",
+            "es": "la señora Jocelyne Bérubé."
+          },
+          "start": 83.2,
+          "end": 84.64
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Vous devez prévoir une trentaine de minutes pour l'ouverture d'un compte et apporter deux pièces d'identité valides.",
+      "translations": {
+        "zh": "您需要预留大约三十分钟来开户，并携带两份有效的身份证明。",
+        "en": "You should allow about thirty minutes for opening an account and bring two valid pieces of identification.",
+        "es": "Usted debe prever unos treinta minutos para la apertura de una cuenta y traer dos piezas de identidad válidas."
+      },
+      "start": 85.44,
+      "end": 91.12,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 85.44,
+          "end": 85.6
+        },
+        {
+          "text": "devez",
+          "start": 85.6,
+          "end": 85.84
+        },
+        {
+          "text": "prévoir",
+          "start": 85.84,
+          "end": 86.32
+        },
+        {
+          "text": "une",
+          "start": 86.32,
+          "end": 86.64
+        },
+        {
+          "text": "trentaine",
+          "start": 86.64,
+          "end": 87.2
+        },
+        {
+          "text": "de",
+          "start": 87.2,
+          "end": 87.2
+        },
+        {
+          "text": "minutes",
+          "start": 87.28,
+          "end": 87.52
+        },
+        {
+          "text": "pour",
+          "start": 87.52,
+          "end": 87.68
+        },
+        {
+          "text": "l'ouverture",
+          "start": 87.68,
+          "end": 88.16
+        },
+        {
+          "text": "d'un",
+          "start": 88.16,
+          "end": 88.32
+        },
+        {
+          "text": "compte",
+          "start": 88.32,
+          "end": 88.64
+        },
+        {
+          "text": "et",
+          "start": 89.2,
+          "end": 89.36
+        },
+        {
+          "text": "apporter",
+          "start": 89.36,
+          "end": 89.76
+        },
+        {
+          "text": "deux",
+          "start": 89.76,
+          "end": 89.92
+        },
+        {
+          "text": "pièces",
+          "start": 90.0,
+          "end": 90.24
+        },
+        {
+          "text": "d'identité",
+          "start": 90.24,
+          "end": 90.8
+        },
+        {
+          "text": "valides",
+          "start": 90.8,
+          "end": 91.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous devez prévoir une trentaine de minutes pour l'ouverture d'un compte",
+          "translations": {
+            "zh": "您需要预留大约三十分钟来开户",
+            "en": "You should allow about thirty minutes for opening an account",
+            "es": "Usted debe prever unos treinta minutos para la apertura de una cuenta"
+          },
+          "start": 85.44,
+          "end": 88.64
+        },
+        {
+          "text": "et apporter deux pièces d'identité valides.",
+          "translations": {
+            "zh": "并携带两份有效的身份证明。",
+            "en": "and bring two valid pieces of identification.",
+            "es": "y traer dos piezas de identidad válidas."
+          },
+          "start": 89.2,
+          "end": 91.12
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "C'est très bien.",
+      "translations": {
+        "zh": "很好。",
+        "en": "That's very good.",
+        "es": "Está muy bien."
+      },
+      "start": 91.6,
+      "end": 92.24,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 91.6,
+          "end": 91.76
+        },
+        {
+          "text": "très",
+          "start": 91.76,
+          "end": 92.0
+        },
+        {
+          "text": "bien",
+          "start": 92.0,
+          "end": 92.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est très bien.",
+          "translations": {
+            "zh": "很好。",
+            "en": "That's very good.",
+            "es": "Está muy bien."
+          },
+          "start": 91.6,
+          "end": 92.24
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "14 h 45.",
+      "translations": {
+        "zh": "两点四十五分。",
+        "en": "2:45.",
+        "es": "14 h 45."
+      },
+      "start": 92.72,
+      "end": 93.92,
+      "words": [
+        {
+          "text": "14",
+          "start": 92.72,
+          "end": 93.04
+        },
+        {
+          "text": "h",
+          "start": 93.36,
+          "end": 93.92
+        },
+        {
+          "text": "45",
+          "start": 93.92,
+          "end": 93.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "14 h 45.",
+          "translations": {
+            "zh": "两点四十五分。",
+            "en": "2:45.",
+            "es": "14 h 45."
+          },
+          "start": 92.72,
+          "end": 93.92
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Deux pièces d'identité.",
+      "translations": {
+        "zh": "两份身份证明。",
+        "en": "Two pieces of identification.",
+        "es": "Dos piezas de identidad."
+      },
+      "start": 94.0,
+      "end": 95.12,
+      "words": [
+        {
+          "text": "Deux",
+          "start": 94.0,
+          "end": 94.16
+        },
+        {
+          "text": "pièces",
+          "start": 94.16,
+          "end": 94.48
+        },
+        {
+          "text": "d'identité",
+          "start": 94.48,
+          "end": 95.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Deux pièces d'identité.",
+          "translations": {
+            "zh": "两份身份证明。",
+            "en": "Two pieces of identification.",
+            "es": "Dos piezas de identidad."
+          },
+          "start": 94.0,
+          "end": 95.12
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "Mon permis de conduire et ma carte d'assurance maladie, est-ce que ça va ?",
+      "translations": {
+        "zh": "我的驾驶证和医疗保险卡，可以吗？",
+        "en": "My driver's license and my health insurance card, is that okay?",
+        "es": "Mi permiso de conducir y mi tarjeta de seguro de enfermedad, ¿está bien?"
+      },
+      "start": 96.24,
+      "end": 98.88,
+      "words": [
+        {
+          "text": "Mon",
+          "start": 96.24,
+          "end": 96.4
+        },
+        {
+          "text": "permis",
+          "start": 96.4,
+          "end": 96.64
+        },
+        {
+          "text": "de",
+          "start": 96.64,
+          "end": 96.64
+        },
+        {
+          "text": "conduire",
+          "start": 96.64,
+          "end": 97.04
+        },
+        {
+          "text": "et",
+          "start": 97.04,
+          "end": 97.12
+        },
+        {
+          "text": "ma",
+          "start": 97.12,
+          "end": 97.28
+        },
+        {
+          "text": "carte",
+          "start": 97.28,
+          "end": 97.44
+        },
+        {
+          "text": "d'assurance",
+          "start": 97.44,
+          "end": 97.92
+        },
+        {
+          "text": "maladie",
+          "start": 97.92,
+          "end": 98.32
+        },
+        {
+          "text": "est",
+          "start": 98.32,
+          "end": 98.4
+        },
+        {
+          "text": "ce",
+          "start": 98.4,
+          "end": 98.48
+        },
+        {
+          "text": "que",
+          "start": 98.48,
+          "end": 98.56
+        },
+        {
+          "text": "ça",
+          "start": 98.56,
+          "end": 98.72
+        },
+        {
+          "text": "va",
+          "start": 98.72,
+          "end": 98.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mon permis de conduire et ma carte d'assurance maladie,",
+          "translations": {
+            "zh": "我的驾驶证和医疗保险卡，",
+            "en": "My driver's license and my health insurance card,",
+            "es": "Mi permiso de conducir y mi tarjeta de seguro de enfermedad,"
+          },
+          "start": 96.24,
+          "end": 98.32
+        },
+        {
+          "text": "est-ce que ça va ?",
+          "translations": {
+            "zh": "可以吗？",
+            "en": "is that okay?",
+            "es": "¿está bien?"
+          },
+          "start": 98.32,
+          "end": 98.88
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "Oui, c'est très bien.",
+      "translations": {
+        "zh": "是的，很好。",
+        "en": "Yes, that's very good.",
+        "es": "Sí, está muy bien."
+      },
+      "start": 99.92,
+      "end": 100.8,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 99.92,
+          "end": 100.16
+        },
+        {
+          "text": "c'est",
+          "start": 100.24,
+          "end": 100.4
+        },
+        {
+          "text": "très",
+          "start": 100.4,
+          "end": 100.56
+        },
+        {
+          "text": "bien",
+          "start": 100.56,
+          "end": 100.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 99.92,
+          "end": 100.16
+        },
+        {
+          "text": "c'est très bien.",
+          "translations": {
+            "zh": "很好。",
+            "en": "that's very good.",
+            "es": "está muy bien."
+          },
+          "start": 100.24,
+          "end": 100.8
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "D'accord.",
+      "translations": {
+        "zh": "好的。",
+        "en": "All right.",
+        "es": "De acuerdo."
+      },
+      "start": 101.6,
+      "end": 101.92,
+      "words": [
+        {
+          "text": "D'accord",
+          "start": 101.6,
+          "end": 101.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'accord.",
+          "translations": {
+            "zh": "好的。",
+            "en": "All right.",
+            "es": "De acuerdo."
+          },
+          "start": 101.6,
+          "end": 101.92
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "text": "Je vous remercie beaucoup !",
+      "translations": {
+        "zh": "非常感谢您！",
+        "en": "Thank you very much!",
+        "es": "¡Le agradezco mucho!"
+      },
+      "start": 102.64,
+      "end": 103.52,
+      "words": [
+        {
+          "text": "Je",
+          "start": 102.64,
+          "end": 102.72
+        },
+        {
+          "text": "vous",
+          "start": 102.8,
+          "end": 102.88
+        },
+        {
+          "text": "remercie",
+          "start": 102.88,
+          "end": 103.2
+        },
+        {
+          "text": "beaucoup",
+          "start": 103.2,
+          "end": 103.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vous remercie beaucoup !",
+          "translations": {
+            "zh": "非常感谢您！",
+            "en": "Thank you very much!",
+            "es": "¡Le agradezco mucho!"
+          },
+          "start": 102.64,
+          "end": 103.52
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "text": "C'est moi qui vous remercie, Madame Paquette.",
+      "translations": {
+        "zh": "应该是我感谢您，帕凯特女士。",
+        "en": "It is I who thanks you, Mrs. Paquette.",
+        "es": "Soy yo quien le agradece, señora Paquette."
+      },
+      "start": 103.84,
+      "end": 105.68,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 103.84,
+          "end": 104.08
+        },
+        {
+          "text": "moi",
+          "start": 104.08,
+          "end": 104.24
+        },
+        {
+          "text": "qui",
+          "start": 104.24,
+          "end": 104.32
+        },
+        {
+          "text": "vous",
+          "start": 104.32,
+          "end": 104.48
+        },
+        {
+          "text": "remercie",
+          "start": 104.48,
+          "end": 104.88
+        },
+        {
+          "text": "Madame",
+          "start": 104.88,
+          "end": 105.2
+        },
+        {
+          "text": "Paquette",
+          "start": 105.2,
+          "end": 105.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est moi qui vous remercie,",
+          "translations": {
+            "zh": "应该是我感谢您，",
+            "en": "It is I who thanks you,",
+            "es": "Soy yo quien le agradece,"
+          },
+          "start": 103.84,
+          "end": 104.88
+        },
+        {
+          "text": "Madame Paquette.",
+          "translations": {
+            "zh": "帕凯特女士。",
+            "en": "Mrs. Paquette.",
+            "es": "señora Paquette."
+          },
+          "start": 104.88,
+          "end": 105.68
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "text": "Je vous souhaite une bonne journée.",
+      "translations": {
+        "zh": "祝您有美好的一天。",
+        "en": "I wish you a good day.",
+        "es": "Le deseo un buen día."
+      },
+      "start": 106.08,
+      "end": 107.52,
+      "words": [
+        {
+          "text": "Je",
+          "start": 106.08,
+          "end": 106.24
+        },
+        {
+          "text": "vous",
+          "start": 106.24,
+          "end": 106.32
+        },
+        {
+          "text": "souhaite",
+          "start": 106.32,
+          "end": 106.64
+        },
+        {
+          "text": "une",
+          "start": 106.64,
+          "end": 106.8
+        },
+        {
+          "text": "bonne",
+          "start": 106.8,
+          "end": 107.12
+        },
+        {
+          "text": "journée",
+          "start": 107.12,
+          "end": 107.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vous souhaite une bonne journée.",
+          "translations": {
+            "zh": "祝您有美好的一天。",
+            "en": "I wish you a good day.",
+            "es": "Le deseo un buen día."
+          },
+          "start": 106.08,
+          "end": 107.52
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "text": "Merci, au revoir.",
+      "translations": {
+        "zh": "谢谢，再见。",
+        "en": "Thank you, goodbye.",
+        "es": "Gracias, adiós."
+      },
+      "start": 107.92,
+      "end": 108.96,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 107.92,
+          "end": 108.4
+        },
+        {
+          "text": "au",
+          "start": 108.48,
+          "end": 108.48
+        },
+        {
+          "text": "revoir",
+          "start": 108.56,
+          "end": 108.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci,",
+          "translations": {
+            "zh": "谢谢，",
+            "en": "Thank you,",
+            "es": "Gracias,"
+          },
+          "start": 107.92,
+          "end": 108.4
+        },
+        {
+          "text": "au revoir.",
+          "translations": {
+            "zh": "再见。",
+            "en": "goodbye.",
+            "es": "adiós."
+          },
+          "start": 108.48,
+          "end": 108.96
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP03_P17",
+  "audio_filename": "FLS2_EP03_P17.mp3",
+  "audio_path": "downloads/FLS2_EP03_P17.mp3",
+  "episode": 3,
+  "piste": 17,
+  "page": 29,
+  "cd": "CD1"
+}

@@ -1,0 +1,776 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 2 Piste 11 Page 23",
+      "translations": {
+        "zh": "第2集 第11轨 第23页",
+        "en": "Episode 2 Track 11 Page 23",
+        "es": "Episodio 2 Pista 11 Página 23"
+      },
+      "start": 1.04,
+      "end": 7.84,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 1.04,
+          "end": 1.76
+        },
+        {
+          "text": "2",
+          "start": 2.16,
+          "end": 2.32
+        },
+        {
+          "text": "Piste",
+          "start": 3.2,
+          "end": 3.68
+        },
+        {
+          "text": "11",
+          "start": 4.32,
+          "end": 4.88
+        },
+        {
+          "text": "Page",
+          "start": 6.64,
+          "end": 7.12
+        },
+        {
+          "text": "23",
+          "start": 7.2,
+          "end": 7.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 2",
+          "translations": {
+            "zh": "第2集",
+            "en": "Episode 2",
+            "es": "Episodio 2"
+          },
+          "start": 1.04,
+          "end": 2.32
+        },
+        {
+          "text": "Piste 11",
+          "translations": {
+            "zh": "第11轨",
+            "en": "Track 11",
+            "es": "Pista 11"
+          },
+          "start": 3.2,
+          "end": 4.88
+        },
+        {
+          "text": "Page 23",
+          "translations": {
+            "zh": "第23页",
+            "en": "Page 23",
+            "es": "Página 23"
+          },
+          "start": 6.64,
+          "end": 7.84
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Le tuyau de l'évier coule depuis lundi.",
+      "translations": {
+        "zh": "水槽的管子从星期一开始漏水。",
+        "en": "The sink pipe has been leaking since Monday.",
+        "es": "El tubo del fregadero gotea desde el lunes."
+      },
+      "start": 10.48,
+      "end": 12.56,
+      "words": [
+        {
+          "text": "Le",
+          "start": 10.48,
+          "end": 10.64
+        },
+        {
+          "text": "tuyau",
+          "start": 10.64,
+          "end": 11.04
+        },
+        {
+          "text": "de",
+          "start": 11.04,
+          "end": 11.12
+        },
+        {
+          "text": "l'évier",
+          "start": 11.12,
+          "end": 11.52
+        },
+        {
+          "text": "coule",
+          "start": 11.52,
+          "end": 11.84
+        },
+        {
+          "text": "depuis",
+          "start": 11.84,
+          "end": 12.08
+        },
+        {
+          "text": "lundi",
+          "start": 12.08,
+          "end": 12.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le tuyau de l'évier",
+          "translations": {
+            "zh": "水槽的管子",
+            "en": "The sink pipe",
+            "es": "El tubo del fregadero"
+          },
+          "start": 10.48,
+          "end": 11.52
+        },
+        {
+          "text": "coule depuis lundi.",
+          "translations": {
+            "zh": "从星期一开始漏水。",
+            "en": "has been leaking since Monday.",
+            "es": "gotea desde el lunes."
+          },
+          "start": 11.52,
+          "end": 12.56
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Le détecteur de fumée ne marche pas.",
+      "translations": {
+        "zh": "烟雾探测器不工作。",
+        "en": "The smoke detector does not work.",
+        "es": "El detector de humo no funciona."
+      },
+      "start": 14.4,
+      "end": 17.44,
+      "words": [
+        {
+          "text": "Le",
+          "start": 14.4,
+          "end": 14.64
+        },
+        {
+          "text": "détecteur",
+          "start": 16.0,
+          "end": 16.48
+        },
+        {
+          "text": "de",
+          "start": 16.48,
+          "end": 16.56
+        },
+        {
+          "text": "fumée",
+          "start": 16.56,
+          "end": 16.88
+        },
+        {
+          "text": "ne",
+          "start": 16.88,
+          "end": 16.96
+        },
+        {
+          "text": "marche",
+          "start": 16.96,
+          "end": 17.2
+        },
+        {
+          "text": "pas",
+          "start": 17.2,
+          "end": 17.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le détecteur de fumée",
+          "translations": {
+            "zh": "烟雾探测器",
+            "en": "The smoke detector",
+            "es": "El detector de humo"
+          },
+          "start": 14.4,
+          "end": 16.88
+        },
+        {
+          "text": "ne marche pas.",
+          "translations": {
+            "zh": "不工作。",
+            "en": "does not work.",
+            "es": "no funciona."
+          },
+          "start": 16.88,
+          "end": 17.44
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Je m'en suis rendu compte il y a quelques jours.",
+      "translations": {
+        "zh": "我几天前注意到了这件事。",
+        "en": "I noticed it a few days ago.",
+        "es": "Me di cuenta hace unos días."
+      },
+      "start": 18.08,
+      "end": 19.92,
+      "words": [
+        {
+          "text": "Je",
+          "start": 18.08,
+          "end": 18.16
+        },
+        {
+          "text": "m'en",
+          "start": 18.16,
+          "end": 18.32
+        },
+        {
+          "text": "suis",
+          "start": 18.32,
+          "end": 18.48
+        },
+        {
+          "text": "rendu",
+          "start": 18.48,
+          "end": 18.72
+        },
+        {
+          "text": "compte",
+          "start": 18.72,
+          "end": 18.96
+        },
+        {
+          "text": "il",
+          "start": 18.96,
+          "end": 19.04
+        },
+        {
+          "text": "y",
+          "start": 19.04,
+          "end": 19.12
+        },
+        {
+          "text": "a",
+          "start": 19.12,
+          "end": 19.2
+        },
+        {
+          "text": "quelques",
+          "start": 19.2,
+          "end": 19.52
+        },
+        {
+          "text": "jours",
+          "start": 19.52,
+          "end": 19.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je m'en suis rendu compte",
+          "translations": {
+            "zh": "我注意到了这件事",
+            "en": "I noticed it",
+            "es": "Me di cuenta"
+          },
+          "start": 18.08,
+          "end": 18.96
+        },
+        {
+          "text": "il y a quelques jours.",
+          "translations": {
+            "zh": "几天前。",
+            "en": "a few days ago.",
+            "es": "hace unos días."
+          },
+          "start": 18.96,
+          "end": 19.92
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Ça fait quelques mois que la prise de courant dans l'entrée ne fonctionne pas.",
+      "translations": {
+        "zh": "入口处的电源插座已经有几个月不能用了。",
+        "en": "It has been a few months that the electrical outlet in the entryway does not work.",
+        "es": "Hace unos meses que el enchufe de la entrada no funciona."
+      },
+      "start": 21.44,
+      "end": 26.16,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 21.44,
+          "end": 21.76
+        },
+        {
+          "text": "fait",
+          "start": 23.12,
+          "end": 23.28
+        },
+        {
+          "text": "quelques",
+          "start": 23.28,
+          "end": 23.52
+        },
+        {
+          "text": "mois",
+          "start": 23.52,
+          "end": 23.76
+        },
+        {
+          "text": "que",
+          "start": 23.76,
+          "end": 23.84
+        },
+        {
+          "text": "la",
+          "start": 23.84,
+          "end": 23.92
+        },
+        {
+          "text": "prise",
+          "start": 23.92,
+          "end": 24.16
+        },
+        {
+          "text": "de",
+          "start": 24.16,
+          "end": 24.24
+        },
+        {
+          "text": "courant",
+          "start": 24.24,
+          "end": 24.8
+        },
+        {
+          "text": "dans",
+          "start": 24.8,
+          "end": 24.96
+        },
+        {
+          "text": "l'entrée",
+          "start": 24.96,
+          "end": 25.44
+        },
+        {
+          "text": "ne",
+          "start": 25.44,
+          "end": 25.44
+        },
+        {
+          "text": "fonctionne",
+          "start": 25.44,
+          "end": 25.92
+        },
+        {
+          "text": "pas",
+          "start": 25.92,
+          "end": 26.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça fait quelques mois",
+          "translations": {
+            "zh": "已经有几个月了",
+            "en": "It has been a few months",
+            "es": "Hace unos meses"
+          },
+          "start": 21.44,
+          "end": 23.76
+        },
+        {
+          "text": "que la prise de courant dans l'entrée",
+          "translations": {
+            "zh": "入口处的电源插座",
+            "en": "that the electrical outlet in the entryway",
+            "es": "que el enchufe de la entrada"
+          },
+          "start": 23.76,
+          "end": 25.44
+        },
+        {
+          "text": "ne fonctionne pas.",
+          "translations": {
+            "zh": "不能用了。",
+            "en": "does not work.",
+            "es": "no funciona."
+          },
+          "start": 25.44,
+          "end": 26.16
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Depuis hier, le lavabo de la salle de bain est bouché.",
+      "translations": {
+        "zh": "从昨天起，卫生间的洗手池堵塞了。",
+        "en": "Since yesterday, the bathroom sink is clogged.",
+        "es": "Desde ayer, el lavabo del baño está atascado."
+      },
+      "start": 29.2,
+      "end": 32.24,
+      "words": [
+        {
+          "text": "Depuis",
+          "start": 29.2,
+          "end": 29.6
+        },
+        {
+          "text": "hier",
+          "start": 29.6,
+          "end": 30.08
+        },
+        {
+          "text": "le",
+          "start": 30.48,
+          "end": 30.64
+        },
+        {
+          "text": "lavabo",
+          "start": 30.64,
+          "end": 31.04
+        },
+        {
+          "text": "de",
+          "start": 31.04,
+          "end": 31.12
+        },
+        {
+          "text": "la",
+          "start": 31.12,
+          "end": 31.2
+        },
+        {
+          "text": "salle",
+          "start": 31.2,
+          "end": 31.44
+        },
+        {
+          "text": "de",
+          "start": 31.44,
+          "end": 31.52
+        },
+        {
+          "text": "bain",
+          "start": 31.52,
+          "end": 31.76
+        },
+        {
+          "text": "est",
+          "start": 31.76,
+          "end": 31.76
+        },
+        {
+          "text": "bouché",
+          "start": 31.76,
+          "end": 32.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Depuis hier,",
+          "translations": {
+            "zh": "从昨天起，",
+            "en": "Since yesterday,",
+            "es": "Desde ayer,"
+          },
+          "start": 29.2,
+          "end": 30.08
+        },
+        {
+          "text": "le lavabo de la salle de bain",
+          "translations": {
+            "zh": "卫生间的洗手池",
+            "en": "the bathroom sink",
+            "es": "el lavabo del baño"
+          },
+          "start": 30.48,
+          "end": 31.76
+        },
+        {
+          "text": "est bouché.",
+          "translations": {
+            "zh": "堵塞了。",
+            "en": "is clogged.",
+            "es": "está atascado."
+          },
+          "start": 31.76,
+          "end": 32.24
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "La poignée de porte du cabanon est brisée.",
+      "translations": {
+        "zh": "棚屋的门把手坏了。",
+        "en": "The shed door handle is broken.",
+        "es": "El picaporte del cobertizo está roto."
+      },
+      "start": 34.48,
+      "end": 37.44,
+      "words": [
+        {
+          "text": "La",
+          "start": 34.48,
+          "end": 34.72
+        },
+        {
+          "text": "poignée",
+          "start": 35.6,
+          "end": 35.92
+        },
+        {
+          "text": "de",
+          "start": 35.92,
+          "end": 36.0
+        },
+        {
+          "text": "porte",
+          "start": 36.0,
+          "end": 36.24
+        },
+        {
+          "text": "du",
+          "start": 36.24,
+          "end": 36.32
+        },
+        {
+          "text": "cabanon",
+          "start": 36.32,
+          "end": 36.8
+        },
+        {
+          "text": "est",
+          "start": 36.8,
+          "end": 36.88
+        },
+        {
+          "text": "brisée",
+          "start": 36.96,
+          "end": 37.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La poignée de porte du cabanon",
+          "translations": {
+            "zh": "棚屋的门把手",
+            "en": "The shed door handle",
+            "es": "El picaporte del cobertizo"
+          },
+          "start": 34.48,
+          "end": 36.8
+        },
+        {
+          "text": "est brisée.",
+          "translations": {
+            "zh": "坏了。",
+            "en": "is broken.",
+            "es": "está roto."
+          },
+          "start": 36.8,
+          "end": 37.44
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "J'ai vu ça il y a deux ou trois jours.",
+      "translations": {
+        "zh": "我在两三天前看到了这个。",
+        "en": "I saw that two or three days ago.",
+        "es": "Lo vi hace dos o tres días."
+      },
+      "start": 37.76,
+      "end": 39.6,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 37.76,
+          "end": 38.0
+        },
+        {
+          "text": "vu",
+          "start": 38.0,
+          "end": 38.08
+        },
+        {
+          "text": "ça",
+          "start": 38.08,
+          "end": 38.4
+        },
+        {
+          "text": "il",
+          "start": 38.4,
+          "end": 38.56
+        },
+        {
+          "text": "y",
+          "start": 38.56,
+          "end": 38.56
+        },
+        {
+          "text": "a",
+          "start": 38.56,
+          "end": 38.56
+        },
+        {
+          "text": "deux",
+          "start": 38.56,
+          "end": 38.8
+        },
+        {
+          "text": "ou",
+          "start": 38.8,
+          "end": 38.88
+        },
+        {
+          "text": "trois",
+          "start": 38.88,
+          "end": 39.2
+        },
+        {
+          "text": "jours",
+          "start": 39.2,
+          "end": 39.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai vu ça",
+          "translations": {
+            "zh": "我看到了这个",
+            "en": "I saw that",
+            "es": "Lo vi"
+          },
+          "start": 37.76,
+          "end": 38.4
+        },
+        {
+          "text": "il y a deux ou trois jours.",
+          "translations": {
+            "zh": "两三天前。",
+            "en": "two or three days ago.",
+            "es": "hace dos o tres días."
+          },
+          "start": 38.4,
+          "end": 39.6
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Le robinet de la cuisine coule depuis une dizaine de jours.",
+      "translations": {
+        "zh": "厨房的水龙头大约十天前开始漏水。",
+        "en": "The kitchen faucet has been leaking for about ten days.",
+        "es": "El grifo de la cocina gotea desde hace unos diez días."
+      },
+      "start": 40.64,
+      "end": 44.64,
+      "words": [
+        {
+          "text": "Le",
+          "start": 40.64,
+          "end": 40.88
+        },
+        {
+          "text": "robinet",
+          "start": 42.0,
+          "end": 42.4
+        },
+        {
+          "text": "de",
+          "start": 42.4,
+          "end": 42.4
+        },
+        {
+          "text": "la",
+          "start": 42.4,
+          "end": 42.56
+        },
+        {
+          "text": "cuisine",
+          "start": 42.56,
+          "end": 42.96
+        },
+        {
+          "text": "coule",
+          "start": 42.96,
+          "end": 43.28
+        },
+        {
+          "text": "depuis",
+          "start": 43.28,
+          "end": 43.6
+        },
+        {
+          "text": "une",
+          "start": 43.6,
+          "end": 43.76
+        },
+        {
+          "text": "dizaine",
+          "start": 43.76,
+          "end": 44.08
+        },
+        {
+          "text": "de",
+          "start": 44.08,
+          "end": 44.16
+        },
+        {
+          "text": "jours",
+          "start": 44.16,
+          "end": 44.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le robinet de la cuisine",
+          "translations": {
+            "zh": "厨房的水龙头",
+            "en": "The kitchen faucet",
+            "es": "El grifo de la cocina"
+          },
+          "start": 40.64,
+          "end": 42.96
+        },
+        {
+          "text": "coule depuis une dizaine de jours.",
+          "translations": {
+            "zh": "大约十天前开始漏水。",
+            "en": "has been leaking for about ten days.",
+            "es": "gotea desde hace unos diez días."
+          },
+          "start": 42.96,
+          "end": 44.64
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP02_P11",
+  "audio_filename": "FLS2_EP02_P11.mp3",
+  "audio_path": "downloads/FLS2_EP02_P11.mp3",
+  "episode": 2,
+  "piste": 11,
+  "page": 23,
+  "cd": "CD1"
+}

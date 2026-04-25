@@ -1,0 +1,2601 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 3 Piste 18 Page 32",
+      "translations": {
+        "zh": "第三集 第18轨 第32页",
+        "en": "Episode 3 Track 18 Page 32",
+        "es": "Episodio 3 Pista 18 Página 32"
+      },
+      "start": 0.56,
+      "end": 7.12,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.56,
+          "end": 1.28
+        },
+        {
+          "text": "3",
+          "start": 1.68,
+          "end": 1.92
+        },
+        {
+          "text": "Piste",
+          "start": 3.12,
+          "end": 3.6
+        },
+        {
+          "text": "18",
+          "start": 4.08,
+          "end": 4.88
+        },
+        {
+          "text": "Page",
+          "start": 6.0,
+          "end": 6.48
+        },
+        {
+          "text": "32",
+          "start": 6.72,
+          "end": 7.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 3 ",
+          "translations": {
+            "zh": "第三集 ",
+            "en": "Episode 3 ",
+            "es": "Episodio 3 "
+          },
+          "start": 0.56,
+          "end": 1.92
+        },
+        {
+          "text": "Piste 18 ",
+          "translations": {
+            "zh": "第18轨 ",
+            "en": "Track 18 ",
+            "es": "Pista 18 "
+          },
+          "start": 3.12,
+          "end": 4.88
+        },
+        {
+          "text": "Page 32",
+          "translations": {
+            "zh": "第32页",
+            "en": "Page 32",
+            "es": "Página 32"
+          },
+          "start": 6.0,
+          "end": 7.12
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bonjour madame.",
+      "translations": {
+        "zh": "您好，女士。",
+        "en": "Hello, ma'am.",
+        "es": "Buenos días, señora."
+      },
+      "start": 10.88,
+      "end": 11.92,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 10.88,
+          "end": 11.36
+        },
+        {
+          "text": "madame",
+          "start": 11.36,
+          "end": 11.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour madame.",
+          "translations": {
+            "zh": "您好，女士。",
+            "en": "Hello, ma'am.",
+            "es": "Buenos días, señora."
+          },
+          "start": 10.88,
+          "end": 11.92
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Qu'est-ce que je vous sers de bon aujourd'hui ?",
+      "translations": {
+        "zh": "今天我给您来点什么好吃的呢？",
+        "en": "What can I serve you that's good today?",
+        "es": "¿Qué le sirvo de bueno hoy?"
+      },
+      "start": 12.16,
+      "end": 13.6,
+      "words": [
+        {
+          "text": "Qu'est",
+          "start": 12.16,
+          "end": 12.24
+        },
+        {
+          "text": "ce",
+          "start": 12.24,
+          "end": 12.32
+        },
+        {
+          "text": "que",
+          "start": 12.32,
+          "end": 12.4
+        },
+        {
+          "text": "je",
+          "start": 12.4,
+          "end": 12.48
+        },
+        {
+          "text": "vous",
+          "start": 12.48,
+          "end": 12.56
+        },
+        {
+          "text": "sers",
+          "start": 12.56,
+          "end": 12.8
+        },
+        {
+          "text": "de",
+          "start": 12.8,
+          "end": 12.96
+        },
+        {
+          "text": "bon",
+          "start": 12.96,
+          "end": 13.12
+        },
+        {
+          "text": "aujourd'hui",
+          "start": 13.12,
+          "end": 13.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Qu'est-ce que je vous sers de bon ",
+          "translations": {
+            "zh": "我给您来点什么好吃的 ",
+            "en": "What can I serve you that's good ",
+            "es": "¿Qué le sirvo de bueno "
+          },
+          "start": 12.16,
+          "end": 13.12
+        },
+        {
+          "text": "aujourd'hui ?",
+          "translations": {
+            "zh": "今天呢？",
+            "en": "today?",
+            "es": "hoy?"
+          },
+          "start": 13.12,
+          "end": 13.6
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "C'est la première fois que je viens ici, je ne sais pas trop comment ça fonctionne.",
+      "translations": {
+        "zh": "这是我第一次来这里，我不太清楚这里是怎么运作的。",
+        "en": "It's my first time coming here, I'm not really sure how it works.",
+        "es": "Es la primera vez que vengo aquí, no sé muy bien cómo funciona."
+      },
+      "start": 14.32,
+      "end": 17.52,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 14.32,
+          "end": 14.56
+        },
+        {
+          "text": "la",
+          "start": 14.56,
+          "end": 14.72
+        },
+        {
+          "text": "première",
+          "start": 14.72,
+          "end": 15.04
+        },
+        {
+          "text": "fois",
+          "start": 15.04,
+          "end": 15.2
+        },
+        {
+          "text": "que",
+          "start": 15.2,
+          "end": 15.28
+        },
+        {
+          "text": "je",
+          "start": 15.28,
+          "end": 15.44
+        },
+        {
+          "text": "viens",
+          "start": 15.44,
+          "end": 15.52
+        },
+        {
+          "text": "ici",
+          "start": 15.52,
+          "end": 16.0
+        },
+        {
+          "text": "je",
+          "start": 16.0,
+          "end": 16.0
+        },
+        {
+          "text": "ne",
+          "start": 16.0,
+          "end": 16.0
+        },
+        {
+          "text": "sais",
+          "start": 16.0,
+          "end": 16.24
+        },
+        {
+          "text": "pas",
+          "start": 16.24,
+          "end": 16.4
+        },
+        {
+          "text": "trop",
+          "start": 16.4,
+          "end": 16.56
+        },
+        {
+          "text": "comment",
+          "start": 16.56,
+          "end": 16.72
+        },
+        {
+          "text": "ça",
+          "start": 16.72,
+          "end": 16.88
+        },
+        {
+          "text": "fonctionne",
+          "start": 16.88,
+          "end": 17.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est la première fois que je viens ici, ",
+          "translations": {
+            "zh": "这是我第一次来这里，",
+            "en": "It's my first time coming here, ",
+            "es": "Es la primera vez que vengo aquí, "
+          },
+          "start": 14.32,
+          "end": 16.0
+        },
+        {
+          "text": "je ne sais pas trop comment ça fonctionne.",
+          "translations": {
+            "zh": "我不太清楚这里是怎么运作的。",
+            "en": "I'm not really sure how it works.",
+            "es": "no sé muy bien cómo funciona."
+          },
+          "start": 16.0,
+          "end": 17.52
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Ah, ben, je vais vous expliquer ça avec plaisir.",
+      "translations": {
+        "zh": "啊，嗯，我很乐意给您解释一下。",
+        "en": "Ah, well, I'll explain it to you with pleasure.",
+        "es": "Ah, bueno, se lo voy a explicar con gusto."
+      },
+      "start": 18.08,
+      "end": 20.88,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 18.08,
+          "end": 18.48
+        },
+        {
+          "text": "ben",
+          "start": 18.88,
+          "end": 19.04
+        },
+        {
+          "text": "je",
+          "start": 19.04,
+          "end": 19.2
+        },
+        {
+          "text": "vais",
+          "start": 19.2,
+          "end": 19.28
+        },
+        {
+          "text": "vous",
+          "start": 19.28,
+          "end": 19.44
+        },
+        {
+          "text": "expliquer",
+          "start": 19.44,
+          "end": 19.84
+        },
+        {
+          "text": "ça",
+          "start": 19.84,
+          "end": 20.08
+        },
+        {
+          "text": "avec",
+          "start": 20.08,
+          "end": 20.32
+        },
+        {
+          "text": "plaisir",
+          "start": 20.32,
+          "end": 20.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah, ben, ",
+          "translations": {
+            "zh": "啊，嗯，",
+            "en": "Ah, well, ",
+            "es": "Ah, bueno, "
+          },
+          "start": 18.08,
+          "end": 19.04
+        },
+        {
+          "text": "je vais vous expliquer ça ",
+          "translations": {
+            "zh": "我来给您解释一下 ",
+            "en": "I'll explain it to you ",
+            "es": "se lo voy a explicar "
+          },
+          "start": 19.04,
+          "end": 20.08
+        },
+        {
+          "text": "avec plaisir.",
+          "translations": {
+            "zh": "很乐意。",
+            "en": "with pleasure.",
+            "es": "con gusto."
+          },
+          "start": 20.08,
+          "end": 20.88
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Tous nos plats sont frais du jour et sont cuisinés ici même.",
+      "translations": {
+        "zh": "我们所有的菜品都是当日新鲜的，而且就是在这里烹饪的。",
+        "en": "All our dishes are fresh of the day and are cooked right here.",
+        "es": "Todos nuestros platos son frescos del día y están cocinados aquí mismo."
+      },
+      "start": 21.36,
+      "end": 25.12,
+      "words": [
+        {
+          "text": "Tous",
+          "start": 21.36,
+          "end": 21.52
+        },
+        {
+          "text": "nos",
+          "start": 21.52,
+          "end": 21.68
+        },
+        {
+          "text": "plats",
+          "start": 21.68,
+          "end": 21.92
+        },
+        {
+          "text": "sont",
+          "start": 21.92,
+          "end": 22.16
+        },
+        {
+          "text": "frais",
+          "start": 22.16,
+          "end": 22.4
+        },
+        {
+          "text": "du",
+          "start": 22.4,
+          "end": 22.64
+        },
+        {
+          "text": "jour",
+          "start": 22.64,
+          "end": 23.04
+        },
+        {
+          "text": "et",
+          "start": 23.12,
+          "end": 23.2
+        },
+        {
+          "text": "sont",
+          "start": 23.2,
+          "end": 23.36
+        },
+        {
+          "text": "cuisinés",
+          "start": 23.44,
+          "end": 24.08
+        },
+        {
+          "text": "ici",
+          "start": 24.16,
+          "end": 24.56
+        },
+        {
+          "text": "même",
+          "start": 24.56,
+          "end": 25.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tous nos plats sont frais du jour ",
+          "translations": {
+            "zh": "我们所有的菜品都是当日新鲜的 ",
+            "en": "All our dishes are fresh of the day ",
+            "es": "Todos nuestros platos son frescos del día "
+          },
+          "start": 21.36,
+          "end": 23.04
+        },
+        {
+          "text": "et sont cuisinés ici même.",
+          "translations": {
+            "zh": "而且就是在这里烹饪的。",
+            "en": "and are cooked right here.",
+            "es": "y están cocinados aquí mismo."
+          },
+          "start": 23.12,
+          "end": 25.12
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Vous avez quatre formats différents : petit, moyen, grand et familial.",
+      "translations": {
+        "zh": "您有四种不同的规格：小号、中号、大号和家庭装。",
+        "en": "You have four different sizes: small, medium, large, and family.",
+        "es": "Tiene cuatro formatos diferentes: pequeño, mediano, grande y familiar."
+      },
+      "start": 25.36,
+      "end": 30.08,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 25.36,
+          "end": 25.44
+        },
+        {
+          "text": "avez",
+          "start": 25.44,
+          "end": 25.6
+        },
+        {
+          "text": "quatre",
+          "start": 25.6,
+          "end": 25.84
+        },
+        {
+          "text": "formats",
+          "start": 25.84,
+          "end": 26.16
+        },
+        {
+          "text": "différents",
+          "start": 26.16,
+          "end": 26.64
+        },
+        {
+          "text": "petit",
+          "start": 26.96,
+          "end": 27.6
+        },
+        {
+          "text": "moyen",
+          "start": 27.68,
+          "end": 28.32
+        },
+        {
+          "text": "grand",
+          "start": 28.48,
+          "end": 29.04
+        },
+        {
+          "text": "et",
+          "start": 29.28,
+          "end": 29.36
+        },
+        {
+          "text": "familial",
+          "start": 29.36,
+          "end": 30.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous avez quatre formats différents : ",
+          "translations": {
+            "zh": "您有四种不同的规格：",
+            "en": "You have four different sizes: ",
+            "es": "Tiene cuatro formatos diferentes: "
+          },
+          "start": 25.36,
+          "end": 26.64
+        },
+        {
+          "text": "petit, moyen, grand et familial.",
+          "translations": {
+            "zh": "小号、中号、大号和家庭装。",
+            "en": "small, medium, large, and family.",
+            "es": "pequeño, mediano, grande y familiar."
+          },
+          "start": 26.96,
+          "end": 30.08
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Vous pouvez mettre un seul choix par contenant ou faire des mélanges.",
+      "translations": {
+        "zh": "您可以在每个容器里只放一种选择，也可以混合搭配。",
+        "en": "You can put one choice per container or make combinations.",
+        "es": "Puede poner una sola opción por recipiente o hacer mezclas."
+      },
+      "start": 30.4,
+      "end": 34.08,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 30.4,
+          "end": 30.56
+        },
+        {
+          "text": "pouvez",
+          "start": 30.56,
+          "end": 30.8
+        },
+        {
+          "text": "mettre",
+          "start": 30.8,
+          "end": 31.04
+        },
+        {
+          "text": "un",
+          "start": 31.04,
+          "end": 31.2
+        },
+        {
+          "text": "seul",
+          "start": 31.2,
+          "end": 31.6
+        },
+        {
+          "text": "choix",
+          "start": 31.6,
+          "end": 32.0
+        },
+        {
+          "text": "par",
+          "start": 32.0,
+          "end": 32.24
+        },
+        {
+          "text": "contenant",
+          "start": 32.24,
+          "end": 32.8
+        },
+        {
+          "text": "ou",
+          "start": 33.04,
+          "end": 33.28
+        },
+        {
+          "text": "faire",
+          "start": 33.28,
+          "end": 33.6
+        },
+        {
+          "text": "des",
+          "start": 33.6,
+          "end": 33.76
+        },
+        {
+          "text": "mélanges",
+          "start": 33.76,
+          "end": 34.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous pouvez mettre un seul choix par contenant ",
+          "translations": {
+            "zh": "您可以在每个容器里只放一种选择 ",
+            "en": "You can put one choice per container ",
+            "es": "Puede poner una sola opción por recipiente "
+          },
+          "start": 30.4,
+          "end": 32.8
+        },
+        {
+          "text": "ou faire des mélanges.",
+          "translations": {
+            "zh": "也可以混合搭配。",
+            "en": "or make combinations.",
+            "es": "o hacer mezclas."
+          },
+          "start": 33.04,
+          "end": 34.08
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Les prix sont affichés ici, sur le tableau.",
+      "translations": {
+        "zh": "价格就显示在这里，在这块牌子上。",
+        "en": "The prices are displayed here, on the board.",
+        "es": "Los precios están indicados aquí, en la pizarra."
+      },
+      "start": 34.72,
+      "end": 36.88,
+      "words": [
+        {
+          "text": "Les",
+          "start": 34.72,
+          "end": 34.8
+        },
+        {
+          "text": "prix",
+          "start": 34.8,
+          "end": 34.96
+        },
+        {
+          "text": "sont",
+          "start": 34.96,
+          "end": 35.12
+        },
+        {
+          "text": "affichés",
+          "start": 35.12,
+          "end": 35.6
+        },
+        {
+          "text": "ici",
+          "start": 35.6,
+          "end": 36.0
+        },
+        {
+          "text": "sur",
+          "start": 36.16,
+          "end": 36.4
+        },
+        {
+          "text": "le",
+          "start": 36.4,
+          "end": 36.56
+        },
+        {
+          "text": "tableau",
+          "start": 36.56,
+          "end": 36.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les prix sont affichés ici, ",
+          "translations": {
+            "zh": "价格就显示在这里，",
+            "en": "The prices are displayed here, ",
+            "es": "Los precios están indicados aquí, "
+          },
+          "start": 34.72,
+          "end": 36.0
+        },
+        {
+          "text": "sur le tableau.",
+          "translations": {
+            "zh": "在这块牌子上。",
+            "en": "on the board.",
+            "es": "en la pizarra."
+          },
+          "start": 36.16,
+          "end": 36.88
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Si vous achetez quatre contenants, on vous offre le cinquième gratuitement, peu importe les formats que vous achetez.",
+      "translations": {
+        "zh": "如果您买四个容器，第五个免费赠送，不管您买的是什么规格。",
+        "en": "If you buy four containers, we give you the fifth one for free, no matter which sizes you buy.",
+        "es": "Si compra cuatro recipientes, le ofrecemos el quinto gratis, sin importar los formatos que compre."
+      },
+      "start": 37.6,
+      "end": 43.28,
+      "words": [
+        {
+          "text": "Si",
+          "start": 37.6,
+          "end": 37.84
+        },
+        {
+          "text": "vous",
+          "start": 37.84,
+          "end": 38.0
+        },
+        {
+          "text": "achetez",
+          "start": 38.0,
+          "end": 38.32
+        },
+        {
+          "text": "quatre",
+          "start": 38.4,
+          "end": 38.72
+        },
+        {
+          "text": "contenants",
+          "start": 38.72,
+          "end": 39.2
+        },
+        {
+          "text": "on",
+          "start": 39.68,
+          "end": 39.68
+        },
+        {
+          "text": "vous",
+          "start": 39.68,
+          "end": 39.92
+        },
+        {
+          "text": "offre",
+          "start": 39.92,
+          "end": 40.16
+        },
+        {
+          "text": "le",
+          "start": 40.16,
+          "end": 40.24
+        },
+        {
+          "text": "cinquième",
+          "start": 40.24,
+          "end": 40.88
+        },
+        {
+          "text": "gratuitement",
+          "start": 40.88,
+          "end": 41.6
+        },
+        {
+          "text": "peu",
+          "start": 41.76,
+          "end": 41.92
+        },
+        {
+          "text": "importe",
+          "start": 41.92,
+          "end": 42.24
+        },
+        {
+          "text": "les",
+          "start": 42.24,
+          "end": 42.4
+        },
+        {
+          "text": "formats",
+          "start": 42.4,
+          "end": 42.72
+        },
+        {
+          "text": "que",
+          "start": 42.72,
+          "end": 42.72
+        },
+        {
+          "text": "vous",
+          "start": 42.72,
+          "end": 42.88
+        },
+        {
+          "text": "achetez",
+          "start": 42.88,
+          "end": 43.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Si vous achetez quatre contenants, ",
+          "translations": {
+            "zh": "如果您买四个容器，",
+            "en": "If you buy four containers, ",
+            "es": "Si compra cuatro recipientes, "
+          },
+          "start": 37.6,
+          "end": 39.2
+        },
+        {
+          "text": "on vous offre le cinquième gratuitement, ",
+          "translations": {
+            "zh": "第五个免费赠送，",
+            "en": "we give you the fifth one for free, ",
+            "es": "le ofrecemos el quinto gratis, "
+          },
+          "start": 39.68,
+          "end": 41.6
+        },
+        {
+          "text": "peu importe les formats que vous achetez.",
+          "translations": {
+            "zh": "不管您买的是什么规格。",
+            "en": "no matter which sizes you buy.",
+            "es": "sin importar los formatos que compre."
+          },
+          "start": 41.76,
+          "end": 43.28
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Vous pouvez tout réchauffer au four ou au microonde et ça se conserve une bonne semaine au frigo.",
+      "translations": {
+        "zh": "您可以把所有东西放进烤箱或微波炉加热，在冰箱里可以保存一个多星期。",
+        "en": "You can reheat everything in the oven or the microwave and it keeps for a good week in the fridge.",
+        "es": "Puede recalentar todo en el horno o en el microondas y se conserva una buena semana en la nevera."
+      },
+      "start": 43.84,
+      "end": 48.64,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 43.84,
+          "end": 44.0
+        },
+        {
+          "text": "pouvez",
+          "start": 44.0,
+          "end": 44.32
+        },
+        {
+          "text": "tout",
+          "start": 44.32,
+          "end": 44.48
+        },
+        {
+          "text": "réchauffer",
+          "start": 44.48,
+          "end": 44.88
+        },
+        {
+          "text": "au",
+          "start": 44.88,
+          "end": 45.04
+        },
+        {
+          "text": "four",
+          "start": 45.04,
+          "end": 45.52
+        },
+        {
+          "text": "ou",
+          "start": 45.84,
+          "end": 46.0
+        },
+        {
+          "text": "au",
+          "start": 46.0,
+          "end": 46.08
+        },
+        {
+          "text": "microonde",
+          "start": 46.08,
+          "end": 46.72
+        },
+        {
+          "text": "et",
+          "start": 46.8,
+          "end": 46.88
+        },
+        {
+          "text": "ça",
+          "start": 46.88,
+          "end": 47.04
+        },
+        {
+          "text": "se",
+          "start": 47.04,
+          "end": 47.12
+        },
+        {
+          "text": "conserve",
+          "start": 47.12,
+          "end": 47.52
+        },
+        {
+          "text": "une",
+          "start": 47.52,
+          "end": 47.68
+        },
+        {
+          "text": "bonne",
+          "start": 47.68,
+          "end": 47.84
+        },
+        {
+          "text": "semaine",
+          "start": 47.84,
+          "end": 48.24
+        },
+        {
+          "text": "au",
+          "start": 48.24,
+          "end": 48.24
+        },
+        {
+          "text": "frigo",
+          "start": 48.24,
+          "end": 48.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous pouvez tout réchauffer au four ou au microonde ",
+          "translations": {
+            "zh": "您可以把所有东西放进烤箱或微波炉加热 ",
+            "en": "You can reheat everything in the oven or the microwave ",
+            "es": "Puede recalentar todo en el horno o en el microondas "
+          },
+          "start": 43.84,
+          "end": 46.72
+        },
+        {
+          "text": "et ça se conserve une bonne semaine au frigo.",
+          "translations": {
+            "zh": "在冰箱里可以保存一个多星期。",
+            "en": "and it keeps for a good week in the fridge.",
+            "es": "y se conserva una buena semana en la nevera."
+          },
+          "start": 46.8,
+          "end": 48.64
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "OK.",
+      "translations": {
+        "zh": "好的。",
+        "en": "OK.",
+        "es": "OK."
+      },
+      "start": 49.2,
+      "end": 49.52,
+      "words": [
+        {
+          "text": "OK",
+          "start": 49.2,
+          "end": 49.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "OK.",
+          "translations": {
+            "zh": "好的。",
+            "en": "OK.",
+            "es": "OK."
+          },
+          "start": 49.2,
+          "end": 49.52
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Je vais prendre quelques minutes pour regarder.",
+      "translations": {
+        "zh": "我要花几分钟看看。",
+        "en": "I'll take a few minutes to look.",
+        "es": "Voy a tomarme unos minutos para mirar."
+      },
+      "start": 49.52,
+      "end": 53.28,
+      "words": [
+        {
+          "text": "Je",
+          "start": 49.52,
+          "end": 49.84
+        },
+        {
+          "text": "vais",
+          "start": 51.04,
+          "end": 51.36
+        },
+        {
+          "text": "prendre",
+          "start": 51.36,
+          "end": 51.6
+        },
+        {
+          "text": "quelques",
+          "start": 51.76,
+          "end": 52.0
+        },
+        {
+          "text": "minutes",
+          "start": 52.0,
+          "end": 52.32
+        },
+        {
+          "text": "pour",
+          "start": 52.32,
+          "end": 52.56
+        },
+        {
+          "text": "regarder",
+          "start": 52.56,
+          "end": 53.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais prendre quelques minutes ",
+          "translations": {
+            "zh": "我要花几分钟 ",
+            "en": "I'll take a few minutes ",
+            "es": "Voy a tomarme unos minutos "
+          },
+          "start": 49.52,
+          "end": 52.32
+        },
+        {
+          "text": "pour regarder.",
+          "translations": {
+            "zh": "看看。",
+            "en": "to look.",
+            "es": "para mirar."
+          },
+          "start": 52.32,
+          "end": 53.28
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Il y a vraiment beaucoup de choix !",
+      "translations": {
+        "zh": "真的有很多选择啊！",
+        "en": "There's really a lot of choice!",
+        "es": "¡Hay realmente mucha elección!"
+      },
+      "start": 53.92,
+      "end": 55.12,
+      "words": [
+        {
+          "text": "Il",
+          "start": 53.92,
+          "end": 53.92
+        },
+        {
+          "text": "y",
+          "start": 53.92,
+          "end": 54.0
+        },
+        {
+          "text": "a",
+          "start": 54.0,
+          "end": 54.0
+        },
+        {
+          "text": "vraiment",
+          "start": 54.0,
+          "end": 54.32
+        },
+        {
+          "text": "beaucoup",
+          "start": 54.32,
+          "end": 54.72
+        },
+        {
+          "text": "de",
+          "start": 54.72,
+          "end": 54.8
+        },
+        {
+          "text": "choix",
+          "start": 54.8,
+          "end": 55.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il y a vraiment beaucoup de choix !",
+          "translations": {
+            "zh": "真的有很多选择啊！",
+            "en": "There's really a lot of choice!",
+            "es": "¡Hay realmente mucha elección!"
+          },
+          "start": 53.92,
+          "end": 55.12
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Oui.",
+      "translations": {
+        "zh": "是的。",
+        "en": "Yes.",
+        "es": "Sí."
+      },
+      "start": 55.36,
+      "end": 55.84,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 55.36,
+          "end": 55.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui.",
+          "translations": {
+            "zh": "是的。",
+            "en": "Yes.",
+            "es": "Sí."
+          },
+          "start": 55.36,
+          "end": 55.84
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Gênez-vous pas si vous avez des questions ou si vous voulez gouter à quelque chose.",
+      "translations": {
+        "zh": "如果您有问题或者想尝尝什么，别客气。",
+        "en": "Don't hesitate if you have questions or if you want to taste something.",
+        "es": "No se prive si tiene preguntas o si quiere probar algo."
+      },
+      "start": 56.56,
+      "end": 60.24,
+      "words": [
+        {
+          "text": "Gênez",
+          "start": 56.56,
+          "end": 56.8
+        },
+        {
+          "text": "vous",
+          "start": 56.8,
+          "end": 56.96
+        },
+        {
+          "text": "pas",
+          "start": 56.96,
+          "end": 57.04
+        },
+        {
+          "text": "si",
+          "start": 57.04,
+          "end": 57.2
+        },
+        {
+          "text": "vous",
+          "start": 57.2,
+          "end": 57.28
+        },
+        {
+          "text": "avez",
+          "start": 57.28,
+          "end": 57.44
+        },
+        {
+          "text": "des",
+          "start": 57.44,
+          "end": 57.6
+        },
+        {
+          "text": "questions",
+          "start": 57.6,
+          "end": 58.16
+        },
+        {
+          "text": "ou",
+          "start": 58.56,
+          "end": 58.64
+        },
+        {
+          "text": "si",
+          "start": 58.64,
+          "end": 58.8
+        },
+        {
+          "text": "vous",
+          "start": 58.8,
+          "end": 58.96
+        },
+        {
+          "text": "voulez",
+          "start": 58.96,
+          "end": 59.2
+        },
+        {
+          "text": "gouter",
+          "start": 59.28,
+          "end": 59.52
+        },
+        {
+          "text": "à",
+          "start": 59.52,
+          "end": 59.6
+        },
+        {
+          "text": "quelque",
+          "start": 59.6,
+          "end": 59.84
+        },
+        {
+          "text": "chose",
+          "start": 59.84,
+          "end": 60.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Gênez-vous pas ",
+          "translations": {
+            "zh": "别客气 ",
+            "en": "Don't hesitate ",
+            "es": "No se prive "
+          },
+          "start": 56.56,
+          "end": 57.04
+        },
+        {
+          "text": "si vous avez des questions ",
+          "translations": {
+            "zh": "如果您有问题 ",
+            "en": "if you have questions ",
+            "es": "si tiene preguntas "
+          },
+          "start": 57.04,
+          "end": 58.16
+        },
+        {
+          "text": "ou si vous voulez gouter à quelque chose.",
+          "translations": {
+            "zh": "或者想尝尝什么。",
+            "en": "or if you want to taste something.",
+            "es": "o si quiere probar algo."
+          },
+          "start": 58.56,
+          "end": 60.24
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Merci.",
+      "translations": {
+        "zh": "谢谢。",
+        "en": "Thank you.",
+        "es": "Gracias."
+      },
+      "start": 60.96,
+      "end": 61.52,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 60.96,
+          "end": 61.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci.",
+          "translations": {
+            "zh": "谢谢。",
+            "en": "Thank you.",
+            "es": "Gracias."
+          },
+          "start": 60.96,
+          "end": 61.52
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Excusez.",
+      "translations": {
+        "zh": "打扰一下。",
+        "en": "Excuse me.",
+        "es": "Perdone."
+      },
+      "start": 63.52,
+      "end": 64.08,
+      "words": [
+        {
+          "text": "Excusez",
+          "start": 63.52,
+          "end": 64.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Excusez.",
+          "translations": {
+            "zh": "打扰一下。",
+            "en": "Excuse me.",
+            "es": "Perdone."
+          },
+          "start": 63.52,
+          "end": 64.08
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Dans le brocoli, ici, c'est quelle sorte de noix ?",
+      "translations": {
+        "zh": "这个西兰花里面，放的是什么种类的坚果？",
+        "en": "In the broccoli, here, what kind of nuts is it?",
+        "es": "En el brócoli, aquí, ¿qué tipo de nuez es?"
+      },
+      "start": 64.96,
+      "end": 66.88,
+      "words": [
+        {
+          "text": "Dans",
+          "start": 64.96,
+          "end": 65.12
+        },
+        {
+          "text": "le",
+          "start": 65.12,
+          "end": 65.2
+        },
+        {
+          "text": "brocoli",
+          "start": 65.2,
+          "end": 65.6
+        },
+        {
+          "text": "ici",
+          "start": 65.6,
+          "end": 66.0
+        },
+        {
+          "text": "c'est",
+          "start": 66.0,
+          "end": 66.08
+        },
+        {
+          "text": "quelle",
+          "start": 66.08,
+          "end": 66.32
+        },
+        {
+          "text": "sorte",
+          "start": 66.32,
+          "end": 66.56
+        },
+        {
+          "text": "de",
+          "start": 66.56,
+          "end": 66.64
+        },
+        {
+          "text": "noix",
+          "start": 66.64,
+          "end": 66.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Dans le brocoli, ici, ",
+          "translations": {
+            "zh": "这个西兰花里面，",
+            "en": "In the broccoli, here, ",
+            "es": "En el brócoli, aquí, "
+          },
+          "start": 64.96,
+          "end": 66.0
+        },
+        {
+          "text": "c'est quelle sorte de noix ?",
+          "translations": {
+            "zh": "是什么种类的坚果？",
+            "en": "what kind of nuts is it?",
+            "es": "¿qué tipo de nuez es?"
+          },
+          "start": 66.0,
+          "end": 66.88
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Des noix de pin.",
+      "translations": {
+        "zh": "松子。",
+        "en": "Pine nuts.",
+        "es": "Piñones."
+      },
+      "start": 67.44,
+      "end": 68.16,
+      "words": [
+        {
+          "text": "Des",
+          "start": 67.44,
+          "end": 67.68
+        },
+        {
+          "text": "noix",
+          "start": 67.68,
+          "end": 67.84
+        },
+        {
+          "text": "de",
+          "start": 67.84,
+          "end": 67.84
+        },
+        {
+          "text": "pin",
+          "start": 68.0,
+          "end": 68.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Des noix de pin.",
+          "translations": {
+            "zh": "松子。",
+            "en": "Pine nuts.",
+            "es": "Piñones."
+          },
+          "start": 67.44,
+          "end": 68.16
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Le brocoli est sauté dans de l'huile d'olive pis on ajoute un peu de sauce tamari, c'est comme de la sauce soya...",
+      "translations": {
+        "zh": "西兰花是用橄榄油翻炒的，然后加一点溜溜酱油，就跟酱油差不多……",
+        "en": "The broccoli is sautéed in olive oil and then we add a bit of tamari sauce, it's like soy sauce...",
+        "es": "El brócoli está salteado en aceite de oliva y se añade un poco de salsa tamari, es como salsa de soja..."
+      },
+      "start": 69.04,
+      "end": 74.48,
+      "words": [
+        {
+          "text": "Le",
+          "start": 69.04,
+          "end": 69.12
+        },
+        {
+          "text": "brocoli",
+          "start": 69.12,
+          "end": 69.6
+        },
+        {
+          "text": "est",
+          "start": 69.6,
+          "end": 69.6
+        },
+        {
+          "text": "sauté",
+          "start": 69.6,
+          "end": 69.92
+        },
+        {
+          "text": "dans",
+          "start": 69.92,
+          "end": 70.08
+        },
+        {
+          "text": "de",
+          "start": 70.08,
+          "end": 70.16
+        },
+        {
+          "text": "l'huile",
+          "start": 70.16,
+          "end": 70.48
+        },
+        {
+          "text": "d'olive",
+          "start": 70.48,
+          "end": 70.88
+        },
+        {
+          "text": "pis",
+          "start": 71.28,
+          "end": 71.36
+        },
+        {
+          "text": "on",
+          "start": 71.36,
+          "end": 71.44
+        },
+        {
+          "text": "ajoute",
+          "start": 71.44,
+          "end": 71.76
+        },
+        {
+          "text": "un",
+          "start": 71.76,
+          "end": 71.84
+        },
+        {
+          "text": "peu",
+          "start": 71.84,
+          "end": 72.0
+        },
+        {
+          "text": "de",
+          "start": 72.0,
+          "end": 72.08
+        },
+        {
+          "text": "sauce",
+          "start": 72.08,
+          "end": 72.32
+        },
+        {
+          "text": "tamari",
+          "start": 72.32,
+          "end": 72.8
+        },
+        {
+          "text": "c'est",
+          "start": 73.36,
+          "end": 73.6
+        },
+        {
+          "text": "comme",
+          "start": 73.6,
+          "end": 73.76
+        },
+        {
+          "text": "de",
+          "start": 73.76,
+          "end": 73.76
+        },
+        {
+          "text": "la",
+          "start": 73.76,
+          "end": 73.84
+        },
+        {
+          "text": "sauce",
+          "start": 73.84,
+          "end": 74.08
+        },
+        {
+          "text": "soya",
+          "start": 74.08,
+          "end": 74.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le brocoli est sauté dans de l'huile d'olive ",
+          "translations": {
+            "zh": "西兰花是用橄榄油翻炒的 ",
+            "en": "The broccoli is sautéed in olive oil ",
+            "es": "El brócoli está salteado en aceite de oliva "
+          },
+          "start": 69.04,
+          "end": 70.88
+        },
+        {
+          "text": "pis on ajoute un peu de sauce tamari, ",
+          "translations": {
+            "zh": "然后加一点溜溜酱油，",
+            "en": "and then we add a bit of tamari sauce, ",
+            "es": "y se añade un poco de salsa tamari, "
+          },
+          "start": 71.28,
+          "end": 72.8
+        },
+        {
+          "text": "c'est comme de la sauce soya...",
+          "translations": {
+            "zh": "就跟酱油差不多……",
+            "en": "it's like soy sauce...",
+            "es": "es como salsa de soja..."
+          },
+          "start": 73.36,
+          "end": 74.48
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Est-ce que c'est très salé ?",
+      "translations": {
+        "zh": "会很咸吗？",
+        "en": "Is it very salty?",
+        "es": "¿Es muy salado?"
+      },
+      "start": 75.12,
+      "end": 76.24,
+      "words": [
+        {
+          "text": "Est",
+          "start": 75.12,
+          "end": 75.2
+        },
+        {
+          "text": "ce",
+          "start": 75.2,
+          "end": 75.36
+        },
+        {
+          "text": "que",
+          "start": 75.36,
+          "end": 75.44
+        },
+        {
+          "text": "c'est",
+          "start": 75.44,
+          "end": 75.68
+        },
+        {
+          "text": "très",
+          "start": 75.68,
+          "end": 75.84
+        },
+        {
+          "text": "salé",
+          "start": 75.84,
+          "end": 76.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que c'est très salé ?",
+          "translations": {
+            "zh": "会很咸吗？",
+            "en": "Is it very salty?",
+            "es": "¿Es muy salado?"
+          },
+          "start": 75.12,
+          "end": 76.24
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Goutez-y !",
+      "translations": {
+        "zh": "您尝尝！",
+        "en": "Taste it!",
+        "es": "¡ Pruébelo!"
+      },
+      "start": 76.8,
+      "end": 77.52,
+      "words": [
+        {
+          "text": "Goutez",
+          "start": 76.8,
+          "end": 77.2
+        },
+        {
+          "text": "y",
+          "start": 77.44,
+          "end": 77.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Goutez-y !",
+          "translations": {
+            "zh": "您尝尝！",
+            "en": "Taste it!",
+            "es": "¡ Pruébelo!"
+          },
+          "start": 76.8,
+          "end": 77.52
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Ah, ce n'est pas mauvais du tout, ça !",
+      "translations": {
+        "zh": "啊，这个真的一点也不差！",
+        "en": "Ah, that's not bad at all!",
+        "es": "Ah, ¡eso no está nada mal!"
+      },
+      "start": 78.8,
+      "end": 81.44,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 78.8,
+          "end": 78.96
+        },
+        {
+          "text": "ce",
+          "start": 79.2,
+          "end": 79.28
+        },
+        {
+          "text": "n'est",
+          "start": 80.16,
+          "end": 80.24
+        },
+        {
+          "text": "pas",
+          "start": 80.4,
+          "end": 80.56
+        },
+        {
+          "text": "mauvais",
+          "start": 80.56,
+          "end": 80.8
+        },
+        {
+          "text": "du",
+          "start": 80.8,
+          "end": 80.96
+        },
+        {
+          "text": "tout",
+          "start": 80.96,
+          "end": 81.12
+        },
+        {
+          "text": "ça",
+          "start": 81.12,
+          "end": 81.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah, ",
+          "translations": {
+            "zh": "啊，",
+            "en": "Ah, ",
+            "es": "Ah, "
+          },
+          "start": 78.8,
+          "end": 78.96
+        },
+        {
+          "text": "ce n'est pas mauvais du tout, ",
+          "translations": {
+            "zh": "一点也不差，",
+            "en": "it's not bad at all, ",
+            "es": "no está nada mal, "
+          },
+          "start": 79.2,
+          "end": 81.12
+        },
+        {
+          "text": "ça !",
+          "translations": {
+            "zh": "这个！",
+            "en": "that!",
+            "es": "¡eso!"
+          },
+          "start": 81.12,
+          "end": 81.44
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "C'est subtil comme gout.",
+      "translations": {
+        "zh": "味道很细腻。",
+        "en": "It's subtle in taste.",
+        "es": "Es sutil de sabor."
+      },
+      "start": 82.16,
+      "end": 83.28,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 82.16,
+          "end": 82.32
+        },
+        {
+          "text": "subtil",
+          "start": 82.32,
+          "end": 82.8
+        },
+        {
+          "text": "comme",
+          "start": 82.8,
+          "end": 83.04
+        },
+        {
+          "text": "gout",
+          "start": 83.04,
+          "end": 83.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est subtil ",
+          "translations": {
+            "zh": "很细腻 ",
+            "en": "It's subtle ",
+            "es": "Es sutil "
+          },
+          "start": 82.16,
+          "end": 82.8
+        },
+        {
+          "text": "comme gout.",
+          "translations": {
+            "zh": "味道方面。",
+            "en": "in taste.",
+            "es": "de sabor."
+          },
+          "start": 82.8,
+          "end": 83.28
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Je vais en prendre un contenant moyen s'il vous plait.",
+      "translations": {
+        "zh": "我要来一个中号容器的，麻烦了。",
+        "en": "I'll take a medium container of it, please.",
+        "es": "Voy a tomar un recipiente mediano, por favor."
+      },
+      "start": 84.24,
+      "end": 85.92,
+      "words": [
+        {
+          "text": "Je",
+          "start": 84.24,
+          "end": 84.32
+        },
+        {
+          "text": "vais",
+          "start": 84.32,
+          "end": 84.4
+        },
+        {
+          "text": "en",
+          "start": 84.4,
+          "end": 84.48
+        },
+        {
+          "text": "prendre",
+          "start": 84.48,
+          "end": 84.72
+        },
+        {
+          "text": "un",
+          "start": 84.72,
+          "end": 84.8
+        },
+        {
+          "text": "contenant",
+          "start": 84.8,
+          "end": 85.12
+        },
+        {
+          "text": "moyen",
+          "start": 85.2,
+          "end": 85.52
+        },
+        {
+          "text": "s'il",
+          "start": 85.52,
+          "end": 85.68
+        },
+        {
+          "text": "vous",
+          "start": 85.68,
+          "end": 85.76
+        },
+        {
+          "text": "plait",
+          "start": 85.76,
+          "end": 85.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais en prendre un contenant moyen ",
+          "translations": {
+            "zh": "我要来一个中号容器 ",
+            "en": "I'll take a medium container of it, ",
+            "es": "Voy a tomar un recipiente mediano, "
+          },
+          "start": 84.24,
+          "end": 85.52
+        },
+        {
+          "text": "s'il vous plait.",
+          "translations": {
+            "zh": "麻烦您了。",
+            "en": "please.",
+            "es": "por favor."
+          },
+          "start": 85.52,
+          "end": 85.92
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "D'accord.",
+      "translations": {
+        "zh": "好的。",
+        "en": "Alright.",
+        "es": "De acuerdo."
+      },
+      "start": 86.56,
+      "end": 87.28,
+      "words": [
+        {
+          "text": "D'accord",
+          "start": 86.56,
+          "end": 87.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'accord.",
+          "translations": {
+            "zh": "好的。",
+            "en": "Alright.",
+            "es": "De acuerdo."
+          },
+          "start": 86.56,
+          "end": 87.28
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Je vais aussi prendre un grand contenant de riz au poulet, un grand contenant de pâtes aux légumes, pis un moyen de salade de patates.",
+      "translations": {
+        "zh": "我还要一个大号容器的鸡肉饭，一个大号容器的蔬菜意面，还有一个中号的土豆沙拉。",
+        "en": "I'll also take a large container of rice with chicken, a large container of vegetable pasta, and a medium one of potato salad.",
+        "es": "También voy a tomar un recipiente grande de arroz con pollo, un recipiente grande de pasta con verduras, y uno mediano de ensalada de patatas."
+      },
+      "start": 88.56,
+      "end": 95.76,
+      "words": [
+        {
+          "text": "Je",
+          "start": 88.56,
+          "end": 88.64
+        },
+        {
+          "text": "vais",
+          "start": 88.64,
+          "end": 88.8
+        },
+        {
+          "text": "aussi",
+          "start": 88.8,
+          "end": 89.04
+        },
+        {
+          "text": "prendre",
+          "start": 89.04,
+          "end": 89.36
+        },
+        {
+          "text": "un",
+          "start": 89.36,
+          "end": 89.52
+        },
+        {
+          "text": "grand",
+          "start": 89.52,
+          "end": 89.76
+        },
+        {
+          "text": "contenant",
+          "start": 89.76,
+          "end": 90.32
+        },
+        {
+          "text": "de",
+          "start": 90.32,
+          "end": 90.4
+        },
+        {
+          "text": "riz",
+          "start": 90.4,
+          "end": 90.64
+        },
+        {
+          "text": "au",
+          "start": 90.64,
+          "end": 90.72
+        },
+        {
+          "text": "poulet",
+          "start": 90.72,
+          "end": 91.2
+        },
+        {
+          "text": "un",
+          "start": 91.68,
+          "end": 91.84
+        },
+        {
+          "text": "grand",
+          "start": 91.84,
+          "end": 92.08
+        },
+        {
+          "text": "contenant",
+          "start": 92.08,
+          "end": 92.56
+        },
+        {
+          "text": "de",
+          "start": 92.56,
+          "end": 92.64
+        },
+        {
+          "text": "pâtes",
+          "start": 92.64,
+          "end": 92.96
+        },
+        {
+          "text": "aux",
+          "start": 92.96,
+          "end": 93.04
+        },
+        {
+          "text": "légumes",
+          "start": 93.04,
+          "end": 93.6
+        },
+        {
+          "text": "pis",
+          "start": 93.68,
+          "end": 93.92
+        },
+        {
+          "text": "un",
+          "start": 93.92,
+          "end": 94.16
+        },
+        {
+          "text": "moyen",
+          "start": 94.16,
+          "end": 94.72
+        },
+        {
+          "text": "de",
+          "start": 94.72,
+          "end": 94.88
+        },
+        {
+          "text": "salade",
+          "start": 94.88,
+          "end": 95.2
+        },
+        {
+          "text": "de",
+          "start": 95.2,
+          "end": 95.36
+        },
+        {
+          "text": "patates",
+          "start": 95.36,
+          "end": 95.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais aussi prendre un grand contenant de riz au poulet, ",
+          "translations": {
+            "zh": "我还要一个大号容器的鸡肉饭，",
+            "en": "I'll also take a large container of rice with chicken, ",
+            "es": "También voy a tomar un recipiente grande de arroz con pollo, "
+          },
+          "start": 88.56,
+          "end": 91.2
+        },
+        {
+          "text": "un grand contenant de pâtes aux légumes, ",
+          "translations": {
+            "zh": "一个大号容器的蔬菜意面，",
+            "en": "a large container of vegetable pasta, ",
+            "es": "un recipiente grande de pasta con verduras, "
+          },
+          "start": 91.68,
+          "end": 93.6
+        },
+        {
+          "text": "pis un moyen de salade de patates.",
+          "translations": {
+            "zh": "还有一个中号的土豆沙拉。",
+            "en": "and a medium one of potato salad.",
+            "es": "y uno mediano de ensalada de patatas."
+          },
+          "start": 93.68,
+          "end": 95.76
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Ça vous en fait quatre.",
+      "translations": {
+        "zh": "这样您就有四个了。",
+        "en": "That makes four for you.",
+        "es": "Eso le hace cuatro."
+      },
+      "start": 96.48,
+      "end": 97.52,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 96.48,
+          "end": 96.64
+        },
+        {
+          "text": "vous",
+          "start": 96.64,
+          "end": 96.8
+        },
+        {
+          "text": "en",
+          "start": 96.8,
+          "end": 96.88
+        },
+        {
+          "text": "fait",
+          "start": 96.88,
+          "end": 97.04
+        },
+        {
+          "text": "quatre",
+          "start": 97.04,
+          "end": 97.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça vous en fait quatre.",
+          "translations": {
+            "zh": "这样您就有四个了。",
+            "en": "That makes four for you.",
+            "es": "Eso le hace cuatro."
+          },
+          "start": 96.48,
+          "end": 97.52
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Si vous en voulez un cinquième, il est gratuit.",
+      "translations": {
+        "zh": "如果您还想要第五个，它是免费的。",
+        "en": "If you want a fifth one, it's free.",
+        "es": "Si quiere un quinto, es gratis."
+      },
+      "start": 98.08,
+      "end": 100.32,
+      "words": [
+        {
+          "text": "Si",
+          "start": 98.08,
+          "end": 98.24
+        },
+        {
+          "text": "vous",
+          "start": 98.24,
+          "end": 98.4
+        },
+        {
+          "text": "en",
+          "start": 98.4,
+          "end": 98.48
+        },
+        {
+          "text": "voulez",
+          "start": 98.48,
+          "end": 98.72
+        },
+        {
+          "text": "un",
+          "start": 98.72,
+          "end": 98.8
+        },
+        {
+          "text": "cinquième",
+          "start": 98.8,
+          "end": 99.44
+        },
+        {
+          "text": "il",
+          "start": 99.6,
+          "end": 99.68
+        },
+        {
+          "text": "est",
+          "start": 99.68,
+          "end": 99.92
+        },
+        {
+          "text": "gratuit",
+          "start": 99.92,
+          "end": 100.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Si vous en voulez un cinquième, ",
+          "translations": {
+            "zh": "如果您还想要第五个，",
+            "en": "If you want a fifth one, ",
+            "es": "Si quiere un quinto, "
+          },
+          "start": 98.08,
+          "end": 99.44
+        },
+        {
+          "text": "il est gratuit.",
+          "translations": {
+            "zh": "它是免费的。",
+            "en": "it's free.",
+            "es": "es gratis."
+          },
+          "start": 99.6,
+          "end": 100.32
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "Ah oui, bien, je vais prendre trois boules aux dattes.",
+      "translations": {
+        "zh": "啊对，好吧，我要三个椰枣球。",
+        "en": "Ah yes, well, I'll take three date balls.",
+        "es": "Ah sí, bueno, voy a tomar tres bolas de dátiles."
+      },
+      "start": 100.88,
+      "end": 104.24,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 100.88,
+          "end": 101.04
+        },
+        {
+          "text": "oui",
+          "start": 101.04,
+          "end": 101.2
+        },
+        {
+          "text": "bien",
+          "start": 101.68,
+          "end": 102.4
+        },
+        {
+          "text": "je",
+          "start": 102.72,
+          "end": 102.72
+        },
+        {
+          "text": "vais",
+          "start": 102.8,
+          "end": 102.88
+        },
+        {
+          "text": "prendre",
+          "start": 102.88,
+          "end": 103.28
+        },
+        {
+          "text": "trois",
+          "start": 103.36,
+          "end": 103.68
+        },
+        {
+          "text": "boules",
+          "start": 103.68,
+          "end": 103.84
+        },
+        {
+          "text": "aux",
+          "start": 103.84,
+          "end": 103.92
+        },
+        {
+          "text": "dattes",
+          "start": 103.92,
+          "end": 104.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah oui, bien, ",
+          "translations": {
+            "zh": "啊对，好吧，",
+            "en": "Ah yes, well, ",
+            "es": "Ah sí, bueno, "
+          },
+          "start": 100.88,
+          "end": 102.4
+        },
+        {
+          "text": "je vais prendre trois boules aux dattes.",
+          "translations": {
+            "zh": "我要三个椰枣球。",
+            "en": "I'll take three date balls.",
+            "es": "voy a tomar tres bolas de dátiles."
+          },
+          "start": 102.72,
+          "end": 104.24
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "Bon choix, elles sont délicieuses.",
+      "translations": {
+        "zh": "好选择，它们很美味。",
+        "en": "Good choice, they're delicious.",
+        "es": "Buena elección, están deliciosas."
+      },
+      "start": 105.44,
+      "end": 107.68,
+      "words": [
+        {
+          "text": "Bon",
+          "start": 105.44,
+          "end": 105.76
+        },
+        {
+          "text": "choix",
+          "start": 105.76,
+          "end": 106.24
+        },
+        {
+          "text": "elles",
+          "start": 106.56,
+          "end": 106.72
+        },
+        {
+          "text": "sont",
+          "start": 106.72,
+          "end": 106.88
+        },
+        {
+          "text": "délicieuses",
+          "start": 106.88,
+          "end": 107.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bon choix, ",
+          "translations": {
+            "zh": "好选择，",
+            "en": "Good choice, ",
+            "es": "Buena elección, "
+          },
+          "start": 105.44,
+          "end": 106.24
+        },
+        {
+          "text": "elles sont délicieuses.",
+          "translations": {
+            "zh": "它们很美味。",
+            "en": "they're delicious.",
+            "es": "están deliciosas."
+          },
+          "start": 106.56,
+          "end": 107.68
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "Je vais vous préparer tout ça.",
+      "translations": {
+        "zh": "我来给您准备这些。",
+        "en": "I'll prepare all that for you.",
+        "es": "Voy a prepararle todo eso."
+      },
+      "start": 107.68,
+      "end": 109.28,
+      "words": [
+        {
+          "text": "Je",
+          "start": 107.68,
+          "end": 108.32
+        },
+        {
+          "text": "vais",
+          "start": 108.32,
+          "end": 108.4
+        },
+        {
+          "text": "vous",
+          "start": 108.4,
+          "end": 108.56
+        },
+        {
+          "text": "préparer",
+          "start": 108.56,
+          "end": 108.96
+        },
+        {
+          "text": "tout",
+          "start": 108.96,
+          "end": 109.04
+        },
+        {
+          "text": "ça",
+          "start": 109.04,
+          "end": 109.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais vous préparer tout ça.",
+          "translations": {
+            "zh": "我来给您准备这些。",
+            "en": "I'll prepare all that for you.",
+            "es": "Voy a prepararle todo eso."
+          },
+          "start": 107.68,
+          "end": 109.28
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "text": "Attendez-moi à la caisse.",
+      "translations": {
+        "zh": "在收银台等我。",
+        "en": "Wait for me at the register.",
+        "es": "Espéreme en la caja."
+      },
+      "start": 109.92,
+      "end": 110.88,
+      "words": [
+        {
+          "text": "Attendez",
+          "start": 109.92,
+          "end": 110.24
+        },
+        {
+          "text": "moi",
+          "start": 110.24,
+          "end": 110.4
+        },
+        {
+          "text": "à",
+          "start": 110.4,
+          "end": 110.4
+        },
+        {
+          "text": "la",
+          "start": 110.4,
+          "end": 110.48
+        },
+        {
+          "text": "caisse",
+          "start": 110.48,
+          "end": 110.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Attendez-moi à la caisse.",
+          "translations": {
+            "zh": "在收银台等我。",
+            "en": "Wait for me at the register.",
+            "es": "Espéreme en la caja."
+          },
+          "start": 109.92,
+          "end": 110.88
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "text": "ÉPISODE 4",
+      "translations": {
+        "zh": "第四集",
+        "en": "EPISODE 4",
+        "es": "EPISODIO 4"
+      },
+      "start": 112.16,
+      "end": 115.84,
+      "words": [
+        {
+          "text": "ÉPISODE",
+          "start": 112.16,
+          "end": 113.2
+        },
+        {
+          "text": "4",
+          "start": 113.2,
+          "end": 115.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "ÉPISODE 4",
+          "translations": {
+            "zh": "第四集",
+            "en": "EPISODE 4",
+            "es": "EPISODIO 4"
+          },
+          "start": 112.16,
+          "end": 115.84
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP03_P18",
+  "audio_filename": "FLS2_EP03_P18.mp3",
+  "audio_path": "downloads/FLS2_EP03_P18.mp3",
+  "episode": 3,
+  "piste": 18,
+  "page": 32,
+  "cd": "CD1"
+}
