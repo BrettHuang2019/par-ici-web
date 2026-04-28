@@ -1,0 +1,1791 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 7 Piste 33 Page 62",
+      "translations": {
+        "zh": "第七集 第33轨 第62页",
+        "en": "Episode 7 Track 33 Page 62",
+        "es": "Episodio 7 Pista 33 Página 62"
+      },
+      "start": 0.64,
+      "end": 7.92,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.64,
+          "end": 1.28
+        },
+        {
+          "text": "7",
+          "start": 1.76,
+          "end": 2.08
+        },
+        {
+          "text": "Piste",
+          "start": 3.04,
+          "end": 3.52
+        },
+        {
+          "text": "33",
+          "start": 4.32,
+          "end": 4.88
+        },
+        {
+          "text": "Page",
+          "start": 6.56,
+          "end": 6.96
+        },
+        {
+          "text": "62",
+          "start": 6.96,
+          "end": 7.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 7",
+          "translations": {
+            "zh": "第七集",
+            "en": "Episode 7",
+            "es": "Episodio 7"
+          },
+          "start": 0.64,
+          "end": 2.08
+        },
+        {
+          "text": "Piste 33",
+          "translations": {
+            "zh": "第33轨",
+            "en": "Track 33",
+            "es": "Pista 33"
+          },
+          "start": 3.04,
+          "end": 4.88
+        },
+        {
+          "text": "Page 62",
+          "translations": {
+            "zh": "第62页",
+            "en": "Page 62",
+            "es": "Página 62"
+          },
+          "start": 6.56,
+          "end": 7.92
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bonjour.",
+      "translations": {
+        "zh": "你好。",
+        "en": "Hello.",
+        "es": "Buenos días."
+      },
+      "start": 9.44,
+      "end": 10.08,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 9.44,
+          "end": 10.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour.",
+          "translations": {
+            "zh": "你好。",
+            "en": "Hello.",
+            "es": "Buenos días."
+          },
+          "start": 9.44,
+          "end": 10.08
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Bonjour, pourriez-vous nous dire dans quelle chambre se trouve Isabelle Louis, s'il vous plait ?",
+      "translations": {
+        "zh": "您好，请问您能告诉我们伊莎贝尔·路易在哪个房间吗？",
+        "en": "Hello, could you tell us which room Isabelle Louis is in, please?",
+        "es": "Buenos días, ¿podría decirnos en qué habitación se encuentra Isabelle Louis, por favor?"
+      },
+      "start": 10.4,
+      "end": 14.48,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 10.4,
+          "end": 11.04
+        },
+        {
+          "text": "pourriez",
+          "start": 11.04,
+          "end": 11.36
+        },
+        {
+          "text": "vous",
+          "start": 11.36,
+          "end": 11.44
+        },
+        {
+          "text": "nous",
+          "start": 11.44,
+          "end": 11.6
+        },
+        {
+          "text": "dire",
+          "start": 11.6,
+          "end": 11.84
+        },
+        {
+          "text": "dans",
+          "start": 11.84,
+          "end": 12.0
+        },
+        {
+          "text": "quelle",
+          "start": 12.0,
+          "end": 12.16
+        },
+        {
+          "text": "chambre",
+          "start": 12.16,
+          "end": 12.56
+        },
+        {
+          "text": "se",
+          "start": 12.56,
+          "end": 12.64
+        },
+        {
+          "text": "trouve",
+          "start": 12.64,
+          "end": 12.96
+        },
+        {
+          "text": "Isabelle",
+          "start": 13.04,
+          "end": 13.44
+        },
+        {
+          "text": "Louis",
+          "start": 13.6,
+          "end": 13.84
+        },
+        {
+          "text": "s'il",
+          "start": 13.92,
+          "end": 14.16
+        },
+        {
+          "text": "vous",
+          "start": 14.16,
+          "end": 14.24
+        },
+        {
+          "text": "plait",
+          "start": 14.24,
+          "end": 14.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Buenos días,"
+          },
+          "start": 10.4,
+          "end": 11.04
+        },
+        {
+          "text": "pourriez-vous nous dire",
+          "translations": {
+            "zh": "您能不能告诉我们",
+            "en": "could you tell us",
+            "es": "podría decirnos"
+          },
+          "start": 11.04,
+          "end": 11.84
+        },
+        {
+          "text": "dans quelle chambre se trouve Isabelle Louis,",
+          "translations": {
+            "zh": "伊莎贝尔·路易在哪个房间，",
+            "en": "which room Isabelle Louis is in,",
+            "es": "en qué habitación se encuentra Isabelle Louis,"
+          },
+          "start": 11.84,
+          "end": 13.84
+        },
+        {
+          "text": "s'il vous plait ?",
+          "translations": {
+            "zh": "请问？",
+            "en": "please?",
+            "es": "por favor?"
+          },
+          "start": 13.92,
+          "end": 14.48
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Un instant, je vous prie...",
+      "translations": {
+        "zh": "请稍等……",
+        "en": "One moment, please...",
+        "es": "Un instante, se lo ruego..."
+      },
+      "start": 15.2,
+      "end": 16.48,
+      "words": [
+        {
+          "text": "Un",
+          "start": 15.2,
+          "end": 15.36
+        },
+        {
+          "text": "instant",
+          "start": 15.36,
+          "end": 15.76
+        },
+        {
+          "text": "je",
+          "start": 15.76,
+          "end": 15.84
+        },
+        {
+          "text": "vous",
+          "start": 15.84,
+          "end": 16.0
+        },
+        {
+          "text": "prie",
+          "start": 16.0,
+          "end": 16.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Un instant,",
+          "translations": {
+            "zh": "稍等，",
+            "en": "One moment,",
+            "es": "Un instante,"
+          },
+          "start": 15.2,
+          "end": 15.76
+        },
+        {
+          "text": "je vous prie...",
+          "translations": {
+            "zh": "请您……",
+            "en": "please...",
+            "es": "se lo ruego..."
+          },
+          "start": 15.76,
+          "end": 16.48
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Chambre 2B-138.",
+      "translations": {
+        "zh": "2B-138病房。",
+        "en": "Room 2B-138.",
+        "es": "Habitación 2B-138."
+      },
+      "start": 18.88,
+      "end": 21.04,
+      "words": [
+        {
+          "text": "Chambre",
+          "start": 18.88,
+          "end": 19.36
+        },
+        {
+          "text": "2B",
+          "start": 19.36,
+          "end": 20.16
+        },
+        {
+          "text": "138",
+          "start": 20.16,
+          "end": 21.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Chambre 2B-138.",
+          "translations": {
+            "zh": "2B-138病房。",
+            "en": "Room 2B-138.",
+            "es": "Habitación 2B-138."
+          },
+          "start": 18.88,
+          "end": 21.04
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "2B-138, les gars, retenez ça.",
+      "translations": {
+        "zh": "2B-138，伙计们，记住这个。",
+        "en": "2B-138, guys, remember that.",
+        "es": "2B-138, chicos, recuérdenlo."
+      },
+      "start": 21.36,
+      "end": 23.44,
+      "words": [
+        {
+          "text": "2B",
+          "start": 21.36,
+          "end": 21.84
+        },
+        {
+          "text": "138",
+          "start": 21.84,
+          "end": 22.56
+        },
+        {
+          "text": "les",
+          "start": 22.56,
+          "end": 22.72
+        },
+        {
+          "text": "gars",
+          "start": 22.72,
+          "end": 22.96
+        },
+        {
+          "text": "retenez",
+          "start": 22.96,
+          "end": 23.2
+        },
+        {
+          "text": "ça",
+          "start": 23.2,
+          "end": 23.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "2B-138, les gars,",
+          "translations": {
+            "zh": "2B-138，伙计们，",
+            "en": "2B-138, guys,",
+            "es": "2B-138, chicos,"
+          },
+          "start": 21.36,
+          "end": 22.96
+        },
+        {
+          "text": "retenez ça.",
+          "translations": {
+            "zh": "记住这个。",
+            "en": "remember that.",
+            "es": "recuérdenlo."
+          },
+          "start": 22.96,
+          "end": 23.44
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Je sais qu'elle est dans l'unité des naissances, mais pourriez-vous nous dire comment nous y rendre ?",
+      "translations": {
+        "zh": "我知道她在产科病房，但您能不能告诉我们怎么去那里？",
+        "en": "I know she's in the maternity unit, but could you tell us how to get there?",
+        "es": "Sé que está en la unidad de nacimientos, pero ¿podría decirnos cómo llegar allí?"
+      },
+      "start": 24.0,
+      "end": 27.6,
+      "words": [
+        {
+          "text": "Je",
+          "start": 24.0,
+          "end": 24.24
+        },
+        {
+          "text": "sais",
+          "start": 24.24,
+          "end": 24.24
+        },
+        {
+          "text": "qu'elle",
+          "start": 24.24,
+          "end": 24.4
+        },
+        {
+          "text": "est",
+          "start": 24.4,
+          "end": 24.48
+        },
+        {
+          "text": "dans",
+          "start": 24.48,
+          "end": 24.64
+        },
+        {
+          "text": "l'unité",
+          "start": 24.64,
+          "end": 25.04
+        },
+        {
+          "text": "des",
+          "start": 25.04,
+          "end": 25.12
+        },
+        {
+          "text": "naissances",
+          "start": 25.12,
+          "end": 25.68
+        },
+        {
+          "text": "mais",
+          "start": 25.68,
+          "end": 25.92
+        },
+        {
+          "text": "pourriez",
+          "start": 25.92,
+          "end": 26.24
+        },
+        {
+          "text": "vous",
+          "start": 26.24,
+          "end": 26.32
+        },
+        {
+          "text": "nous",
+          "start": 26.4,
+          "end": 26.48
+        },
+        {
+          "text": "dire",
+          "start": 26.48,
+          "end": 26.72
+        },
+        {
+          "text": "comment",
+          "start": 26.72,
+          "end": 27.04
+        },
+        {
+          "text": "nous",
+          "start": 27.04,
+          "end": 27.2
+        },
+        {
+          "text": "y",
+          "start": 27.2,
+          "end": 27.28
+        },
+        {
+          "text": "rendre",
+          "start": 27.28,
+          "end": 27.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je sais qu'elle est dans l'unité des naissances,",
+          "translations": {
+            "zh": "我知道她在产科病房，",
+            "en": "I know she's in the maternity unit,",
+            "es": "Sé que está en la unidad de nacimientos,"
+          },
+          "start": 24.0,
+          "end": 25.68
+        },
+        {
+          "text": "mais pourriez-vous nous dire",
+          "translations": {
+            "zh": "但您能不能告诉我们",
+            "en": "but could you tell us",
+            "es": "pero podría decirnos"
+          },
+          "start": 25.68,
+          "end": 26.72
+        },
+        {
+          "text": "comment nous y rendre ?",
+          "translations": {
+            "zh": "怎么去那里？",
+            "en": "how to get there?",
+            "es": "cómo llegar allí?"
+          },
+          "start": 26.72,
+          "end": 27.6
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Oui, vous allez prendre l'ascenseur qui se trouve là, un peu plus loin à votre droite, et vous allez monter au 2 e étage.",
+      "translations": {
+        "zh": "是的，您去乘那边的电梯，就在您右手边稍远一点的地方，然后您上到二楼。",
+        "en": "Yes, you're going to take the elevator that's right there, a little further ahead on your right, and you'll go up to the 2nd floor.",
+        "es": "Sí, van a tomar el ascensor que está ahí, un poco más adelante a su derecha, y van a subir al 2º piso."
+      },
+      "start": 28.32,
+      "end": 36.16,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 28.32,
+          "end": 28.64
+        },
+        {
+          "text": "vous",
+          "start": 29.12,
+          "end": 29.28
+        },
+        {
+          "text": "allez",
+          "start": 29.28,
+          "end": 29.44
+        },
+        {
+          "text": "prendre",
+          "start": 29.44,
+          "end": 29.68
+        },
+        {
+          "text": "l'ascenseur",
+          "start": 29.68,
+          "end": 30.4
+        },
+        {
+          "text": "qui",
+          "start": 30.4,
+          "end": 30.48
+        },
+        {
+          "text": "se",
+          "start": 30.48,
+          "end": 30.56
+        },
+        {
+          "text": "trouve",
+          "start": 30.56,
+          "end": 30.88
+        },
+        {
+          "text": "là",
+          "start": 30.88,
+          "end": 31.12
+        },
+        {
+          "text": "un",
+          "start": 31.44,
+          "end": 31.6
+        },
+        {
+          "text": "peu",
+          "start": 31.6,
+          "end": 31.76
+        },
+        {
+          "text": "plus",
+          "start": 31.76,
+          "end": 31.92
+        },
+        {
+          "text": "loin",
+          "start": 31.92,
+          "end": 32.24
+        },
+        {
+          "text": "à",
+          "start": 32.32,
+          "end": 32.4
+        },
+        {
+          "text": "votre",
+          "start": 32.4,
+          "end": 32.56
+        },
+        {
+          "text": "droite",
+          "start": 32.56,
+          "end": 32.96
+        },
+        {
+          "text": "et",
+          "start": 33.76,
+          "end": 33.92
+        },
+        {
+          "text": "vous",
+          "start": 33.92,
+          "end": 34.08
+        },
+        {
+          "text": "allez",
+          "start": 34.08,
+          "end": 34.24
+        },
+        {
+          "text": "monter",
+          "start": 34.24,
+          "end": 34.8
+        },
+        {
+          "text": "au",
+          "start": 35.12,
+          "end": 35.2
+        },
+        {
+          "text": "2",
+          "start": 35.2,
+          "end": 35.52
+        },
+        {
+          "text": "e",
+          "start": 35.52,
+          "end": 35.52
+        },
+        {
+          "text": "étage",
+          "start": 35.6,
+          "end": 36.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 28.32,
+          "end": 28.64
+        },
+        {
+          "text": "vous allez prendre l'ascenseur",
+          "translations": {
+            "zh": "您去乘电梯",
+            "en": "you're going to take the elevator",
+            "es": "van a tomar el ascensor"
+          },
+          "start": 29.12,
+          "end": 30.4
+        },
+        {
+          "text": "qui se trouve là,",
+          "translations": {
+            "zh": "在那边的，",
+            "en": "that's right there,",
+            "es": "que está ahí,"
+          },
+          "start": 30.4,
+          "end": 31.12
+        },
+        {
+          "text": "un peu plus loin à votre droite,",
+          "translations": {
+            "zh": "在您右手边稍远一点的地方，",
+            "en": "a little further ahead on your right,",
+            "es": "un poco más adelante a su derecha,"
+          },
+          "start": 31.44,
+          "end": 32.96
+        },
+        {
+          "text": "et vous allez monter au 2 e étage.",
+          "translations": {
+            "zh": "然后您上到二楼。",
+            "en": "and you'll go up to the 2nd floor.",
+            "es": "y van a subir al 2º piso."
+          },
+          "start": 33.76,
+          "end": 36.16
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "En sortant de l'ascenseur, vous allez tourner à droite, pis vous allez prendre le premier corridor à gauche, et le suivant encore à gauche.",
+      "translations": {
+        "zh": "出了电梯后，您向右转，然后您走左边第一条走廊，接着下一条还是向左转。",
+        "en": "Getting out of the elevator, you'll turn right, then you'll take the first corridor on the left, and the next one on the left again.",
+        "es": "Al salir del ascensor, van a girar a la derecha, luego van a tomar el primer pasillo a la izquierda, y el siguiente otra vez a la izquierda."
+      },
+      "start": 37.12,
+      "end": 45.92,
+      "words": [
+        {
+          "text": "En",
+          "start": 37.12,
+          "end": 37.2
+        },
+        {
+          "text": "sortant",
+          "start": 37.28,
+          "end": 37.6
+        },
+        {
+          "text": "de",
+          "start": 37.6,
+          "end": 37.6
+        },
+        {
+          "text": "l'ascenseur",
+          "start": 37.6,
+          "end": 38.4
+        },
+        {
+          "text": "vous",
+          "start": 38.8,
+          "end": 38.88
+        },
+        {
+          "text": "allez",
+          "start": 38.88,
+          "end": 39.04
+        },
+        {
+          "text": "tourner",
+          "start": 39.04,
+          "end": 39.52
+        },
+        {
+          "text": "à",
+          "start": 39.6,
+          "end": 39.76
+        },
+        {
+          "text": "droite",
+          "start": 39.76,
+          "end": 40.32
+        },
+        {
+          "text": "pis",
+          "start": 40.8,
+          "end": 40.96
+        },
+        {
+          "text": "vous",
+          "start": 40.96,
+          "end": 41.12
+        },
+        {
+          "text": "allez",
+          "start": 41.12,
+          "end": 41.28
+        },
+        {
+          "text": "prendre",
+          "start": 41.28,
+          "end": 41.6
+        },
+        {
+          "text": "le",
+          "start": 41.6,
+          "end": 41.76
+        },
+        {
+          "text": "premier",
+          "start": 41.76,
+          "end": 42.0
+        },
+        {
+          "text": "corridor",
+          "start": 42.0,
+          "end": 42.64
+        },
+        {
+          "text": "à",
+          "start": 43.12,
+          "end": 43.28
+        },
+        {
+          "text": "gauche",
+          "start": 43.28,
+          "end": 43.76
+        },
+        {
+          "text": "et",
+          "start": 44.16,
+          "end": 44.24
+        },
+        {
+          "text": "le",
+          "start": 44.24,
+          "end": 44.32
+        },
+        {
+          "text": "suivant",
+          "start": 44.32,
+          "end": 44.96
+        },
+        {
+          "text": "encore",
+          "start": 44.96,
+          "end": 45.36
+        },
+        {
+          "text": "à",
+          "start": 45.36,
+          "end": 45.52
+        },
+        {
+          "text": "gauche",
+          "start": 45.52,
+          "end": 45.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "En sortant de l'ascenseur,",
+          "translations": {
+            "zh": "出了电梯后，",
+            "en": "Getting out of the elevator,",
+            "es": "Al salir del ascensor,"
+          },
+          "start": 37.12,
+          "end": 38.4
+        },
+        {
+          "text": "vous allez tourner à droite,",
+          "translations": {
+            "zh": "您向右转，",
+            "en": "you'll turn right,",
+            "es": "van a girar a la derecha,"
+          },
+          "start": 38.8,
+          "end": 40.32
+        },
+        {
+          "text": "pis vous allez prendre le premier corridor à gauche,",
+          "translations": {
+            "zh": "然后您走左边第一条走廊，",
+            "en": "then you'll take the first corridor on the left,",
+            "es": "luego van a tomar el primer pasillo a la izquierda,"
+          },
+          "start": 40.8,
+          "end": 43.76
+        },
+        {
+          "text": "et le suivant encore à gauche.",
+          "translations": {
+            "zh": "接着下一条还是向左转。",
+            "en": "and the next one on the left again.",
+            "es": "y el siguiente otra vez a la izquierda."
+          },
+          "start": 44.16,
+          "end": 45.92
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Au bout de ce corridor- là, vous allez voir une porte à votre droite.",
+      "translations": {
+        "zh": "在那条走廊的尽头，您会看到您右边有一扇门。",
+        "en": "At the end of that corridor, you'll see a door on your right.",
+        "es": "Al final de ese pasillo, van a ver una puerta a su derecha."
+      },
+      "start": 46.88,
+      "end": 49.76,
+      "words": [
+        {
+          "text": "Au",
+          "start": 46.88,
+          "end": 47.04
+        },
+        {
+          "text": "bout",
+          "start": 47.04,
+          "end": 47.12
+        },
+        {
+          "text": "de",
+          "start": 47.12,
+          "end": 47.2
+        },
+        {
+          "text": "ce",
+          "start": 47.2,
+          "end": 47.28
+        },
+        {
+          "text": "corridor",
+          "start": 47.28,
+          "end": 47.76
+        },
+        {
+          "text": "là",
+          "start": 47.76,
+          "end": 47.92
+        },
+        {
+          "text": "vous",
+          "start": 47.92,
+          "end": 48.08
+        },
+        {
+          "text": "allez",
+          "start": 48.08,
+          "end": 48.16
+        },
+        {
+          "text": "voir",
+          "start": 48.16,
+          "end": 48.4
+        },
+        {
+          "text": "une",
+          "start": 48.4,
+          "end": 48.56
+        },
+        {
+          "text": "porte",
+          "start": 48.72,
+          "end": 49.12
+        },
+        {
+          "text": "à",
+          "start": 49.12,
+          "end": 49.12
+        },
+        {
+          "text": "votre",
+          "start": 49.12,
+          "end": 49.36
+        },
+        {
+          "text": "droite",
+          "start": 49.36,
+          "end": 49.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Au bout de ce corridor- là,",
+          "translations": {
+            "zh": "在那条走廊的尽头，",
+            "en": "At the end of that corridor,",
+            "es": "Al final de ese pasillo,"
+          },
+          "start": 46.88,
+          "end": 47.92
+        },
+        {
+          "text": "vous allez voir une porte à votre droite.",
+          "translations": {
+            "zh": "您会看到您右边有一扇门。",
+            "en": "you'll see a door on your right.",
+            "es": "van a ver una puerta a su derecha."
+          },
+          "start": 47.92,
+          "end": 49.76
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Ça va être écrit \" Unité des naissances \".",
+      "translations": {
+        "zh": "上面会写着\"产科病房\"。",
+        "en": "It'll be written \"Maternity Unit\".",
+        "es": "Va a estar escrito \"Unidad de nacimientos\"."
+      },
+      "start": 50.4,
+      "end": 52.64,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 50.4,
+          "end": 50.56
+        },
+        {
+          "text": "va",
+          "start": 50.56,
+          "end": 50.64
+        },
+        {
+          "text": "être",
+          "start": 50.64,
+          "end": 50.72
+        },
+        {
+          "text": "écrit",
+          "start": 50.72,
+          "end": 51.36
+        },
+        {
+          "text": "Unité",
+          "start": 51.36,
+          "end": 51.84
+        },
+        {
+          "text": "des",
+          "start": 51.84,
+          "end": 52.0
+        },
+        {
+          "text": "naissances",
+          "start": 52.0,
+          "end": 52.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça va être écrit",
+          "translations": {
+            "zh": "上面会写着",
+            "en": "It'll be written",
+            "es": "Va a estar escrito"
+          },
+          "start": 50.4,
+          "end": 51.36
+        },
+        {
+          "text": "\" Unité des naissances \".",
+          "translations": {
+            "zh": "\"产科病房\"。",
+            "en": "\"Maternity Unit\".",
+            "es": "\"Unidad de nacimientos\"."
+          },
+          "start": 51.36,
+          "end": 52.64
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Là, passez les portes.",
+      "translations": {
+        "zh": "到了那里，穿过那些门。",
+        "en": "There, go through the doors.",
+        "es": "Ahí, pasen las puertas."
+      },
+      "start": 52.96,
+      "end": 54.4,
+      "words": [
+        {
+          "text": "Là",
+          "start": 52.96,
+          "end": 53.28
+        },
+        {
+          "text": "passez",
+          "start": 53.52,
+          "end": 53.84
+        },
+        {
+          "text": "les",
+          "start": 53.84,
+          "end": 53.92
+        },
+        {
+          "text": "portes",
+          "start": 54.0,
+          "end": 54.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Là,",
+          "translations": {
+            "zh": "那里，",
+            "en": "There,",
+            "es": "Ahí,"
+          },
+          "start": 52.96,
+          "end": 53.28
+        },
+        {
+          "text": "passez les portes.",
+          "translations": {
+            "zh": "穿过那些门。",
+            "en": "go through the doors.",
+            "es": "pasen las puertas."
+          },
+          "start": 53.52,
+          "end": 54.4
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Vous allez voir le poste d'accueil à votre gauche.",
+      "translations": {
+        "zh": "您会看到接待处在您的左边。",
+        "en": "You'll see the reception desk on your left.",
+        "es": "Van a ver el puesto de recepción a su izquierda."
+      },
+      "start": 54.96,
+      "end": 56.96,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 54.96,
+          "end": 55.04
+        },
+        {
+          "text": "allez",
+          "start": 55.04,
+          "end": 55.12
+        },
+        {
+          "text": "voir",
+          "start": 55.12,
+          "end": 55.28
+        },
+        {
+          "text": "le",
+          "start": 55.28,
+          "end": 55.36
+        },
+        {
+          "text": "poste",
+          "start": 55.36,
+          "end": 55.68
+        },
+        {
+          "text": "d'accueil",
+          "start": 55.68,
+          "end": 56.24
+        },
+        {
+          "text": "à",
+          "start": 56.24,
+          "end": 56.32
+        },
+        {
+          "text": "votre",
+          "start": 56.32,
+          "end": 56.48
+        },
+        {
+          "text": "gauche",
+          "start": 56.48,
+          "end": 56.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous allez voir le poste d'accueil",
+          "translations": {
+            "zh": "您会看到接待处",
+            "en": "You'll see the reception desk",
+            "es": "Van a ver el puesto de recepción"
+          },
+          "start": 54.96,
+          "end": 56.24
+        },
+        {
+          "text": "à votre gauche.",
+          "translations": {
+            "zh": "在您的左边。",
+            "en": "on your left.",
+            "es": "a su izquierda."
+          },
+          "start": 56.24,
+          "end": 56.96
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Vous continuez tout droit, pis vous allez voir la chambre 2B-138 à votre droite.",
+      "translations": {
+        "zh": "您一直往前走，然后您会看到2B-138病房在您的右边。",
+        "en": "You continue straight ahead, then you'll see room 2B-138 on your right.",
+        "es": "Siguen todo recto, luego van a ver la habitación 2B-138 a su derecha."
+      },
+      "start": 57.52,
+      "end": 62.88,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 57.52,
+          "end": 57.68
+        },
+        {
+          "text": "continuez",
+          "start": 57.68,
+          "end": 58.08
+        },
+        {
+          "text": "tout",
+          "start": 58.08,
+          "end": 58.16
+        },
+        {
+          "text": "droit",
+          "start": 58.16,
+          "end": 58.48
+        },
+        {
+          "text": "pis",
+          "start": 59.12,
+          "end": 59.28
+        },
+        {
+          "text": "vous",
+          "start": 59.28,
+          "end": 59.44
+        },
+        {
+          "text": "allez",
+          "start": 59.44,
+          "end": 59.6
+        },
+        {
+          "text": "voir",
+          "start": 59.6,
+          "end": 59.76
+        },
+        {
+          "text": "la",
+          "start": 59.76,
+          "end": 59.84
+        },
+        {
+          "text": "chambre",
+          "start": 59.84,
+          "end": 60.4
+        },
+        {
+          "text": "2B",
+          "start": 60.4,
+          "end": 61.12
+        },
+        {
+          "text": "138",
+          "start": 61.12,
+          "end": 62.0
+        },
+        {
+          "text": "à",
+          "start": 62.08,
+          "end": 62.24
+        },
+        {
+          "text": "votre",
+          "start": 62.24,
+          "end": 62.4
+        },
+        {
+          "text": "droite",
+          "start": 62.4,
+          "end": 62.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous continuez tout droit,",
+          "translations": {
+            "zh": "您一直往前走，",
+            "en": "You continue straight ahead,",
+            "es": "Siguen todo recto,"
+          },
+          "start": 57.52,
+          "end": 58.48
+        },
+        {
+          "text": "pis vous allez voir la chambre 2B-138",
+          "translations": {
+            "zh": "然后您会看到2B-138病房",
+            "en": "then you'll see room 2B-138",
+            "es": "luego van a ver la habitación 2B-138"
+          },
+          "start": 59.12,
+          "end": 62.0
+        },
+        {
+          "text": "à votre droite.",
+          "translations": {
+            "zh": "在您的右边。",
+            "en": "on your right.",
+            "es": "a su derecha."
+          },
+          "start": 62.08,
+          "end": 62.88
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Merci, monsieur.",
+      "translations": {
+        "zh": "谢谢您，先生。",
+        "en": "Thank you, sir.",
+        "es": "Gracias, señor."
+      },
+      "start": 63.52,
+      "end": 64.24,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 63.52,
+          "end": 63.84
+        },
+        {
+          "text": "monsieur",
+          "start": 63.84,
+          "end": 64.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci, monsieur.",
+          "translations": {
+            "zh": "谢谢您，先生。",
+            "en": "Thank you, sir.",
+            "es": "Gracias, señor."
+          },
+          "start": 63.52,
+          "end": 64.24
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Il n'y a pas de quoi, madame.",
+      "translations": {
+        "zh": "不客气，女士。",
+        "en": "You're welcome, ma'am.",
+        "es": "De nada, señora."
+      },
+      "start": 64.72,
+      "end": 65.6,
+      "words": [
+        {
+          "text": "Il",
+          "start": 64.72,
+          "end": 64.8
+        },
+        {
+          "text": "n'y",
+          "start": 64.8,
+          "end": 64.8
+        },
+        {
+          "text": "a",
+          "start": 64.8,
+          "end": 64.88
+        },
+        {
+          "text": "pas",
+          "start": 64.88,
+          "end": 64.96
+        },
+        {
+          "text": "de",
+          "start": 64.96,
+          "end": 64.96
+        },
+        {
+          "text": "quoi",
+          "start": 64.96,
+          "end": 65.12
+        },
+        {
+          "text": "madame",
+          "start": 65.12,
+          "end": 65.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il n'y a pas de quoi, madame.",
+          "translations": {
+            "zh": "不客气，女士。",
+            "en": "You're welcome, ma'am.",
+            "es": "De nada, señora."
+          },
+          "start": 64.72,
+          "end": 65.6
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Vous savez que les visites se terminent à 20 h 30 ?",
+      "translations": {
+        "zh": "您知道探视时间到晚上八点半结束吗？",
+        "en": "Do you know that visiting hours end at 8:30 PM?",
+        "es": "¿Saben que las visitas terminan a las 20 h 30?"
+      },
+      "start": 65.6,
+      "end": 68.8,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 65.6,
+          "end": 66.72
+        },
+        {
+          "text": "savez",
+          "start": 66.72,
+          "end": 66.88
+        },
+        {
+          "text": "que",
+          "start": 66.88,
+          "end": 66.96
+        },
+        {
+          "text": "les",
+          "start": 66.96,
+          "end": 67.04
+        },
+        {
+          "text": "visites",
+          "start": 67.04,
+          "end": 67.44
+        },
+        {
+          "text": "se",
+          "start": 67.44,
+          "end": 67.52
+        },
+        {
+          "text": "terminent",
+          "start": 67.52,
+          "end": 67.92
+        },
+        {
+          "text": "à",
+          "start": 67.92,
+          "end": 68.0
+        },
+        {
+          "text": "20",
+          "start": 68.0,
+          "end": 68.8
+        },
+        {
+          "text": "h",
+          "start": 68.8,
+          "end": 68.8
+        },
+        {
+          "text": "30",
+          "start": 68.8,
+          "end": 68.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous savez",
+          "translations": {
+            "zh": "您知道",
+            "en": "Do you know",
+            "es": "Saben"
+          },
+          "start": 65.6,
+          "end": 66.88
+        },
+        {
+          "text": "que les visites se terminent à 20 h 30 ?",
+          "translations": {
+            "zh": "探视时间到晚上八点半结束吗？",
+            "en": "that visiting hours end at 8:30 PM?",
+            "es": "que las visitas terminan a las 20 h 30 ?"
+          },
+          "start": 66.88,
+          "end": 68.8
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Non, je n'étais pas au courant.",
+      "translations": {
+        "zh": "不，我之前不知道。",
+        "en": "No, I wasn't aware.",
+        "es": "No, no estaba al tanto."
+      },
+      "start": 69.6,
+      "end": 70.8,
+      "words": [
+        {
+          "text": "Non",
+          "start": 69.6,
+          "end": 70.0
+        },
+        {
+          "text": "je",
+          "start": 70.0,
+          "end": 70.08
+        },
+        {
+          "text": "n'étais",
+          "start": 70.08,
+          "end": 70.24
+        },
+        {
+          "text": "pas",
+          "start": 70.24,
+          "end": 70.32
+        },
+        {
+          "text": "au",
+          "start": 70.32,
+          "end": 70.4
+        },
+        {
+          "text": "courant",
+          "start": 70.4,
+          "end": 70.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Non,",
+          "translations": {
+            "zh": "不，",
+            "en": "No,",
+            "es": "No,"
+          },
+          "start": 69.6,
+          "end": 70.0
+        },
+        {
+          "text": "je n'étais pas au courant.",
+          "translations": {
+            "zh": "我之前不知道。",
+            "en": "I wasn't aware.",
+            "es": "no estaba al tanto."
+          },
+          "start": 70.0,
+          "end": 70.8
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "C'est le règlement de l'hôpital.",
+      "translations": {
+        "zh": "这是医院的规定。",
+        "en": "It's the hospital's policy.",
+        "es": "Es el reglamento del hospital."
+      },
+      "start": 71.2,
+      "end": 72.64,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 71.2,
+          "end": 71.44
+        },
+        {
+          "text": "le",
+          "start": 71.44,
+          "end": 71.52
+        },
+        {
+          "text": "règlement",
+          "start": 71.52,
+          "end": 72.0
+        },
+        {
+          "text": "de",
+          "start": 72.0,
+          "end": 72.08
+        },
+        {
+          "text": "l'hôpital",
+          "start": 72.08,
+          "end": 72.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est le règlement de l'hôpital.",
+          "translations": {
+            "zh": "这是医院的规定。",
+            "en": "It's the hospital's policy.",
+            "es": "Es el reglamento del hospital."
+          },
+          "start": 71.2,
+          "end": 72.64
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "D'accord, on va faire vite !",
+      "translations": {
+        "zh": "好的，我们会快点的！",
+        "en": "Alright, we'll be quick!",
+        "es": "De acuerdo, ¡vamos a hacerlo rápido!"
+      },
+      "start": 73.36,
+      "end": 74.64,
+      "words": [
+        {
+          "text": "D'accord",
+          "start": 73.36,
+          "end": 73.92
+        },
+        {
+          "text": "on",
+          "start": 73.92,
+          "end": 74.0
+        },
+        {
+          "text": "va",
+          "start": 74.0,
+          "end": 74.08
+        },
+        {
+          "text": "faire",
+          "start": 74.08,
+          "end": 74.32
+        },
+        {
+          "text": "vite",
+          "start": 74.32,
+          "end": 74.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'accord,",
+          "translations": {
+            "zh": "好的，",
+            "en": "Alright,",
+            "es": "De acuerdo,"
+          },
+          "start": 73.36,
+          "end": 73.92
+        },
+        {
+          "text": "on va faire vite !",
+          "translations": {
+            "zh": "我们会快点！",
+            "en": "we'll be quick!",
+            "es": "¡vamos a hacerlo rápido!"
+          },
+          "start": 73.92,
+          "end": 74.64
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Merci.",
+      "translations": {
+        "zh": "谢谢。",
+        "en": "Thank you.",
+        "es": "Gracias."
+      },
+      "start": 74.72,
+      "end": 75.12,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 74.72,
+          "end": 75.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci.",
+          "translations": {
+            "zh": "谢谢。",
+            "en": "Thank you.",
+            "es": "Gracias."
+          },
+          "start": 74.72,
+          "end": 75.12
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "De rien.",
+      "translations": {
+        "zh": "不客气。",
+        "en": "You're welcome.",
+        "es": "De nada."
+      },
+      "start": 75.84,
+      "end": 76.32,
+      "words": [
+        {
+          "text": "De",
+          "start": 75.84,
+          "end": 75.92
+        },
+        {
+          "text": "rien",
+          "start": 75.92,
+          "end": 76.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "De rien.",
+          "translations": {
+            "zh": "不客气。",
+            "en": "You're welcome.",
+            "es": "De nada."
+          },
+          "start": 75.84,
+          "end": 76.32
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Bonne soirée.",
+      "translations": {
+        "zh": "晚上愉快。",
+        "en": "Have a good evening.",
+        "es": "Buenas noches."
+      },
+      "start": 76.96,
+      "end": 77.6,
+      "words": [
+        {
+          "text": "Bonne",
+          "start": 76.96,
+          "end": 77.12
+        },
+        {
+          "text": "soirée",
+          "start": 77.12,
+          "end": 77.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonne soirée.",
+          "translations": {
+            "zh": "晚上愉快。",
+            "en": "Have a good evening.",
+            "es": "Buenas noches."
+          },
+          "start": 76.96,
+          "end": 77.6
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP07_P33",
+  "audio_filename": "FLS2_EP07_P33.mp3",
+  "audio_path": "downloads/FLS2_EP07_P33.mp3",
+  "episode": 7,
+  "piste": 33,
+  "page": 62,
+  "cd": "CD1"
+}

@@ -192,6 +192,72 @@
           "data": "/data/FLS2_EP05_P26.final.json"
         }
       ]
+    },
+    {
+      "id": 6,
+      "pistes": [
+        {
+          "episode": 6,
+          "piste": 27,
+          "title": "Piste 27",
+          "audio": "/audio/FLS2_EP06_P27.mp3",
+          "data": "/data/FLS2_EP06_P27.final.json"
+        },
+        {
+          "episode": 6,
+          "piste": 28,
+          "title": "Piste 28",
+          "audio": "/audio/FLS2_EP06_P28.mp3",
+          "data": "/data/FLS2_EP06_P28.final.json"
+        },
+        {
+          "episode": 6,
+          "piste": 29,
+          "title": "Piste 29",
+          "audio": "/audio/FLS2_EP06_P29.mp3",
+          "data": "/data/FLS2_EP06_P29.final.json"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "pistes": [
+        {
+          "episode": 7,
+          "piste": 30,
+          "title": "Piste 30",
+          "audio": "/audio/FLS2_EP07_P30.mp3",
+          "data": "/data/FLS2_EP07_P30.final.json"
+        },
+        {
+          "episode": 7,
+          "piste": 31,
+          "title": "Piste 31",
+          "audio": "/audio/FLS2_EP07_P31.mp3",
+          "data": "/data/FLS2_EP07_P31.final.json"
+        },
+        {
+          "episode": 7,
+          "piste": 32,
+          "title": "Piste 32",
+          "audio": "/audio/FLS2_EP07_P32.mp3",
+          "data": "/data/FLS2_EP07_P32.final.json"
+        },
+        {
+          "episode": 7,
+          "piste": 33,
+          "title": "Piste 33",
+          "audio": "/audio/FLS2_EP07_P33.mp3",
+          "data": "/data/FLS2_EP07_P33.final.json"
+        },
+        {
+          "episode": 7,
+          "piste": 34,
+          "title": "Piste 34",
+          "audio": "/audio/FLS2_EP07_P34.mp3",
+          "data": "/data/FLS2_EP07_P34.final.json"
+        }
+      ]
     }
   ]
 }

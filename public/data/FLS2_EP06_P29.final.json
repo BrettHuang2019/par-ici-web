@@ -1,0 +1,1501 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 6 Piste 29 Page 52",
+      "translations": {
+        "zh": "第六集 第29轨 第52页",
+        "en": "Episode 6 Track 29 Page 52",
+        "es": "Episodio 6 Pista 29 Página 52"
+      },
+      "start": 0.64,
+      "end": 7.92,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.64,
+          "end": 1.36
+        },
+        {
+          "text": "6",
+          "start": 1.68,
+          "end": 2.24
+        },
+        {
+          "text": "Piste",
+          "start": 2.96,
+          "end": 3.44
+        },
+        {
+          "text": "29",
+          "start": 4.08,
+          "end": 4.88
+        },
+        {
+          "text": "Page",
+          "start": 6.48,
+          "end": 6.96
+        },
+        {
+          "text": "52",
+          "start": 7.12,
+          "end": 7.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 6",
+          "translations": {
+            "zh": "第六集",
+            "en": "Episode 6",
+            "es": "Episodio 6"
+          },
+          "start": 0.64,
+          "end": 2.24
+        },
+        {
+          "text": "Piste 29",
+          "translations": {
+            "zh": "第29轨",
+            "en": "Track 29",
+            "es": "Pista 29"
+          },
+          "start": 2.96,
+          "end": 4.88
+        },
+        {
+          "text": "Page 52",
+          "translations": {
+            "zh": "第52页",
+            "en": "Page 52",
+            "es": "Página 52"
+          },
+          "start": 6.48,
+          "end": 7.92
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Le mégaprocès de cinq personnes accusées de fraude contre le ministère de la Santé débutera demain à Montréal.",
+      "translations": {
+        "zh": "五名被控对卫生部实施欺诈的人的超级审判将于明日在蒙特利尔开庭。",
+        "en": "The mega-trial of five people accused of fraud against the Ministry of Health will begin tomorrow in Montreal.",
+        "es": "El megaproceso de cinco personas acusadas de fraude contra el ministerio de Salud comenzará mañana en Montreal."
+      },
+      "start": 7.92,
+      "end": 17.12,
+      "words": [
+        {
+          "text": "Le",
+          "start": 7.92,
+          "end": 7.92
+        },
+        {
+          "text": "mégaprocès",
+          "start": 11.04,
+          "end": 12.0
+        },
+        {
+          "text": "de",
+          "start": 12.0,
+          "end": 12.16
+        },
+        {
+          "text": "cinq",
+          "start": 12.16,
+          "end": 12.4
+        },
+        {
+          "text": "personnes",
+          "start": 12.4,
+          "end": 12.8
+        },
+        {
+          "text": "accusées",
+          "start": 12.8,
+          "end": 13.2
+        },
+        {
+          "text": "de",
+          "start": 13.2,
+          "end": 13.28
+        },
+        {
+          "text": "fraude",
+          "start": 13.36,
+          "end": 13.68
+        },
+        {
+          "text": "contre",
+          "start": 13.68,
+          "end": 14.0
+        },
+        {
+          "text": "le",
+          "start": 14.0,
+          "end": 14.08
+        },
+        {
+          "text": "ministère",
+          "start": 14.08,
+          "end": 14.64
+        },
+        {
+          "text": "de",
+          "start": 14.64,
+          "end": 14.72
+        },
+        {
+          "text": "la",
+          "start": 14.72,
+          "end": 14.8
+        },
+        {
+          "text": "Santé",
+          "start": 14.8,
+          "end": 15.36
+        },
+        {
+          "text": "débutera",
+          "start": 15.36,
+          "end": 15.84
+        },
+        {
+          "text": "demain",
+          "start": 15.84,
+          "end": 16.32
+        },
+        {
+          "text": "à",
+          "start": 16.48,
+          "end": 16.56
+        },
+        {
+          "text": "Montréal",
+          "start": 16.56,
+          "end": 17.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le mégaprocès de cinq personnes accusées de fraude contre le ministère de la Santé",
+          "translations": {
+            "zh": "五名被控对卫生部实施欺诈的人的超级审判",
+            "en": "The mega-trial of five people accused of fraud against the Ministry of Health",
+            "es": "El megaproceso de cinco personas acusadas de fraude contra el ministerio de Salud"
+          },
+          "start": 7.92,
+          "end": 15.36
+        },
+        {
+          "text": "débutera demain à Montréal.",
+          "translations": {
+            "zh": "将于明日在蒙特利尔开庭。",
+            "en": "will begin tomorrow in Montreal.",
+            "es": "comenzará mañana en Montreal."
+          },
+          "start": 15.36,
+          "end": 17.12
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Les cinq individus ont été arrêtés par les policiers en mai dernier, après avoir fait l'objet d'une longue et délicate enquête.",
+      "translations": {
+        "zh": "这五人于去年五月被警方逮捕，此前他们经历了一项漫长而复杂的调查。",
+        "en": "The five individuals were arrested by the police last May, after being the subject of a long and delicate investigation.",
+        "es": "Los cinco individuos fueron arrestados por la policía en mayo pasado, tras haber sido objeto de una larga y delicada investigación."
+      },
+      "start": 17.44,
+      "end": 23.44,
+      "words": [
+        {
+          "text": "Les",
+          "start": 17.44,
+          "end": 17.6
+        },
+        {
+          "text": "cinq",
+          "start": 17.6,
+          "end": 17.84
+        },
+        {
+          "text": "individus",
+          "start": 17.84,
+          "end": 18.4
+        },
+        {
+          "text": "ont",
+          "start": 18.4,
+          "end": 18.48
+        },
+        {
+          "text": "été",
+          "start": 18.48,
+          "end": 18.72
+        },
+        {
+          "text": "arrêtés",
+          "start": 18.72,
+          "end": 19.04
+        },
+        {
+          "text": "par",
+          "start": 19.04,
+          "end": 19.2
+        },
+        {
+          "text": "les",
+          "start": 19.2,
+          "end": 19.28
+        },
+        {
+          "text": "policiers",
+          "start": 19.28,
+          "end": 19.84
+        },
+        {
+          "text": "en",
+          "start": 19.84,
+          "end": 19.92
+        },
+        {
+          "text": "mai",
+          "start": 19.92,
+          "end": 20.08
+        },
+        {
+          "text": "dernier",
+          "start": 20.08,
+          "end": 20.64
+        },
+        {
+          "text": "après",
+          "start": 20.72,
+          "end": 20.96
+        },
+        {
+          "text": "avoir",
+          "start": 20.96,
+          "end": 21.2
+        },
+        {
+          "text": "fait",
+          "start": 21.2,
+          "end": 21.36
+        },
+        {
+          "text": "l'objet",
+          "start": 21.36,
+          "end": 21.68
+        },
+        {
+          "text": "d'une",
+          "start": 21.68,
+          "end": 21.92
+        },
+        {
+          "text": "longue",
+          "start": 21.92,
+          "end": 22.24
+        },
+        {
+          "text": "et",
+          "start": 22.24,
+          "end": 22.32
+        },
+        {
+          "text": "délicate",
+          "start": 22.32,
+          "end": 22.88
+        },
+        {
+          "text": "enquête",
+          "start": 22.88,
+          "end": 23.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les cinq individus ont été arrêtés par les policiers en mai dernier,",
+          "translations": {
+            "zh": "这五人于去年五月被警方逮捕，",
+            "en": "The five individuals were arrested by the police last May,",
+            "es": "Los cinco individuos fueron arrestados por la policía en mayo pasado,"
+          },
+          "start": 17.44,
+          "end": 20.64
+        },
+        {
+          "text": "après avoir fait l'objet d'une longue et délicate enquête.",
+          "translations": {
+            "zh": "此前他们经历了一项漫长而复杂的调查。",
+            "en": "after being the subject of a long and delicate investigation.",
+            "es": "tras haber sido objeto de una larga y delicada investigación."
+          },
+          "start": 20.72,
+          "end": 23.44
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Ils sont entre autres accusés d'avoir fabriqué de fausses cartes d'assurance maladie.",
+      "translations": {
+        "zh": "他们除其他指控外还被控告制造了虚假的医疗保险卡。",
+        "en": "They are among other things accused of having fabricated false health insurance cards.",
+        "es": "Se les acusa, entre otras cosas, de haber fabricado falsas tarjetas de seguro de enfermedad."
+      },
+      "start": 23.76,
+      "end": 27.44,
+      "words": [
+        {
+          "text": "Ils",
+          "start": 23.76,
+          "end": 23.92
+        },
+        {
+          "text": "sont",
+          "start": 23.92,
+          "end": 24.08
+        },
+        {
+          "text": "entre",
+          "start": 24.16,
+          "end": 24.4
+        },
+        {
+          "text": "autres",
+          "start": 24.4,
+          "end": 24.56
+        },
+        {
+          "text": "accusés",
+          "start": 24.56,
+          "end": 24.96
+        },
+        {
+          "text": "d'avoir",
+          "start": 24.96,
+          "end": 25.28
+        },
+        {
+          "text": "fabriqué",
+          "start": 25.28,
+          "end": 25.76
+        },
+        {
+          "text": "de",
+          "start": 25.76,
+          "end": 25.84
+        },
+        {
+          "text": "fausses",
+          "start": 25.84,
+          "end": 26.16
+        },
+        {
+          "text": "cartes",
+          "start": 26.16,
+          "end": 26.48
+        },
+        {
+          "text": "d'assurance",
+          "start": 26.48,
+          "end": 27.04
+        },
+        {
+          "text": "maladie",
+          "start": 27.04,
+          "end": 27.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ils sont entre autres accusés",
+          "translations": {
+            "zh": "他们除其他指控外还被控告",
+            "en": "They are among other things accused",
+            "es": "Se les acusa, entre otras cosas,"
+          },
+          "start": 23.76,
+          "end": 24.96
+        },
+        {
+          "text": "d'avoir fabriqué de fausses cartes d'assurance maladie.",
+          "translations": {
+            "zh": "制造了虚假的医疗保险卡。",
+            "en": "of having fabricated false health insurance cards.",
+            "es": "de haber fabricado falsas tarjetas de seguro de enfermedad."
+          },
+          "start": 24.96,
+          "end": 27.44
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "La vague de froid de la semaine dernière provoque de nombreux bris de canalisations au Québec.",
+      "translations": {
+        "zh": "上周的寒潮在魁北克造成了大量管道破裂。",
+        "en": "Last week's cold snap is causing numerous pipe breaks in Quebec.",
+        "es": "La ola de frío de la semana pasada provoca numerosas roturas de tuberías en Quebec."
+      },
+      "start": 29.36,
+      "end": 36.16,
+      "words": [
+        {
+          "text": "La",
+          "start": 29.36,
+          "end": 31.76
+        },
+        {
+          "text": "vague",
+          "start": 31.76,
+          "end": 31.92
+        },
+        {
+          "text": "de",
+          "start": 31.92,
+          "end": 32.08
+        },
+        {
+          "text": "froid",
+          "start": 32.08,
+          "end": 32.24
+        },
+        {
+          "text": "de",
+          "start": 32.24,
+          "end": 32.32
+        },
+        {
+          "text": "la",
+          "start": 32.32,
+          "end": 32.48
+        },
+        {
+          "text": "semaine",
+          "start": 32.48,
+          "end": 32.72
+        },
+        {
+          "text": "dernière",
+          "start": 32.72,
+          "end": 33.2
+        },
+        {
+          "text": "provoque",
+          "start": 33.2,
+          "end": 33.6
+        },
+        {
+          "text": "de",
+          "start": 33.6,
+          "end": 33.68
+        },
+        {
+          "text": "nombreux",
+          "start": 33.68,
+          "end": 34.16
+        },
+        {
+          "text": "bris",
+          "start": 34.16,
+          "end": 34.48
+        },
+        {
+          "text": "de",
+          "start": 34.48,
+          "end": 34.56
+        },
+        {
+          "text": "canalisations",
+          "start": 34.56,
+          "end": 35.52
+        },
+        {
+          "text": "au",
+          "start": 35.52,
+          "end": 35.6
+        },
+        {
+          "text": "Québec",
+          "start": 35.6,
+          "end": 36.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La vague de froid de la semaine dernière",
+          "translations": {
+            "zh": "上周的寒潮",
+            "en": "Last week's cold snap",
+            "es": "La ola de frío de la semana pasada"
+          },
+          "start": 29.36,
+          "end": 33.2
+        },
+        {
+          "text": "provoque de nombreux bris de canalisations au Québec.",
+          "translations": {
+            "zh": "在魁北克造成了大量管道破裂。",
+            "en": "is causing numerous pipe breaks in Quebec.",
+            "es": "provoca numerosas roturas de tuberías en Quebec."
+          },
+          "start": 33.2,
+          "end": 36.16
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Ce matin, c'est à Laval qu'une conduite d'eau s'est rompue.",
+      "translations": {
+        "zh": "今天早上，正是在拉瓦尔市一根水管破裂了。",
+        "en": "This morning, it was in Laval that a water pipe burst.",
+        "es": "Esta mañana, fue en Laval donde se rompió una tubería de agua."
+      },
+      "start": 36.4,
+      "end": 39.36,
+      "words": [
+        {
+          "text": "Ce",
+          "start": 36.4,
+          "end": 36.56
+        },
+        {
+          "text": "matin",
+          "start": 36.56,
+          "end": 37.04
+        },
+        {
+          "text": "c'est",
+          "start": 37.12,
+          "end": 37.36
+        },
+        {
+          "text": "à",
+          "start": 37.36,
+          "end": 37.44
+        },
+        {
+          "text": "Laval",
+          "start": 37.44,
+          "end": 37.92
+        },
+        {
+          "text": "qu'une",
+          "start": 37.92,
+          "end": 38.16
+        },
+        {
+          "text": "conduite",
+          "start": 38.16,
+          "end": 38.56
+        },
+        {
+          "text": "d'eau",
+          "start": 38.56,
+          "end": 38.72
+        },
+        {
+          "text": "s'est",
+          "start": 38.72,
+          "end": 38.88
+        },
+        {
+          "text": "rompue",
+          "start": 38.88,
+          "end": 39.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ce matin,",
+          "translations": {
+            "zh": "今天早上，",
+            "en": "This morning,",
+            "es": "Esta mañana,"
+          },
+          "start": 36.4,
+          "end": 37.04
+        },
+        {
+          "text": "c'est à Laval qu'une conduite d'eau s'est rompue.",
+          "translations": {
+            "zh": "正是在拉瓦尔市一根水管破裂了。",
+            "en": "it was in Laval that a water pipe burst.",
+            "es": "fue en Laval donde se rompió una tubería de agua."
+          },
+          "start": 37.12,
+          "end": 39.36
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Les grandes quantités d'eau qui se sont déversées sur la route ont forcé la fermeture du boulevard Dumont entre les rues Lessieurs et Pariseau.",
+      "translations": {
+        "zh": "大量涌入路面的水迫使杜蒙大道在勒西厄街和帕里佐街之间关闭。",
+        "en": "The large quantities of water that poured onto the road forced the closure of Boulevard Dumont between Lessieurs and Pariseau Streets.",
+        "es": "Las grandes cantidades de agua que se derramaron sobre la carretera obligaron al cierre del bulevar Dumont entre las calles Lessieurs y Pariseau."
+      },
+      "start": 39.76,
+      "end": 46.96,
+      "words": [
+        {
+          "text": "Les",
+          "start": 39.76,
+          "end": 39.92
+        },
+        {
+          "text": "grandes",
+          "start": 39.92,
+          "end": 40.24
+        },
+        {
+          "text": "quantités",
+          "start": 40.24,
+          "end": 40.72
+        },
+        {
+          "text": "d'eau",
+          "start": 40.72,
+          "end": 40.96
+        },
+        {
+          "text": "qui",
+          "start": 40.96,
+          "end": 41.12
+        },
+        {
+          "text": "se",
+          "start": 41.12,
+          "end": 41.28
+        },
+        {
+          "text": "sont",
+          "start": 41.28,
+          "end": 41.44
+        },
+        {
+          "text": "déversées",
+          "start": 41.44,
+          "end": 41.92
+        },
+        {
+          "text": "sur",
+          "start": 41.92,
+          "end": 42.08
+        },
+        {
+          "text": "la",
+          "start": 42.08,
+          "end": 42.24
+        },
+        {
+          "text": "route",
+          "start": 42.24,
+          "end": 42.64
+        },
+        {
+          "text": "ont",
+          "start": 42.72,
+          "end": 42.8
+        },
+        {
+          "text": "forcé",
+          "start": 42.8,
+          "end": 43.2
+        },
+        {
+          "text": "la",
+          "start": 43.2,
+          "end": 43.36
+        },
+        {
+          "text": "fermeture",
+          "start": 43.36,
+          "end": 43.92
+        },
+        {
+          "text": "du",
+          "start": 43.92,
+          "end": 44.08
+        },
+        {
+          "text": "boulevard",
+          "start": 44.08,
+          "end": 44.56
+        },
+        {
+          "text": "Dumont",
+          "start": 44.56,
+          "end": 44.96
+        },
+        {
+          "text": "entre",
+          "start": 45.04,
+          "end": 45.28
+        },
+        {
+          "text": "les",
+          "start": 45.28,
+          "end": 45.44
+        },
+        {
+          "text": "rues",
+          "start": 45.44,
+          "end": 45.6
+        },
+        {
+          "text": "Lessieurs",
+          "start": 45.6,
+          "end": 46.16
+        },
+        {
+          "text": "et",
+          "start": 46.32,
+          "end": 46.4
+        },
+        {
+          "text": "Pariseau",
+          "start": 46.4,
+          "end": 46.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les grandes quantités d'eau qui se sont déversées sur la route",
+          "translations": {
+            "zh": "大量涌入路面的水",
+            "en": "The large quantities of water that poured onto the road",
+            "es": "Las grandes cantidades de agua que se derramaron sobre la carretera"
+          },
+          "start": 39.76,
+          "end": 42.64
+        },
+        {
+          "text": "ont forcé la fermeture du boulevard Dumont",
+          "translations": {
+            "zh": "迫使杜蒙大道关闭",
+            "en": "forced the closure of Boulevard Dumont",
+            "es": "obligaron al cierre del bulevar Dumont"
+          },
+          "start": 42.72,
+          "end": 44.96
+        },
+        {
+          "text": "entre les rues Lessieurs et Pariseau.",
+          "translations": {
+            "zh": "在勒西厄街和帕里佐街之间。",
+            "en": "between Lessieurs and Pariseau Streets.",
+            "es": "entre las calles Lessieurs y Pariseau."
+          },
+          "start": 45.04,
+          "end": 46.96
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Des ouvriers s'affairent à réparer la canalisation.",
+      "translations": {
+        "zh": "工人们正忙着修理管道。",
+        "en": "Workers are busy repairing the pipe.",
+        "es": "Unos obreros se afanan en reparar la tubería."
+      },
+      "start": 47.28,
+      "end": 50.0,
+      "words": [
+        {
+          "text": "Des",
+          "start": 47.28,
+          "end": 47.52
+        },
+        {
+          "text": "ouvriers",
+          "start": 47.52,
+          "end": 47.92
+        },
+        {
+          "text": "s'affairent",
+          "start": 47.92,
+          "end": 48.48
+        },
+        {
+          "text": "à",
+          "start": 48.48,
+          "end": 48.56
+        },
+        {
+          "text": "réparer",
+          "start": 48.56,
+          "end": 49.04
+        },
+        {
+          "text": "la",
+          "start": 49.04,
+          "end": 49.12
+        },
+        {
+          "text": "canalisation",
+          "start": 49.12,
+          "end": 50.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Des ouvriers s'affairent à réparer la canalisation.",
+          "translations": {
+            "zh": "工人们正忙着修理管道。",
+            "en": "Workers are busy repairing the pipe.",
+            "es": "Unos obreros se afanan en reparar la tubería."
+          },
+          "start": 47.28,
+          "end": 50.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Une importante fuite de gaz a eu lieu hier soir au centre-ville de Trois-Rivières, à l'intersection des rues Saint-Olivier et Radisson.",
+      "translations": {
+        "zh": "昨晚在三河市中心圣奥利维耶街和拉迪松街的交叉口发生了一起严重的天然气泄漏。",
+        "en": "A major gas leak occurred yesterday evening in downtown Trois-Rivières, at the intersection of Saint-Olivier and Radisson Streets.",
+        "es": "Una importante fuga de gas ocurrió ayer por la tarde en el centro de Trois-Rivières, en la intersección de las calles Saint-Olivier y Radisson."
+      },
+      "start": 54.72,
+      "end": 62.16,
+      "words": [
+        {
+          "text": "Une",
+          "start": 54.72,
+          "end": 54.88
+        },
+        {
+          "text": "importante",
+          "start": 54.88,
+          "end": 55.44
+        },
+        {
+          "text": "fuite",
+          "start": 55.44,
+          "end": 55.68
+        },
+        {
+          "text": "de",
+          "start": 55.68,
+          "end": 55.76
+        },
+        {
+          "text": "gaz",
+          "start": 55.76,
+          "end": 56.16
+        },
+        {
+          "text": "a",
+          "start": 56.16,
+          "end": 56.32
+        },
+        {
+          "text": "eu",
+          "start": 56.32,
+          "end": 56.4
+        },
+        {
+          "text": "lieu",
+          "start": 56.4,
+          "end": 56.72
+        },
+        {
+          "text": "hier",
+          "start": 56.72,
+          "end": 57.04
+        },
+        {
+          "text": "soir",
+          "start": 57.04,
+          "end": 57.52
+        },
+        {
+          "text": "au",
+          "start": 57.52,
+          "end": 57.6
+        },
+        {
+          "text": "centre",
+          "start": 57.6,
+          "end": 57.92
+        },
+        {
+          "text": "ville",
+          "start": 57.92,
+          "end": 58.16
+        },
+        {
+          "text": "de",
+          "start": 58.16,
+          "end": 58.32
+        },
+        {
+          "text": "Trois",
+          "start": 58.32,
+          "end": 58.56
+        },
+        {
+          "text": "Rivières",
+          "start": 58.56,
+          "end": 59.04
+        },
+        {
+          "text": "à",
+          "start": 59.36,
+          "end": 59.44
+        },
+        {
+          "text": "l'intersection",
+          "start": 59.44,
+          "end": 60.16
+        },
+        {
+          "text": "des",
+          "start": 60.16,
+          "end": 60.32
+        },
+        {
+          "text": "rues",
+          "start": 60.32,
+          "end": 60.48
+        },
+        {
+          "text": "Saint",
+          "start": 60.48,
+          "end": 60.72
+        },
+        {
+          "text": "Olivier",
+          "start": 60.8,
+          "end": 61.28
+        },
+        {
+          "text": "et",
+          "start": 61.44,
+          "end": 61.6
+        },
+        {
+          "text": "Radisson",
+          "start": 61.6,
+          "end": 62.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Une importante fuite de gaz a eu lieu hier soir",
+          "translations": {
+            "zh": "昨晚发生了一起严重的天然气泄漏",
+            "en": "A major gas leak occurred yesterday evening",
+            "es": "Una importante fuga de gas ocurrió ayer por la tarde"
+          },
+          "start": 54.72,
+          "end": 57.52
+        },
+        {
+          "text": "au centre-ville de Trois-Rivières,",
+          "translations": {
+            "zh": "在三河市中心，",
+            "en": "in downtown Trois-Rivières,",
+            "es": "en el centro de Trois-Rivières,"
+          },
+          "start": 57.52,
+          "end": 59.04
+        },
+        {
+          "text": "à l'intersection des rues Saint-Olivier et Radisson.",
+          "translations": {
+            "zh": "在圣奥利维耶街和拉迪松街的交叉口。",
+            "en": "at the intersection of Saint-Olivier and Radisson Streets.",
+            "es": "en la intersección de las calles Saint-Olivier y Radisson."
+          },
+          "start": 59.36,
+          "end": 62.16
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Un large périmètre de sécurité a été établi et une vingtaine de personnes ont été évacuées.",
+      "translations": {
+        "zh": "一个大范围的安全警戒线已被设立，约二十人已被疏散。",
+        "en": "A large security perimeter was established and about twenty people were evacuated.",
+        "es": "Se estableció un amplio perímetro de seguridad y una veintena de personas fueron evacuadas."
+      },
+      "start": 62.56,
+      "end": 68.0,
+      "words": [
+        {
+          "text": "Un",
+          "start": 62.56,
+          "end": 62.72
+        },
+        {
+          "text": "large",
+          "start": 62.72,
+          "end": 63.04
+        },
+        {
+          "text": "périmètre",
+          "start": 63.12,
+          "end": 63.68
+        },
+        {
+          "text": "de",
+          "start": 63.68,
+          "end": 63.76
+        },
+        {
+          "text": "sécurité",
+          "start": 63.76,
+          "end": 64.32
+        },
+        {
+          "text": "a",
+          "start": 64.32,
+          "end": 64.48
+        },
+        {
+          "text": "été",
+          "start": 64.48,
+          "end": 64.8
+        },
+        {
+          "text": "établi",
+          "start": 64.8,
+          "end": 65.36
+        },
+        {
+          "text": "et",
+          "start": 65.68,
+          "end": 65.84
+        },
+        {
+          "text": "une",
+          "start": 65.84,
+          "end": 66.0
+        },
+        {
+          "text": "vingtaine",
+          "start": 66.0,
+          "end": 66.48
+        },
+        {
+          "text": "de",
+          "start": 66.48,
+          "end": 66.56
+        },
+        {
+          "text": "personnes",
+          "start": 66.56,
+          "end": 67.04
+        },
+        {
+          "text": "ont",
+          "start": 67.04,
+          "end": 67.12
+        },
+        {
+          "text": "été",
+          "start": 67.12,
+          "end": 67.52
+        },
+        {
+          "text": "évacuées",
+          "start": 67.52,
+          "end": 68.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Un large périmètre de sécurité a été établi",
+          "translations": {
+            "zh": "一个大范围的安全警戒线已被设立",
+            "en": "A large security perimeter was established",
+            "es": "Se estableció un amplio perímetro de seguridad"
+          },
+          "start": 62.56,
+          "end": 65.36
+        },
+        {
+          "text": "et une vingtaine de personnes ont été évacuées.",
+          "translations": {
+            "zh": "约二十人已被疏散。",
+            "en": "and about twenty people were evacuated.",
+            "es": "y una veintena de personas fueron evacuadas."
+          },
+          "start": 65.68,
+          "end": 68.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Le Service de police recommande aux citoyens d'éviter le secteur situé entre les rues des Forges et Bonaventure.",
+      "translations": {
+        "zh": "警察局建议市民避开位于福日街和博纳旺蒂尔街之间的区域。",
+        "en": "The police department recommends that citizens avoid the area located between des Forges and Bonaventure Streets.",
+        "es": "El Servicio de policía recomienda a los ciudadanos evitar el sector situado entre las calles des Forges y Bonaventure."
+      },
+      "start": 68.4,
+      "end": 74.72,
+      "words": [
+        {
+          "text": "Le",
+          "start": 68.4,
+          "end": 68.48
+        },
+        {
+          "text": "Service",
+          "start": 68.48,
+          "end": 68.96
+        },
+        {
+          "text": "de",
+          "start": 68.96,
+          "end": 69.04
+        },
+        {
+          "text": "police",
+          "start": 69.04,
+          "end": 69.36
+        },
+        {
+          "text": "recommande",
+          "start": 69.36,
+          "end": 69.92
+        },
+        {
+          "text": "aux",
+          "start": 69.92,
+          "end": 69.92
+        },
+        {
+          "text": "citoyens",
+          "start": 69.92,
+          "end": 70.48
+        },
+        {
+          "text": "d'éviter",
+          "start": 70.48,
+          "end": 71.04
+        },
+        {
+          "text": "le",
+          "start": 71.04,
+          "end": 71.12
+        },
+        {
+          "text": "secteur",
+          "start": 71.12,
+          "end": 71.68
+        },
+        {
+          "text": "situé",
+          "start": 71.68,
+          "end": 72.16
+        },
+        {
+          "text": "entre",
+          "start": 72.16,
+          "end": 72.4
+        },
+        {
+          "text": "les",
+          "start": 72.4,
+          "end": 72.56
+        },
+        {
+          "text": "rues",
+          "start": 72.56,
+          "end": 72.72
+        },
+        {
+          "text": "des",
+          "start": 72.72,
+          "end": 72.88
+        },
+        {
+          "text": "Forges",
+          "start": 72.88,
+          "end": 73.36
+        },
+        {
+          "text": "et",
+          "start": 73.68,
+          "end": 73.76
+        },
+        {
+          "text": "Bonaventure",
+          "start": 73.76,
+          "end": 74.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le Service de police recommande aux citoyens",
+          "translations": {
+            "zh": "警察局建议市民",
+            "en": "The police department recommends that citizens",
+            "es": "El Servicio de policía recomienda a los ciudadanos"
+          },
+          "start": 68.4,
+          "end": 70.48
+        },
+        {
+          "text": "d'éviter le secteur situé entre les rues des Forges et Bonaventure.",
+          "translations": {
+            "zh": "避开位于福日街和博纳旺蒂尔街之间的区域。",
+            "en": "avoid the area located between des Forges and Bonaventure Streets.",
+            "es": "evitar el sector situado entre las calles des Forges y Bonaventure."
+          },
+          "start": 70.48,
+          "end": 74.72
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Une équipe de Gaz Transport est sur place afin de colmater la fuite.",
+      "translations": {
+        "zh": "一支天然气运输公司的队伍已到达现场，以便堵住泄漏。",
+        "en": "A Gaz Transport team is on site in order to seal the leak.",
+        "es": "Un equipo de Gaz Transport está en el lugar para taponar la fuga."
+      },
+      "start": 75.12,
+      "end": 79.2,
+      "words": [
+        {
+          "text": "Une",
+          "start": 75.12,
+          "end": 75.28
+        },
+        {
+          "text": "équipe",
+          "start": 75.28,
+          "end": 75.6
+        },
+        {
+          "text": "de",
+          "start": 75.6,
+          "end": 75.76
+        },
+        {
+          "text": "Gaz",
+          "start": 75.76,
+          "end": 76.08
+        },
+        {
+          "text": "Transport",
+          "start": 76.08,
+          "end": 76.64
+        },
+        {
+          "text": "est",
+          "start": 76.72,
+          "end": 76.88
+        },
+        {
+          "text": "sur",
+          "start": 76.88,
+          "end": 77.12
+        },
+        {
+          "text": "place",
+          "start": 77.12,
+          "end": 77.52
+        },
+        {
+          "text": "afin",
+          "start": 77.76,
+          "end": 78.08
+        },
+        {
+          "text": "de",
+          "start": 78.08,
+          "end": 78.16
+        },
+        {
+          "text": "colmater",
+          "start": 78.16,
+          "end": 78.72
+        },
+        {
+          "text": "la",
+          "start": 78.72,
+          "end": 78.8
+        },
+        {
+          "text": "fuite",
+          "start": 78.8,
+          "end": 79.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Une équipe de Gaz Transport est sur place",
+          "translations": {
+            "zh": "一支天然气运输公司的队伍已到达现场",
+            "en": "A Gaz Transport team is on site",
+            "es": "Un equipo de Gaz Transport está en el lugar"
+          },
+          "start": 75.12,
+          "end": 77.52
+        },
+        {
+          "text": "afin de colmater la fuite.",
+          "translations": {
+            "zh": "以便堵住泄漏。",
+            "en": "in order to seal the leak.",
+            "es": "para taponar la fuga."
+          },
+          "start": 77.76,
+          "end": 79.2
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Cela devrait prendre un bon moment, car l'intersection doit être excavée.",
+      "translations": {
+        "zh": "这应该需要相当长的时间，因为十字路口需要被开挖。",
+        "en": "This should take a good while, as the intersection must be excavated.",
+        "es": "Eso debería llevar un buen rato, ya que la intersección debe ser excavada."
+      },
+      "start": 79.68,
+      "end": 83.52,
+      "words": [
+        {
+          "text": "Cela",
+          "start": 79.68,
+          "end": 80.0
+        },
+        {
+          "text": "devrait",
+          "start": 80.0,
+          "end": 80.32
+        },
+        {
+          "text": "prendre",
+          "start": 80.32,
+          "end": 80.64
+        },
+        {
+          "text": "un",
+          "start": 80.64,
+          "end": 80.8
+        },
+        {
+          "text": "bon",
+          "start": 80.8,
+          "end": 80.96
+        },
+        {
+          "text": "moment",
+          "start": 80.96,
+          "end": 81.36
+        },
+        {
+          "text": "car",
+          "start": 81.52,
+          "end": 81.68
+        },
+        {
+          "text": "l'intersection",
+          "start": 81.68,
+          "end": 82.48
+        },
+        {
+          "text": "doit",
+          "start": 82.48,
+          "end": 82.64
+        },
+        {
+          "text": "être",
+          "start": 82.72,
+          "end": 82.88
+        },
+        {
+          "text": "excavée",
+          "start": 82.88,
+          "end": 83.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Cela devrait prendre un bon moment,",
+          "translations": {
+            "zh": "这应该需要相当长的时间，",
+            "en": "This should take a good while,",
+            "es": "Eso debería llevar un buen rato,"
+          },
+          "start": 79.68,
+          "end": 81.36
+        },
+        {
+          "text": "car l'intersection doit être excavée.",
+          "translations": {
+            "zh": "因为十字路口需要被开挖。",
+            "en": "as the intersection must be excavated.",
+            "es": "ya que la intersección debe ser excavada."
+          },
+          "start": 81.52,
+          "end": 83.52
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "ÉPISODE 7",
+      "translations": {
+        "zh": "第七集",
+        "en": "EPISODE 7",
+        "es": "EPISODIO 7"
+      },
+      "start": 85.92,
+      "end": 86.8,
+      "words": [
+        {
+          "text": "ÉPISODE",
+          "start": 85.92,
+          "end": 85.92
+        },
+        {
+          "text": "7",
+          "start": 85.92,
+          "end": 86.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "ÉPISODE 7",
+          "translations": {
+            "zh": "第七集",
+            "en": "EPISODE 7",
+            "es": "EPISODIO 7"
+          },
+          "start": 85.92,
+          "end": 86.8
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP06_P29",
+  "audio_filename": "FLS2_EP06_P29.mp3",
+  "audio_path": "downloads/FLS2_EP06_P29.mp3",
+  "episode": 6,
+  "piste": 29,
+  "page": 52,
+  "cd": "CD1"
+}

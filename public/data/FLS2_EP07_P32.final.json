@@ -1,0 +1,1086 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 7 Piste 32 Page 61",
+      "translations": {
+        "zh": "第7集 第32段 第61页",
+        "en": "Episode 7 Track 32 Page 61",
+        "es": "Episodio 7 Pista 32 Página 61"
+      },
+      "start": 0.72,
+      "end": 8.08,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.72,
+          "end": 1.44
+        },
+        {
+          "text": "7",
+          "start": 1.84,
+          "end": 2.16
+        },
+        {
+          "text": "Piste",
+          "start": 3.12,
+          "end": 3.6
+        },
+        {
+          "text": "32",
+          "start": 4.16,
+          "end": 4.64
+        },
+        {
+          "text": "Page",
+          "start": 4.64,
+          "end": 4.72
+        },
+        {
+          "text": "61",
+          "start": 7.28,
+          "end": 8.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 7",
+          "translations": {
+            "zh": "第7集",
+            "en": "Episode 7",
+            "es": "Episodio 7"
+          },
+          "start": 0.72,
+          "end": 2.16
+        },
+        {
+          "text": "Piste 32",
+          "translations": {
+            "zh": "第32段",
+            "en": "Track 32",
+            "es": "Pista 32"
+          },
+          "start": 3.12,
+          "end": 4.64
+        },
+        {
+          "text": "Page 61",
+          "translations": {
+            "zh": "第61页",
+            "en": "Page 61",
+            "es": "Página 61"
+          },
+          "start": 4.64,
+          "end": 8.08
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "J'ai appris que votre fils a gagné la médaille d'or en ski.",
+      "translations": {
+        "zh": "我听说您儿子在滑雪项目中获得了金牌。",
+        "en": "I learned that your son won the gold medal in skiing.",
+        "es": "Me enteré de que su hijo ganó la medalla de oro en esquí."
+      },
+      "start": 10.24,
+      "end": 12.48,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 10.24,
+          "end": 10.4
+        },
+        {
+          "text": "appris",
+          "start": 10.4,
+          "end": 10.72
+        },
+        {
+          "text": "que",
+          "start": 10.72,
+          "end": 10.8
+        },
+        {
+          "text": "votre",
+          "start": 10.8,
+          "end": 10.88
+        },
+        {
+          "text": "fils",
+          "start": 10.88,
+          "end": 11.12
+        },
+        {
+          "text": "a",
+          "start": 11.12,
+          "end": 11.2
+        },
+        {
+          "text": "gagné",
+          "start": 11.2,
+          "end": 11.52
+        },
+        {
+          "text": "la",
+          "start": 11.52,
+          "end": 11.6
+        },
+        {
+          "text": "médaille",
+          "start": 11.6,
+          "end": 11.92
+        },
+        {
+          "text": "d'or",
+          "start": 11.92,
+          "end": 12.16
+        },
+        {
+          "text": "en",
+          "start": 12.16,
+          "end": 12.16
+        },
+        {
+          "text": "ski",
+          "start": 12.16,
+          "end": 12.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai appris que",
+          "translations": {
+            "zh": "我听说",
+            "en": "I learned that",
+            "es": "Me enteré de que"
+          },
+          "start": 10.24,
+          "end": 10.8
+        },
+        {
+          "text": "votre fils a gagné la médaille d'or",
+          "translations": {
+            "zh": "您儿子获得了金牌",
+            "en": "your son won the gold medal",
+            "es": "su hijo ganó la medalla de oro"
+          },
+          "start": 10.8,
+          "end": 12.16
+        },
+        {
+          "text": "en ski.",
+          "translations": {
+            "zh": "在滑雪项目中。",
+            "en": "in skiing.",
+            "es": "en esquí."
+          },
+          "start": 12.16,
+          "end": 12.48
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Vous lui direz qu'on est très fiers de lui !",
+      "translations": {
+        "zh": "请您告诉他我们为他感到非常骄傲！",
+        "en": "You will tell him that we are very proud of him!",
+        "es": "¡Le dirá que estamos muy orgullosos de él!"
+      },
+      "start": 12.8,
+      "end": 14.4,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 12.8,
+          "end": 12.96
+        },
+        {
+          "text": "lui",
+          "start": 12.96,
+          "end": 13.12
+        },
+        {
+          "text": "direz",
+          "start": 13.12,
+          "end": 13.44
+        },
+        {
+          "text": "qu'on",
+          "start": 13.44,
+          "end": 13.6
+        },
+        {
+          "text": "est",
+          "start": 13.6,
+          "end": 13.68
+        },
+        {
+          "text": "très",
+          "start": 13.68,
+          "end": 13.84
+        },
+        {
+          "text": "fiers",
+          "start": 13.84,
+          "end": 14.08
+        },
+        {
+          "text": "de",
+          "start": 14.08,
+          "end": 14.4
+        },
+        {
+          "text": "lui",
+          "start": 14.4,
+          "end": 14.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous lui direz",
+          "translations": {
+            "zh": "请您告诉他",
+            "en": "You will tell him",
+            "es": "Le dirá"
+          },
+          "start": 12.8,
+          "end": 13.44
+        },
+        {
+          "text": "qu'on est très fiers de lui !",
+          "translations": {
+            "zh": "我们为他感到非常骄傲！",
+            "en": "that we are very proud of him!",
+            "es": "que estamos muy orgullosos de él!"
+          },
+          "start": 13.44,
+          "end": 14.4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Ta sœur et son chum ont eu leur bébé ?",
+      "translations": {
+        "zh": "你姐姐和她男朋友生宝宝了吗？",
+        "en": "Your sister and her boyfriend had their baby?",
+        "es": "¿Tu hermana y su novio han tenido a su bebé?"
+      },
+      "start": 17.92,
+      "end": 19.52,
+      "words": [
+        {
+          "text": "Ta",
+          "start": 17.92,
+          "end": 18.08
+        },
+        {
+          "text": "sœur",
+          "start": 18.08,
+          "end": 18.32
+        },
+        {
+          "text": "et",
+          "start": 18.32,
+          "end": 18.4
+        },
+        {
+          "text": "son",
+          "start": 18.4,
+          "end": 18.56
+        },
+        {
+          "text": "chum",
+          "start": 18.56,
+          "end": 18.88
+        },
+        {
+          "text": "ont",
+          "start": 18.88,
+          "end": 18.96
+        },
+        {
+          "text": "eu",
+          "start": 18.96,
+          "end": 19.04
+        },
+        {
+          "text": "leur",
+          "start": 19.04,
+          "end": 19.2
+        },
+        {
+          "text": "bébé",
+          "start": 19.2,
+          "end": 19.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ta sœur et son chum",
+          "translations": {
+            "zh": "你姐姐和她男朋友",
+            "en": "Your sister and her boyfriend",
+            "es": "Tu hermana y su novio"
+          },
+          "start": 17.92,
+          "end": 18.88
+        },
+        {
+          "text": "ont eu leur bébé ?",
+          "translations": {
+            "zh": "生宝宝了吗？",
+            "en": "had their baby?",
+            "es": "han tenido a su bebé?"
+          },
+          "start": 18.88,
+          "end": 19.52
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Tu les féliciteras de ma part !",
+      "translations": {
+        "zh": "请你代我向他们表示祝贺！",
+        "en": "You will congratulate them on my behalf!",
+        "es": "¡Los felicitarás de mi parte!"
+      },
+      "start": 19.92,
+      "end": 21.2,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 19.92,
+          "end": 20.08
+        },
+        {
+          "text": "les",
+          "start": 20.08,
+          "end": 20.16
+        },
+        {
+          "text": "féliciteras",
+          "start": 20.16,
+          "end": 20.64
+        },
+        {
+          "text": "de",
+          "start": 20.64,
+          "end": 20.72
+        },
+        {
+          "text": "ma",
+          "start": 20.72,
+          "end": 20.88
+        },
+        {
+          "text": "part",
+          "start": 20.88,
+          "end": 21.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu les féliciteras",
+          "translations": {
+            "zh": "请你祝贺他们",
+            "en": "You will congratulate them",
+            "es": "Los felicitarás"
+          },
+          "start": 19.92,
+          "end": 20.64
+        },
+        {
+          "text": "de ma part !",
+          "translations": {
+            "zh": "代我！",
+            "en": "on my behalf!",
+            "es": "de mi parte!"
+          },
+          "start": 20.64,
+          "end": 21.2
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Mon frère a finalement trouvé du travail.",
+      "translations": {
+        "zh": "我哥哥终于找到工作了。",
+        "en": "My brother finally found work.",
+        "es": "Mi hermano finalmente ha encontrado trabajo."
+      },
+      "start": 25.36,
+      "end": 27.36,
+      "words": [
+        {
+          "text": "Mon",
+          "start": 25.36,
+          "end": 25.52
+        },
+        {
+          "text": "frère",
+          "start": 25.52,
+          "end": 25.92
+        },
+        {
+          "text": "a",
+          "start": 25.92,
+          "end": 25.92
+        },
+        {
+          "text": "finalement",
+          "start": 25.92,
+          "end": 26.4
+        },
+        {
+          "text": "trouvé",
+          "start": 26.4,
+          "end": 26.72
+        },
+        {
+          "text": "du",
+          "start": 26.72,
+          "end": 26.8
+        },
+        {
+          "text": "travail",
+          "start": 26.8,
+          "end": 27.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mon frère",
+          "translations": {
+            "zh": "我哥哥",
+            "en": "My brother",
+            "es": "Mi hermano"
+          },
+          "start": 25.36,
+          "end": 25.92
+        },
+        {
+          "text": "a finalement trouvé du travail.",
+          "translations": {
+            "zh": "终于找到工作了。",
+            "en": "finally found work.",
+            "es": "finalmente ha encontrado trabajo."
+          },
+          "start": 25.92,
+          "end": 27.36
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Tu lui diras bravo de ma part !",
+      "translations": {
+        "zh": "请你代我向他道贺！",
+        "en": "You will say bravo to him on my behalf!",
+        "es": "¡Le dirás bravo de mi parte!"
+      },
+      "start": 28.08,
+      "end": 29.44,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 28.08,
+          "end": 28.24
+        },
+        {
+          "text": "lui",
+          "start": 28.24,
+          "end": 28.32
+        },
+        {
+          "text": "diras",
+          "start": 28.32,
+          "end": 28.56
+        },
+        {
+          "text": "bravo",
+          "start": 28.56,
+          "end": 28.88
+        },
+        {
+          "text": "de",
+          "start": 28.88,
+          "end": 28.88
+        },
+        {
+          "text": "ma",
+          "start": 28.88,
+          "end": 29.04
+        },
+        {
+          "text": "part",
+          "start": 29.04,
+          "end": 29.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu lui diras bravo",
+          "translations": {
+            "zh": "你要对他说恭喜",
+            "en": "You will say bravo to him",
+            "es": "Le dirás bravo"
+          },
+          "start": 28.08,
+          "end": 28.88
+        },
+        {
+          "text": "de ma part !",
+          "translations": {
+            "zh": "代我！",
+            "en": "on my behalf!",
+            "es": "de mi parte!"
+          },
+          "start": 28.88,
+          "end": 29.44
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Ta blonde a fini son doctorat ?",
+      "translations": {
+        "zh": "你女朋友完成博士学位了吗？",
+        "en": "Your girlfriend finished her doctorate?",
+        "es": "¿Tu novia ha terminado su doctorado?"
+      },
+      "start": 31.68,
+      "end": 34.48,
+      "words": [
+        {
+          "text": "Ta",
+          "start": 31.68,
+          "end": 31.84
+        },
+        {
+          "text": "blonde",
+          "start": 33.12,
+          "end": 33.36
+        },
+        {
+          "text": "a",
+          "start": 33.36,
+          "end": 33.44
+        },
+        {
+          "text": "fini",
+          "start": 33.44,
+          "end": 33.76
+        },
+        {
+          "text": "son",
+          "start": 33.76,
+          "end": 33.92
+        },
+        {
+          "text": "doctorat",
+          "start": 33.92,
+          "end": 34.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ta blonde",
+          "translations": {
+            "zh": "你女朋友",
+            "en": "Your girlfriend",
+            "es": "Tu novia"
+          },
+          "start": 31.68,
+          "end": 33.36
+        },
+        {
+          "text": "a fini son doctorat ?",
+          "translations": {
+            "zh": "完成博士学位了吗？",
+            "en": "finished her doctorate?",
+            "es": "ha terminado su doctorado?"
+          },
+          "start": 33.36,
+          "end": 34.48
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Je suis tellement contente pour elle !",
+      "translations": {
+        "zh": "我真为她高兴！",
+        "en": "I am so happy for her!",
+        "es": "¡Estoy tan contenta por ella!"
+      },
+      "start": 35.04,
+      "end": 36.72,
+      "words": [
+        {
+          "text": "Je",
+          "start": 35.04,
+          "end": 35.36
+        },
+        {
+          "text": "suis",
+          "start": 35.36,
+          "end": 35.36
+        },
+        {
+          "text": "tellement",
+          "start": 35.36,
+          "end": 35.84
+        },
+        {
+          "text": "contente",
+          "start": 35.84,
+          "end": 36.24
+        },
+        {
+          "text": "pour",
+          "start": 36.24,
+          "end": 36.48
+        },
+        {
+          "text": "elle",
+          "start": 36.48,
+          "end": 36.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis tellement contente",
+          "translations": {
+            "zh": "我真的好高兴",
+            "en": "I am so happy",
+            "es": "Estoy tan contenta"
+          },
+          "start": 35.04,
+          "end": 36.24
+        },
+        {
+          "text": "pour elle !",
+          "translations": {
+            "zh": "为她！",
+            "en": "for her!",
+            "es": "por ella!"
+          },
+          "start": 36.24,
+          "end": 36.72
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Tu lui diras bravo, je l'admire !",
+      "translations": {
+        "zh": "你要对她说恭喜，我很佩服她！",
+        "en": "You will tell her bravo, I admire her!",
+        "es": "¡Le dirás bravo, lo admiro!"
+      },
+      "start": 37.28,
+      "end": 38.96,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 37.28,
+          "end": 37.44
+        },
+        {
+          "text": "lui",
+          "start": 37.44,
+          "end": 37.52
+        },
+        {
+          "text": "diras",
+          "start": 37.52,
+          "end": 37.76
+        },
+        {
+          "text": "bravo",
+          "start": 37.76,
+          "end": 38.16
+        },
+        {
+          "text": "je",
+          "start": 38.16,
+          "end": 38.32
+        },
+        {
+          "text": "l'admire",
+          "start": 38.32,
+          "end": 38.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu lui diras bravo,",
+          "translations": {
+            "zh": "你要对她说恭喜，",
+            "en": "You will tell her bravo,",
+            "es": "Le dirás bravo,"
+          },
+          "start": 37.28,
+          "end": 38.16
+        },
+        {
+          "text": "je l'admire !",
+          "translations": {
+            "zh": "我很佩服她！",
+            "en": "I admire her!",
+            "es": "lo admiro!"
+          },
+          "start": 38.16,
+          "end": 38.96
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Ton frère s'est marié ?",
+      "translations": {
+        "zh": "你哥哥结婚了？",
+        "en": "Your brother got married?",
+        "es": "¿Tu hermano se ha casado?"
+      },
+      "start": 41.12,
+      "end": 43.36,
+      "words": [
+        {
+          "text": "Ton",
+          "start": 41.12,
+          "end": 42.48
+        },
+        {
+          "text": "frère",
+          "start": 42.48,
+          "end": 42.8
+        },
+        {
+          "text": "s'est",
+          "start": 42.8,
+          "end": 42.88
+        },
+        {
+          "text": "marié",
+          "start": 42.88,
+          "end": 43.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ton frère s'est marié ?",
+          "translations": {
+            "zh": "你哥哥结婚了？",
+            "en": "Your brother got married?",
+            "es": "¿Tu hermano se ha casado?"
+          },
+          "start": 41.12,
+          "end": 43.36
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Offre-lui mes félicitations quand tu le verras.",
+      "translations": {
+        "zh": "等你见到他时请代我向他祝贺。",
+        "en": "Offer him my congratulations when you see him.",
+        "es": "Ofrécele mis felicitaciones cuando lo veas."
+      },
+      "start": 43.68,
+      "end": 45.68,
+      "words": [
+        {
+          "text": "Offre",
+          "start": 43.68,
+          "end": 43.92
+        },
+        {
+          "text": "lui",
+          "start": 43.92,
+          "end": 44.16
+        },
+        {
+          "text": "mes",
+          "start": 44.16,
+          "end": 44.24
+        },
+        {
+          "text": "félicitations",
+          "start": 44.24,
+          "end": 44.96
+        },
+        {
+          "text": "quand",
+          "start": 44.96,
+          "end": 45.12
+        },
+        {
+          "text": "tu",
+          "start": 45.12,
+          "end": 45.28
+        },
+        {
+          "text": "le",
+          "start": 45.28,
+          "end": 45.28
+        },
+        {
+          "text": "verras",
+          "start": 45.28,
+          "end": 45.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Offre-lui mes félicitations",
+          "translations": {
+            "zh": "请代我向他祝贺",
+            "en": "Offer him my congratulations",
+            "es": "Ofrécele mis felicitaciones"
+          },
+          "start": 43.68,
+          "end": 44.96
+        },
+        {
+          "text": "quand tu le verras.",
+          "translations": {
+            "zh": "等你见到他的时候。",
+            "en": "when you see him.",
+            "es": "cuando lo veas."
+          },
+          "start": 44.96,
+          "end": 45.68
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Mes parents ont finalement vendu leur maison.",
+      "translations": {
+        "zh": "我父母终于把房子卖了。",
+        "en": "My parents finally sold their house.",
+        "es": "Mis padres finalmente han vendido su casa."
+      },
+      "start": 48.4,
+      "end": 52.08,
+      "words": [
+        {
+          "text": "Mes",
+          "start": 48.4,
+          "end": 48.56
+        },
+        {
+          "text": "parents",
+          "start": 50.08,
+          "end": 50.48
+        },
+        {
+          "text": "ont",
+          "start": 50.48,
+          "end": 50.56
+        },
+        {
+          "text": "finalement",
+          "start": 50.56,
+          "end": 51.12
+        },
+        {
+          "text": "vendu",
+          "start": 51.12,
+          "end": 51.52
+        },
+        {
+          "text": "leur",
+          "start": 51.52,
+          "end": 51.68
+        },
+        {
+          "text": "maison",
+          "start": 51.68,
+          "end": 52.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mes parents",
+          "translations": {
+            "zh": "我父母",
+            "en": "My parents",
+            "es": "Mis padres"
+          },
+          "start": 48.4,
+          "end": 50.48
+        },
+        {
+          "text": "ont finalement vendu leur maison.",
+          "translations": {
+            "zh": "终于把房子卖了。",
+            "en": "finally sold their house.",
+            "es": "finalmente han vendido su casa."
+          },
+          "start": 50.48,
+          "end": 52.08
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Ah oui ?",
+      "translations": {
+        "zh": "是吗？",
+        "en": "Oh yeah?",
+        "es": "¿Ah, sí?"
+      },
+      "start": 52.72,
+      "end": 53.04,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 52.72,
+          "end": 52.88
+        },
+        {
+          "text": "oui",
+          "start": 52.88,
+          "end": 53.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah oui ?",
+          "translations": {
+            "zh": "是吗？",
+            "en": "Oh yeah?",
+            "es": "¿Ah, sí?"
+          },
+          "start": 52.72,
+          "end": 53.04
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Quelle bonne nouvelle !",
+      "translations": {
+        "zh": "真是个好消息！",
+        "en": "What good news!",
+        "es": "¡Qué buena noticia!"
+      },
+      "start": 53.36,
+      "end": 54.08,
+      "words": [
+        {
+          "text": "Quelle",
+          "start": 53.36,
+          "end": 53.52
+        },
+        {
+          "text": "bonne",
+          "start": 53.52,
+          "end": 53.76
+        },
+        {
+          "text": "nouvelle",
+          "start": 53.76,
+          "end": 54.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quelle bonne nouvelle !",
+          "translations": {
+            "zh": "真是个好消息！",
+            "en": "What good news!",
+            "es": "¡Qué buena noticia!"
+          },
+          "start": 53.36,
+          "end": 54.08
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Tu leur diras félicitations de notre part !",
+      "translations": {
+        "zh": "请你代我们向他们祝贺！",
+        "en": "You will tell them congratulations on our behalf!",
+        "es": "¡Les dirás felicitaciones de nuestra parte!"
+      },
+      "start": 54.72,
+      "end": 56.64,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 54.72,
+          "end": 54.8
+        },
+        {
+          "text": "leur",
+          "start": 54.8,
+          "end": 55.04
+        },
+        {
+          "text": "diras",
+          "start": 55.04,
+          "end": 55.28
+        },
+        {
+          "text": "félicitations",
+          "start": 55.28,
+          "end": 56.0
+        },
+        {
+          "text": "de",
+          "start": 56.0,
+          "end": 56.16
+        },
+        {
+          "text": "notre",
+          "start": 56.16,
+          "end": 56.24
+        },
+        {
+          "text": "part",
+          "start": 56.32,
+          "end": 56.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu leur diras félicitations",
+          "translations": {
+            "zh": "你要对他们说祝贺",
+            "en": "You will tell them congratulations",
+            "es": "Les dirás felicitaciones"
+          },
+          "start": 54.72,
+          "end": 56.0
+        },
+        {
+          "text": "de notre part !",
+          "translations": {
+            "zh": "代我们！",
+            "en": "on our behalf!",
+            "es": "de nuestra parte!"
+          },
+          "start": 56.0,
+          "end": 56.64
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP07_P32",
+  "audio_filename": "FLS2_EP07_P32.mp3",
+  "audio_path": "downloads/FLS2_EP07_P32.mp3",
+  "episode": 7,
+  "piste": 32,
+  "page": 61,
+  "cd": "CD1"
+}

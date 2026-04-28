@@ -1,0 +1,636 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 7 Piste 34 Page 62",
+      "translations": {
+        "zh": "第7集 第34轨 第62页",
+        "en": "Episode 7 Track 34 Page 62",
+        "es": "Episodio 7 Pista 34 Página 62"
+      },
+      "start": 0.72,
+      "end": 8.0,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.72,
+          "end": 1.36
+        },
+        {
+          "text": "7",
+          "start": 1.84,
+          "end": 2.16
+        },
+        {
+          "text": "Piste",
+          "start": 3.12,
+          "end": 3.6
+        },
+        {
+          "text": "34",
+          "start": 4.16,
+          "end": 5.12
+        },
+        {
+          "text": "Page",
+          "start": 5.12,
+          "end": 5.12
+        },
+        {
+          "text": "62",
+          "start": 7.04,
+          "end": 8.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 7",
+          "translations": {
+            "zh": "第7集",
+            "en": "Episode 7",
+            "es": "Episodio 7"
+          },
+          "start": 0.72,
+          "end": 2.16
+        },
+        {
+          "text": "Piste 34",
+          "translations": {
+            "zh": "第34轨",
+            "en": "Track 34",
+            "es": "Pista 34"
+          },
+          "start": 3.12,
+          "end": 5.12
+        },
+        {
+          "text": "Page 62",
+          "translations": {
+            "zh": "第62页",
+            "en": "Page 62",
+            "es": "Página 62"
+          },
+          "start": 5.12,
+          "end": 8.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Excusez-moi, pourriez-vous me dire comment faire pour aller à l'unité des naissances ?",
+      "translations": {
+        "zh": "打扰一下，您能告诉我怎么去产科病房吗？",
+        "en": "Excuse me, could you tell me how to get to the maternity unit?",
+        "es": "Disculpe, ¿podría decirme cómo hacer para ir a la unidad de nacimientos?"
+      },
+      "start": 10.56,
+      "end": 14.96,
+      "words": [
+        {
+          "text": "Excusez",
+          "start": 10.56,
+          "end": 10.96
+        },
+        {
+          "text": "moi",
+          "start": 10.96,
+          "end": 11.2
+        },
+        {
+          "text": "pourriez",
+          "start": 11.84,
+          "end": 12.16
+        },
+        {
+          "text": "vous",
+          "start": 12.16,
+          "end": 12.32
+        },
+        {
+          "text": "me",
+          "start": 12.32,
+          "end": 12.4
+        },
+        {
+          "text": "dire",
+          "start": 12.4,
+          "end": 12.64
+        },
+        {
+          "text": "comment",
+          "start": 12.64,
+          "end": 12.88
+        },
+        {
+          "text": "faire",
+          "start": 12.88,
+          "end": 13.12
+        },
+        {
+          "text": "pour",
+          "start": 13.12,
+          "end": 13.36
+        },
+        {
+          "text": "aller",
+          "start": 13.36,
+          "end": 13.68
+        },
+        {
+          "text": "à",
+          "start": 13.68,
+          "end": 13.76
+        },
+        {
+          "text": "l'unité",
+          "start": 13.76,
+          "end": 14.24
+        },
+        {
+          "text": "des",
+          "start": 14.24,
+          "end": 14.32
+        },
+        {
+          "text": "naissances",
+          "start": 14.32,
+          "end": 14.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Excusez-moi,",
+          "translations": {
+            "zh": "打扰一下，",
+            "en": "Excuse me,",
+            "es": "Disculpe,"
+          },
+          "start": 10.56,
+          "end": 11.2
+        },
+        {
+          "text": "pourriez-vous me dire",
+          "translations": {
+            "zh": "您能告诉我",
+            "en": "could you tell me",
+            "es": "¿podría decirme"
+          },
+          "start": 11.84,
+          "end": 12.64
+        },
+        {
+          "text": "comment faire pour aller à l'unité des naissances ?",
+          "translations": {
+            "zh": "怎么去产科病房吗？",
+            "en": "how to get to the maternity unit?",
+            "es": "cómo hacer para ir a la unidad de nacimientos?"
+          },
+          "start": 12.64,
+          "end": 14.96
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "J'ai un rendez-vous en radiologie, pourriez-vous me dire c'est où ?",
+      "translations": {
+        "zh": "我在放射科有一个预约，您能告诉我在哪儿吗？",
+        "en": "I have an appointment in radiology, could you tell me where it is?",
+        "es": "Tengo una cita en radiología, ¿podría decirme dónde está?"
+      },
+      "start": 17.44,
+      "end": 20.32,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 17.44,
+          "end": 17.68
+        },
+        {
+          "text": "un",
+          "start": 17.68,
+          "end": 17.76
+        },
+        {
+          "text": "rendez",
+          "start": 17.76,
+          "end": 18.08
+        },
+        {
+          "text": "vous",
+          "start": 18.08,
+          "end": 18.24
+        },
+        {
+          "text": "en",
+          "start": 18.24,
+          "end": 18.32
+        },
+        {
+          "text": "radiologie",
+          "start": 18.32,
+          "end": 19.04
+        },
+        {
+          "text": "pourriez",
+          "start": 19.04,
+          "end": 19.36
+        },
+        {
+          "text": "vous",
+          "start": 19.36,
+          "end": 19.52
+        },
+        {
+          "text": "me",
+          "start": 19.52,
+          "end": 19.6
+        },
+        {
+          "text": "dire",
+          "start": 19.6,
+          "end": 19.92
+        },
+        {
+          "text": "c'est",
+          "start": 19.92,
+          "end": 20.16
+        },
+        {
+          "text": "où",
+          "start": 20.16,
+          "end": 20.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai un rendez-vous en radiologie,",
+          "translations": {
+            "zh": "我在放射科有一个预约，",
+            "en": "I have an appointment in radiology,",
+            "es": "Tengo una cita en radiología,"
+          },
+          "start": 17.44,
+          "end": 19.04
+        },
+        {
+          "text": "pourriez-vous me dire c'est où ?",
+          "translations": {
+            "zh": "您能告诉我在哪儿吗？",
+            "en": "could you tell me where it is?",
+            "es": "¿podría decirme dónde está?"
+          },
+          "start": 19.04,
+          "end": 20.32
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Pardon, madame, je cherche les soins intensifs.",
+      "translations": {
+        "zh": "对不起，女士，我在找重症监护室。",
+        "en": "Excuse me, ma'am, I'm looking for the intensive care unit.",
+        "es": "Perdone, señora, busco la unidad de cuidados intensivos."
+      },
+      "start": 23.12,
+      "end": 27.44,
+      "words": [
+        {
+          "text": "Pardon",
+          "start": 23.12,
+          "end": 24.88
+        },
+        {
+          "text": "madame",
+          "start": 24.88,
+          "end": 25.28
+        },
+        {
+          "text": "je",
+          "start": 25.84,
+          "end": 26.0
+        },
+        {
+          "text": "cherche",
+          "start": 26.0,
+          "end": 26.32
+        },
+        {
+          "text": "les",
+          "start": 26.32,
+          "end": 26.48
+        },
+        {
+          "text": "soins",
+          "start": 26.48,
+          "end": 26.8
+        },
+        {
+          "text": "intensifs",
+          "start": 26.8,
+          "end": 27.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pardon, madame,",
+          "translations": {
+            "zh": "对不起，女士，",
+            "en": "Excuse me, ma'am,",
+            "es": "Perdone, señora,"
+          },
+          "start": 23.12,
+          "end": 25.28
+        },
+        {
+          "text": "je cherche les soins intensifs.",
+          "translations": {
+            "zh": "我在找重症监护室。",
+            "en": "I'm looking for the intensive care unit.",
+            "es": "busco la unidad de cuidados intensivos."
+          },
+          "start": 25.84,
+          "end": 27.44
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "C'est par là ?",
+      "translations": {
+        "zh": "是在那边吗？",
+        "en": "Is it that way?",
+        "es": "¿Es por ahí?"
+      },
+      "start": 27.52,
+      "end": 28.08,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 27.52,
+          "end": 27.68
+        },
+        {
+          "text": "par",
+          "start": 27.68,
+          "end": 27.92
+        },
+        {
+          "text": "là",
+          "start": 27.92,
+          "end": 28.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est par là ?",
+          "translations": {
+            "zh": "是在那边吗？",
+            "en": "Is it that way?",
+            "es": "¿Es por ahí?"
+          },
+          "start": 27.52,
+          "end": 28.08
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Pardon, je cherche l'unité de gériatrie, savez-vous où ça se trouve ?",
+      "translations": {
+        "zh": "对不起，我在找老年医学科，您知道在哪儿吗？",
+        "en": "Excuse me, I'm looking for the geriatrics unit, do you know where it is?",
+        "es": "Perdone, busco la unidad de geriatría, ¿sabe dónde se encuentra?"
+      },
+      "start": 31.2,
+      "end": 35.04,
+      "words": [
+        {
+          "text": "Pardon",
+          "start": 31.2,
+          "end": 31.6
+        },
+        {
+          "text": "je",
+          "start": 31.68,
+          "end": 31.92
+        },
+        {
+          "text": "cherche",
+          "start": 31.92,
+          "end": 32.24
+        },
+        {
+          "text": "l'unité",
+          "start": 32.24,
+          "end": 32.64
+        },
+        {
+          "text": "de",
+          "start": 32.64,
+          "end": 32.8
+        },
+        {
+          "text": "gériatrie",
+          "start": 32.8,
+          "end": 33.6
+        },
+        {
+          "text": "savez",
+          "start": 34.0,
+          "end": 34.24
+        },
+        {
+          "text": "vous",
+          "start": 34.24,
+          "end": 34.4
+        },
+        {
+          "text": "où",
+          "start": 34.4,
+          "end": 34.4
+        },
+        {
+          "text": "ça",
+          "start": 34.4,
+          "end": 34.56
+        },
+        {
+          "text": "se",
+          "start": 34.56,
+          "end": 34.64
+        },
+        {
+          "text": "trouve",
+          "start": 34.64,
+          "end": 35.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pardon,",
+          "translations": {
+            "zh": "对不起，",
+            "en": "Excuse me,",
+            "es": "Perdone,"
+          },
+          "start": 31.2,
+          "end": 31.6
+        },
+        {
+          "text": "je cherche l'unité de gériatrie,",
+          "translations": {
+            "zh": "我在找老年医学科，",
+            "en": "I'm looking for the geriatrics unit,",
+            "es": "busco la unidad de geriatría,"
+          },
+          "start": 31.68,
+          "end": 33.6
+        },
+        {
+          "text": "savez-vous où ça se trouve ?",
+          "translations": {
+            "zh": "您知道在哪儿吗？",
+            "en": "do you know where it is?",
+            "es": "¿sabe dónde se encuentra?"
+          },
+          "start": 34.0,
+          "end": 35.04
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Excusez-moi, l'audiologie, est-ce que c'est près d'ici ?",
+      "translations": {
+        "zh": "打扰一下，听力科离这里近吗？",
+        "en": "Excuse me, audiology, is it near here?",
+        "es": "Disculpe, la audiología, ¿está cerca de aquí?"
+      },
+      "start": 38.4,
+      "end": 41.6,
+      "words": [
+        {
+          "text": "Excusez",
+          "start": 38.4,
+          "end": 38.4
+        },
+        {
+          "text": "moi",
+          "start": 38.72,
+          "end": 39.04
+        },
+        {
+          "text": "l'audiologie",
+          "start": 39.6,
+          "end": 40.48
+        },
+        {
+          "text": "est",
+          "start": 40.64,
+          "end": 40.72
+        },
+        {
+          "text": "ce",
+          "start": 40.72,
+          "end": 40.8
+        },
+        {
+          "text": "que",
+          "start": 40.8,
+          "end": 40.88
+        },
+        {
+          "text": "c'est",
+          "start": 40.88,
+          "end": 41.04
+        },
+        {
+          "text": "près",
+          "start": 41.04,
+          "end": 41.2
+        },
+        {
+          "text": "d'ici",
+          "start": 41.2,
+          "end": 41.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Excusez-moi,",
+          "translations": {
+            "zh": "打扰一下，",
+            "en": "Excuse me,",
+            "es": "Disculpe,"
+          },
+          "start": 38.4,
+          "end": 39.04
+        },
+        {
+          "text": "l'audiologie,",
+          "translations": {
+            "zh": "听力科，",
+            "en": "audiology,",
+            "es": "la audiología,"
+          },
+          "start": 39.6,
+          "end": 40.48
+        },
+        {
+          "text": "est-ce que c'est près d'ici ?",
+          "translations": {
+            "zh": "离这里近吗？",
+            "en": "is it near here?",
+            "es": "¿está cerca de aquí?"
+          },
+          "start": 40.64,
+          "end": 41.6
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "ÉPISODE 8",
+      "translations": {
+        "zh": "第8集",
+        "en": "EPISODE 8",
+        "es": "EPISODIO 8"
+      },
+      "start": 41.6,
+      "end": 42.24,
+      "words": [
+        {
+          "text": "ÉPISODE",
+          "start": 41.6,
+          "end": 41.6
+        },
+        {
+          "text": "8",
+          "start": 41.76,
+          "end": 42.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "ÉPISODE 8",
+          "translations": {
+            "zh": "第8集",
+            "en": "EPISODE 8",
+            "es": "EPISODIO 8"
+          },
+          "start": 41.6,
+          "end": 42.24
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP07_P34",
+  "audio_filename": "FLS2_EP07_P34.mp3",
+  "audio_path": "downloads/FLS2_EP07_P34.mp3",
+  "episode": 7,
+  "piste": 34,
+  "page": 62,
+  "cd": "CD1"
+}

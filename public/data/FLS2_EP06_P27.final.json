@@ -1,0 +1,1776 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 6 Piste 27 Page 50",
+      "translations": {
+        "zh": "第6集 第27轨 第50页",
+        "en": "Episode 6 Track 27 Page 50",
+        "es": "Episodio 6 Pista 27 Página 50"
+      },
+      "start": 0.32,
+      "end": 7.28,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.32,
+          "end": 1.04
+        },
+        {
+          "text": "6",
+          "start": 1.36,
+          "end": 1.84
+        },
+        {
+          "text": "Piste",
+          "start": 2.64,
+          "end": 3.04
+        },
+        {
+          "text": "27",
+          "start": 3.76,
+          "end": 4.48
+        },
+        {
+          "text": "Page",
+          "start": 4.48,
+          "end": 4.72
+        },
+        {
+          "text": "50",
+          "start": 6.0,
+          "end": 7.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 6",
+          "translations": {
+            "zh": "第6集",
+            "en": "Episode 6",
+            "es": "Episodio 6"
+          },
+          "start": 0.32,
+          "end": 1.84
+        },
+        {
+          "text": "Piste 27",
+          "translations": {
+            "zh": "第27轨",
+            "en": "Track 27",
+            "es": "Pista 27"
+          },
+          "start": 2.64,
+          "end": 4.48
+        },
+        {
+          "text": "Page 50",
+          "translations": {
+            "zh": "第50页",
+            "en": "Page 50",
+            "es": "Página 50"
+          },
+          "start": 4.48,
+          "end": 7.28
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Non, non, je ne suis pas malade.",
+      "translations": {
+        "zh": "不，不，我没有生病。",
+        "en": "No, no, I'm not sick.",
+        "es": "No, no, no estoy enfermo."
+      },
+      "start": 8.8,
+      "end": 10.08,
+      "words": [
+        {
+          "text": "Non",
+          "start": 8.8,
+          "end": 9.04
+        },
+        {
+          "text": "non",
+          "start": 9.04,
+          "end": 9.28
+        },
+        {
+          "text": "je",
+          "start": 9.28,
+          "end": 9.36
+        },
+        {
+          "text": "ne",
+          "start": 9.36,
+          "end": 9.44
+        },
+        {
+          "text": "suis",
+          "start": 9.44,
+          "end": 9.44
+        },
+        {
+          "text": "pas",
+          "start": 9.44,
+          "end": 9.6
+        },
+        {
+          "text": "malade",
+          "start": 9.6,
+          "end": 10.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Non, non,",
+          "translations": {
+            "zh": "不，不，",
+            "en": "No, no,",
+            "es": "No, no,"
+          },
+          "start": 8.8,
+          "end": 9.28
+        },
+        {
+          "text": "je ne suis pas malade.",
+          "translations": {
+            "zh": "我没有生病。",
+            "en": "I'm not sick.",
+            "es": "no estoy enfermo."
+          },
+          "start": 9.28,
+          "end": 10.08
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "C'est mon rendez-vous annuel chez le médecin cet après-midi...",
+      "translations": {
+        "zh": "今天下午是我每年一次的医生预约...",
+        "en": "It's my annual appointment at the doctor's this afternoon...",
+        "es": "Es mi cita anual con el médico esta tarde..."
+      },
+      "start": 10.88,
+      "end": 13.12,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 10.88,
+          "end": 11.04
+        },
+        {
+          "text": "mon",
+          "start": 11.04,
+          "end": 11.2
+        },
+        {
+          "text": "rendez",
+          "start": 11.2,
+          "end": 11.36
+        },
+        {
+          "text": "vous",
+          "start": 11.36,
+          "end": 11.52
+        },
+        {
+          "text": "annuel",
+          "start": 11.52,
+          "end": 11.92
+        },
+        {
+          "text": "chez",
+          "start": 11.92,
+          "end": 12.08
+        },
+        {
+          "text": "le",
+          "start": 12.08,
+          "end": 12.16
+        },
+        {
+          "text": "médecin",
+          "start": 12.16,
+          "end": 12.48
+        },
+        {
+          "text": "cet",
+          "start": 12.48,
+          "end": 12.64
+        },
+        {
+          "text": "après",
+          "start": 12.64,
+          "end": 12.8
+        },
+        {
+          "text": "midi",
+          "start": 12.8,
+          "end": 13.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est mon rendez-vous annuel",
+          "translations": {
+            "zh": "这是我每年的预约",
+            "en": "It's my annual appointment",
+            "es": "Es mi cita anual"
+          },
+          "start": 10.88,
+          "end": 11.92
+        },
+        {
+          "text": "chez le médecin",
+          "translations": {
+            "zh": "去看医生",
+            "en": "at the doctor's",
+            "es": "con el médico"
+          },
+          "start": 11.92,
+          "end": 12.48
+        },
+        {
+          "text": "cet après-midi...",
+          "translations": {
+            "zh": "今天下午...",
+            "en": "this afternoon...",
+            "es": "esta tarde..."
+          },
+          "start": 12.48,
+          "end": 13.12
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "J'ai décidé de prendre congé pour la journée.",
+      "translations": {
+        "zh": "我决定请一天假。",
+        "en": "I decided to take time off for the day.",
+        "es": "He decidido tomar permiso por el día."
+      },
+      "start": 13.76,
+      "end": 15.52,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 13.76,
+          "end": 13.92
+        },
+        {
+          "text": "décidé",
+          "start": 13.92,
+          "end": 14.32
+        },
+        {
+          "text": "de",
+          "start": 14.32,
+          "end": 14.4
+        },
+        {
+          "text": "prendre",
+          "start": 14.4,
+          "end": 14.56
+        },
+        {
+          "text": "congé",
+          "start": 14.56,
+          "end": 14.88
+        },
+        {
+          "text": "pour",
+          "start": 14.88,
+          "end": 15.04
+        },
+        {
+          "text": "la",
+          "start": 15.04,
+          "end": 15.12
+        },
+        {
+          "text": "journée",
+          "start": 15.12,
+          "end": 15.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai décidé de prendre congé",
+          "translations": {
+            "zh": "我决定请假",
+            "en": "I decided to take time off",
+            "es": "He decidido tomar permiso"
+          },
+          "start": 13.76,
+          "end": 14.88
+        },
+        {
+          "text": "pour la journée.",
+          "translations": {
+            "zh": "一整天。",
+            "en": "for the day.",
+            "es": "por el día."
+          },
+          "start": 14.88,
+          "end": 15.52
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Ah...",
+      "translations": {
+        "zh": "啊...",
+        "en": "Ah...",
+        "es": "Ah..."
+      },
+      "start": 15.84,
+      "end": 16.32,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 15.84,
+          "end": 16.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah...",
+          "translations": {
+            "zh": "啊...",
+            "en": "Ah...",
+            "es": "Ah..."
+          },
+          "start": 15.84,
+          "end": 16.32
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Pis là, tu fais la grasse matinée ?",
+      "translations": {
+        "zh": "那么，你睡懒觉了？",
+        "en": "So then, you're sleeping in?",
+        "es": "¿Y luego, vas a dormir hasta tarde?"
+      },
+      "start": 16.96,
+      "end": 18.96,
+      "words": [
+        {
+          "text": "Pis",
+          "start": 16.96,
+          "end": 17.12
+        },
+        {
+          "text": "là",
+          "start": 17.12,
+          "end": 17.52
+        },
+        {
+          "text": "tu",
+          "start": 17.84,
+          "end": 18.0
+        },
+        {
+          "text": "fais",
+          "start": 18.0,
+          "end": 18.08
+        },
+        {
+          "text": "la",
+          "start": 18.08,
+          "end": 18.24
+        },
+        {
+          "text": "grasse",
+          "start": 18.24,
+          "end": 18.48
+        },
+        {
+          "text": "matinée",
+          "start": 18.48,
+          "end": 18.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pis là,",
+          "translations": {
+            "zh": "那么，",
+            "en": "So then,",
+            "es": "Y luego,"
+          },
+          "start": 16.96,
+          "end": 17.52
+        },
+        {
+          "text": "tu fais la grasse matinée ?",
+          "translations": {
+            "zh": "你睡懒觉了？",
+            "en": "you're sleeping in?",
+            "es": "¿vas a dormir hasta tarde?"
+          },
+          "start": 17.84,
+          "end": 18.96
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Je relaxe...",
+      "translations": {
+        "zh": "我在放松...",
+        "en": "I'm relaxing...",
+        "es": "Me relajo..."
+      },
+      "start": 20.0,
+      "end": 20.72,
+      "words": [
+        {
+          "text": "Je",
+          "start": 20.0,
+          "end": 20.16
+        },
+        {
+          "text": "relaxe",
+          "start": 20.16,
+          "end": 20.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je relaxe...",
+          "translations": {
+            "zh": "我在放松...",
+            "en": "I'm relaxing...",
+            "es": "Me relajo..."
+          },
+          "start": 20.0,
+          "end": 20.72
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Je veux prendre le temps de lire un peu.",
+      "translations": {
+        "zh": "我想花点时间读点东西。",
+        "en": "I want to take the time to read a little.",
+        "es": "Quiero tomarme el tiempo de leer un poco."
+      },
+      "start": 21.2,
+      "end": 22.8,
+      "words": [
+        {
+          "text": "Je",
+          "start": 21.2,
+          "end": 21.36
+        },
+        {
+          "text": "veux",
+          "start": 21.36,
+          "end": 21.36
+        },
+        {
+          "text": "prendre",
+          "start": 21.36,
+          "end": 21.6
+        },
+        {
+          "text": "le",
+          "start": 21.6,
+          "end": 21.76
+        },
+        {
+          "text": "temps",
+          "start": 21.76,
+          "end": 22.0
+        },
+        {
+          "text": "de",
+          "start": 22.0,
+          "end": 22.16
+        },
+        {
+          "text": "lire",
+          "start": 22.16,
+          "end": 22.48
+        },
+        {
+          "text": "un",
+          "start": 22.48,
+          "end": 22.64
+        },
+        {
+          "text": "peu",
+          "start": 22.64,
+          "end": 22.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je veux prendre le temps",
+          "translations": {
+            "zh": "我想花点时间",
+            "en": "I want to take the time",
+            "es": "Quiero tomarme el tiempo"
+          },
+          "start": 21.2,
+          "end": 22.0
+        },
+        {
+          "text": "de lire un peu.",
+          "translations": {
+            "zh": "读点东西。",
+            "en": "to read a little.",
+            "es": "de leer un poco."
+          },
+          "start": 22.0,
+          "end": 22.8
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Je pensais qu'il n'y aurait personne chez toi, je voulais te laisser un message pour te rappeler notre souper de demain soir.",
+      "translations": {
+        "zh": "我以为你家里没人，我想给你留个信息，提醒你明晚我们的晚餐。",
+        "en": "I thought there would be no one at your place, I wanted to leave you a message to remind you of our dinner tomorrow evening.",
+        "es": "Pensaba que no habría nadie en tu casa, quería dejarte un mensaje para recordarte nuestra cena de mañana por la noche."
+      },
+      "start": 23.52,
+      "end": 29.04,
+      "words": [
+        {
+          "text": "Je",
+          "start": 23.52,
+          "end": 23.6
+        },
+        {
+          "text": "pensais",
+          "start": 23.6,
+          "end": 23.92
+        },
+        {
+          "text": "qu'il",
+          "start": 23.92,
+          "end": 24.0
+        },
+        {
+          "text": "n'y",
+          "start": 24.0,
+          "end": 24.08
+        },
+        {
+          "text": "aurait",
+          "start": 24.08,
+          "end": 24.16
+        },
+        {
+          "text": "personne",
+          "start": 24.16,
+          "end": 24.48
+        },
+        {
+          "text": "chez",
+          "start": 24.56,
+          "end": 24.8
+        },
+        {
+          "text": "toi",
+          "start": 24.8,
+          "end": 25.12
+        },
+        {
+          "text": "je",
+          "start": 25.6,
+          "end": 25.76
+        },
+        {
+          "text": "voulais",
+          "start": 25.76,
+          "end": 26.0
+        },
+        {
+          "text": "te",
+          "start": 26.0,
+          "end": 26.08
+        },
+        {
+          "text": "laisser",
+          "start": 26.08,
+          "end": 26.32
+        },
+        {
+          "text": "un",
+          "start": 26.32,
+          "end": 26.48
+        },
+        {
+          "text": "message",
+          "start": 26.48,
+          "end": 27.04
+        },
+        {
+          "text": "pour",
+          "start": 27.04,
+          "end": 27.2
+        },
+        {
+          "text": "te",
+          "start": 27.2,
+          "end": 27.28
+        },
+        {
+          "text": "rappeler",
+          "start": 27.28,
+          "end": 27.6
+        },
+        {
+          "text": "notre",
+          "start": 27.6,
+          "end": 27.76
+        },
+        {
+          "text": "souper",
+          "start": 27.76,
+          "end": 28.08
+        },
+        {
+          "text": "de",
+          "start": 28.08,
+          "end": 28.16
+        },
+        {
+          "text": "demain",
+          "start": 28.16,
+          "end": 28.4
+        },
+        {
+          "text": "soir",
+          "start": 28.4,
+          "end": 29.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je pensais qu'il n'y aurait personne chez toi,",
+          "translations": {
+            "zh": "我以为你家里没人，",
+            "en": "I thought there would be no one at your place,",
+            "es": "Pensaba que no habría nadie en tu casa,"
+          },
+          "start": 23.52,
+          "end": 25.12
+        },
+        {
+          "text": "je voulais te laisser un message",
+          "translations": {
+            "zh": "我想给你留个信息",
+            "en": "I wanted to leave you a message",
+            "es": "quería dejarte un mensaje"
+          },
+          "start": 25.6,
+          "end": 27.04
+        },
+        {
+          "text": "pour te rappeler notre souper de demain soir.",
+          "translations": {
+            "zh": "提醒你明晚我们的晚餐。",
+            "en": "to remind you of our dinner tomorrow evening.",
+            "es": "para recordarte nuestra cena de mañana por la noche."
+          },
+          "start": 27.04,
+          "end": 29.04
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Je n'ai pas oublié !",
+      "translations": {
+        "zh": "我没有忘记！",
+        "en": "I haven't forgotten!",
+        "es": "¡No me he olvidado!"
+      },
+      "start": 29.12,
+      "end": 30.08,
+      "words": [
+        {
+          "text": "Je",
+          "start": 29.12,
+          "end": 29.36
+        },
+        {
+          "text": "n'ai",
+          "start": 29.36,
+          "end": 29.36
+        },
+        {
+          "text": "pas",
+          "start": 29.36,
+          "end": 29.52
+        },
+        {
+          "text": "oublié",
+          "start": 29.52,
+          "end": 30.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je n'ai pas oublié !",
+          "translations": {
+            "zh": "我没有忘记！",
+            "en": "I haven't forgotten!",
+            "es": "¡No me he olvidado!"
+          },
+          "start": 29.12,
+          "end": 30.08
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Je vais être chez toi vers 6 h, OK ?",
+      "translations": {
+        "zh": "我大概6点到你们家，好吗？",
+        "en": "I'll be at your place around 6, OK?",
+        "es": "Estaré en tu casa hacia las 6, ¿OK?"
+      },
+      "start": 30.4,
+      "end": 32.24,
+      "words": [
+        {
+          "text": "Je",
+          "start": 30.4,
+          "end": 30.48
+        },
+        {
+          "text": "vais",
+          "start": 30.48,
+          "end": 30.64
+        },
+        {
+          "text": "être",
+          "start": 30.64,
+          "end": 30.72
+        },
+        {
+          "text": "chez",
+          "start": 30.72,
+          "end": 30.8
+        },
+        {
+          "text": "toi",
+          "start": 30.8,
+          "end": 31.04
+        },
+        {
+          "text": "vers",
+          "start": 31.04,
+          "end": 31.28
+        },
+        {
+          "text": "6",
+          "start": 31.28,
+          "end": 31.52
+        },
+        {
+          "text": "h",
+          "start": 31.52,
+          "end": 31.52
+        },
+        {
+          "text": "OK",
+          "start": 31.92,
+          "end": 32.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais être chez toi vers 6 h,",
+          "translations": {
+            "zh": "我大概6点到你们家，",
+            "en": "I'll be at your place around 6,",
+            "es": "Estaré en tu casa hacia las 6,"
+          },
+          "start": 30.4,
+          "end": 31.52
+        },
+        {
+          "text": "OK ?",
+          "translations": {
+            "zh": "好吗？",
+            "en": "OK?",
+            "es": "¿OK?"
+          },
+          "start": 31.92,
+          "end": 32.24
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "OK, parfait.",
+      "translations": {
+        "zh": "好的，完美。",
+        "en": "OK, perfect.",
+        "es": "OK, perfecto."
+      },
+      "start": 32.96,
+      "end": 33.84,
+      "words": [
+        {
+          "text": "OK",
+          "start": 32.96,
+          "end": 33.36
+        },
+        {
+          "text": "parfait",
+          "start": 33.36,
+          "end": 33.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "OK, parfait.",
+          "translations": {
+            "zh": "好的，完美。",
+            "en": "OK, perfect.",
+            "es": "OK, perfecto."
+          },
+          "start": 32.96,
+          "end": 33.84
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "À demain !",
+      "translations": {
+        "zh": "明天见！",
+        "en": "See you tomorrow!",
+        "es": "¡Hasta mañana!"
+      },
+      "start": 34.56,
+      "end": 34.88,
+      "words": [
+        {
+          "text": "À",
+          "start": 34.56,
+          "end": 34.64
+        },
+        {
+          "text": "demain",
+          "start": 34.64,
+          "end": 34.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "À demain !",
+          "translations": {
+            "zh": "明天见！",
+            "en": "See you tomorrow!",
+            "es": "¡Hasta mañana!"
+          },
+          "start": 34.56,
+          "end": 34.88
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Oui, bonne journée !",
+      "translations": {
+        "zh": "好的，祝你今天愉快！",
+        "en": "Yes, have a good day!",
+        "es": "Sí, ¡que tengas un buen día!"
+      },
+      "start": 35.76,
+      "end": 36.64,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 35.76,
+          "end": 36.0
+        },
+        {
+          "text": "bonne",
+          "start": 36.0,
+          "end": 36.24
+        },
+        {
+          "text": "journée",
+          "start": 36.24,
+          "end": 36.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "好的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 35.76,
+          "end": 36.0
+        },
+        {
+          "text": "bonne journée !",
+          "translations": {
+            "zh": "祝你今天愉快！",
+            "en": "have a good day!",
+            "es": "¡que tengas un buen día!"
+          },
+          "start": 36.0,
+          "end": 36.64
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Le déraillement d'un train de marchandises est survenu tôt ce matin à Bowmanville, une communauté rurale située à 15 km à l'est d'Oshawa en Ontario, a rapporté le Service de police de la Ville.",
+      "translations": {
+        "zh": "市警察局报道说，一列货运列车今早在鲍曼维尔发生脱轨事故，鲍曼维尔是安大略省奥沙瓦以东15公里的一个农村社区。",
+        "en": "The derailment of a freight train occurred early this morning in Bowmanville, a rural community located 15 km east of Oshawa in Ontario, reported the City Police Service.",
+        "es": "El descarrilamiento de un tren de mercancías ocurrió temprano esta mañana en Bowmanville, una comunidad rural situada a 15 km al este de Oshawa en Ontario, informó el Servicio de Policía de la Ciudad."
+      },
+      "start": 39.92,
+      "end": 51.04,
+      "words": [
+        {
+          "text": "Le",
+          "start": 39.92,
+          "end": 40.08
+        },
+        {
+          "text": "déraillement",
+          "start": 40.08,
+          "end": 40.64
+        },
+        {
+          "text": "d'un",
+          "start": 40.64,
+          "end": 40.8
+        },
+        {
+          "text": "train",
+          "start": 40.8,
+          "end": 41.04
+        },
+        {
+          "text": "de",
+          "start": 41.04,
+          "end": 41.12
+        },
+        {
+          "text": "marchandises",
+          "start": 41.12,
+          "end": 41.84
+        },
+        {
+          "text": "est",
+          "start": 41.84,
+          "end": 41.92
+        },
+        {
+          "text": "survenu",
+          "start": 41.92,
+          "end": 42.48
+        },
+        {
+          "text": "tôt",
+          "start": 42.48,
+          "end": 42.72
+        },
+        {
+          "text": "ce",
+          "start": 42.72,
+          "end": 42.88
+        },
+        {
+          "text": "matin",
+          "start": 42.88,
+          "end": 43.2
+        },
+        {
+          "text": "à",
+          "start": 43.2,
+          "end": 43.36
+        },
+        {
+          "text": "Bowmanville",
+          "start": 43.36,
+          "end": 44.08
+        },
+        {
+          "text": "une",
+          "start": 44.4,
+          "end": 44.56
+        },
+        {
+          "text": "communauté",
+          "start": 44.56,
+          "end": 45.12
+        },
+        {
+          "text": "rurale",
+          "start": 45.12,
+          "end": 45.52
+        },
+        {
+          "text": "située",
+          "start": 45.52,
+          "end": 46.0
+        },
+        {
+          "text": "à",
+          "start": 46.0,
+          "end": 46.16
+        },
+        {
+          "text": "15",
+          "start": 46.16,
+          "end": 46.4
+        },
+        {
+          "text": "km",
+          "start": 46.4,
+          "end": 46.96
+        },
+        {
+          "text": "à",
+          "start": 46.96,
+          "end": 47.04
+        },
+        {
+          "text": "l'est",
+          "start": 47.04,
+          "end": 47.28
+        },
+        {
+          "text": "d'Oshawa",
+          "start": 47.36,
+          "end": 48.0
+        },
+        {
+          "text": "en",
+          "start": 48.08,
+          "end": 48.24
+        },
+        {
+          "text": "Ontario",
+          "start": 48.24,
+          "end": 48.72
+        },
+        {
+          "text": "a",
+          "start": 48.88,
+          "end": 48.96
+        },
+        {
+          "text": "rapporté",
+          "start": 48.96,
+          "end": 49.44
+        },
+        {
+          "text": "le",
+          "start": 49.44,
+          "end": 49.52
+        },
+        {
+          "text": "Service",
+          "start": 49.52,
+          "end": 49.92
+        },
+        {
+          "text": "de",
+          "start": 49.92,
+          "end": 50.0
+        },
+        {
+          "text": "police",
+          "start": 50.0,
+          "end": 50.4
+        },
+        {
+          "text": "de",
+          "start": 50.4,
+          "end": 50.48
+        },
+        {
+          "text": "la",
+          "start": 50.48,
+          "end": 50.64
+        },
+        {
+          "text": "Ville",
+          "start": 50.64,
+          "end": 51.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le déraillement d'un train de marchandises",
+          "translations": {
+            "zh": "一列货运列车的脱轨",
+            "en": "The derailment of a freight train",
+            "es": "El descarrilamiento de un tren de mercancías"
+          },
+          "start": 39.92,
+          "end": 41.84
+        },
+        {
+          "text": "est survenu tôt ce matin à Bowmanville,",
+          "translations": {
+            "zh": "发生在今早的鲍曼维尔，",
+            "en": "occurred early this morning in Bowmanville,",
+            "es": "ocurrió temprano esta mañana en Bowmanville,"
+          },
+          "start": 41.84,
+          "end": 44.08
+        },
+        {
+          "text": "une communauté rurale située à 15 km à l'est d'Oshawa en Ontario,",
+          "translations": {
+            "zh": "一个位于安大略省奥沙瓦以东15公里的农村社区，",
+            "en": "a rural community located 15 km east of Oshawa in Ontario,",
+            "es": "una comunidad rural situada a 15 km al este de Oshawa en Ontario,"
+          },
+          "start": 44.4,
+          "end": 48.72
+        },
+        {
+          "text": "a rapporté le Service de police de la Ville.",
+          "translations": {
+            "zh": "市警察局报道说。",
+            "en": "reported the City Police Service.",
+            "es": "informó el Servicio de Policía de la Ciudad."
+          },
+          "start": 48.88,
+          "end": 51.04
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "LOCO Rail a annoncé sur son compte Twitter la suspension de son service sur les liaisons ÉPISODE 6 Montréal-Toronto et Ottawa-Toronto en raison de cet accident.",
+      "translations": {
+        "zh": "LOCO Rail在其Twitter账号上宣布，由于此次事故，暂停其第6集蒙特利尔-多伦多和渥太华-多伦多线路的服务。",
+        "en": "LOCO Rail announced on its Twitter account the suspension of its service on the EPISODE 6 Montreal-Toronto and Ottawa-Toronto routes due to this accident.",
+        "es": "LOCO Rail anunció en su cuenta de Twitter la suspensión de su servicio en las rutas EPISODIO 6 Montreal-Toronto y Ottawa-Toronto debido a este accidente."
+      },
+      "start": 51.44,
+      "end": 60.4,
+      "words": [
+        {
+          "text": "LOCO",
+          "start": 51.44,
+          "end": 51.76
+        },
+        {
+          "text": "Rail",
+          "start": 51.76,
+          "end": 52.0
+        },
+        {
+          "text": "a",
+          "start": 52.0,
+          "end": 52.16
+        },
+        {
+          "text": "annoncé",
+          "start": 52.16,
+          "end": 52.56
+        },
+        {
+          "text": "sur",
+          "start": 52.56,
+          "end": 52.72
+        },
+        {
+          "text": "son",
+          "start": 52.72,
+          "end": 52.96
+        },
+        {
+          "text": "compte",
+          "start": 52.96,
+          "end": 53.28
+        },
+        {
+          "text": "Twitter",
+          "start": 53.28,
+          "end": 53.68
+        },
+        {
+          "text": "la",
+          "start": 54.0,
+          "end": 54.16
+        },
+        {
+          "text": "suspension",
+          "start": 54.16,
+          "end": 54.88
+        },
+        {
+          "text": "de",
+          "start": 54.88,
+          "end": 54.96
+        },
+        {
+          "text": "son",
+          "start": 54.96,
+          "end": 55.12
+        },
+        {
+          "text": "service",
+          "start": 55.12,
+          "end": 55.6
+        },
+        {
+          "text": "sur",
+          "start": 55.6,
+          "end": 55.84
+        },
+        {
+          "text": "les",
+          "start": 55.84,
+          "end": 55.92
+        },
+        {
+          "text": "liaisons",
+          "start": 55.92,
+          "end": 56.4
+        },
+        {
+          "text": "ÉPISODE",
+          "start": 56.4,
+          "end": 56.4
+        },
+        {
+          "text": "6",
+          "start": 56.96,
+          "end": 57.36
+        },
+        {
+          "text": "Montréal",
+          "start": 57.36,
+          "end": 57.52
+        },
+        {
+          "text": "Toronto",
+          "start": 57.52,
+          "end": 57.52
+        },
+        {
+          "text": "et",
+          "start": 57.84,
+          "end": 58.0
+        },
+        {
+          "text": "Ottawa",
+          "start": 58.0,
+          "end": 58.48
+        },
+        {
+          "text": "Toronto",
+          "start": 58.48,
+          "end": 59.04
+        },
+        {
+          "text": "en",
+          "start": 59.12,
+          "end": 59.28
+        },
+        {
+          "text": "raison",
+          "start": 59.28,
+          "end": 59.6
+        },
+        {
+          "text": "de",
+          "start": 59.6,
+          "end": 59.68
+        },
+        {
+          "text": "cet",
+          "start": 59.68,
+          "end": 59.92
+        },
+        {
+          "text": "accident",
+          "start": 59.92,
+          "end": 60.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "LOCO Rail a annoncé sur son compte Twitter",
+          "translations": {
+            "zh": "LOCO Rail在其Twitter账号上宣布",
+            "en": "LOCO Rail announced on its Twitter account",
+            "es": "LOCO Rail anunció en su cuenta de Twitter"
+          },
+          "start": 51.44,
+          "end": 53.68
+        },
+        {
+          "text": "la suspension de son service",
+          "translations": {
+            "zh": "暂停其服务",
+            "en": "the suspension of its service",
+            "es": "la suspensión de su servicio"
+          },
+          "start": 54.0,
+          "end": 55.6
+        },
+        {
+          "text": "sur les liaisons ÉPISODE 6 Montréal-Toronto et Ottawa-Toronto",
+          "translations": {
+            "zh": "在第6集蒙特利尔-多伦多和渥太华-多伦多线路上",
+            "en": "on the EPISODE 6 Montreal-Toronto and Ottawa-Toronto routes",
+            "es": "en las rutas EPISODIO 6 Montreal-Toronto y Ottawa-Toronto"
+          },
+          "start": 55.6,
+          "end": 59.04
+        },
+        {
+          "text": "en raison de cet accident.",
+          "translations": {
+            "zh": "由于此次事故。",
+            "en": "due to this accident.",
+            "es": "debido a este accidente."
+          },
+          "start": 59.12,
+          "end": 60.4
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "La compagnie a fait savoir qu'elle mettrait des autocars à la disposition de sa clientèle pour la servir.",
+      "translations": {
+        "zh": "该公司表示将安排长途巴士供乘客使用，以便为他们提供服务。",
+        "en": "The company announced that it would make buses available to its customers to serve them.",
+        "es": "La compañía hizo saber que pondría autobuses a disposición de su clientela para servirles."
+      },
+      "start": 60.8,
+      "end": 66.08,
+      "words": [
+        {
+          "text": "La",
+          "start": 60.8,
+          "end": 60.96
+        },
+        {
+          "text": "compagnie",
+          "start": 60.96,
+          "end": 61.36
+        },
+        {
+          "text": "a",
+          "start": 61.36,
+          "end": 61.44
+        },
+        {
+          "text": "fait",
+          "start": 61.44,
+          "end": 61.6
+        },
+        {
+          "text": "savoir",
+          "start": 61.6,
+          "end": 62.0
+        },
+        {
+          "text": "qu'elle",
+          "start": 62.0,
+          "end": 62.16
+        },
+        {
+          "text": "mettrait",
+          "start": 62.16,
+          "end": 62.48
+        },
+        {
+          "text": "des",
+          "start": 62.48,
+          "end": 62.72
+        },
+        {
+          "text": "autocars",
+          "start": 62.72,
+          "end": 63.28
+        },
+        {
+          "text": "à",
+          "start": 63.36,
+          "end": 63.52
+        },
+        {
+          "text": "la",
+          "start": 63.52,
+          "end": 63.6
+        },
+        {
+          "text": "disposition",
+          "start": 63.6,
+          "end": 64.32
+        },
+        {
+          "text": "de",
+          "start": 64.32,
+          "end": 64.4
+        },
+        {
+          "text": "sa",
+          "start": 64.4,
+          "end": 64.48
+        },
+        {
+          "text": "clientèle",
+          "start": 64.48,
+          "end": 65.12
+        },
+        {
+          "text": "pour",
+          "start": 65.12,
+          "end": 65.36
+        },
+        {
+          "text": "la",
+          "start": 65.36,
+          "end": 65.44
+        },
+        {
+          "text": "servir",
+          "start": 65.44,
+          "end": 66.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La compagnie a fait savoir",
+          "translations": {
+            "zh": "该公司表示",
+            "en": "The company let it be known",
+            "es": "La compañía hizo saber"
+          },
+          "start": 60.8,
+          "end": 62.0
+        },
+        {
+          "text": "qu'elle mettrait des autocars",
+          "translations": {
+            "zh": "它将安排长途巴士",
+            "en": "that it would make buses",
+            "es": "que pondría autobuses"
+          },
+          "start": 62.0,
+          "end": 63.28
+        },
+        {
+          "text": "à la disposition de sa clientèle",
+          "translations": {
+            "zh": "供其乘客使用",
+            "en": "available to its customers",
+            "es": "a disposición de su clientela"
+          },
+          "start": 63.36,
+          "end": 65.12
+        },
+        {
+          "text": "pour la servir.",
+          "translations": {
+            "zh": "以便为他们提供服务。",
+            "en": "to serve them.",
+            "es": "para servirles."
+          },
+          "start": 65.12,
+          "end": 66.08
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "On ne connait pas la cause du déraillement ni le contenu des wagons, mais ils ne transporteraient pas de matières dangereuses.",
+      "translations": {
+        "zh": "尚不清楚脱轨的原因和车厢内的货物，但它们应该没有运输危险物质。",
+        "en": "The cause of the derailment is not known, nor the contents of the cars, but they would not be carrying hazardous materials.",
+        "es": "No se conoce la causa del descarrilamiento ni el contenido de los vagones, pero no transportarían materiales peligrosos."
+      },
+      "start": 66.72,
+      "end": 72.56,
+      "words": [
+        {
+          "text": "On",
+          "start": 66.72,
+          "end": 66.88
+        },
+        {
+          "text": "ne",
+          "start": 66.88,
+          "end": 66.88
+        },
+        {
+          "text": "connait",
+          "start": 66.88,
+          "end": 67.12
+        },
+        {
+          "text": "pas",
+          "start": 67.12,
+          "end": 67.28
+        },
+        {
+          "text": "la",
+          "start": 67.28,
+          "end": 67.36
+        },
+        {
+          "text": "cause",
+          "start": 67.36,
+          "end": 67.68
+        },
+        {
+          "text": "du",
+          "start": 67.68,
+          "end": 67.84
+        },
+        {
+          "text": "déraillement",
+          "start": 67.84,
+          "end": 68.4
+        },
+        {
+          "text": "ni",
+          "start": 68.4,
+          "end": 68.56
+        },
+        {
+          "text": "le",
+          "start": 68.56,
+          "end": 68.72
+        },
+        {
+          "text": "contenu",
+          "start": 68.72,
+          "end": 69.12
+        },
+        {
+          "text": "des",
+          "start": 69.12,
+          "end": 69.2
+        },
+        {
+          "text": "wagons",
+          "start": 69.2,
+          "end": 69.68
+        },
+        {
+          "text": "mais",
+          "start": 70.08,
+          "end": 70.48
+        },
+        {
+          "text": "ils",
+          "start": 70.48,
+          "end": 70.64
+        },
+        {
+          "text": "ne",
+          "start": 70.64,
+          "end": 70.72
+        },
+        {
+          "text": "transporteraient",
+          "start": 70.72,
+          "end": 71.36
+        },
+        {
+          "text": "pas",
+          "start": 71.36,
+          "end": 71.52
+        },
+        {
+          "text": "de",
+          "start": 71.52,
+          "end": 71.6
+        },
+        {
+          "text": "matières",
+          "start": 71.6,
+          "end": 71.92
+        },
+        {
+          "text": "dangereuses",
+          "start": 71.92,
+          "end": 72.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On ne connait pas la cause du déraillement",
+          "translations": {
+            "zh": "尚不清楚脱轨的原因",
+            "en": "The cause of the derailment is not known,",
+            "es": "No se conoce la causa del descarrilamiento"
+          },
+          "start": 66.72,
+          "end": 68.4
+        },
+        {
+          "text": "ni le contenu des wagons,",
+          "translations": {
+            "zh": "也不清楚车厢内的货物，",
+            "en": "nor the contents of the cars,",
+            "es": "ni el contenido de los vagones,"
+          },
+          "start": 68.4,
+          "end": 69.68
+        },
+        {
+          "text": "mais ils ne transporteraient pas de matières dangereuses.",
+          "translations": {
+            "zh": "但它们应该没有运输危险物质。",
+            "en": "but they would not be carrying hazardous materials.",
+            "es": "pero no transportarían materiales peligrosos."
+          },
+          "start": 70.08,
+          "end": 72.56
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "On ne rapporte aucun blessé.",
+      "translations": {
+        "zh": "没有报告任何人员受伤。",
+        "en": "No injuries have been reported.",
+        "es": "No se reporta ningún herido."
+      },
+      "start": 72.88,
+      "end": 74.08,
+      "words": [
+        {
+          "text": "On",
+          "start": 72.88,
+          "end": 72.96
+        },
+        {
+          "text": "ne",
+          "start": 72.96,
+          "end": 72.96
+        },
+        {
+          "text": "rapporte",
+          "start": 72.96,
+          "end": 73.36
+        },
+        {
+          "text": "aucun",
+          "start": 73.36,
+          "end": 73.6
+        },
+        {
+          "text": "blessé",
+          "start": 73.6,
+          "end": 74.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On ne rapporte aucun blessé.",
+          "translations": {
+            "zh": "没有报告任何人员受伤。",
+            "en": "No injuries have been reported.",
+            "es": "No se reporta ningún herido."
+          },
+          "start": 72.88,
+          "end": 74.08
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Les habitants de Sainte-Adèle devront...",
+      "translations": {
+        "zh": "圣阿代尔的居民将需要...",
+        "en": "The residents of Sainte-Adèle will have to...",
+        "es": "Los habitantes de Sainte-Adèle tendrán que..."
+      },
+      "start": 74.56,
+      "end": 76.16,
+      "words": [
+        {
+          "text": "Les",
+          "start": 74.56,
+          "end": 74.8
+        },
+        {
+          "text": "habitants",
+          "start": 74.8,
+          "end": 75.12
+        },
+        {
+          "text": "de",
+          "start": 75.12,
+          "end": 75.2
+        },
+        {
+          "text": "Sainte",
+          "start": 75.2,
+          "end": 75.36
+        },
+        {
+          "text": "Adèle",
+          "start": 75.44,
+          "end": 75.84
+        },
+        {
+          "text": "devront",
+          "start": 75.84,
+          "end": 76.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les habitants de Sainte-Adèle",
+          "translations": {
+            "zh": "圣阿代尔的居民",
+            "en": "The residents of Sainte-Adèle",
+            "es": "Los habitantes de Sainte-Adèle"
+          },
+          "start": 74.56,
+          "end": 75.84
+        },
+        {
+          "text": "devront...",
+          "translations": {
+            "zh": "将需要...",
+            "en": "will have to...",
+            "es": "tendrán que..."
+          },
+          "start": 75.84,
+          "end": 76.16
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP06_P27",
+  "audio_filename": "FLS2_EP06_P27.mp3",
+  "audio_path": "downloads/FLS2_EP06_P27.mp3",
+  "episode": 6,
+  "piste": 27,
+  "page": 50,
+  "cd": "CD1"
+}

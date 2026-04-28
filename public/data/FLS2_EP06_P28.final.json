@@ -1,0 +1,1981 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 6 Piste 28 Page 51",
+      "translations": {
+        "zh": "第6集 第28轨 第51页",
+        "en": "Episode 6 Track 28 Page 51",
+        "es": "Episodio 6 Pista 28 Página 51"
+      },
+      "start": 0.72,
+      "end": 7.84,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.72,
+          "end": 1.44
+        },
+        {
+          "text": "6",
+          "start": 1.76,
+          "end": 2.24
+        },
+        {
+          "text": "Piste",
+          "start": 3.04,
+          "end": 3.44
+        },
+        {
+          "text": "28",
+          "start": 4.08,
+          "end": 4.72
+        },
+        {
+          "text": "Page",
+          "start": 4.72,
+          "end": 4.72
+        },
+        {
+          "text": "51",
+          "start": 6.4,
+          "end": 7.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 6",
+          "translations": {
+            "zh": "第6集",
+            "en": "Episode 6",
+            "es": "Episodio 6"
+          },
+          "start": 0.72,
+          "end": 2.24
+        },
+        {
+          "text": "Piste 28",
+          "translations": {
+            "zh": "第28轨",
+            "en": "Track 28",
+            "es": "Pista 28"
+          },
+          "start": 3.04,
+          "end": 4.72
+        },
+        {
+          "text": "Page 51",
+          "translations": {
+            "zh": "第51页",
+            "en": "Page 51",
+            "es": "Página 51"
+          },
+          "start": 4.72,
+          "end": 7.84
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Environ 5 000 résidents de Saint- Jean-sur-Richelieu sont toujours privés d'électricité, et ce, plus de quatre jours après la tempête qui s'est abattue sur la région mardi.",
+      "translations": {
+        "zh": "大约五千名Saint-Jean-sur-Richelieu的居民仍然断电，而这距离周二袭击该地区的暴风雨已超过四天。",
+        "en": "About 5,000 residents of Saint-Jean-sur-Richelieu are still without electricity, more than four days after the storm that struck the region on Tuesday.",
+        "es": "Unos 5 000 residentes de Saint-Jean-sur-Richelieu siguen sin electricidad, y esto, más de cuatro días después de la tormenta que azotó la región el martes."
+      },
+      "start": 11.28,
+      "end": 20.32,
+      "words": [
+        {
+          "text": "Environ",
+          "start": 11.28,
+          "end": 11.76
+        },
+        {
+          "text": "5",
+          "start": 11.76,
+          "end": 12.08
+        },
+        {
+          "text": "000",
+          "start": 12.08,
+          "end": 12.32
+        },
+        {
+          "text": "résidents",
+          "start": 12.32,
+          "end": 12.88
+        },
+        {
+          "text": "de",
+          "start": 12.88,
+          "end": 12.96
+        },
+        {
+          "text": "Saint",
+          "start": 12.96,
+          "end": 13.2
+        },
+        {
+          "text": "Jean",
+          "start": 13.2,
+          "end": 13.36
+        },
+        {
+          "text": "sur",
+          "start": 13.36,
+          "end": 13.6
+        },
+        {
+          "text": "Richelieu",
+          "start": 13.6,
+          "end": 14.16
+        },
+        {
+          "text": "sont",
+          "start": 14.16,
+          "end": 14.32
+        },
+        {
+          "text": "toujours",
+          "start": 14.32,
+          "end": 14.64
+        },
+        {
+          "text": "privés",
+          "start": 14.64,
+          "end": 15.04
+        },
+        {
+          "text": "d'électricité",
+          "start": 15.04,
+          "end": 15.84
+        },
+        {
+          "text": "et",
+          "start": 16.0,
+          "end": 16.16
+        },
+        {
+          "text": "ce",
+          "start": 16.16,
+          "end": 16.48
+        },
+        {
+          "text": "plus",
+          "start": 16.64,
+          "end": 16.8
+        },
+        {
+          "text": "de",
+          "start": 16.8,
+          "end": 16.88
+        },
+        {
+          "text": "quatre",
+          "start": 16.88,
+          "end": 17.2
+        },
+        {
+          "text": "jours",
+          "start": 17.2,
+          "end": 17.52
+        },
+        {
+          "text": "après",
+          "start": 17.52,
+          "end": 17.76
+        },
+        {
+          "text": "la",
+          "start": 17.76,
+          "end": 17.84
+        },
+        {
+          "text": "tempête",
+          "start": 17.84,
+          "end": 18.32
+        },
+        {
+          "text": "qui",
+          "start": 18.32,
+          "end": 18.4
+        },
+        {
+          "text": "s'est",
+          "start": 18.4,
+          "end": 18.64
+        },
+        {
+          "text": "abattue",
+          "start": 18.64,
+          "end": 19.12
+        },
+        {
+          "text": "sur",
+          "start": 19.12,
+          "end": 19.28
+        },
+        {
+          "text": "la",
+          "start": 19.28,
+          "end": 19.36
+        },
+        {
+          "text": "région",
+          "start": 19.36,
+          "end": 19.76
+        },
+        {
+          "text": "mardi",
+          "start": 19.76,
+          "end": 20.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Environ 5 000 résidents de Saint- Jean-sur-Richelieu",
+          "translations": {
+            "zh": "大约五千名Saint-Jean-sur-Richelieu的居民",
+            "en": "About 5,000 residents of Saint-Jean-sur-Richelieu",
+            "es": "Unos 5 000 residentes de Saint-Jean-sur-Richelieu"
+          },
+          "start": 11.28,
+          "end": 14.16
+        },
+        {
+          "text": "sont toujours privés d'électricité,",
+          "translations": {
+            "zh": "仍然断电，",
+            "en": "are still without electricity,",
+            "es": "siguen sin electricidad,"
+          },
+          "start": 14.16,
+          "end": 15.84
+        },
+        {
+          "text": "et ce, plus de quatre jours après la tempête",
+          "translations": {
+            "zh": "这已经是暴风雨过后四个多天了",
+            "en": "more than four days after the storm",
+            "es": "y esto, más de cuatro días después de la tormenta"
+          },
+          "start": 16.0,
+          "end": 18.32
+        },
+        {
+          "text": "qui s'est abattue sur la région mardi.",
+          "translations": {
+            "zh": "该暴风雨于周二袭击了该地区。",
+            "en": "that struck the region on Tuesday.",
+            "es": "que azotó la región el martes."
+          },
+          "start": 18.32,
+          "end": 20.32
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Hydro-Québec explique que plusieurs arbres sont tombés en raison des vents violents, provoquant ainsi des pannes de courant.",
+      "translations": {
+        "zh": "魁北克水电公司解释说，多棵树木因狂风而倒塌，从而导致了停电。",
+        "en": "Hydro-Québec explains that several trees fell due to the violent winds, thereby causing power outages.",
+        "es": "Hydro-Québec explica que varios árboles cayeron debido a los vientos violentos, provocando así cortes de electricidad."
+      },
+      "start": 20.64,
+      "end": 26.0,
+      "words": [
+        {
+          "text": "Hydro",
+          "start": 20.64,
+          "end": 20.88
+        },
+        {
+          "text": "Québec",
+          "start": 20.88,
+          "end": 21.2
+        },
+        {
+          "text": "explique",
+          "start": 21.2,
+          "end": 21.52
+        },
+        {
+          "text": "que",
+          "start": 21.52,
+          "end": 21.6
+        },
+        {
+          "text": "plusieurs",
+          "start": 21.6,
+          "end": 22.08
+        },
+        {
+          "text": "arbres",
+          "start": 22.08,
+          "end": 22.4
+        },
+        {
+          "text": "sont",
+          "start": 22.4,
+          "end": 22.56
+        },
+        {
+          "text": "tombés",
+          "start": 22.56,
+          "end": 22.96
+        },
+        {
+          "text": "en",
+          "start": 22.96,
+          "end": 23.04
+        },
+        {
+          "text": "raison",
+          "start": 23.04,
+          "end": 23.36
+        },
+        {
+          "text": "des",
+          "start": 23.36,
+          "end": 23.6
+        },
+        {
+          "text": "vents",
+          "start": 23.6,
+          "end": 23.84
+        },
+        {
+          "text": "violents",
+          "start": 23.84,
+          "end": 24.24
+        },
+        {
+          "text": "provoquant",
+          "start": 24.48,
+          "end": 24.88
+        },
+        {
+          "text": "ainsi",
+          "start": 24.88,
+          "end": 25.2
+        },
+        {
+          "text": "des",
+          "start": 25.2,
+          "end": 25.28
+        },
+        {
+          "text": "pannes",
+          "start": 25.28,
+          "end": 25.52
+        },
+        {
+          "text": "de",
+          "start": 25.52,
+          "end": 25.6
+        },
+        {
+          "text": "courant",
+          "start": 25.6,
+          "end": 26.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Hydro-Québec explique",
+          "translations": {
+            "zh": "魁北克水电公司解释说",
+            "en": "Hydro-Québec explains",
+            "es": "Hydro-Québec explica"
+          },
+          "start": 20.64,
+          "end": 21.52
+        },
+        {
+          "text": "que plusieurs arbres sont tombés en raison des vents violents,",
+          "translations": {
+            "zh": "多棵树木因强风而倒塌，",
+            "en": "that several trees fell due to the violent winds,",
+            "es": "que varios árboles cayeron debido a los vientos violentos,"
+          },
+          "start": 21.52,
+          "end": 24.24
+        },
+        {
+          "text": "provoquant ainsi des pannes de courant.",
+          "translations": {
+            "zh": "从而导致了停电。",
+            "en": "thereby causing power outages.",
+            "es": "provocando así cortes de electricidad."
+          },
+          "start": 24.48,
+          "end": 26.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Des équipes d'urgence ont été dépêchées sur les lieux.",
+      "translations": {
+        "zh": "紧急救援队已被派往现场。",
+        "en": "Emergency teams have been dispatched to the scene.",
+        "es": "Equipos de emergencia han sido enviados al lugar."
+      },
+      "start": 26.4,
+      "end": 28.56,
+      "words": [
+        {
+          "text": "Des",
+          "start": 26.4,
+          "end": 26.56
+        },
+        {
+          "text": "équipes",
+          "start": 26.56,
+          "end": 26.8
+        },
+        {
+          "text": "d'urgence",
+          "start": 26.8,
+          "end": 27.2
+        },
+        {
+          "text": "ont",
+          "start": 27.2,
+          "end": 27.28
+        },
+        {
+          "text": "été",
+          "start": 27.28,
+          "end": 27.52
+        },
+        {
+          "text": "dépêchées",
+          "start": 27.52,
+          "end": 28.0
+        },
+        {
+          "text": "sur",
+          "start": 28.0,
+          "end": 28.16
+        },
+        {
+          "text": "les",
+          "start": 28.16,
+          "end": 28.32
+        },
+        {
+          "text": "lieux",
+          "start": 28.32,
+          "end": 28.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Des équipes d'urgence",
+          "translations": {
+            "zh": "紧急救援队",
+            "en": "Emergency teams",
+            "es": "Equipos de emergencia"
+          },
+          "start": 26.4,
+          "end": 27.2
+        },
+        {
+          "text": "ont été dépêchées sur les lieux.",
+          "translations": {
+            "zh": "已被派往现场。",
+            "en": "have been dispatched to the scene.",
+            "es": "han sido enviados al lugar."
+          },
+          "start": 27.2,
+          "end": 28.56
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "On estime que le courant devrait être rétabli chez tous les abonnés d'ici la fin de la soirée.",
+      "translations": {
+        "zh": "据估计，所有用户的电力应在今晚结束前恢复。",
+        "en": "It is estimated that power should be restored to all subscribers by the end of the evening.",
+        "es": "Se estima que la corriente debería ser restablecida en todos los abonados para el final de la noche."
+      },
+      "start": 28.96,
+      "end": 33.28,
+      "words": [
+        {
+          "text": "On",
+          "start": 28.96,
+          "end": 29.04
+        },
+        {
+          "text": "estime",
+          "start": 29.04,
+          "end": 29.44
+        },
+        {
+          "text": "que",
+          "start": 29.44,
+          "end": 29.52
+        },
+        {
+          "text": "le",
+          "start": 29.52,
+          "end": 29.6
+        },
+        {
+          "text": "courant",
+          "start": 29.6,
+          "end": 29.92
+        },
+        {
+          "text": "devrait",
+          "start": 29.92,
+          "end": 30.24
+        },
+        {
+          "text": "être",
+          "start": 30.24,
+          "end": 30.48
+        },
+        {
+          "text": "rétabli",
+          "start": 30.48,
+          "end": 30.96
+        },
+        {
+          "text": "chez",
+          "start": 30.96,
+          "end": 31.12
+        },
+        {
+          "text": "tous",
+          "start": 31.12,
+          "end": 31.28
+        },
+        {
+          "text": "les",
+          "start": 31.28,
+          "end": 31.44
+        },
+        {
+          "text": "abonnés",
+          "start": 31.44,
+          "end": 32.0
+        },
+        {
+          "text": "d'ici",
+          "start": 32.0,
+          "end": 32.32
+        },
+        {
+          "text": "la",
+          "start": 32.32,
+          "end": 32.48
+        },
+        {
+          "text": "fin",
+          "start": 32.48,
+          "end": 32.72
+        },
+        {
+          "text": "de",
+          "start": 32.72,
+          "end": 32.8
+        },
+        {
+          "text": "la",
+          "start": 32.8,
+          "end": 32.8
+        },
+        {
+          "text": "soirée",
+          "start": 32.8,
+          "end": 33.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On estime",
+          "translations": {
+            "zh": "据估计",
+            "en": "It is estimated",
+            "es": "Se estima"
+          },
+          "start": 28.96,
+          "end": 29.44
+        },
+        {
+          "text": "que le courant devrait être rétabli chez tous les abonnés",
+          "translations": {
+            "zh": "所有用户的电力应该会恢复",
+            "en": "that power should be restored to all subscribers",
+            "es": "que la corriente debería ser restablecida en todos los abonados"
+          },
+          "start": 29.44,
+          "end": 32.0
+        },
+        {
+          "text": "d'ici la fin de la soirée.",
+          "translations": {
+            "zh": "在今晚结束之前。",
+            "en": "by the end of the evening.",
+            "es": "para el final de la noche."
+          },
+          "start": 32.0,
+          "end": 33.28
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Un violent incendie a ravagé une maison hier soir à Saint-Hubert, en banlieue de Montréal.",
+      "translations": {
+        "zh": "昨晚在蒙特利尔郊区Saint-Hubert，一场猛烈的火灾摧毁了一栋房屋。",
+        "en": "A violent fire ravaged a house last night in Saint-Hubert, a suburb of Montreal.",
+        "es": "Un violento incendio arrasó una casa anoche en Saint-Hubert, en las afueras de Montreal."
+      },
+      "start": 37.04,
+      "end": 41.52,
+      "words": [
+        {
+          "text": "Un",
+          "start": 37.04,
+          "end": 37.12
+        },
+        {
+          "text": "violent",
+          "start": 37.12,
+          "end": 37.44
+        },
+        {
+          "text": "incendie",
+          "start": 37.44,
+          "end": 38.0
+        },
+        {
+          "text": "a",
+          "start": 38.0,
+          "end": 38.08
+        },
+        {
+          "text": "ravagé",
+          "start": 38.08,
+          "end": 38.48
+        },
+        {
+          "text": "une",
+          "start": 38.48,
+          "end": 38.64
+        },
+        {
+          "text": "maison",
+          "start": 38.64,
+          "end": 39.04
+        },
+        {
+          "text": "hier",
+          "start": 39.04,
+          "end": 39.28
+        },
+        {
+          "text": "soir",
+          "start": 39.28,
+          "end": 39.52
+        },
+        {
+          "text": "à",
+          "start": 39.52,
+          "end": 39.6
+        },
+        {
+          "text": "Saint",
+          "start": 39.6,
+          "end": 39.84
+        },
+        {
+          "text": "Hubert",
+          "start": 39.84,
+          "end": 40.32
+        },
+        {
+          "text": "en",
+          "start": 40.32,
+          "end": 40.4
+        },
+        {
+          "text": "banlieue",
+          "start": 40.4,
+          "end": 40.8
+        },
+        {
+          "text": "de",
+          "start": 40.8,
+          "end": 40.8
+        },
+        {
+          "text": "Montréal",
+          "start": 40.8,
+          "end": 41.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Un violent incendie",
+          "translations": {
+            "zh": "一场猛烈的火灾",
+            "en": "A violent fire",
+            "es": "Un violento incendio"
+          },
+          "start": 37.04,
+          "end": 38.0
+        },
+        {
+          "text": "a ravagé une maison hier soir à Saint-Hubert,",
+          "translations": {
+            "zh": "昨晚在Saint-Hubert摧毁了一栋房屋，",
+            "en": "ravaged a house last night in Saint-Hubert,",
+            "es": "arrasó una casa anoche en Saint-Hubert,"
+          },
+          "start": 38.0,
+          "end": 40.32
+        },
+        {
+          "text": "en banlieue de Montréal.",
+          "translations": {
+            "zh": "在蒙特利尔郊区。",
+            "en": "a suburb of Montreal.",
+            "es": "en las afueras de Montreal."
+          },
+          "start": 40.32,
+          "end": 41.52
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Lorsque les pompiers sont arrivés sur les lieux, les deux occupants, un homme et une femme dans la quarantaine, se trouvaient toujours à l'intérieur.",
+      "translations": {
+        "zh": "当消防员到达现场时，两名住户——一名四十多岁的男子和一名四十多岁的女子——仍留在屋内。",
+        "en": "When the firefighters arrived at the scene, the two occupants, a man and a woman in their forties, were still inside.",
+        "es": "Cuando los bomberos llegaron al lugar, los dos ocupantes, un hombre y una mujer de unos cuarenta años, se encontraban todavía en el interior."
+      },
+      "start": 41.76,
+      "end": 48.32,
+      "words": [
+        {
+          "text": "Lorsque",
+          "start": 41.76,
+          "end": 41.92
+        },
+        {
+          "text": "les",
+          "start": 42.0,
+          "end": 42.08
+        },
+        {
+          "text": "pompiers",
+          "start": 42.08,
+          "end": 42.4
+        },
+        {
+          "text": "sont",
+          "start": 42.4,
+          "end": 42.56
+        },
+        {
+          "text": "arrivés",
+          "start": 42.56,
+          "end": 42.88
+        },
+        {
+          "text": "sur",
+          "start": 42.88,
+          "end": 43.04
+        },
+        {
+          "text": "les",
+          "start": 43.04,
+          "end": 43.2
+        },
+        {
+          "text": "lieux",
+          "start": 43.2,
+          "end": 43.52
+        },
+        {
+          "text": "les",
+          "start": 43.84,
+          "end": 44.0
+        },
+        {
+          "text": "deux",
+          "start": 44.0,
+          "end": 44.32
+        },
+        {
+          "text": "occupants",
+          "start": 44.32,
+          "end": 44.8
+        },
+        {
+          "text": "un",
+          "start": 44.96,
+          "end": 45.12
+        },
+        {
+          "text": "homme",
+          "start": 45.12,
+          "end": 45.36
+        },
+        {
+          "text": "et",
+          "start": 45.36,
+          "end": 45.44
+        },
+        {
+          "text": "une",
+          "start": 45.44,
+          "end": 45.6
+        },
+        {
+          "text": "femme",
+          "start": 45.6,
+          "end": 45.92
+        },
+        {
+          "text": "dans",
+          "start": 45.92,
+          "end": 46.0
+        },
+        {
+          "text": "la",
+          "start": 46.0,
+          "end": 46.08
+        },
+        {
+          "text": "quarantaine",
+          "start": 46.08,
+          "end": 46.64
+        },
+        {
+          "text": "se",
+          "start": 46.96,
+          "end": 47.04
+        },
+        {
+          "text": "trouvaient",
+          "start": 47.04,
+          "end": 47.28
+        },
+        {
+          "text": "toujours",
+          "start": 47.28,
+          "end": 47.52
+        },
+        {
+          "text": "à",
+          "start": 47.52,
+          "end": 47.6
+        },
+        {
+          "text": "l'intérieur",
+          "start": 47.6,
+          "end": 48.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Lorsque les pompiers sont arrivés sur les lieux,",
+          "translations": {
+            "zh": "当消防员到达现场时，",
+            "en": "When the firefighters arrived at the scene,",
+            "es": "Cuando los bomberos llegaron al lugar,"
+          },
+          "start": 41.76,
+          "end": 43.52
+        },
+        {
+          "text": "les deux occupants,",
+          "translations": {
+            "zh": "两名住户，",
+            "en": "the two occupants,",
+            "es": "los dos ocupantes,"
+          },
+          "start": 43.84,
+          "end": 44.8
+        },
+        {
+          "text": "un homme et une femme dans la quarantaine,",
+          "translations": {
+            "zh": "一名四十多岁的男子和一名女子，",
+            "en": "a man and a woman in their forties,",
+            "es": "un hombre y una mujer de unos cuarenta años,"
+          },
+          "start": 44.96,
+          "end": 46.64
+        },
+        {
+          "text": "se trouvaient toujours à l'intérieur.",
+          "translations": {
+            "zh": "仍然在里面。",
+            "en": "were still inside.",
+            "es": "se encontraban todavía en el interior."
+          },
+          "start": 46.96,
+          "end": 48.32
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Le couple a été secouru par les pompiers et repose à l'hôpital dans un état grave.",
+      "translations": {
+        "zh": "这对夫妇被消防员救出，目前情况严重，正在医院接受治疗。",
+        "en": "The couple was rescued by the firefighters and is resting at the hospital in serious condition.",
+        "es": "La pareja fue rescatada por los bomberos y reposa en el hospital en estado grave."
+      },
+      "start": 48.8,
+      "end": 52.64,
+      "words": [
+        {
+          "text": "Le",
+          "start": 48.8,
+          "end": 48.96
+        },
+        {
+          "text": "couple",
+          "start": 48.96,
+          "end": 49.28
+        },
+        {
+          "text": "a",
+          "start": 49.28,
+          "end": 49.28
+        },
+        {
+          "text": "été",
+          "start": 49.28,
+          "end": 49.44
+        },
+        {
+          "text": "secouru",
+          "start": 49.44,
+          "end": 49.84
+        },
+        {
+          "text": "par",
+          "start": 49.84,
+          "end": 50.0
+        },
+        {
+          "text": "les",
+          "start": 50.0,
+          "end": 50.08
+        },
+        {
+          "text": "pompiers",
+          "start": 50.08,
+          "end": 50.64
+        },
+        {
+          "text": "et",
+          "start": 50.88,
+          "end": 50.96
+        },
+        {
+          "text": "repose",
+          "start": 50.96,
+          "end": 51.28
+        },
+        {
+          "text": "à",
+          "start": 51.28,
+          "end": 51.36
+        },
+        {
+          "text": "l'hôpital",
+          "start": 51.36,
+          "end": 51.68
+        },
+        {
+          "text": "dans",
+          "start": 51.68,
+          "end": 51.92
+        },
+        {
+          "text": "un",
+          "start": 51.92,
+          "end": 52.0
+        },
+        {
+          "text": "état",
+          "start": 52.0,
+          "end": 52.24
+        },
+        {
+          "text": "grave",
+          "start": 52.24,
+          "end": 52.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le couple",
+          "translations": {
+            "zh": "这对夫妇",
+            "en": "The couple",
+            "es": "La pareja"
+          },
+          "start": 48.8,
+          "end": 49.28
+        },
+        {
+          "text": "a été secouru par les pompiers",
+          "translations": {
+            "zh": "被消防员救出",
+            "en": "was rescued by the firefighters",
+            "es": "fue rescatada por los bomberos"
+          },
+          "start": 49.28,
+          "end": 50.64
+        },
+        {
+          "text": "et repose à l'hôpital dans un état grave.",
+          "translations": {
+            "zh": "目前情况严重，正在医院接受治疗。",
+            "en": "and is resting at the hospital in serious condition.",
+            "es": "y reposa en el hospital en estado grave."
+          },
+          "start": 50.88,
+          "end": 52.64
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Aucun détecteur de fumée ne se trouvait dans l'habitation.",
+      "translations": {
+        "zh": "住所内没有任何烟雾探测器。",
+        "en": "No smoke detector was present in the home.",
+        "es": "Ningún detector de humo se encontraba en la vivienda."
+      },
+      "start": 53.12,
+      "end": 55.76,
+      "words": [
+        {
+          "text": "Aucun",
+          "start": 53.12,
+          "end": 53.44
+        },
+        {
+          "text": "détecteur",
+          "start": 53.44,
+          "end": 54.08
+        },
+        {
+          "text": "de",
+          "start": 54.08,
+          "end": 54.16
+        },
+        {
+          "text": "fumée",
+          "start": 54.16,
+          "end": 54.56
+        },
+        {
+          "text": "ne",
+          "start": 54.56,
+          "end": 54.64
+        },
+        {
+          "text": "se",
+          "start": 54.64,
+          "end": 54.8
+        },
+        {
+          "text": "trouvait",
+          "start": 54.8,
+          "end": 55.04
+        },
+        {
+          "text": "dans",
+          "start": 55.04,
+          "end": 55.2
+        },
+        {
+          "text": "l'habitation",
+          "start": 55.2,
+          "end": 55.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Aucun détecteur de fumée",
+          "translations": {
+            "zh": "没有任何烟雾探测器",
+            "en": "No smoke detector",
+            "es": "Ningún detector de humo"
+          },
+          "start": 53.12,
+          "end": 54.56
+        },
+        {
+          "text": "ne se trouvait dans l'habitation.",
+          "translations": {
+            "zh": "不在住所内。",
+            "en": "was present in the home.",
+            "es": "se encontraba en la vivienda."
+          },
+          "start": 54.56,
+          "end": 55.76
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Les policiers de Québec ont appréhendé tôt ce matin un suspect relativement à une série de vols qui ont été commis dans le secteur Saint-Roch au cours des deux derniers mois.",
+      "translations": {
+        "zh": "魁北克警方于今天清晨逮捕了一名嫌疑人，该嫌疑人涉及过去两个月在Saint-Roch地区发生的一系列盗窃案。",
+        "en": "Québec police apprehended a suspect early this morning in connection with a series of thefts committed in the Saint-Roch area over the past two months.",
+        "es": "Los policías de Quebec detuvieron temprano esta mañana a un sospechoso en relación con una serie de robos que fueron cometidos en el sector Saint-Roch durante los dos últimos meses."
+      },
+      "start": 60.08,
+      "end": 69.28,
+      "words": [
+        {
+          "text": "Les",
+          "start": 60.08,
+          "end": 60.32
+        },
+        {
+          "text": "policiers",
+          "start": 60.32,
+          "end": 60.8
+        },
+        {
+          "text": "de",
+          "start": 60.8,
+          "end": 60.96
+        },
+        {
+          "text": "Québec",
+          "start": 60.96,
+          "end": 61.44
+        },
+        {
+          "text": "ont",
+          "start": 61.52,
+          "end": 61.6
+        },
+        {
+          "text": "appréhendé",
+          "start": 61.6,
+          "end": 62.24
+        },
+        {
+          "text": "tôt",
+          "start": 62.24,
+          "end": 62.48
+        },
+        {
+          "text": "ce",
+          "start": 62.48,
+          "end": 62.56
+        },
+        {
+          "text": "matin",
+          "start": 62.56,
+          "end": 63.04
+        },
+        {
+          "text": "un",
+          "start": 63.12,
+          "end": 63.28
+        },
+        {
+          "text": "suspect",
+          "start": 63.28,
+          "end": 63.84
+        },
+        {
+          "text": "relativement",
+          "start": 63.84,
+          "end": 64.48
+        },
+        {
+          "text": "à",
+          "start": 64.48,
+          "end": 64.64
+        },
+        {
+          "text": "une",
+          "start": 64.64,
+          "end": 64.72
+        },
+        {
+          "text": "série",
+          "start": 64.72,
+          "end": 65.12
+        },
+        {
+          "text": "de",
+          "start": 65.12,
+          "end": 65.2
+        },
+        {
+          "text": "vols",
+          "start": 65.2,
+          "end": 65.6
+        },
+        {
+          "text": "qui",
+          "start": 65.92,
+          "end": 66.08
+        },
+        {
+          "text": "ont",
+          "start": 66.08,
+          "end": 66.08
+        },
+        {
+          "text": "été",
+          "start": 66.08,
+          "end": 66.4
+        },
+        {
+          "text": "commis",
+          "start": 66.4,
+          "end": 66.72
+        },
+        {
+          "text": "dans",
+          "start": 66.72,
+          "end": 66.88
+        },
+        {
+          "text": "le",
+          "start": 66.88,
+          "end": 66.88
+        },
+        {
+          "text": "secteur",
+          "start": 66.88,
+          "end": 67.36
+        },
+        {
+          "text": "Saint",
+          "start": 67.36,
+          "end": 67.6
+        },
+        {
+          "text": "Roch",
+          "start": 67.6,
+          "end": 67.92
+        },
+        {
+          "text": "au",
+          "start": 68.0,
+          "end": 68.08
+        },
+        {
+          "text": "cours",
+          "start": 68.08,
+          "end": 68.4
+        },
+        {
+          "text": "des",
+          "start": 68.4,
+          "end": 68.48
+        },
+        {
+          "text": "deux",
+          "start": 68.48,
+          "end": 68.64
+        },
+        {
+          "text": "derniers",
+          "start": 68.64,
+          "end": 68.96
+        },
+        {
+          "text": "mois",
+          "start": 68.96,
+          "end": 69.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les policiers de Québec",
+          "translations": {
+            "zh": "魁北克警方",
+            "en": "Québec police",
+            "es": "Los policías de Quebec"
+          },
+          "start": 60.08,
+          "end": 61.44
+        },
+        {
+          "text": "ont appréhendé tôt ce matin un suspect",
+          "translations": {
+            "zh": "今天清晨逮捕了一名嫌疑人",
+            "en": "apprehended a suspect early this morning",
+            "es": "detuvieron temprano esta mañana a un sospechoso"
+          },
+          "start": 61.52,
+          "end": 63.84
+        },
+        {
+          "text": "relativement à une série de vols",
+          "translations": {
+            "zh": "涉及一系列盗窃案",
+            "en": "in connection with a series of thefts",
+            "es": "en relación con una serie de robos"
+          },
+          "start": 63.84,
+          "end": 65.6
+        },
+        {
+          "text": "qui ont été commis dans le secteur Saint-Roch",
+          "translations": {
+            "zh": "这些盗窃案发生在Saint-Roch地区",
+            "en": "committed in the Saint-Roch area",
+            "es": "que fueron cometidos en el sector Saint-Roch"
+          },
+          "start": 65.92,
+          "end": 67.92
+        },
+        {
+          "text": "au cours des deux derniers mois.",
+          "translations": {
+            "zh": "在过去两个月中。",
+            "en": "over the past two months.",
+            "es": "durante los dos últimos meses."
+          },
+          "start": 68.0,
+          "end": 69.28
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Une vingtaine de résidences ont été cambriolées.",
+      "translations": {
+        "zh": "大约二十户住宅遭到入室盗窃。",
+        "en": "About twenty residences were burglarized.",
+        "es": "Una veintena de residencias fueron allanadas."
+      },
+      "start": 69.68,
+      "end": 72.0,
+      "words": [
+        {
+          "text": "Une",
+          "start": 69.68,
+          "end": 69.84
+        },
+        {
+          "text": "vingtaine",
+          "start": 69.84,
+          "end": 70.24
+        },
+        {
+          "text": "de",
+          "start": 70.24,
+          "end": 70.32
+        },
+        {
+          "text": "résidences",
+          "start": 70.32,
+          "end": 70.88
+        },
+        {
+          "text": "ont",
+          "start": 70.88,
+          "end": 70.96
+        },
+        {
+          "text": "été",
+          "start": 70.96,
+          "end": 71.28
+        },
+        {
+          "text": "cambriolées",
+          "start": 71.28,
+          "end": 72.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Une vingtaine de résidences",
+          "translations": {
+            "zh": "大约二十户住宅",
+            "en": "About twenty residences",
+            "es": "Una veintena de residencias"
+          },
+          "start": 69.68,
+          "end": 70.88
+        },
+        {
+          "text": "ont été cambriolées.",
+          "translations": {
+            "zh": "遭到入室盗窃。",
+            "en": "were burglarized.",
+            "es": "fueron allanadas."
+          },
+          "start": 70.88,
+          "end": 72.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Les policiers ont mis la main sur l'individu tôt ce matin après qu'un voisin a signalé la présence d'un rôdeur aux policiers.",
+      "translations": {
+        "zh": "警方于今天清晨抓获了该男子，此前一名邻居向警方报告发现了一名可疑的游荡者。",
+        "en": "The police caught the individual early this morning after a neighbor reported the presence of a prowler to the police.",
+        "es": "Los policías echaron el guante al individuo temprano esta mañana después de que un vecino informó de la presencia de un merodeador a los policías."
+      },
+      "start": 72.56,
+      "end": 78.96,
+      "words": [
+        {
+          "text": "Les",
+          "start": 72.56,
+          "end": 72.64
+        },
+        {
+          "text": "policiers",
+          "start": 72.64,
+          "end": 73.2
+        },
+        {
+          "text": "ont",
+          "start": 73.2,
+          "end": 73.28
+        },
+        {
+          "text": "mis",
+          "start": 73.28,
+          "end": 73.44
+        },
+        {
+          "text": "la",
+          "start": 73.44,
+          "end": 73.52
+        },
+        {
+          "text": "main",
+          "start": 73.52,
+          "end": 73.68
+        },
+        {
+          "text": "sur",
+          "start": 73.68,
+          "end": 73.92
+        },
+        {
+          "text": "l'individu",
+          "start": 73.92,
+          "end": 74.48
+        },
+        {
+          "text": "tôt",
+          "start": 74.48,
+          "end": 74.72
+        },
+        {
+          "text": "ce",
+          "start": 74.72,
+          "end": 74.88
+        },
+        {
+          "text": "matin",
+          "start": 74.88,
+          "end": 75.28
+        },
+        {
+          "text": "après",
+          "start": 75.6,
+          "end": 75.92
+        },
+        {
+          "text": "qu'un",
+          "start": 75.92,
+          "end": 76.0
+        },
+        {
+          "text": "voisin",
+          "start": 76.0,
+          "end": 76.4
+        },
+        {
+          "text": "a",
+          "start": 76.48,
+          "end": 76.56
+        },
+        {
+          "text": "signalé",
+          "start": 76.56,
+          "end": 76.96
+        },
+        {
+          "text": "la",
+          "start": 76.96,
+          "end": 77.12
+        },
+        {
+          "text": "présence",
+          "start": 77.12,
+          "end": 77.6
+        },
+        {
+          "text": "d'un",
+          "start": 77.6,
+          "end": 77.76
+        },
+        {
+          "text": "rôdeur",
+          "start": 77.76,
+          "end": 78.32
+        },
+        {
+          "text": "aux",
+          "start": 78.32,
+          "end": 78.4
+        },
+        {
+          "text": "policiers",
+          "start": 78.4,
+          "end": 78.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les policiers",
+          "translations": {
+            "zh": "警方",
+            "en": "The police",
+            "es": "Los policías"
+          },
+          "start": 72.56,
+          "end": 73.2
+        },
+        {
+          "text": "ont mis la main sur l'individu tôt ce matin",
+          "translations": {
+            "zh": "今天清晨抓获了该男子",
+            "en": "caught the individual early this morning",
+            "es": "echaron el guante al individuo temprano esta mañana"
+          },
+          "start": 73.2,
+          "end": 75.28
+        },
+        {
+          "text": "après qu'un voisin a signalé la présence d'un rôdeur aux policiers.",
+          "translations": {
+            "zh": "此前一名邻居向警方报告发现了一名可疑的游荡者。",
+            "en": "after a neighbor reported the presence of a prowler to the police.",
+            "es": "después de que un vecino informó de la presencia de un merodeador a los policías."
+          },
+          "start": 75.6,
+          "end": 78.96
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Selon les policiers de Shawinigan, la vitesse excessive et l'alcool pourraient être en cause dans la violente sortie de route qui est survenue tôt lundi matin.",
+      "translations": {
+        "zh": "据Shawinigan警方称，超速和酒精可能是周一一早发生的猛烈冲出道路事故的原因。",
+        "en": "According to Shawinigan police, excessive speed and alcohol may be factors in the violent road departure that occurred early Monday morning.",
+        "es": "Según los policías de Shawinigan, la velocidad excesiva y el alcohol podrían estar implicados en la violenta salida de la carretera que ocurrió temprano la mañana del lunes."
+      },
+      "start": 84.8,
+      "end": 93.28,
+      "words": [
+        {
+          "text": "Selon",
+          "start": 84.8,
+          "end": 85.2
+        },
+        {
+          "text": "les",
+          "start": 85.2,
+          "end": 85.28
+        },
+        {
+          "text": "policiers",
+          "start": 85.28,
+          "end": 85.84
+        },
+        {
+          "text": "de",
+          "start": 85.84,
+          "end": 85.92
+        },
+        {
+          "text": "Shawinigan",
+          "start": 85.92,
+          "end": 86.8
+        },
+        {
+          "text": "la",
+          "start": 87.28,
+          "end": 87.44
+        },
+        {
+          "text": "vitesse",
+          "start": 87.44,
+          "end": 87.84
+        },
+        {
+          "text": "excessive",
+          "start": 87.92,
+          "end": 88.48
+        },
+        {
+          "text": "et",
+          "start": 88.48,
+          "end": 88.56
+        },
+        {
+          "text": "l'alcool",
+          "start": 88.56,
+          "end": 89.12
+        },
+        {
+          "text": "pourraient",
+          "start": 89.2,
+          "end": 89.52
+        },
+        {
+          "text": "être",
+          "start": 89.52,
+          "end": 89.68
+        },
+        {
+          "text": "en",
+          "start": 89.68,
+          "end": 89.76
+        },
+        {
+          "text": "cause",
+          "start": 89.76,
+          "end": 90.16
+        },
+        {
+          "text": "dans",
+          "start": 90.16,
+          "end": 90.24
+        },
+        {
+          "text": "la",
+          "start": 90.24,
+          "end": 90.32
+        },
+        {
+          "text": "violente",
+          "start": 90.32,
+          "end": 90.8
+        },
+        {
+          "text": "sortie",
+          "start": 90.8,
+          "end": 91.12
+        },
+        {
+          "text": "de",
+          "start": 91.12,
+          "end": 91.28
+        },
+        {
+          "text": "route",
+          "start": 91.28,
+          "end": 91.44
+        },
+        {
+          "text": "qui",
+          "start": 91.44,
+          "end": 91.68
+        },
+        {
+          "text": "est",
+          "start": 91.68,
+          "end": 91.68
+        },
+        {
+          "text": "survenue",
+          "start": 91.68,
+          "end": 92.16
+        },
+        {
+          "text": "tôt",
+          "start": 92.16,
+          "end": 92.48
+        },
+        {
+          "text": "lundi",
+          "start": 92.56,
+          "end": 92.96
+        },
+        {
+          "text": "matin",
+          "start": 92.96,
+          "end": 93.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Selon les policiers de Shawinigan,",
+          "translations": {
+            "zh": "据Shawinigan警方称，",
+            "en": "According to Shawinigan police,",
+            "es": "Según los policías de Shawinigan,"
+          },
+          "start": 84.8,
+          "end": 86.8
+        },
+        {
+          "text": "la vitesse excessive et l'alcool",
+          "translations": {
+            "zh": "超速和酒精",
+            "en": "excessive speed and alcohol",
+            "es": "la velocidad excesiva y el alcohol"
+          },
+          "start": 87.28,
+          "end": 89.12
+        },
+        {
+          "text": "pourraient être en cause",
+          "translations": {
+            "zh": "可能是原因",
+            "en": "may be factors",
+            "es": "podrían estar implicados"
+          },
+          "start": 89.2,
+          "end": 90.16
+        },
+        {
+          "text": "dans la violente sortie de route",
+          "translations": {
+            "zh": "在这场猛烈的冲出道路事故中",
+            "en": "in the violent road departure",
+            "es": "en la violenta salida de la carretera"
+          },
+          "start": 90.16,
+          "end": 91.44
+        },
+        {
+          "text": "qui est survenue tôt lundi matin.",
+          "translations": {
+            "zh": "该事故发生在周一一早。",
+            "en": "that occurred early Monday morning.",
+            "es": "que ocurrió temprano la mañana del lunes."
+          },
+          "start": 91.44,
+          "end": 93.28
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Les policiers poursuivent leur enquête.",
+      "translations": {
+        "zh": "警方正在继续调查。",
+        "en": "The police are continuing their investigation.",
+        "es": "Los policías continúan su investigación."
+      },
+      "start": 93.92,
+      "end": 95.68,
+      "words": [
+        {
+          "text": "Les",
+          "start": 93.92,
+          "end": 94.0
+        },
+        {
+          "text": "policiers",
+          "start": 94.0,
+          "end": 94.48
+        },
+        {
+          "text": "poursuivent",
+          "start": 94.48,
+          "end": 94.96
+        },
+        {
+          "text": "leur",
+          "start": 94.96,
+          "end": 95.12
+        },
+        {
+          "text": "enquête",
+          "start": 95.12,
+          "end": 95.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les policiers",
+          "translations": {
+            "zh": "警方",
+            "en": "The police",
+            "es": "Los policías"
+          },
+          "start": 93.92,
+          "end": 94.48
+        },
+        {
+          "text": "poursuivent leur enquête.",
+          "translations": {
+            "zh": "正在继续他们的调查。",
+            "en": "are continuing their investigation.",
+            "es": "continúan su investigación."
+          },
+          "start": 94.48,
+          "end": 95.68
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Quant au conducteur, un jeune homme de 17 ans, il est à l'hôpital dans un état stable.",
+      "translations": {
+        "zh": "至于驾驶员，一名17岁的年轻男子，他在医院情况稳定。",
+        "en": "As for the driver, a young man of 17 years, he is at the hospital in stable condition.",
+        "es": "En cuanto al conductor, un joven de 17 años, está en el hospital en estado estable."
+      },
+      "start": 95.92,
+      "end": 100.72,
+      "words": [
+        {
+          "text": "Quant",
+          "start": 95.92,
+          "end": 96.08
+        },
+        {
+          "text": "au",
+          "start": 96.16,
+          "end": 96.16
+        },
+        {
+          "text": "conducteur",
+          "start": 96.16,
+          "end": 96.88
+        },
+        {
+          "text": "un",
+          "start": 97.12,
+          "end": 97.2
+        },
+        {
+          "text": "jeune",
+          "start": 97.2,
+          "end": 97.44
+        },
+        {
+          "text": "homme",
+          "start": 97.44,
+          "end": 97.6
+        },
+        {
+          "text": "de",
+          "start": 97.6,
+          "end": 97.76
+        },
+        {
+          "text": "17",
+          "start": 97.76,
+          "end": 98.24
+        },
+        {
+          "text": "ans",
+          "start": 98.24,
+          "end": 98.4
+        },
+        {
+          "text": "il",
+          "start": 98.64,
+          "end": 98.8
+        },
+        {
+          "text": "est",
+          "start": 98.8,
+          "end": 98.96
+        },
+        {
+          "text": "à",
+          "start": 98.96,
+          "end": 98.96
+        },
+        {
+          "text": "l'hôpital",
+          "start": 98.96,
+          "end": 99.6
+        },
+        {
+          "text": "dans",
+          "start": 99.68,
+          "end": 99.92
+        },
+        {
+          "text": "un",
+          "start": 99.92,
+          "end": 100.0
+        },
+        {
+          "text": "état",
+          "start": 100.0,
+          "end": 100.24
+        },
+        {
+          "text": "stable",
+          "start": 100.24,
+          "end": 100.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quant au conducteur,",
+          "translations": {
+            "zh": "至于驾驶员，",
+            "en": "As for the driver,",
+            "es": "En cuanto al conductor,"
+          },
+          "start": 95.92,
+          "end": 96.88
+        },
+        {
+          "text": "un jeune homme de 17 ans,",
+          "translations": {
+            "zh": "一名17岁的年轻男子，",
+            "en": "a young man of 17 years,",
+            "es": "un joven de 17 años,"
+          },
+          "start": 97.12,
+          "end": 98.4
+        },
+        {
+          "text": "il est à l'hôpital dans un état stable.",
+          "translations": {
+            "zh": "他在医院情况稳定。",
+            "en": "he is at the hospital in stable condition.",
+            "es": "está en el hospital en estado estable."
+          },
+          "start": 98.64,
+          "end": 100.72
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP06_P28",
+  "audio_filename": "FLS2_EP06_P28.mp3",
+  "audio_path": "downloads/FLS2_EP06_P28.mp3",
+  "episode": 6,
+  "piste": 28,
+  "page": 51,
+  "cd": "CD1"
+}

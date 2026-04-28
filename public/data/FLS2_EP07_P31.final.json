@@ -1,0 +1,1166 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 7 Piste 31 Page 60",
+      "translations": {
+        "zh": "第7集 第31轨 第60页",
+        "en": "Episode 7 Track 31 Page 60",
+        "es": "Episodio 7 Pista 31 Página 60"
+      },
+      "start": 0.96,
+      "end": 8.16,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.96,
+          "end": 1.68
+        },
+        {
+          "text": "7",
+          "start": 2.08,
+          "end": 2.4
+        },
+        {
+          "text": "Piste",
+          "start": 3.36,
+          "end": 3.84
+        },
+        {
+          "text": "31",
+          "start": 4.48,
+          "end": 5.04
+        },
+        {
+          "text": "Page",
+          "start": 5.04,
+          "end": 7.28
+        },
+        {
+          "text": "60",
+          "start": 7.52,
+          "end": 8.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 7",
+          "translations": {
+            "zh": "第7集",
+            "en": "Episode 7",
+            "es": "Episodio 7"
+          },
+          "start": 0.96,
+          "end": 2.4
+        },
+        {
+          "text": "Piste 31",
+          "translations": {
+            "zh": "第31轨",
+            "en": "Track 31",
+            "es": "Pista 31"
+          },
+          "start": 3.36,
+          "end": 5.04
+        },
+        {
+          "text": "Page 60",
+          "translations": {
+            "zh": "第60页",
+            "en": "Page 60",
+            "es": "Página 60"
+          },
+          "start": 5.04,
+          "end": 8.16
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Ta mère et moi, on voulait te féliciter pour ta promotion.",
+      "translations": {
+        "zh": "你妈妈和我，想祝贺你升职。",
+        "en": "Your mother and I wanted to congratulate you on your promotion.",
+        "es": "Tu madre y yo queríamos felicitarte por tu ascenso."
+      },
+      "start": 9.6,
+      "end": 13.52,
+      "words": [
+        {
+          "text": "Ta",
+          "start": 9.6,
+          "end": 10.24
+        },
+        {
+          "text": "mère",
+          "start": 10.8,
+          "end": 11.04
+        },
+        {
+          "text": "et",
+          "start": 11.04,
+          "end": 11.04
+        },
+        {
+          "text": "moi",
+          "start": 11.04,
+          "end": 11.36
+        },
+        {
+          "text": "on",
+          "start": 11.6,
+          "end": 11.68
+        },
+        {
+          "text": "voulait",
+          "start": 11.68,
+          "end": 11.92
+        },
+        {
+          "text": "te",
+          "start": 11.92,
+          "end": 12.0
+        },
+        {
+          "text": "féliciter",
+          "start": 12.0,
+          "end": 12.64
+        },
+        {
+          "text": "pour",
+          "start": 12.64,
+          "end": 12.8
+        },
+        {
+          "text": "ta",
+          "start": 12.8,
+          "end": 12.88
+        },
+        {
+          "text": "promotion",
+          "start": 12.88,
+          "end": 13.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ta mère et moi,",
+          "translations": {
+            "zh": "你妈妈和我，",
+            "en": "Your mother and I,",
+            "es": "Tu madre y yo,"
+          },
+          "start": 9.6,
+          "end": 11.36
+        },
+        {
+          "text": "on voulait te féliciter",
+          "translations": {
+            "zh": "想祝贺你",
+            "en": "wanted to congratulate you",
+            "es": "queríamos felicitarte"
+          },
+          "start": 11.6,
+          "end": 12.64
+        },
+        {
+          "text": "pour ta promotion.",
+          "translations": {
+            "zh": "你升职了。",
+            "en": "on your promotion.",
+            "es": "por tu ascenso."
+          },
+          "start": 12.64,
+          "end": 13.52
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "On est très fiers de toi !",
+      "translations": {
+        "zh": "我们为你感到非常骄傲！",
+        "en": "We are very proud of you!",
+        "es": "¡Estamos muy orgullosos de ti!"
+      },
+      "start": 13.84,
+      "end": 15.2,
+      "words": [
+        {
+          "text": "On",
+          "start": 13.84,
+          "end": 13.92
+        },
+        {
+          "text": "est",
+          "start": 13.92,
+          "end": 14.08
+        },
+        {
+          "text": "très",
+          "start": 14.08,
+          "end": 14.48
+        },
+        {
+          "text": "fiers",
+          "start": 14.48,
+          "end": 14.8
+        },
+        {
+          "text": "de",
+          "start": 14.8,
+          "end": 14.96
+        },
+        {
+          "text": "toi",
+          "start": 14.96,
+          "end": 15.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On est très fiers de toi !",
+          "translations": {
+            "zh": "我们为你感到非常骄傲！",
+            "en": "We are very proud of you!",
+            "es": "¡Estamos muy orgullosos de ti!"
+          },
+          "start": 13.84,
+          "end": 15.2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "J'ai entendu dire que vous avez acheté une maison.",
+      "translations": {
+        "zh": "我听说你们买了一栋房子。",
+        "en": "I heard that you bought a house.",
+        "es": "He oído decir que han comprado una casa."
+      },
+      "start": 18.08,
+      "end": 20.24,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 18.08,
+          "end": 18.24
+        },
+        {
+          "text": "entendu",
+          "start": 18.24,
+          "end": 18.64
+        },
+        {
+          "text": "dire",
+          "start": 18.64,
+          "end": 18.88
+        },
+        {
+          "text": "que",
+          "start": 18.88,
+          "end": 18.96
+        },
+        {
+          "text": "vous",
+          "start": 18.96,
+          "end": 19.2
+        },
+        {
+          "text": "avez",
+          "start": 19.2,
+          "end": 19.36
+        },
+        {
+          "text": "acheté",
+          "start": 19.36,
+          "end": 19.6
+        },
+        {
+          "text": "une",
+          "start": 19.6,
+          "end": 19.68
+        },
+        {
+          "text": "maison",
+          "start": 19.68,
+          "end": 20.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai entendu dire",
+          "translations": {
+            "zh": "我听说",
+            "en": "I heard",
+            "es": "He oído decir"
+          },
+          "start": 18.08,
+          "end": 18.88
+        },
+        {
+          "text": "que vous avez acheté une maison.",
+          "translations": {
+            "zh": "你们买了一栋房子。",
+            "en": "that you bought a house.",
+            "es": "que han comprado una casa."
+          },
+          "start": 18.88,
+          "end": 20.24
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Je suis vraiment heureux pour vous !",
+      "translations": {
+        "zh": "我真的为你们感到高兴！",
+        "en": "I am truly happy for you!",
+        "es": "¡Estoy realmente feliz por ustedes!"
+      },
+      "start": 20.8,
+      "end": 22.24,
+      "words": [
+        {
+          "text": "Je",
+          "start": 20.8,
+          "end": 20.96
+        },
+        {
+          "text": "suis",
+          "start": 20.96,
+          "end": 21.04
+        },
+        {
+          "text": "vraiment",
+          "start": 21.04,
+          "end": 21.52
+        },
+        {
+          "text": "heureux",
+          "start": 21.6,
+          "end": 21.84
+        },
+        {
+          "text": "pour",
+          "start": 21.84,
+          "end": 22.08
+        },
+        {
+          "text": "vous",
+          "start": 22.08,
+          "end": 22.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis vraiment heureux pour vous !",
+          "translations": {
+            "zh": "我真的为你们感到高兴！",
+            "en": "I am truly happy for you!",
+            "es": "¡Estoy realmente feliz por ustedes!"
+          },
+          "start": 20.8,
+          "end": 22.24
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Bravo pour ton permis de conduire !",
+      "translations": {
+        "zh": "恭喜你拿到驾照！",
+        "en": "Congratulations on your driver's license!",
+        "es": "¡Felicidades por tu permiso de conducir!"
+      },
+      "start": 26.56,
+      "end": 28.4,
+      "words": [
+        {
+          "text": "Bravo",
+          "start": 26.56,
+          "end": 27.12
+        },
+        {
+          "text": "pour",
+          "start": 27.12,
+          "end": 27.28
+        },
+        {
+          "text": "ton",
+          "start": 27.28,
+          "end": 27.44
+        },
+        {
+          "text": "permis",
+          "start": 27.44,
+          "end": 27.68
+        },
+        {
+          "text": "de",
+          "start": 27.68,
+          "end": 27.76
+        },
+        {
+          "text": "conduire",
+          "start": 27.76,
+          "end": 28.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bravo",
+          "translations": {
+            "zh": "恭喜",
+            "en": "Congratulations",
+            "es": "Felicidades"
+          },
+          "start": 26.56,
+          "end": 27.12
+        },
+        {
+          "text": "pour ton permis de conduire !",
+          "translations": {
+            "zh": "你拿到驾照了！",
+            "en": "on your driver's license!",
+            "es": "por tu permiso de conducir!"
+          },
+          "start": 27.12,
+          "end": 28.4
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Quelle bonne nouvelle !",
+      "translations": {
+        "zh": "真是个好消息！",
+        "en": "What good news!",
+        "es": "¡Qué buena noticia!"
+      },
+      "start": 28.88,
+      "end": 29.68,
+      "words": [
+        {
+          "text": "Quelle",
+          "start": 28.88,
+          "end": 29.12
+        },
+        {
+          "text": "bonne",
+          "start": 29.12,
+          "end": 29.36
+        },
+        {
+          "text": "nouvelle",
+          "start": 29.36,
+          "end": 29.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quelle bonne nouvelle !",
+          "translations": {
+            "zh": "真是个好消息！",
+            "en": "What good news!",
+            "es": "¡Qué buena noticia!"
+          },
+          "start": 28.88,
+          "end": 29.68
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Félicitations pour votre beau petit garçon !",
+      "translations": {
+        "zh": "恭喜你们生了一个漂亮的小男孩！",
+        "en": "Congratulations on your beautiful baby boy!",
+        "es": "¡Felicidades por su hermoso niño!"
+      },
+      "start": 33.52,
+      "end": 35.76,
+      "words": [
+        {
+          "text": "Félicitations",
+          "start": 33.52,
+          "end": 34.48
+        },
+        {
+          "text": "pour",
+          "start": 34.48,
+          "end": 34.64
+        },
+        {
+          "text": "votre",
+          "start": 34.64,
+          "end": 34.88
+        },
+        {
+          "text": "beau",
+          "start": 34.88,
+          "end": 35.04
+        },
+        {
+          "text": "petit",
+          "start": 35.04,
+          "end": 35.28
+        },
+        {
+          "text": "garçon",
+          "start": 35.28,
+          "end": 35.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Félicitations",
+          "translations": {
+            "zh": "恭喜",
+            "en": "Congratulations",
+            "es": "Felicidades"
+          },
+          "start": 33.52,
+          "end": 34.48
+        },
+        {
+          "text": "pour votre beau petit garçon !",
+          "translations": {
+            "zh": "你们生了一个漂亮的小男孩！",
+            "en": "on your beautiful baby boy!",
+            "es": "por su hermoso niño!"
+          },
+          "start": 34.48,
+          "end": 35.76
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "J'ai hâte de le voir !",
+      "translations": {
+        "zh": "我迫不及待想见他！",
+        "en": "I can't wait to see him!",
+        "es": "¡Tengo muchas ganas de verlo!"
+      },
+      "start": 36.0,
+      "end": 36.96,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 36.0,
+          "end": 36.24
+        },
+        {
+          "text": "hâte",
+          "start": 36.24,
+          "end": 36.4
+        },
+        {
+          "text": "de",
+          "start": 36.4,
+          "end": 36.48
+        },
+        {
+          "text": "le",
+          "start": 36.48,
+          "end": 36.56
+        },
+        {
+          "text": "voir",
+          "start": 36.56,
+          "end": 36.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai hâte de le voir !",
+          "translations": {
+            "zh": "我迫不及待想见他！",
+            "en": "I can't wait to see him!",
+            "es": "¡Tengo muchas ganas de verlo!"
+          },
+          "start": 36.0,
+          "end": 36.96
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Tu as fini ton bac.",
+      "translations": {
+        "zh": "你完成了你的高中毕业考试。",
+        "en": "You finished your baccalaureate.",
+        "es": "Has terminado tu bachillerato."
+      },
+      "start": 38.64,
+      "end": 40.88,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 38.64,
+          "end": 38.8
+        },
+        {
+          "text": "as",
+          "start": 38.8,
+          "end": 38.96
+        },
+        {
+          "text": "fini",
+          "start": 40.08,
+          "end": 40.32
+        },
+        {
+          "text": "ton",
+          "start": 40.32,
+          "end": 40.56
+        },
+        {
+          "text": "bac",
+          "start": 40.56,
+          "end": 40.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu as fini ton bac.",
+          "translations": {
+            "zh": "你完成了你的高中毕业考试。",
+            "en": "You finished your baccalaureate.",
+            "es": "Has terminado tu bachillerato."
+          },
+          "start": 38.64,
+          "end": 40.88
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Te rends-tu compte ?",
+      "translations": {
+        "zh": "你意识到了吗？",
+        "en": "Do you realize?",
+        "es": "¿Te das cuenta?"
+      },
+      "start": 40.88,
+      "end": 41.68,
+      "words": [
+        {
+          "text": "Te",
+          "start": 40.88,
+          "end": 40.96
+        },
+        {
+          "text": "rends",
+          "start": 40.96,
+          "end": 41.12
+        },
+        {
+          "text": "tu",
+          "start": 41.12,
+          "end": 41.2
+        },
+        {
+          "text": "compte",
+          "start": 41.28,
+          "end": 41.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Te rends-tu compte ?",
+          "translations": {
+            "zh": "你意识到了吗？",
+            "en": "Do you realize?",
+            "es": "¿Te das cuenta?"
+          },
+          "start": 40.88,
+          "end": 41.68
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Je suis tellement contente pour toi !",
+      "translations": {
+        "zh": "我真为你感到高兴！",
+        "en": "I am so happy for you!",
+        "es": "¡Estoy tan contenta por ti!"
+      },
+      "start": 42.16,
+      "end": 43.52,
+      "words": [
+        {
+          "text": "Je",
+          "start": 42.16,
+          "end": 42.4
+        },
+        {
+          "text": "suis",
+          "start": 42.4,
+          "end": 42.4
+        },
+        {
+          "text": "tellement",
+          "start": 42.4,
+          "end": 42.8
+        },
+        {
+          "text": "contente",
+          "start": 42.8,
+          "end": 43.12
+        },
+        {
+          "text": "pour",
+          "start": 43.12,
+          "end": 43.28
+        },
+        {
+          "text": "toi",
+          "start": 43.28,
+          "end": 43.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis tellement contente pour toi !",
+          "translations": {
+            "zh": "我真为你感到高兴！",
+            "en": "I am so happy for you!",
+            "es": "¡Estoy tan contenta por ti!"
+          },
+          "start": 42.16,
+          "end": 43.52
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Je voulais vous annoncer que vous avez décroché l'emploi.",
+      "translations": {
+        "zh": "我想通知你们，你们得到了这份工作。",
+        "en": "I wanted to announce to you that you got the job.",
+        "es": "Quería anunciarles que han conseguido el empleo."
+      },
+      "start": 45.52,
+      "end": 49.28,
+      "words": [
+        {
+          "text": "Je",
+          "start": 45.52,
+          "end": 45.76
+        },
+        {
+          "text": "voulais",
+          "start": 46.96,
+          "end": 47.2
+        },
+        {
+          "text": "vous",
+          "start": 47.2,
+          "end": 47.36
+        },
+        {
+          "text": "annoncer",
+          "start": 47.36,
+          "end": 47.84
+        },
+        {
+          "text": "que",
+          "start": 47.84,
+          "end": 47.84
+        },
+        {
+          "text": "vous",
+          "start": 47.84,
+          "end": 48.08
+        },
+        {
+          "text": "avez",
+          "start": 48.08,
+          "end": 48.32
+        },
+        {
+          "text": "décroché",
+          "start": 48.32,
+          "end": 48.72
+        },
+        {
+          "text": "l'emploi",
+          "start": 48.72,
+          "end": 49.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je voulais vous annoncer",
+          "translations": {
+            "zh": "我想通知你们，",
+            "en": "I wanted to announce to you",
+            "es": "Quería anunciarles"
+          },
+          "start": 45.52,
+          "end": 47.84
+        },
+        {
+          "text": "que vous avez décroché l'emploi.",
+          "translations": {
+            "zh": "你们得到了这份工作。",
+            "en": "that you got the job.",
+            "es": "que han conseguido el empleo."
+          },
+          "start": 47.84,
+          "end": 49.28
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Toutes mes félicitations !",
+      "translations": {
+        "zh": "衷心祝贺你！",
+        "en": "My heartfelt congratulations!",
+        "es": "¡Mis más sinceras felicitaciones!"
+      },
+      "start": 49.84,
+      "end": 50.88,
+      "words": [
+        {
+          "text": "Toutes",
+          "start": 49.84,
+          "end": 50.0
+        },
+        {
+          "text": "mes",
+          "start": 50.0,
+          "end": 50.16
+        },
+        {
+          "text": "félicitations",
+          "start": 50.16,
+          "end": 50.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Toutes mes félicitations !",
+          "translations": {
+            "zh": "衷心祝贺你！",
+            "en": "My heartfelt congratulations!",
+            "es": "¡Mis más sinceras felicitaciones!"
+          },
+          "start": 49.84,
+          "end": 50.88
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "C'est ton nouveau vélo ?",
+      "translations": {
+        "zh": "这是你的新自行车吗？",
+        "en": "Is that your new bike?",
+        "es": "¿Es tu bicicleta nueva?"
+      },
+      "start": 52.56,
+      "end": 54.72,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 52.56,
+          "end": 53.12
+        },
+        {
+          "text": "ton",
+          "start": 54.0,
+          "end": 54.16
+        },
+        {
+          "text": "nouveau",
+          "start": 54.16,
+          "end": 54.4
+        },
+        {
+          "text": "vélo",
+          "start": 54.4,
+          "end": 54.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est ton nouveau vélo ?",
+          "translations": {
+            "zh": "这是你的新自行车吗？",
+            "en": "Is that your new bike?",
+            "es": "¿Es tu bicicleta nueva?"
+          },
+          "start": 52.56,
+          "end": 54.72
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "C'est un bon achat !",
+      "translations": {
+        "zh": "买得很好！",
+        "en": "That's a good purchase!",
+        "es": "¡Es una buena compra!"
+      },
+      "start": 55.44,
+      "end": 56.4,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 55.44,
+          "end": 55.6
+        },
+        {
+          "text": "un",
+          "start": 55.6,
+          "end": 55.68
+        },
+        {
+          "text": "bon",
+          "start": 55.76,
+          "end": 56.0
+        },
+        {
+          "text": "achat",
+          "start": 56.0,
+          "end": 56.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est un bon achat !",
+          "translations": {
+            "zh": "买得很好！",
+            "en": "That's a good purchase!",
+            "es": "¡Es una buena compra!"
+          },
+          "start": 55.44,
+          "end": 56.4
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Bravo !",
+      "translations": {
+        "zh": "好样的！",
+        "en": "Well done!",
+        "es": "¡Bravo!"
+      },
+      "start": 56.4,
+      "end": 56.88,
+      "words": [
+        {
+          "text": "Bravo",
+          "start": 56.4,
+          "end": 56.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bravo !",
+          "translations": {
+            "zh": "好样的！",
+            "en": "Well done!",
+            "es": "¡Bravo!"
+          },
+          "start": 56.4,
+          "end": 56.88
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "TRAN S C RIP TION DE S DIALO GUES On m'a dit que vous vous étiez mariés récemment.",
+      "translations": {
+        "zh": "对话转录 我听说你们最近结婚了。",
+        "en": "TRANSCRIPTION OF DIALOGUES I was told that you got married recently.",
+        "es": "TRANSCRIPCIÓN DE LOS DIÁLOGOS Me han dicho que se casaron recientemente."
+      },
+      "start": 59.12,
+      "end": 62.4,
+      "words": [
+        {
+          "text": "TRAN",
+          "start": 59.12,
+          "end": 59.28
+        },
+        {
+          "text": "S",
+          "start": 59.333,
+          "end": 59.386
+        },
+        {
+          "text": "C",
+          "start": 59.44,
+          "end": 59.493
+        },
+        {
+          "text": "RIP",
+          "start": 59.546,
+          "end": 59.6
+        },
+        {
+          "text": "TION",
+          "start": 59.6,
+          "end": 59.6
+        },
+        {
+          "text": "DE",
+          "start": 59.6,
+          "end": 59.6
+        },
+        {
+          "text": "S",
+          "start": 59.6,
+          "end": 60.56
+        },
+        {
+          "text": "DIALO",
+          "start": 60.56,
+          "end": 60.96
+        },
+        {
+          "text": "GUES",
+          "start": 60.96,
+          "end": 60.96
+        },
+        {
+          "text": "On",
+          "start": 60.96,
+          "end": 60.96
+        },
+        {
+          "text": "m'a",
+          "start": 60.96,
+          "end": 60.96
+        },
+        {
+          "text": "dit",
+          "start": 60.96,
+          "end": 60.96
+        },
+        {
+          "text": "que",
+          "start": 60.96,
+          "end": 60.96
+        },
+        {
+          "text": "vous",
+          "start": 60.96,
+          "end": 61.12
+        },
+        {
+          "text": "vous",
+          "start": 61.12,
+          "end": 61.28
+        },
+        {
+          "text": "étiez",
+          "start": 61.28,
+          "end": 61.52
+        },
+        {
+          "text": "mariés",
+          "start": 61.52,
+          "end": 61.84
+        },
+        {
+          "text": "récemment",
+          "start": 61.84,
+          "end": 62.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "TRAN S C RIP TION DE S DIALO GUES",
+          "translations": {
+            "zh": "对话转录",
+            "en": "TRANSCRIPTION OF DIALOGUES",
+            "es": "TRANSCRIPCIÓN DE LOS DIÁLOGOS"
+          },
+          "start": 59.12,
+          "end": 60.96
+        },
+        {
+          "text": "On m'a dit",
+          "translations": {
+            "zh": "我听说",
+            "en": "I was told",
+            "es": "Me han dicho"
+          },
+          "start": 60.96,
+          "end": 60.96
+        },
+        {
+          "text": "que vous vous étiez mariés récemment.",
+          "translations": {
+            "zh": "你们最近结婚了。",
+            "en": "that you got married recently.",
+            "es": "que se casaron recientemente."
+          },
+          "start": 60.96,
+          "end": 62.4
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Félicitations à vous deux !",
+      "translations": {
+        "zh": "祝贺你们俩！",
+        "en": "Congratulations to you both!",
+        "es": "¡Felicidades a los dos!"
+      },
+      "start": 62.8,
+      "end": 64.48,
+      "words": [
+        {
+          "text": "Félicitations",
+          "start": 62.8,
+          "end": 63.92
+        },
+        {
+          "text": "à",
+          "start": 64.0,
+          "end": 64.08
+        },
+        {
+          "text": "vous",
+          "start": 64.08,
+          "end": 64.24
+        },
+        {
+          "text": "deux",
+          "start": 64.32,
+          "end": 64.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Félicitations à vous deux !",
+          "translations": {
+            "zh": "祝贺你们俩！",
+            "en": "Congratulations to you both!",
+            "es": "¡Felicidades a los dos!"
+          },
+          "start": 62.8,
+          "end": 64.48
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP07_P31",
+  "audio_filename": "FLS2_EP07_P31.mp3",
+  "audio_path": "downloads/FLS2_EP07_P31.mp3",
+  "episode": 7,
+  "piste": 31,
+  "page": 60,
+  "cd": "CD1"
+}
