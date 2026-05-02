@@ -18,9 +18,9 @@ function save(data: Record<string, RedWordEntry>) {
 
 type RedWordsStore = {
   data: Record<string, RedWordEntry>;
-  isRed: (wordText: string) => boolean;
+  isRed: (wordText: string, ep: number, piste: number, sentenceId: number) => boolean;
   addRed: (wordText: string, ep: number, piste: number, sentenceId: number, wordIdx: number) => void;
-  removeRed: (wordText: string) => void;
+  removeRed: (wordText: string, ep: number, piste: number, sentenceId: number) => void;
   clearSentenceReds: (ep: number, piste: number, sentenceId: number) => void;
   getRedKeysForSentence: (ep: number, piste: number, sentenceId: number) => string[];
 };
@@ -28,9 +28,11 @@ type RedWordsStore = {
 export const useRedWordsStore = create<RedWordsStore>((set, get) => ({
   data: load(),
 
-  isRed: (wordText) => {
+  isRed: (wordText, ep, piste, sentenceId) => {
     const norm = normalizeWord(wordText);
-    return norm in get().data;
+    return get().data[norm]?.refs.some(
+      r => r.ep === ep && r.piste === piste && r.sentenceId === sentenceId
+    ) ?? false;
   },
 
   addRed: (wordText, ep, piste, sentenceId, wordIdx) => {
@@ -49,10 +51,21 @@ export const useRedWordsStore = create<RedWordsStore>((set, get) => ({
     set({ data: next });
   },
 
-  removeRed: (wordText) => {
+  removeRed: (wordText, ep, piste, sentenceId) => {
     const norm = normalizeWord(wordText);
-    const next = { ...get().data };
-    delete next[norm];
+    const cur = get().data;
+    const entry = cur[norm];
+    if (!entry) return;
+
+    const remaining = entry.refs.filter(
+      r => !(r.ep === ep && r.piste === piste && r.sentenceId === sentenceId)
+    );
+    const next = { ...cur };
+    if (remaining.length > 0) {
+      next[norm] = { ...entry, refs: remaining };
+    } else {
+      delete next[norm];
+    }
     save(next);
     set({ data: next });
   },

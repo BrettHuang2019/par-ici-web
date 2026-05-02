@@ -1,6 +1,5 @@
 import { useEffect, useRef } from 'react';
 import type { Word, Chunk } from '../lib/types';
-import { useRedWordsStore } from '../store/redWords';
 
 type WordState = 'hidden' | 'revealed' | 'red';
 
@@ -24,10 +23,8 @@ const DOUBLE_CLICK_DELAY_MS = 220;
 
 export function WordSlot({
   word, wordIdx, chunk, isActive, globalRevealed,
-  wordState, onStateChange, onChunkClick, ep, piste, sentenceId,
+  wordState, onStateChange, onChunkClick,
 }: Props) {
-  const addRed = useRedWordsStore(s => s.addRed);
-  const removeRed = useRedWordsStore(s => s.removeRed);
   const clickTimeoutRef = useRef<number | null>(null);
 
   const effectiveState: WordState = globalRevealed && wordState === 'hidden' ? 'revealed' : wordState;
@@ -62,10 +59,8 @@ export function WordSlot({
     if (effectiveState === 'hidden') {
       onStateChange(wordIdx, 'revealed');
     } else if (effectiveState === 'revealed') {
-      addRed(word.text, ep, piste, sentenceId, wordIdx);
       onStateChange(wordIdx, 'red');
     } else {
-      removeRed(word.text);
       onStateChange(wordIdx, 'revealed');
     }
   };
