@@ -1,0 +1,1201 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 10 Piste 53 Page 80",
+      "translations": {
+        "zh": "第10集 第53轨 第80页",
+        "en": "Episode 10 Track 53 Page 80",
+        "es": "Episodio 10 Pista 53 Página 80"
+      },
+      "start": 0.72,
+      "end": 7.76,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.72,
+          "end": 1.44
+        },
+        {
+          "text": "10",
+          "start": 1.76,
+          "end": 2.16
+        },
+        {
+          "text": "Piste",
+          "start": 3.04,
+          "end": 3.44
+        },
+        {
+          "text": "53",
+          "start": 4.0,
+          "end": 4.96
+        },
+        {
+          "text": "Page",
+          "start": 4.96,
+          "end": 4.96
+        },
+        {
+          "text": "80",
+          "start": 6.56,
+          "end": 7.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 10",
+          "translations": {
+            "zh": "第10集",
+            "en": "Episode 10",
+            "es": "Episodio 10"
+          },
+          "start": 0.72,
+          "end": 2.16
+        },
+        {
+          "text": "Piste 53",
+          "translations": {
+            "zh": "第53轨",
+            "en": "Track 53",
+            "es": "Pista 53"
+          },
+          "start": 3.04,
+          "end": 4.96
+        },
+        {
+          "text": "Page 80",
+          "translations": {
+            "zh": "第80页",
+            "en": "Page 80",
+            "es": "Página 80"
+          },
+          "start": 4.96,
+          "end": 7.76
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Excusez-moi, je cherche le service d'orthopédie.",
+      "translations": {
+        "zh": "打扰一下，我在找骨科。",
+        "en": "Excuse me, I'm looking for the orthopedics department.",
+        "es": "Disculpe, busco el servicio de ortopedia."
+      },
+      "start": 10.16,
+      "end": 12.96,
+      "words": [
+        {
+          "text": "Excusez",
+          "start": 10.16,
+          "end": 10.64
+        },
+        {
+          "text": "moi",
+          "start": 10.64,
+          "end": 10.88
+        },
+        {
+          "text": "je",
+          "start": 11.04,
+          "end": 11.2
+        },
+        {
+          "text": "cherche",
+          "start": 11.2,
+          "end": 11.6
+        },
+        {
+          "text": "le",
+          "start": 11.6,
+          "end": 11.68
+        },
+        {
+          "text": "service",
+          "start": 11.68,
+          "end": 12.24
+        },
+        {
+          "text": "d'orthopédie",
+          "start": 12.24,
+          "end": 12.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Excusez-moi,",
+          "translations": {
+            "zh": "打扰一下，",
+            "en": "Excuse me,",
+            "es": "Disculpe,"
+          },
+          "start": 10.16,
+          "end": 10.88
+        },
+        {
+          "text": "je cherche le service d'orthopédie.",
+          "translations": {
+            "zh": "我在找骨科。",
+            "en": "I'm looking for the orthopedics department.",
+            "es": "busco el servicio de ortopedia."
+          },
+          "start": 11.04,
+          "end": 12.96
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Oh, vous êtes au mauvais étage...",
+      "translations": {
+        "zh": "哦，您走错楼层了……",
+        "en": "Oh, you're on the wrong floor...",
+        "es": "Oh, está en el piso equivocado..."
+      },
+      "start": 13.36,
+      "end": 14.88,
+      "words": [
+        {
+          "text": "Oh",
+          "start": 13.36,
+          "end": 13.52
+        },
+        {
+          "text": "vous",
+          "start": 13.6,
+          "end": 13.84
+        },
+        {
+          "text": "êtes",
+          "start": 13.84,
+          "end": 13.92
+        },
+        {
+          "text": "au",
+          "start": 13.92,
+          "end": 14.0
+        },
+        {
+          "text": "mauvais",
+          "start": 14.0,
+          "end": 14.32
+        },
+        {
+          "text": "étage",
+          "start": 14.32,
+          "end": 14.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oh,",
+          "translations": {
+            "zh": "哦，",
+            "en": "Oh,",
+            "es": "Oh,"
+          },
+          "start": 13.36,
+          "end": 13.52
+        },
+        {
+          "text": "vous êtes au mauvais étage...",
+          "translations": {
+            "zh": "您走错楼层了……",
+            "en": "you're on the wrong floor...",
+            "es": "está en el piso equivocado..."
+          },
+          "start": 13.6,
+          "end": 14.88
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Oui, je pense que je suis perdu.",
+      "translations": {
+        "zh": "是的，我想我迷路了。",
+        "en": "Yes, I think I'm lost.",
+        "es": "Sí, creo que estoy perdido."
+      },
+      "start": 15.36,
+      "end": 16.64,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 15.36,
+          "end": 15.52
+        },
+        {
+          "text": "je",
+          "start": 15.52,
+          "end": 15.68
+        },
+        {
+          "text": "pense",
+          "start": 15.68,
+          "end": 15.92
+        },
+        {
+          "text": "que",
+          "start": 15.92,
+          "end": 16.08
+        },
+        {
+          "text": "je",
+          "start": 16.08,
+          "end": 16.16
+        },
+        {
+          "text": "suis",
+          "start": 16.16,
+          "end": 16.24
+        },
+        {
+          "text": "perdu",
+          "start": 16.24,
+          "end": 16.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 15.36,
+          "end": 15.52
+        },
+        {
+          "text": "je pense que je suis perdu.",
+          "translations": {
+            "zh": "我想我迷路了。",
+            "en": "I think I'm lost.",
+            "es": "creo que estoy perdido."
+          },
+          "start": 15.52,
+          "end": 16.64
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Commencez par reprendre l'ascenseur en face de l'accueil et descendez au rez-de-chaussée.",
+      "translations": {
+        "zh": "先乘坐接待处对面的电梯，下到一楼。",
+        "en": "Start by taking the elevator opposite reception and go down to the ground floor.",
+        "es": "Empiece por tomar el ascensor frente a la recepción y baje a la planta baja."
+      },
+      "start": 17.12,
+      "end": 20.96,
+      "words": [
+        {
+          "text": "Commencez",
+          "start": 17.12,
+          "end": 17.6
+        },
+        {
+          "text": "par",
+          "start": 17.6,
+          "end": 17.76
+        },
+        {
+          "text": "reprendre",
+          "start": 17.76,
+          "end": 18.24
+        },
+        {
+          "text": "l'ascenseur",
+          "start": 18.24,
+          "end": 18.8
+        },
+        {
+          "text": "en",
+          "start": 18.8,
+          "end": 18.88
+        },
+        {
+          "text": "face",
+          "start": 18.88,
+          "end": 19.12
+        },
+        {
+          "text": "de",
+          "start": 19.12,
+          "end": 19.2
+        },
+        {
+          "text": "l'accueil",
+          "start": 19.2,
+          "end": 19.68
+        },
+        {
+          "text": "et",
+          "start": 19.76,
+          "end": 19.92
+        },
+        {
+          "text": "descendez",
+          "start": 19.92,
+          "end": 20.4
+        },
+        {
+          "text": "au",
+          "start": 20.4,
+          "end": 20.48
+        },
+        {
+          "text": "rez",
+          "start": 20.48,
+          "end": 20.56
+        },
+        {
+          "text": "de",
+          "start": 20.56,
+          "end": 20.64
+        },
+        {
+          "text": "chaussée",
+          "start": 20.64,
+          "end": 20.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Commencez par reprendre l'ascenseur en face de l'accueil",
+          "translations": {
+            "zh": "先乘坐接待处对面的电梯",
+            "en": "Start by taking the elevator opposite reception",
+            "es": "Empiece por tomar el ascensor frente a la recepción"
+          },
+          "start": 17.12,
+          "end": 19.68
+        },
+        {
+          "text": "et descendez au rez-de-chaussée.",
+          "translations": {
+            "zh": "然后下到一楼。",
+            "en": "and go down to the ground floor.",
+            "es": "y baje a la planta baja."
+          },
+          "start": 19.76,
+          "end": 20.96
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Oui...",
+      "translations": {
+        "zh": "是的……",
+        "en": "Yes...",
+        "es": "Sí..."
+      },
+      "start": 21.52,
+      "end": 21.84,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 21.52,
+          "end": 21.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui...",
+          "translations": {
+            "zh": "是的……",
+            "en": "Yes...",
+            "es": "Sí..."
+          },
+          "start": 21.52,
+          "end": 21.84
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Tournez à droite en sortant de l'ascenseur et prenez le premier corridor à votre droite.",
+      "translations": {
+        "zh": "出电梯后右转，然后走右边第一条走廊。",
+        "en": "Turn right when you get out of the elevator and take the first corridor on your right.",
+        "es": "Gire a la derecha al salir del ascensor y tome el primer pasillo a su derecha."
+      },
+      "start": 22.16,
+      "end": 26.24,
+      "words": [
+        {
+          "text": "Tournez",
+          "start": 22.16,
+          "end": 22.48
+        },
+        {
+          "text": "à",
+          "start": 22.48,
+          "end": 22.56
+        },
+        {
+          "text": "droite",
+          "start": 22.56,
+          "end": 22.88
+        },
+        {
+          "text": "en",
+          "start": 22.88,
+          "end": 22.96
+        },
+        {
+          "text": "sortant",
+          "start": 22.96,
+          "end": 23.28
+        },
+        {
+          "text": "de",
+          "start": 23.28,
+          "end": 23.36
+        },
+        {
+          "text": "l'ascenseur",
+          "start": 23.36,
+          "end": 24.0
+        },
+        {
+          "text": "et",
+          "start": 24.08,
+          "end": 24.24
+        },
+        {
+          "text": "prenez",
+          "start": 24.24,
+          "end": 24.56
+        },
+        {
+          "text": "le",
+          "start": 24.56,
+          "end": 24.64
+        },
+        {
+          "text": "premier",
+          "start": 24.64,
+          "end": 25.04
+        },
+        {
+          "text": "corridor",
+          "start": 25.04,
+          "end": 25.52
+        },
+        {
+          "text": "à",
+          "start": 25.52,
+          "end": 25.6
+        },
+        {
+          "text": "votre",
+          "start": 25.6,
+          "end": 25.76
+        },
+        {
+          "text": "droite",
+          "start": 25.76,
+          "end": 26.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tournez à droite en sortant de l'ascenseur",
+          "translations": {
+            "zh": "出电梯后右转",
+            "en": "Turn right when you get out of the elevator",
+            "es": "Gire a la derecha al salir del ascensor"
+          },
+          "start": 22.16,
+          "end": 24.0
+        },
+        {
+          "text": "et prenez le premier corridor à votre droite.",
+          "translations": {
+            "zh": "然后走右边第一条走廊。",
+            "en": "and take the first corridor on your right.",
+            "es": "y tome el primer pasillo a su derecha."
+          },
+          "start": 24.08,
+          "end": 26.24
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Continuez tout droit pour aller dans le bloc B.",
+      "translations": {
+        "zh": "一直往前走，去B栋。",
+        "en": "Continue straight ahead to go to block B.",
+        "es": "Siga todo recto para ir al bloque B."
+      },
+      "start": 26.56,
+      "end": 28.72,
+      "words": [
+        {
+          "text": "Continuez",
+          "start": 26.56,
+          "end": 27.04
+        },
+        {
+          "text": "tout",
+          "start": 27.04,
+          "end": 27.12
+        },
+        {
+          "text": "droit",
+          "start": 27.12,
+          "end": 27.44
+        },
+        {
+          "text": "pour",
+          "start": 27.6,
+          "end": 27.76
+        },
+        {
+          "text": "aller",
+          "start": 27.76,
+          "end": 27.92
+        },
+        {
+          "text": "dans",
+          "start": 27.92,
+          "end": 28.0
+        },
+        {
+          "text": "le",
+          "start": 28.0,
+          "end": 28.16
+        },
+        {
+          "text": "bloc",
+          "start": 28.16,
+          "end": 28.4
+        },
+        {
+          "text": "B",
+          "start": 28.4,
+          "end": 28.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Continuez tout droit",
+          "translations": {
+            "zh": "一直往前走",
+            "en": "Continue straight ahead",
+            "es": "Siga todo recto"
+          },
+          "start": 26.56,
+          "end": 27.44
+        },
+        {
+          "text": "pour aller dans le bloc B.",
+          "translations": {
+            "zh": "去B栋。",
+            "en": "to go to block B.",
+            "es": "para ir al bloque B."
+          },
+          "start": 27.6,
+          "end": 28.72
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Ok.",
+      "translations": {
+        "zh": "好的。",
+        "en": "OK.",
+        "es": "Ok."
+      },
+      "start": 29.28,
+      "end": 29.6,
+      "words": [
+        {
+          "text": "Ok",
+          "start": 29.28,
+          "end": 29.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ok.",
+          "translations": {
+            "zh": "好的。",
+            "en": "OK.",
+            "es": "Ok."
+          },
+          "start": 29.28,
+          "end": 29.6
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Continuez tout droit, passez devant la porte des escaliers puis tournez à gauche.",
+      "translations": {
+        "zh": "一直往前走，经过楼梯门，然后左转。",
+        "en": "Continue straight ahead, pass by the stairway door then turn left.",
+        "es": "Siga todo recto, pase por delante de la puerta de las escaleras y luego gire a la izquierda."
+      },
+      "start": 30.24,
+      "end": 34.4,
+      "words": [
+        {
+          "text": "Continuez",
+          "start": 30.24,
+          "end": 30.64
+        },
+        {
+          "text": "tout",
+          "start": 30.64,
+          "end": 30.8
+        },
+        {
+          "text": "droit",
+          "start": 30.8,
+          "end": 31.2
+        },
+        {
+          "text": "passez",
+          "start": 31.52,
+          "end": 31.92
+        },
+        {
+          "text": "devant",
+          "start": 31.92,
+          "end": 32.08
+        },
+        {
+          "text": "la",
+          "start": 32.08,
+          "end": 32.24
+        },
+        {
+          "text": "porte",
+          "start": 32.24,
+          "end": 32.56
+        },
+        {
+          "text": "des",
+          "start": 32.56,
+          "end": 32.8
+        },
+        {
+          "text": "escaliers",
+          "start": 32.8,
+          "end": 33.28
+        },
+        {
+          "text": "puis",
+          "start": 33.28,
+          "end": 33.52
+        },
+        {
+          "text": "tournez",
+          "start": 33.52,
+          "end": 33.84
+        },
+        {
+          "text": "à",
+          "start": 33.84,
+          "end": 33.92
+        },
+        {
+          "text": "gauche",
+          "start": 33.92,
+          "end": 34.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Continuez tout droit,",
+          "translations": {
+            "zh": "一直往前走，",
+            "en": "Continue straight ahead,",
+            "es": "Siga todo recto,"
+          },
+          "start": 30.24,
+          "end": 31.2
+        },
+        {
+          "text": "passez devant la porte des escaliers",
+          "translations": {
+            "zh": "经过楼梯门",
+            "en": "pass by the stairway door",
+            "es": "pase por delante de la puerta de las escaleras"
+          },
+          "start": 31.52,
+          "end": 33.28
+        },
+        {
+          "text": "puis tournez à gauche.",
+          "translations": {
+            "zh": "然后左转。",
+            "en": "then turn left.",
+            "es": "y luego gire a la izquierda."
+          },
+          "start": 33.28,
+          "end": 34.4
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Continuez tout droit.",
+      "translations": {
+        "zh": "一直往前走。",
+        "en": "Continue straight ahead.",
+        "es": "Siga todo recto."
+      },
+      "start": 34.8,
+      "end": 35.76,
+      "words": [
+        {
+          "text": "Continuez",
+          "start": 34.8,
+          "end": 35.28
+        },
+        {
+          "text": "tout",
+          "start": 35.28,
+          "end": 35.36
+        },
+        {
+          "text": "droit",
+          "start": 35.36,
+          "end": 35.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Continuez tout droit.",
+          "translations": {
+            "zh": "一直往前走。",
+            "en": "Continue straight ahead.",
+            "es": "Siga todo recto."
+          },
+          "start": 34.8,
+          "end": 35.76
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Dans le bloc D, tournez à gauche, puis vous allez arriver à l'orthopédie.",
+      "translations": {
+        "zh": "在D栋左转，然后您就会到骨科。",
+        "en": "In block D, turn left, then you'll arrive at orthopedics.",
+        "es": "En el bloque D, gire a la izquierda, luego va a llegar a ortopedia."
+      },
+      "start": 36.0,
+      "end": 40.0,
+      "words": [
+        {
+          "text": "Dans",
+          "start": 36.0,
+          "end": 36.16
+        },
+        {
+          "text": "le",
+          "start": 36.16,
+          "end": 36.24
+        },
+        {
+          "text": "bloc",
+          "start": 36.24,
+          "end": 36.56
+        },
+        {
+          "text": "D",
+          "start": 36.56,
+          "end": 36.8
+        },
+        {
+          "text": "tournez",
+          "start": 37.04,
+          "end": 37.36
+        },
+        {
+          "text": "à",
+          "start": 37.36,
+          "end": 37.44
+        },
+        {
+          "text": "gauche",
+          "start": 37.44,
+          "end": 37.92
+        },
+        {
+          "text": "puis",
+          "start": 38.32,
+          "end": 38.4
+        },
+        {
+          "text": "vous",
+          "start": 38.4,
+          "end": 38.64
+        },
+        {
+          "text": "allez",
+          "start": 38.64,
+          "end": 38.8
+        },
+        {
+          "text": "arriver",
+          "start": 38.8,
+          "end": 39.2
+        },
+        {
+          "text": "à",
+          "start": 39.2,
+          "end": 39.36
+        },
+        {
+          "text": "l'orthopédie",
+          "start": 39.36,
+          "end": 40.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Dans le bloc D,",
+          "translations": {
+            "zh": "在D栋，",
+            "en": "In block D,",
+            "es": "En el bloque D,"
+          },
+          "start": 36.0,
+          "end": 36.8
+        },
+        {
+          "text": "tournez à gauche,",
+          "translations": {
+            "zh": "左转，",
+            "en": "turn left,",
+            "es": "gire a la izquierda,"
+          },
+          "start": 37.04,
+          "end": 37.92
+        },
+        {
+          "text": "puis vous allez arriver à l'orthopédie.",
+          "translations": {
+            "zh": "然后您就会到骨科。",
+            "en": "then you'll arrive at orthopedics.",
+            "es": "luego va a llegar a ortopedia."
+          },
+          "start": 38.32,
+          "end": 40.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Ce trajet-là vous fait faire un détour, mais il vous évite de passer par l'oncologie, où il y a beaucoup de monde ces jours-ci.",
+      "translations": {
+        "zh": "那条路会让您绕远，但可以让您避开肿瘤科，那里最近人很多。",
+        "en": "That route makes you take a detour, but it saves you from going through oncology, where there are a lot of people these days.",
+        "es": "Ese recorrido le hace dar un rodeo, pero le evita pasar por oncología, donde hay mucha gente estos días."
+      },
+      "start": 40.8,
+      "end": 46.64,
+      "words": [
+        {
+          "text": "Ce",
+          "start": 40.8,
+          "end": 40.96
+        },
+        {
+          "text": "trajet",
+          "start": 40.96,
+          "end": 41.36
+        },
+        {
+          "text": "là",
+          "start": 41.36,
+          "end": 41.52
+        },
+        {
+          "text": "vous",
+          "start": 41.52,
+          "end": 41.6
+        },
+        {
+          "text": "fait",
+          "start": 41.6,
+          "end": 41.76
+        },
+        {
+          "text": "faire",
+          "start": 41.76,
+          "end": 42.0
+        },
+        {
+          "text": "un",
+          "start": 42.0,
+          "end": 42.08
+        },
+        {
+          "text": "détour",
+          "start": 42.08,
+          "end": 42.48
+        },
+        {
+          "text": "mais",
+          "start": 42.48,
+          "end": 42.88
+        },
+        {
+          "text": "il",
+          "start": 42.88,
+          "end": 43.04
+        },
+        {
+          "text": "vous",
+          "start": 43.04,
+          "end": 43.28
+        },
+        {
+          "text": "évite",
+          "start": 43.28,
+          "end": 43.52
+        },
+        {
+          "text": "de",
+          "start": 43.52,
+          "end": 43.6
+        },
+        {
+          "text": "passer",
+          "start": 43.6,
+          "end": 43.92
+        },
+        {
+          "text": "par",
+          "start": 43.92,
+          "end": 44.08
+        },
+        {
+          "text": "l'oncologie",
+          "start": 44.08,
+          "end": 44.88
+        },
+        {
+          "text": "où",
+          "start": 44.96,
+          "end": 45.12
+        },
+        {
+          "text": "il",
+          "start": 45.12,
+          "end": 45.28
+        },
+        {
+          "text": "y",
+          "start": 45.28,
+          "end": 45.28
+        },
+        {
+          "text": "a",
+          "start": 45.28,
+          "end": 45.36
+        },
+        {
+          "text": "beaucoup",
+          "start": 45.36,
+          "end": 45.84
+        },
+        {
+          "text": "de",
+          "start": 45.84,
+          "end": 45.92
+        },
+        {
+          "text": "monde",
+          "start": 45.92,
+          "end": 46.08
+        },
+        {
+          "text": "ces",
+          "start": 46.08,
+          "end": 46.24
+        },
+        {
+          "text": "jours",
+          "start": 46.24,
+          "end": 46.4
+        },
+        {
+          "text": "ci",
+          "start": 46.4,
+          "end": 46.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ce trajet-là vous fait faire un détour,",
+          "translations": {
+            "zh": "那条路会让您绕远，",
+            "en": "That route makes you take a detour,",
+            "es": "Ese recorrido le hace dar un rodeo,"
+          },
+          "start": 40.8,
+          "end": 42.48
+        },
+        {
+          "text": "mais il vous évite de passer par l'oncologie,",
+          "translations": {
+            "zh": "但可以让您避开肿瘤科，",
+            "en": "but it saves you from going through oncology,",
+            "es": "pero le evita pasar por oncología,"
+          },
+          "start": 42.48,
+          "end": 44.88
+        },
+        {
+          "text": "où il y a beaucoup de monde ces jours-ci.",
+          "translations": {
+            "zh": "那里最近人很多。",
+            "en": "where there are a lot of people these days.",
+            "es": "donde hay mucha gente estos días."
+          },
+          "start": 44.96,
+          "end": 46.64
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Merci beaucoup, madame.",
+      "translations": {
+        "zh": "非常感谢您，女士。",
+        "en": "Thank you very much, ma'am.",
+        "es": "Muchas gracias, señora."
+      },
+      "start": 47.12,
+      "end": 48.0,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 47.12,
+          "end": 47.44
+        },
+        {
+          "text": "beaucoup",
+          "start": 47.44,
+          "end": 47.6
+        },
+        {
+          "text": "madame",
+          "start": 47.6,
+          "end": 48.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci beaucoup, madame.",
+          "translations": {
+            "zh": "非常感谢您，女士。",
+            "en": "Thank you very much, ma'am.",
+            "es": "Muchas gracias, señora."
+          },
+          "start": 47.12,
+          "end": 48.0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Ça me fait plaisir.",
+      "translations": {
+        "zh": "很高兴能帮到您。",
+        "en": "It's my pleasure.",
+        "es": "Me da gusto."
+      },
+      "start": 48.64,
+      "end": 49.44,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 48.64,
+          "end": 48.8
+        },
+        {
+          "text": "me",
+          "start": 48.8,
+          "end": 48.88
+        },
+        {
+          "text": "fait",
+          "start": 48.88,
+          "end": 48.96
+        },
+        {
+          "text": "plaisir",
+          "start": 48.96,
+          "end": 49.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça me fait plaisir.",
+          "translations": {
+            "zh": "很高兴能帮到您。",
+            "en": "It's my pleasure.",
+            "es": "Me da gusto."
+          },
+          "start": 48.64,
+          "end": 49.44
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "ÉPISODE 11",
+      "translations": {
+        "zh": "第11集",
+        "en": "EPISODE 11",
+        "es": "EPISODIO 11"
+      },
+      "start": 49.44,
+      "end": 49.44,
+      "words": [
+        {
+          "text": "ÉPISODE",
+          "start": 49.44,
+          "end": 49.44
+        },
+        {
+          "text": "11",
+          "start": 49.44,
+          "end": 49.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "ÉPISODE 11",
+          "translations": {
+            "zh": "第11集",
+            "en": "EPISODE 11",
+            "es": "EPISODIO 11"
+          },
+          "start": 49.44,
+          "end": 49.44
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP10_P53",
+  "audio_filename": "FLS2_EP10_P53.mp3",
+  "audio_path": "downloads/FLS2_EP10_P53.mp3",
+  "episode": 10,
+  "piste": 53,
+  "page": 80,
+  "cd": "CD1"
+}

@@ -1,0 +1,2256 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 20 Piste 43 Page 152",
+      "translations": {
+        "zh": "第20集 第43轨 第152页",
+        "en": "Episode 20 Track 43 Page 152",
+        "es": "Episodio 20 Pista 43 Página 152"
+      },
+      "start": 0.64,
+      "end": 9.2,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.64,
+          "end": 1.28
+        },
+        {
+          "text": "20",
+          "start": 1.6,
+          "end": 1.84
+        },
+        {
+          "text": "Piste",
+          "start": 3.04,
+          "end": 3.52
+        },
+        {
+          "text": "43",
+          "start": 3.84,
+          "end": 4.64
+        },
+        {
+          "text": "Page",
+          "start": 6.32,
+          "end": 6.72
+        },
+        {
+          "text": "152",
+          "start": 9.2,
+          "end": 9.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 20 ",
+          "translations": {
+            "zh": "第20集 ",
+            "en": "Episode 20 ",
+            "es": "Episodio 20 "
+          },
+          "start": 0.64,
+          "end": 1.84
+        },
+        {
+          "text": "Piste 43 ",
+          "translations": {
+            "zh": "第43轨 ",
+            "en": "Track 43 ",
+            "es": "Pista 43 "
+          },
+          "start": 3.04,
+          "end": 4.64
+        },
+        {
+          "text": "Page 152",
+          "translations": {
+            "zh": "第152页",
+            "en": "Page 152",
+            "es": "Página 152"
+          },
+          "start": 6.32,
+          "end": 9.2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bonjour, pour la majorité d'entre nous, la période estivale est le moment de décrocher quelques semaines et de faire autre chose que travailler.",
+      "translations": {
+        "zh": "你好，对我们大多数人来说，夏季就是抽出几周时间去做些工作以外的事情。",
+        "en": "Hello, for most of us, the summer period is the time to take a few weeks off and do something other than work.",
+        "es": "Hola, para la mayoría de nosotros, el período estival es el momento de desconectar algunas semanas y de hacer otra cosa que trabajar."
+      },
+      "start": 9.28,
+      "end": 17.2,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 9.28,
+          "end": 9.76
+        },
+        {
+          "text": "pour",
+          "start": 10.56,
+          "end": 10.72
+        },
+        {
+          "text": "la",
+          "start": 10.72,
+          "end": 10.8
+        },
+        {
+          "text": "majorité",
+          "start": 10.8,
+          "end": 11.28
+        },
+        {
+          "text": "d'entre",
+          "start": 11.28,
+          "end": 11.6
+        },
+        {
+          "text": "nous",
+          "start": 11.6,
+          "end": 11.92
+        },
+        {
+          "text": "la",
+          "start": 12.32,
+          "end": 12.4
+        },
+        {
+          "text": "période",
+          "start": 12.4,
+          "end": 12.8
+        },
+        {
+          "text": "estivale",
+          "start": 12.8,
+          "end": 13.36
+        },
+        {
+          "text": "est",
+          "start": 13.36,
+          "end": 13.44
+        },
+        {
+          "text": "le",
+          "start": 13.44,
+          "end": 13.52
+        },
+        {
+          "text": "moment",
+          "start": 13.52,
+          "end": 13.84
+        },
+        {
+          "text": "de",
+          "start": 13.84,
+          "end": 13.92
+        },
+        {
+          "text": "décrocher",
+          "start": 13.92,
+          "end": 14.48
+        },
+        {
+          "text": "quelques",
+          "start": 14.48,
+          "end": 14.8
+        },
+        {
+          "text": "semaines",
+          "start": 14.8,
+          "end": 15.28
+        },
+        {
+          "text": "et",
+          "start": 15.68,
+          "end": 15.76
+        },
+        {
+          "text": "de",
+          "start": 15.76,
+          "end": 15.84
+        },
+        {
+          "text": "faire",
+          "start": 15.84,
+          "end": 16.16
+        },
+        {
+          "text": "autre",
+          "start": 16.16,
+          "end": 16.32
+        },
+        {
+          "text": "chose",
+          "start": 16.32,
+          "end": 16.64
+        },
+        {
+          "text": "que",
+          "start": 16.64,
+          "end": 16.72
+        },
+        {
+          "text": "travailler",
+          "start": 16.72,
+          "end": 17.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour, ",
+          "translations": {
+            "zh": "你好，",
+            "en": "Hello, ",
+            "es": "Hola, "
+          },
+          "start": 9.28,
+          "end": 9.76
+        },
+        {
+          "text": "pour la majorité d'entre nous, ",
+          "translations": {
+            "zh": "对我们大多数人来说，",
+            "en": "for most of us, ",
+            "es": "para la mayoría de nosotros, "
+          },
+          "start": 10.56,
+          "end": 11.92
+        },
+        {
+          "text": "la période estivale est le moment de décrocher quelques semaines ",
+          "translations": {
+            "zh": "夏季就是抽出几周时间 ",
+            "en": "the summer period is the time to take a few weeks off ",
+            "es": "el período estival es el momento de desconectar algunas semanas "
+          },
+          "start": 12.32,
+          "end": 15.28
+        },
+        {
+          "text": "et de faire autre chose que travailler.",
+          "translations": {
+            "zh": "去做些工作以外的事情。",
+            "en": "and to do something other than work.",
+            "es": "y de hacer otra cosa que trabajar."
+          },
+          "start": 15.68,
+          "end": 17.2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Ainsi, chaque année, les Québécois consacrent en moyenne 500 $ à leurs vacances et la plupart préfèrent les courts séjours, de 2 à 4 jours, à l'extérieur de la province.",
+      "translations": {
+        "zh": "因此，每年魁北克人平均在度假上花费500加元，大多数人更喜欢在省外度过2到4天的短期旅行。",
+        "en": "Thus, every year, Quebecers spend on average $500 on their vacations and most prefer short stays, of 2 to 4 days, outside the province.",
+        "es": "Así, cada año, los quebequenses dedican en promedio 500 $ a sus vacaciones y la mayoría prefieren las estancias cortas, de 2 a 4 días, fuera de la provincia."
+      },
+      "start": 18.16,
+      "end": 29.28,
+      "words": [
+        {
+          "text": "Ainsi",
+          "start": 18.16,
+          "end": 18.64
+        },
+        {
+          "text": "chaque",
+          "start": 19.12,
+          "end": 19.44
+        },
+        {
+          "text": "année",
+          "start": 19.44,
+          "end": 19.76
+        },
+        {
+          "text": "les",
+          "start": 20.16,
+          "end": 20.24
+        },
+        {
+          "text": "Québécois",
+          "start": 20.24,
+          "end": 20.64
+        },
+        {
+          "text": "consacrent",
+          "start": 20.64,
+          "end": 21.2
+        },
+        {
+          "text": "en",
+          "start": 21.2,
+          "end": 21.28
+        },
+        {
+          "text": "moyenne",
+          "start": 21.28,
+          "end": 21.84
+        },
+        {
+          "text": "500",
+          "start": 21.84,
+          "end": 22.4
+        },
+        {
+          "text": "à",
+          "start": 22.48,
+          "end": 22.64
+        },
+        {
+          "text": "leurs",
+          "start": 22.72,
+          "end": 22.88
+        },
+        {
+          "text": "vacances",
+          "start": 22.88,
+          "end": 23.52
+        },
+        {
+          "text": "et",
+          "start": 24.0,
+          "end": 24.08
+        },
+        {
+          "text": "la",
+          "start": 24.08,
+          "end": 24.16
+        },
+        {
+          "text": "plupart",
+          "start": 24.16,
+          "end": 24.72
+        },
+        {
+          "text": "préfèrent",
+          "start": 24.72,
+          "end": 25.12
+        },
+        {
+          "text": "les",
+          "start": 25.12,
+          "end": 25.2
+        },
+        {
+          "text": "courts",
+          "start": 25.2,
+          "end": 25.44
+        },
+        {
+          "text": "séjours",
+          "start": 25.44,
+          "end": 26.08
+        },
+        {
+          "text": "de",
+          "start": 26.32,
+          "end": 26.4
+        },
+        {
+          "text": "2",
+          "start": 26.4,
+          "end": 26.56
+        },
+        {
+          "text": "à",
+          "start": 26.56,
+          "end": 26.64
+        },
+        {
+          "text": "4",
+          "start": 26.64,
+          "end": 26.8
+        },
+        {
+          "text": "jours",
+          "start": 26.8,
+          "end": 27.2
+        },
+        {
+          "text": "à",
+          "start": 27.76,
+          "end": 27.92
+        },
+        {
+          "text": "l'extérieur",
+          "start": 27.92,
+          "end": 28.48
+        },
+        {
+          "text": "de",
+          "start": 28.48,
+          "end": 28.56
+        },
+        {
+          "text": "la",
+          "start": 28.56,
+          "end": 28.56
+        },
+        {
+          "text": "province",
+          "start": 28.56,
+          "end": 29.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ainsi, ",
+          "translations": {
+            "zh": "因此，",
+            "en": "Thus, ",
+            "es": "Así, "
+          },
+          "start": 18.16,
+          "end": 18.64
+        },
+        {
+          "text": "chaque année, ",
+          "translations": {
+            "zh": "每年，",
+            "en": "every year, ",
+            "es": "cada año, "
+          },
+          "start": 19.12,
+          "end": 19.76
+        },
+        {
+          "text": "les Québécois consacrent en moyenne 500 $ à leurs vacances ",
+          "translations": {
+            "zh": "魁北克人平均在度假上花费500加元，",
+            "en": "Quebecers spend on average $500 on their vacations ",
+            "es": "los quebequenses dedican en promedio 500 $ a sus vacaciones "
+          },
+          "start": 20.16,
+          "end": 23.52
+        },
+        {
+          "text": "et la plupart préfèrent les courts séjours, ",
+          "translations": {
+            "zh": "大多数人更喜欢短期旅行，",
+            "en": "and most prefer short stays, ",
+            "es": "y la mayoría prefieren las estancias cortas, "
+          },
+          "start": 24.0,
+          "end": 26.08
+        },
+        {
+          "text": "de 2 à 4 jours, ",
+          "translations": {
+            "zh": "为期2到4天，",
+            "en": "of 2 to 4 days, ",
+            "es": "de 2 a 4 días, "
+          },
+          "start": 26.32,
+          "end": 27.2
+        },
+        {
+          "text": "à l'extérieur de la province.",
+          "translations": {
+            "zh": "在省外。",
+            "en": "outside the province.",
+            "es": "fuera de la provincia."
+          },
+          "start": 27.76,
+          "end": 29.28
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Mais vous qui me suivez régulièrement, vous savez que je suis toujours à la recherche d'activités abordables et même gratuites pour passer des moments en famille.",
+      "translations": {
+        "zh": "但你们这些经常关注我的人，知道我一直在寻找价格实惠甚至免费的活动来和家人共度美好时光。",
+        "en": "But you who follow me regularly, you know that I am always on the lookout for affordable and even free activities to spend time with the family.",
+        "es": "Pero ustedes que me siguen regularmente, saben que siempre estoy en busca de actividades asequibles e incluso gratuitas para pasar momentos en familia."
+      },
+      "start": 30.24,
+      "end": 39.12,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 30.24,
+          "end": 30.48
+        },
+        {
+          "text": "vous",
+          "start": 30.48,
+          "end": 30.72
+        },
+        {
+          "text": "qui",
+          "start": 30.72,
+          "end": 31.04
+        },
+        {
+          "text": "me",
+          "start": 31.04,
+          "end": 31.28
+        },
+        {
+          "text": "suivez",
+          "start": 31.28,
+          "end": 31.76
+        },
+        {
+          "text": "régulièrement",
+          "start": 31.76,
+          "end": 32.4
+        },
+        {
+          "text": "vous",
+          "start": 33.04,
+          "end": 33.12
+        },
+        {
+          "text": "savez",
+          "start": 33.12,
+          "end": 33.44
+        },
+        {
+          "text": "que",
+          "start": 33.44,
+          "end": 33.68
+        },
+        {
+          "text": "je",
+          "start": 33.68,
+          "end": 33.84
+        },
+        {
+          "text": "suis",
+          "start": 33.84,
+          "end": 34.08
+        },
+        {
+          "text": "toujours",
+          "start": 34.08,
+          "end": 34.4
+        },
+        {
+          "text": "à",
+          "start": 34.4,
+          "end": 34.48
+        },
+        {
+          "text": "la",
+          "start": 34.48,
+          "end": 34.56
+        },
+        {
+          "text": "recherche",
+          "start": 34.56,
+          "end": 35.04
+        },
+        {
+          "text": "d'activités",
+          "start": 35.04,
+          "end": 35.52
+        },
+        {
+          "text": "abordables",
+          "start": 35.6,
+          "end": 36.4
+        },
+        {
+          "text": "et",
+          "start": 36.48,
+          "end": 36.64
+        },
+        {
+          "text": "même",
+          "start": 36.64,
+          "end": 36.8
+        },
+        {
+          "text": "gratuites",
+          "start": 36.8,
+          "end": 37.36
+        },
+        {
+          "text": "pour",
+          "start": 37.68,
+          "end": 37.84
+        },
+        {
+          "text": "passer",
+          "start": 37.84,
+          "end": 38.16
+        },
+        {
+          "text": "des",
+          "start": 38.16,
+          "end": 38.24
+        },
+        {
+          "text": "moments",
+          "start": 38.24,
+          "end": 38.56
+        },
+        {
+          "text": "en",
+          "start": 38.56,
+          "end": 38.56
+        },
+        {
+          "text": "famille",
+          "start": 38.56,
+          "end": 39.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais vous qui me suivez régulièrement, ",
+          "translations": {
+            "zh": "但你们这些经常关注我的人，",
+            "en": "But you who follow me regularly, ",
+            "es": "Pero ustedes que me siguen regularmente, "
+          },
+          "start": 30.24,
+          "end": 32.4
+        },
+        {
+          "text": "vous savez que je suis toujours à la recherche d'activités abordables ",
+          "translations": {
+            "zh": "知道我一直在寻找价格实惠的活动 ",
+            "en": "you know that I am always on the lookout for affordable activities ",
+            "es": "saben que siempre estoy en busca de actividades asequibles "
+          },
+          "start": 33.04,
+          "end": 36.4
+        },
+        {
+          "text": "et même gratuites ",
+          "translations": {
+            "zh": "甚至是免费的活动 ",
+            "en": "and even free ",
+            "es": "e incluso gratuitas "
+          },
+          "start": 36.48,
+          "end": 37.36
+        },
+        {
+          "text": "pour passer des moments en famille.",
+          "translations": {
+            "zh": "来和家人共度美好时光。",
+            "en": "to spend time with the family.",
+            "es": "para pasar momentos en familia."
+          },
+          "start": 37.68,
+          "end": 39.12
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Alors suivez-moi à Québec, qui, avec son château et ses fortifications, offre des attraits dignes d'un conte de fée !",
+      "translations": {
+        "zh": "那么跟我来魁北克吧，那里以城堡和城墙，提供了宛如童话般的吸引力！",
+        "en": "So follow me to Quebec City, which, with its castle and its fortifications, offers attractions worthy of a fairy tale!",
+        "es": "Así que síganme a Quebec, que, con su castillo y sus fortificaciones, ofrece atractivos dignos de un cuento de hadas!"
+      },
+      "start": 39.84,
+      "end": 47.52,
+      "words": [
+        {
+          "text": "Alors",
+          "start": 39.84,
+          "end": 40.4
+        },
+        {
+          "text": "suivez",
+          "start": 40.64,
+          "end": 40.96
+        },
+        {
+          "text": "moi",
+          "start": 40.96,
+          "end": 41.2
+        },
+        {
+          "text": "à",
+          "start": 41.2,
+          "end": 41.2
+        },
+        {
+          "text": "Québec",
+          "start": 41.2,
+          "end": 41.68
+        },
+        {
+          "text": "qui",
+          "start": 42.08,
+          "end": 42.48
+        },
+        {
+          "text": "avec",
+          "start": 42.48,
+          "end": 42.72
+        },
+        {
+          "text": "son",
+          "start": 42.72,
+          "end": 43.04
+        },
+        {
+          "text": "château",
+          "start": 43.04,
+          "end": 43.68
+        },
+        {
+          "text": "et",
+          "start": 43.68,
+          "end": 43.68
+        },
+        {
+          "text": "ses",
+          "start": 43.68,
+          "end": 43.92
+        },
+        {
+          "text": "fortifications",
+          "start": 43.92,
+          "end": 44.88
+        },
+        {
+          "text": "offre",
+          "start": 45.28,
+          "end": 45.52
+        },
+        {
+          "text": "des",
+          "start": 45.52,
+          "end": 45.76
+        },
+        {
+          "text": "attraits",
+          "start": 45.76,
+          "end": 46.08
+        },
+        {
+          "text": "dignes",
+          "start": 46.08,
+          "end": 46.56
+        },
+        {
+          "text": "d'un",
+          "start": 46.56,
+          "end": 46.8
+        },
+        {
+          "text": "conte",
+          "start": 46.8,
+          "end": 47.12
+        },
+        {
+          "text": "de",
+          "start": 47.2,
+          "end": 47.28
+        },
+        {
+          "text": "fée",
+          "start": 47.28,
+          "end": 47.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Alors suivez-moi à Québec, ",
+          "translations": {
+            "zh": "那么跟我来魁北克吧，",
+            "en": "So follow me to Quebec City, ",
+            "es": "Así que síganme a Quebec, "
+          },
+          "start": 39.84,
+          "end": 41.68
+        },
+        {
+          "text": "qui, avec son château et ses fortifications, ",
+          "translations": {
+            "zh": "那里以它的城堡和城墙，",
+            "en": "which, with its castle and its fortifications, ",
+            "es": "que, con su castillo y sus fortificaciones, "
+          },
+          "start": 42.08,
+          "end": 44.88
+        },
+        {
+          "text": "offre des attraits dignes d'un conte de fée !",
+          "translations": {
+            "zh": "提供了宛如童话般的吸引力！",
+            "en": "offers attractions worthy of a fairy tale!",
+            "es": "ofrece atractivos dignos de un cuento de hadas!"
+          },
+          "start": 45.28,
+          "end": 47.52
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Préparez-vous à vous amuser sans amputer votre budget familial, et ce, beau temps mauvais temps !",
+      "translations": {
+        "zh": "准备好尽情玩乐而又不影响家庭预算，无论天气好坏！",
+        "en": "Get ready to have fun without cutting into your family budget, rain or shine!",
+        "es": "Prepárense para divertirse sin mermar su presupuesto familiar, ¡haga buen tiempo o mal tiempo!"
+      },
+      "start": 48.24,
+      "end": 54.24,
+      "words": [
+        {
+          "text": "Préparez",
+          "start": 48.24,
+          "end": 48.64
+        },
+        {
+          "text": "vous",
+          "start": 48.64,
+          "end": 48.88
+        },
+        {
+          "text": "à",
+          "start": 48.88,
+          "end": 48.96
+        },
+        {
+          "text": "vous",
+          "start": 48.96,
+          "end": 49.2
+        },
+        {
+          "text": "amuser",
+          "start": 49.2,
+          "end": 49.84
+        },
+        {
+          "text": "sans",
+          "start": 50.24,
+          "end": 50.64
+        },
+        {
+          "text": "amputer",
+          "start": 50.64,
+          "end": 50.96
+        },
+        {
+          "text": "votre",
+          "start": 50.96,
+          "end": 51.2
+        },
+        {
+          "text": "budget",
+          "start": 51.2,
+          "end": 51.52
+        },
+        {
+          "text": "familial",
+          "start": 51.52,
+          "end": 52.32
+        },
+        {
+          "text": "et",
+          "start": 52.64,
+          "end": 52.72
+        },
+        {
+          "text": "ce",
+          "start": 52.72,
+          "end": 53.12
+        },
+        {
+          "text": "beau",
+          "start": 53.36,
+          "end": 53.6
+        },
+        {
+          "text": "temps",
+          "start": 53.6,
+          "end": 53.76
+        },
+        {
+          "text": "mauvais",
+          "start": 53.76,
+          "end": 54.08
+        },
+        {
+          "text": "temps",
+          "start": 54.08,
+          "end": 54.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Préparez-vous à vous amuser ",
+          "translations": {
+            "zh": "准备好尽情玩乐 ",
+            "en": "Get ready to have fun ",
+            "es": "Prepárense para divertirse "
+          },
+          "start": 48.24,
+          "end": 49.84
+        },
+        {
+          "text": "sans amputer votre budget familial, ",
+          "translations": {
+            "zh": "而又不影响家庭预算，",
+            "en": "without cutting into your family budget, ",
+            "es": "sin mermar su presupuesto familiar, "
+          },
+          "start": 50.24,
+          "end": 52.32
+        },
+        {
+          "text": "et ce, beau temps mauvais temps !",
+          "translations": {
+            "zh": "无论天气好坏！",
+            "en": "rain or shine!",
+            "es": "¡haga buen tiempo o mal tiempo!"
+          },
+          "start": 52.64,
+          "end": 54.24
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Je peux vous dire que notre famille s'y est beaucoup amusée l'an dernier !",
+      "translations": {
+        "zh": "我可以告诉你们，我们一家去年在那里玩得很开心！",
+        "en": "I can tell you that our family had a lot of fun there last year!",
+        "es": "Puedo decirles que nuestra familia se divirtió mucho allí el año pasado!"
+      },
+      "start": 54.8,
+      "end": 57.84,
+      "words": [
+        {
+          "text": "Je",
+          "start": 54.8,
+          "end": 54.96
+        },
+        {
+          "text": "peux",
+          "start": 54.96,
+          "end": 55.12
+        },
+        {
+          "text": "vous",
+          "start": 55.12,
+          "end": 55.28
+        },
+        {
+          "text": "dire",
+          "start": 55.28,
+          "end": 55.44
+        },
+        {
+          "text": "que",
+          "start": 55.44,
+          "end": 55.52
+        },
+        {
+          "text": "notre",
+          "start": 55.52,
+          "end": 55.84
+        },
+        {
+          "text": "famille",
+          "start": 55.84,
+          "end": 56.24
+        },
+        {
+          "text": "s'y",
+          "start": 56.32,
+          "end": 56.64
+        },
+        {
+          "text": "est",
+          "start": 56.64,
+          "end": 56.64
+        },
+        {
+          "text": "beaucoup",
+          "start": 56.64,
+          "end": 56.96
+        },
+        {
+          "text": "amusée",
+          "start": 56.96,
+          "end": 57.28
+        },
+        {
+          "text": "l'an",
+          "start": 57.28,
+          "end": 57.44
+        },
+        {
+          "text": "dernier",
+          "start": 57.44,
+          "end": 57.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je peux vous dire ",
+          "translations": {
+            "zh": "我可以告诉你们 ",
+            "en": "I can tell you ",
+            "es": "Puedo decirles "
+          },
+          "start": 54.8,
+          "end": 55.44
+        },
+        {
+          "text": "que notre famille s'y est beaucoup amusée ",
+          "translations": {
+            "zh": "我们一家在那里玩得很开心 ",
+            "en": "that our family had a lot of fun there ",
+            "es": "que nuestra familia se divirtió mucho allí "
+          },
+          "start": 55.44,
+          "end": 57.28
+        },
+        {
+          "text": "l'an dernier !",
+          "translations": {
+            "zh": "去年！",
+            "en": "last year!",
+            "es": "el año pasado!"
+          },
+          "start": 57.28,
+          "end": 57.84
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Les familles peuvent facilement trouver leur compte à Québec : pièces de théâtre dans les parcs, ateliers artistiques dans les bibliothèques, parcs d'attractions pas trop chers, activités sportives gratuites dans les bases de plein air vous attendent pour passer des moments inoubliables !",
+      "translations": {
+        "zh": "家庭可以在魁北克轻松找到满意的选择：公园里的戏剧表演、图书馆里的艺术工坊、价格不太贵的游乐园、户外活动基地的免费体育活动，等着你们去度过难忘的时光！",
+        "en": "Families can easily find what they are looking for in Quebec City: plays in the parks, art workshops in the libraries, not-too-expensive amusement parks, free sports activities in outdoor recreation centers await you for unforgettable moments!",
+        "es": "Las familias pueden encontrar fácilmente lo que buscan en Quebec: obras de teatro en los parques, talleres artísticos en las bibliotecas, parques de atracciones no demasiado caros, actividades deportivas gratuitas en las bases al aire libre los esperan para pasar momentos inolvidables!"
+      },
+      "start": 58.72,
+      "end": 74.56,
+      "words": [
+        {
+          "text": "Les",
+          "start": 58.72,
+          "end": 58.88
+        },
+        {
+          "text": "familles",
+          "start": 58.88,
+          "end": 59.28
+        },
+        {
+          "text": "peuvent",
+          "start": 59.28,
+          "end": 59.44
+        },
+        {
+          "text": "facilement",
+          "start": 59.44,
+          "end": 59.92
+        },
+        {
+          "text": "trouver",
+          "start": 59.92,
+          "end": 60.16
+        },
+        {
+          "text": "leur",
+          "start": 60.16,
+          "end": 60.4
+        },
+        {
+          "text": "compte",
+          "start": 60.4,
+          "end": 60.56
+        },
+        {
+          "text": "à",
+          "start": 60.56,
+          "end": 60.64
+        },
+        {
+          "text": "Québec",
+          "start": 60.64,
+          "end": 61.12
+        },
+        {
+          "text": "pièces",
+          "start": 61.6,
+          "end": 61.84
+        },
+        {
+          "text": "de",
+          "start": 61.84,
+          "end": 61.92
+        },
+        {
+          "text": "théâtre",
+          "start": 61.92,
+          "end": 62.56
+        },
+        {
+          "text": "dans",
+          "start": 62.56,
+          "end": 62.72
+        },
+        {
+          "text": "les",
+          "start": 62.72,
+          "end": 62.88
+        },
+        {
+          "text": "parcs",
+          "start": 62.88,
+          "end": 63.52
+        },
+        {
+          "text": "ateliers",
+          "start": 63.68,
+          "end": 64.08
+        },
+        {
+          "text": "artistiques",
+          "start": 64.08,
+          "end": 64.8
+        },
+        {
+          "text": "dans",
+          "start": 64.8,
+          "end": 64.96
+        },
+        {
+          "text": "les",
+          "start": 64.96,
+          "end": 65.12
+        },
+        {
+          "text": "bibliothèques",
+          "start": 65.12,
+          "end": 65.84
+        },
+        {
+          "text": "parcs",
+          "start": 66.24,
+          "end": 66.56
+        },
+        {
+          "text": "d'attractions",
+          "start": 66.56,
+          "end": 67.12
+        },
+        {
+          "text": "pas",
+          "start": 67.12,
+          "end": 67.28
+        },
+        {
+          "text": "trop",
+          "start": 67.28,
+          "end": 67.52
+        },
+        {
+          "text": "chers",
+          "start": 67.52,
+          "end": 68.0
+        },
+        {
+          "text": "activités",
+          "start": 68.32,
+          "end": 68.8
+        },
+        {
+          "text": "sportives",
+          "start": 68.8,
+          "end": 69.28
+        },
+        {
+          "text": "gratuites",
+          "start": 69.28,
+          "end": 69.92
+        },
+        {
+          "text": "dans",
+          "start": 70.24,
+          "end": 70.4
+        },
+        {
+          "text": "les",
+          "start": 70.4,
+          "end": 70.48
+        },
+        {
+          "text": "bases",
+          "start": 70.48,
+          "end": 70.72
+        },
+        {
+          "text": "de",
+          "start": 70.72,
+          "end": 70.8
+        },
+        {
+          "text": "plein",
+          "start": 70.8,
+          "end": 71.04
+        },
+        {
+          "text": "air",
+          "start": 71.04,
+          "end": 71.36
+        },
+        {
+          "text": "vous",
+          "start": 71.68,
+          "end": 71.92
+        },
+        {
+          "text": "attendent",
+          "start": 71.92,
+          "end": 72.48
+        },
+        {
+          "text": "pour",
+          "start": 72.48,
+          "end": 72.64
+        },
+        {
+          "text": "passer",
+          "start": 72.64,
+          "end": 73.04
+        },
+        {
+          "text": "des",
+          "start": 73.04,
+          "end": 73.12
+        },
+        {
+          "text": "moments",
+          "start": 73.12,
+          "end": 73.44
+        },
+        {
+          "text": "inoubliables",
+          "start": 73.6,
+          "end": 74.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les familles peuvent facilement trouver leur compte à Québec : ",
+          "translations": {
+            "zh": "家庭可以在魁北克轻松找到满意的选择：",
+            "en": "Families can easily find what they are looking for in Quebec City: ",
+            "es": "Las familias pueden encontrar fácilmente lo que buscan en Quebec: "
+          },
+          "start": 58.72,
+          "end": 61.12
+        },
+        {
+          "text": "pièces de théâtre dans les parcs, ",
+          "translations": {
+            "zh": "公园里的戏剧表演，",
+            "en": "plays in the parks, ",
+            "es": "obras de teatro en los parques, "
+          },
+          "start": 61.6,
+          "end": 63.52
+        },
+        {
+          "text": "ateliers artistiques dans les bibliothèques, ",
+          "translations": {
+            "zh": "图书馆里的艺术工坊，",
+            "en": "art workshops in the libraries, ",
+            "es": "talleres artísticos en las bibliotecas, "
+          },
+          "start": 63.68,
+          "end": 65.84
+        },
+        {
+          "text": "parcs d'attractions pas trop chers, ",
+          "translations": {
+            "zh": "价格不太贵的游乐园，",
+            "en": "not-too-expensive amusement parks, ",
+            "es": "parques de atracciones no demasiado caros, "
+          },
+          "start": 66.24,
+          "end": 68.0
+        },
+        {
+          "text": "activités sportives gratuites dans les bases de plein air ",
+          "translations": {
+            "zh": "户外活动基地的免费体育活动 ",
+            "en": "free sports activities in outdoor recreation centers ",
+            "es": "actividades deportivas gratuitas en las bases al aire libre "
+          },
+          "start": 68.32,
+          "end": 71.36
+        },
+        {
+          "text": "vous attendent pour passer des moments inoubliables !",
+          "translations": {
+            "zh": "等着你们去度过难忘的时光！",
+            "en": "await you for unforgettable moments!",
+            "es": "los esperan para pasar momentos inolvidables!"
+          },
+          "start": 71.68,
+          "end": 74.56
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Les enfants seront éblouis par les nombreux amuseurs publics qui animent les rues du Vieux-Québec, et raffoleront des activités nautiques et jeux d'eau qui sont offerts dans les parcs municipaux ou encore à la plage à la Baie de Beauport.",
+      "translations": {
+        "zh": "孩子们会被活跃在老魁北克街道上的众多街头艺人所迷住，也会爱上在市政公园或博波尔湾海滩上提供的水上活动和戏水游戏。",
+        "en": "Children will be dazzled by the many street performers who enliven the streets of Old Quebec, and will love the water activities and water games that are offered in municipal parks or at the beach at Baie de Beauport.",
+        "es": "Los niños quedarán deslumbrados por los numerosos entretenedores públicos que animan las calles del Viejo Quebec, y se encantarán con las actividades acuáticas y juegos de agua que se ofrecen en los parques municipales o también en la playa de la Bahía de Beauport."
+      },
+      "start": 75.52,
+      "end": 88.4,
+      "words": [
+        {
+          "text": "Les",
+          "start": 75.52,
+          "end": 75.76
+        },
+        {
+          "text": "enfants",
+          "start": 75.76,
+          "end": 76.08
+        },
+        {
+          "text": "seront",
+          "start": 76.08,
+          "end": 76.48
+        },
+        {
+          "text": "éblouis",
+          "start": 76.48,
+          "end": 76.96
+        },
+        {
+          "text": "par",
+          "start": 76.96,
+          "end": 77.2
+        },
+        {
+          "text": "les",
+          "start": 77.2,
+          "end": 77.28
+        },
+        {
+          "text": "nombreux",
+          "start": 77.28,
+          "end": 77.76
+        },
+        {
+          "text": "amuseurs",
+          "start": 77.76,
+          "end": 78.16
+        },
+        {
+          "text": "publics",
+          "start": 78.16,
+          "end": 78.72
+        },
+        {
+          "text": "qui",
+          "start": 78.72,
+          "end": 78.96
+        },
+        {
+          "text": "animent",
+          "start": 78.96,
+          "end": 79.28
+        },
+        {
+          "text": "les",
+          "start": 79.28,
+          "end": 79.44
+        },
+        {
+          "text": "rues",
+          "start": 79.44,
+          "end": 79.52
+        },
+        {
+          "text": "du",
+          "start": 79.52,
+          "end": 79.68
+        },
+        {
+          "text": "Vieux",
+          "start": 79.68,
+          "end": 79.84
+        },
+        {
+          "text": "Québec",
+          "start": 79.84,
+          "end": 80.32
+        },
+        {
+          "text": "et",
+          "start": 80.96,
+          "end": 81.12
+        },
+        {
+          "text": "raffoleront",
+          "start": 81.12,
+          "end": 81.76
+        },
+        {
+          "text": "des",
+          "start": 81.76,
+          "end": 82.0
+        },
+        {
+          "text": "activités",
+          "start": 82.0,
+          "end": 82.4
+        },
+        {
+          "text": "nautiques",
+          "start": 82.4,
+          "end": 83.04
+        },
+        {
+          "text": "et",
+          "start": 83.12,
+          "end": 83.28
+        },
+        {
+          "text": "jeux",
+          "start": 83.28,
+          "end": 83.52
+        },
+        {
+          "text": "d'eau",
+          "start": 83.52,
+          "end": 83.76
+        },
+        {
+          "text": "qui",
+          "start": 84.0,
+          "end": 84.16
+        },
+        {
+          "text": "sont",
+          "start": 84.16,
+          "end": 84.4
+        },
+        {
+          "text": "offerts",
+          "start": 84.4,
+          "end": 84.8
+        },
+        {
+          "text": "dans",
+          "start": 84.8,
+          "end": 84.88
+        },
+        {
+          "text": "les",
+          "start": 84.88,
+          "end": 84.96
+        },
+        {
+          "text": "parcs",
+          "start": 84.96,
+          "end": 85.28
+        },
+        {
+          "text": "municipaux",
+          "start": 85.28,
+          "end": 85.92
+        },
+        {
+          "text": "ou",
+          "start": 86.24,
+          "end": 86.4
+        },
+        {
+          "text": "encore",
+          "start": 86.4,
+          "end": 86.72
+        },
+        {
+          "text": "à",
+          "start": 86.72,
+          "end": 86.8
+        },
+        {
+          "text": "la",
+          "start": 86.8,
+          "end": 86.88
+        },
+        {
+          "text": "plage",
+          "start": 86.88,
+          "end": 87.36
+        },
+        {
+          "text": "à",
+          "start": 87.44,
+          "end": 87.52
+        },
+        {
+          "text": "la",
+          "start": 87.52,
+          "end": 87.6
+        },
+        {
+          "text": "Baie",
+          "start": 87.6,
+          "end": 87.76
+        },
+        {
+          "text": "de",
+          "start": 87.76,
+          "end": 87.84
+        },
+        {
+          "text": "Beauport",
+          "start": 87.84,
+          "end": 88.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les enfants seront éblouis ",
+          "translations": {
+            "zh": "孩子们会被迷住 ",
+            "en": "Children will be dazzled ",
+            "es": "Los niños quedarán deslumbrados "
+          },
+          "start": 75.52,
+          "end": 76.96
+        },
+        {
+          "text": "par les nombreux amuseurs publics ",
+          "translations": {
+            "zh": "被众多街头艺人 ",
+            "en": "by the many street performers ",
+            "es": "por los numerosos entretenedores públicos "
+          },
+          "start": 76.96,
+          "end": 78.72
+        },
+        {
+          "text": "qui animent les rues du Vieux-Québec, ",
+          "translations": {
+            "zh": "他们活跃在老魁北克的街道上，",
+            "en": "who enliven the streets of Old Quebec, ",
+            "es": "que animan las calles del Viejo Quebec, "
+          },
+          "start": 78.72,
+          "end": 80.32
+        },
+        {
+          "text": "et raffoleront des activités nautiques et jeux d'eau ",
+          "translations": {
+            "zh": "也会爱上水上活动和戏水游戏 ",
+            "en": "and will love the water activities and water games ",
+            "es": "y se encantarán con las actividades acuáticas y juegos de agua "
+          },
+          "start": 80.96,
+          "end": 83.76
+        },
+        {
+          "text": "qui sont offerts dans les parcs municipaux ",
+          "translations": {
+            "zh": "这些活动在市政公园里提供 ",
+            "en": "that are offered in municipal parks ",
+            "es": "que se ofrecen en los parques municipales "
+          },
+          "start": 84.0,
+          "end": 85.92
+        },
+        {
+          "text": "ou encore à la plage à la Baie de Beauport.",
+          "translations": {
+            "zh": "或者在博波尔湾的海滩上。",
+            "en": "or at the beach at Baie de Beauport.",
+            "es": "o también en la playa de la Bahía de Beauport."
+          },
+          "start": 86.24,
+          "end": 88.4
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Aussi, pourquoi ne pas profiter d'une belle journée ensoleillée pour piqueniquer en famille sur les plaines d'Abraham ?",
+      "translations": {
+        "zh": "此外，为什么不利用一个阳光明媚的好天气，一家人去亚伯拉罕平原野餐呢？",
+        "en": "Also, why not take advantage of a beautiful sunny day to have a family picnic on the Plains of Abraham?",
+        "es": "Además, ¿por qué no aprovechar un hermoso día soleado para hacer un picnic en familia en las llanuras de Abraham?"
+      },
+      "start": 89.68,
+      "end": 96.16,
+      "words": [
+        {
+          "text": "Aussi",
+          "start": 89.68,
+          "end": 90.08
+        },
+        {
+          "text": "pourquoi",
+          "start": 90.8,
+          "end": 91.04
+        },
+        {
+          "text": "ne",
+          "start": 91.04,
+          "end": 91.12
+        },
+        {
+          "text": "pas",
+          "start": 91.12,
+          "end": 91.28
+        },
+        {
+          "text": "profiter",
+          "start": 91.28,
+          "end": 91.68
+        },
+        {
+          "text": "d'une",
+          "start": 91.68,
+          "end": 91.92
+        },
+        {
+          "text": "belle",
+          "start": 91.92,
+          "end": 92.16
+        },
+        {
+          "text": "journée",
+          "start": 92.16,
+          "end": 92.56
+        },
+        {
+          "text": "ensoleillée",
+          "start": 92.56,
+          "end": 93.28
+        },
+        {
+          "text": "pour",
+          "start": 93.68,
+          "end": 93.92
+        },
+        {
+          "text": "piqueniquer",
+          "start": 94.0,
+          "end": 94.64
+        },
+        {
+          "text": "en",
+          "start": 94.64,
+          "end": 94.72
+        },
+        {
+          "text": "famille",
+          "start": 94.72,
+          "end": 95.2
+        },
+        {
+          "text": "sur",
+          "start": 95.2,
+          "end": 95.36
+        },
+        {
+          "text": "les",
+          "start": 95.36,
+          "end": 95.44
+        },
+        {
+          "text": "plaines",
+          "start": 95.44,
+          "end": 95.68
+        },
+        {
+          "text": "d'Abraham",
+          "start": 95.68,
+          "end": 96.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Aussi, ",
+          "translations": {
+            "zh": "此外，",
+            "en": "Also, ",
+            "es": "Además, "
+          },
+          "start": 89.68,
+          "end": 90.08
+        },
+        {
+          "text": "pourquoi ne pas profiter d'une belle journée ensoleillée ",
+          "translations": {
+            "zh": "为什么不利用一个阳光明媚的好天气 ",
+            "en": "why not take advantage of a beautiful sunny day ",
+            "es": "¿por qué no aprovechar un hermoso día soleado "
+          },
+          "start": 90.8,
+          "end": 93.28
+        },
+        {
+          "text": "pour piqueniquer en famille sur les plaines d'Abraham ?",
+          "translations": {
+            "zh": "一家人去亚伯拉罕平原野餐呢？",
+            "en": "to have a family picnic on the Plains of Abraham?",
+            "es": "para hacer un picnic en familia en las llanuras de Abraham?"
+          },
+          "start": 93.68,
+          "end": 96.16
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Pour votre hébergement, vous trouverez également un centre de vacances familiales à une vingtaine de minutes du centre-ville ; je vous invite à visiter le site Web du Mouvement québécois des vacances familiales pour plus d'information à ce sujet.",
+      "translations": {
+        "zh": "关于住宿，你们也可以在距离市中心大约二十分钟路程的地方找到一个家庭度假中心；我邀请你们访问魁北克家庭度假运动的网站了解更多相关信息。",
+        "en": "For your accommodation, you will also find a family vacation center about twenty minutes from downtown; I invite you to visit the website of the Mouvement québécois des vacances familiales for more information on this subject.",
+        "es": "Para su alojamiento, también encontrarán un centro de vacaciones familiares a unos veinte minutos del centro de la ciudad; los invito a visitar el sitio web del Movimiento quebequense de vacaciones familiares para más información al respecto."
+      },
+      "start": 97.28,
+      "end": 110.4,
+      "words": [
+        {
+          "text": "Pour",
+          "start": 97.28,
+          "end": 97.44
+        },
+        {
+          "text": "votre",
+          "start": 97.44,
+          "end": 97.68
+        },
+        {
+          "text": "hébergement",
+          "start": 97.68,
+          "end": 98.24
+        },
+        {
+          "text": "vous",
+          "start": 98.24,
+          "end": 98.4
+        },
+        {
+          "text": "trouverez",
+          "start": 98.4,
+          "end": 98.88
+        },
+        {
+          "text": "également",
+          "start": 98.88,
+          "end": 99.44
+        },
+        {
+          "text": "un",
+          "start": 99.44,
+          "end": 99.52
+        },
+        {
+          "text": "centre",
+          "start": 99.52,
+          "end": 100.0
+        },
+        {
+          "text": "de",
+          "start": 100.0,
+          "end": 100.08
+        },
+        {
+          "text": "vacances",
+          "start": 100.08,
+          "end": 100.48
+        },
+        {
+          "text": "familiales",
+          "start": 100.48,
+          "end": 101.04
+        },
+        {
+          "text": "à",
+          "start": 101.44,
+          "end": 101.6
+        },
+        {
+          "text": "une",
+          "start": 101.6,
+          "end": 101.76
+        },
+        {
+          "text": "vingtaine",
+          "start": 101.76,
+          "end": 102.16
+        },
+        {
+          "text": "de",
+          "start": 102.16,
+          "end": 102.24
+        },
+        {
+          "text": "minutes",
+          "start": 102.24,
+          "end": 102.48
+        },
+        {
+          "text": "du",
+          "start": 102.48,
+          "end": 102.56
+        },
+        {
+          "text": "centre",
+          "start": 102.56,
+          "end": 102.88
+        },
+        {
+          "text": "ville",
+          "start": 102.88,
+          "end": 103.12
+        },
+        {
+          "text": "je",
+          "start": 105.04,
+          "end": 105.12
+        },
+        {
+          "text": "vous",
+          "start": 105.12,
+          "end": 105.44
+        },
+        {
+          "text": "invite",
+          "start": 105.44,
+          "end": 105.68
+        },
+        {
+          "text": "à",
+          "start": 105.68,
+          "end": 105.76
+        },
+        {
+          "text": "visiter",
+          "start": 105.76,
+          "end": 106.16
+        },
+        {
+          "text": "le",
+          "start": 106.16,
+          "end": 106.24
+        },
+        {
+          "text": "site",
+          "start": 106.24,
+          "end": 106.48
+        },
+        {
+          "text": "Web",
+          "start": 106.48,
+          "end": 106.72
+        },
+        {
+          "text": "du",
+          "start": 106.72,
+          "end": 106.88
+        },
+        {
+          "text": "Mouvement",
+          "start": 106.88,
+          "end": 107.2
+        },
+        {
+          "text": "québécois",
+          "start": 107.2,
+          "end": 107.6
+        },
+        {
+          "text": "des",
+          "start": 107.6,
+          "end": 107.68
+        },
+        {
+          "text": "vacances",
+          "start": 107.68,
+          "end": 108.08
+        },
+        {
+          "text": "familiales",
+          "start": 108.08,
+          "end": 108.64
+        },
+        {
+          "text": "pour",
+          "start": 108.96,
+          "end": 109.12
+        },
+        {
+          "text": "plus",
+          "start": 109.12,
+          "end": 109.36
+        },
+        {
+          "text": "d'information",
+          "start": 109.36,
+          "end": 109.92
+        },
+        {
+          "text": "à",
+          "start": 109.92,
+          "end": 110.0
+        },
+        {
+          "text": "ce",
+          "start": 110.0,
+          "end": 110.08
+        },
+        {
+          "text": "sujet",
+          "start": 110.08,
+          "end": 110.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pour votre hébergement, ",
+          "translations": {
+            "zh": "关于住宿，",
+            "en": "For your accommodation, ",
+            "es": "Para su alojamiento, "
+          },
+          "start": 97.28,
+          "end": 98.24
+        },
+        {
+          "text": "vous trouverez également un centre de vacances familiales ",
+          "translations": {
+            "zh": "你们也可以找到一个家庭度假中心 ",
+            "en": "you will also find a family vacation center ",
+            "es": "también encontrarán un centro de vacaciones familiares "
+          },
+          "start": 98.24,
+          "end": 101.04
+        },
+        {
+          "text": "à une vingtaine de minutes du centre-ville ; ",
+          "translations": {
+            "zh": "距离市中心大约二十分钟路程；",
+            "en": "about twenty minutes from downtown; ",
+            "es": "a unos veinte minutos del centro de la ciudad; "
+          },
+          "start": 101.44,
+          "end": 103.12
+        },
+        {
+          "text": "je vous invite à visiter le site Web du Mouvement québécois des vacances familiales ",
+          "translations": {
+            "zh": "我邀请你们访问魁北克家庭度假运动的网站 ",
+            "en": "I invite you to visit the website of the Mouvement québécois des vacances familiales ",
+            "es": "los invito a visitar el sitio web del Movimiento quebequense de vacaciones familiares "
+          },
+          "start": 105.04,
+          "end": 108.64
+        },
+        {
+          "text": "pour plus d'information à ce sujet.",
+          "translations": {
+            "zh": "了解更多相关信息。",
+            "en": "for more information on this subject.",
+            "es": "para más información al respecto."
+          },
+          "start": 108.96,
+          "end": 110.4
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Sur ce, à la prochaine !",
+      "translations": {
+        "zh": "那么，下次见！",
+        "en": "With that, until next time!",
+        "es": "Con esto, ¡hasta la próxima!"
+      },
+      "start": 111.28,
+      "end": 112.8,
+      "words": [
+        {
+          "text": "Sur",
+          "start": 111.28,
+          "end": 111.52
+        },
+        {
+          "text": "ce",
+          "start": 111.52,
+          "end": 111.68
+        },
+        {
+          "text": "à",
+          "start": 112.24,
+          "end": 112.32
+        },
+        {
+          "text": "la",
+          "start": 112.32,
+          "end": 112.4
+        },
+        {
+          "text": "prochaine",
+          "start": 112.4,
+          "end": 112.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Sur ce, ",
+          "translations": {
+            "zh": "那么，",
+            "en": "With that, ",
+            "es": "Con esto, "
+          },
+          "start": 111.28,
+          "end": 111.68
+        },
+        {
+          "text": "à la prochaine !",
+          "translations": {
+            "zh": "下次见！",
+            "en": "until next time!",
+            "es": "¡hasta la próxima!"
+          },
+          "start": 112.24,
+          "end": 112.8
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "N'hésitez pas à m'écrire pour vos suggestions de sujets de chroniques sur la joie d'être père !",
+      "translations": {
+        "zh": "请随时给我写信，提供你们关于为人父的喜悦这一专栏主题的建议！",
+        "en": "Do not hesitate to write to me with your suggestions for column topics on the joy of being a father!",
+        "es": "No duden en escribirme para sus sugerencias de temas de columnas sobre la alegría de ser padre!"
+      },
+      "start": 113.44,
+      "end": 117.68,
+      "words": [
+        {
+          "text": "N'hésitez",
+          "start": 113.44,
+          "end": 113.84
+        },
+        {
+          "text": "pas",
+          "start": 113.84,
+          "end": 114.0
+        },
+        {
+          "text": "à",
+          "start": 114.0,
+          "end": 114.0
+        },
+        {
+          "text": "m'écrire",
+          "start": 114.0,
+          "end": 114.4
+        },
+        {
+          "text": "pour",
+          "start": 114.4,
+          "end": 114.56
+        },
+        {
+          "text": "vos",
+          "start": 114.56,
+          "end": 114.72
+        },
+        {
+          "text": "suggestions",
+          "start": 114.72,
+          "end": 115.36
+        },
+        {
+          "text": "de",
+          "start": 115.36,
+          "end": 115.52
+        },
+        {
+          "text": "sujets",
+          "start": 115.52,
+          "end": 115.84
+        },
+        {
+          "text": "de",
+          "start": 115.84,
+          "end": 115.92
+        },
+        {
+          "text": "chroniques",
+          "start": 115.92,
+          "end": 116.32
+        },
+        {
+          "text": "sur",
+          "start": 116.72,
+          "end": 116.88
+        },
+        {
+          "text": "la",
+          "start": 116.88,
+          "end": 117.04
+        },
+        {
+          "text": "joie",
+          "start": 117.04,
+          "end": 117.2
+        },
+        {
+          "text": "d'être",
+          "start": 117.2,
+          "end": 117.44
+        },
+        {
+          "text": "père",
+          "start": 117.44,
+          "end": 117.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "N'hésitez pas à m'écrire ",
+          "translations": {
+            "zh": "请随时给我写信 ",
+            "en": "Do not hesitate to write to me ",
+            "es": "No duden en escribirme "
+          },
+          "start": 113.44,
+          "end": 114.4
+        },
+        {
+          "text": "pour vos suggestions de sujets de chroniques ",
+          "translations": {
+            "zh": "提供你们关于专栏主题的建议 ",
+            "en": "with your suggestions for column topics ",
+            "es": "para sus sugerencias de temas de columnas "
+          },
+          "start": 114.4,
+          "end": 116.32
+        },
+        {
+          "text": "sur la joie d'être père !",
+          "translations": {
+            "zh": "关于为人父的喜悦！",
+            "en": "on the joy of being a father!",
+            "es": "sobre la alegría de ser padre!"
+          },
+          "start": 116.72,
+          "end": 117.68
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "TRAN S C RIP TION DE S DIALO GUES",
+      "translations": {
+        "zh": "对话转录",
+        "en": "TRANSCRIPTION OF THE DIALOGUES",
+        "es": "TR A NS C RIP CIÓ N DE L O S DIÁ L O GOS"
+      },
+      "start": 118.08,
+      "end": 120.8,
+      "words": [
+        {
+          "text": "TRAN",
+          "start": 118.08,
+          "end": 118.08
+        },
+        {
+          "text": "S",
+          "start": 118.08,
+          "end": 118.08
+        },
+        {
+          "text": "C",
+          "start": 119.84,
+          "end": 119.84
+        },
+        {
+          "text": "RIP",
+          "start": 119.84,
+          "end": 119.84
+        },
+        {
+          "text": "TION",
+          "start": 120.08,
+          "end": 120.08
+        },
+        {
+          "text": "DE",
+          "start": 120.8,
+          "end": 120.8
+        },
+        {
+          "text": "S",
+          "start": 120.8,
+          "end": 120.8
+        },
+        {
+          "text": "DIALO",
+          "start": 120.8,
+          "end": 120.8
+        },
+        {
+          "text": "GUES",
+          "start": 120.8,
+          "end": 120.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "TRAN S C RIP TION ",
+          "translations": {
+            "zh": "转录 ",
+            "en": "TRANSCRIPTION ",
+            "es": "TR A NS C RIP CIÓ N "
+          },
+          "start": 118.08,
+          "end": 120.08
+        },
+        {
+          "text": "DE S DIALO GUES",
+          "translations": {
+            "zh": "对话",
+            "en": "OF THE DIALOGUES",
+            "es": "DE L O S DIÁ L O GOS"
+          },
+          "start": 120.8,
+          "end": 120.8
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP20_P43",
+  "audio_filename": "FLS2_EP20_P43.mp3",
+  "audio_path": "downloads/FLS2_EP20_P43.mp3",
+  "episode": 20,
+  "piste": 43,
+  "page": 152,
+  "cd": "CD2"
+}

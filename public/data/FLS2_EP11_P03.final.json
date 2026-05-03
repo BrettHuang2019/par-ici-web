@@ -1,0 +1,856 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 11 Piste 3 Page 87",
+      "translations": {
+        "zh": "第11集 第3音轨 第87页",
+        "en": "Episode 11 Track 3 Page 87",
+        "es": "Episodio 11 Pista 3 Página 87"
+      },
+      "start": 1.12,
+      "end": 8.32,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 1.12,
+          "end": 1.76
+        },
+        {
+          "text": "11",
+          "start": 2.08,
+          "end": 2.56
+        },
+        {
+          "text": "Piste",
+          "start": 3.36,
+          "end": 3.84
+        },
+        {
+          "text": "3",
+          "start": 4.32,
+          "end": 4.64
+        },
+        {
+          "text": "Page",
+          "start": 7.28,
+          "end": 7.28
+        },
+        {
+          "text": "87",
+          "start": 7.28,
+          "end": 8.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 11",
+          "translations": {
+            "zh": "第11集",
+            "en": "Episode 11",
+            "es": "Episodio 11"
+          },
+          "start": 1.12,
+          "end": 2.56
+        },
+        {
+          "text": "Piste 3",
+          "translations": {
+            "zh": "第3音轨",
+            "en": "Track 3",
+            "es": "Pista 3"
+          },
+          "start": 3.36,
+          "end": 4.64
+        },
+        {
+          "text": "Page 87",
+          "translations": {
+            "zh": "第87页",
+            "en": "Page 87",
+            "es": "Página 87"
+          },
+          "start": 7.28,
+          "end": 8.32
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Désolée, je ne peux pas.",
+      "translations": {
+        "zh": "抱歉，我不能。",
+        "en": "Sorry, I can't.",
+        "es": "Lo siento, no puedo."
+      },
+      "start": 11.28,
+      "end": 12.48,
+      "words": [
+        {
+          "text": "Désolée",
+          "start": 11.28,
+          "end": 11.92
+        },
+        {
+          "text": "je",
+          "start": 11.92,
+          "end": 12.0
+        },
+        {
+          "text": "ne",
+          "start": 12.0,
+          "end": 12.08
+        },
+        {
+          "text": "peux",
+          "start": 12.08,
+          "end": 12.16
+        },
+        {
+          "text": "pas",
+          "start": 12.16,
+          "end": 12.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Désolée,",
+          "translations": {
+            "zh": "抱歉，",
+            "en": "Sorry,",
+            "es": "Lo siento,"
+          },
+          "start": 11.28,
+          "end": 11.92
+        },
+        {
+          "text": "je ne peux pas.",
+          "translations": {
+            "zh": "我不能。",
+            "en": "I can't.",
+            "es": "no puedo."
+          },
+          "start": 11.92,
+          "end": 12.48
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "On a prévu autre chose.",
+      "translations": {
+        "zh": "我们安排了别的事。",
+        "en": "We have other plans.",
+        "es": "Hemos planeado otra cosa."
+      },
+      "start": 14.4,
+      "end": 16.88,
+      "words": [
+        {
+          "text": "On",
+          "start": 14.4,
+          "end": 14.48
+        },
+        {
+          "text": "a",
+          "start": 14.48,
+          "end": 14.56
+        },
+        {
+          "text": "prévu",
+          "start": 15.84,
+          "end": 16.16
+        },
+        {
+          "text": "autre",
+          "start": 16.16,
+          "end": 16.4
+        },
+        {
+          "text": "chose",
+          "start": 16.4,
+          "end": 16.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On a prévu",
+          "translations": {
+            "zh": "我们安排了",
+            "en": "We planned",
+            "es": "Hemos planeado"
+          },
+          "start": 14.4,
+          "end": 16.16
+        },
+        {
+          "text": "autre chose.",
+          "translations": {
+            "zh": "别的事。",
+            "en": "something else.",
+            "es": "otra cosa."
+          },
+          "start": 16.16,
+          "end": 16.88
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "On ne pourra pas, désolé.",
+      "translations": {
+        "zh": "我们去不了，抱歉。",
+        "en": "We won't be able to, sorry.",
+        "es": "No podremos, lo siento."
+      },
+      "start": 17.04,
+      "end": 18.0,
+      "words": [
+        {
+          "text": "On",
+          "start": 17.04,
+          "end": 17.12
+        },
+        {
+          "text": "ne",
+          "start": 17.12,
+          "end": 17.12
+        },
+        {
+          "text": "pourra",
+          "start": 17.12,
+          "end": 17.36
+        },
+        {
+          "text": "pas",
+          "start": 17.36,
+          "end": 17.6
+        },
+        {
+          "text": "désolé",
+          "start": 17.6,
+          "end": 18.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On ne pourra pas,",
+          "translations": {
+            "zh": "我们去不了，",
+            "en": "We won't be able to,",
+            "es": "No podremos,"
+          },
+          "start": 17.04,
+          "end": 17.6
+        },
+        {
+          "text": "désolé.",
+          "translations": {
+            "zh": "抱歉。",
+            "en": "sorry.",
+            "es": "lo siento."
+          },
+          "start": 17.6,
+          "end": 18.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Julie et moi, on va être là, c'est sûr !",
+      "translations": {
+        "zh": "朱莉和我，我们会到场的，肯定的！",
+        "en": "Julie and I, we'll be there, for sure!",
+        "es": "Julie y yo, vamos a estar ahí, ¡seguro!"
+      },
+      "start": 21.68,
+      "end": 23.84,
+      "words": [
+        {
+          "text": "Julie",
+          "start": 21.68,
+          "end": 22.24
+        },
+        {
+          "text": "et",
+          "start": 22.24,
+          "end": 22.32
+        },
+        {
+          "text": "moi",
+          "start": 22.32,
+          "end": 22.56
+        },
+        {
+          "text": "on",
+          "start": 22.64,
+          "end": 22.72
+        },
+        {
+          "text": "va",
+          "start": 22.72,
+          "end": 22.96
+        },
+        {
+          "text": "être",
+          "start": 22.96,
+          "end": 23.04
+        },
+        {
+          "text": "là",
+          "start": 23.04,
+          "end": 23.2
+        },
+        {
+          "text": "c'est",
+          "start": 23.2,
+          "end": 23.36
+        },
+        {
+          "text": "sûr",
+          "start": 23.36,
+          "end": 23.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Julie et moi,",
+          "translations": {
+            "zh": "朱莉和我，",
+            "en": "Julie and I,",
+            "es": "Julie y yo,"
+          },
+          "start": 21.68,
+          "end": 22.56
+        },
+        {
+          "text": "on va être là,",
+          "translations": {
+            "zh": "我们会到场的，",
+            "en": "we'll be there,",
+            "es": "vamos a estar ahí,"
+          },
+          "start": 22.64,
+          "end": 23.2
+        },
+        {
+          "text": "c'est sûr !",
+          "translations": {
+            "zh": "肯定的！",
+            "en": "for sure!",
+            "es": "¡seguro!"
+          },
+          "start": 23.2,
+          "end": 23.84
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Je ne pourrai pas être des vôtres, je me suis fait mal au dos...",
+      "translations": {
+        "zh": "我没法加入你们了，我把背弄伤了……",
+        "en": "I won't be able to join you, I hurt my back...",
+        "es": "No podré estar con ustedes, me lastimé la espalda..."
+      },
+      "start": 27.28,
+      "end": 29.68,
+      "words": [
+        {
+          "text": "Je",
+          "start": 27.28,
+          "end": 27.36
+        },
+        {
+          "text": "ne",
+          "start": 27.36,
+          "end": 27.44
+        },
+        {
+          "text": "pourrai",
+          "start": 27.44,
+          "end": 27.68
+        },
+        {
+          "text": "pas",
+          "start": 27.68,
+          "end": 27.84
+        },
+        {
+          "text": "être",
+          "start": 27.84,
+          "end": 27.92
+        },
+        {
+          "text": "des",
+          "start": 27.92,
+          "end": 28.08
+        },
+        {
+          "text": "vôtres",
+          "start": 28.08,
+          "end": 28.64
+        },
+        {
+          "text": "je",
+          "start": 28.64,
+          "end": 28.8
+        },
+        {
+          "text": "me",
+          "start": 28.8,
+          "end": 28.88
+        },
+        {
+          "text": "suis",
+          "start": 28.88,
+          "end": 29.04
+        },
+        {
+          "text": "fait",
+          "start": 29.04,
+          "end": 29.2
+        },
+        {
+          "text": "mal",
+          "start": 29.2,
+          "end": 29.36
+        },
+        {
+          "text": "au",
+          "start": 29.36,
+          "end": 29.68
+        },
+        {
+          "text": "dos",
+          "start": 29.68,
+          "end": 29.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je ne pourrai pas être des vôtres,",
+          "translations": {
+            "zh": "我没法加入你们了，",
+            "en": "I won't be able to join you,",
+            "es": "No podré estar con ustedes,"
+          },
+          "start": 27.28,
+          "end": 28.64
+        },
+        {
+          "text": "je me suis fait mal au dos...",
+          "translations": {
+            "zh": "我把背弄伤了……",
+            "en": "I hurt my back...",
+            "es": "me lastimé la espalda..."
+          },
+          "start": 28.64,
+          "end": 29.68
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Je vais participer avec plaisir !",
+      "translations": {
+        "zh": "我会参加的，很高兴！",
+        "en": "I'll take part with pleasure!",
+        "es": "¡Voy a participar con gusto!"
+      },
+      "start": 31.6,
+      "end": 35.28,
+      "words": [
+        {
+          "text": "Je",
+          "start": 31.6,
+          "end": 31.92
+        },
+        {
+          "text": "vais",
+          "start": 33.6,
+          "end": 33.76
+        },
+        {
+          "text": "participer",
+          "start": 33.76,
+          "end": 34.4
+        },
+        {
+          "text": "avec",
+          "start": 34.4,
+          "end": 34.72
+        },
+        {
+          "text": "plaisir",
+          "start": 34.72,
+          "end": 35.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais participer",
+          "translations": {
+            "zh": "我会参加",
+            "en": "I'll take part",
+            "es": "Voy a participar"
+          },
+          "start": 31.6,
+          "end": 34.4
+        },
+        {
+          "text": "avec plaisir !",
+          "translations": {
+            "zh": "很高兴！",
+            "en": "with pleasure!",
+            "es": "¡con gusto!"
+          },
+          "start": 34.4,
+          "end": 35.28
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "On ne manquera pas ça !",
+      "translations": {
+        "zh": "我们不会错过的！",
+        "en": "We won't miss it!",
+        "es": "¡No nos lo perderemos!"
+      },
+      "start": 38.72,
+      "end": 39.68,
+      "words": [
+        {
+          "text": "On",
+          "start": 38.72,
+          "end": 38.88
+        },
+        {
+          "text": "ne",
+          "start": 38.88,
+          "end": 38.88
+        },
+        {
+          "text": "manquera",
+          "start": 38.88,
+          "end": 39.2
+        },
+        {
+          "text": "pas",
+          "start": 39.2,
+          "end": 39.36
+        },
+        {
+          "text": "ça",
+          "start": 39.36,
+          "end": 39.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On ne manquera pas ça !",
+          "translations": {
+            "zh": "我们不会错过的！",
+            "en": "We won't miss it!",
+            "es": "¡No nos lo perderemos!"
+          },
+          "start": 38.72,
+          "end": 39.68
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "J'accepte avec grand plaisir.",
+      "translations": {
+        "zh": "我非常乐意接受。",
+        "en": "I accept with great pleasure.",
+        "es": "Acepto con mucho gusto."
+      },
+      "start": 42.08,
+      "end": 45.04,
+      "words": [
+        {
+          "text": "J'accepte",
+          "start": 42.08,
+          "end": 42.64
+        },
+        {
+          "text": "avec",
+          "start": 44.08,
+          "end": 44.32
+        },
+        {
+          "text": "grand",
+          "start": 44.32,
+          "end": 44.48
+        },
+        {
+          "text": "plaisir",
+          "start": 44.48,
+          "end": 45.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'accepte",
+          "translations": {
+            "zh": "我接受",
+            "en": "I accept",
+            "es": "Acepto"
+          },
+          "start": 42.08,
+          "end": 42.64
+        },
+        {
+          "text": "avec grand plaisir.",
+          "translations": {
+            "zh": "非常乐意。",
+            "en": "with great pleasure.",
+            "es": "con mucho gusto."
+          },
+          "start": 44.08,
+          "end": 45.04
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "C'est plate, je ne serai pas ici en fin de semaine prochaine.",
+      "translations": {
+        "zh": "真遗憾，下周末我不会在这里。",
+        "en": "That's a shame, I won't be here next weekend.",
+        "es": "Es una pena, no estaré aquí el fin de semana que viene."
+      },
+      "start": 47.04,
+      "end": 51.44,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 47.04,
+          "end": 48.64
+        },
+        {
+          "text": "plate",
+          "start": 48.64,
+          "end": 49.36
+        },
+        {
+          "text": "je",
+          "start": 49.84,
+          "end": 49.84
+        },
+        {
+          "text": "ne",
+          "start": 50.08,
+          "end": 50.106
+        },
+        {
+          "text": "serai",
+          "start": 50.133,
+          "end": 50.16
+        },
+        {
+          "text": "pas",
+          "start": 50.186,
+          "end": 50.213
+        },
+        {
+          "text": "ici",
+          "start": 50.24,
+          "end": 50.4
+        },
+        {
+          "text": "en",
+          "start": 50.4,
+          "end": 50.48
+        },
+        {
+          "text": "fin",
+          "start": 50.48,
+          "end": 50.64
+        },
+        {
+          "text": "de",
+          "start": 50.64,
+          "end": 50.72
+        },
+        {
+          "text": "semaine",
+          "start": 50.72,
+          "end": 50.96
+        },
+        {
+          "text": "prochaine",
+          "start": 50.96,
+          "end": 51.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est plate,",
+          "translations": {
+            "zh": "真遗憾，",
+            "en": "That's a shame,",
+            "es": "Es una pena,"
+          },
+          "start": 47.04,
+          "end": 49.36
+        },
+        {
+          "text": "je ne serai pas ici",
+          "translations": {
+            "zh": "我不会在这里",
+            "en": "I won't be here",
+            "es": "no estaré aquí"
+          },
+          "start": 49.84,
+          "end": 50.4
+        },
+        {
+          "text": "en fin de semaine prochaine.",
+          "translations": {
+            "zh": "下周末。",
+            "en": "next weekend.",
+            "es": "el fin de semana que viene."
+          },
+          "start": 50.4,
+          "end": 51.44
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Vous pouvez compter sur nous !",
+      "translations": {
+        "zh": "你们可以指望我们！",
+        "en": "You can count on us!",
+        "es": "¡Pueden contar con nosotros!"
+      },
+      "start": 55.12,
+      "end": 56.16,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 55.12,
+          "end": 55.28
+        },
+        {
+          "text": "pouvez",
+          "start": 55.28,
+          "end": 55.52
+        },
+        {
+          "text": "compter",
+          "start": 55.52,
+          "end": 55.84
+        },
+        {
+          "text": "sur",
+          "start": 55.84,
+          "end": 56.0
+        },
+        {
+          "text": "nous",
+          "start": 56.0,
+          "end": 56.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous pouvez compter",
+          "translations": {
+            "zh": "你们可以指望",
+            "en": "You can count",
+            "es": "Pueden contar"
+          },
+          "start": 55.12,
+          "end": 55.84
+        },
+        {
+          "text": "sur nous !",
+          "translations": {
+            "zh": "我们！",
+            "en": "on us!",
+            "es": "¡con nosotros!"
+          },
+          "start": 55.84,
+          "end": 56.16
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Ce sera pour une prochaine fois.",
+      "translations": {
+        "zh": "留到下次吧。",
+        "en": "It'll be for next time.",
+        "es": "Será para una próxima vez."
+      },
+      "start": 58.4,
+      "end": 60.88,
+      "words": [
+        {
+          "text": "Ce",
+          "start": 58.4,
+          "end": 58.8
+        },
+        {
+          "text": "sera",
+          "start": 59.68,
+          "end": 60.08
+        },
+        {
+          "text": "pour",
+          "start": 60.08,
+          "end": 60.16
+        },
+        {
+          "text": "une",
+          "start": 60.16,
+          "end": 60.32
+        },
+        {
+          "text": "prochaine",
+          "start": 60.32,
+          "end": 60.64
+        },
+        {
+          "text": "fois",
+          "start": 60.64,
+          "end": 60.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ce sera",
+          "translations": {
+            "zh": "那将是",
+            "en": "It'll be",
+            "es": "Será"
+          },
+          "start": 58.4,
+          "end": 60.08
+        },
+        {
+          "text": "pour une prochaine fois.",
+          "translations": {
+            "zh": "下次的事。",
+            "en": "for next time.",
+            "es": "para una próxima vez."
+          },
+          "start": 60.08,
+          "end": 60.88
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP11_P03",
+  "audio_filename": "FLS2_EP11_P03.mp3",
+  "audio_path": "downloads/FLS2_EP11_P03.mp3",
+  "episode": 11,
+  "piste": 3,
+  "page": 87,
+  "cd": "CD2"
+}

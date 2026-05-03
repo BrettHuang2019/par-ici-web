@@ -1,0 +1,736 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 12 Piste 17 Page 96",
+      "translations": {
+        "zh": "第12集 第17音轨 第96页",
+        "en": "Episode 12 Track 17 Page 96",
+        "es": "Episodio 12 Pista 17 Página 96"
+      },
+      "start": 0.64,
+      "end": 10.64,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.64,
+          "end": 1.28
+        },
+        {
+          "text": "12",
+          "start": 1.76,
+          "end": 2.32
+        },
+        {
+          "text": "Piste",
+          "start": 3.2,
+          "end": 3.68
+        },
+        {
+          "text": "17",
+          "start": 4.08,
+          "end": 4.56
+        },
+        {
+          "text": "Page",
+          "start": 4.56,
+          "end": 4.56
+        },
+        {
+          "text": "96",
+          "start": 10.64,
+          "end": 10.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 12",
+          "translations": {
+            "zh": "第12集",
+            "en": "Episode 12",
+            "es": "Episodio 12"
+          },
+          "start": 0.64,
+          "end": 2.32
+        },
+        {
+          "text": "Piste 17",
+          "translations": {
+            "zh": "第17音轨",
+            "en": "Track 17",
+            "es": "Pista 17"
+          },
+          "start": 3.2,
+          "end": 4.56
+        },
+        {
+          "text": "Page 96",
+          "translations": {
+            "zh": "第96页",
+            "en": "Page 96",
+            "es": "Página 96"
+          },
+          "start": 4.56,
+          "end": 10.64
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bonjour, c'est Nicole Fortin du magasin général.",
+      "translations": {
+        "zh": "您好，我是综合商店的尼科尔·福尔坦。",
+        "en": "Hello, this is Nicole Fortin from the general store.",
+        "es": "Hola, es Nicole Fortin de la tienda general."
+      },
+      "start": 10.64,
+      "end": 13.44,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 10.64,
+          "end": 11.28
+        },
+        {
+          "text": "c'est",
+          "start": 11.28,
+          "end": 11.44
+        },
+        {
+          "text": "Nicole",
+          "start": 11.44,
+          "end": 11.84
+        },
+        {
+          "text": "Fortin",
+          "start": 11.84,
+          "end": 12.24
+        },
+        {
+          "text": "du",
+          "start": 12.24,
+          "end": 12.4
+        },
+        {
+          "text": "magasin",
+          "start": 12.4,
+          "end": 12.8
+        },
+        {
+          "text": "général",
+          "start": 12.8,
+          "end": 13.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 10.64,
+          "end": 11.28
+        },
+        {
+          "text": "c'est Nicole Fortin",
+          "translations": {
+            "zh": "我是尼科尔·福尔坦，",
+            "en": "this is Nicole Fortin",
+            "es": "es Nicole Fortin"
+          },
+          "start": 11.28,
+          "end": 12.24
+        },
+        {
+          "text": "du magasin général.",
+          "translations": {
+            "zh": "来自综合商店。",
+            "en": "from the general store.",
+            "es": "de la tienda general."
+          },
+          "start": 12.24,
+          "end": 13.44
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Vous pouvez venir chercher votre commande.",
+      "translations": {
+        "zh": "您可以来取您的订单。",
+        "en": "You can come pick up your order.",
+        "es": "Puede venir a buscar su pedido."
+      },
+      "start": 13.84,
+      "end": 15.36,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 13.84,
+          "end": 14.0
+        },
+        {
+          "text": "pouvez",
+          "start": 14.0,
+          "end": 14.32
+        },
+        {
+          "text": "venir",
+          "start": 14.32,
+          "end": 14.48
+        },
+        {
+          "text": "chercher",
+          "start": 14.48,
+          "end": 14.88
+        },
+        {
+          "text": "votre",
+          "start": 14.88,
+          "end": 15.04
+        },
+        {
+          "text": "commande",
+          "start": 15.04,
+          "end": 15.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous pouvez venir chercher",
+          "translations": {
+            "zh": "您可以来取",
+            "en": "You can come pick up",
+            "es": "Puede venir a buscar"
+          },
+          "start": 13.84,
+          "end": 14.88
+        },
+        {
+          "text": "votre commande.",
+          "translations": {
+            "zh": "您的订单。",
+            "en": "your order.",
+            "es": "su pedido."
+          },
+          "start": 14.88,
+          "end": 15.36
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Si je ne suis pas là, demandez Jacques, il vous renseignera.",
+      "translations": {
+        "zh": "如果我不在，请找雅克，他会为您提供信息。",
+        "en": "If I'm not there, ask Jacques, he will help you.",
+        "es": "Si no estoy, pregunte por Jacques, él le informará."
+      },
+      "start": 15.92,
+      "end": 18.8,
+      "words": [
+        {
+          "text": "Si",
+          "start": 15.92,
+          "end": 16.16
+        },
+        {
+          "text": "je",
+          "start": 16.16,
+          "end": 16.24
+        },
+        {
+          "text": "ne",
+          "start": 16.24,
+          "end": 16.32
+        },
+        {
+          "text": "suis",
+          "start": 16.32,
+          "end": 16.48
+        },
+        {
+          "text": "pas",
+          "start": 16.48,
+          "end": 16.64
+        },
+        {
+          "text": "là",
+          "start": 16.64,
+          "end": 16.88
+        },
+        {
+          "text": "demandez",
+          "start": 17.2,
+          "end": 17.6
+        },
+        {
+          "text": "Jacques",
+          "start": 17.6,
+          "end": 18.0
+        },
+        {
+          "text": "il",
+          "start": 18.0,
+          "end": 18.16
+        },
+        {
+          "text": "vous",
+          "start": 18.16,
+          "end": 18.24
+        },
+        {
+          "text": "renseignera",
+          "start": 18.24,
+          "end": 18.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Si je ne suis pas là,",
+          "translations": {
+            "zh": "如果我不在，",
+            "en": "If I'm not there,",
+            "es": "Si no estoy,"
+          },
+          "start": 15.92,
+          "end": 16.88
+        },
+        {
+          "text": "demandez Jacques,",
+          "translations": {
+            "zh": "请找雅克，",
+            "en": "ask Jacques,",
+            "es": "pregunte por Jacques,"
+          },
+          "start": 17.2,
+          "end": 18.0
+        },
+        {
+          "text": "il vous renseignera.",
+          "translations": {
+            "zh": "他会为您提供信息。",
+            "en": "he will help you.",
+            "es": "él le informará."
+          },
+          "start": 18.0,
+          "end": 18.8
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Bonsoir, c'est le concierge.",
+      "translations": {
+        "zh": "晚上好，我是门房。",
+        "en": "Good evening, this is the caretaker.",
+        "es": "Buenas tardes, es el portero."
+      },
+      "start": 22.88,
+      "end": 24.16,
+      "words": [
+        {
+          "text": "Bonsoir",
+          "start": 22.88,
+          "end": 23.36
+        },
+        {
+          "text": "c'est",
+          "start": 23.36,
+          "end": 23.44
+        },
+        {
+          "text": "le",
+          "start": 23.44,
+          "end": 23.52
+        },
+        {
+          "text": "concierge",
+          "start": 23.52,
+          "end": 24.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonsoir,",
+          "translations": {
+            "zh": "晚上好，",
+            "en": "Good evening,",
+            "es": "Buenas tardes,"
+          },
+          "start": 22.88,
+          "end": 23.36
+        },
+        {
+          "text": "c'est le concierge.",
+          "translations": {
+            "zh": "我是门房。",
+            "en": "this is the caretaker.",
+            "es": "es el portero."
+          },
+          "start": 23.36,
+          "end": 24.16
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Je vous rappelle que vous devez fermer vos fenêtres, les travaux commencent demain matin.",
+      "translations": {
+        "zh": "我提醒您必须关好窗户，施工明天早上开始。",
+        "en": "I am reminding you that you must close your windows, the work begins tomorrow morning.",
+        "es": "Le recuerdo que debe cerrar sus ventanas, las obras empiezan mañana por la mañana."
+      },
+      "start": 24.64,
+      "end": 27.84,
+      "words": [
+        {
+          "text": "Je",
+          "start": 24.64,
+          "end": 24.72
+        },
+        {
+          "text": "vous",
+          "start": 24.72,
+          "end": 24.88
+        },
+        {
+          "text": "rappelle",
+          "start": 24.88,
+          "end": 25.2
+        },
+        {
+          "text": "que",
+          "start": 25.2,
+          "end": 25.36
+        },
+        {
+          "text": "vous",
+          "start": 25.36,
+          "end": 25.52
+        },
+        {
+          "text": "devez",
+          "start": 25.52,
+          "end": 25.76
+        },
+        {
+          "text": "fermer",
+          "start": 25.76,
+          "end": 26.08
+        },
+        {
+          "text": "vos",
+          "start": 26.08,
+          "end": 26.16
+        },
+        {
+          "text": "fenêtres",
+          "start": 26.16,
+          "end": 26.56
+        },
+        {
+          "text": "les",
+          "start": 26.56,
+          "end": 26.64
+        },
+        {
+          "text": "travaux",
+          "start": 26.64,
+          "end": 26.96
+        },
+        {
+          "text": "commencent",
+          "start": 26.96,
+          "end": 27.36
+        },
+        {
+          "text": "demain",
+          "start": 27.36,
+          "end": 27.52
+        },
+        {
+          "text": "matin",
+          "start": 27.52,
+          "end": 27.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vous rappelle",
+          "translations": {
+            "zh": "我提醒您",
+            "en": "I am reminding you",
+            "es": "Le recuerdo"
+          },
+          "start": 24.64,
+          "end": 25.2
+        },
+        {
+          "text": "que vous devez fermer vos fenêtres,",
+          "translations": {
+            "zh": "您必须关好窗户，",
+            "en": "that you must close your windows,",
+            "es": "que debe cerrar sus ventanas,"
+          },
+          "start": 25.2,
+          "end": 26.56
+        },
+        {
+          "text": "les travaux commencent",
+          "translations": {
+            "zh": "施工开始",
+            "en": "the work begins",
+            "es": "las obras empiezan"
+          },
+          "start": 26.56,
+          "end": 27.36
+        },
+        {
+          "text": "demain matin.",
+          "translations": {
+            "zh": "明天早上。",
+            "en": "tomorrow morning.",
+            "es": "mañana por la mañana."
+          },
+          "start": 27.36,
+          "end": 27.84
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Merci.",
+      "translations": {
+        "zh": "谢谢。",
+        "en": "Thank you.",
+        "es": "Gracias."
+      },
+      "start": 28.24,
+      "end": 28.64,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 28.24,
+          "end": 28.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci.",
+          "translations": {
+            "zh": "谢谢。",
+            "en": "Thank you.",
+            "es": "Gracias."
+          },
+          "start": 28.24,
+          "end": 28.64
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Bonjour cousin, c'est Estelle.",
+      "translations": {
+        "zh": "你好，表哥，我是埃斯特尔。",
+        "en": "Hello cousin, this is Estelle.",
+        "es": "Hola primo, es Estelle."
+      },
+      "start": 32.72,
+      "end": 34.56,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 32.72,
+          "end": 33.12
+        },
+        {
+          "text": "cousin",
+          "start": 33.12,
+          "end": 33.52
+        },
+        {
+          "text": "c'est",
+          "start": 33.68,
+          "end": 34.0
+        },
+        {
+          "text": "Estelle",
+          "start": 34.0,
+          "end": 34.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour cousin,",
+          "translations": {
+            "zh": "你好，表哥，",
+            "en": "Hello cousin,",
+            "es": "Hola primo,"
+          },
+          "start": 32.72,
+          "end": 33.52
+        },
+        {
+          "text": "c'est Estelle.",
+          "translations": {
+            "zh": "我是埃斯特尔。",
+            "en": "this is Estelle.",
+            "es": "es Estelle."
+          },
+          "start": 33.68,
+          "end": 34.56
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Je serai chez toi vers 6 h.",
+      "translations": {
+        "zh": "我大约6点到你家。",
+        "en": "I will be at your place around 6 o'clock.",
+        "es": "Estaré en tu casa hacia las 6 h."
+      },
+      "start": 35.12,
+      "end": 36.56,
+      "words": [
+        {
+          "text": "Je",
+          "start": 35.12,
+          "end": 35.2
+        },
+        {
+          "text": "serai",
+          "start": 35.2,
+          "end": 35.44
+        },
+        {
+          "text": "chez",
+          "start": 35.44,
+          "end": 35.6
+        },
+        {
+          "text": "toi",
+          "start": 35.6,
+          "end": 35.84
+        },
+        {
+          "text": "vers",
+          "start": 35.84,
+          "end": 36.0
+        },
+        {
+          "text": "6",
+          "start": 36.0,
+          "end": 36.24
+        },
+        {
+          "text": "h",
+          "start": 36.24,
+          "end": 36.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je serai chez toi",
+          "translations": {
+            "zh": "我会到你家",
+            "en": "I will be at your place",
+            "es": "Estaré en tu casa"
+          },
+          "start": 35.12,
+          "end": 35.84
+        },
+        {
+          "text": "vers 6 h.",
+          "translations": {
+            "zh": "大约6点。",
+            "en": "around 6 o'clock.",
+            "es": "hacia las 6 h."
+          },
+          "start": 35.84,
+          "end": 36.56
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Rappelle-moi si ça ne convient pas.",
+      "translations": {
+        "zh": "如果不合适，给我回电话。",
+        "en": "Call me back if that doesn't work for you.",
+        "es": "Llámame si no te conviene."
+      },
+      "start": 37.28,
+      "end": 38.8,
+      "words": [
+        {
+          "text": "Rappelle",
+          "start": 37.28,
+          "end": 37.6
+        },
+        {
+          "text": "moi",
+          "start": 37.6,
+          "end": 37.84
+        },
+        {
+          "text": "si",
+          "start": 37.84,
+          "end": 37.92
+        },
+        {
+          "text": "ça",
+          "start": 37.92,
+          "end": 38.08
+        },
+        {
+          "text": "ne",
+          "start": 38.08,
+          "end": 38.08
+        },
+        {
+          "text": "convient",
+          "start": 38.08,
+          "end": 38.48
+        },
+        {
+          "text": "pas",
+          "start": 38.48,
+          "end": 38.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Rappelle-moi",
+          "translations": {
+            "zh": "给我回电话",
+            "en": "Call me back",
+            "es": "Llámame"
+          },
+          "start": 37.28,
+          "end": 37.84
+        },
+        {
+          "text": "si ça ne convient pas.",
+          "translations": {
+            "zh": "如果不合适。",
+            "en": "if that doesn't work for you.",
+            "es": "si no te conviene."
+          },
+          "start": 37.84,
+          "end": 38.8
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP12_P17",
+  "audio_filename": "FLS2_EP12_P17.mp3",
+  "audio_path": "downloads/FLS2_EP12_P17.mp3",
+  "episode": 12,
+  "piste": 17,
+  "page": 96,
+  "cd": "CD2"
+}

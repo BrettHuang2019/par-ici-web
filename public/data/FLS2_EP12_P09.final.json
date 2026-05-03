@@ -1,0 +1,2421 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 12 Piste 9 Page 92",
+      "translations": {
+        "zh": "第12集 第9轨 第92页",
+        "en": "Episode 12 Track 9 Page 92",
+        "es": "Episodio 12 Pista 9 Página 92"
+      },
+      "start": 0.64,
+      "end": 8.32,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.64,
+          "end": 1.36
+        },
+        {
+          "text": "12",
+          "start": 1.84,
+          "end": 2.4
+        },
+        {
+          "text": "Piste",
+          "start": 3.28,
+          "end": 3.68
+        },
+        {
+          "text": "9",
+          "start": 4.32,
+          "end": 4.56
+        },
+        {
+          "text": "Page",
+          "start": 6.72,
+          "end": 7.2
+        },
+        {
+          "text": "92",
+          "start": 7.28,
+          "end": 8.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 12",
+          "translations": {
+            "zh": "第12集",
+            "en": "Episode 12",
+            "es": "Episodio 12"
+          },
+          "start": 0.64,
+          "end": 2.4
+        },
+        {
+          "text": "Piste 9",
+          "translations": {
+            "zh": "第9轨",
+            "en": "Track 9",
+            "es": "Pista 9"
+          },
+          "start": 3.28,
+          "end": 4.56
+        },
+        {
+          "text": "Page 92",
+          "translations": {
+            "zh": "第92页",
+            "en": "Page 92",
+            "es": "Página 92"
+          },
+          "start": 6.72,
+          "end": 8.32
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bonjour, je suis bien au restaurant Tout un repas ?",
+      "translations": {
+        "zh": "您好，这里是'Tout un repas'餐厅吗？",
+        "en": "Hello, am I speaking to the restaurant Tout un repas?",
+        "es": "Hola, ¿es el restaurante Tout un repas?"
+      },
+      "start": 10.64,
+      "end": 13.84,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 10.64,
+          "end": 11.12
+        },
+        {
+          "text": "je",
+          "start": 11.84,
+          "end": 11.92
+        },
+        {
+          "text": "suis",
+          "start": 11.92,
+          "end": 12.08
+        },
+        {
+          "text": "bien",
+          "start": 12.08,
+          "end": 12.24
+        },
+        {
+          "text": "au",
+          "start": 12.24,
+          "end": 12.32
+        },
+        {
+          "text": "restaurant",
+          "start": 12.32,
+          "end": 13.04
+        },
+        {
+          "text": "Tout",
+          "start": 13.28,
+          "end": 13.44
+        },
+        {
+          "text": "un",
+          "start": 13.44,
+          "end": 13.44
+        },
+        {
+          "text": "repas",
+          "start": 13.52,
+          "end": 13.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 10.64,
+          "end": 11.12
+        },
+        {
+          "text": "je suis bien au restaurant Tout un repas ?",
+          "translations": {
+            "zh": "这里是'Tout un repas'餐厅吗？",
+            "en": "am I speaking to the restaurant Tout un repas?",
+            "es": "¿es el restaurante Tout un repas?"
+          },
+          "start": 11.84,
+          "end": 13.84
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Oui.",
+      "translations": {
+        "zh": "是的。",
+        "en": "Yes.",
+        "es": "Sí."
+      },
+      "start": 14.48,
+      "end": 14.96,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 14.48,
+          "end": 14.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui.",
+          "translations": {
+            "zh": "是的。",
+            "en": "Yes.",
+            "es": "Sí."
+          },
+          "start": 14.48,
+          "end": 14.96
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Qu'est-ce que je peux faire pour vous ?",
+      "translations": {
+        "zh": "我能为您做些什么？",
+        "en": "What can I do for you?",
+        "es": "¿Qué puedo hacer por usted?"
+      },
+      "start": 15.36,
+      "end": 16.4,
+      "words": [
+        {
+          "text": "Qu'est",
+          "start": 15.36,
+          "end": 15.44
+        },
+        {
+          "text": "ce",
+          "start": 15.44,
+          "end": 15.52
+        },
+        {
+          "text": "que",
+          "start": 15.52,
+          "end": 15.6
+        },
+        {
+          "text": "je",
+          "start": 15.6,
+          "end": 15.68
+        },
+        {
+          "text": "peux",
+          "start": 15.68,
+          "end": 15.76
+        },
+        {
+          "text": "faire",
+          "start": 15.76,
+          "end": 15.92
+        },
+        {
+          "text": "pour",
+          "start": 15.92,
+          "end": 16.08
+        },
+        {
+          "text": "vous",
+          "start": 16.08,
+          "end": 16.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Qu'est-ce que je peux faire pour vous ?",
+          "translations": {
+            "zh": "我能为您做些什么？",
+            "en": "What can I do for you?",
+            "es": "¿Qué puedo hacer por usted?"
+          },
+          "start": 15.36,
+          "end": 16.4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Je voudrais savoir s'il est possible de réserver une table pour cinq personnes pour demain soir.",
+      "translations": {
+        "zh": "我想知道是否可以预订一张明天晚上的五人桌。",
+        "en": "I would like to know if it is possible to reserve a table for five people for tomorrow evening.",
+        "es": "Me gustaría saber si es posible reservar una mesa para cinco personas para mañana por la tarde."
+      },
+      "start": 17.04,
+      "end": 21.44,
+      "words": [
+        {
+          "text": "Je",
+          "start": 17.04,
+          "end": 17.04
+        },
+        {
+          "text": "voudrais",
+          "start": 17.04,
+          "end": 17.28
+        },
+        {
+          "text": "savoir",
+          "start": 17.28,
+          "end": 17.52
+        },
+        {
+          "text": "s'il",
+          "start": 17.52,
+          "end": 17.68
+        },
+        {
+          "text": "est",
+          "start": 17.68,
+          "end": 17.76
+        },
+        {
+          "text": "possible",
+          "start": 17.76,
+          "end": 18.08
+        },
+        {
+          "text": "de",
+          "start": 18.08,
+          "end": 18.16
+        },
+        {
+          "text": "réserver",
+          "start": 18.16,
+          "end": 18.56
+        },
+        {
+          "text": "une",
+          "start": 18.56,
+          "end": 18.72
+        },
+        {
+          "text": "table",
+          "start": 18.72,
+          "end": 19.12
+        },
+        {
+          "text": "pour",
+          "start": 19.12,
+          "end": 19.44
+        },
+        {
+          "text": "cinq",
+          "start": 19.44,
+          "end": 19.76
+        },
+        {
+          "text": "personnes",
+          "start": 19.76,
+          "end": 20.4
+        },
+        {
+          "text": "pour",
+          "start": 20.64,
+          "end": 20.8
+        },
+        {
+          "text": "demain",
+          "start": 20.8,
+          "end": 21.04
+        },
+        {
+          "text": "soir",
+          "start": 21.04,
+          "end": 21.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je voudrais savoir",
+          "translations": {
+            "zh": "我想知道",
+            "en": "I would like to know",
+            "es": "Me gustaría saber"
+          },
+          "start": 17.04,
+          "end": 17.52
+        },
+        {
+          "text": "s'il est possible de réserver une table",
+          "translations": {
+            "zh": "是否可以预订一张桌子",
+            "en": "if it is possible to reserve a table",
+            "es": "si es posible reservar una mesa"
+          },
+          "start": 17.52,
+          "end": 19.12
+        },
+        {
+          "text": "pour cinq personnes",
+          "translations": {
+            "zh": "给五个人",
+            "en": "for five people",
+            "es": "para cinco personas"
+          },
+          "start": 19.12,
+          "end": 20.4
+        },
+        {
+          "text": "pour demain soir.",
+          "translations": {
+            "zh": "明天晚上的。",
+            "en": "for tomorrow evening.",
+            "es": "para mañana por la tarde."
+          },
+          "start": 20.64,
+          "end": 21.44
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Oui, à quelle heure ?",
+      "translations": {
+        "zh": "好的，几点呢？",
+        "en": "Yes, at what time?",
+        "es": "Sí, ¿a qué hora?"
+      },
+      "start": 21.92,
+      "end": 23.52,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 21.92,
+          "end": 22.32
+        },
+        {
+          "text": "à",
+          "start": 22.72,
+          "end": 22.88
+        },
+        {
+          "text": "quelle",
+          "start": 22.88,
+          "end": 23.12
+        },
+        {
+          "text": "heure",
+          "start": 23.12,
+          "end": 23.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "好的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 21.92,
+          "end": 22.32
+        },
+        {
+          "text": "à quelle heure ?",
+          "translations": {
+            "zh": "几点呢？",
+            "en": "at what time?",
+            "es": "¿a qué hora?"
+          },
+          "start": 22.72,
+          "end": 23.52
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Vers 18 h 30, est-ce que c'est possible ?",
+      "translations": {
+        "zh": "大概18点30分，可以吗？",
+        "en": "Around 6:30 PM, is that possible?",
+        "es": "Hacia las 18 h 30, ¿es posible?"
+      },
+      "start": 24.08,
+      "end": 26.16,
+      "words": [
+        {
+          "text": "Vers",
+          "start": 24.08,
+          "end": 24.4
+        },
+        {
+          "text": "18",
+          "start": 24.4,
+          "end": 25.28
+        },
+        {
+          "text": "h",
+          "start": 25.28,
+          "end": 25.28
+        },
+        {
+          "text": "30",
+          "start": 25.28,
+          "end": 25.36
+        },
+        {
+          "text": "est",
+          "start": 25.36,
+          "end": 25.52
+        },
+        {
+          "text": "ce",
+          "start": 25.52,
+          "end": 25.52
+        },
+        {
+          "text": "que",
+          "start": 25.52,
+          "end": 25.6
+        },
+        {
+          "text": "c'est",
+          "start": 25.6,
+          "end": 25.76
+        },
+        {
+          "text": "possible",
+          "start": 25.76,
+          "end": 26.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vers 18 h 30,",
+          "translations": {
+            "zh": "大概18点30分，",
+            "en": "Around 6:30 PM,",
+            "es": "Hacia las 18 h 30,"
+          },
+          "start": 24.08,
+          "end": 25.36
+        },
+        {
+          "text": "est-ce que c'est possible ?",
+          "translations": {
+            "zh": "可以吗？",
+            "en": "is that possible?",
+            "es": "¿es posible?"
+          },
+          "start": 25.36,
+          "end": 26.16
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Oui.",
+      "translations": {
+        "zh": "是的。",
+        "en": "Yes.",
+        "es": "Sí."
+      },
+      "start": 26.56,
+      "end": 27.04,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 26.56,
+          "end": 27.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui.",
+          "translations": {
+            "zh": "是的。",
+            "en": "Yes.",
+            "es": "Sí."
+          },
+          "start": 26.56,
+          "end": 27.04
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "À quel nom je fais la réservation ?",
+      "translations": {
+        "zh": "我用什么名字做预订？",
+        "en": "Under what name am I making the reservation?",
+        "es": "¿A nombre de quién hago la reserva?"
+      },
+      "start": 27.68,
+      "end": 29.04,
+      "words": [
+        {
+          "text": "À",
+          "start": 27.68,
+          "end": 27.76
+        },
+        {
+          "text": "quel",
+          "start": 27.76,
+          "end": 28.0
+        },
+        {
+          "text": "nom",
+          "start": 28.0,
+          "end": 28.08
+        },
+        {
+          "text": "je",
+          "start": 28.08,
+          "end": 28.16
+        },
+        {
+          "text": "fais",
+          "start": 28.16,
+          "end": 28.24
+        },
+        {
+          "text": "la",
+          "start": 28.24,
+          "end": 28.4
+        },
+        {
+          "text": "réservation",
+          "start": 28.4,
+          "end": 29.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "À quel nom",
+          "translations": {
+            "zh": "用什么名字",
+            "en": "Under what name",
+            "es": "¿A nombre de quién"
+          },
+          "start": 27.68,
+          "end": 28.08
+        },
+        {
+          "text": "je fais la réservation ?",
+          "translations": {
+            "zh": "做预订呢？",
+            "en": "am I making the reservation?",
+            "es": "hago la reserva?"
+          },
+          "start": 28.08,
+          "end": 29.04
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Au nom de Christian.",
+      "translations": {
+        "zh": "以Christian的名字。",
+        "en": "Under the name Christian.",
+        "es": "A nombre de Christian."
+      },
+      "start": 29.84,
+      "end": 30.88,
+      "words": [
+        {
+          "text": "Au",
+          "start": 29.84,
+          "end": 29.92
+        },
+        {
+          "text": "nom",
+          "start": 29.92,
+          "end": 30.16
+        },
+        {
+          "text": "de",
+          "start": 30.16,
+          "end": 30.32
+        },
+        {
+          "text": "Christian",
+          "start": 30.32,
+          "end": 30.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Au nom de Christian.",
+          "translations": {
+            "zh": "以Christian的名字。",
+            "en": "Under the name Christian.",
+            "es": "A nombre de Christian."
+          },
+          "start": 29.84,
+          "end": 30.88
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "C'est noté.",
+      "translations": {
+        "zh": "已记下。",
+        "en": "Noted.",
+        "es": "Está anotado."
+      },
+      "start": 31.84,
+      "end": 32.4,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 31.84,
+          "end": 32.0
+        },
+        {
+          "text": "noté",
+          "start": 32.0,
+          "end": 32.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est noté.",
+          "translations": {
+            "zh": "已记下。",
+            "en": "Noted.",
+            "es": "Está anotado."
+          },
+          "start": 31.84,
+          "end": 32.4
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Merci, à demain !",
+      "translations": {
+        "zh": "谢谢，明天见！",
+        "en": "Thank you, see you tomorrow!",
+        "es": "Gracias, ¡hasta mañana!"
+      },
+      "start": 33.04,
+      "end": 34.56,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 33.04,
+          "end": 33.6
+        },
+        {
+          "text": "à",
+          "start": 34.24,
+          "end": 34.32
+        },
+        {
+          "text": "demain",
+          "start": 34.32,
+          "end": 34.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci,",
+          "translations": {
+            "zh": "谢谢，",
+            "en": "Thank you,",
+            "es": "Gracias,"
+          },
+          "start": 33.04,
+          "end": 33.6
+        },
+        {
+          "text": "à demain !",
+          "translations": {
+            "zh": "明天见！",
+            "en": "see you tomorrow!",
+            "es": "¡hasta mañana!"
+          },
+          "start": 34.24,
+          "end": 34.56
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Auto Location, bonjour.",
+      "translations": {
+        "zh": "Auto租车公司，您好。",
+        "en": "Auto Rental, hello.",
+        "es": "Alquiler de Autos, hola."
+      },
+      "start": 40.64,
+      "end": 42.08,
+      "words": [
+        {
+          "text": "Auto",
+          "start": 40.64,
+          "end": 40.96
+        },
+        {
+          "text": "Location",
+          "start": 40.96,
+          "end": 41.52
+        },
+        {
+          "text": "bonjour",
+          "start": 41.52,
+          "end": 42.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Auto Location,",
+          "translations": {
+            "zh": "Auto租车公司，",
+            "en": "Auto Rental,",
+            "es": "Alquiler de Autos,"
+          },
+          "start": 40.64,
+          "end": 41.52
+        },
+        {
+          "text": "bonjour.",
+          "translations": {
+            "zh": "您好。",
+            "en": "hello.",
+            "es": "hola."
+          },
+          "start": 41.52,
+          "end": 42.08
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Isabelle Paré à l'appareil.",
+      "translations": {
+        "zh": "Isabelle Paré在电话那头。",
+        "en": "Isabelle Paré on the line.",
+        "es": "Isabelle Paré al aparato."
+      },
+      "start": 42.4,
+      "end": 43.6,
+      "words": [
+        {
+          "text": "Isabelle",
+          "start": 42.4,
+          "end": 42.4
+        },
+        {
+          "text": "Paré",
+          "start": 42.72,
+          "end": 43.04
+        },
+        {
+          "text": "à",
+          "start": 43.04,
+          "end": 43.12
+        },
+        {
+          "text": "l'appareil",
+          "start": 43.12,
+          "end": 43.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Isabelle Paré",
+          "translations": {
+            "zh": "Isabelle Paré",
+            "en": "Isabelle Paré",
+            "es": "Isabelle Paré"
+          },
+          "start": 42.4,
+          "end": 43.04
+        },
+        {
+          "text": "à l'appareil.",
+          "translations": {
+            "zh": "在电话那头。",
+            "en": "on the line.",
+            "es": "al aparato."
+          },
+          "start": 43.04,
+          "end": 43.6
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Bonjour !",
+      "translations": {
+        "zh": "您好！",
+        "en": "Hello!",
+        "es": "¡Hola!"
+      },
+      "start": 44.16,
+      "end": 44.64,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 44.16,
+          "end": 44.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour !",
+          "translations": {
+            "zh": "您好！",
+            "en": "Hello!",
+            "es": "¡Hola!"
+          },
+          "start": 44.16,
+          "end": 44.64
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "J'aimerais savoir si je peux louer une voiture pour une semaine.",
+      "translations": {
+        "zh": "我想知道我能否租一辆车租一个星期。",
+        "en": "I would like to know if I can rent a car for a week.",
+        "es": "Me gustaría saber si puedo alquilar un coche para una semana."
+      },
+      "start": 45.2,
+      "end": 47.68,
+      "words": [
+        {
+          "text": "J'aimerais",
+          "start": 45.2,
+          "end": 45.52
+        },
+        {
+          "text": "savoir",
+          "start": 45.52,
+          "end": 45.76
+        },
+        {
+          "text": "si",
+          "start": 45.76,
+          "end": 45.92
+        },
+        {
+          "text": "je",
+          "start": 45.92,
+          "end": 46.0
+        },
+        {
+          "text": "peux",
+          "start": 46.0,
+          "end": 46.16
+        },
+        {
+          "text": "louer",
+          "start": 46.16,
+          "end": 46.4
+        },
+        {
+          "text": "une",
+          "start": 46.4,
+          "end": 46.48
+        },
+        {
+          "text": "voiture",
+          "start": 46.48,
+          "end": 46.96
+        },
+        {
+          "text": "pour",
+          "start": 46.96,
+          "end": 47.12
+        },
+        {
+          "text": "une",
+          "start": 47.12,
+          "end": 47.2
+        },
+        {
+          "text": "semaine",
+          "start": 47.2,
+          "end": 47.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'aimerais savoir",
+          "translations": {
+            "zh": "我想知道",
+            "en": "I would like to know",
+            "es": "Me gustaría saber"
+          },
+          "start": 45.2,
+          "end": 45.76
+        },
+        {
+          "text": "si je peux louer une voiture",
+          "translations": {
+            "zh": "我能否租一辆车",
+            "en": "if I can rent a car",
+            "es": "si puedo alquilar un coche"
+          },
+          "start": 45.76,
+          "end": 46.96
+        },
+        {
+          "text": "pour une semaine.",
+          "translations": {
+            "zh": "租一个星期。",
+            "en": "for a week.",
+            "es": "para una semana."
+          },
+          "start": 46.96,
+          "end": 47.68
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Je dois partir à Boston lundi prochain, j'ai besoin d'une petite voiture.",
+      "translations": {
+        "zh": "我下周一要出发去波士顿，我需要一辆小车。",
+        "en": "I need to leave for Boston next Monday, I need a small car.",
+        "es": "Debo partir a Boston el próximo lunes, necesito un coche pequeño."
+      },
+      "start": 48.32,
+      "end": 51.92,
+      "words": [
+        {
+          "text": "Je",
+          "start": 48.32,
+          "end": 48.4
+        },
+        {
+          "text": "dois",
+          "start": 48.4,
+          "end": 48.56
+        },
+        {
+          "text": "partir",
+          "start": 48.56,
+          "end": 48.88
+        },
+        {
+          "text": "à",
+          "start": 48.88,
+          "end": 48.96
+        },
+        {
+          "text": "Boston",
+          "start": 48.96,
+          "end": 49.36
+        },
+        {
+          "text": "lundi",
+          "start": 49.36,
+          "end": 49.6
+        },
+        {
+          "text": "prochain",
+          "start": 49.6,
+          "end": 50.16
+        },
+        {
+          "text": "j'ai",
+          "start": 50.64,
+          "end": 50.88
+        },
+        {
+          "text": "besoin",
+          "start": 50.88,
+          "end": 51.12
+        },
+        {
+          "text": "d'une",
+          "start": 51.12,
+          "end": 51.28
+        },
+        {
+          "text": "petite",
+          "start": 51.28,
+          "end": 51.52
+        },
+        {
+          "text": "voiture",
+          "start": 51.52,
+          "end": 51.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je dois partir à Boston lundi prochain,",
+          "translations": {
+            "zh": "我下周一要出发去波士顿，",
+            "en": "I need to leave for Boston next Monday,",
+            "es": "Debo partir a Boston el próximo lunes,"
+          },
+          "start": 48.32,
+          "end": 50.16
+        },
+        {
+          "text": "j'ai besoin d'une petite voiture.",
+          "translations": {
+            "zh": "我需要一辆小车。",
+            "en": "I need a small car.",
+            "es": "necesito un coche pequeño."
+          },
+          "start": 50.64,
+          "end": 51.92
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Oui, il m'en reste une en catégorie économique.",
+      "translations": {
+        "zh": "是的，我还有一辆经济型的。",
+        "en": "Yes, I have one left in the economy category.",
+        "es": "Sí, me queda una en categoría económica."
+      },
+      "start": 52.8,
+      "end": 55.36,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 52.8,
+          "end": 53.12
+        },
+        {
+          "text": "il",
+          "start": 53.2,
+          "end": 53.28
+        },
+        {
+          "text": "m'en",
+          "start": 53.28,
+          "end": 53.44
+        },
+        {
+          "text": "reste",
+          "start": 53.44,
+          "end": 53.76
+        },
+        {
+          "text": "une",
+          "start": 53.76,
+          "end": 53.92
+        },
+        {
+          "text": "en",
+          "start": 53.92,
+          "end": 54.0
+        },
+        {
+          "text": "catégorie",
+          "start": 54.08,
+          "end": 54.64
+        },
+        {
+          "text": "économique",
+          "start": 54.64,
+          "end": 55.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 52.8,
+          "end": 53.12
+        },
+        {
+          "text": "il m'en reste une",
+          "translations": {
+            "zh": "我还有一辆",
+            "en": "I have one left",
+            "es": "me queda una"
+          },
+          "start": 53.2,
+          "end": 53.92
+        },
+        {
+          "text": "en catégorie économique.",
+          "translations": {
+            "zh": "经济型的。",
+            "en": "in the economy category.",
+            "es": "en categoría económica."
+          },
+          "start": 53.92,
+          "end": 55.36
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Elle sera libre dimanche ; vous pouvez passer à nos bureaux à partir de 18 h.",
+      "translations": {
+        "zh": "它周日会空闲；您可以从18点起来我们的办公室。",
+        "en": "It will be available on Sunday; you can come by our offices from 6 PM.",
+        "es": "Estará libre el domingo; puede pasar por nuestras oficinas a partir de las 18 h."
+      },
+      "start": 55.76,
+      "end": 59.44,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 55.76,
+          "end": 55.92
+        },
+        {
+          "text": "sera",
+          "start": 55.92,
+          "end": 56.16
+        },
+        {
+          "text": "libre",
+          "start": 56.16,
+          "end": 56.32
+        },
+        {
+          "text": "dimanche",
+          "start": 56.32,
+          "end": 57.04
+        },
+        {
+          "text": "vous",
+          "start": 57.28,
+          "end": 57.44
+        },
+        {
+          "text": "pouvez",
+          "start": 57.44,
+          "end": 57.68
+        },
+        {
+          "text": "passer",
+          "start": 57.68,
+          "end": 58.0
+        },
+        {
+          "text": "à",
+          "start": 58.0,
+          "end": 58.0
+        },
+        {
+          "text": "nos",
+          "start": 58.0,
+          "end": 58.16
+        },
+        {
+          "text": "bureaux",
+          "start": 58.16,
+          "end": 58.48
+        },
+        {
+          "text": "à",
+          "start": 58.48,
+          "end": 58.56
+        },
+        {
+          "text": "partir",
+          "start": 58.56,
+          "end": 58.88
+        },
+        {
+          "text": "de",
+          "start": 58.88,
+          "end": 59.04
+        },
+        {
+          "text": "18",
+          "start": 59.04,
+          "end": 59.44
+        },
+        {
+          "text": "h",
+          "start": 59.44,
+          "end": 59.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle sera libre dimanche ;",
+          "translations": {
+            "zh": "它周日会空闲；",
+            "en": "It will be available on Sunday;",
+            "es": "Estará libre el domingo;"
+          },
+          "start": 55.76,
+          "end": 57.04
+        },
+        {
+          "text": "vous pouvez passer à nos bureaux",
+          "translations": {
+            "zh": "您可以来我们的办公室",
+            "en": "you can come by our offices",
+            "es": "puede pasar por nuestras oficinas"
+          },
+          "start": 57.28,
+          "end": 58.48
+        },
+        {
+          "text": "à partir de 18 h.",
+          "translations": {
+            "zh": "从18点起。",
+            "en": "from 6 PM.",
+            "es": "a partir de las 18 h."
+          },
+          "start": 58.48,
+          "end": 59.44
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Super.",
+      "translations": {
+        "zh": "太好了。",
+        "en": "Great.",
+        "es": "Estupendo."
+      },
+      "start": 60.16,
+      "end": 60.16,
+      "words": [
+        {
+          "text": "Super",
+          "start": 60.16,
+          "end": 60.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Super.",
+          "translations": {
+            "zh": "太好了。",
+            "en": "Great.",
+            "es": "Estupendo."
+          },
+          "start": 60.16,
+          "end": 60.16
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Je la réserve.",
+      "translations": {
+        "zh": "我预订它。",
+        "en": "I'll reserve it.",
+        "es": "La reservo."
+      },
+      "start": 60.16,
+      "end": 61.76,
+      "words": [
+        {
+          "text": "Je",
+          "start": 60.16,
+          "end": 60.24
+        },
+        {
+          "text": "la",
+          "start": 61.28,
+          "end": 61.36
+        },
+        {
+          "text": "réserve",
+          "start": 61.36,
+          "end": 61.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je la réserve.",
+          "translations": {
+            "zh": "我预订它。",
+            "en": "I'll reserve it.",
+            "es": "La reservo."
+          },
+          "start": 60.16,
+          "end": 61.76
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Bonjour.",
+      "translations": {
+        "zh": "您好。",
+        "en": "Hello.",
+        "es": "Hola."
+      },
+      "start": 67.6,
+      "end": 68.0,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 67.6,
+          "end": 68.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour.",
+          "translations": {
+            "zh": "您好。",
+            "en": "Hello.",
+            "es": "Hola."
+          },
+          "start": 67.6,
+          "end": 68.0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Je souhaiterais connaitre l'heure d'arrivée du train à Baie-Saint-Paul en fin de matinée.",
+      "translations": {
+        "zh": "我想知道上午晚些时候到Baie-Saint-Paul的火车到达时间。",
+        "en": "I would like to know the arrival time of the train in Baie-Saint-Paul late morning.",
+        "es": "Desearía conocer la hora de llegada del tren a Baie-Saint-Paul a última hora de la mañana."
+      },
+      "start": 68.64,
+      "end": 72.32,
+      "words": [
+        {
+          "text": "Je",
+          "start": 68.64,
+          "end": 68.8
+        },
+        {
+          "text": "souhaiterais",
+          "start": 68.8,
+          "end": 69.12
+        },
+        {
+          "text": "connaitre",
+          "start": 69.12,
+          "end": 69.6
+        },
+        {
+          "text": "l'heure",
+          "start": 69.6,
+          "end": 69.76
+        },
+        {
+          "text": "d'arrivée",
+          "start": 69.76,
+          "end": 70.16
+        },
+        {
+          "text": "du",
+          "start": 70.16,
+          "end": 70.32
+        },
+        {
+          "text": "train",
+          "start": 70.32,
+          "end": 70.64
+        },
+        {
+          "text": "à",
+          "start": 70.64,
+          "end": 70.64
+        },
+        {
+          "text": "Baie",
+          "start": 70.64,
+          "end": 70.8
+        },
+        {
+          "text": "Saint",
+          "start": 70.8,
+          "end": 70.96
+        },
+        {
+          "text": "Paul",
+          "start": 70.96,
+          "end": 71.28
+        },
+        {
+          "text": "en",
+          "start": 71.36,
+          "end": 71.52
+        },
+        {
+          "text": "fin",
+          "start": 71.52,
+          "end": 71.76
+        },
+        {
+          "text": "de",
+          "start": 71.76,
+          "end": 71.84
+        },
+        {
+          "text": "matinée",
+          "start": 71.84,
+          "end": 72.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je souhaiterais connaitre",
+          "translations": {
+            "zh": "我想知道",
+            "en": "I would like to know",
+            "es": "Desearía conocer"
+          },
+          "start": 68.64,
+          "end": 69.6
+        },
+        {
+          "text": "l'heure d'arrivée du train",
+          "translations": {
+            "zh": "火车的到达时间",
+            "en": "the arrival time of the train",
+            "es": "la hora de llegada del tren"
+          },
+          "start": 69.6,
+          "end": 70.64
+        },
+        {
+          "text": "à Baie-Saint-Paul",
+          "translations": {
+            "zh": "到Baie-Saint-Paul",
+            "en": "in Baie-Saint-Paul",
+            "es": "a Baie-Saint-Paul"
+          },
+          "start": 70.64,
+          "end": 71.28
+        },
+        {
+          "text": "en fin de matinée.",
+          "translations": {
+            "zh": "上午晚些时候。",
+            "en": "late morning.",
+            "es": "a última hora de la mañana."
+          },
+          "start": 71.36,
+          "end": 72.32
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Le train arrive à 11 h 45.",
+      "translations": {
+        "zh": "火车11点45分到达。",
+        "en": "The train arrives at 11:45 AM.",
+        "es": "El tren llega a las 11 h 45."
+      },
+      "start": 72.64,
+      "end": 74.56,
+      "words": [
+        {
+          "text": "Le",
+          "start": 72.64,
+          "end": 73.04
+        },
+        {
+          "text": "train",
+          "start": 73.04,
+          "end": 73.36
+        },
+        {
+          "text": "arrive",
+          "start": 73.36,
+          "end": 73.76
+        },
+        {
+          "text": "à",
+          "start": 73.76,
+          "end": 74.08
+        },
+        {
+          "text": "11",
+          "start": 74.16,
+          "end": 74.4
+        },
+        {
+          "text": "h",
+          "start": 74.4,
+          "end": 74.4
+        },
+        {
+          "text": "45",
+          "start": 74.56,
+          "end": 74.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le train arrive",
+          "translations": {
+            "zh": "火车到达",
+            "en": "The train arrives",
+            "es": "El tren llega"
+          },
+          "start": 72.64,
+          "end": 73.76
+        },
+        {
+          "text": "à 11 h 45.",
+          "translations": {
+            "zh": "11点45分。",
+            "en": "at 11:45 AM.",
+            "es": "a las 11 h 45."
+          },
+          "start": 73.76,
+          "end": 74.56
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Est-ce que vous pourriez me dire à quelle heure le train repart pour Québec ?",
+      "translations": {
+        "zh": "您能告诉我火车几点再出发去魁北克吗？",
+        "en": "Could you tell me at what time the train departs for Quebec?",
+        "es": "¿Podría decirme a qué hora el tren parte hacia Quebec?"
+      },
+      "start": 75.12,
+      "end": 78.64,
+      "words": [
+        {
+          "text": "Est",
+          "start": 75.12,
+          "end": 75.2
+        },
+        {
+          "text": "ce",
+          "start": 75.92,
+          "end": 76.0
+        },
+        {
+          "text": "que",
+          "start": 76.0,
+          "end": 76.08
+        },
+        {
+          "text": "vous",
+          "start": 76.08,
+          "end": 76.16
+        },
+        {
+          "text": "pourriez",
+          "start": 76.16,
+          "end": 76.4
+        },
+        {
+          "text": "me",
+          "start": 76.4,
+          "end": 76.48
+        },
+        {
+          "text": "dire",
+          "start": 76.48,
+          "end": 76.64
+        },
+        {
+          "text": "à",
+          "start": 76.8,
+          "end": 76.88
+        },
+        {
+          "text": "quelle",
+          "start": 76.88,
+          "end": 77.2
+        },
+        {
+          "text": "heure",
+          "start": 77.2,
+          "end": 77.44
+        },
+        {
+          "text": "le",
+          "start": 77.44,
+          "end": 77.52
+        },
+        {
+          "text": "train",
+          "start": 77.6,
+          "end": 77.84
+        },
+        {
+          "text": "repart",
+          "start": 77.84,
+          "end": 78.08
+        },
+        {
+          "text": "pour",
+          "start": 78.08,
+          "end": 78.24
+        },
+        {
+          "text": "Québec",
+          "start": 78.24,
+          "end": 78.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que vous pourriez me dire",
+          "translations": {
+            "zh": "您能告诉我",
+            "en": "Could you tell me",
+            "es": "¿Podría decirme"
+          },
+          "start": 75.12,
+          "end": 76.64
+        },
+        {
+          "text": "à quelle heure le train repart",
+          "translations": {
+            "zh": "火车几点再出发",
+            "en": "at what time the train departs",
+            "es": "a qué hora el tren parte"
+          },
+          "start": 76.8,
+          "end": 78.08
+        },
+        {
+          "text": "pour Québec ?",
+          "translations": {
+            "zh": "去魁北克？",
+            "en": "for Quebec?",
+            "es": "hacia Quebec?"
+          },
+          "start": 78.08,
+          "end": 78.64
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Il repart à 14 h.",
+      "translations": {
+        "zh": "它14点再出发。",
+        "en": "It departs at 2 PM.",
+        "es": "Parte a las 14 h."
+      },
+      "start": 79.12,
+      "end": 80.96,
+      "words": [
+        {
+          "text": "Il",
+          "start": 79.12,
+          "end": 79.28
+        },
+        {
+          "text": "repart",
+          "start": 79.36,
+          "end": 79.92
+        },
+        {
+          "text": "à",
+          "start": 79.92,
+          "end": 80.16
+        },
+        {
+          "text": "14",
+          "start": 80.24,
+          "end": 80.64
+        },
+        {
+          "text": "h",
+          "start": 80.64,
+          "end": 80.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il repart",
+          "translations": {
+            "zh": "它再出发",
+            "en": "It departs",
+            "es": "Parte"
+          },
+          "start": 79.12,
+          "end": 79.92
+        },
+        {
+          "text": "à 14 h.",
+          "translations": {
+            "zh": "14点。",
+            "en": "at 2 PM.",
+            "es": "a las 14 h."
+          },
+          "start": 79.92,
+          "end": 80.96
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Je vous remercie !",
+      "translations": {
+        "zh": "谢谢您！",
+        "en": "Thank you!",
+        "es": "¡Se lo agradezco!"
+      },
+      "start": 81.84,
+      "end": 82.4,
+      "words": [
+        {
+          "text": "Je",
+          "start": 81.84,
+          "end": 81.84
+        },
+        {
+          "text": "vous",
+          "start": 81.92,
+          "end": 82.0
+        },
+        {
+          "text": "remercie",
+          "start": 82.0,
+          "end": 82.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vous remercie !",
+          "translations": {
+            "zh": "谢谢您！",
+            "en": "Thank you!",
+            "es": "¡Se lo agradezco!"
+          },
+          "start": 81.84,
+          "end": 82.4
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Bonjour madame, j'ai un rendez- vous mardi, mais je ne pourrai pas venir.",
+      "translations": {
+        "zh": "您好女士，我周二有一个预约，但我没法来了。",
+        "en": "Hello ma'am, I have an appointment on Tuesday, but I will not be able to come.",
+        "es": "Hola señora, tengo una cita el martes, pero no podré venir."
+      },
+      "start": 88.32,
+      "end": 92.4,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 88.32,
+          "end": 88.64
+        },
+        {
+          "text": "madame",
+          "start": 88.64,
+          "end": 89.04
+        },
+        {
+          "text": "j'ai",
+          "start": 89.6,
+          "end": 89.84
+        },
+        {
+          "text": "un",
+          "start": 89.84,
+          "end": 90.0
+        },
+        {
+          "text": "rendez",
+          "start": 90.0,
+          "end": 90.08
+        },
+        {
+          "text": "vous",
+          "start": 90.08,
+          "end": 90.24
+        },
+        {
+          "text": "mardi",
+          "start": 90.24,
+          "end": 90.8
+        },
+        {
+          "text": "mais",
+          "start": 90.8,
+          "end": 91.44
+        },
+        {
+          "text": "je",
+          "start": 91.52,
+          "end": 91.68
+        },
+        {
+          "text": "ne",
+          "start": 91.68,
+          "end": 91.76
+        },
+        {
+          "text": "pourrai",
+          "start": 91.76,
+          "end": 91.84
+        },
+        {
+          "text": "pas",
+          "start": 91.84,
+          "end": 92.0
+        },
+        {
+          "text": "venir",
+          "start": 92.0,
+          "end": 92.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour madame,",
+          "translations": {
+            "zh": "您好女士，",
+            "en": "Hello ma'am,",
+            "es": "Hola señora,"
+          },
+          "start": 88.32,
+          "end": 89.04
+        },
+        {
+          "text": "j'ai un rendez- vous mardi,",
+          "translations": {
+            "zh": "我周二有一个预约，",
+            "en": "I have an appointment on Tuesday,",
+            "es": "tengo una cita el martes,"
+          },
+          "start": 89.6,
+          "end": 90.8
+        },
+        {
+          "text": "mais je ne pourrai pas venir.",
+          "translations": {
+            "zh": "但我没法来了。",
+            "en": "but I will not be able to come.",
+            "es": "pero no podré venir."
+          },
+          "start": 90.8,
+          "end": 92.4
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Pourriez-vous m'en donner un autre s'il vous plait ?",
+      "translations": {
+        "zh": "您能给我安排另一个吗，麻烦您了？",
+        "en": "Could you give me another one, please?",
+        "es": "¿Podría darme otro, por favor?"
+      },
+      "start": 93.12,
+      "end": 94.4,
+      "words": [
+        {
+          "text": "Pourriez",
+          "start": 93.12,
+          "end": 93.36
+        },
+        {
+          "text": "vous",
+          "start": 93.36,
+          "end": 93.44
+        },
+        {
+          "text": "m'en",
+          "start": 93.44,
+          "end": 93.6
+        },
+        {
+          "text": "donner",
+          "start": 93.6,
+          "end": 93.76
+        },
+        {
+          "text": "un",
+          "start": 93.76,
+          "end": 93.92
+        },
+        {
+          "text": "autre",
+          "start": 93.92,
+          "end": 94.08
+        },
+        {
+          "text": "s'il",
+          "start": 94.08,
+          "end": 94.16
+        },
+        {
+          "text": "vous",
+          "start": 94.16,
+          "end": 94.24
+        },
+        {
+          "text": "plait",
+          "start": 94.24,
+          "end": 94.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pourriez-vous m'en donner un autre",
+          "translations": {
+            "zh": "您能给我另一个吗",
+            "en": "Could you give me another one,",
+            "es": "¿Podría darme otro"
+          },
+          "start": 93.12,
+          "end": 94.08
+        },
+        {
+          "text": "s'il vous plait ?",
+          "translations": {
+            "zh": "麻烦您了？",
+            "en": "please?",
+            "es": "por favor?"
+          },
+          "start": 94.08,
+          "end": 94.4
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Le dentiste est absent la semaine prochaine, ça ira à la semaine suivante.",
+      "translations": {
+        "zh": "牙医下周不在，得等到下下周了。",
+        "en": "The dentist is away next week, it will have to be the week after.",
+        "es": "El dentista está ausente la semana que viene, será para la semana siguiente."
+      },
+      "start": 94.96,
+      "end": 98.4,
+      "words": [
+        {
+          "text": "Le",
+          "start": 94.96,
+          "end": 95.12
+        },
+        {
+          "text": "dentiste",
+          "start": 95.12,
+          "end": 95.52
+        },
+        {
+          "text": "est",
+          "start": 95.6,
+          "end": 95.68
+        },
+        {
+          "text": "absent",
+          "start": 95.68,
+          "end": 96.0
+        },
+        {
+          "text": "la",
+          "start": 96.0,
+          "end": 96.16
+        },
+        {
+          "text": "semaine",
+          "start": 96.16,
+          "end": 96.4
+        },
+        {
+          "text": "prochaine",
+          "start": 96.4,
+          "end": 96.88
+        },
+        {
+          "text": "ça",
+          "start": 97.2,
+          "end": 97.44
+        },
+        {
+          "text": "ira",
+          "start": 97.44,
+          "end": 97.68
+        },
+        {
+          "text": "à",
+          "start": 97.68,
+          "end": 97.68
+        },
+        {
+          "text": "la",
+          "start": 97.68,
+          "end": 97.76
+        },
+        {
+          "text": "semaine",
+          "start": 97.76,
+          "end": 98.0
+        },
+        {
+          "text": "suivante",
+          "start": 98.0,
+          "end": 98.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le dentiste est absent la semaine prochaine,",
+          "translations": {
+            "zh": "牙医下周不在，",
+            "en": "The dentist is away next week,",
+            "es": "El dentista está ausente la semana que viene,"
+          },
+          "start": 94.96,
+          "end": 96.88
+        },
+        {
+          "text": "ça ira à la semaine suivante.",
+          "translations": {
+            "zh": "得等到下下周了。",
+            "en": "it will have to be the week after.",
+            "es": "será para la semana siguiente."
+          },
+          "start": 97.2,
+          "end": 98.4
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "Est-ce que ça convient ?",
+      "translations": {
+        "zh": "这样可以吗？",
+        "en": "Does that work for you?",
+        "es": "¿Le conviene?"
+      },
+      "start": 98.8,
+      "end": 99.44,
+      "words": [
+        {
+          "text": "Est",
+          "start": 98.8,
+          "end": 98.88
+        },
+        {
+          "text": "ce",
+          "start": 98.88,
+          "end": 98.96
+        },
+        {
+          "text": "que",
+          "start": 98.96,
+          "end": 99.04
+        },
+        {
+          "text": "ça",
+          "start": 99.04,
+          "end": 99.12
+        },
+        {
+          "text": "convient",
+          "start": 99.2,
+          "end": 99.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que ça convient ?",
+          "translations": {
+            "zh": "这样可以吗？",
+            "en": "Does that work for you?",
+            "es": "¿Le conviene?"
+          },
+          "start": 98.8,
+          "end": 99.44
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "TRAN S C RIP TION DE S DIALO GUES Oui, il n'y a pas d'urgence.",
+      "translations": {
+        "zh": "对话转录 是的，不急。",
+        "en": "TRANSCRIPTION OF THE DIALOGUES Yes, there's no rush.",
+        "es": "TRANSCRIPCIÓN DE LOS DIÁLOGOS Sí, no hay urgencia."
+      },
+      "start": 100.16,
+      "end": 102.48,
+      "words": [
+        {
+          "text": "TRAN",
+          "start": 100.16,
+          "end": 100.24
+        },
+        {
+          "text": "S",
+          "start": 100.24,
+          "end": 100.24
+        },
+        {
+          "text": "C",
+          "start": 100.24,
+          "end": 100.24
+        },
+        {
+          "text": "RIP",
+          "start": 100.48,
+          "end": 100.72
+        },
+        {
+          "text": "TION",
+          "start": 100.72,
+          "end": 101.36
+        },
+        {
+          "text": "DE",
+          "start": 101.46,
+          "end": 101.56
+        },
+        {
+          "text": "S",
+          "start": 101.66,
+          "end": 101.76
+        },
+        {
+          "text": "DIALO",
+          "start": 102.4,
+          "end": 102.48
+        },
+        {
+          "text": "GUES",
+          "start": 102.48,
+          "end": 102.48
+        },
+        {
+          "text": "Oui",
+          "start": 102.48,
+          "end": 102.48
+        },
+        {
+          "text": "il",
+          "start": 102.48,
+          "end": 102.48
+        },
+        {
+          "text": "n'y",
+          "start": 102.48,
+          "end": 102.48
+        },
+        {
+          "text": "a",
+          "start": 102.48,
+          "end": 102.48
+        },
+        {
+          "text": "pas",
+          "start": 102.48,
+          "end": 102.48
+        },
+        {
+          "text": "d'urgence",
+          "start": 102.48,
+          "end": 102.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "TRAN S C RIP TION DE S DIALO GUES",
+          "translations": {
+            "zh": "对话转录",
+            "en": "TRANSCRIPTION OF THE DIALOGUES",
+            "es": "TRANSCRIPCIÓN DE LOS DIÁLOGOS"
+          },
+          "start": 100.16,
+          "end": 102.48
+        },
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 102.48,
+          "end": 102.48
+        },
+        {
+          "text": "il n'y a pas d'urgence.",
+          "translations": {
+            "zh": "不急。",
+            "en": "there's no rush.",
+            "es": "no hay urgencia."
+          },
+          "start": 102.48,
+          "end": 102.48
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "Il y a une place le jeudi à 15 h.",
+      "translations": {
+        "zh": "周四15点有一个空位。",
+        "en": "There is an opening on Thursday at 3 PM.",
+        "es": "Hay un lugar el jueves a las 15 h."
+      },
+      "start": 102.48,
+      "end": 104.0,
+      "words": [
+        {
+          "text": "Il",
+          "start": 102.48,
+          "end": 102.48
+        },
+        {
+          "text": "y",
+          "start": 102.48,
+          "end": 102.48
+        },
+        {
+          "text": "a",
+          "start": 102.56,
+          "end": 102.56
+        },
+        {
+          "text": "une",
+          "start": 102.56,
+          "end": 102.72
+        },
+        {
+          "text": "place",
+          "start": 102.72,
+          "end": 103.04
+        },
+        {
+          "text": "le",
+          "start": 103.04,
+          "end": 103.12
+        },
+        {
+          "text": "jeudi",
+          "start": 103.12,
+          "end": 103.52
+        },
+        {
+          "text": "à",
+          "start": 103.6,
+          "end": 103.68
+        },
+        {
+          "text": "15",
+          "start": 103.68,
+          "end": 104.0
+        },
+        {
+          "text": "h",
+          "start": 104.0,
+          "end": 104.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il y a une place",
+          "translations": {
+            "zh": "有一个空位",
+            "en": "There is an opening",
+            "es": "Hay un lugar"
+          },
+          "start": 102.48,
+          "end": 103.04
+        },
+        {
+          "text": "le jeudi à 15 h.",
+          "translations": {
+            "zh": "周四15点。",
+            "en": "on Thursday at 3 PM.",
+            "es": "el jueves a las 15 h."
+          },
+          "start": 103.04,
+          "end": 104.0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "text": "Parfait !",
+      "translations": {
+        "zh": "完美！",
+        "en": "Perfect!",
+        "es": "¡Perfecto!"
+      },
+      "start": 105.04,
+      "end": 105.44,
+      "words": [
+        {
+          "text": "Parfait",
+          "start": 105.04,
+          "end": 105.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Parfait !",
+          "translations": {
+            "zh": "完美！",
+            "en": "Perfect!",
+            "es": "¡Perfecto!"
+          },
+          "start": 105.04,
+          "end": 105.44
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "text": "Merci.",
+      "translations": {
+        "zh": "谢谢。",
+        "en": "Thank you.",
+        "es": "Gracias."
+      },
+      "start": 105.92,
+      "end": 106.32,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 105.92,
+          "end": 106.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci.",
+          "translations": {
+            "zh": "谢谢。",
+            "en": "Thank you.",
+            "es": "Gracias."
+          },
+          "start": 105.92,
+          "end": 106.32
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP12_P09",
+  "audio_filename": "FLS2_EP12_P09.mp3",
+  "audio_path": "downloads/FLS2_EP12_P09.mp3",
+  "episode": 12,
+  "piste": 9,
+  "page": 92,
+  "cd": "CD2"
+}

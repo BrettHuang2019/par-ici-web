@@ -1,0 +1,611 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 9 Piste 45 Page 73",
+      "translations": {
+        "zh": "第九集 第45轨 第73页",
+        "en": "Episode 9 Track 45 Page 73",
+        "es": "Episodio 9 Pista 45 Página 73"
+      },
+      "start": 0.8,
+      "end": 8.08,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.8,
+          "end": 1.44
+        },
+        {
+          "text": "9",
+          "start": 1.84,
+          "end": 2.08
+        },
+        {
+          "text": "Piste",
+          "start": 3.04,
+          "end": 3.44
+        },
+        {
+          "text": "45",
+          "start": 4.24,
+          "end": 5.36
+        },
+        {
+          "text": "Page",
+          "start": 6.4,
+          "end": 6.4
+        },
+        {
+          "text": "73",
+          "start": 6.4,
+          "end": 8.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 9",
+          "translations": {
+            "zh": "第九集",
+            "en": "Episode 9",
+            "es": "Episodio 9"
+          },
+          "start": 0.8,
+          "end": 2.08
+        },
+        {
+          "text": "Piste 45",
+          "translations": {
+            "zh": "第45轨",
+            "en": "Track 45",
+            "es": "Pista 45"
+          },
+          "start": 3.04,
+          "end": 5.36
+        },
+        {
+          "text": "Page 73",
+          "translations": {
+            "zh": "第73页",
+            "en": "Page 73",
+            "es": "Página 73"
+          },
+          "start": 6.4,
+          "end": 8.08
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "C'est très encourageant.",
+      "translations": {
+        "zh": "这非常令人鼓舞。",
+        "en": "That's very encouraging.",
+        "es": "Es muy alentador."
+      },
+      "start": 10.24,
+      "end": 11.52,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 10.24,
+          "end": 10.56
+        },
+        {
+          "text": "très",
+          "start": 10.56,
+          "end": 10.88
+        },
+        {
+          "text": "encourageant",
+          "start": 10.88,
+          "end": 11.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est très encourageant.",
+          "translations": {
+            "zh": "这非常令人鼓舞。",
+            "en": "That's very encouraging.",
+            "es": "Es muy alentador."
+          },
+          "start": 10.24,
+          "end": 11.52
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Il est dans un état stable.",
+      "translations": {
+        "zh": "他的状况很稳定。",
+        "en": "He is in a stable condition.",
+        "es": "Está en un estado estable."
+      },
+      "start": 13.44,
+      "end": 16.0,
+      "words": [
+        {
+          "text": "Il",
+          "start": 13.44,
+          "end": 13.6
+        },
+        {
+          "text": "est",
+          "start": 14.8,
+          "end": 14.88
+        },
+        {
+          "text": "dans",
+          "start": 14.88,
+          "end": 15.04
+        },
+        {
+          "text": "un",
+          "start": 15.04,
+          "end": 15.12
+        },
+        {
+          "text": "état",
+          "start": 15.12,
+          "end": 15.36
+        },
+        {
+          "text": "stable",
+          "start": 15.36,
+          "end": 16.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il est",
+          "translations": {
+            "zh": "他",
+            "en": "He is",
+            "es": "Está"
+          },
+          "start": 13.44,
+          "end": 14.88
+        },
+        {
+          "text": "dans un état stable.",
+          "translations": {
+            "zh": "状况很稳定。",
+            "en": "in a stable condition.",
+            "es": "en un estado estable."
+          },
+          "start": 14.88,
+          "end": 16.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Ça va de mieux en mieux.",
+      "translations": {
+        "zh": "情况越来越好。",
+        "en": "It's getting better and better.",
+        "es": "Va de mejor en mejor."
+      },
+      "start": 17.84,
+      "end": 20.64,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 17.84,
+          "end": 18.16
+        },
+        {
+          "text": "va",
+          "start": 19.44,
+          "end": 19.6
+        },
+        {
+          "text": "de",
+          "start": 19.6,
+          "end": 19.76
+        },
+        {
+          "text": "mieux",
+          "start": 19.76,
+          "end": 20.16
+        },
+        {
+          "text": "en",
+          "start": 20.16,
+          "end": 20.32
+        },
+        {
+          "text": "mieux",
+          "start": 20.32,
+          "end": 20.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça va",
+          "translations": {
+            "zh": "情况",
+            "en": "It's getting",
+            "es": "Va"
+          },
+          "start": 17.84,
+          "end": 19.6
+        },
+        {
+          "text": "de mieux en mieux.",
+          "translations": {
+            "zh": "越来越好。",
+            "en": "better and better.",
+            "es": "de mejor en mejor."
+          },
+          "start": 19.6,
+          "end": 20.64
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Il est dans un état critique.",
+      "translations": {
+        "zh": "他的状况很危急。",
+        "en": "He is in a critical condition.",
+        "es": "Está en un estado crítico."
+      },
+      "start": 24.48,
+      "end": 26.0,
+      "words": [
+        {
+          "text": "Il",
+          "start": 24.48,
+          "end": 24.64
+        },
+        {
+          "text": "est",
+          "start": 24.64,
+          "end": 24.72
+        },
+        {
+          "text": "dans",
+          "start": 24.72,
+          "end": 24.96
+        },
+        {
+          "text": "un",
+          "start": 24.96,
+          "end": 24.96
+        },
+        {
+          "text": "état",
+          "start": 24.96,
+          "end": 25.28
+        },
+        {
+          "text": "critique",
+          "start": 25.28,
+          "end": 26.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il est",
+          "translations": {
+            "zh": "他",
+            "en": "He is",
+            "es": "Está"
+          },
+          "start": 24.48,
+          "end": 24.72
+        },
+        {
+          "text": "dans un état critique.",
+          "translations": {
+            "zh": "状况很危急。",
+            "en": "in a critical condition.",
+            "es": "en un estado crítico."
+          },
+          "start": 24.72,
+          "end": 26.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Vous faites de très beaux progrès.",
+      "translations": {
+        "zh": "您取得了非常漂亮的进步。",
+        "en": "You are making very beautiful progress.",
+        "es": "Usted hace unos progresos muy bonitos."
+      },
+      "start": 27.84,
+      "end": 31.04,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 27.84,
+          "end": 28.08
+        },
+        {
+          "text": "faites",
+          "start": 29.6,
+          "end": 29.76
+        },
+        {
+          "text": "de",
+          "start": 29.76,
+          "end": 29.92
+        },
+        {
+          "text": "très",
+          "start": 29.92,
+          "end": 30.24
+        },
+        {
+          "text": "beaux",
+          "start": 30.24,
+          "end": 30.4
+        },
+        {
+          "text": "progrès",
+          "start": 30.4,
+          "end": 31.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous faites",
+          "translations": {
+            "zh": "您取得了",
+            "en": "You are making",
+            "es": "Usted hace"
+          },
+          "start": 27.84,
+          "end": 29.76
+        },
+        {
+          "text": "de très beaux progrès.",
+          "translations": {
+            "zh": "非常漂亮的进步。",
+            "en": "very beautiful progress.",
+            "es": "unos progresos muy bonitos."
+          },
+          "start": 29.76,
+          "end": 31.04
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Nous avons stabilisé son état.",
+      "translations": {
+        "zh": "我们已经稳定了他的状况。",
+        "en": "We have stabilized his condition.",
+        "es": "Hemos estabilizado su estado."
+      },
+      "start": 34.56,
+      "end": 36.08,
+      "words": [
+        {
+          "text": "Nous",
+          "start": 34.56,
+          "end": 34.72
+        },
+        {
+          "text": "avons",
+          "start": 34.72,
+          "end": 34.96
+        },
+        {
+          "text": "stabilisé",
+          "start": 34.96,
+          "end": 35.6
+        },
+        {
+          "text": "son",
+          "start": 35.6,
+          "end": 35.76
+        },
+        {
+          "text": "état",
+          "start": 35.76,
+          "end": 36.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Nous avons stabilisé",
+          "translations": {
+            "zh": "我们已经稳定了",
+            "en": "We have stabilized",
+            "es": "Hemos estabilizado"
+          },
+          "start": 34.56,
+          "end": 35.6
+        },
+        {
+          "text": "son état.",
+          "translations": {
+            "zh": "他的状况。",
+            "en": "his condition.",
+            "es": "su estado."
+          },
+          "start": 35.6,
+          "end": 36.08
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Les prochaines heures vont être critiques.",
+      "translations": {
+        "zh": "接下来的几个小时将会很关键。",
+        "en": "The next hours are going to be critical.",
+        "es": "Las próximas horas van a ser críticas."
+      },
+      "start": 40.08,
+      "end": 41.84,
+      "words": [
+        {
+          "text": "Les",
+          "start": 40.08,
+          "end": 40.24
+        },
+        {
+          "text": "prochaines",
+          "start": 40.24,
+          "end": 40.64
+        },
+        {
+          "text": "heures",
+          "start": 40.64,
+          "end": 40.8
+        },
+        {
+          "text": "vont",
+          "start": 40.8,
+          "end": 40.96
+        },
+        {
+          "text": "être",
+          "start": 40.96,
+          "end": 41.2
+        },
+        {
+          "text": "critiques",
+          "start": 41.2,
+          "end": 41.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les prochaines heures",
+          "translations": {
+            "zh": "接下来的几个小时",
+            "en": "The next hours",
+            "es": "Las próximas horas"
+          },
+          "start": 40.08,
+          "end": 40.8
+        },
+        {
+          "text": "vont être critiques.",
+          "translations": {
+            "zh": "将会很关键。",
+            "en": "are going to be critical.",
+            "es": "van a ser críticas."
+          },
+          "start": 40.8,
+          "end": 41.84
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Son état s'est beaucoup détérioré au cours de la nuit passée.",
+      "translations": {
+        "zh": "他的状况在过去的一夜里严重恶化了。",
+        "en": "His condition has greatly deteriorated over the course of the past night.",
+        "es": "Su estado se ha deteriorado mucho en el transcurso de la noche pasada."
+      },
+      "start": 45.92,
+      "end": 48.64,
+      "words": [
+        {
+          "text": "Son",
+          "start": 45.92,
+          "end": 46.16
+        },
+        {
+          "text": "état",
+          "start": 46.16,
+          "end": 46.4
+        },
+        {
+          "text": "s'est",
+          "start": 46.4,
+          "end": 46.56
+        },
+        {
+          "text": "beaucoup",
+          "start": 46.56,
+          "end": 46.88
+        },
+        {
+          "text": "détérioré",
+          "start": 46.88,
+          "end": 47.52
+        },
+        {
+          "text": "au",
+          "start": 47.52,
+          "end": 47.6
+        },
+        {
+          "text": "cours",
+          "start": 47.6,
+          "end": 47.76
+        },
+        {
+          "text": "de",
+          "start": 47.76,
+          "end": 47.92
+        },
+        {
+          "text": "la",
+          "start": 47.92,
+          "end": 48.0
+        },
+        {
+          "text": "nuit",
+          "start": 48.0,
+          "end": 48.16
+        },
+        {
+          "text": "passée",
+          "start": 48.16,
+          "end": 48.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Son état",
+          "translations": {
+            "zh": "他的状况",
+            "en": "His condition",
+            "es": "Su estado"
+          },
+          "start": 45.92,
+          "end": 46.4
+        },
+        {
+          "text": "s'est beaucoup détérioré",
+          "translations": {
+            "zh": "严重恶化了",
+            "en": "has greatly deteriorated",
+            "es": "se ha deteriorado mucho"
+          },
+          "start": 46.4,
+          "end": 47.52
+        },
+        {
+          "text": "au cours de la nuit passée.",
+          "translations": {
+            "zh": "在过去的一夜里。",
+            "en": "over the course of the past night.",
+            "es": "en el transcurso de la noche pasada."
+          },
+          "start": 47.52,
+          "end": 48.64
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP09_P45",
+  "audio_filename": "FLS2_EP09_P45.mp3",
+  "audio_path": "downloads/FLS2_EP09_P45.mp3",
+  "episode": 9,
+  "piste": 45,
+  "page": 73,
+  "cd": "CD1"
+}

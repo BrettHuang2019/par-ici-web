@@ -1,0 +1,1466 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 15 Piste 30 Page 116",
+      "translations": {
+        "zh": "第15集 第30轨 第116页",
+        "en": "Episode 15 Track 30 Page 116",
+        "es": "Episodio 15 Pista 30 Página 116"
+      },
+      "start": 0.8,
+      "end": 8.32,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.8,
+          "end": 1.52
+        },
+        {
+          "text": "15",
+          "start": 2.0,
+          "end": 2.48
+        },
+        {
+          "text": "Piste",
+          "start": 3.44,
+          "end": 3.84
+        },
+        {
+          "text": "30",
+          "start": 4.16,
+          "end": 4.64
+        },
+        {
+          "text": "Page",
+          "start": 4.64,
+          "end": 7.2
+        },
+        {
+          "text": "116",
+          "start": 7.2,
+          "end": 8.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 15",
+          "translations": {
+            "zh": "第15集",
+            "en": "Episode 15",
+            "es": "Episodio 15"
+          },
+          "start": 0.8,
+          "end": 2.48
+        },
+        {
+          "text": "Piste 30",
+          "translations": {
+            "zh": "第30轨",
+            "en": "Track 30",
+            "es": "Pista 30"
+          },
+          "start": 3.44,
+          "end": 4.64
+        },
+        {
+          "text": "Page 116",
+          "translations": {
+            "zh": "第116页",
+            "en": "Page 116",
+            "es": "Página 116"
+          },
+          "start": 4.64,
+          "end": 8.32
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Les prévisions météo pour aujourd'hui et les jours à venir.",
+      "translations": {
+        "zh": "今天及未来几天的天气预报。",
+        "en": "The weather forecast for today and the coming days.",
+        "es": "Las previsiones meteorológicas para hoy y los días venideros."
+      },
+      "start": 11.68,
+      "end": 14.88,
+      "words": [
+        {
+          "text": "Les",
+          "start": 11.68,
+          "end": 11.84
+        },
+        {
+          "text": "prévisions",
+          "start": 11.84,
+          "end": 12.4
+        },
+        {
+          "text": "météo",
+          "start": 12.4,
+          "end": 12.8
+        },
+        {
+          "text": "pour",
+          "start": 12.8,
+          "end": 13.04
+        },
+        {
+          "text": "aujourd'hui",
+          "start": 13.04,
+          "end": 13.76
+        },
+        {
+          "text": "et",
+          "start": 13.84,
+          "end": 13.92
+        },
+        {
+          "text": "les",
+          "start": 13.92,
+          "end": 14.08
+        },
+        {
+          "text": "jours",
+          "start": 14.08,
+          "end": 14.32
+        },
+        {
+          "text": "à",
+          "start": 14.32,
+          "end": 14.4
+        },
+        {
+          "text": "venir",
+          "start": 14.4,
+          "end": 14.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les prévisions météo",
+          "translations": {
+            "zh": "天气预报",
+            "en": "The weather forecast",
+            "es": "Las previsiones meteorológicas"
+          },
+          "start": 11.68,
+          "end": 12.8
+        },
+        {
+          "text": "pour aujourd'hui",
+          "translations": {
+            "zh": "关于今天",
+            "en": "for today",
+            "es": "para hoy"
+          },
+          "start": 12.8,
+          "end": 13.76
+        },
+        {
+          "text": "et les jours à venir.",
+          "translations": {
+            "zh": "以及未来的日子。",
+            "en": "and the coming days.",
+            "es": "y los días venideros."
+          },
+          "start": 13.84,
+          "end": 14.88
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "En ce vendredi 14 juin, la vague d'humidité et de chaleur se poursuit dans la plupart des régions du Québec.",
+      "translations": {
+        "zh": "在今天6月14日星期五，潮湿和炎热的浪潮在魁北克的大部分地区持续。",
+        "en": "On this Friday, June 14, the heat and humidity wave continues in most regions of Quebec.",
+        "es": "En este viernes 14 de junio, la ola de humedad y de calor continúa en la mayoría de las regiones de Quebec."
+      },
+      "start": 15.44,
+      "end": 21.44,
+      "words": [
+        {
+          "text": "En",
+          "start": 15.44,
+          "end": 15.6
+        },
+        {
+          "text": "ce",
+          "start": 15.6,
+          "end": 15.68
+        },
+        {
+          "text": "vendredi",
+          "start": 15.68,
+          "end": 16.24
+        },
+        {
+          "text": "14",
+          "start": 16.24,
+          "end": 16.56
+        },
+        {
+          "text": "juin",
+          "start": 16.56,
+          "end": 17.12
+        },
+        {
+          "text": "la",
+          "start": 17.44,
+          "end": 17.6
+        },
+        {
+          "text": "vague",
+          "start": 17.6,
+          "end": 17.84
+        },
+        {
+          "text": "d'humidité",
+          "start": 17.84,
+          "end": 18.48
+        },
+        {
+          "text": "et",
+          "start": 18.48,
+          "end": 18.48
+        },
+        {
+          "text": "de",
+          "start": 18.48,
+          "end": 18.48
+        },
+        {
+          "text": "chaleur",
+          "start": 18.56,
+          "end": 19.04
+        },
+        {
+          "text": "se",
+          "start": 19.04,
+          "end": 19.12
+        },
+        {
+          "text": "poursuit",
+          "start": 19.12,
+          "end": 19.68
+        },
+        {
+          "text": "dans",
+          "start": 19.68,
+          "end": 19.84
+        },
+        {
+          "text": "la",
+          "start": 19.84,
+          "end": 19.92
+        },
+        {
+          "text": "plupart",
+          "start": 19.92,
+          "end": 20.32
+        },
+        {
+          "text": "des",
+          "start": 20.32,
+          "end": 20.4
+        },
+        {
+          "text": "régions",
+          "start": 20.4,
+          "end": 20.8
+        },
+        {
+          "text": "du",
+          "start": 20.8,
+          "end": 20.88
+        },
+        {
+          "text": "Québec",
+          "start": 20.88,
+          "end": 21.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "En ce vendredi 14 juin,",
+          "translations": {
+            "zh": "在今天6月14日星期五，",
+            "en": "On this Friday, June 14,",
+            "es": "En este viernes 14 de junio,"
+          },
+          "start": 15.44,
+          "end": 17.12
+        },
+        {
+          "text": "la vague d'humidité et de chaleur",
+          "translations": {
+            "zh": "潮湿和炎热的浪潮",
+            "en": "the heat and humidity wave",
+            "es": "la ola de humedad y de calor"
+          },
+          "start": 17.44,
+          "end": 19.04
+        },
+        {
+          "text": "se poursuit",
+          "translations": {
+            "zh": "持续",
+            "en": "continues",
+            "es": "continúa"
+          },
+          "start": 19.04,
+          "end": 19.68
+        },
+        {
+          "text": "dans la plupart des régions du Québec.",
+          "translations": {
+            "zh": "在魁北克的大部分地区。",
+            "en": "in most regions of Quebec.",
+            "es": "en la mayoría de las regiones de Quebec."
+          },
+          "start": 19.68,
+          "end": 21.44
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Présentement, il fait 32 °C à Montréal.",
+      "translations": {
+        "zh": "目前，蒙特利尔的气温是32°C。",
+        "en": "Currently, it is 32 °C in Montreal.",
+        "es": "Actualmente, hace 32 °C en Montreal."
+      },
+      "start": 22.0,
+      "end": 24.4,
+      "words": [
+        {
+          "text": "Présentement",
+          "start": 22.0,
+          "end": 22.56
+        },
+        {
+          "text": "il",
+          "start": 22.96,
+          "end": 23.04
+        },
+        {
+          "text": "fait",
+          "start": 23.04,
+          "end": 23.2
+        },
+        {
+          "text": "32",
+          "start": 23.2,
+          "end": 23.52
+        },
+        {
+          "text": "C",
+          "start": 23.52,
+          "end": 23.92
+        },
+        {
+          "text": "à",
+          "start": 23.92,
+          "end": 23.92
+        },
+        {
+          "text": "Montréal",
+          "start": 23.92,
+          "end": 24.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Présentement,",
+          "translations": {
+            "zh": "目前，",
+            "en": "Currently,",
+            "es": "Actualmente,"
+          },
+          "start": 22.0,
+          "end": 22.56
+        },
+        {
+          "text": "il fait 32 °C",
+          "translations": {
+            "zh": "气温是32°C",
+            "en": "it is 32 °C",
+            "es": "hace 32 °C"
+          },
+          "start": 22.96,
+          "end": 23.92
+        },
+        {
+          "text": "à Montréal.",
+          "translations": {
+            "zh": "在蒙特利尔。",
+            "en": "in Montreal.",
+            "es": "en Montreal."
+          },
+          "start": 23.92,
+          "end": 24.4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Le beau temps persistera sur toutes les régions du Québec jusqu'à ce soir mais, alors que les régions plus à l'est continueront à profiter du soleil pendant toute la fin de semaine, ça s'ennuagera cette nuit dans le sud- ouest de la province.",
+      "translations": {
+        "zh": "好天气将持续覆盖魁北克所有地区直到今晚，但是，虽然更偏东的地区整个周末将继续享受阳光，今晚该省西南部将会转阴。",
+        "en": "The good weather will persist across all regions of Quebec until this evening, but, while the more eastern regions will continue to enjoy the sun throughout the weekend, it will cloud over tonight in the southwest of the province.",
+        "es": "El buen tiempo persistirá en todas las regiones de Quebec hasta esta noche pero, mientras que las regiones más al este continuarán aprovechando el sol durante todo el fin de semana, se nublará esta noche en el suroeste de la provincia."
+      },
+      "start": 25.04,
+      "end": 37.92,
+      "words": [
+        {
+          "text": "Le",
+          "start": 25.04,
+          "end": 25.12
+        },
+        {
+          "text": "beau",
+          "start": 25.12,
+          "end": 25.36
+        },
+        {
+          "text": "temps",
+          "start": 25.36,
+          "end": 25.52
+        },
+        {
+          "text": "persistera",
+          "start": 25.52,
+          "end": 26.16
+        },
+        {
+          "text": "sur",
+          "start": 26.16,
+          "end": 26.4
+        },
+        {
+          "text": "toutes",
+          "start": 26.4,
+          "end": 26.64
+        },
+        {
+          "text": "les",
+          "start": 26.64,
+          "end": 26.72
+        },
+        {
+          "text": "régions",
+          "start": 26.72,
+          "end": 27.04
+        },
+        {
+          "text": "du",
+          "start": 27.04,
+          "end": 27.2
+        },
+        {
+          "text": "Québec",
+          "start": 27.2,
+          "end": 27.68
+        },
+        {
+          "text": "jusqu'à",
+          "start": 27.68,
+          "end": 28.08
+        },
+        {
+          "text": "ce",
+          "start": 28.08,
+          "end": 28.24
+        },
+        {
+          "text": "soir",
+          "start": 28.24,
+          "end": 28.8
+        },
+        {
+          "text": "mais",
+          "start": 29.28,
+          "end": 29.44
+        },
+        {
+          "text": "alors",
+          "start": 29.44,
+          "end": 29.68
+        },
+        {
+          "text": "que",
+          "start": 29.68,
+          "end": 29.76
+        },
+        {
+          "text": "les",
+          "start": 29.76,
+          "end": 29.92
+        },
+        {
+          "text": "régions",
+          "start": 29.92,
+          "end": 30.32
+        },
+        {
+          "text": "plus",
+          "start": 30.32,
+          "end": 30.56
+        },
+        {
+          "text": "à",
+          "start": 30.56,
+          "end": 30.64
+        },
+        {
+          "text": "l'est",
+          "start": 30.64,
+          "end": 30.88
+        },
+        {
+          "text": "continueront",
+          "start": 31.04,
+          "end": 31.6
+        },
+        {
+          "text": "à",
+          "start": 31.6,
+          "end": 31.68
+        },
+        {
+          "text": "profiter",
+          "start": 31.68,
+          "end": 32.08
+        },
+        {
+          "text": "du",
+          "start": 32.08,
+          "end": 32.24
+        },
+        {
+          "text": "soleil",
+          "start": 32.24,
+          "end": 32.8
+        },
+        {
+          "text": "pendant",
+          "start": 32.8,
+          "end": 33.12
+        },
+        {
+          "text": "toute",
+          "start": 33.12,
+          "end": 33.28
+        },
+        {
+          "text": "la",
+          "start": 33.28,
+          "end": 33.44
+        },
+        {
+          "text": "fin",
+          "start": 33.44,
+          "end": 33.6
+        },
+        {
+          "text": "de",
+          "start": 33.6,
+          "end": 33.6
+        },
+        {
+          "text": "semaine",
+          "start": 33.6,
+          "end": 34.24
+        },
+        {
+          "text": "ça",
+          "start": 34.56,
+          "end": 34.72
+        },
+        {
+          "text": "s'ennuagera",
+          "start": 34.72,
+          "end": 35.36
+        },
+        {
+          "text": "cette",
+          "start": 35.36,
+          "end": 35.68
+        },
+        {
+          "text": "nuit",
+          "start": 35.68,
+          "end": 36.0
+        },
+        {
+          "text": "dans",
+          "start": 36.16,
+          "end": 36.32
+        },
+        {
+          "text": "le",
+          "start": 36.32,
+          "end": 36.4
+        },
+        {
+          "text": "sud",
+          "start": 36.4,
+          "end": 36.64
+        },
+        {
+          "text": "ouest",
+          "start": 36.64,
+          "end": 36.96
+        },
+        {
+          "text": "de",
+          "start": 36.96,
+          "end": 37.04
+        },
+        {
+          "text": "la",
+          "start": 37.12,
+          "end": 37.2
+        },
+        {
+          "text": "province",
+          "start": 37.2,
+          "end": 37.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le beau temps persistera",
+          "translations": {
+            "zh": "好天气将持续",
+            "en": "The good weather will persist",
+            "es": "El buen tiempo persistirá"
+          },
+          "start": 25.04,
+          "end": 26.16
+        },
+        {
+          "text": "sur toutes les régions du Québec",
+          "translations": {
+            "zh": "覆盖魁北克所有地区",
+            "en": "across all regions of Quebec",
+            "es": "en todas las regiones de Quebec"
+          },
+          "start": 26.16,
+          "end": 27.68
+        },
+        {
+          "text": "jusqu'à ce soir",
+          "translations": {
+            "zh": "直到今晚",
+            "en": "until this evening",
+            "es": "hasta esta noche"
+          },
+          "start": 27.68,
+          "end": 28.8
+        },
+        {
+          "text": "mais,",
+          "translations": {
+            "zh": "但是，",
+            "en": "but,",
+            "es": "pero,"
+          },
+          "start": 29.28,
+          "end": 29.44
+        },
+        {
+          "text": "alors que les régions plus à l'est",
+          "translations": {
+            "zh": "而更偏东的地区",
+            "en": "while the more eastern regions",
+            "es": "mientras que las regiones más al este"
+          },
+          "start": 29.44,
+          "end": 30.88
+        },
+        {
+          "text": "continueront à profiter du soleil",
+          "translations": {
+            "zh": "将继续享受阳光",
+            "en": "will continue to enjoy the sun",
+            "es": "continuarán aprovechando el sol"
+          },
+          "start": 31.04,
+          "end": 32.8
+        },
+        {
+          "text": "pendant toute la fin de semaine,",
+          "translations": {
+            "zh": "在整个周末，",
+            "en": "throughout the weekend,",
+            "es": "durante todo el fin de semana,"
+          },
+          "start": 32.8,
+          "end": 34.24
+        },
+        {
+          "text": "ça s'ennuagera cette nuit",
+          "translations": {
+            "zh": "今夜将会转阴",
+            "en": "it will cloud over tonight",
+            "es": "se nublará esta noche"
+          },
+          "start": 34.56,
+          "end": 36.0
+        },
+        {
+          "text": "dans le sud- ouest de la province.",
+          "translations": {
+            "zh": "在该省西南部。",
+            "en": "in the southwest of the province.",
+            "es": "en el suroeste de la provincia."
+          },
+          "start": 36.16,
+          "end": 37.92
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "À Montréal, dans les Cantons-de-l'Est, dans les Laurentides et dans Lanaudière, demain samedi, le temps sera couvert.",
+      "translations": {
+        "zh": "在蒙特利尔、东部城镇、洛朗蒂德和拉诺迪耶尔，明天星期六，天气将是阴天。",
+        "en": "In Montreal, in the Eastern Townships, in the Laurentians, and in Lanaudière, tomorrow Saturday, the weather will be overcast.",
+        "es": "En Montreal, en los Cantones del Este, en las Laurentides y en Lanaudière, mañana sábado, el tiempo estará nublado."
+      },
+      "start": 38.48,
+      "end": 46.08,
+      "words": [
+        {
+          "text": "À",
+          "start": 38.48,
+          "end": 38.56
+        },
+        {
+          "text": "Montréal",
+          "start": 38.56,
+          "end": 39.2
+        },
+        {
+          "text": "dans",
+          "start": 39.6,
+          "end": 39.76
+        },
+        {
+          "text": "les",
+          "start": 39.76,
+          "end": 39.92
+        },
+        {
+          "text": "Cantons",
+          "start": 39.92,
+          "end": 40.24
+        },
+        {
+          "text": "de",
+          "start": 40.24,
+          "end": 40.32
+        },
+        {
+          "text": "l'Est",
+          "start": 40.32,
+          "end": 40.8
+        },
+        {
+          "text": "dans",
+          "start": 41.04,
+          "end": 41.2
+        },
+        {
+          "text": "les",
+          "start": 41.2,
+          "end": 41.36
+        },
+        {
+          "text": "Laurentides",
+          "start": 41.36,
+          "end": 42.08
+        },
+        {
+          "text": "et",
+          "start": 42.16,
+          "end": 42.24
+        },
+        {
+          "text": "dans",
+          "start": 42.24,
+          "end": 42.4
+        },
+        {
+          "text": "Lanaudière",
+          "start": 42.4,
+          "end": 43.04
+        },
+        {
+          "text": "demain",
+          "start": 43.36,
+          "end": 43.84
+        },
+        {
+          "text": "samedi",
+          "start": 44.0,
+          "end": 44.72
+        },
+        {
+          "text": "le",
+          "start": 45.12,
+          "end": 45.28
+        },
+        {
+          "text": "temps",
+          "start": 45.28,
+          "end": 45.44
+        },
+        {
+          "text": "sera",
+          "start": 45.44,
+          "end": 45.68
+        },
+        {
+          "text": "couvert",
+          "start": 45.68,
+          "end": 46.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "À Montréal,",
+          "translations": {
+            "zh": "在蒙特利尔，",
+            "en": "In Montreal,",
+            "es": "En Montreal,"
+          },
+          "start": 38.48,
+          "end": 39.2
+        },
+        {
+          "text": "dans les Cantons-de-l'Est,",
+          "translations": {
+            "zh": "在东部城镇，",
+            "en": "in the Eastern Townships,",
+            "es": "en los Cantones del Este,"
+          },
+          "start": 39.6,
+          "end": 40.8
+        },
+        {
+          "text": "dans les Laurentides",
+          "translations": {
+            "zh": "在洛朗蒂德",
+            "en": "in the Laurentians",
+            "es": "en las Laurentides"
+          },
+          "start": 41.04,
+          "end": 42.08
+        },
+        {
+          "text": "et dans Lanaudière,",
+          "translations": {
+            "zh": "以及拉诺迪耶尔，",
+            "en": "and in Lanaudière,",
+            "es": "y en Lanaudière,"
+          },
+          "start": 42.16,
+          "end": 43.04
+        },
+        {
+          "text": "demain samedi,",
+          "translations": {
+            "zh": "明天星期六，",
+            "en": "tomorrow Saturday,",
+            "es": "mañana sábado,"
+          },
+          "start": 43.36,
+          "end": 44.72
+        },
+        {
+          "text": "le temps sera couvert.",
+          "translations": {
+            "zh": "天气将是阴天。",
+            "en": "the weather will be overcast.",
+            "es": "el tiempo estará nublado."
+          },
+          "start": 45.12,
+          "end": 46.08
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Mais attention, le temps demeurera chaud et très humide : les températures frôleront les 30 °C.",
+      "translations": {
+        "zh": "但请注意，天气将保持炎热且非常潮湿：气温将接近30°C。",
+        "en": "But beware, the weather will remain hot and very humid: temperatures will hover around 30 °C.",
+        "es": "Pero atención, el tiempo permanecerá caluroso y muy húmedo: las temperaturas rozarán los 30 °C."
+      },
+      "start": 46.72,
+      "end": 52.8,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 46.72,
+          "end": 46.88
+        },
+        {
+          "text": "attention",
+          "start": 46.88,
+          "end": 47.52
+        },
+        {
+          "text": "le",
+          "start": 47.84,
+          "end": 48.0
+        },
+        {
+          "text": "temps",
+          "start": 48.0,
+          "end": 48.24
+        },
+        {
+          "text": "demeurera",
+          "start": 48.24,
+          "end": 48.72
+        },
+        {
+          "text": "chaud",
+          "start": 48.72,
+          "end": 49.04
+        },
+        {
+          "text": "et",
+          "start": 49.12,
+          "end": 49.2
+        },
+        {
+          "text": "très",
+          "start": 49.2,
+          "end": 49.6
+        },
+        {
+          "text": "humide",
+          "start": 49.6,
+          "end": 49.92
+        },
+        {
+          "text": "les",
+          "start": 50.4,
+          "end": 50.56
+        },
+        {
+          "text": "températures",
+          "start": 50.56,
+          "end": 51.2
+        },
+        {
+          "text": "frôleront",
+          "start": 51.2,
+          "end": 51.76
+        },
+        {
+          "text": "les",
+          "start": 51.76,
+          "end": 52.0
+        },
+        {
+          "text": "30",
+          "start": 52.0,
+          "end": 52.32
+        },
+        {
+          "text": "C",
+          "start": 52.32,
+          "end": 52.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais attention,",
+          "translations": {
+            "zh": "但请注意，",
+            "en": "But beware,",
+            "es": "Pero atención,"
+          },
+          "start": 46.72,
+          "end": 47.52
+        },
+        {
+          "text": "le temps demeurera chaud et très humide :",
+          "translations": {
+            "zh": "天气将保持炎热且非常潮湿：",
+            "en": "the weather will remain hot and very humid:",
+            "es": "el tiempo permanecerá caluroso y muy húmedo:"
+          },
+          "start": 47.84,
+          "end": 49.92
+        },
+        {
+          "text": "les températures frôleront les 30 °C.",
+          "translations": {
+            "zh": "气温将接近30°C。",
+            "en": "temperatures will hover around 30 °C.",
+            "es": "las temperaturas rozarán los 30 °C."
+          },
+          "start": 50.4,
+          "end": 52.8
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Dans la nuit de samedi à dimanche, des orages balayeront l'ouest et le sud du Québec.",
+      "translations": {
+        "zh": "在周六到周日夜间，暴风雨将席卷魁北克的西部和南部。",
+        "en": "In the night from Saturday to Sunday, storms will sweep across the west and south of Quebec.",
+        "es": "En la noche de sábado a domingo, tormentas barrerán el oeste y el sur de Quebec."
+      },
+      "start": 53.36,
+      "end": 58.16,
+      "words": [
+        {
+          "text": "Dans",
+          "start": 53.36,
+          "end": 53.52
+        },
+        {
+          "text": "la",
+          "start": 53.52,
+          "end": 53.68
+        },
+        {
+          "text": "nuit",
+          "start": 53.68,
+          "end": 53.92
+        },
+        {
+          "text": "de",
+          "start": 53.92,
+          "end": 53.92
+        },
+        {
+          "text": "samedi",
+          "start": 53.92,
+          "end": 54.32
+        },
+        {
+          "text": "à",
+          "start": 54.32,
+          "end": 54.4
+        },
+        {
+          "text": "dimanche",
+          "start": 54.4,
+          "end": 54.96
+        },
+        {
+          "text": "des",
+          "start": 55.28,
+          "end": 55.52
+        },
+        {
+          "text": "orages",
+          "start": 55.52,
+          "end": 55.84
+        },
+        {
+          "text": "balayeront",
+          "start": 55.84,
+          "end": 56.32
+        },
+        {
+          "text": "l'ouest",
+          "start": 56.32,
+          "end": 56.72
+        },
+        {
+          "text": "et",
+          "start": 56.8,
+          "end": 56.96
+        },
+        {
+          "text": "le",
+          "start": 56.96,
+          "end": 57.04
+        },
+        {
+          "text": "sud",
+          "start": 57.04,
+          "end": 57.44
+        },
+        {
+          "text": "du",
+          "start": 57.44,
+          "end": 57.52
+        },
+        {
+          "text": "Québec",
+          "start": 57.52,
+          "end": 58.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Dans la nuit de samedi à dimanche,",
+          "translations": {
+            "zh": "在周六到周日夜间，",
+            "en": "In the night from Saturday to Sunday,",
+            "es": "En la noche de sábado a domingo,"
+          },
+          "start": 53.36,
+          "end": 54.96
+        },
+        {
+          "text": "des orages balayeront",
+          "translations": {
+            "zh": "暴风雨将席卷",
+            "en": "storms will sweep across",
+            "es": "tormentas barrerán"
+          },
+          "start": 55.28,
+          "end": 56.32
+        },
+        {
+          "text": "l'ouest et le sud du Québec.",
+          "translations": {
+            "zh": "魁北克的西部和南部。",
+            "en": "the west and south of Quebec.",
+            "es": "el oeste y el sur de Quebec."
+          },
+          "start": 56.32,
+          "end": 58.16
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Les averses cesseront dimanche en matinée, et les températures redescendront autour de 25 °C.",
+      "translations": {
+        "zh": "阵雨将在周日上午停止，气温将回落到25°C左右。",
+        "en": "The showers will stop on Sunday morning, and temperatures will drop back to around 25 °C.",
+        "es": "Los chaparrones cesarán el domingo por la mañana, y las temperaturas descenderán alrededor de 25 °C."
+      },
+      "start": 58.64,
+      "end": 63.6,
+      "words": [
+        {
+          "text": "Les",
+          "start": 58.64,
+          "end": 58.88
+        },
+        {
+          "text": "averses",
+          "start": 58.88,
+          "end": 59.2
+        },
+        {
+          "text": "cesseront",
+          "start": 59.2,
+          "end": 59.6
+        },
+        {
+          "text": "dimanche",
+          "start": 59.6,
+          "end": 60.0
+        },
+        {
+          "text": "en",
+          "start": 60.0,
+          "end": 60.08
+        },
+        {
+          "text": "matinée",
+          "start": 60.08,
+          "end": 60.72
+        },
+        {
+          "text": "et",
+          "start": 61.12,
+          "end": 61.2
+        },
+        {
+          "text": "les",
+          "start": 61.2,
+          "end": 61.44
+        },
+        {
+          "text": "températures",
+          "start": 61.44,
+          "end": 61.92
+        },
+        {
+          "text": "redescendront",
+          "start": 61.92,
+          "end": 62.72
+        },
+        {
+          "text": "autour",
+          "start": 62.72,
+          "end": 63.04
+        },
+        {
+          "text": "de",
+          "start": 63.04,
+          "end": 63.12
+        },
+        {
+          "text": "25",
+          "start": 63.12,
+          "end": 63.6
+        },
+        {
+          "text": "C",
+          "start": 63.6,
+          "end": 63.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les averses cesseront",
+          "translations": {
+            "zh": "阵雨将停止",
+            "en": "The showers will stop",
+            "es": "Los chaparrones cesarán"
+          },
+          "start": 58.64,
+          "end": 59.6
+        },
+        {
+          "text": "dimanche en matinée,",
+          "translations": {
+            "zh": "在周日上午，",
+            "en": "on Sunday morning,",
+            "es": "el domingo por la mañana,"
+          },
+          "start": 59.6,
+          "end": 60.72
+        },
+        {
+          "text": "et les températures redescendront",
+          "translations": {
+            "zh": "气温将回落",
+            "en": "and temperatures will drop back",
+            "es": "y las temperaturas descenderán"
+          },
+          "start": 61.12,
+          "end": 62.72
+        },
+        {
+          "text": "autour de 25 °C.",
+          "translations": {
+            "zh": "到25°C左右。",
+            "en": "to around 25 °C.",
+            "es": "alrededor de 25 °C."
+          },
+          "start": 62.72,
+          "end": 63.6
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Le ciel se dégagera et le temps sera plus sec.",
+      "translations": {
+        "zh": "天空将转晴，天气将更加干燥。",
+        "en": "The sky will clear and the weather will be drier.",
+        "es": "El cielo se despejará y el tiempo será más seco."
+      },
+      "start": 63.6,
+      "end": 67.44,
+      "words": [
+        {
+          "text": "Le",
+          "start": 63.6,
+          "end": 64.88
+        },
+        {
+          "text": "ciel",
+          "start": 64.88,
+          "end": 65.12
+        },
+        {
+          "text": "se",
+          "start": 65.12,
+          "end": 65.28
+        },
+        {
+          "text": "dégagera",
+          "start": 65.28,
+          "end": 66.0
+        },
+        {
+          "text": "et",
+          "start": 66.16,
+          "end": 66.24
+        },
+        {
+          "text": "le",
+          "start": 66.24,
+          "end": 66.32
+        },
+        {
+          "text": "temps",
+          "start": 66.32,
+          "end": 66.48
+        },
+        {
+          "text": "sera",
+          "start": 66.48,
+          "end": 66.72
+        },
+        {
+          "text": "plus",
+          "start": 66.72,
+          "end": 66.88
+        },
+        {
+          "text": "sec",
+          "start": 66.88,
+          "end": 67.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le ciel se dégagera",
+          "translations": {
+            "zh": "天空将转晴",
+            "en": "The sky will clear",
+            "es": "El cielo se despejará"
+          },
+          "start": 63.6,
+          "end": 66.0
+        },
+        {
+          "text": "et le temps sera plus sec.",
+          "translations": {
+            "zh": "天气将更加干燥。",
+            "en": "and the weather will be drier.",
+            "es": "y el tiempo será más seco."
+          },
+          "start": 66.16,
+          "end": 67.44
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Lundi, ce sera ensoleillé et plus frais : le mercure indiquera 19 °C.",
+      "translations": {
+        "zh": "星期一，天气将是晴朗且更凉爽的：温度计将显示19°C。",
+        "en": "On Monday, it will be sunny and cooler: the mercury will read 19 °C.",
+        "es": "El lunes, hará sol y más fresco: el mercurio indicará 19 °C."
+      },
+      "start": 67.84,
+      "end": 72.88,
+      "words": [
+        {
+          "text": "Lundi",
+          "start": 67.84,
+          "end": 68.32
+        },
+        {
+          "text": "ce",
+          "start": 68.48,
+          "end": 68.64
+        },
+        {
+          "text": "sera",
+          "start": 68.64,
+          "end": 68.88
+        },
+        {
+          "text": "ensoleillé",
+          "start": 68.88,
+          "end": 69.6
+        },
+        {
+          "text": "et",
+          "start": 69.6,
+          "end": 69.68
+        },
+        {
+          "text": "plus",
+          "start": 69.68,
+          "end": 69.92
+        },
+        {
+          "text": "frais",
+          "start": 69.92,
+          "end": 70.24
+        },
+        {
+          "text": "le",
+          "start": 70.56,
+          "end": 70.64
+        },
+        {
+          "text": "mercure",
+          "start": 70.64,
+          "end": 71.12
+        },
+        {
+          "text": "indiquera",
+          "start": 71.28,
+          "end": 71.84
+        },
+        {
+          "text": "19",
+          "start": 72.0,
+          "end": 72.4
+        },
+        {
+          "text": "C",
+          "start": 72.56,
+          "end": 72.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Lundi,",
+          "translations": {
+            "zh": "星期一，",
+            "en": "On Monday,",
+            "es": "El lunes,"
+          },
+          "start": 67.84,
+          "end": 68.32
+        },
+        {
+          "text": "ce sera ensoleillé et plus frais :",
+          "translations": {
+            "zh": "天气将是晴朗且更凉爽：",
+            "en": "it will be sunny and cooler:",
+            "es": "hará sol y más fresco:"
+          },
+          "start": 68.48,
+          "end": 70.24
+        },
+        {
+          "text": "le mercure indiquera 19 °C.",
+          "translations": {
+            "zh": "温度计将显示19°C。",
+            "en": "the mercury will read 19 °C.",
+            "es": "el mercurio indicará 19 °C."
+          },
+          "start": 70.56,
+          "end": 72.88
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP15_P30",
+  "audio_filename": "FLS2_EP15_P30.mp3",
+  "audio_path": "downloads/FLS2_EP15_P30.mp3",
+  "episode": 15,
+  "piste": 30,
+  "page": 116,
+  "cd": "CD2"
+}

@@ -1,0 +1,1301 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 13 Piste 22 Page 99",
+      "translations": {
+        "zh": "第13集 第22轨 第99页",
+        "en": "Episode 13 Track 22 Page 99",
+        "es": "Episodio 13 Pista 22 Página 99"
+      },
+      "start": 0.8,
+      "end": 8.16,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.8,
+          "end": 1.44
+        },
+        {
+          "text": "13",
+          "start": 2.0,
+          "end": 2.56
+        },
+        {
+          "text": "Piste",
+          "start": 3.36,
+          "end": 3.84
+        },
+        {
+          "text": "22",
+          "start": 4.16,
+          "end": 4.72
+        },
+        {
+          "text": "Page",
+          "start": 6.56,
+          "end": 7.04
+        },
+        {
+          "text": "99",
+          "start": 7.04,
+          "end": 8.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 13",
+          "translations": {
+            "zh": "第13集",
+            "en": "Episode 13",
+            "es": "Episodio 13"
+          },
+          "start": 0.8,
+          "end": 2.56
+        },
+        {
+          "text": "Piste 22",
+          "translations": {
+            "zh": "第22轨",
+            "en": "Track 22",
+            "es": "Pista 22"
+          },
+          "start": 3.36,
+          "end": 4.72
+        },
+        {
+          "text": "Page 99",
+          "translations": {
+            "zh": "第99页",
+            "en": "Page 99",
+            "es": "Página 99"
+          },
+          "start": 6.56,
+          "end": 8.16
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "La région du Bas-Saint-Laurent se situe au sud du fleuve Saint-Laurent et couvre une superficie de 22 188 km 2 .",
+      "translations": {
+        "zh": "下圣劳伦斯地区位于圣劳伦斯河以南，面积为22 188平方公里。",
+        "en": "The Lower St. Lawrence region is located south of the St. Lawrence River and covers an area of 22,188 km².",
+        "es": "La región del Bajo San Lorenzo se sitúa al sur del río San Lorenzo y cubre una superficie de 22 188 km 2 ."
+      },
+      "start": 10.0,
+      "end": 17.92,
+      "words": [
+        {
+          "text": "La",
+          "start": 10.0,
+          "end": 10.16
+        },
+        {
+          "text": "région",
+          "start": 10.16,
+          "end": 10.48
+        },
+        {
+          "text": "du",
+          "start": 10.48,
+          "end": 10.56
+        },
+        {
+          "text": "Bas",
+          "start": 10.56,
+          "end": 10.8
+        },
+        {
+          "text": "Saint",
+          "start": 10.8,
+          "end": 10.96
+        },
+        {
+          "text": "Laurent",
+          "start": 10.96,
+          "end": 11.2
+        },
+        {
+          "text": "se",
+          "start": 11.36,
+          "end": 11.52
+        },
+        {
+          "text": "situe",
+          "start": 11.52,
+          "end": 11.84
+        },
+        {
+          "text": "au",
+          "start": 11.84,
+          "end": 11.92
+        },
+        {
+          "text": "sud",
+          "start": 11.92,
+          "end": 12.24
+        },
+        {
+          "text": "du",
+          "start": 12.24,
+          "end": 12.4
+        },
+        {
+          "text": "fleuve",
+          "start": 12.4,
+          "end": 12.64
+        },
+        {
+          "text": "Saint",
+          "start": 12.64,
+          "end": 12.8
+        },
+        {
+          "text": "Laurent",
+          "start": 12.8,
+          "end": 13.2
+        },
+        {
+          "text": "et",
+          "start": 13.6,
+          "end": 13.76
+        },
+        {
+          "text": "couvre",
+          "start": 13.76,
+          "end": 14.08
+        },
+        {
+          "text": "une",
+          "start": 14.08,
+          "end": 14.16
+        },
+        {
+          "text": "superficie",
+          "start": 14.16,
+          "end": 14.8
+        },
+        {
+          "text": "de",
+          "start": 14.8,
+          "end": 14.96
+        },
+        {
+          "text": "22",
+          "start": 14.96,
+          "end": 15.84
+        },
+        {
+          "text": "188",
+          "start": 15.92,
+          "end": 16.88
+        },
+        {
+          "text": "km",
+          "start": 16.88,
+          "end": 17.44
+        },
+        {
+          "text": "2",
+          "start": 17.44,
+          "end": 17.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La région du Bas-Saint-Laurent se situe au sud du fleuve Saint-Laurent",
+          "translations": {
+            "zh": "下圣劳伦斯地区位于圣劳伦斯河以南",
+            "en": "The Lower St. Lawrence region is located south of the St. Lawrence River",
+            "es": "La región del Bajo San Lorenzo se sitúa al sur del río San Lorenzo"
+          },
+          "start": 10.0,
+          "end": 13.2
+        },
+        {
+          "text": "et couvre une superficie de 22 188 km 2 .",
+          "translations": {
+            "zh": "面积为22 188平方公里。",
+            "en": "and covers an area of 22,188 km².",
+            "es": "y cubre una superficie de 22 188 km 2 ."
+          },
+          "start": 13.6,
+          "end": 17.92
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Elle compte plus de 200 lacs.",
+      "translations": {
+        "zh": "它拥有200多个湖泊。",
+        "en": "It has more than 200 lakes.",
+        "es": "Cuenta con más de 200 lagos."
+      },
+      "start": 17.92,
+      "end": 20.48,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 17.92,
+          "end": 17.92
+        },
+        {
+          "text": "compte",
+          "start": 19.04,
+          "end": 19.28
+        },
+        {
+          "text": "plus",
+          "start": 19.28,
+          "end": 19.44
+        },
+        {
+          "text": "de",
+          "start": 19.44,
+          "end": 19.52
+        },
+        {
+          "text": "200",
+          "start": 19.52,
+          "end": 20.08
+        },
+        {
+          "text": "lacs",
+          "start": 20.08,
+          "end": 20.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle compte plus de 200 lacs.",
+          "translations": {
+            "zh": "它拥有200多个湖泊。",
+            "en": "It has more than 200 lakes.",
+            "es": "Cuenta con más de 200 lagos."
+          },
+          "start": 17.92,
+          "end": 20.48
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Ses principales villes sont Rimouski, Rivière-du-Loup et Matane.",
+      "translations": {
+        "zh": "其主要城市为里穆斯基、里维耶尔-迪-卢普和马塔纳。",
+        "en": "Its main cities are Rimouski, Rivière-du-Loup, and Matane.",
+        "es": "Sus principales ciudades son Rimouski, Rivière-du-Loup y Matane."
+      },
+      "start": 20.96,
+      "end": 24.72,
+      "words": [
+        {
+          "text": "Ses",
+          "start": 20.96,
+          "end": 21.12
+        },
+        {
+          "text": "principales",
+          "start": 21.12,
+          "end": 21.68
+        },
+        {
+          "text": "villes",
+          "start": 21.68,
+          "end": 21.92
+        },
+        {
+          "text": "sont",
+          "start": 21.92,
+          "end": 22.08
+        },
+        {
+          "text": "Rimouski",
+          "start": 22.08,
+          "end": 22.8
+        },
+        {
+          "text": "Rivière",
+          "start": 23.04,
+          "end": 23.52
+        },
+        {
+          "text": "du",
+          "start": 23.52,
+          "end": 23.6
+        },
+        {
+          "text": "Loup",
+          "start": 23.6,
+          "end": 23.84
+        },
+        {
+          "text": "et",
+          "start": 24.08,
+          "end": 24.16
+        },
+        {
+          "text": "Matane",
+          "start": 24.16,
+          "end": 24.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ses principales villes sont Rimouski, Rivière-du-Loup et Matane.",
+          "translations": {
+            "zh": "其主要城市为里穆斯基、里维耶尔-迪-卢普和马塔纳。",
+            "en": "Its main cities are Rimouski, Rivière-du-Loup, and Matane.",
+            "es": "Sus principales ciudades son Rimouski, Rivière-du-Loup y Matane."
+          },
+          "start": 20.96,
+          "end": 24.72
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Située entre Québec et Montréal, la Mauricie est un vaste territoire de 35 448 km 2 .",
+      "translations": {
+        "zh": "位于魁北克市和蒙特利尔之间，莫里西区是一个面积为35 448平方公里的广阔地区。",
+        "en": "Located between Quebec City and Montreal, Mauricie is a vast territory of 35,448 km².",
+        "es": "Situada entre Quebec y Montreal, la Mauricie es un vasto territorio de 35 448 km 2 ."
+      },
+      "start": 27.36,
+      "end": 36.0,
+      "words": [
+        {
+          "text": "Située",
+          "start": 27.36,
+          "end": 27.92
+        },
+        {
+          "text": "entre",
+          "start": 27.92,
+          "end": 28.24
+        },
+        {
+          "text": "Québec",
+          "start": 28.32,
+          "end": 28.72
+        },
+        {
+          "text": "et",
+          "start": 28.72,
+          "end": 28.72
+        },
+        {
+          "text": "Montréal",
+          "start": 28.72,
+          "end": 29.44
+        },
+        {
+          "text": "la",
+          "start": 29.92,
+          "end": 30.08
+        },
+        {
+          "text": "Mauricie",
+          "start": 30.08,
+          "end": 30.64
+        },
+        {
+          "text": "est",
+          "start": 30.64,
+          "end": 30.8
+        },
+        {
+          "text": "un",
+          "start": 30.8,
+          "end": 30.88
+        },
+        {
+          "text": "vaste",
+          "start": 30.88,
+          "end": 31.28
+        },
+        {
+          "text": "territoire",
+          "start": 31.28,
+          "end": 31.92
+        },
+        {
+          "text": "de",
+          "start": 31.92,
+          "end": 32.08
+        },
+        {
+          "text": "35",
+          "start": 32.08,
+          "end": 33.04
+        },
+        {
+          "text": "448",
+          "start": 33.04,
+          "end": 34.24
+        },
+        {
+          "text": "km",
+          "start": 34.24,
+          "end": 34.72
+        },
+        {
+          "text": "2",
+          "start": 34.72,
+          "end": 36.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Située entre Québec et Montréal,",
+          "translations": {
+            "zh": "位于魁北克市和蒙特利尔之间，",
+            "en": "Located between Quebec City and Montreal,",
+            "es": "Situada entre Quebec y Montreal,"
+          },
+          "start": 27.36,
+          "end": 29.44
+        },
+        {
+          "text": "la Mauricie est un vaste territoire de 35 448 km 2 .",
+          "translations": {
+            "zh": "莫里西区是一个面积为35 448平方公里的广阔地区。",
+            "en": "Mauricie is a vast territory of 35,448 km².",
+            "es": "la Mauricie es un vasto territorio de 35 448 km 2 ."
+          },
+          "start": 29.92,
+          "end": 36.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "La ville de Trois-Rivières, dans cette région, est la deuxième plus ancienne ville de l'Amérique du Nord.",
+      "translations": {
+        "zh": "该地区的三河城是北美第二古老的城市。",
+        "en": "The city of Trois-Rivières, in this region, is the second oldest city in North America.",
+        "es": "La ciudad de Trois-Rivières, en esta región, es la segunda ciudad más antigua de América del Norte."
+      },
+      "start": 36.0,
+      "end": 42.08,
+      "words": [
+        {
+          "text": "La",
+          "start": 36.0,
+          "end": 36.16
+        },
+        {
+          "text": "ville",
+          "start": 36.16,
+          "end": 36.4
+        },
+        {
+          "text": "de",
+          "start": 36.4,
+          "end": 36.48
+        },
+        {
+          "text": "Trois",
+          "start": 36.48,
+          "end": 36.72
+        },
+        {
+          "text": "Rivières",
+          "start": 36.72,
+          "end": 37.36
+        },
+        {
+          "text": "dans",
+          "start": 37.44,
+          "end": 37.6
+        },
+        {
+          "text": "cette",
+          "start": 37.6,
+          "end": 37.76
+        },
+        {
+          "text": "région",
+          "start": 37.76,
+          "end": 38.24
+        },
+        {
+          "text": "est",
+          "start": 38.88,
+          "end": 38.96
+        },
+        {
+          "text": "la",
+          "start": 38.96,
+          "end": 39.12
+        },
+        {
+          "text": "deuxième",
+          "start": 39.12,
+          "end": 39.92
+        },
+        {
+          "text": "plus",
+          "start": 39.92,
+          "end": 40.16
+        },
+        {
+          "text": "ancienne",
+          "start": 40.16,
+          "end": 40.48
+        },
+        {
+          "text": "ville",
+          "start": 40.48,
+          "end": 40.8
+        },
+        {
+          "text": "de",
+          "start": 40.8,
+          "end": 40.96
+        },
+        {
+          "text": "l'Amérique",
+          "start": 40.96,
+          "end": 41.44
+        },
+        {
+          "text": "du",
+          "start": 41.44,
+          "end": 41.6
+        },
+        {
+          "text": "Nord",
+          "start": 41.6,
+          "end": 42.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La ville de Trois-Rivières, dans cette région,",
+          "translations": {
+            "zh": "该地区的三河城，",
+            "en": "The city of Trois-Rivières, in this region,",
+            "es": "La ciudad de Trois-Rivières, en esta región,"
+          },
+          "start": 36.0,
+          "end": 38.24
+        },
+        {
+          "text": "est la deuxième plus ancienne ville de l'Amérique du Nord.",
+          "translations": {
+            "zh": "是北美第二古老的城市。",
+            "en": "is the second oldest city in North America.",
+            "es": "es la segunda ciudad más antigua de América del Norte."
+          },
+          "start": 38.88,
+          "end": 42.08
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "La région de l'Abitibi- Témiscamingue, avec sa superficie de 65 800 km 2 et sa population de 150 000 habitants, se situe entre le Nord- du-Québec et l'Outaouais.",
+      "translations": {
+        "zh": "阿比蒂比-蒂米斯卡明格地区面积为65 800平方公里，人口为150 000人，位于北魁北克和乌塔韦之间。",
+        "en": "The Abitibi-Témiscamingue region, with its area of 65,800 km² and its population of 150,000 inhabitants, is located between Nord-du-Québec and Outaouais.",
+        "es": "La región de Abitibi-Témiscamingue, con su superficie de 65 800 km 2 y su población de 150 000 habitantes, se sitúa entre el Norte de Quebec y el Outaouais."
+      },
+      "start": 44.88,
+      "end": 56.0,
+      "words": [
+        {
+          "text": "La",
+          "start": 44.88,
+          "end": 45.04
+        },
+        {
+          "text": "région",
+          "start": 45.04,
+          "end": 45.36
+        },
+        {
+          "text": "de",
+          "start": 45.36,
+          "end": 45.44
+        },
+        {
+          "text": "l'Abitibi",
+          "start": 45.44,
+          "end": 46.0
+        },
+        {
+          "text": "Témiscamingue",
+          "start": 46.0,
+          "end": 46.8
+        },
+        {
+          "text": "avec",
+          "start": 46.96,
+          "end": 47.2
+        },
+        {
+          "text": "sa",
+          "start": 47.2,
+          "end": 47.28
+        },
+        {
+          "text": "superficie",
+          "start": 47.28,
+          "end": 48.0
+        },
+        {
+          "text": "de",
+          "start": 48.0,
+          "end": 48.08
+        },
+        {
+          "text": "65",
+          "start": 48.08,
+          "end": 48.8
+        },
+        {
+          "text": "800",
+          "start": 48.8,
+          "end": 49.44
+        },
+        {
+          "text": "km",
+          "start": 49.44,
+          "end": 49.92
+        },
+        {
+          "text": "2",
+          "start": 50.0,
+          "end": 50.4
+        },
+        {
+          "text": "et",
+          "start": 50.4,
+          "end": 50.4
+        },
+        {
+          "text": "sa",
+          "start": 50.96,
+          "end": 51.12
+        },
+        {
+          "text": "population",
+          "start": 51.12,
+          "end": 51.76
+        },
+        {
+          "text": "de",
+          "start": 51.76,
+          "end": 51.84
+        },
+        {
+          "text": "150",
+          "start": 51.84,
+          "end": 52.48
+        },
+        {
+          "text": "000",
+          "start": 52.48,
+          "end": 52.64
+        },
+        {
+          "text": "habitants",
+          "start": 52.64,
+          "end": 53.12
+        },
+        {
+          "text": "se",
+          "start": 53.52,
+          "end": 53.68
+        },
+        {
+          "text": "situe",
+          "start": 53.68,
+          "end": 54.08
+        },
+        {
+          "text": "entre",
+          "start": 54.08,
+          "end": 54.32
+        },
+        {
+          "text": "le",
+          "start": 54.32,
+          "end": 54.4
+        },
+        {
+          "text": "Nord",
+          "start": 54.4,
+          "end": 54.64
+        },
+        {
+          "text": "du",
+          "start": 54.64,
+          "end": 54.72
+        },
+        {
+          "text": "Québec",
+          "start": 54.72,
+          "end": 55.28
+        },
+        {
+          "text": "et",
+          "start": 55.36,
+          "end": 55.44
+        },
+        {
+          "text": "l'Outaouais",
+          "start": 55.44,
+          "end": 56.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La région de l'Abitibi- Témiscamingue,",
+          "translations": {
+            "zh": "阿比蒂比-蒂米斯卡明格地区，",
+            "en": "The Abitibi-Témiscamingue region,",
+            "es": "La región de Abitibi-Témiscamingue,"
+          },
+          "start": 44.88,
+          "end": 46.8
+        },
+        {
+          "text": "avec sa superficie de 65 800 km 2 et sa population de 150 000 habitants,",
+          "translations": {
+            "zh": "面积为65 800平方公里，人口为150 000人，",
+            "en": "with its area of 65,800 km² and its population of 150,000 inhabitants,",
+            "es": "con su superficie de 65 800 km 2 y su población de 150 000 habitantes,"
+          },
+          "start": 46.96,
+          "end": 53.12
+        },
+        {
+          "text": "se situe entre le Nord- du-Québec et l'Outaouais.",
+          "translations": {
+            "zh": "位于北魁北克和乌塔韦之间。",
+            "en": "is located between Nord-du-Québec and Outaouais.",
+            "es": "se sitúa entre el Norte de Quebec y el Outaouais."
+          },
+          "start": 53.52,
+          "end": 56.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Ses principales villes sont Rouyn-Noranda et Val-d'Or.",
+      "translations": {
+        "zh": "其主要城市为鲁安-诺兰达和瓦勒多尔。",
+        "en": "Its main cities are Rouyn-Noranda and Val-d'Or.",
+        "es": "Sus principales ciudades son Rouyn-Noranda y Val-d'Or."
+      },
+      "start": 56.48,
+      "end": 59.44,
+      "words": [
+        {
+          "text": "Ses",
+          "start": 56.48,
+          "end": 56.64
+        },
+        {
+          "text": "principales",
+          "start": 56.64,
+          "end": 57.2
+        },
+        {
+          "text": "villes",
+          "start": 57.2,
+          "end": 57.44
+        },
+        {
+          "text": "sont",
+          "start": 57.44,
+          "end": 57.6
+        },
+        {
+          "text": "Rouyn",
+          "start": 57.6,
+          "end": 57.92
+        },
+        {
+          "text": "Noranda",
+          "start": 57.92,
+          "end": 58.4
+        },
+        {
+          "text": "et",
+          "start": 58.8,
+          "end": 58.88
+        },
+        {
+          "text": "Val",
+          "start": 58.88,
+          "end": 59.04
+        },
+        {
+          "text": "d'Or",
+          "start": 59.04,
+          "end": 59.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ses principales villes sont Rouyn-Noranda et Val-d'Or.",
+          "translations": {
+            "zh": "其主要城市为鲁安-诺兰达和瓦勒多尔。",
+            "en": "Its main cities are Rouyn-Noranda and Val-d'Or.",
+            "es": "Sus principales ciudades son Rouyn-Noranda y Val-d'Or."
+          },
+          "start": 56.48,
+          "end": 59.44
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "La région Chaudière-Appalaches, riche en forêts, en rivières et en lacs, s'étend sur environ 15 000 km 2 et compte 400 000 habitants.",
+      "translations": {
+        "zh": "博斯-阿巴拉契亚地区拥有丰富的森林、河流和湖泊，面积约15 000平方公里，人口为400 000人。",
+        "en": "The Chaudière-Appalaches region, rich in forests, rivers, and lakes, extends over approximately 15,000 km² and has 400,000 inhabitants.",
+        "es": "La región de Chaudière-Appalaches, rica en bosques, ríos y lagos, se extiende sobre aproximadamente 15 000 km 2 y cuenta con 400 000 habitantes."
+      },
+      "start": 62.4,
+      "end": 72.0,
+      "words": [
+        {
+          "text": "La",
+          "start": 62.4,
+          "end": 62.56
+        },
+        {
+          "text": "région",
+          "start": 62.56,
+          "end": 62.96
+        },
+        {
+          "text": "Chaudière",
+          "start": 62.96,
+          "end": 63.44
+        },
+        {
+          "text": "Appalaches",
+          "start": 63.44,
+          "end": 64.08
+        },
+        {
+          "text": "riche",
+          "start": 64.4,
+          "end": 64.72
+        },
+        {
+          "text": "en",
+          "start": 64.72,
+          "end": 64.8
+        },
+        {
+          "text": "forêts",
+          "start": 64.8,
+          "end": 65.28
+        },
+        {
+          "text": "en",
+          "start": 65.36,
+          "end": 65.44
+        },
+        {
+          "text": "rivières",
+          "start": 65.44,
+          "end": 65.92
+        },
+        {
+          "text": "et",
+          "start": 65.92,
+          "end": 66.08
+        },
+        {
+          "text": "en",
+          "start": 66.08,
+          "end": 66.16
+        },
+        {
+          "text": "lacs",
+          "start": 66.16,
+          "end": 66.48
+        },
+        {
+          "text": "s'étend",
+          "start": 66.88,
+          "end": 67.28
+        },
+        {
+          "text": "sur",
+          "start": 67.28,
+          "end": 67.52
+        },
+        {
+          "text": "environ",
+          "start": 67.52,
+          "end": 68.0
+        },
+        {
+          "text": "15",
+          "start": 68.08,
+          "end": 68.48
+        },
+        {
+          "text": "000",
+          "start": 68.48,
+          "end": 68.64
+        },
+        {
+          "text": "km",
+          "start": 68.64,
+          "end": 69.2
+        },
+        {
+          "text": "2",
+          "start": 69.2,
+          "end": 69.6
+        },
+        {
+          "text": "et",
+          "start": 69.6,
+          "end": 69.6
+        },
+        {
+          "text": "compte",
+          "start": 70.24,
+          "end": 70.64
+        },
+        {
+          "text": "400",
+          "start": 70.88,
+          "end": 71.44
+        },
+        {
+          "text": "000",
+          "start": 71.44,
+          "end": 71.6
+        },
+        {
+          "text": "habitants",
+          "start": 71.6,
+          "end": 72.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La région Chaudière-Appalaches,",
+          "translations": {
+            "zh": "博斯-阿巴拉契亚地区，",
+            "en": "The Chaudière-Appalaches region,",
+            "es": "La región de Chaudière-Appalaches,"
+          },
+          "start": 62.4,
+          "end": 64.08
+        },
+        {
+          "text": "riche en forêts, en rivières et en lacs,",
+          "translations": {
+            "zh": "拥有丰富的森林、河流和湖泊，",
+            "en": "rich in forests, rivers, and lakes,",
+            "es": "rica en bosques, ríos y lagos,"
+          },
+          "start": 64.4,
+          "end": 66.48
+        },
+        {
+          "text": "s'étend sur environ 15 000 km 2 et compte 400 000 habitants.",
+          "translations": {
+            "zh": "面积约15 000平方公里，人口为400 000人。",
+            "en": "extends over approximately 15,000 km² and has 400,000 inhabitants.",
+            "es": "se extiende sobre aproximadamente 15 000 km 2 y cuenta con 400 000 habitantes."
+          },
+          "start": 66.88,
+          "end": 72.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Sa ville principale est Lévis.",
+      "translations": {
+        "zh": "其主要城市是勒维。",
+        "en": "Its main city is Lévis.",
+        "es": "Su ciudad principal es Lévis."
+      },
+      "start": 72.64,
+      "end": 74.32,
+      "words": [
+        {
+          "text": "Sa",
+          "start": 72.64,
+          "end": 72.88
+        },
+        {
+          "text": "ville",
+          "start": 72.88,
+          "end": 73.04
+        },
+        {
+          "text": "principale",
+          "start": 73.04,
+          "end": 73.76
+        },
+        {
+          "text": "est",
+          "start": 73.76,
+          "end": 73.84
+        },
+        {
+          "text": "Lévis",
+          "start": 73.84,
+          "end": 74.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Sa ville principale est Lévis.",
+          "translations": {
+            "zh": "其主要城市是勒维。",
+            "en": "Its main city is Lévis.",
+            "es": "Su ciudad principal es Lévis."
+          },
+          "start": 72.64,
+          "end": 74.32
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Les Laurentides se trouvent entre l'Outaouais, à l'ouest, et Lanaudière, à l'est.",
+      "translations": {
+        "zh": "劳伦琴地区位于西面的乌塔韦和东面的拉诺迪耶尔之间。",
+        "en": "The Laurentians are located between Outaouais, to the west, and Lanaudière, to the east.",
+        "es": "Las Laurentides se encuentran entre el Outaouais, al oeste, y Lanaudière, al este."
+      },
+      "start": 76.64,
+      "end": 80.96,
+      "words": [
+        {
+          "text": "Les",
+          "start": 76.64,
+          "end": 76.72
+        },
+        {
+          "text": "Laurentides",
+          "start": 76.72,
+          "end": 77.36
+        },
+        {
+          "text": "se",
+          "start": 77.44,
+          "end": 77.6
+        },
+        {
+          "text": "trouvent",
+          "start": 77.6,
+          "end": 78.0
+        },
+        {
+          "text": "entre",
+          "start": 78.08,
+          "end": 78.32
+        },
+        {
+          "text": "l'Outaouais",
+          "start": 78.32,
+          "end": 78.96
+        },
+        {
+          "text": "à",
+          "start": 79.04,
+          "end": 79.12
+        },
+        {
+          "text": "l'ouest",
+          "start": 79.12,
+          "end": 79.68
+        },
+        {
+          "text": "et",
+          "start": 79.76,
+          "end": 79.84
+        },
+        {
+          "text": "Lanaudière",
+          "start": 79.84,
+          "end": 80.48
+        },
+        {
+          "text": "à",
+          "start": 80.56,
+          "end": 80.72
+        },
+        {
+          "text": "l'est",
+          "start": 80.72,
+          "end": 80.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les Laurentides se trouvent entre l'Outaouais, à l'ouest,",
+          "translations": {
+            "zh": "劳伦琴地区位于西面的乌塔韦和",
+            "en": "The Laurentians are located between Outaouais, to the west,",
+            "es": "Las Laurentides se encuentran entre el Outaouais, al oeste,"
+          },
+          "start": 76.64,
+          "end": 79.68
+        },
+        {
+          "text": "et Lanaudière, à l'est.",
+          "translations": {
+            "zh": "东面的拉诺迪耶尔之间。",
+            "en": "and Lanaudière, to the east.",
+            "es": "y Lanaudière, al este."
+          },
+          "start": 79.76,
+          "end": 80.96
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "La région a une superficie de 21 500 km 2 et sa population compte environ 600 000 habitants.",
+      "translations": {
+        "zh": "该地区面积为21 500平方公里，人口约为600 000人。",
+        "en": "The region has an area of 21,500 km² and its population is approximately 600,000 inhabitants.",
+        "es": "La región tiene una superficie de 21 500 km 2 y su población cuenta con aproximadamente 600 000 habitantes."
+      },
+      "start": 81.68,
+      "end": 88.56,
+      "words": [
+        {
+          "text": "La",
+          "start": 81.68,
+          "end": 81.84
+        },
+        {
+          "text": "région",
+          "start": 81.84,
+          "end": 82.24
+        },
+        {
+          "text": "a",
+          "start": 82.24,
+          "end": 82.32
+        },
+        {
+          "text": "une",
+          "start": 82.32,
+          "end": 82.48
+        },
+        {
+          "text": "superficie",
+          "start": 82.48,
+          "end": 83.2
+        },
+        {
+          "text": "de",
+          "start": 83.2,
+          "end": 83.28
+        },
+        {
+          "text": "21",
+          "start": 83.28,
+          "end": 83.76
+        },
+        {
+          "text": "500",
+          "start": 83.76,
+          "end": 84.48
+        },
+        {
+          "text": "km",
+          "start": 84.48,
+          "end": 84.96
+        },
+        {
+          "text": "2",
+          "start": 84.96,
+          "end": 85.44
+        },
+        {
+          "text": "et",
+          "start": 85.44,
+          "end": 85.52
+        },
+        {
+          "text": "sa",
+          "start": 85.92,
+          "end": 86.16
+        },
+        {
+          "text": "population",
+          "start": 86.16,
+          "end": 86.8
+        },
+        {
+          "text": "compte",
+          "start": 86.8,
+          "end": 87.04
+        },
+        {
+          "text": "environ",
+          "start": 87.04,
+          "end": 87.52
+        },
+        {
+          "text": "600",
+          "start": 87.52,
+          "end": 88.08
+        },
+        {
+          "text": "000",
+          "start": 88.08,
+          "end": 88.24
+        },
+        {
+          "text": "habitants",
+          "start": 88.24,
+          "end": 88.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La région a une superficie de 21 500 km 2",
+          "translations": {
+            "zh": "该地区面积为21 500平方公里",
+            "en": "The region has an area of 21,500 km²",
+            "es": "La región tiene una superficie de 21 500 km 2"
+          },
+          "start": 81.68,
+          "end": 85.44
+        },
+        {
+          "text": "et sa population compte environ 600 000 habitants.",
+          "translations": {
+            "zh": "人口约为600 000人。",
+            "en": "and its population is approximately 600,000 inhabitants.",
+            "es": "y su población cuenta con aproximadamente 600 000 habitantes."
+          },
+          "start": 85.44,
+          "end": 88.56
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP13_P22",
+  "audio_filename": "FLS2_EP13_P22.mp3",
+  "audio_path": "downloads/FLS2_EP13_P22.mp3",
+  "episode": 13,
+  "piste": 22,
+  "page": 99,
+  "cd": "CD2"
+}

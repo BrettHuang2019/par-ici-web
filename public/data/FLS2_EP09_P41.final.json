@@ -1,0 +1,2051 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 9 Piste 41 Page 71",
+      "translations": {
+        "zh": "第九集 第41轨 第71页",
+        "en": "Episode 9 Track 41 Page 71",
+        "es": "Episodio 9 Pista 41 Página 71"
+      },
+      "start": 0.8,
+      "end": 8.32,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.8,
+          "end": 1.44
+        },
+        {
+          "text": "9",
+          "start": 1.84,
+          "end": 2.0
+        },
+        {
+          "text": "Piste",
+          "start": 3.04,
+          "end": 3.52
+        },
+        {
+          "text": "41",
+          "start": 4.08,
+          "end": 4.8
+        },
+        {
+          "text": "Page",
+          "start": 4.8,
+          "end": 4.8
+        },
+        {
+          "text": "71",
+          "start": 6.56,
+          "end": 8.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 9",
+          "translations": {
+            "zh": "第九集",
+            "en": "Episode 9",
+            "es": "Episodio 9"
+          },
+          "start": 0.8,
+          "end": 2.0
+        },
+        {
+          "text": "Piste 41",
+          "translations": {
+            "zh": "第41轨",
+            "en": "Track 41",
+            "es": "Pista 41"
+          },
+          "start": 3.04,
+          "end": 4.8
+        },
+        {
+          "text": "Page 71",
+          "translations": {
+            "zh": "第71页",
+            "en": "Page 71",
+            "es": "Página 71"
+          },
+          "start": 4.8,
+          "end": 8.32
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "J'ai vraiment du mal à respirer.",
+      "translations": {
+        "zh": "我真的呼吸困难。",
+        "en": "I'm really having trouble breathing.",
+        "es": "Realmente tengo dificultad para respirar."
+      },
+      "start": 10.16,
+      "end": 11.92,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 10.16,
+          "end": 10.4
+        },
+        {
+          "text": "vraiment",
+          "start": 10.4,
+          "end": 10.8
+        },
+        {
+          "text": "du",
+          "start": 10.8,
+          "end": 10.96
+        },
+        {
+          "text": "mal",
+          "start": 10.96,
+          "end": 11.2
+        },
+        {
+          "text": "à",
+          "start": 11.2,
+          "end": 11.2
+        },
+        {
+          "text": "respirer",
+          "start": 11.2,
+          "end": 11.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai vraiment du mal",
+          "translations": {
+            "zh": "我真的很困难",
+            "en": "I'm really having trouble",
+            "es": "Realmente tengo dificultad"
+          },
+          "start": 10.16,
+          "end": 11.2
+        },
+        {
+          "text": "à respirer.",
+          "translations": {
+            "zh": "呼吸。",
+            "en": "breathing.",
+            "es": "para respirar."
+          },
+          "start": 11.2,
+          "end": 11.92
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Je pense que je fais une crise d'asthme.",
+      "translations": {
+        "zh": "我觉得我哮喘发作了。",
+        "en": "I think I'm having an asthma attack.",
+        "es": "Creo que estoy teniendo una crisis de asma."
+      },
+      "start": 12.64,
+      "end": 14.32,
+      "words": [
+        {
+          "text": "Je",
+          "start": 12.64,
+          "end": 12.72
+        },
+        {
+          "text": "pense",
+          "start": 12.72,
+          "end": 13.04
+        },
+        {
+          "text": "que",
+          "start": 13.04,
+          "end": 13.2
+        },
+        {
+          "text": "je",
+          "start": 13.2,
+          "end": 13.28
+        },
+        {
+          "text": "fais",
+          "start": 13.28,
+          "end": 13.44
+        },
+        {
+          "text": "une",
+          "start": 13.44,
+          "end": 13.52
+        },
+        {
+          "text": "crise",
+          "start": 13.52,
+          "end": 13.84
+        },
+        {
+          "text": "d'asthme",
+          "start": 13.84,
+          "end": 14.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je pense que",
+          "translations": {
+            "zh": "我觉得",
+            "en": "I think",
+            "es": "Creo que"
+          },
+          "start": 12.64,
+          "end": 13.2
+        },
+        {
+          "text": "je fais une crise d'asthme.",
+          "translations": {
+            "zh": "我哮喘发作了。",
+            "en": "I'm having an asthma attack.",
+            "es": "estoy teniendo una crisis de asma."
+          },
+          "start": 13.2,
+          "end": 14.32
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "J'ai mal au genou.",
+      "translations": {
+        "zh": "我膝盖疼。",
+        "en": "My knee hurts.",
+        "es": "Me duele la rodilla."
+      },
+      "start": 16.16,
+      "end": 18.64,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 16.16,
+          "end": 16.32
+        },
+        {
+          "text": "mal",
+          "start": 17.68,
+          "end": 18.08
+        },
+        {
+          "text": "au",
+          "start": 18.08,
+          "end": 18.16
+        },
+        {
+          "text": "genou",
+          "start": 18.16,
+          "end": 18.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai mal au genou.",
+          "translations": {
+            "zh": "我膝盖疼。",
+            "en": "My knee hurts.",
+            "es": "Me duele la rodilla."
+          },
+          "start": 16.16,
+          "end": 18.64
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Je pense que je me suis déchiré un tendon ou quelque chose comme ça.",
+      "translations": {
+        "zh": "我觉得我撕裂了一根肌腱，或者类似的情况。",
+        "en": "I think I tore a tendon or something like that.",
+        "es": "Creo que me desgarré un tendón o algo así."
+      },
+      "start": 18.88,
+      "end": 22.0,
+      "words": [
+        {
+          "text": "Je",
+          "start": 18.88,
+          "end": 18.96
+        },
+        {
+          "text": "pense",
+          "start": 18.96,
+          "end": 19.2
+        },
+        {
+          "text": "que",
+          "start": 19.2,
+          "end": 19.28
+        },
+        {
+          "text": "je",
+          "start": 19.28,
+          "end": 19.36
+        },
+        {
+          "text": "me",
+          "start": 19.36,
+          "end": 19.44
+        },
+        {
+          "text": "suis",
+          "start": 19.44,
+          "end": 19.68
+        },
+        {
+          "text": "déchiré",
+          "start": 19.68,
+          "end": 20.16
+        },
+        {
+          "text": "un",
+          "start": 20.16,
+          "end": 20.32
+        },
+        {
+          "text": "tendon",
+          "start": 20.32,
+          "end": 20.8
+        },
+        {
+          "text": "ou",
+          "start": 20.8,
+          "end": 21.12
+        },
+        {
+          "text": "quelque",
+          "start": 21.12,
+          "end": 21.36
+        },
+        {
+          "text": "chose",
+          "start": 21.36,
+          "end": 21.6
+        },
+        {
+          "text": "comme",
+          "start": 21.6,
+          "end": 21.76
+        },
+        {
+          "text": "ça",
+          "start": 21.76,
+          "end": 22.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je pense que",
+          "translations": {
+            "zh": "我觉得",
+            "en": "I think",
+            "es": "Creo que"
+          },
+          "start": 18.88,
+          "end": 19.28
+        },
+        {
+          "text": "je me suis déchiré un tendon",
+          "translations": {
+            "zh": "我撕裂了一根肌腱，",
+            "en": "I tore a tendon",
+            "es": "me desgarré un tendón"
+          },
+          "start": 19.28,
+          "end": 20.8
+        },
+        {
+          "text": "ou quelque chose comme ça.",
+          "translations": {
+            "zh": "或者类似的情况。",
+            "en": "or something like that.",
+            "es": "o algo así."
+          },
+          "start": 20.8,
+          "end": 22.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Mon fils a mangé des arachides.",
+      "translations": {
+        "zh": "我儿子吃了花生。",
+        "en": "My son ate peanuts.",
+        "es": "Mi hijo comió cacahuetes."
+      },
+      "start": 25.76,
+      "end": 27.44,
+      "words": [
+        {
+          "text": "Mon",
+          "start": 25.76,
+          "end": 26.0
+        },
+        {
+          "text": "fils",
+          "start": 26.0,
+          "end": 26.24
+        },
+        {
+          "text": "a",
+          "start": 26.32,
+          "end": 26.4
+        },
+        {
+          "text": "mangé",
+          "start": 26.4,
+          "end": 26.72
+        },
+        {
+          "text": "des",
+          "start": 26.72,
+          "end": 26.88
+        },
+        {
+          "text": "arachides",
+          "start": 26.88,
+          "end": 27.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mon fils a mangé des arachides.",
+          "translations": {
+            "zh": "我儿子吃了花生。",
+            "en": "My son ate peanuts.",
+            "es": "Mi hijo comió cacahuetes."
+          },
+          "start": 25.76,
+          "end": 27.44
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Ses lèvres sont enflées et il a de la difficulté à respirer.",
+      "translations": {
+        "zh": "他的嘴唇肿了，而且他呼吸困难。",
+        "en": "His lips are swollen and he's having difficulty breathing.",
+        "es": "Sus labios están hinchados y tiene dificultad para respirar."
+      },
+      "start": 27.68,
+      "end": 30.96,
+      "words": [
+        {
+          "text": "Ses",
+          "start": 27.68,
+          "end": 27.92
+        },
+        {
+          "text": "lèvres",
+          "start": 27.92,
+          "end": 28.24
+        },
+        {
+          "text": "sont",
+          "start": 28.24,
+          "end": 28.48
+        },
+        {
+          "text": "enflées",
+          "start": 28.48,
+          "end": 28.96
+        },
+        {
+          "text": "et",
+          "start": 29.12,
+          "end": 29.2
+        },
+        {
+          "text": "il",
+          "start": 29.2,
+          "end": 29.36
+        },
+        {
+          "text": "a",
+          "start": 29.36,
+          "end": 29.44
+        },
+        {
+          "text": "de",
+          "start": 29.44,
+          "end": 29.52
+        },
+        {
+          "text": "la",
+          "start": 29.52,
+          "end": 29.6
+        },
+        {
+          "text": "difficulté",
+          "start": 29.6,
+          "end": 30.32
+        },
+        {
+          "text": "à",
+          "start": 30.32,
+          "end": 30.4
+        },
+        {
+          "text": "respirer",
+          "start": 30.4,
+          "end": 30.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ses lèvres sont enflées",
+          "translations": {
+            "zh": "他的嘴唇肿了",
+            "en": "His lips are swollen",
+            "es": "Sus labios están hinchados"
+          },
+          "start": 27.68,
+          "end": 28.96
+        },
+        {
+          "text": "et il a de la difficulté à respirer.",
+          "translations": {
+            "zh": "而且他呼吸困难。",
+            "en": "and he's having difficulty breathing.",
+            "es": "y tiene dificultad para respirar."
+          },
+          "start": 29.12,
+          "end": 30.96
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Je pense qu'il a une allergie.",
+      "translations": {
+        "zh": "我觉得他是过敏了。",
+        "en": "I think he has an allergy.",
+        "es": "Creo que tiene una alergia."
+      },
+      "start": 31.52,
+      "end": 32.8,
+      "words": [
+        {
+          "text": "Je",
+          "start": 31.52,
+          "end": 31.68
+        },
+        {
+          "text": "pense",
+          "start": 31.68,
+          "end": 31.92
+        },
+        {
+          "text": "qu'il",
+          "start": 31.92,
+          "end": 32.08
+        },
+        {
+          "text": "a",
+          "start": 32.08,
+          "end": 32.16
+        },
+        {
+          "text": "une",
+          "start": 32.16,
+          "end": 32.32
+        },
+        {
+          "text": "allergie",
+          "start": 32.32,
+          "end": 32.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je pense qu'il a une allergie.",
+          "translations": {
+            "zh": "我觉得他是过敏了。",
+            "en": "I think he has an allergy.",
+            "es": "Creo que tiene una alergia."
+          },
+          "start": 31.52,
+          "end": 32.8
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Mes mains me font tellement souffrir, je ne suis pas capable de bouger mes doigts.",
+      "translations": {
+        "zh": "我的手疼得厉害，我没办法动我的手指。",
+        "en": "My hands hurt so much, I can't move my fingers.",
+        "es": "Mis manos me hacen sufrir tanto, no soy capaz de mover los dedos."
+      },
+      "start": 36.32,
+      "end": 40.08,
+      "words": [
+        {
+          "text": "Mes",
+          "start": 36.32,
+          "end": 36.48
+        },
+        {
+          "text": "mains",
+          "start": 36.48,
+          "end": 36.72
+        },
+        {
+          "text": "me",
+          "start": 36.72,
+          "end": 36.72
+        },
+        {
+          "text": "font",
+          "start": 36.72,
+          "end": 36.96
+        },
+        {
+          "text": "tellement",
+          "start": 36.96,
+          "end": 37.36
+        },
+        {
+          "text": "souffrir",
+          "start": 37.36,
+          "end": 38.16
+        },
+        {
+          "text": "je",
+          "start": 38.4,
+          "end": 38.48
+        },
+        {
+          "text": "ne",
+          "start": 38.56,
+          "end": 38.64
+        },
+        {
+          "text": "suis",
+          "start": 38.64,
+          "end": 38.64
+        },
+        {
+          "text": "pas",
+          "start": 38.64,
+          "end": 38.72
+        },
+        {
+          "text": "capable",
+          "start": 38.72,
+          "end": 39.2
+        },
+        {
+          "text": "de",
+          "start": 39.2,
+          "end": 39.28
+        },
+        {
+          "text": "bouger",
+          "start": 39.28,
+          "end": 39.6
+        },
+        {
+          "text": "mes",
+          "start": 39.6,
+          "end": 39.76
+        },
+        {
+          "text": "doigts",
+          "start": 39.76,
+          "end": 40.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mes mains me font tellement souffrir,",
+          "translations": {
+            "zh": "我的手疼得厉害，",
+            "en": "My hands hurt so much,",
+            "es": "Mis manos me hacen sufrir tanto,"
+          },
+          "start": 36.32,
+          "end": 38.16
+        },
+        {
+          "text": "je ne suis pas capable de bouger mes doigts.",
+          "translations": {
+            "zh": "我没办法动我的手指。",
+            "en": "I can't move my fingers.",
+            "es": "no soy capaz de mover los dedos."
+          },
+          "start": 38.4,
+          "end": 40.08
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Ça doit être encore une crise d'arthrite.",
+      "translations": {
+        "zh": "这一定又是关节炎发作了。",
+        "en": "It must be another arthritis flare-up.",
+        "es": "Debe ser otra crisis de artritis."
+      },
+      "start": 40.72,
+      "end": 42.8,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 40.72,
+          "end": 40.96
+        },
+        {
+          "text": "doit",
+          "start": 40.96,
+          "end": 41.12
+        },
+        {
+          "text": "être",
+          "start": 41.12,
+          "end": 41.28
+        },
+        {
+          "text": "encore",
+          "start": 41.28,
+          "end": 41.6
+        },
+        {
+          "text": "une",
+          "start": 41.6,
+          "end": 41.76
+        },
+        {
+          "text": "crise",
+          "start": 41.76,
+          "end": 42.0
+        },
+        {
+          "text": "d'arthrite",
+          "start": 42.0,
+          "end": 42.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça doit être",
+          "translations": {
+            "zh": "这一定是",
+            "en": "It must be",
+            "es": "Debe ser"
+          },
+          "start": 40.72,
+          "end": 41.28
+        },
+        {
+          "text": "encore une crise d'arthrite.",
+          "translations": {
+            "zh": "又是关节炎发作了。",
+            "en": "another arthritis flare-up.",
+            "es": "otra crisis de artritis."
+          },
+          "start": 41.28,
+          "end": 42.8
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Je suis tombé sur le trottoir puis je pense que je me suis cassé la jambe.",
+      "translations": {
+        "zh": "我在人行道上摔倒了，然后我觉得我腿骨折了。",
+        "en": "I fell on the sidewalk and I think I broke my leg.",
+        "es": "Me caí en la acera y creo que me rompí la pierna."
+      },
+      "start": 44.64,
+      "end": 49.28,
+      "words": [
+        {
+          "text": "Je",
+          "start": 44.64,
+          "end": 44.8
+        },
+        {
+          "text": "suis",
+          "start": 46.16,
+          "end": 46.4
+        },
+        {
+          "text": "tombé",
+          "start": 46.4,
+          "end": 46.72
+        },
+        {
+          "text": "sur",
+          "start": 46.72,
+          "end": 46.8
+        },
+        {
+          "text": "le",
+          "start": 46.8,
+          "end": 46.88
+        },
+        {
+          "text": "trottoir",
+          "start": 46.88,
+          "end": 47.36
+        },
+        {
+          "text": "puis",
+          "start": 47.36,
+          "end": 47.6
+        },
+        {
+          "text": "je",
+          "start": 47.6,
+          "end": 47.68
+        },
+        {
+          "text": "pense",
+          "start": 47.68,
+          "end": 47.92
+        },
+        {
+          "text": "que",
+          "start": 47.92,
+          "end": 48.08
+        },
+        {
+          "text": "je",
+          "start": 48.08,
+          "end": 48.16
+        },
+        {
+          "text": "me",
+          "start": 48.16,
+          "end": 48.24
+        },
+        {
+          "text": "suis",
+          "start": 48.24,
+          "end": 48.48
+        },
+        {
+          "text": "cassé",
+          "start": 48.48,
+          "end": 48.88
+        },
+        {
+          "text": "la",
+          "start": 48.88,
+          "end": 48.96
+        },
+        {
+          "text": "jambe",
+          "start": 48.96,
+          "end": 49.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis tombé sur le trottoir",
+          "translations": {
+            "zh": "我在人行道上摔倒了",
+            "en": "I fell on the sidewalk",
+            "es": "Me caí en la acera"
+          },
+          "start": 44.64,
+          "end": 47.36
+        },
+        {
+          "text": "puis je pense que",
+          "translations": {
+            "zh": "然后我觉得",
+            "en": "and I think",
+            "es": "y creo que"
+          },
+          "start": 47.36,
+          "end": 48.08
+        },
+        {
+          "text": "je me suis cassé la jambe.",
+          "translations": {
+            "zh": "我腿骨折了。",
+            "en": "I broke my leg.",
+            "es": "me rompí la pierna."
+          },
+          "start": 48.08,
+          "end": 49.28
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Je ne suis pas capable de marcher.",
+      "translations": {
+        "zh": "我没法走路。",
+        "en": "I can't walk.",
+        "es": "No soy capaz de caminar."
+      },
+      "start": 50.16,
+      "end": 51.36,
+      "words": [
+        {
+          "text": "Je",
+          "start": 50.16,
+          "end": 50.24
+        },
+        {
+          "text": "ne",
+          "start": 50.24,
+          "end": 50.24
+        },
+        {
+          "text": "suis",
+          "start": 50.24,
+          "end": 50.32
+        },
+        {
+          "text": "pas",
+          "start": 50.32,
+          "end": 50.48
+        },
+        {
+          "text": "capable",
+          "start": 50.48,
+          "end": 50.8
+        },
+        {
+          "text": "de",
+          "start": 50.8,
+          "end": 50.88
+        },
+        {
+          "text": "marcher",
+          "start": 50.88,
+          "end": 51.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je ne suis pas capable de marcher.",
+          "translations": {
+            "zh": "我没法走路。",
+            "en": "I can't walk.",
+            "es": "No soy capaz de caminar."
+          },
+          "start": 50.16,
+          "end": 51.36
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Ça ne va vraiment pas.",
+      "translations": {
+        "zh": "真的很不舒服。",
+        "en": "I'm really not doing well.",
+        "es": "No va nada bien."
+      },
+      "start": 53.28,
+      "end": 55.52,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 53.28,
+          "end": 53.52
+        },
+        {
+          "text": "ne",
+          "start": 53.52,
+          "end": 53.52
+        },
+        {
+          "text": "va",
+          "start": 53.52,
+          "end": 54.8
+        },
+        {
+          "text": "vraiment",
+          "start": 54.96,
+          "end": 55.28
+        },
+        {
+          "text": "pas",
+          "start": 55.28,
+          "end": 55.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça ne va vraiment pas.",
+          "translations": {
+            "zh": "真的很不舒服。",
+            "en": "I'm really not doing well.",
+            "es": "No va nada bien."
+          },
+          "start": 53.28,
+          "end": 55.52
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "J'ai comme une pression dans la poitrine.",
+      "translations": {
+        "zh": "我觉得胸口有一种压迫感。",
+        "en": "I have sort of a pressure in my chest.",
+        "es": "Tengo como una presión en el pecho."
+      },
+      "start": 56.16,
+      "end": 57.92,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 56.16,
+          "end": 56.32
+        },
+        {
+          "text": "comme",
+          "start": 56.32,
+          "end": 56.56
+        },
+        {
+          "text": "une",
+          "start": 56.56,
+          "end": 56.64
+        },
+        {
+          "text": "pression",
+          "start": 56.64,
+          "end": 57.12
+        },
+        {
+          "text": "dans",
+          "start": 57.2,
+          "end": 57.28
+        },
+        {
+          "text": "la",
+          "start": 57.28,
+          "end": 57.36
+        },
+        {
+          "text": "poitrine",
+          "start": 57.36,
+          "end": 57.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai comme une pression",
+          "translations": {
+            "zh": "我感觉有一种压迫",
+            "en": "I have sort of a pressure",
+            "es": "Tengo como una presión"
+          },
+          "start": 56.16,
+          "end": 57.12
+        },
+        {
+          "text": "dans la poitrine.",
+          "translations": {
+            "zh": "在胸口。",
+            "en": "in my chest.",
+            "es": "en el pecho."
+          },
+          "start": 57.2,
+          "end": 57.92
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "J'ai mal au bras et ça monte jusque dans ma mâchoire.",
+      "translations": {
+        "zh": "我胳膊疼，而且一直蔓延到我的下巴。",
+        "en": "My arm hurts and it goes up into my jaw.",
+        "es": "Me duele el brazo y sube hasta la mandíbula."
+      },
+      "start": 59.68,
+      "end": 62.4,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 59.68,
+          "end": 59.92
+        },
+        {
+          "text": "mal",
+          "start": 59.92,
+          "end": 60.08
+        },
+        {
+          "text": "au",
+          "start": 60.08,
+          "end": 60.16
+        },
+        {
+          "text": "bras",
+          "start": 60.16,
+          "end": 60.48
+        },
+        {
+          "text": "et",
+          "start": 60.48,
+          "end": 60.56
+        },
+        {
+          "text": "ça",
+          "start": 60.56,
+          "end": 60.8
+        },
+        {
+          "text": "monte",
+          "start": 60.8,
+          "end": 61.12
+        },
+        {
+          "text": "jusque",
+          "start": 61.12,
+          "end": 61.44
+        },
+        {
+          "text": "dans",
+          "start": 61.44,
+          "end": 61.6
+        },
+        {
+          "text": "ma",
+          "start": 61.6,
+          "end": 61.76
+        },
+        {
+          "text": "mâchoire",
+          "start": 61.76,
+          "end": 62.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai mal au bras",
+          "translations": {
+            "zh": "我胳膊疼",
+            "en": "My arm hurts",
+            "es": "Me duele el brazo"
+          },
+          "start": 59.68,
+          "end": 60.48
+        },
+        {
+          "text": "et ça monte jusque dans ma mâchoire.",
+          "translations": {
+            "zh": "而且一直蔓延到我的下巴。",
+            "en": "and it goes up into my jaw.",
+            "es": "y sube hasta la mandíbula."
+          },
+          "start": 60.48,
+          "end": 62.4
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Non, c'est mes verres de contact qui font ça.",
+      "translations": {
+        "zh": "不是，是我的隐形眼镜造成的。",
+        "en": "No, it's my contact lenses that are doing this.",
+        "es": "No, son mis lentes de contacto los que hacen eso."
+      },
+      "start": 62.4,
+      "end": 62.4,
+      "words": [
+        {
+          "text": "Non",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "c'est",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "mes",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "verres",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "de",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "contact",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "qui",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "font",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "ça",
+          "start": 62.4,
+          "end": 62.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Non,",
+          "translations": {
+            "zh": "不是，",
+            "en": "No,",
+            "es": "No,"
+          },
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "c'est mes verres de contact",
+          "translations": {
+            "zh": "是我的隐形眼镜",
+            "en": "it's my contact lenses",
+            "es": "son mis lentes de contacto"
+          },
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "qui font ça.",
+          "translations": {
+            "zh": "造成的。",
+            "en": "that are doing this.",
+            "es": "los que hacen eso."
+          },
+          "start": 62.4,
+          "end": 62.4
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Marie-France et moi, on part travailler au Mali en janvier.",
+      "translations": {
+        "zh": "Marie-France和我，我们一月份要去马里工作。",
+        "en": "Marie-France and I, we're leaving to work in Mali in January.",
+        "es": "Marie-France y yo nos vamos a trabajar a Malí en enero."
+      },
+      "start": 62.4,
+      "end": 62.4,
+      "words": [
+        {
+          "text": "Marie",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "France",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "et",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "moi",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "on",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "part",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "travailler",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "au",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "Mali",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "en",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "janvier",
+          "start": 62.4,
+          "end": 62.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Marie-France et moi,",
+          "translations": {
+            "zh": "Marie-France和我，",
+            "en": "Marie-France and I,",
+            "es": "Marie-France y yo,"
+          },
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "on part travailler au Mali",
+          "translations": {
+            "zh": "我们要去马里工作",
+            "en": "we're leaving to work in Mali",
+            "es": "nos vamos a trabajar a Malí"
+          },
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "en janvier.",
+          "translations": {
+            "zh": "一月份。",
+            "en": "in January.",
+            "es": "en enero."
+          },
+          "start": 62.4,
+          "end": 62.4
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Hein, en Afrique ?",
+      "translations": {
+        "zh": "嗯，在非洲？",
+        "en": "Huh, in Africa?",
+        "es": "¿Eh, en África?"
+      },
+      "start": 62.4,
+      "end": 62.4,
+      "words": [
+        {
+          "text": "Hein",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "en",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "Afrique",
+          "start": 62.4,
+          "end": 62.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Hein,",
+          "translations": {
+            "zh": "嗯，",
+            "en": "Huh,",
+            "es": "¿Eh,"
+          },
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "en Afrique ?",
+          "translations": {
+            "zh": "在非洲？",
+            "en": "in Africa?",
+            "es": "en África?"
+          },
+          "start": 62.4,
+          "end": 62.4
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Oui, oui !",
+      "translations": {
+        "zh": "对，对！",
+        "en": "Yes, yes!",
+        "es": "¡Sí, sí!"
+      },
+      "start": 62.4,
+      "end": 62.4,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "oui",
+          "start": 62.4,
+          "end": 62.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui, oui !",
+          "translations": {
+            "zh": "对，对！",
+            "en": "Yes, yes!",
+            "es": "¡Sí, sí!"
+          },
+          "start": 62.4,
+          "end": 62.4
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Ah, depuis l'hiver, mes mains sont sèches, ça n'a pas de bon sens.",
+      "translations": {
+        "zh": "啊，从冬天开始，我的手就很干，简直太不像话了。",
+        "en": "Ah, since winter, my hands have been dry, it makes no sense.",
+        "es": "Ah, desde el invierno, mis manos están secas, no tiene ningún sentido."
+      },
+      "start": 62.4,
+      "end": 63.52,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "depuis",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "l'hiver",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "mes",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "mains",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "sont",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "sèches",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "ça",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "n'a",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "pas",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "de",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "bon",
+          "start": 62.4,
+          "end": 63.52
+        },
+        {
+          "text": "sens",
+          "start": 63.52,
+          "end": 63.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah,",
+          "translations": {
+            "zh": "啊，",
+            "en": "Ah,",
+            "es": "Ah,"
+          },
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "depuis l'hiver,",
+          "translations": {
+            "zh": "从冬天开始，",
+            "en": "since winter,",
+            "es": "desde el invierno,"
+          },
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "mes mains sont sèches,",
+          "translations": {
+            "zh": "我的手很干，",
+            "en": "my hands are dry,",
+            "es": "mis manos están secas,"
+          },
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "ça n'a pas de bon sens.",
+          "translations": {
+            "zh": "简直太不像话了。",
+            "en": "it makes no sense.",
+            "es": "no tiene ningún sentido."
+          },
+          "start": 62.4,
+          "end": 63.52
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Mets-tu de la crème hydratante ?",
+      "translations": {
+        "zh": "你涂保湿霜吗？",
+        "en": "Do you put on moisturizing cream?",
+        "es": "¿Te pones crema hidratante?"
+      },
+      "start": 63.52,
+      "end": 64.32,
+      "words": [
+        {
+          "text": "Mets",
+          "start": 63.52,
+          "end": 63.52
+        },
+        {
+          "text": "tu",
+          "start": 63.52,
+          "end": 63.52
+        },
+        {
+          "text": "de",
+          "start": 63.52,
+          "end": 63.6
+        },
+        {
+          "text": "la",
+          "start": 63.6,
+          "end": 63.68
+        },
+        {
+          "text": "crème",
+          "start": 63.68,
+          "end": 63.84
+        },
+        {
+          "text": "hydratante",
+          "start": 63.84,
+          "end": 64.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mets-tu",
+          "translations": {
+            "zh": "你涂",
+            "en": "Do you put on",
+            "es": "¿Te pones"
+          },
+          "start": 63.52,
+          "end": 63.52
+        },
+        {
+          "text": "de la crème hydratante ?",
+          "translations": {
+            "zh": "保湿霜吗？",
+            "en": "moisturizing cream?",
+            "es": "crema hidratante?"
+          },
+          "start": 63.52,
+          "end": 64.32
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Tu n'as pas l'air en forme...",
+      "translations": {
+        "zh": "你看上去状态不太好……",
+        "en": "You don't look well...",
+        "es": "No pareces estar en forma..."
+      },
+      "start": 64.96,
+      "end": 65.12,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 64.96,
+          "end": 65.12
+        },
+        {
+          "text": "n'as",
+          "start": 65.12,
+          "end": 65.12
+        },
+        {
+          "text": "pas",
+          "start": 65.12,
+          "end": 65.12
+        },
+        {
+          "text": "l'air",
+          "start": 65.12,
+          "end": 65.12
+        },
+        {
+          "text": "en",
+          "start": 65.12,
+          "end": 65.12
+        },
+        {
+          "text": "forme",
+          "start": 65.12,
+          "end": 65.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu n'as pas l'air en forme...",
+          "translations": {
+            "zh": "你看上去状态不太好……",
+            "en": "You don't look well...",
+            "es": "No pareces estar en forma..."
+          },
+          "start": 64.96,
+          "end": 65.12
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Non, je me sens déprimée.",
+      "translations": {
+        "zh": "没有，我觉得很沮丧。",
+        "en": "No, I feel depressed.",
+        "es": "No, me siento deprimida."
+      },
+      "start": 65.12,
+      "end": 65.12,
+      "words": [
+        {
+          "text": "Non",
+          "start": 65.12,
+          "end": 65.12
+        },
+        {
+          "text": "je",
+          "start": 65.12,
+          "end": 65.12
+        },
+        {
+          "text": "me",
+          "start": 65.12,
+          "end": 65.12
+        },
+        {
+          "text": "sens",
+          "start": 65.12,
+          "end": 65.12
+        },
+        {
+          "text": "déprimée",
+          "start": 65.12,
+          "end": 65.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Non,",
+          "translations": {
+            "zh": "没有，",
+            "en": "No,",
+            "es": "No,"
+          },
+          "start": 65.12,
+          "end": 65.12
+        },
+        {
+          "text": "je me sens déprimée.",
+          "translations": {
+            "zh": "我觉得很沮丧。",
+            "en": "I feel depressed.",
+            "es": "me siento deprimida."
+          },
+          "start": 65.12,
+          "end": 65.12
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Il ne fait jamais soleil, ça me dérange beaucoup.",
+      "translations": {
+        "zh": "从来不出太阳，这让我很烦恼。",
+        "en": "It's never sunny, it bothers me a lot.",
+        "es": "Nunca hace sol, me molesta mucho."
+      },
+      "start": 65.12,
+      "end": 65.248,
+      "words": [
+        {
+          "text": "Il",
+          "start": 65.12,
+          "end": 65.12
+        },
+        {
+          "text": "ne",
+          "start": 65.12,
+          "end": 65.12
+        },
+        {
+          "text": "fait",
+          "start": 65.12,
+          "end": 65.12
+        },
+        {
+          "text": "jamais",
+          "start": 65.12,
+          "end": 65.12
+        },
+        {
+          "text": "soleil",
+          "start": 65.12,
+          "end": 65.12
+        },
+        {
+          "text": "ça",
+          "start": 65.12,
+          "end": 65.12
+        },
+        {
+          "text": "me",
+          "start": 65.12,
+          "end": 65.12
+        },
+        {
+          "text": "dérange",
+          "start": 65.12,
+          "end": 65.12
+        },
+        {
+          "text": "beaucoup",
+          "start": 65.184,
+          "end": 65.248
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il ne fait jamais soleil,",
+          "translations": {
+            "zh": "从来不出太阳，",
+            "en": "It's never sunny,",
+            "es": "Nunca hace sol,"
+          },
+          "start": 65.12,
+          "end": 65.12
+        },
+        {
+          "text": "ça me dérange beaucoup.",
+          "translations": {
+            "zh": "这让我很烦恼。",
+            "en": "it bothers me a lot.",
+            "es": "me molesta mucho."
+          },
+          "start": 65.12,
+          "end": 65.248
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Fais-tu du ski toutes les fins de semaine ?",
+      "translations": {
+        "zh": "你每个周末都滑雪吗？",
+        "en": "Do you ski every weekend?",
+        "es": "¿Esquías todos los fines de semana?"
+      },
+      "start": 65.312,
+      "end": 82.8,
+      "words": [
+        {
+          "text": "Fais",
+          "start": 65.312,
+          "end": 65.376
+        },
+        {
+          "text": "tu",
+          "start": 65.44,
+          "end": 66.24
+        },
+        {
+          "text": "du",
+          "start": 66.24,
+          "end": 66.24
+        },
+        {
+          "text": "ski",
+          "start": 67.62,
+          "end": 69.0
+        },
+        {
+          "text": "toutes",
+          "start": 70.38,
+          "end": 71.76
+        },
+        {
+          "text": "les",
+          "start": 73.14,
+          "end": 74.52
+        },
+        {
+          "text": "fins",
+          "start": 75.9,
+          "end": 77.28
+        },
+        {
+          "text": "de",
+          "start": 78.66,
+          "end": 80.04
+        },
+        {
+          "text": "semaine",
+          "start": 81.42,
+          "end": 82.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Fais-tu du ski",
+          "translations": {
+            "zh": "你滑雪吗",
+            "en": "Do you ski",
+            "es": "¿Esquías"
+          },
+          "start": 65.312,
+          "end": 69.0
+        },
+        {
+          "text": "toutes les fins de semaine ?",
+          "translations": {
+            "zh": "每个周末？",
+            "en": "every weekend?",
+            "es": "todos los fines de semana?"
+          },
+          "start": 70.38,
+          "end": 82.8
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "En général, oui.",
+      "translations": {
+        "zh": "一般来说，是的。",
+        "en": "Generally, yes.",
+        "es": "En general, sí."
+      },
+      "start": 84.18,
+      "end": 90.192,
+      "words": [
+        {
+          "text": "En",
+          "start": 84.18,
+          "end": 85.56
+        },
+        {
+          "text": "général",
+          "start": 86.94,
+          "end": 88.32
+        },
+        {
+          "text": "oui",
+          "start": 90.08,
+          "end": 90.192
+        }
+      ],
+      "chunks": [
+        {
+          "text": "En général,",
+          "translations": {
+            "zh": "一般来说，",
+            "en": "Generally,",
+            "es": "En general,"
+          },
+          "start": 84.18,
+          "end": 88.32
+        },
+        {
+          "text": "oui.",
+          "translations": {
+            "zh": "是的。",
+            "en": "yes.",
+            "es": "sí."
+          },
+          "start": 90.08,
+          "end": 90.192
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Mets-tu de la crème solaire ?",
+      "translations": {
+        "zh": "你涂防晒霜吗？",
+        "en": "Do you put on sunscreen?",
+        "es": "¿Te pones crema solar?"
+      },
+      "start": 90.304,
+      "end": 90.64,
+      "words": [
+        {
+          "text": "Mets",
+          "start": 90.304,
+          "end": 90.416
+        },
+        {
+          "text": "tu",
+          "start": 90.528,
+          "end": 90.64
+        },
+        {
+          "text": "de",
+          "start": 90.64,
+          "end": 90.64
+        },
+        {
+          "text": "la",
+          "start": 90.64,
+          "end": 90.64
+        },
+        {
+          "text": "crème",
+          "start": 90.64,
+          "end": 90.64
+        },
+        {
+          "text": "solaire",
+          "start": 90.64,
+          "end": 90.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mets-tu",
+          "translations": {
+            "zh": "你涂",
+            "en": "Do you put on",
+            "es": "¿Te pones"
+          },
+          "start": 90.304,
+          "end": 90.64
+        },
+        {
+          "text": "de la crème solaire ?",
+          "translations": {
+            "zh": "防晒霜吗？",
+            "en": "sunscreen?",
+            "es": "crema solar?"
+          },
+          "start": 90.64,
+          "end": 90.64
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "ÉPISODE 9",
+      "translations": {
+        "zh": "第九集",
+        "en": "EPISODE 9",
+        "es": "EPISODIO 9"
+      },
+      "start": 90.64,
+      "end": 105.76,
+      "words": [
+        {
+          "text": "ÉPISODE",
+          "start": 90.64,
+          "end": 105.76
+        },
+        {
+          "text": "9",
+          "start": 105.76,
+          "end": 105.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "ÉPISODE 9",
+          "translations": {
+            "zh": "第九集",
+            "en": "EPISODE 9",
+            "es": "EPISODIO 9"
+          },
+          "start": 90.64,
+          "end": 105.76
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP09_P41",
+  "audio_filename": "FLS2_EP09_P41.mp3",
+  "audio_path": "downloads/FLS2_EP09_P41.mp3",
+  "episode": 9,
+  "piste": 41,
+  "page": 71,
+  "cd": "CD1"
+}

@@ -1,0 +1,1366 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 10 Piste 49 Page 77",
+      "translations": {
+        "zh": "第10集 第49轨 第77页",
+        "en": "Episode 10 Track 49 Page 77",
+        "es": "Episodio 10 Pista 49 Página 77"
+      },
+      "start": 0.64,
+      "end": 7.84,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.64,
+          "end": 1.28
+        },
+        {
+          "text": "10",
+          "start": 1.68,
+          "end": 2.08
+        },
+        {
+          "text": "Piste",
+          "start": 2.88,
+          "end": 2.88
+        },
+        {
+          "text": "49",
+          "start": 2.88,
+          "end": 4.88
+        },
+        {
+          "text": "Page",
+          "start": 4.88,
+          "end": 6.64
+        },
+        {
+          "text": "77",
+          "start": 6.8,
+          "end": 7.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 10",
+          "translations": {
+            "zh": "第10集",
+            "en": "Episode 10",
+            "es": "Episodio 10"
+          },
+          "start": 0.64,
+          "end": 2.08
+        },
+        {
+          "text": "Piste 49",
+          "translations": {
+            "zh": "第49轨",
+            "en": "Track 49",
+            "es": "Pista 49"
+          },
+          "start": 2.88,
+          "end": 4.88
+        },
+        {
+          "text": "Page 77",
+          "translations": {
+            "zh": "第77页",
+            "en": "Page 77",
+            "es": "Página 77"
+          },
+          "start": 4.88,
+          "end": 7.84
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Vous faites partie des blessés du carambolage ?",
+      "translations": {
+        "zh": "您是连环车祸中的伤者吗？",
+        "en": "Are you one of the injured from the pile-up?",
+        "es": "¿Forma parte de los heridos del choque?"
+      },
+      "start": 9.28,
+      "end": 11.2,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 9.28,
+          "end": 9.44
+        },
+        {
+          "text": "faites",
+          "start": 9.44,
+          "end": 9.6
+        },
+        {
+          "text": "partie",
+          "start": 9.6,
+          "end": 9.84
+        },
+        {
+          "text": "des",
+          "start": 9.84,
+          "end": 10.0
+        },
+        {
+          "text": "blessés",
+          "start": 10.0,
+          "end": 10.32
+        },
+        {
+          "text": "du",
+          "start": 10.32,
+          "end": 10.4
+        },
+        {
+          "text": "carambolage",
+          "start": 10.4,
+          "end": 11.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous faites partie des blessés",
+          "translations": {
+            "zh": "您是伤者",
+            "en": "Are you one of the injured",
+            "es": "Forma parte de los heridos"
+          },
+          "start": 9.28,
+          "end": 10.32
+        },
+        {
+          "text": "du carambolage ?",
+          "translations": {
+            "zh": "连环车祸中的吗？",
+            "en": "from the pile-up?",
+            "es": "del choque?"
+          },
+          "start": 10.32,
+          "end": 11.2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Oui.",
+      "translations": {
+        "zh": "是的。",
+        "en": "Yes.",
+        "es": "Sí."
+      },
+      "start": 11.76,
+      "end": 12.08,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 11.76,
+          "end": 12.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui.",
+          "translations": {
+            "zh": "是的。",
+            "en": "Yes.",
+            "es": "Sí."
+          },
+          "start": 11.76,
+          "end": 12.08
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "D'accord.",
+      "translations": {
+        "zh": "好的。",
+        "en": "All right.",
+        "es": "De acuerdo."
+      },
+      "start": 12.8,
+      "end": 13.28,
+      "words": [
+        {
+          "text": "D'accord",
+          "start": 12.8,
+          "end": 13.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'accord.",
+          "translations": {
+            "zh": "好的。",
+            "en": "All right.",
+            "es": "De acuerdo."
+          },
+          "start": 12.8,
+          "end": 13.28
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Je vois que vous avez une plaie au-dessus de l'œil, à l'arcade sourcilière.",
+      "translations": {
+        "zh": "我看到您的眼睛上方，眉弓处有一处伤口。",
+        "en": "I see that you have a wound above the eye, at the eyebrow.",
+        "es": "Veo que tiene una herida encima del ojo, en el arco superciliar."
+      },
+      "start": 14.24,
+      "end": 17.12,
+      "words": [
+        {
+          "text": "Je",
+          "start": 14.24,
+          "end": 14.32
+        },
+        {
+          "text": "vois",
+          "start": 14.32,
+          "end": 14.4
+        },
+        {
+          "text": "que",
+          "start": 14.4,
+          "end": 14.48
+        },
+        {
+          "text": "vous",
+          "start": 14.48,
+          "end": 14.56
+        },
+        {
+          "text": "avez",
+          "start": 14.56,
+          "end": 14.72
+        },
+        {
+          "text": "une",
+          "start": 14.72,
+          "end": 14.8
+        },
+        {
+          "text": "plaie",
+          "start": 14.8,
+          "end": 15.12
+        },
+        {
+          "text": "au",
+          "start": 15.12,
+          "end": 15.2
+        },
+        {
+          "text": "dessus",
+          "start": 15.2,
+          "end": 15.44
+        },
+        {
+          "text": "de",
+          "start": 15.44,
+          "end": 15.52
+        },
+        {
+          "text": "l'œil",
+          "start": 15.52,
+          "end": 15.84
+        },
+        {
+          "text": "à",
+          "start": 15.84,
+          "end": 15.92
+        },
+        {
+          "text": "l'arcade",
+          "start": 15.92,
+          "end": 16.24
+        },
+        {
+          "text": "sourcilière",
+          "start": 16.24,
+          "end": 17.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vois que vous avez une plaie",
+          "translations": {
+            "zh": "我看到您有一处伤口",
+            "en": "I see that you have a wound",
+            "es": "Veo que tiene una herida"
+          },
+          "start": 14.24,
+          "end": 15.12
+        },
+        {
+          "text": "au-dessus de l'œil,",
+          "translations": {
+            "zh": "在眼睛上方，",
+            "en": "above the eye,",
+            "es": "encima del ojo,"
+          },
+          "start": 15.12,
+          "end": 15.84
+        },
+        {
+          "text": "à l'arcade sourcilière.",
+          "translations": {
+            "zh": "眉弓处。",
+            "en": "at the eyebrow.",
+            "es": "en el arco superciliar."
+          },
+          "start": 15.84,
+          "end": 17.12
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "On va s'occuper de ça.",
+      "translations": {
+        "zh": "我们会处理这个的。",
+        "en": "We'll take care of that.",
+        "es": "Vamos a ocuparnos de eso."
+      },
+      "start": 18.16,
+      "end": 19.04,
+      "words": [
+        {
+          "text": "On",
+          "start": 18.16,
+          "end": 18.24
+        },
+        {
+          "text": "va",
+          "start": 18.24,
+          "end": 18.4
+        },
+        {
+          "text": "s'occuper",
+          "start": 18.4,
+          "end": 18.8
+        },
+        {
+          "text": "de",
+          "start": 18.8,
+          "end": 18.8
+        },
+        {
+          "text": "ça",
+          "start": 18.8,
+          "end": 19.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On va s'occuper de ça.",
+          "translations": {
+            "zh": "我们会处理这个的。",
+            "en": "We'll take care of that.",
+            "es": "Vamos a ocuparnos de eso."
+          },
+          "start": 18.16,
+          "end": 19.04
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Mais avant, dites-moi, avez-vous d'autres symptômes ?",
+      "translations": {
+        "zh": "但在此之前，告诉我，您还有其他症状吗？",
+        "en": "But first, tell me, do you have any other symptoms?",
+        "es": "Pero antes, dígame, ¿tiene otros síntomas?"
+      },
+      "start": 19.68,
+      "end": 21.36,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 19.68,
+          "end": 19.68
+        },
+        {
+          "text": "avant",
+          "start": 19.68,
+          "end": 20.0
+        },
+        {
+          "text": "dites",
+          "start": 20.0,
+          "end": 20.24
+        },
+        {
+          "text": "moi",
+          "start": 20.24,
+          "end": 20.32
+        },
+        {
+          "text": "avez",
+          "start": 20.32,
+          "end": 20.48
+        },
+        {
+          "text": "vous",
+          "start": 20.48,
+          "end": 20.56
+        },
+        {
+          "text": "d'autres",
+          "start": 20.56,
+          "end": 20.8
+        },
+        {
+          "text": "symptômes",
+          "start": 20.8,
+          "end": 21.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais avant,",
+          "translations": {
+            "zh": "但在此之前，",
+            "en": "But first,",
+            "es": "Pero antes,"
+          },
+          "start": 19.68,
+          "end": 20.0
+        },
+        {
+          "text": "dites-moi,",
+          "translations": {
+            "zh": "告诉我，",
+            "en": "tell me,",
+            "es": "dígame,"
+          },
+          "start": 20.0,
+          "end": 20.32
+        },
+        {
+          "text": "avez-vous d'autres symptômes ?",
+          "translations": {
+            "zh": "您还有其他症状吗？",
+            "en": "do you have any other symptoms?",
+            "es": "¿tiene otros síntomas?"
+          },
+          "start": 20.32,
+          "end": 21.36
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "J'ai mal à la jambe.",
+      "translations": {
+        "zh": "我腿疼。",
+        "en": "I have pain in my leg.",
+        "es": "Me duele la pierna."
+      },
+      "start": 22.08,
+      "end": 23.2,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 22.08,
+          "end": 22.32
+        },
+        {
+          "text": "mal",
+          "start": 22.32,
+          "end": 22.56
+        },
+        {
+          "text": "à",
+          "start": 22.56,
+          "end": 22.72
+        },
+        {
+          "text": "la",
+          "start": 22.72,
+          "end": 22.8
+        },
+        {
+          "text": "jambe",
+          "start": 22.8,
+          "end": 23.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai mal",
+          "translations": {
+            "zh": "我疼",
+            "en": "I have pain",
+            "es": "Me duele"
+          },
+          "start": 22.08,
+          "end": 22.56
+        },
+        {
+          "text": "à la jambe.",
+          "translations": {
+            "zh": "在腿上。",
+            "en": "in my leg.",
+            "es": "la pierna."
+          },
+          "start": 22.56,
+          "end": 23.2
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Je ne peux pas mettre mon poids dessus.",
+      "translations": {
+        "zh": "我不能把体重压在上面。",
+        "en": "I can't put my weight on it.",
+        "es": "No puedo apoyar mi peso en ella."
+      },
+      "start": 23.36,
+      "end": 24.48,
+      "words": [
+        {
+          "text": "Je",
+          "start": 23.36,
+          "end": 23.52
+        },
+        {
+          "text": "ne",
+          "start": 23.52,
+          "end": 23.52
+        },
+        {
+          "text": "peux",
+          "start": 23.52,
+          "end": 23.6
+        },
+        {
+          "text": "pas",
+          "start": 23.6,
+          "end": 23.76
+        },
+        {
+          "text": "mettre",
+          "start": 23.76,
+          "end": 23.92
+        },
+        {
+          "text": "mon",
+          "start": 23.92,
+          "end": 24.0
+        },
+        {
+          "text": "poids",
+          "start": 24.0,
+          "end": 24.16
+        },
+        {
+          "text": "dessus",
+          "start": 24.16,
+          "end": 24.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je ne peux pas mettre mon poids",
+          "translations": {
+            "zh": "我不能把体重压",
+            "en": "I can't put my weight",
+            "es": "No puedo apoyar mi peso"
+          },
+          "start": 23.36,
+          "end": 24.16
+        },
+        {
+          "text": "dessus.",
+          "translations": {
+            "zh": "在上面。",
+            "en": "on it.",
+            "es": "en ella."
+          },
+          "start": 24.16,
+          "end": 24.48
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "La droite ou la gauche ?",
+      "translations": {
+        "zh": "右边还是左边？",
+        "en": "The right or the left?",
+        "es": "¿La derecha o la izquierda?"
+      },
+      "start": 24.88,
+      "end": 26.0,
+      "words": [
+        {
+          "text": "La",
+          "start": 24.88,
+          "end": 24.96
+        },
+        {
+          "text": "droite",
+          "start": 24.96,
+          "end": 25.28
+        },
+        {
+          "text": "ou",
+          "start": 25.28,
+          "end": 25.36
+        },
+        {
+          "text": "la",
+          "start": 25.36,
+          "end": 25.52
+        },
+        {
+          "text": "gauche",
+          "start": 25.52,
+          "end": 26.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La droite",
+          "translations": {
+            "zh": "右边",
+            "en": "The right",
+            "es": "La derecha"
+          },
+          "start": 24.88,
+          "end": 25.28
+        },
+        {
+          "text": "ou la gauche ?",
+          "translations": {
+            "zh": "还是左边？",
+            "en": "or the left?",
+            "es": "o la izquierda?"
+          },
+          "start": 25.28,
+          "end": 26.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Euh, celle-là, la gauche.",
+      "translations": {
+        "zh": "呃，那条，左边的。",
+        "en": "Uh, that one, the left.",
+        "es": "Eh, esa, la izquierda."
+      },
+      "start": 26.0,
+      "end": 28.0,
+      "words": [
+        {
+          "text": "Euh",
+          "start": 26.0,
+          "end": 26.32
+        },
+        {
+          "text": "celle",
+          "start": 26.8,
+          "end": 27.04
+        },
+        {
+          "text": "là",
+          "start": 27.04,
+          "end": 27.36
+        },
+        {
+          "text": "la",
+          "start": 27.44,
+          "end": 27.6
+        },
+        {
+          "text": "gauche",
+          "start": 27.6,
+          "end": 28.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Euh,",
+          "translations": {
+            "zh": "呃，",
+            "en": "Uh,",
+            "es": "Eh,"
+          },
+          "start": 26.0,
+          "end": 26.32
+        },
+        {
+          "text": "celle-là,",
+          "translations": {
+            "zh": "那条，",
+            "en": "that one,",
+            "es": "esa,"
+          },
+          "start": 26.8,
+          "end": 27.36
+        },
+        {
+          "text": "la gauche.",
+          "translations": {
+            "zh": "左边的。",
+            "en": "the left.",
+            "es": "la izquierda."
+          },
+          "start": 27.44,
+          "end": 28.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "D'accord.",
+      "translations": {
+        "zh": "好的。",
+        "en": "All right.",
+        "es": "De acuerdo."
+      },
+      "start": 28.32,
+      "end": 28.96,
+      "words": [
+        {
+          "text": "D'accord",
+          "start": 28.32,
+          "end": 28.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'accord.",
+          "translations": {
+            "zh": "好的。",
+            "en": "All right.",
+            "es": "De acuerdo."
+          },
+          "start": 28.32,
+          "end": 28.96
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Je vais toucher votre jambe délicatement, dites-moi si ça vous fait mal.",
+      "translations": {
+        "zh": "我会轻轻触碰您的腿，告诉我是否疼。",
+        "en": "I'm going to touch your leg gently, tell me if it hurts.",
+        "es": "Voy a tocar su pierna con delicadeza, dígame si le duele."
+      },
+      "start": 29.6,
+      "end": 33.68,
+      "words": [
+        {
+          "text": "Je",
+          "start": 29.6,
+          "end": 29.76
+        },
+        {
+          "text": "vais",
+          "start": 29.76,
+          "end": 29.92
+        },
+        {
+          "text": "toucher",
+          "start": 29.92,
+          "end": 30.32
+        },
+        {
+          "text": "votre",
+          "start": 30.32,
+          "end": 30.56
+        },
+        {
+          "text": "jambe",
+          "start": 30.56,
+          "end": 30.96
+        },
+        {
+          "text": "délicatement",
+          "start": 30.96,
+          "end": 31.84
+        },
+        {
+          "text": "dites",
+          "start": 32.56,
+          "end": 32.8
+        },
+        {
+          "text": "moi",
+          "start": 32.8,
+          "end": 32.96
+        },
+        {
+          "text": "si",
+          "start": 32.96,
+          "end": 33.04
+        },
+        {
+          "text": "ça",
+          "start": 33.04,
+          "end": 33.12
+        },
+        {
+          "text": "vous",
+          "start": 33.12,
+          "end": 33.28
+        },
+        {
+          "text": "fait",
+          "start": 33.28,
+          "end": 33.44
+        },
+        {
+          "text": "mal",
+          "start": 33.44,
+          "end": 33.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais toucher votre jambe délicatement,",
+          "translations": {
+            "zh": "我会轻轻触碰您的腿，",
+            "en": "I'm going to touch your leg gently,",
+            "es": "Voy a tocar su pierna con delicadeza,"
+          },
+          "start": 29.6,
+          "end": 31.84
+        },
+        {
+          "text": "dites-moi",
+          "translations": {
+            "zh": "告诉我",
+            "en": "tell me",
+            "es": "dígame"
+          },
+          "start": 32.56,
+          "end": 32.96
+        },
+        {
+          "text": "si ça vous fait mal.",
+          "translations": {
+            "zh": "是否疼。",
+            "en": "if it hurts.",
+            "es": "si le duele."
+          },
+          "start": 32.96,
+          "end": 33.68
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Ouch.",
+      "translations": {
+        "zh": "哎哟。",
+        "en": "Ouch.",
+        "es": "Ay."
+      },
+      "start": 34.48,
+      "end": 34.96,
+      "words": [
+        {
+          "text": "Ouch",
+          "start": 34.48,
+          "end": 34.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ouch.",
+          "translations": {
+            "zh": "哎哟。",
+            "en": "Ouch.",
+            "es": "Ay."
+          },
+          "start": 34.48,
+          "end": 34.96
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Oui, ça fait mal.",
+      "translations": {
+        "zh": "是的，很疼。",
+        "en": "Yes, it hurts.",
+        "es": "Sí, duele."
+      },
+      "start": 35.04,
+      "end": 36.16,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 35.04,
+          "end": 35.52
+        },
+        {
+          "text": "ça",
+          "start": 35.52,
+          "end": 35.68
+        },
+        {
+          "text": "fait",
+          "start": 35.68,
+          "end": 35.84
+        },
+        {
+          "text": "mal",
+          "start": 35.84,
+          "end": 36.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 35.04,
+          "end": 35.52
+        },
+        {
+          "text": "ça fait mal.",
+          "translations": {
+            "zh": "很疼。",
+            "en": "it hurts.",
+            "es": "duele."
+          },
+          "start": 35.52,
+          "end": 36.16
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "OK.",
+      "translations": {
+        "zh": "好的。",
+        "en": "OK.",
+        "es": "OK."
+      },
+      "start": 36.88,
+      "end": 37.2,
+      "words": [
+        {
+          "text": "OK",
+          "start": 36.88,
+          "end": 37.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "OK.",
+          "translations": {
+            "zh": "好的。",
+            "en": "OK.",
+            "es": "OK."
+          },
+          "start": 36.88,
+          "end": 37.2
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Vous avez peut-être une fracture, on va vous envoyer faire une radiographie tout de suite.",
+      "translations": {
+        "zh": "您可能有骨折，我们会马上安排您去拍X光片。",
+        "en": "You may have a fracture, we're going to send you for an X-ray right away.",
+        "es": "Tal vez tenga una fractura, vamos a enviarle a hacer una radiografía enseguida."
+      },
+      "start": 39.04,
+      "end": 43.04,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 39.04,
+          "end": 39.2
+        },
+        {
+          "text": "avez",
+          "start": 39.2,
+          "end": 39.36
+        },
+        {
+          "text": "peut",
+          "start": 39.36,
+          "end": 39.44
+        },
+        {
+          "text": "être",
+          "start": 39.44,
+          "end": 39.68
+        },
+        {
+          "text": "une",
+          "start": 39.68,
+          "end": 39.76
+        },
+        {
+          "text": "fracture",
+          "start": 39.76,
+          "end": 40.56
+        },
+        {
+          "text": "on",
+          "start": 40.96,
+          "end": 41.04
+        },
+        {
+          "text": "va",
+          "start": 41.04,
+          "end": 41.2
+        },
+        {
+          "text": "vous",
+          "start": 41.2,
+          "end": 41.36
+        },
+        {
+          "text": "envoyer",
+          "start": 41.36,
+          "end": 41.6
+        },
+        {
+          "text": "faire",
+          "start": 41.6,
+          "end": 41.84
+        },
+        {
+          "text": "une",
+          "start": 41.84,
+          "end": 41.92
+        },
+        {
+          "text": "radiographie",
+          "start": 41.92,
+          "end": 42.4
+        },
+        {
+          "text": "tout",
+          "start": 42.4,
+          "end": 42.56
+        },
+        {
+          "text": "de",
+          "start": 42.56,
+          "end": 42.56
+        },
+        {
+          "text": "suite",
+          "start": 42.56,
+          "end": 43.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous avez peut-être une fracture,",
+          "translations": {
+            "zh": "您可能有骨折，",
+            "en": "You may have a fracture,",
+            "es": "Tal vez tenga una fractura,"
+          },
+          "start": 39.04,
+          "end": 40.56
+        },
+        {
+          "text": "on va vous envoyer faire une radiographie",
+          "translations": {
+            "zh": "我们会安排您去拍X光片",
+            "en": "we're going to send you for an X-ray",
+            "es": "vamos a enviarle a hacer una radiografía"
+          },
+          "start": 40.96,
+          "end": 42.4
+        },
+        {
+          "text": "tout de suite.",
+          "translations": {
+            "zh": "马上。",
+            "en": "right away.",
+            "es": "enseguida."
+          },
+          "start": 42.4,
+          "end": 43.04
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Avez-vous d'autres symptômes ?",
+      "translations": {
+        "zh": "您还有其他症状吗？",
+        "en": "Do you have any other symptoms?",
+        "es": "¿Tiene otros síntomas?"
+      },
+      "start": 44.08,
+      "end": 45.28,
+      "words": [
+        {
+          "text": "Avez",
+          "start": 44.08,
+          "end": 44.24
+        },
+        {
+          "text": "vous",
+          "start": 44.24,
+          "end": 44.4
+        },
+        {
+          "text": "d'autres",
+          "start": 44.4,
+          "end": 44.56
+        },
+        {
+          "text": "symptômes",
+          "start": 44.56,
+          "end": 45.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Avez-vous d'autres symptômes ?",
+          "translations": {
+            "zh": "您还有其他症状吗？",
+            "en": "Do you have any other symptoms?",
+            "es": "¿Tiene otros síntomas?"
+          },
+          "start": 44.08,
+          "end": 45.28
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Vous êtes-vous frappé la tête lors de l'impact ?",
+      "translations": {
+        "zh": "撞击时您的头部有没有受到撞击？",
+        "en": "Did you hit your head during the impact?",
+        "es": "¿Se golpeó la cabeza durante el impacto?"
+      },
+      "start": 46.24,
+      "end": 48.16,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 46.24,
+          "end": 46.4
+        },
+        {
+          "text": "êtes",
+          "start": 46.4,
+          "end": 46.48
+        },
+        {
+          "text": "vous",
+          "start": 46.48,
+          "end": 46.56
+        },
+        {
+          "text": "frappé",
+          "start": 46.56,
+          "end": 46.88
+        },
+        {
+          "text": "la",
+          "start": 46.88,
+          "end": 47.04
+        },
+        {
+          "text": "tête",
+          "start": 47.04,
+          "end": 47.2
+        },
+        {
+          "text": "lors",
+          "start": 47.2,
+          "end": 47.36
+        },
+        {
+          "text": "de",
+          "start": 47.36,
+          "end": 47.44
+        },
+        {
+          "text": "l'impact",
+          "start": 47.44,
+          "end": 48.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous êtes-vous frappé la tête",
+          "translations": {
+            "zh": "您的头部有没有受到撞击",
+            "en": "Did you hit your head",
+            "es": "Se golpeó la cabeza"
+          },
+          "start": 46.24,
+          "end": 47.2
+        },
+        {
+          "text": "lors de l'impact ?",
+          "translations": {
+            "zh": "在撞击时？",
+            "en": "during the impact?",
+            "es": "durante el impacto?"
+          },
+          "start": 47.2,
+          "end": 48.16
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Non, je pense que je n'ai rien à part ma jambe.",
+      "translations": {
+        "zh": "没有，我觉得除了腿以外我没什么事。",
+        "en": "No, I think I have nothing apart from my leg.",
+        "es": "No, creo que no tengo nada aparte de la pierna."
+      },
+      "start": 48.48,
+      "end": 50.72,
+      "words": [
+        {
+          "text": "Non",
+          "start": 48.48,
+          "end": 49.04
+        },
+        {
+          "text": "je",
+          "start": 49.12,
+          "end": 49.2
+        },
+        {
+          "text": "pense",
+          "start": 49.2,
+          "end": 49.44
+        },
+        {
+          "text": "que",
+          "start": 49.44,
+          "end": 49.52
+        },
+        {
+          "text": "je",
+          "start": 49.52,
+          "end": 49.68
+        },
+        {
+          "text": "n'ai",
+          "start": 49.68,
+          "end": 49.92
+        },
+        {
+          "text": "rien",
+          "start": 49.92,
+          "end": 50.08
+        },
+        {
+          "text": "à",
+          "start": 50.08,
+          "end": 50.08
+        },
+        {
+          "text": "part",
+          "start": 50.08,
+          "end": 50.32
+        },
+        {
+          "text": "ma",
+          "start": 50.32,
+          "end": 50.4
+        },
+        {
+          "text": "jambe",
+          "start": 50.4,
+          "end": 50.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Non,",
+          "translations": {
+            "zh": "没有，",
+            "en": "No,",
+            "es": "No,"
+          },
+          "start": 48.48,
+          "end": 49.04
+        },
+        {
+          "text": "je pense que je n'ai rien",
+          "translations": {
+            "zh": "我觉得我没什么事",
+            "en": "I think I have nothing",
+            "es": "creo que no tengo nada"
+          },
+          "start": 49.12,
+          "end": 50.08
+        },
+        {
+          "text": "à part ma jambe.",
+          "translations": {
+            "zh": "除了腿以外。",
+            "en": "apart from my leg.",
+            "es": "aparte de la pierna."
+          },
+          "start": 50.08,
+          "end": 50.72
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "D'accord.",
+      "translations": {
+        "zh": "好的。",
+        "en": "All right.",
+        "es": "De acuerdo."
+      },
+      "start": 51.12,
+      "end": 52.08,
+      "words": [
+        {
+          "text": "D'accord",
+          "start": 51.12,
+          "end": 52.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'accord.",
+          "translations": {
+            "zh": "好的。",
+            "en": "All right.",
+            "es": "De acuerdo."
+          },
+          "start": 51.12,
+          "end": 52.08
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP10_P49",
+  "audio_filename": "FLS2_EP10_P49.mp3",
+  "audio_path": "downloads/FLS2_EP10_P49.mp3",
+  "episode": 10,
+  "piste": 49,
+  "page": 77,
+  "cd": "CD1"
+}

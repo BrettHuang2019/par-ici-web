@@ -1,0 +1,2351 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 13 Piste 23 Page 99",
+      "translations": {
+        "zh": "第13集 第23轨 第99页",
+        "en": "Episode 13 Track 23 Page 99",
+        "es": "Episodio 13 Pista 23 Página 99"
+      },
+      "start": 0.64,
+      "end": 9.28,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.64,
+          "end": 1.28
+        },
+        {
+          "text": "13",
+          "start": 1.84,
+          "end": 2.4
+        },
+        {
+          "text": "Piste",
+          "start": 3.2,
+          "end": 3.68
+        },
+        {
+          "text": "23",
+          "start": 4.0,
+          "end": 4.56
+        },
+        {
+          "text": "Page",
+          "start": 6.48,
+          "end": 6.88
+        },
+        {
+          "text": "99",
+          "start": 9.28,
+          "end": 9.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 13",
+          "translations": {
+            "zh": "第13集",
+            "en": "Episode 13",
+            "es": "Episodio 13"
+          },
+          "start": 0.64,
+          "end": 2.4
+        },
+        {
+          "text": "Piste 23",
+          "translations": {
+            "zh": "第23轨",
+            "en": "Track 23",
+            "es": "Pista 23"
+          },
+          "start": 3.2,
+          "end": 4.56
+        },
+        {
+          "text": "Page 99",
+          "translations": {
+            "zh": "第99页",
+            "en": "Page 99",
+            "es": "Página 99"
+          },
+          "start": 6.48,
+          "end": 9.28
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Tourisme Québec, bonjour.",
+      "translations": {
+        "zh": "魁北克旅游，您好。",
+        "en": "Tourisme Québec, hello.",
+        "es": "Turismo Quebec, buenos días."
+      },
+      "start": 9.28,
+      "end": 10.96,
+      "words": [
+        {
+          "text": "Tourisme",
+          "start": 9.28,
+          "end": 9.76
+        },
+        {
+          "text": "Québec",
+          "start": 9.76,
+          "end": 10.24
+        },
+        {
+          "text": "bonjour",
+          "start": 10.24,
+          "end": 10.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tourisme Québec,",
+          "translations": {
+            "zh": "魁北克旅游，",
+            "en": "Tourisme Québec,",
+            "es": "Turismo Quebec,"
+          },
+          "start": 9.28,
+          "end": 10.24
+        },
+        {
+          "text": "bonjour.",
+          "translations": {
+            "zh": "您好。",
+            "en": "hello.",
+            "es": "buenos días."
+          },
+          "start": 10.24,
+          "end": 10.96
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Comment puis-je vous aider ?",
+      "translations": {
+        "zh": "我能怎样帮助您？",
+        "en": "How can I help you?",
+        "es": "¿Cómo puedo ayudarle?"
+      },
+      "start": 11.28,
+      "end": 12.24,
+      "words": [
+        {
+          "text": "Comment",
+          "start": 11.28,
+          "end": 11.52
+        },
+        {
+          "text": "puis",
+          "start": 11.52,
+          "end": 11.68
+        },
+        {
+          "text": "je",
+          "start": 11.68,
+          "end": 11.76
+        },
+        {
+          "text": "vous",
+          "start": 11.76,
+          "end": 12.0
+        },
+        {
+          "text": "aider",
+          "start": 12.0,
+          "end": 12.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Comment puis-je",
+          "translations": {
+            "zh": "我怎么能",
+            "en": "How can I",
+            "es": "¿Cómo puedo"
+          },
+          "start": 11.28,
+          "end": 11.76
+        },
+        {
+          "text": "vous aider ?",
+          "translations": {
+            "zh": "帮助您？",
+            "en": "help you?",
+            "es": "ayudarle?"
+          },
+          "start": 11.76,
+          "end": 12.24
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Bonjour, j'aimerais connaitre les principaux attraits touristiques du Bas- Saint-Laurent, de la Gaspésie et des Îles- de-la-Madeleine.",
+      "translations": {
+        "zh": "您好，我想了解下圣劳伦斯、加斯佩和马德莱娜群岛的主要旅游景点。",
+        "en": "Hello, I would like to know the main tourist attractions of Bas-Saint-Laurent, of Gaspésie, and of the Îles-de-la-Madeleine.",
+        "es": "Buenos días, me gustaría conocer los principales atractivos turísticos del Bajo San Lorenzo, de la Gaspesia y de las Islas de la Magdalena."
+      },
+      "start": 12.8,
+      "end": 18.4,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 12.8,
+          "end": 13.2
+        },
+        {
+          "text": "j'aimerais",
+          "start": 13.44,
+          "end": 13.76
+        },
+        {
+          "text": "connaitre",
+          "start": 13.76,
+          "end": 14.08
+        },
+        {
+          "text": "les",
+          "start": 14.08,
+          "end": 14.16
+        },
+        {
+          "text": "principaux",
+          "start": 14.16,
+          "end": 14.72
+        },
+        {
+          "text": "attraits",
+          "start": 14.8,
+          "end": 15.04
+        },
+        {
+          "text": "touristiques",
+          "start": 15.04,
+          "end": 15.6
+        },
+        {
+          "text": "du",
+          "start": 15.6,
+          "end": 15.76
+        },
+        {
+          "text": "Bas",
+          "start": 15.76,
+          "end": 15.92
+        },
+        {
+          "text": "Saint",
+          "start": 15.92,
+          "end": 16.08
+        },
+        {
+          "text": "Laurent",
+          "start": 16.08,
+          "end": 16.32
+        },
+        {
+          "text": "de",
+          "start": 16.4,
+          "end": 16.48
+        },
+        {
+          "text": "la",
+          "start": 16.48,
+          "end": 16.56
+        },
+        {
+          "text": "Gaspésie",
+          "start": 16.56,
+          "end": 17.2
+        },
+        {
+          "text": "et",
+          "start": 17.28,
+          "end": 17.44
+        },
+        {
+          "text": "des",
+          "start": 17.44,
+          "end": 17.68
+        },
+        {
+          "text": "Îles",
+          "start": 17.68,
+          "end": 17.76
+        },
+        {
+          "text": "de",
+          "start": 17.76,
+          "end": 17.84
+        },
+        {
+          "text": "la",
+          "start": 17.84,
+          "end": 18.0
+        },
+        {
+          "text": "Madeleine",
+          "start": 18.0,
+          "end": 18.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Buenos días,"
+          },
+          "start": 12.8,
+          "end": 13.2
+        },
+        {
+          "text": "j'aimerais connaitre",
+          "translations": {
+            "zh": "我想了解",
+            "en": "I would like to know",
+            "es": "me gustaría conocer"
+          },
+          "start": 13.44,
+          "end": 14.08
+        },
+        {
+          "text": "les principaux attraits touristiques",
+          "translations": {
+            "zh": "主要旅游景点",
+            "en": "the main tourist attractions",
+            "es": "los principales atractivos turísticos"
+          },
+          "start": 14.08,
+          "end": 15.6
+        },
+        {
+          "text": "du Bas- Saint-Laurent,",
+          "translations": {
+            "zh": "下圣劳伦斯的，",
+            "en": "of Bas-Saint-Laurent,",
+            "es": "del Bajo San Lorenzo,"
+          },
+          "start": 15.6,
+          "end": 16.32
+        },
+        {
+          "text": "de la Gaspésie",
+          "translations": {
+            "zh": "加斯佩的",
+            "en": "of Gaspésie",
+            "es": "de la Gaspesia"
+          },
+          "start": 16.4,
+          "end": 17.2
+        },
+        {
+          "text": "et des Îles- de-la-Madeleine.",
+          "translations": {
+            "zh": "以及马德莱娜群岛的。",
+            "en": "and of the Îles-de-la-Madeleine.",
+            "es": "y de las Islas de la Magdalena."
+          },
+          "start": 17.28,
+          "end": 18.4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Vous habitez où ?",
+      "translations": {
+        "zh": "您住在哪儿？",
+        "en": "Where do you live?",
+        "es": "¿Usted vive dónde?"
+      },
+      "start": 18.8,
+      "end": 19.68,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 18.8,
+          "end": 19.04
+        },
+        {
+          "text": "habitez",
+          "start": 19.04,
+          "end": 19.44
+        },
+        {
+          "text": "où",
+          "start": 19.44,
+          "end": 19.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous habitez où ?",
+          "translations": {
+            "zh": "您住在哪儿？",
+            "en": "Where do you live?",
+            "es": "¿Usted vive dónde?"
+          },
+          "start": 18.8,
+          "end": 19.68
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "À Montréal.",
+      "translations": {
+        "zh": "在蒙特利尔。",
+        "en": "In Montreal.",
+        "es": "En Montreal."
+      },
+      "start": 20.0,
+      "end": 20.64,
+      "words": [
+        {
+          "text": "À",
+          "start": 20.0,
+          "end": 20.16
+        },
+        {
+          "text": "Montréal",
+          "start": 20.16,
+          "end": 20.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "À Montréal.",
+          "translations": {
+            "zh": "在蒙特利尔。",
+            "en": "In Montreal.",
+            "es": "En Montreal."
+          },
+          "start": 20.0,
+          "end": 20.64
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Je commence par la région la plus près de chez vous.",
+      "translations": {
+        "zh": "我先从离您最近的地区开始。",
+        "en": "I will start with the region closest to you.",
+        "es": "Empiezo por la región más cerca de su casa."
+      },
+      "start": 21.04,
+      "end": 23.12,
+      "words": [
+        {
+          "text": "Je",
+          "start": 21.04,
+          "end": 21.28
+        },
+        {
+          "text": "commence",
+          "start": 21.28,
+          "end": 21.6
+        },
+        {
+          "text": "par",
+          "start": 21.6,
+          "end": 21.76
+        },
+        {
+          "text": "la",
+          "start": 21.76,
+          "end": 21.84
+        },
+        {
+          "text": "région",
+          "start": 21.84,
+          "end": 22.24
+        },
+        {
+          "text": "la",
+          "start": 22.24,
+          "end": 22.4
+        },
+        {
+          "text": "plus",
+          "start": 22.4,
+          "end": 22.48
+        },
+        {
+          "text": "près",
+          "start": 22.48,
+          "end": 22.64
+        },
+        {
+          "text": "de",
+          "start": 22.64,
+          "end": 22.72
+        },
+        {
+          "text": "chez",
+          "start": 22.72,
+          "end": 22.88
+        },
+        {
+          "text": "vous",
+          "start": 22.88,
+          "end": 23.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je commence",
+          "translations": {
+            "zh": "我开始",
+            "en": "I will start",
+            "es": "Empiezo"
+          },
+          "start": 21.04,
+          "end": 21.6
+        },
+        {
+          "text": "par la région",
+          "translations": {
+            "zh": "从那个地区",
+            "en": "with the region",
+            "es": "por la región"
+          },
+          "start": 21.6,
+          "end": 22.24
+        },
+        {
+          "text": "la plus près de chez vous.",
+          "translations": {
+            "zh": "离您最近的。",
+            "en": "closest to you.",
+            "es": "más cerca de su casa."
+          },
+          "start": 22.24,
+          "end": 23.12
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Hiver comme été, vous apprécierez le parc national du Bic.",
+      "translations": {
+        "zh": "无论冬夏，您都会喜欢比克国家公园。",
+        "en": "Winter and summer alike, you will appreciate the national park of Bic.",
+        "es": "Tanto en invierno como en verano, apreciará el parque nacional del Bic."
+      },
+      "start": 23.36,
+      "end": 26.72,
+      "words": [
+        {
+          "text": "Hiver",
+          "start": 23.36,
+          "end": 23.76
+        },
+        {
+          "text": "comme",
+          "start": 23.76,
+          "end": 23.92
+        },
+        {
+          "text": "été",
+          "start": 23.92,
+          "end": 24.32
+        },
+        {
+          "text": "vous",
+          "start": 24.32,
+          "end": 24.64
+        },
+        {
+          "text": "apprécierez",
+          "start": 24.64,
+          "end": 25.36
+        },
+        {
+          "text": "le",
+          "start": 25.36,
+          "end": 25.52
+        },
+        {
+          "text": "parc",
+          "start": 25.52,
+          "end": 25.84
+        },
+        {
+          "text": "national",
+          "start": 25.84,
+          "end": 26.32
+        },
+        {
+          "text": "du",
+          "start": 26.32,
+          "end": 26.4
+        },
+        {
+          "text": "Bic",
+          "start": 26.4,
+          "end": 26.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Hiver comme été,",
+          "translations": {
+            "zh": "无论冬夏，",
+            "en": "Winter and summer alike,",
+            "es": "Tanto en invierno como en verano,"
+          },
+          "start": 23.36,
+          "end": 24.32
+        },
+        {
+          "text": "vous apprécierez",
+          "translations": {
+            "zh": "您会欣赏",
+            "en": "you will appreciate",
+            "es": "apreciará"
+          },
+          "start": 24.32,
+          "end": 25.36
+        },
+        {
+          "text": "le parc national du Bic.",
+          "translations": {
+            "zh": "比克国家公园。",
+            "en": "the national park of Bic.",
+            "es": "el parque nacional del Bic."
+          },
+          "start": 25.36,
+          "end": 26.72
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Si vous aimez les escapades à vélo, je vous conseille la Route verte qui longe le fleuve.",
+      "translations": {
+        "zh": "如果您喜欢骑自行车出游，我建议您走沿河的绿色之路。",
+        "en": "If you like cycling getaways, I recommend the Route verte that runs along the river.",
+        "es": "Si le gustan las escapadas en bicicleta, le aconsejo la Ruta verde que bordea el río."
+      },
+      "start": 27.28,
+      "end": 31.84,
+      "words": [
+        {
+          "text": "Si",
+          "start": 27.28,
+          "end": 27.44
+        },
+        {
+          "text": "vous",
+          "start": 27.44,
+          "end": 27.68
+        },
+        {
+          "text": "aimez",
+          "start": 27.68,
+          "end": 28.0
+        },
+        {
+          "text": "les",
+          "start": 28.0,
+          "end": 28.16
+        },
+        {
+          "text": "escapades",
+          "start": 28.16,
+          "end": 28.64
+        },
+        {
+          "text": "à",
+          "start": 28.64,
+          "end": 28.72
+        },
+        {
+          "text": "vélo",
+          "start": 28.72,
+          "end": 29.12
+        },
+        {
+          "text": "je",
+          "start": 29.6,
+          "end": 29.68
+        },
+        {
+          "text": "vous",
+          "start": 29.68,
+          "end": 29.76
+        },
+        {
+          "text": "conseille",
+          "start": 29.76,
+          "end": 30.16
+        },
+        {
+          "text": "la",
+          "start": 30.16,
+          "end": 30.32
+        },
+        {
+          "text": "Route",
+          "start": 30.32,
+          "end": 30.48
+        },
+        {
+          "text": "verte",
+          "start": 30.48,
+          "end": 30.88
+        },
+        {
+          "text": "qui",
+          "start": 30.88,
+          "end": 31.04
+        },
+        {
+          "text": "longe",
+          "start": 31.04,
+          "end": 31.28
+        },
+        {
+          "text": "le",
+          "start": 31.36,
+          "end": 31.44
+        },
+        {
+          "text": "fleuve",
+          "start": 31.44,
+          "end": 31.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Si vous aimez les escapades à vélo,",
+          "translations": {
+            "zh": "如果您喜欢骑自行车出游，",
+            "en": "If you like cycling getaways,",
+            "es": "Si le gustan las escapadas en bicicleta,"
+          },
+          "start": 27.28,
+          "end": 29.12
+        },
+        {
+          "text": "je vous conseille",
+          "translations": {
+            "zh": "我建议您",
+            "en": "I recommend to you",
+            "es": "le aconsejo"
+          },
+          "start": 29.6,
+          "end": 30.16
+        },
+        {
+          "text": "la Route verte",
+          "translations": {
+            "zh": "绿色之路",
+            "en": "the Route verte",
+            "es": "la Ruta verde"
+          },
+          "start": 30.16,
+          "end": 30.88
+        },
+        {
+          "text": "qui longe le fleuve.",
+          "translations": {
+            "zh": "沿着河流的。",
+            "en": "that runs along the river.",
+            "es": "que bordea el río."
+          },
+          "start": 30.88,
+          "end": 31.84
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "N'oubliez pas de visiter les merveilleux villages de Kamouraska et Cacouna.",
+      "translations": {
+        "zh": "别忘了去参观卡穆拉斯卡和卡库纳的美妙村庄。",
+        "en": "Don't forget to visit the wonderful villages of Kamouraska and Cacouna.",
+        "es": "No olvide visitar los maravillosos pueblos de Kamouraska y Cacouna."
+      },
+      "start": 32.48,
+      "end": 36.16,
+      "words": [
+        {
+          "text": "N'oubliez",
+          "start": 32.48,
+          "end": 32.88
+        },
+        {
+          "text": "pas",
+          "start": 32.88,
+          "end": 33.04
+        },
+        {
+          "text": "de",
+          "start": 33.04,
+          "end": 33.04
+        },
+        {
+          "text": "visiter",
+          "start": 33.04,
+          "end": 33.52
+        },
+        {
+          "text": "les",
+          "start": 33.52,
+          "end": 33.68
+        },
+        {
+          "text": "merveilleux",
+          "start": 33.68,
+          "end": 34.32
+        },
+        {
+          "text": "villages",
+          "start": 34.32,
+          "end": 34.72
+        },
+        {
+          "text": "de",
+          "start": 34.72,
+          "end": 34.8
+        },
+        {
+          "text": "Kamouraska",
+          "start": 34.8,
+          "end": 35.6
+        },
+        {
+          "text": "et",
+          "start": 35.68,
+          "end": 35.76
+        },
+        {
+          "text": "Cacouna",
+          "start": 35.76,
+          "end": 36.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "N'oubliez pas",
+          "translations": {
+            "zh": "别忘了",
+            "en": "Don't forget",
+            "es": "No olvide"
+          },
+          "start": 32.48,
+          "end": 33.04
+        },
+        {
+          "text": "de visiter",
+          "translations": {
+            "zh": "去参观",
+            "en": "to visit",
+            "es": "visitar"
+          },
+          "start": 33.04,
+          "end": 33.52
+        },
+        {
+          "text": "les merveilleux villages de Kamouraska et Cacouna.",
+          "translations": {
+            "zh": "卡穆拉斯卡和卡库纳的美妙村庄。",
+            "en": "the wonderful villages of Kamouraska and Cacouna.",
+            "es": "los maravillosos pueblos de Kamouraska y Cacouna."
+          },
+          "start": 33.52,
+          "end": 36.16
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "La Gaspésie est une péninsule de 30 341 km 2 bordée par les eaux du fleuve, du golfe Saint-Laurent et de la Baie des Chaleurs.",
+      "translations": {
+        "zh": "加斯佩是一个30 341平方公里的半岛，被河流、圣劳伦斯湾和沙勒尔湾的水域所环绕。",
+        "en": "Gaspésie is a peninsula of 30,341 km² bordered by the waters of the river, of the Gulf of Saint Lawrence, and of the Bay of Chaleur.",
+        "es": "La Gaspesia es una península de 30 341 km² bordeada por las aguas del río, del golfo de San Lorenzo y de la Bahía de los Chaleurs."
+      },
+      "start": 39.28,
+      "end": 48.96,
+      "words": [
+        {
+          "text": "La",
+          "start": 39.28,
+          "end": 39.44
+        },
+        {
+          "text": "Gaspésie",
+          "start": 39.44,
+          "end": 40.08
+        },
+        {
+          "text": "est",
+          "start": 40.08,
+          "end": 40.24
+        },
+        {
+          "text": "une",
+          "start": 40.24,
+          "end": 40.32
+        },
+        {
+          "text": "péninsule",
+          "start": 40.32,
+          "end": 41.12
+        },
+        {
+          "text": "de",
+          "start": 41.12,
+          "end": 41.28
+        },
+        {
+          "text": "30",
+          "start": 41.28,
+          "end": 42.56
+        },
+        {
+          "text": "341",
+          "start": 42.56,
+          "end": 43.2
+        },
+        {
+          "text": "km",
+          "start": 43.2,
+          "end": 43.76
+        },
+        {
+          "text": "2",
+          "start": 43.76,
+          "end": 44.16
+        },
+        {
+          "text": "bordée",
+          "start": 44.56,
+          "end": 44.96
+        },
+        {
+          "text": "par",
+          "start": 44.96,
+          "end": 45.2
+        },
+        {
+          "text": "les",
+          "start": 45.2,
+          "end": 45.44
+        },
+        {
+          "text": "eaux",
+          "start": 45.44,
+          "end": 45.52
+        },
+        {
+          "text": "du",
+          "start": 45.52,
+          "end": 45.68
+        },
+        {
+          "text": "fleuve",
+          "start": 45.68,
+          "end": 46.16
+        },
+        {
+          "text": "du",
+          "start": 46.56,
+          "end": 46.72
+        },
+        {
+          "text": "golfe",
+          "start": 46.72,
+          "end": 46.96
+        },
+        {
+          "text": "Saint",
+          "start": 46.96,
+          "end": 47.2
+        },
+        {
+          "text": "Laurent",
+          "start": 47.2,
+          "end": 47.52
+        },
+        {
+          "text": "et",
+          "start": 47.68,
+          "end": 47.84
+        },
+        {
+          "text": "de",
+          "start": 47.84,
+          "end": 47.92
+        },
+        {
+          "text": "la",
+          "start": 47.92,
+          "end": 48.08
+        },
+        {
+          "text": "Baie",
+          "start": 48.08,
+          "end": 48.24
+        },
+        {
+          "text": "des",
+          "start": 48.24,
+          "end": 48.32
+        },
+        {
+          "text": "Chaleurs",
+          "start": 48.32,
+          "end": 48.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La Gaspésie",
+          "translations": {
+            "zh": "加斯佩",
+            "en": "Gaspésie",
+            "es": "La Gaspesia"
+          },
+          "start": 39.28,
+          "end": 40.08
+        },
+        {
+          "text": "est une péninsule",
+          "translations": {
+            "zh": "是一个半岛",
+            "en": "is a peninsula",
+            "es": "es una península"
+          },
+          "start": 40.08,
+          "end": 41.12
+        },
+        {
+          "text": "de 30 341 km 2",
+          "translations": {
+            "zh": "面积30 341平方公里",
+            "en": "of 30,341 km²",
+            "es": "de 30 341 km²"
+          },
+          "start": 41.12,
+          "end": 44.16
+        },
+        {
+          "text": "bordée par les eaux du fleuve,",
+          "translations": {
+            "zh": "被河流水域环绕，",
+            "en": "bordered by the waters of the river,",
+            "es": "bordeada por las aguas del río,"
+          },
+          "start": 44.56,
+          "end": 46.16
+        },
+        {
+          "text": "du golfe Saint-Laurent",
+          "translations": {
+            "zh": "圣劳伦斯湾",
+            "en": "of the Gulf of Saint Lawrence",
+            "es": "del golfo de San Lorenzo"
+          },
+          "start": 46.56,
+          "end": 47.52
+        },
+        {
+          "text": "et de la Baie des Chaleurs.",
+          "translations": {
+            "zh": "以及沙勒尔湾的。",
+            "en": "and of the Bay of Chaleur.",
+            "es": "y de la Bahía de los Chaleurs."
+          },
+          "start": 47.68,
+          "end": 48.96
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Elle vous réserve de belles surprises, comme les parcs nationaux, le rocher Percé, les Jardins de Métis, les rivières à saumon et les colonies de fous de Bassan qui viennent faire leur nid et pondre sur les rochers de l'Île Bonaventure.",
+      "translations": {
+        "zh": "它会为您带来美好的惊喜，比如国家公园、佩尔塞岩石、梅蒂花园、鲑鱼河流，以及北方塘鹅群落，它们来在博纳旺蒂尔岛的岩石上筑巢产卵。",
+        "en": "It holds beautiful surprises for you, such as the national parks, Percé Rock, the Jardins de Métis, salmon rivers, and colonies of northern gannets that come to nest and lay their eggs on the rocks of Île Bonaventure.",
+        "es": "Le reserva bellas sorpresas, como los parques nacionales, la roca de Percé, los Jardines de Métis, los ríos de salmón y las colonias de alcatraces que vienen a hacer su nido y poner huevos sobre las rocas de la Isla Bonaventura."
+      },
+      "start": 49.76,
+      "end": 63.2,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 49.76,
+          "end": 49.92
+        },
+        {
+          "text": "vous",
+          "start": 49.92,
+          "end": 50.08
+        },
+        {
+          "text": "réserve",
+          "start": 50.08,
+          "end": 50.56
+        },
+        {
+          "text": "de",
+          "start": 50.56,
+          "end": 50.8
+        },
+        {
+          "text": "belles",
+          "start": 50.8,
+          "end": 51.12
+        },
+        {
+          "text": "surprises",
+          "start": 51.12,
+          "end": 51.84
+        },
+        {
+          "text": "comme",
+          "start": 52.16,
+          "end": 52.32
+        },
+        {
+          "text": "les",
+          "start": 52.32,
+          "end": 52.48
+        },
+        {
+          "text": "parcs",
+          "start": 52.48,
+          "end": 52.72
+        },
+        {
+          "text": "nationaux",
+          "start": 52.72,
+          "end": 53.28
+        },
+        {
+          "text": "le",
+          "start": 53.52,
+          "end": 53.68
+        },
+        {
+          "text": "rocher",
+          "start": 53.68,
+          "end": 54.0
+        },
+        {
+          "text": "Percé",
+          "start": 54.0,
+          "end": 54.64
+        },
+        {
+          "text": "les",
+          "start": 54.96,
+          "end": 55.12
+        },
+        {
+          "text": "Jardins",
+          "start": 55.12,
+          "end": 55.44
+        },
+        {
+          "text": "de",
+          "start": 55.44,
+          "end": 55.52
+        },
+        {
+          "text": "Métis",
+          "start": 55.52,
+          "end": 56.16
+        },
+        {
+          "text": "les",
+          "start": 56.4,
+          "end": 56.56
+        },
+        {
+          "text": "rivières",
+          "start": 56.56,
+          "end": 56.96
+        },
+        {
+          "text": "à",
+          "start": 56.96,
+          "end": 56.96
+        },
+        {
+          "text": "saumon",
+          "start": 56.96,
+          "end": 57.44
+        },
+        {
+          "text": "et",
+          "start": 57.76,
+          "end": 57.92
+        },
+        {
+          "text": "les",
+          "start": 57.92,
+          "end": 58.08
+        },
+        {
+          "text": "colonies",
+          "start": 58.08,
+          "end": 58.56
+        },
+        {
+          "text": "de",
+          "start": 58.56,
+          "end": 58.64
+        },
+        {
+          "text": "fous",
+          "start": 58.64,
+          "end": 58.88
+        },
+        {
+          "text": "de",
+          "start": 58.88,
+          "end": 58.96
+        },
+        {
+          "text": "Bassan",
+          "start": 58.96,
+          "end": 59.44
+        },
+        {
+          "text": "qui",
+          "start": 59.76,
+          "end": 59.92
+        },
+        {
+          "text": "viennent",
+          "start": 59.92,
+          "end": 60.16
+        },
+        {
+          "text": "faire",
+          "start": 60.16,
+          "end": 60.48
+        },
+        {
+          "text": "leur",
+          "start": 60.48,
+          "end": 60.64
+        },
+        {
+          "text": "nid",
+          "start": 60.64,
+          "end": 60.8
+        },
+        {
+          "text": "et",
+          "start": 60.88,
+          "end": 60.96
+        },
+        {
+          "text": "pondre",
+          "start": 60.96,
+          "end": 61.36
+        },
+        {
+          "text": "sur",
+          "start": 61.36,
+          "end": 61.6
+        },
+        {
+          "text": "les",
+          "start": 61.6,
+          "end": 61.76
+        },
+        {
+          "text": "rochers",
+          "start": 61.76,
+          "end": 62.08
+        },
+        {
+          "text": "de",
+          "start": 62.08,
+          "end": 62.16
+        },
+        {
+          "text": "l'Île",
+          "start": 62.16,
+          "end": 62.4
+        },
+        {
+          "text": "Bonaventure",
+          "start": 62.4,
+          "end": 63.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle vous réserve de belles surprises,",
+          "translations": {
+            "zh": "它为您准备了美好的惊喜，",
+            "en": "It holds beautiful surprises for you,",
+            "es": "Le reserva bellas sorpresas,"
+          },
+          "start": 49.76,
+          "end": 51.84
+        },
+        {
+          "text": "comme les parcs nationaux,",
+          "translations": {
+            "zh": "比如国家公园，",
+            "en": "such as the national parks,",
+            "es": "como los parques nacionales,"
+          },
+          "start": 52.16,
+          "end": 53.28
+        },
+        {
+          "text": "le rocher Percé,",
+          "translations": {
+            "zh": "佩尔塞岩石，",
+            "en": "Percé Rock,",
+            "es": "la roca de Percé,"
+          },
+          "start": 53.52,
+          "end": 54.64
+        },
+        {
+          "text": "les Jardins de Métis,",
+          "translations": {
+            "zh": "梅蒂花园，",
+            "en": "the Jardins de Métis,",
+            "es": "los Jardines de Métis,"
+          },
+          "start": 54.96,
+          "end": 56.16
+        },
+        {
+          "text": "les rivières à saumon",
+          "translations": {
+            "zh": "鲑鱼河流",
+            "en": "salmon rivers",
+            "es": "los ríos de salmón"
+          },
+          "start": 56.4,
+          "end": 57.44
+        },
+        {
+          "text": "et les colonies de fous de Bassan",
+          "translations": {
+            "zh": "以及北方塘鹅群落",
+            "en": "and colonies of northern gannets",
+            "es": "y las colonias de alcatraces"
+          },
+          "start": 57.76,
+          "end": 59.44
+        },
+        {
+          "text": "qui viennent faire leur nid",
+          "translations": {
+            "zh": "它们来筑巢",
+            "en": "that come to nest",
+            "es": "que vienen a hacer su nido"
+          },
+          "start": 59.76,
+          "end": 60.8
+        },
+        {
+          "text": "et pondre sur les rochers de l'Île Bonaventure.",
+          "translations": {
+            "zh": "并在博纳旺蒂尔岛的岩石上产卵。",
+            "en": "and lay eggs on the rocks of Île Bonaventure.",
+            "es": "y poner huevos sobre las rocas de la Isla Bonaventura."
+          },
+          "start": 60.88,
+          "end": 63.2
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Chaque année, la Gaspésie attire des milliers de touristes.",
+      "translations": {
+        "zh": "每年，加斯佩吸引成千上万的游客。",
+        "en": "Every year, Gaspésie attracts thousands of tourists.",
+        "es": "Cada año, la Gaspesia atrae a miles de turistas."
+      },
+      "start": 64.0,
+      "end": 67.76,
+      "words": [
+        {
+          "text": "Chaque",
+          "start": 64.0,
+          "end": 64.32
+        },
+        {
+          "text": "année",
+          "start": 64.32,
+          "end": 64.64
+        },
+        {
+          "text": "la",
+          "start": 65.12,
+          "end": 65.28
+        },
+        {
+          "text": "Gaspésie",
+          "start": 65.28,
+          "end": 65.92
+        },
+        {
+          "text": "attire",
+          "start": 65.92,
+          "end": 66.4
+        },
+        {
+          "text": "des",
+          "start": 66.4,
+          "end": 66.56
+        },
+        {
+          "text": "milliers",
+          "start": 66.56,
+          "end": 67.04
+        },
+        {
+          "text": "de",
+          "start": 67.04,
+          "end": 67.04
+        },
+        {
+          "text": "touristes",
+          "start": 67.12,
+          "end": 67.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Chaque année,",
+          "translations": {
+            "zh": "每年，",
+            "en": "Every year,",
+            "es": "Cada año,"
+          },
+          "start": 64.0,
+          "end": 64.64
+        },
+        {
+          "text": "la Gaspésie attire",
+          "translations": {
+            "zh": "加斯佩吸引",
+            "en": "Gaspésie attracts",
+            "es": "la Gaspesia atrae"
+          },
+          "start": 65.12,
+          "end": 66.4
+        },
+        {
+          "text": "des milliers de touristes.",
+          "translations": {
+            "zh": "成千上万的游客。",
+            "en": "thousands of tourists.",
+            "es": "a miles de turistas."
+          },
+          "start": 66.4,
+          "end": 67.76
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Enfin, les Îles-de-la-Madeleine se situent au cœur du golfe du Saint- Laurent, à environ 200 km de la péninsule gaspésienne.",
+      "translations": {
+        "zh": "最后，马德莱娜群岛位于圣劳伦斯湾的中心，距离加斯佩半岛约200公里。",
+        "en": "Finally, the Îles-de-la-Madeleine are located in the heart of the Gulf of Saint Lawrence, about 200 km from the Gaspésie peninsula.",
+        "es": "Por último, las Islas de la Magdalena se sitúan en el corazón del golfo de San Lorenzo, a unos 200 km de la península gaspesiana."
+      },
+      "start": 69.12,
+      "end": 76.96,
+      "words": [
+        {
+          "text": "Enfin",
+          "start": 69.12,
+          "end": 69.6
+        },
+        {
+          "text": "les",
+          "start": 70.24,
+          "end": 70.56
+        },
+        {
+          "text": "Îles",
+          "start": 70.56,
+          "end": 70.72
+        },
+        {
+          "text": "de",
+          "start": 70.72,
+          "end": 70.8
+        },
+        {
+          "text": "la",
+          "start": 70.8,
+          "end": 70.96
+        },
+        {
+          "text": "Madeleine",
+          "start": 70.96,
+          "end": 71.44
+        },
+        {
+          "text": "se",
+          "start": 71.44,
+          "end": 71.6
+        },
+        {
+          "text": "situent",
+          "start": 71.6,
+          "end": 72.16
+        },
+        {
+          "text": "au",
+          "start": 72.24,
+          "end": 72.4
+        },
+        {
+          "text": "cœur",
+          "start": 72.48,
+          "end": 72.8
+        },
+        {
+          "text": "du",
+          "start": 72.8,
+          "end": 72.96
+        },
+        {
+          "text": "golfe",
+          "start": 72.96,
+          "end": 73.36
+        },
+        {
+          "text": "du",
+          "start": 73.36,
+          "end": 73.36
+        },
+        {
+          "text": "Saint",
+          "start": 73.44,
+          "end": 73.6
+        },
+        {
+          "text": "Laurent",
+          "start": 73.6,
+          "end": 73.92
+        },
+        {
+          "text": "à",
+          "start": 74.08,
+          "end": 74.08
+        },
+        {
+          "text": "environ",
+          "start": 74.16,
+          "end": 74.64
+        },
+        {
+          "text": "200",
+          "start": 74.64,
+          "end": 75.12
+        },
+        {
+          "text": "km",
+          "start": 75.12,
+          "end": 75.6
+        },
+        {
+          "text": "de",
+          "start": 75.6,
+          "end": 75.68
+        },
+        {
+          "text": "la",
+          "start": 75.68,
+          "end": 75.84
+        },
+        {
+          "text": "péninsule",
+          "start": 75.84,
+          "end": 76.4
+        },
+        {
+          "text": "gaspésienne",
+          "start": 76.4,
+          "end": 76.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Enfin,",
+          "translations": {
+            "zh": "最后，",
+            "en": "Finally,",
+            "es": "Por último,"
+          },
+          "start": 69.12,
+          "end": 69.6
+        },
+        {
+          "text": "les Îles-de-la-Madeleine se situent",
+          "translations": {
+            "zh": "马德莱娜群岛位于",
+            "en": "the Îles-de-la-Madeleine are located",
+            "es": "las Islas de la Magdalena se sitúan"
+          },
+          "start": 70.24,
+          "end": 72.16
+        },
+        {
+          "text": "au cœur du golfe du Saint- Laurent,",
+          "translations": {
+            "zh": "圣劳伦斯湾的中心，",
+            "en": "in the heart of the Gulf of Saint Lawrence,",
+            "es": "en el corazón del golfo de San Lorenzo,"
+          },
+          "start": 72.24,
+          "end": 73.92
+        },
+        {
+          "text": "à environ 200 km",
+          "translations": {
+            "zh": "约200公里",
+            "en": "about 200 km",
+            "es": "a unos 200 km"
+          },
+          "start": 74.08,
+          "end": 75.6
+        },
+        {
+          "text": "de la péninsule gaspésienne.",
+          "translations": {
+            "zh": "距离加斯佩半岛。",
+            "en": "from the Gaspésie peninsula.",
+            "es": "de la península gaspesiana."
+          },
+          "start": 75.6,
+          "end": 76.96
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Je vous recommande de visiter cet archipel ile par ile pour mieux profiter des paysages et des Madelinots, qui sont des gens généreux et fiers de leur patrimoine et de leur gastronomie.",
+      "translations": {
+        "zh": "我建议您逐岛参观这个群岛，以更好地欣赏风景和马德莱娜岛民，他们是慷慨的人，为自己的遗产和美食感到自豪。",
+        "en": "I recommend that you visit this archipelago island by island to better enjoy the landscapes and the Madelinots, who are generous people proud of their heritage and of their gastronomy.",
+        "es": "Le recomiendo visitar este archipiélago isla por isla para aprovechar mejor los paisajes y a los magdaleneros, que son personas generosas y orgullosas de su patrimonio y de su gastronomía."
+      },
+      "start": 77.92,
+      "end": 89.6,
+      "words": [
+        {
+          "text": "Je",
+          "start": 77.92,
+          "end": 78.08
+        },
+        {
+          "text": "vous",
+          "start": 78.08,
+          "end": 78.24
+        },
+        {
+          "text": "recommande",
+          "start": 78.24,
+          "end": 78.72
+        },
+        {
+          "text": "de",
+          "start": 78.72,
+          "end": 78.8
+        },
+        {
+          "text": "visiter",
+          "start": 78.8,
+          "end": 79.36
+        },
+        {
+          "text": "cet",
+          "start": 79.36,
+          "end": 79.6
+        },
+        {
+          "text": "archipel",
+          "start": 79.6,
+          "end": 80.32
+        },
+        {
+          "text": "ile",
+          "start": 80.48,
+          "end": 80.8
+        },
+        {
+          "text": "par",
+          "start": 80.8,
+          "end": 81.12
+        },
+        {
+          "text": "ile",
+          "start": 81.12,
+          "end": 81.36
+        },
+        {
+          "text": "pour",
+          "start": 81.76,
+          "end": 81.92
+        },
+        {
+          "text": "mieux",
+          "start": 81.92,
+          "end": 82.08
+        },
+        {
+          "text": "profiter",
+          "start": 82.08,
+          "end": 82.64
+        },
+        {
+          "text": "des",
+          "start": 82.64,
+          "end": 82.72
+        },
+        {
+          "text": "paysages",
+          "start": 82.72,
+          "end": 83.6
+        },
+        {
+          "text": "et",
+          "start": 83.76,
+          "end": 83.84
+        },
+        {
+          "text": "des",
+          "start": 83.84,
+          "end": 84.0
+        },
+        {
+          "text": "Madelinots",
+          "start": 84.0,
+          "end": 84.64
+        },
+        {
+          "text": "qui",
+          "start": 85.04,
+          "end": 85.12
+        },
+        {
+          "text": "sont",
+          "start": 85.12,
+          "end": 85.36
+        },
+        {
+          "text": "des",
+          "start": 85.36,
+          "end": 85.6
+        },
+        {
+          "text": "gens",
+          "start": 85.6,
+          "end": 85.92
+        },
+        {
+          "text": "généreux",
+          "start": 85.92,
+          "end": 86.72
+        },
+        {
+          "text": "et",
+          "start": 86.8,
+          "end": 86.88
+        },
+        {
+          "text": "fiers",
+          "start": 86.88,
+          "end": 87.36
+        },
+        {
+          "text": "de",
+          "start": 87.36,
+          "end": 87.44
+        },
+        {
+          "text": "leur",
+          "start": 87.44,
+          "end": 87.68
+        },
+        {
+          "text": "patrimoine",
+          "start": 87.68,
+          "end": 88.4
+        },
+        {
+          "text": "et",
+          "start": 88.56,
+          "end": 88.64
+        },
+        {
+          "text": "de",
+          "start": 88.64,
+          "end": 88.72
+        },
+        {
+          "text": "leur",
+          "start": 88.72,
+          "end": 88.96
+        },
+        {
+          "text": "gastronomie",
+          "start": 88.96,
+          "end": 89.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vous recommande",
+          "translations": {
+            "zh": "我建议您",
+            "en": "I recommend to you",
+            "es": "Le recomiendo"
+          },
+          "start": 77.92,
+          "end": 78.72
+        },
+        {
+          "text": "de visiter cet archipel",
+          "translations": {
+            "zh": "参观这个群岛",
+            "en": "visiting this archipelago",
+            "es": "visitar este archipiélago"
+          },
+          "start": 78.72,
+          "end": 80.32
+        },
+        {
+          "text": "ile par ile",
+          "translations": {
+            "zh": "逐个岛屿",
+            "en": "island by island",
+            "es": "isla por isla"
+          },
+          "start": 80.48,
+          "end": 81.36
+        },
+        {
+          "text": "pour mieux profiter",
+          "translations": {
+            "zh": "以更好地享受",
+            "en": "to better enjoy",
+            "es": "para aprovechar mejor"
+          },
+          "start": 81.76,
+          "end": 82.64
+        },
+        {
+          "text": "des paysages et des Madelinots,",
+          "translations": {
+            "zh": "风景和马德莱娜岛民，",
+            "en": "the landscapes and the Madelinots,",
+            "es": "los paisajes y a los magdaleneros,"
+          },
+          "start": 82.64,
+          "end": 84.64
+        },
+        {
+          "text": "qui sont des gens généreux",
+          "translations": {
+            "zh": "他们是慷慨的人",
+            "en": "who are generous people",
+            "es": "que son personas generosas"
+          },
+          "start": 85.04,
+          "end": 86.72
+        },
+        {
+          "text": "et fiers de leur patrimoine",
+          "translations": {
+            "zh": "并为自己的遗产感到自豪",
+            "en": "and proud of their heritage",
+            "es": "y orgullosas de su patrimonio"
+          },
+          "start": 86.8,
+          "end": 88.4
+        },
+        {
+          "text": "et de leur gastronomie.",
+          "translations": {
+            "zh": "以及自己的美食。",
+            "en": "and of their gastronomy.",
+            "es": "y de su gastronomía."
+          },
+          "start": 88.56,
+          "end": 89.6
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Merci pour cet aperçu !",
+      "translations": {
+        "zh": "谢谢您的介绍！",
+        "en": "Thank you for this overview!",
+        "es": "¡Gracias por este panorama!"
+      },
+      "start": 90.32,
+      "end": 91.52,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 90.32,
+          "end": 90.72
+        },
+        {
+          "text": "pour",
+          "start": 90.72,
+          "end": 90.88
+        },
+        {
+          "text": "cet",
+          "start": 90.88,
+          "end": 91.04
+        },
+        {
+          "text": "aperçu",
+          "start": 91.04,
+          "end": 91.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci pour cet aperçu !",
+          "translations": {
+            "zh": "谢谢您的介绍！",
+            "en": "Thank you for this overview!",
+            "es": "¡Gracias por este panorama!"
+          },
+          "start": 90.32,
+          "end": 91.52
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Est-ce que vous pouvez m'envoyer le guide touristique du Québec ?",
+      "translations": {
+        "zh": "您能给我寄一份魁北克的旅游指南吗？",
+        "en": "Can you send me the tourist guide of Quebec?",
+        "es": "¿Puede enviarme la guía turística de Quebec?"
+      },
+      "start": 92.64,
+      "end": 95.12,
+      "words": [
+        {
+          "text": "Est",
+          "start": 92.64,
+          "end": 92.8
+        },
+        {
+          "text": "ce",
+          "start": 92.8,
+          "end": 92.88
+        },
+        {
+          "text": "que",
+          "start": 92.88,
+          "end": 92.96
+        },
+        {
+          "text": "vous",
+          "start": 92.96,
+          "end": 93.04
+        },
+        {
+          "text": "pouvez",
+          "start": 93.04,
+          "end": 93.28
+        },
+        {
+          "text": "m'envoyer",
+          "start": 93.28,
+          "end": 93.68
+        },
+        {
+          "text": "le",
+          "start": 93.68,
+          "end": 93.76
+        },
+        {
+          "text": "guide",
+          "start": 93.76,
+          "end": 94.08
+        },
+        {
+          "text": "touristique",
+          "start": 94.08,
+          "end": 94.56
+        },
+        {
+          "text": "du",
+          "start": 94.56,
+          "end": 94.72
+        },
+        {
+          "text": "Québec",
+          "start": 94.72,
+          "end": 95.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que vous pouvez",
+          "translations": {
+            "zh": "您能不能",
+            "en": "Can you",
+            "es": "¿Puede"
+          },
+          "start": 92.64,
+          "end": 93.28
+        },
+        {
+          "text": "m'envoyer",
+          "translations": {
+            "zh": "给我寄",
+            "en": "send me",
+            "es": "enviarme"
+          },
+          "start": 93.28,
+          "end": 93.68
+        },
+        {
+          "text": "le guide touristique du Québec ?",
+          "translations": {
+            "zh": "魁北克的旅游指南？",
+            "en": "the tourist guide of Quebec?",
+            "es": "la guía turística de Quebec?"
+          },
+          "start": 93.68,
+          "end": 95.12
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Je vous donne plutôt l'adresse de notre site Web, vous y trouverez toutes les informations dont vous avez besoin.",
+      "translations": {
+        "zh": "我给您我们的网站地址吧，您会在那里找到您需要的所有信息。",
+        "en": "I will give you instead the address of our website; you will find there all the information that you need.",
+        "es": "Le doy más bien la dirección de nuestro sitio web, allí encontrará toda la información que necesita."
+      },
+      "start": 95.76,
+      "end": 101.04,
+      "words": [
+        {
+          "text": "Je",
+          "start": 95.76,
+          "end": 95.92
+        },
+        {
+          "text": "vous",
+          "start": 95.92,
+          "end": 96.08
+        },
+        {
+          "text": "donne",
+          "start": 96.08,
+          "end": 96.32
+        },
+        {
+          "text": "plutôt",
+          "start": 96.32,
+          "end": 96.56
+        },
+        {
+          "text": "l'adresse",
+          "start": 96.56,
+          "end": 97.04
+        },
+        {
+          "text": "de",
+          "start": 97.04,
+          "end": 97.12
+        },
+        {
+          "text": "notre",
+          "start": 97.2,
+          "end": 97.6
+        },
+        {
+          "text": "site",
+          "start": 97.6,
+          "end": 97.92
+        },
+        {
+          "text": "Web",
+          "start": 97.92,
+          "end": 98.24
+        },
+        {
+          "text": "vous",
+          "start": 98.4,
+          "end": 98.56
+        },
+        {
+          "text": "y",
+          "start": 98.56,
+          "end": 98.72
+        },
+        {
+          "text": "trouverez",
+          "start": 98.72,
+          "end": 99.2
+        },
+        {
+          "text": "toutes",
+          "start": 99.2,
+          "end": 99.44
+        },
+        {
+          "text": "les",
+          "start": 99.44,
+          "end": 99.6
+        },
+        {
+          "text": "informations",
+          "start": 99.6,
+          "end": 100.24
+        },
+        {
+          "text": "dont",
+          "start": 100.24,
+          "end": 100.32
+        },
+        {
+          "text": "vous",
+          "start": 100.32,
+          "end": 100.56
+        },
+        {
+          "text": "avez",
+          "start": 100.56,
+          "end": 100.72
+        },
+        {
+          "text": "besoin",
+          "start": 100.72,
+          "end": 101.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vous donne plutôt",
+          "translations": {
+            "zh": "我倒不如给您",
+            "en": "I will give you instead",
+            "es": "Le doy más bien"
+          },
+          "start": 95.76,
+          "end": 96.56
+        },
+        {
+          "text": "l'adresse de notre site Web,",
+          "translations": {
+            "zh": "我们的网站地址，",
+            "en": "the address of our website,",
+            "es": "la dirección de nuestro sitio web,"
+          },
+          "start": 96.56,
+          "end": 98.24
+        },
+        {
+          "text": "vous y trouverez",
+          "translations": {
+            "zh": "您会在那里找到",
+            "en": "you will find there",
+            "es": "allí encontrará"
+          },
+          "start": 98.4,
+          "end": 99.2
+        },
+        {
+          "text": "toutes les informations",
+          "translations": {
+            "zh": "所有信息",
+            "en": "all the information",
+            "es": "toda la información"
+          },
+          "start": 99.2,
+          "end": 100.24
+        },
+        {
+          "text": "dont vous avez besoin.",
+          "translations": {
+            "zh": "您需要的。",
+            "en": "that you need.",
+            "es": "que necesita."
+          },
+          "start": 100.24,
+          "end": 101.04
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Il s'agit du www.tourismequebec.com.",
+      "translations": {
+        "zh": "网址是 www.tourismequebec.com。",
+        "en": "It is www.tourismequebec.com.",
+        "es": "Se trata de www.tourismequebec.com."
+      },
+      "start": 101.52,
+      "end": 105.52,
+      "words": [
+        {
+          "text": "Il",
+          "start": 101.52,
+          "end": 101.6
+        },
+        {
+          "text": "s'agit",
+          "start": 101.6,
+          "end": 102.08
+        },
+        {
+          "text": "du",
+          "start": 102.08,
+          "end": 102.32
+        },
+        {
+          "text": "www",
+          "start": 102.32,
+          "end": 102.88
+        },
+        {
+          "text": "tourismequebec",
+          "start": 102.88,
+          "end": 103.76
+        },
+        {
+          "text": "com",
+          "start": 105.2,
+          "end": 105.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il s'agit du",
+          "translations": {
+            "zh": "也就是",
+            "en": "It is",
+            "es": "Se trata de"
+          },
+          "start": 101.52,
+          "end": 102.32
+        },
+        {
+          "text": "www.tourismequebec.com.",
+          "translations": {
+            "zh": "www.tourismequebec.com。",
+            "en": "www.tourismequebec.com.",
+            "es": "www.tourismequebec.com."
+          },
+          "start": 102.32,
+          "end": 105.52
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Merci beaucoup !",
+      "translations": {
+        "zh": "非常感谢！",
+        "en": "Thank you very much!",
+        "es": "¡Muchas gracias!"
+      },
+      "start": 106.16,
+      "end": 106.72,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 106.16,
+          "end": 106.16
+        },
+        {
+          "text": "beaucoup",
+          "start": 106.4,
+          "end": 106.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci beaucoup !",
+          "translations": {
+            "zh": "非常感谢！",
+            "en": "Thank you very much!",
+            "es": "¡Muchas gracias!"
+          },
+          "start": 106.16,
+          "end": 106.72
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Au revoir.",
+      "translations": {
+        "zh": "再见。",
+        "en": "Goodbye.",
+        "es": "Adiós."
+      },
+      "start": 107.04,
+      "end": 107.52,
+      "words": [
+        {
+          "text": "Au",
+          "start": 107.04,
+          "end": 107.2
+        },
+        {
+          "text": "revoir",
+          "start": 107.2,
+          "end": 107.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Au revoir.",
+          "translations": {
+            "zh": "再见。",
+            "en": "Goodbye.",
+            "es": "Adiós."
+          },
+          "start": 107.04,
+          "end": 107.52
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP13_P23",
+  "audio_filename": "FLS2_EP13_P23.mp3",
+  "audio_path": "downloads/FLS2_EP13_P23.mp3",
+  "episode": 13,
+  "piste": 23,
+  "page": 99,
+  "cd": "CD2"
+}

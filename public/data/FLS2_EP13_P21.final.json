@@ -1,0 +1,2276 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 13 Piste 21 Page 98",
+      "translations": {
+        "zh": "第13集 第21音轨 第98页",
+        "en": "Episode 13 Track 21 Page 98",
+        "es": "Episodio 13 Pista 21 Página 98"
+      },
+      "start": 0.64,
+      "end": 7.92,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.64,
+          "end": 1.28
+        },
+        {
+          "text": "13",
+          "start": 1.84,
+          "end": 2.4
+        },
+        {
+          "text": "Piste",
+          "start": 3.2,
+          "end": 3.68
+        },
+        {
+          "text": "21",
+          "start": 4.0,
+          "end": 4.56
+        },
+        {
+          "text": "Page",
+          "start": 4.56,
+          "end": 4.56
+        },
+        {
+          "text": "98",
+          "start": 4.56,
+          "end": 7.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 13",
+          "translations": {
+            "zh": "第13集",
+            "en": "Episode 13",
+            "es": "Episodio 13"
+          },
+          "start": 0.64,
+          "end": 2.4
+        },
+        {
+          "text": "Piste 21",
+          "translations": {
+            "zh": "第21音轨",
+            "en": "Track 21",
+            "es": "Pista 21"
+          },
+          "start": 3.2,
+          "end": 4.56
+        },
+        {
+          "text": "Page 98",
+          "translations": {
+            "zh": "第98页",
+            "en": "Page 98",
+            "es": "Página 98"
+          },
+          "start": 4.56,
+          "end": 7.92
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bonjour, bienvenue aux Produits du terroir !",
+      "translations": {
+        "zh": "您好，欢迎来到乡土特产店！",
+        "en": "Hello, welcome to Local Products!",
+        "es": "Hola, bienvenidos a los Productos del terroir!"
+      },
+      "start": 9.76,
+      "end": 12.56,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 9.76,
+          "end": 10.64
+        },
+        {
+          "text": "bienvenue",
+          "start": 10.64,
+          "end": 11.2
+        },
+        {
+          "text": "aux",
+          "start": 11.2,
+          "end": 11.36
+        },
+        {
+          "text": "Produits",
+          "start": 11.36,
+          "end": 11.68
+        },
+        {
+          "text": "du",
+          "start": 11.68,
+          "end": 11.84
+        },
+        {
+          "text": "terroir",
+          "start": 11.84,
+          "end": 12.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 9.76,
+          "end": 10.64
+        },
+        {
+          "text": "bienvenue aux Produits du terroir !",
+          "translations": {
+            "zh": "欢迎来到乡土特产店！",
+            "en": "welcome to Local Products!",
+            "es": "bienvenidos a los Productos del terroir!"
+          },
+          "start": 10.64,
+          "end": 12.56
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Vous trouverez ici une sélection de produits qui viennent des différentes régions du Québec.",
+      "translations": {
+        "zh": "您在这里会找到一系列来自魁北克不同地区的产品。",
+        "en": "You will find here a selection of products that come from the different regions of Quebec.",
+        "es": "Encontrará aquí una selección de productos que provienen de las diferentes regiones de Quebec."
+      },
+      "start": 13.12,
+      "end": 17.52,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 13.12,
+          "end": 13.28
+        },
+        {
+          "text": "trouverez",
+          "start": 13.28,
+          "end": 13.68
+        },
+        {
+          "text": "ici",
+          "start": 13.76,
+          "end": 14.0
+        },
+        {
+          "text": "une",
+          "start": 14.0,
+          "end": 14.16
+        },
+        {
+          "text": "sélection",
+          "start": 14.16,
+          "end": 14.72
+        },
+        {
+          "text": "de",
+          "start": 14.72,
+          "end": 14.72
+        },
+        {
+          "text": "produits",
+          "start": 14.72,
+          "end": 15.28
+        },
+        {
+          "text": "qui",
+          "start": 15.28,
+          "end": 15.44
+        },
+        {
+          "text": "viennent",
+          "start": 15.44,
+          "end": 15.76
+        },
+        {
+          "text": "des",
+          "start": 15.76,
+          "end": 15.92
+        },
+        {
+          "text": "différentes",
+          "start": 15.92,
+          "end": 16.48
+        },
+        {
+          "text": "régions",
+          "start": 16.48,
+          "end": 16.8
+        },
+        {
+          "text": "du",
+          "start": 16.8,
+          "end": 16.96
+        },
+        {
+          "text": "Québec",
+          "start": 16.96,
+          "end": 17.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous trouverez ici",
+          "translations": {
+            "zh": "您在这里会找到",
+            "en": "You will find here",
+            "es": "Encontrará aquí"
+          },
+          "start": 13.12,
+          "end": 14.0
+        },
+        {
+          "text": "une sélection de produits",
+          "translations": {
+            "zh": "一系列产品",
+            "en": "a selection of products",
+            "es": "una selección de productos"
+          },
+          "start": 14.0,
+          "end": 15.28
+        },
+        {
+          "text": "qui viennent des différentes régions du Québec.",
+          "translations": {
+            "zh": "来自魁北克不同地区的产品。",
+            "en": "that come from the different regions of Quebec.",
+            "es": "que provienen de las diferentes regiones de Quebec."
+          },
+          "start": 15.28,
+          "end": 17.52
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Wow !",
+      "translations": {
+        "zh": "哇！",
+        "en": "Wow!",
+        "es": "¡Wow!"
+      },
+      "start": 18.48,
+      "end": 19.2,
+      "words": [
+        {
+          "text": "Wow",
+          "start": 18.48,
+          "end": 19.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Wow !",
+          "translations": {
+            "zh": "哇！",
+            "en": "Wow!",
+            "es": "¡Wow!"
+          },
+          "start": 18.48,
+          "end": 19.2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Il y en a des produits du terroir, ici !",
+      "translations": {
+        "zh": "这里的乡土特产真多啊！",
+        "en": "There are a lot of local products here!",
+        "es": "¡Hay productos del terroir aquí!"
+      },
+      "start": 20.0,
+      "end": 21.92,
+      "words": [
+        {
+          "text": "Il",
+          "start": 20.0,
+          "end": 20.08
+        },
+        {
+          "text": "y",
+          "start": 20.08,
+          "end": 20.16
+        },
+        {
+          "text": "en",
+          "start": 20.16,
+          "end": 20.32
+        },
+        {
+          "text": "a",
+          "start": 20.32,
+          "end": 20.4
+        },
+        {
+          "text": "des",
+          "start": 20.4,
+          "end": 20.56
+        },
+        {
+          "text": "produits",
+          "start": 20.56,
+          "end": 20.88
+        },
+        {
+          "text": "du",
+          "start": 20.88,
+          "end": 20.96
+        },
+        {
+          "text": "terroir",
+          "start": 20.96,
+          "end": 21.44
+        },
+        {
+          "text": "ici",
+          "start": 21.44,
+          "end": 21.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il y en a des produits du terroir,",
+          "translations": {
+            "zh": "乡土特产真多，",
+            "en": "There are a lot of local products,",
+            "es": "Hay productos del terroir,"
+          },
+          "start": 20.0,
+          "end": 21.44
+        },
+        {
+          "text": "ici !",
+          "translations": {
+            "zh": "在这里！",
+            "en": "here!",
+            "es": "aquí!"
+          },
+          "start": 21.44,
+          "end": 21.92
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Je reçois des amis italiens pour l'apéro et j'aimerais leur servir seulement des fromages québécois...",
+      "translations": {
+        "zh": "我要接待意大利朋友来喝开胃酒，想只给他们上魁北克奶酪……",
+        "en": "I'm having Italian friends over for appetizers and I would like to serve them only Quebec cheeses...",
+        "es": "Recibo a unos amigos italianos para el aperitivo y me gustaría servirles solamente quesos quebequenses..."
+      },
+      "start": 22.56,
+      "end": 26.88,
+      "words": [
+        {
+          "text": "Je",
+          "start": 22.56,
+          "end": 22.64
+        },
+        {
+          "text": "reçois",
+          "start": 22.64,
+          "end": 22.88
+        },
+        {
+          "text": "des",
+          "start": 22.88,
+          "end": 23.04
+        },
+        {
+          "text": "amis",
+          "start": 23.04,
+          "end": 23.2
+        },
+        {
+          "text": "italiens",
+          "start": 23.2,
+          "end": 23.6
+        },
+        {
+          "text": "pour",
+          "start": 23.6,
+          "end": 23.68
+        },
+        {
+          "text": "l'apéro",
+          "start": 23.68,
+          "end": 24.24
+        },
+        {
+          "text": "et",
+          "start": 24.56,
+          "end": 24.64
+        },
+        {
+          "text": "j'aimerais",
+          "start": 24.64,
+          "end": 24.96
+        },
+        {
+          "text": "leur",
+          "start": 24.96,
+          "end": 25.04
+        },
+        {
+          "text": "servir",
+          "start": 25.04,
+          "end": 25.44
+        },
+        {
+          "text": "seulement",
+          "start": 25.44,
+          "end": 25.92
+        },
+        {
+          "text": "des",
+          "start": 25.92,
+          "end": 26.08
+        },
+        {
+          "text": "fromages",
+          "start": 26.08,
+          "end": 26.4
+        },
+        {
+          "text": "québécois",
+          "start": 26.4,
+          "end": 26.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je reçois des amis italiens pour l'apéro",
+          "translations": {
+            "zh": "我要接待意大利朋友来喝开胃酒",
+            "en": "I'm having Italian friends over for appetizers",
+            "es": "Recibo a unos amigos italianos para el aperitivo"
+          },
+          "start": 22.56,
+          "end": 24.24
+        },
+        {
+          "text": "et j'aimerais leur servir",
+          "translations": {
+            "zh": "想给他们上",
+            "en": "and I would like to serve them",
+            "es": "y me gustaría servirles"
+          },
+          "start": 24.56,
+          "end": 25.44
+        },
+        {
+          "text": "seulement des fromages québécois...",
+          "translations": {
+            "zh": "只有魁北克奶酪……",
+            "en": "only Quebec cheeses...",
+            "es": "solamente quesos quebequenses..."
+          },
+          "start": 25.44,
+          "end": 26.88
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Je vous conseille ce cheddar.",
+      "translations": {
+        "zh": "我向您推荐这款切达奶酪。",
+        "en": "I recommend this cheddar to you.",
+        "es": "Le recomiendo este cheddar."
+      },
+      "start": 27.68,
+      "end": 29.04,
+      "words": [
+        {
+          "text": "Je",
+          "start": 27.68,
+          "end": 27.84
+        },
+        {
+          "text": "vous",
+          "start": 27.84,
+          "end": 27.92
+        },
+        {
+          "text": "conseille",
+          "start": 27.92,
+          "end": 28.32
+        },
+        {
+          "text": "ce",
+          "start": 28.32,
+          "end": 28.48
+        },
+        {
+          "text": "cheddar",
+          "start": 28.48,
+          "end": 29.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vous conseille ce cheddar.",
+          "translations": {
+            "zh": "我向您推荐这款切达奶酪。",
+            "en": "I recommend this cheddar to you.",
+            "es": "Le recomiendo este cheddar."
+          },
+          "start": 27.68,
+          "end": 29.04
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Il vient de gagner un prix dans sa catégorie, ce chèvre et puis celui-ci, parfumé à l'érable.",
+      "translations": {
+        "zh": "它刚在同类中获奖，这款山羊奶酪，还有这款枫糖口味的。",
+        "en": "It just won a prize in its category, this goat cheese and then this one, maple-flavored.",
+        "es": "Acaba de ganar un premio en su categoría, este de cabra y luego este, aromatizado con arce."
+      },
+      "start": 29.44,
+      "end": 35.52,
+      "words": [
+        {
+          "text": "Il",
+          "start": 29.44,
+          "end": 29.6
+        },
+        {
+          "text": "vient",
+          "start": 29.6,
+          "end": 29.76
+        },
+        {
+          "text": "de",
+          "start": 29.76,
+          "end": 29.76
+        },
+        {
+          "text": "gagner",
+          "start": 29.76,
+          "end": 30.08
+        },
+        {
+          "text": "un",
+          "start": 30.08,
+          "end": 30.16
+        },
+        {
+          "text": "prix",
+          "start": 30.16,
+          "end": 30.32
+        },
+        {
+          "text": "dans",
+          "start": 30.32,
+          "end": 30.4
+        },
+        {
+          "text": "sa",
+          "start": 30.4,
+          "end": 30.56
+        },
+        {
+          "text": "catégorie",
+          "start": 30.56,
+          "end": 31.2
+        },
+        {
+          "text": "ce",
+          "start": 32.0,
+          "end": 32.24
+        },
+        {
+          "text": "chèvre",
+          "start": 32.24,
+          "end": 32.64
+        },
+        {
+          "text": "et",
+          "start": 33.6,
+          "end": 33.76
+        },
+        {
+          "text": "puis",
+          "start": 33.76,
+          "end": 34.0
+        },
+        {
+          "text": "celui",
+          "start": 34.0,
+          "end": 34.32
+        },
+        {
+          "text": "ci",
+          "start": 34.32,
+          "end": 34.48
+        },
+        {
+          "text": "parfumé",
+          "start": 34.48,
+          "end": 34.88
+        },
+        {
+          "text": "à",
+          "start": 34.88,
+          "end": 34.96
+        },
+        {
+          "text": "l'érable",
+          "start": 34.96,
+          "end": 35.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il vient de gagner un prix dans sa catégorie,",
+          "translations": {
+            "zh": "它刚在自己的类别中获奖，",
+            "en": "It just won a prize in its category,",
+            "es": "Acaba de ganar un premio en su categoría,"
+          },
+          "start": 29.44,
+          "end": 31.2
+        },
+        {
+          "text": "ce chèvre",
+          "translations": {
+            "zh": "这款山羊奶酪",
+            "en": "this goat cheese",
+            "es": "este de cabra"
+          },
+          "start": 32.0,
+          "end": 32.64
+        },
+        {
+          "text": "et puis celui-ci,",
+          "translations": {
+            "zh": "还有这一款，",
+            "en": "and then this one,",
+            "es": "y luego este,"
+          },
+          "start": 33.6,
+          "end": 34.48
+        },
+        {
+          "text": "parfumé à l'érable.",
+          "translations": {
+            "zh": "枫糖口味的。",
+            "en": "maple-flavored.",
+            "es": "aromatizado con arce."
+          },
+          "start": 34.48,
+          "end": 35.52
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Ils viennent tous de la Montérégie.",
+      "translations": {
+        "zh": "它们都来自蒙特雷吉。",
+        "en": "They all come from Montérégie.",
+        "es": "Todos provienen de la Montérégie."
+      },
+      "start": 35.92,
+      "end": 37.28,
+      "words": [
+        {
+          "text": "Ils",
+          "start": 35.92,
+          "end": 36.0
+        },
+        {
+          "text": "viennent",
+          "start": 36.0,
+          "end": 36.24
+        },
+        {
+          "text": "tous",
+          "start": 36.24,
+          "end": 36.48
+        },
+        {
+          "text": "de",
+          "start": 36.48,
+          "end": 36.56
+        },
+        {
+          "text": "la",
+          "start": 36.56,
+          "end": 36.64
+        },
+        {
+          "text": "Montérégie",
+          "start": 36.64,
+          "end": 37.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ils viennent tous de la Montérégie.",
+          "translations": {
+            "zh": "它们都来自蒙特雷吉。",
+            "en": "They all come from Montérégie.",
+            "es": "Todos provienen de la Montérégie."
+          },
+          "start": 35.92,
+          "end": 37.28
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "J'ajouterais peut-être du saumon fumé...",
+      "translations": {
+        "zh": "我也许会再加点烟熏三文鱼……",
+        "en": "I would maybe add some smoked salmon...",
+        "es": "Añadiría quizás algo de salmón ahumado..."
+      },
+      "start": 38.08,
+      "end": 39.68,
+      "words": [
+        {
+          "text": "J'ajouterais",
+          "start": 38.08,
+          "end": 38.64
+        },
+        {
+          "text": "peut",
+          "start": 38.64,
+          "end": 38.72
+        },
+        {
+          "text": "être",
+          "start": 38.72,
+          "end": 38.88
+        },
+        {
+          "text": "du",
+          "start": 38.88,
+          "end": 38.96
+        },
+        {
+          "text": "saumon",
+          "start": 38.96,
+          "end": 39.28
+        },
+        {
+          "text": "fumé",
+          "start": 39.28,
+          "end": 39.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ajouterais peut-être du saumon fumé...",
+          "translations": {
+            "zh": "我也许会再加点烟熏三文鱼……",
+            "en": "I would maybe add some smoked salmon...",
+            "es": "Añadiría quizás algo de salmón ahumado..."
+          },
+          "start": 38.08,
+          "end": 39.68
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Je n'en ai pas, mais j'ai de la truite fumée qui vient de Sainte-Agathe-des- Monts, dans les Laurentides.",
+      "translations": {
+        "zh": "我没有那个，但我有来自洛朗蒂德地区圣阿加特德蒙的烟熏鳟鱼。",
+        "en": "I don't have any, but I have smoked trout that comes from Sainte-Agathe-des-Monts, in the Laurentians.",
+        "es": "No tengo, pero tengo trucha ahumada que viene de Sainte-Agathe-des-Monts, en las Laurentides."
+      },
+      "start": 40.88,
+      "end": 45.84,
+      "words": [
+        {
+          "text": "Je",
+          "start": 40.88,
+          "end": 40.96
+        },
+        {
+          "text": "n'en",
+          "start": 40.96,
+          "end": 41.12
+        },
+        {
+          "text": "ai",
+          "start": 41.12,
+          "end": 41.2
+        },
+        {
+          "text": "pas",
+          "start": 41.2,
+          "end": 41.6
+        },
+        {
+          "text": "mais",
+          "start": 41.92,
+          "end": 42.24
+        },
+        {
+          "text": "j'ai",
+          "start": 42.24,
+          "end": 42.4
+        },
+        {
+          "text": "de",
+          "start": 42.4,
+          "end": 42.4
+        },
+        {
+          "text": "la",
+          "start": 42.4,
+          "end": 42.56
+        },
+        {
+          "text": "truite",
+          "start": 42.56,
+          "end": 42.88
+        },
+        {
+          "text": "fumée",
+          "start": 42.88,
+          "end": 43.36
+        },
+        {
+          "text": "qui",
+          "start": 43.52,
+          "end": 43.6
+        },
+        {
+          "text": "vient",
+          "start": 43.6,
+          "end": 43.76
+        },
+        {
+          "text": "de",
+          "start": 43.76,
+          "end": 43.84
+        },
+        {
+          "text": "Sainte",
+          "start": 43.84,
+          "end": 44.08
+        },
+        {
+          "text": "Agathe",
+          "start": 44.08,
+          "end": 44.4
+        },
+        {
+          "text": "des",
+          "start": 44.4,
+          "end": 44.64
+        },
+        {
+          "text": "Monts",
+          "start": 44.64,
+          "end": 44.96
+        },
+        {
+          "text": "dans",
+          "start": 44.96,
+          "end": 45.12
+        },
+        {
+          "text": "les",
+          "start": 45.12,
+          "end": 45.28
+        },
+        {
+          "text": "Laurentides",
+          "start": 45.28,
+          "end": 45.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je n'en ai pas,",
+          "translations": {
+            "zh": "我没有那个，",
+            "en": "I don't have any,",
+            "es": "No tengo,"
+          },
+          "start": 40.88,
+          "end": 41.6
+        },
+        {
+          "text": "mais j'ai de la truite fumée",
+          "translations": {
+            "zh": "但我有烟熏鳟鱼",
+            "en": "but I have smoked trout",
+            "es": "pero tengo trucha ahumada"
+          },
+          "start": 41.92,
+          "end": 43.36
+        },
+        {
+          "text": "qui vient de Sainte-Agathe-des- Monts,",
+          "translations": {
+            "zh": "来自圣阿加特德蒙，",
+            "en": "that comes from Sainte-Agathe-des-Monts,",
+            "es": "que viene de Sainte-Agathe-des-Monts,"
+          },
+          "start": 43.52,
+          "end": 44.96
+        },
+        {
+          "text": "dans les Laurentides.",
+          "translations": {
+            "zh": "在洛朗蒂德地区。",
+            "en": "in the Laurentians.",
+            "es": "en las Laurentides."
+          },
+          "start": 44.96,
+          "end": 45.84
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Voulez-vous y gouter ?",
+      "translations": {
+        "zh": "您想尝尝吗？",
+        "en": "Would you like to taste it?",
+        "es": "¿Quiere probarlo?"
+      },
+      "start": 46.48,
+      "end": 47.52,
+      "words": [
+        {
+          "text": "Voulez",
+          "start": 46.48,
+          "end": 46.72
+        },
+        {
+          "text": "vous",
+          "start": 46.72,
+          "end": 46.8
+        },
+        {
+          "text": "y",
+          "start": 46.8,
+          "end": 46.88
+        },
+        {
+          "text": "gouter",
+          "start": 46.96,
+          "end": 47.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Voulez-vous y gouter ?",
+          "translations": {
+            "zh": "您想尝尝吗？",
+            "en": "Would you like to taste it?",
+            "es": "¿Quiere probarlo?"
+          },
+          "start": 46.48,
+          "end": 47.52
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Bonjour, je cherche un cadeau à rapporter à des amis végétariens.",
+      "translations": {
+        "zh": "您好，我在找一份带给素食朋友们的礼物。",
+        "en": "Hello, I'm looking for a gift to bring back to vegetarian friends.",
+        "es": "Hola, busco un regalo para llevarles a unos amigos vegetarianos."
+      },
+      "start": 49.04,
+      "end": 53.04,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 49.04,
+          "end": 49.76
+        },
+        {
+          "text": "je",
+          "start": 49.92,
+          "end": 50.08
+        },
+        {
+          "text": "cherche",
+          "start": 50.08,
+          "end": 50.56
+        },
+        {
+          "text": "un",
+          "start": 50.56,
+          "end": 50.88
+        },
+        {
+          "text": "cadeau",
+          "start": 50.88,
+          "end": 51.28
+        },
+        {
+          "text": "à",
+          "start": 51.36,
+          "end": 51.44
+        },
+        {
+          "text": "rapporter",
+          "start": 51.44,
+          "end": 51.92
+        },
+        {
+          "text": "à",
+          "start": 51.92,
+          "end": 52.0
+        },
+        {
+          "text": "des",
+          "start": 52.0,
+          "end": 52.16
+        },
+        {
+          "text": "amis",
+          "start": 52.16,
+          "end": 52.4
+        },
+        {
+          "text": "végétariens",
+          "start": 52.4,
+          "end": 53.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 49.04,
+          "end": 49.76
+        },
+        {
+          "text": "je cherche un cadeau",
+          "translations": {
+            "zh": "我在找一份礼物",
+            "en": "I'm looking for a gift",
+            "es": "busco un regalo"
+          },
+          "start": 49.92,
+          "end": 51.28
+        },
+        {
+          "text": "à rapporter à des amis végétariens.",
+          "translations": {
+            "zh": "带给素食朋友们。",
+            "en": "to bring back to vegetarian friends.",
+            "es": "para llevarles a unos amigos vegetarianos."
+          },
+          "start": 51.36,
+          "end": 53.04
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "J'ai ce beau coffret de tisanes boréales du Nunavik...",
+      "translations": {
+        "zh": "我有这款努纳维克北方草本茶的精美礼盒……",
+        "en": "I have this beautiful box of boreal herbal teas from Nunavik...",
+        "es": "Tengo este bonito estuche de tés boreales del Nunavik..."
+      },
+      "start": 53.92,
+      "end": 56.64,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 53.92,
+          "end": 54.16
+        },
+        {
+          "text": "ce",
+          "start": 54.16,
+          "end": 54.24
+        },
+        {
+          "text": "beau",
+          "start": 54.24,
+          "end": 54.48
+        },
+        {
+          "text": "coffret",
+          "start": 54.48,
+          "end": 54.8
+        },
+        {
+          "text": "de",
+          "start": 54.8,
+          "end": 54.88
+        },
+        {
+          "text": "tisanes",
+          "start": 54.88,
+          "end": 55.28
+        },
+        {
+          "text": "boréales",
+          "start": 55.28,
+          "end": 55.84
+        },
+        {
+          "text": "du",
+          "start": 55.84,
+          "end": 56.0
+        },
+        {
+          "text": "Nunavik",
+          "start": 56.0,
+          "end": 56.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai ce beau coffret",
+          "translations": {
+            "zh": "我有这款精美的礼盒",
+            "en": "I have this beautiful box",
+            "es": "Tengo este bonito estuche"
+          },
+          "start": 53.92,
+          "end": 54.8
+        },
+        {
+          "text": "de tisanes boréales du Nunavik...",
+          "translations": {
+            "zh": "努纳维克北方草本茶……",
+            "en": "of boreal herbal teas from Nunavik...",
+            "es": "de tés boreales del Nunavik..."
+          },
+          "start": 54.8,
+          "end": 56.64
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Ou des bleuets enrobés de chocolat noir ?",
+      "translations": {
+        "zh": "或者黑巧克力裹蓝莓？",
+        "en": "Or some blueberries coated in dark chocolate?",
+        "es": "¿O arándanos cubiertos de chocolate negro?"
+      },
+      "start": 57.36,
+      "end": 59.12,
+      "words": [
+        {
+          "text": "Ou",
+          "start": 57.36,
+          "end": 57.52
+        },
+        {
+          "text": "des",
+          "start": 57.52,
+          "end": 57.68
+        },
+        {
+          "text": "bleuets",
+          "start": 57.68,
+          "end": 58.08
+        },
+        {
+          "text": "enrobés",
+          "start": 58.16,
+          "end": 58.56
+        },
+        {
+          "text": "de",
+          "start": 58.56,
+          "end": 58.64
+        },
+        {
+          "text": "chocolat",
+          "start": 58.64,
+          "end": 58.88
+        },
+        {
+          "text": "noir",
+          "start": 58.88,
+          "end": 59.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ou des bleuets enrobés de chocolat noir ?",
+          "translations": {
+            "zh": "或者黑巧克力裹蓝莓？",
+            "en": "Or some blueberries coated in dark chocolate?",
+            "es": "¿O arándanos cubiertos de chocolate negro?"
+          },
+          "start": 57.36,
+          "end": 59.12
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Ils viennent de Dolbeau-Mistassini, au Lac-Saint-Jean.",
+      "translations": {
+        "zh": "它们来自圣让湖地区的多尔博-米斯塔西尼。",
+        "en": "They come from Dolbeau-Mistassini, in Lac-Saint-Jean.",
+        "es": "Provienen de Dolbeau-Mistassini, en el Lac-Saint-Jean."
+      },
+      "start": 59.84,
+      "end": 62.08,
+      "words": [
+        {
+          "text": "Ils",
+          "start": 59.84,
+          "end": 59.92
+        },
+        {
+          "text": "viennent",
+          "start": 59.92,
+          "end": 60.16
+        },
+        {
+          "text": "de",
+          "start": 60.16,
+          "end": 60.24
+        },
+        {
+          "text": "Dolbeau",
+          "start": 60.24,
+          "end": 60.64
+        },
+        {
+          "text": "Mistassini",
+          "start": 60.64,
+          "end": 61.28
+        },
+        {
+          "text": "au",
+          "start": 61.28,
+          "end": 61.36
+        },
+        {
+          "text": "Lac",
+          "start": 61.36,
+          "end": 61.52
+        },
+        {
+          "text": "Saint",
+          "start": 61.52,
+          "end": 61.76
+        },
+        {
+          "text": "Jean",
+          "start": 61.76,
+          "end": 62.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ils viennent de Dolbeau-Mistassini,",
+          "translations": {
+            "zh": "它们来自多尔博-米斯塔西尼，",
+            "en": "They come from Dolbeau-Mistassini,",
+            "es": "Provienen de Dolbeau-Mistassini,"
+          },
+          "start": 59.84,
+          "end": 61.28
+        },
+        {
+          "text": "au Lac-Saint-Jean.",
+          "translations": {
+            "zh": "在圣让湖地区。",
+            "en": "in Lac-Saint-Jean.",
+            "es": "en el Lac-Saint-Jean."
+          },
+          "start": 61.28,
+          "end": 62.08
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "On ne peut juste pas y résister !",
+      "translations": {
+        "zh": "简直无法抗拒！",
+        "en": "You just can't resist them!",
+        "es": "¡Simplemente no se les puede resistir!"
+      },
+      "start": 62.24,
+      "end": 63.76,
+      "words": [
+        {
+          "text": "On",
+          "start": 62.24,
+          "end": 62.4
+        },
+        {
+          "text": "ne",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "peut",
+          "start": 62.4,
+          "end": 62.56
+        },
+        {
+          "text": "juste",
+          "start": 62.56,
+          "end": 62.88
+        },
+        {
+          "text": "pas",
+          "start": 62.88,
+          "end": 63.04
+        },
+        {
+          "text": "y",
+          "start": 63.04,
+          "end": 63.2
+        },
+        {
+          "text": "résister",
+          "start": 63.2,
+          "end": 63.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On ne peut juste pas y résister !",
+          "translations": {
+            "zh": "简直无法抗拒！",
+            "en": "You just can't resist them!",
+            "es": "¡Simplemente no se les puede resistir!"
+          },
+          "start": 62.24,
+          "end": 63.76
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "cidre de glace de Frelighsburg ; hydromel, vins blanc et rosé de Dunham...",
+      "translations": {
+        "zh": "弗雷利克斯堡的冰苹果酒；邓纳姆的蜂蜜酒、白葡萄酒和桃红葡萄酒……",
+        "en": "ice cider from Frelighsburg; mead, white and rosé wines from Dunham...",
+        "es": "sidra de hielo de Frelighsburg; hidromiel, vinos blanco y rosado de Dunham..."
+      },
+      "start": 63.76,
+      "end": 72.24,
+      "words": [
+        {
+          "text": "cidre",
+          "start": 63.76,
+          "end": 63.84
+        },
+        {
+          "text": "de",
+          "start": 64.8,
+          "end": 64.96
+        },
+        {
+          "text": "glace",
+          "start": 67.36,
+          "end": 67.76
+        },
+        {
+          "text": "de",
+          "start": 67.76,
+          "end": 67.76
+        },
+        {
+          "text": "Frelighsburg",
+          "start": 67.84,
+          "end": 67.84
+        },
+        {
+          "text": "hydromel",
+          "start": 69.2,
+          "end": 69.92
+        },
+        {
+          "text": "vins",
+          "start": 70.4,
+          "end": 70.88
+        },
+        {
+          "text": "blanc",
+          "start": 70.88,
+          "end": 70.88
+        },
+        {
+          "text": "et",
+          "start": 70.88,
+          "end": 71.04
+        },
+        {
+          "text": "rosé",
+          "start": 71.04,
+          "end": 71.6
+        },
+        {
+          "text": "de",
+          "start": 71.6,
+          "end": 71.76
+        },
+        {
+          "text": "Dunham",
+          "start": 71.76,
+          "end": 72.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "cidre de glace de Frelighsburg ;",
+          "translations": {
+            "zh": "弗雷利克斯堡的冰苹果酒；",
+            "en": "ice cider from Frelighsburg;",
+            "es": "sidra de hielo de Frelighsburg;"
+          },
+          "start": 63.76,
+          "end": 67.84
+        },
+        {
+          "text": "hydromel, vins blanc et rosé de Dunham...",
+          "translations": {
+            "zh": "邓纳姆的蜂蜜酒、白葡萄酒和桃红葡萄酒……",
+            "en": "mead, white and rosé wines from Dunham...",
+            "es": "hidromiel, vinos blanco y rosado de Dunham..."
+          },
+          "start": 69.2,
+          "end": 72.24
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "On est chanceux, en Estrie, on a un microclimat qui favorise les vergers et les vignobles...",
+      "translations": {
+        "zh": "在埃斯特里我们很幸运，我们有一个有利于果园和葡萄园的小气候……",
+        "en": "We're lucky, in Estrie, we have a microclimate that favors orchards and vineyards...",
+        "es": "Tenemos suerte, en Estrie, tenemos un microclima que favorece los huertos y los viñedos..."
+      },
+      "start": 73.2,
+      "end": 77.68,
+      "words": [
+        {
+          "text": "On",
+          "start": 73.2,
+          "end": 73.36
+        },
+        {
+          "text": "est",
+          "start": 73.36,
+          "end": 73.44
+        },
+        {
+          "text": "chanceux",
+          "start": 73.44,
+          "end": 73.92
+        },
+        {
+          "text": "en",
+          "start": 73.92,
+          "end": 74.16
+        },
+        {
+          "text": "Estrie",
+          "start": 74.16,
+          "end": 74.56
+        },
+        {
+          "text": "on",
+          "start": 74.56,
+          "end": 74.72
+        },
+        {
+          "text": "a",
+          "start": 74.72,
+          "end": 74.8
+        },
+        {
+          "text": "un",
+          "start": 74.8,
+          "end": 74.88
+        },
+        {
+          "text": "microclimat",
+          "start": 74.88,
+          "end": 75.6
+        },
+        {
+          "text": "qui",
+          "start": 75.6,
+          "end": 75.76
+        },
+        {
+          "text": "favorise",
+          "start": 75.76,
+          "end": 76.32
+        },
+        {
+          "text": "les",
+          "start": 76.32,
+          "end": 76.4
+        },
+        {
+          "text": "vergers",
+          "start": 76.4,
+          "end": 76.96
+        },
+        {
+          "text": "et",
+          "start": 76.96,
+          "end": 76.96
+        },
+        {
+          "text": "les",
+          "start": 76.96,
+          "end": 77.04
+        },
+        {
+          "text": "vignobles",
+          "start": 77.04,
+          "end": 77.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On est chanceux, en Estrie,",
+          "translations": {
+            "zh": "在埃斯特里我们很幸运，",
+            "en": "We're lucky, in Estrie,",
+            "es": "Tenemos suerte, en Estrie,"
+          },
+          "start": 73.2,
+          "end": 74.56
+        },
+        {
+          "text": "on a un microclimat",
+          "translations": {
+            "zh": "我们有一个小气候",
+            "en": "we have a microclimate",
+            "es": "tenemos un microclima"
+          },
+          "start": 74.56,
+          "end": 75.6
+        },
+        {
+          "text": "qui favorise les vergers et les vignobles...",
+          "translations": {
+            "zh": "有利于果园和葡萄园……",
+            "en": "that favors orchards and vineyards...",
+            "es": "que favorece los huertos y los viñedos..."
+          },
+          "start": 75.6,
+          "end": 77.68
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Merci, je vais regarder tout ça.",
+      "translations": {
+        "zh": "谢谢，我来看看这些。",
+        "en": "Thank you, I'll look at all that.",
+        "es": "Gracias, voy a mirar todo eso."
+      },
+      "start": 78.64,
+      "end": 80.24,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 78.64,
+          "end": 79.12
+        },
+        {
+          "text": "je",
+          "start": 79.36,
+          "end": 79.44
+        },
+        {
+          "text": "vais",
+          "start": 79.44,
+          "end": 79.52
+        },
+        {
+          "text": "regarder",
+          "start": 79.52,
+          "end": 79.92
+        },
+        {
+          "text": "tout",
+          "start": 79.92,
+          "end": 80.0
+        },
+        {
+          "text": "ça",
+          "start": 80.0,
+          "end": 80.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci,",
+          "translations": {
+            "zh": "谢谢，",
+            "en": "Thank you,",
+            "es": "Gracias,"
+          },
+          "start": 78.64,
+          "end": 79.12
+        },
+        {
+          "text": "je vais regarder tout ça.",
+          "translations": {
+            "zh": "我来看看这些。",
+            "en": "I'll look at all that.",
+            "es": "voy a mirar todo eso."
+          },
+          "start": 79.36,
+          "end": 80.24
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Oh là là !",
+      "translations": {
+        "zh": "哎呀！",
+        "en": "Oh my!",
+        "es": "¡Vaya!"
+      },
+      "start": 82.16,
+      "end": 83.12,
+      "words": [
+        {
+          "text": "Oh",
+          "start": 82.16,
+          "end": 82.32
+        },
+        {
+          "text": "là",
+          "start": 82.32,
+          "end": 82.72
+        },
+        {
+          "text": "là",
+          "start": 82.72,
+          "end": 83.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oh là là !",
+          "translations": {
+            "zh": "哎呀！",
+            "en": "Oh my!",
+            "es": "¡Vaya!"
+          },
+          "start": 82.16,
+          "end": 83.12
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Vous en avez, des sortes de bières !",
+      "translations": {
+        "zh": "您这里的啤酒种类真多啊！",
+        "en": "You sure have a lot of kinds of beers!",
+        "es": "¡Tiene usted clases de cervezas!"
+      },
+      "start": 83.12,
+      "end": 84.56,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 83.12,
+          "end": 83.28
+        },
+        {
+          "text": "en",
+          "start": 83.28,
+          "end": 83.36
+        },
+        {
+          "text": "avez",
+          "start": 83.36,
+          "end": 83.68
+        },
+        {
+          "text": "des",
+          "start": 83.68,
+          "end": 83.76
+        },
+        {
+          "text": "sortes",
+          "start": 83.76,
+          "end": 84.0
+        },
+        {
+          "text": "de",
+          "start": 84.0,
+          "end": 84.08
+        },
+        {
+          "text": "bières",
+          "start": 84.08,
+          "end": 84.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous en avez,",
+          "translations": {
+            "zh": "您有好多，",
+            "en": "You sure have a lot,",
+            "es": "Tiene usted,"
+          },
+          "start": 83.12,
+          "end": 83.68
+        },
+        {
+          "text": "des sortes de bières !",
+          "translations": {
+            "zh": "各种啤酒！",
+            "en": "of kinds of beers!",
+            "es": "¡clases de cervezas!"
+          },
+          "start": 83.68,
+          "end": 84.56
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Oui, c'est rendu qu'on a des microbrasseries dans pratiquement toutes les régions du Québec !",
+      "translations": {
+        "zh": "是的，现在魁北克几乎所有地区都有精酿啤酒厂了！",
+        "en": "Yes, it's gotten to the point where we have microbreweries in practically all the regions of Quebec!",
+        "es": "Sí, ya tenemos microcervecerías en prácticamente todas las regiones de Quebec!"
+      },
+      "start": 85.44,
+      "end": 89.52,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 85.44,
+          "end": 85.76
+        },
+        {
+          "text": "c'est",
+          "start": 85.76,
+          "end": 85.92
+        },
+        {
+          "text": "rendu",
+          "start": 85.92,
+          "end": 86.16
+        },
+        {
+          "text": "qu'on",
+          "start": 86.24,
+          "end": 86.4
+        },
+        {
+          "text": "a",
+          "start": 86.4,
+          "end": 86.48
+        },
+        {
+          "text": "des",
+          "start": 86.48,
+          "end": 86.64
+        },
+        {
+          "text": "microbrasseries",
+          "start": 86.64,
+          "end": 87.44
+        },
+        {
+          "text": "dans",
+          "start": 87.44,
+          "end": 87.6
+        },
+        {
+          "text": "pratiquement",
+          "start": 87.6,
+          "end": 88.16
+        },
+        {
+          "text": "toutes",
+          "start": 88.16,
+          "end": 88.4
+        },
+        {
+          "text": "les",
+          "start": 88.4,
+          "end": 88.48
+        },
+        {
+          "text": "régions",
+          "start": 88.48,
+          "end": 88.88
+        },
+        {
+          "text": "du",
+          "start": 88.88,
+          "end": 88.96
+        },
+        {
+          "text": "Québec",
+          "start": 88.96,
+          "end": 89.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 85.44,
+          "end": 85.76
+        },
+        {
+          "text": "c'est rendu qu'on a des microbrasseries",
+          "translations": {
+            "zh": "现在我们有精酿啤酒厂",
+            "en": "it's gotten to the point where we have microbreweries",
+            "es": "ya tenemos microcervecerías"
+          },
+          "start": 85.76,
+          "end": 87.44
+        },
+        {
+          "text": "dans pratiquement toutes les régions du Québec !",
+          "translations": {
+            "zh": "在魁北克几乎所有地区！",
+            "en": "in practically all the regions of Quebec!",
+            "es": "en prácticamente todas las regiones de Quebec!"
+          },
+          "start": 87.44,
+          "end": 89.52
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Connaissez-vous les bières artisanales québécoises ?",
+      "translations": {
+        "zh": "您了解魁北克的手工啤酒吗？",
+        "en": "Are you familiar with Quebec craft beers?",
+        "es": "¿Conoce las cervezas artesanales quebequenses?"
+      },
+      "start": 90.16,
+      "end": 92.24,
+      "words": [
+        {
+          "text": "Connaissez",
+          "start": 90.16,
+          "end": 90.48
+        },
+        {
+          "text": "vous",
+          "start": 90.48,
+          "end": 90.56
+        },
+        {
+          "text": "les",
+          "start": 90.64,
+          "end": 90.72
+        },
+        {
+          "text": "bières",
+          "start": 90.72,
+          "end": 90.96
+        },
+        {
+          "text": "artisanales",
+          "start": 90.96,
+          "end": 91.52
+        },
+        {
+          "text": "québécoises",
+          "start": 91.52,
+          "end": 92.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Connaissez-vous les bières artisanales québécoises ?",
+          "translations": {
+            "zh": "您了解魁北克的手工啤酒吗？",
+            "en": "Are you familiar with Quebec craft beers?",
+            "es": "¿Conoce las cervezas artesanales quebequenses?"
+          },
+          "start": 90.16,
+          "end": 92.24
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Pas beaucoup.",
+      "translations": {
+        "zh": "不太了解。",
+        "en": "Not much.",
+        "es": "No mucho."
+      },
+      "start": 92.72,
+      "end": 93.6,
+      "words": [
+        {
+          "text": "Pas",
+          "start": 92.72,
+          "end": 92.96
+        },
+        {
+          "text": "beaucoup",
+          "start": 92.96,
+          "end": 93.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pas beaucoup.",
+          "translations": {
+            "zh": "不太了解。",
+            "en": "Not much.",
+            "es": "No mucho."
+          },
+          "start": 92.72,
+          "end": 93.6
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Mais j'aime les bières qui se démarquent...",
+      "translations": {
+        "zh": "但我喜欢与众不同的啤酒……",
+        "en": "But I like beers that stand out...",
+        "es": "Pero me gustan las cervezas que se distinguen..."
+      },
+      "start": 94.08,
+      "end": 95.68,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 94.08,
+          "end": 94.24
+        },
+        {
+          "text": "j'aime",
+          "start": 94.24,
+          "end": 94.48
+        },
+        {
+          "text": "les",
+          "start": 94.48,
+          "end": 94.64
+        },
+        {
+          "text": "bières",
+          "start": 94.64,
+          "end": 94.96
+        },
+        {
+          "text": "qui",
+          "start": 94.96,
+          "end": 95.12
+        },
+        {
+          "text": "se",
+          "start": 95.12,
+          "end": 95.2
+        },
+        {
+          "text": "démarquent",
+          "start": 95.2,
+          "end": 95.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais j'aime les bières",
+          "translations": {
+            "zh": "但我喜欢啤酒",
+            "en": "But I like beers",
+            "es": "Pero me gustan las cervezas"
+          },
+          "start": 94.08,
+          "end": 94.96
+        },
+        {
+          "text": "qui se démarquent...",
+          "translations": {
+            "zh": "与众不同的……",
+            "en": "that stand out...",
+            "es": "que se distinguen..."
+          },
+          "start": 94.96,
+          "end": 95.68
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Alors, je vous recommande celle- ci, c'est ma préférée.",
+      "translations": {
+        "zh": "那么，我向您推荐这一款，这是我最喜欢的。",
+        "en": "So, I recommend this one to you, it's my favorite.",
+        "es": "Entonces, le recomiendo esta, es mi preferida."
+      },
+      "start": 96.4,
+      "end": 98.72,
+      "words": [
+        {
+          "text": "Alors",
+          "start": 96.4,
+          "end": 96.64
+        },
+        {
+          "text": "je",
+          "start": 96.64,
+          "end": 96.72
+        },
+        {
+          "text": "vous",
+          "start": 96.72,
+          "end": 96.8
+        },
+        {
+          "text": "recommande",
+          "start": 96.8,
+          "end": 97.12
+        },
+        {
+          "text": "celle",
+          "start": 97.12,
+          "end": 97.36
+        },
+        {
+          "text": "ci",
+          "start": 97.36,
+          "end": 97.68
+        },
+        {
+          "text": "c'est",
+          "start": 97.92,
+          "end": 98.08
+        },
+        {
+          "text": "ma",
+          "start": 98.08,
+          "end": 98.16
+        },
+        {
+          "text": "préférée",
+          "start": 98.16,
+          "end": 98.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Alors,",
+          "translations": {
+            "zh": "那么，",
+            "en": "So,",
+            "es": "Entonces,"
+          },
+          "start": 96.4,
+          "end": 96.64
+        },
+        {
+          "text": "je vous recommande celle- ci,",
+          "translations": {
+            "zh": "我向您推荐这一款，",
+            "en": "I recommend this one to you,",
+            "es": "le recomiendo esta,"
+          },
+          "start": 96.64,
+          "end": 97.68
+        },
+        {
+          "text": "c'est ma préférée.",
+          "translations": {
+            "zh": "这是我最喜欢的。",
+            "en": "it's my favorite.",
+            "es": "es mi preferida."
+          },
+          "start": 97.92,
+          "end": 98.72
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Elle vient de Shawinigan, en Mauricie.",
+      "translations": {
+        "zh": "它来自莫里西地区的沙维尼根。",
+        "en": "It comes from Shawinigan, in Mauricie.",
+        "es": "Viene de Shawinigan, en Mauricie."
+      },
+      "start": 99.28,
+      "end": 100.72,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 99.28,
+          "end": 99.36
+        },
+        {
+          "text": "vient",
+          "start": 99.36,
+          "end": 99.6
+        },
+        {
+          "text": "de",
+          "start": 99.6,
+          "end": 99.6
+        },
+        {
+          "text": "Shawinigan",
+          "start": 99.6,
+          "end": 100.16
+        },
+        {
+          "text": "en",
+          "start": 100.16,
+          "end": 100.24
+        },
+        {
+          "text": "Mauricie",
+          "start": 100.24,
+          "end": 100.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle vient de Shawinigan,",
+          "translations": {
+            "zh": "它来自沙维尼根，",
+            "en": "It comes from Shawinigan,",
+            "es": "Viene de Shawinigan,"
+          },
+          "start": 99.28,
+          "end": 100.16
+        },
+        {
+          "text": "en Mauricie.",
+          "translations": {
+            "zh": "在莫里西地区。",
+            "en": "in Mauricie.",
+            "es": "en Mauricie."
+          },
+          "start": 100.16,
+          "end": 100.72
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "OK !",
+      "translations": {
+        "zh": "好的！",
+        "en": "OK!",
+        "es": "¡OK!"
+      },
+      "start": 101.36,
+      "end": 101.52,
+      "words": [
+        {
+          "text": "OK",
+          "start": 101.36,
+          "end": 101.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "OK !",
+          "translations": {
+            "zh": "好的！",
+            "en": "OK!",
+            "es": "¡OK!"
+          },
+          "start": 101.36,
+          "end": 101.52
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Je vais l'essayer.",
+      "translations": {
+        "zh": "我来试试。",
+        "en": "I'll try it.",
+        "es": "Voy a probarla."
+      },
+      "start": 101.52,
+      "end": 102.88,
+      "words": [
+        {
+          "text": "Je",
+          "start": 101.52,
+          "end": 101.76
+        },
+        {
+          "text": "vais",
+          "start": 102.32,
+          "end": 102.32
+        },
+        {
+          "text": "l'essayer",
+          "start": 102.4,
+          "end": 102.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais l'essayer.",
+          "translations": {
+            "zh": "我来试试。",
+            "en": "I'll try it.",
+            "es": "Voy a probarla."
+          },
+          "start": 101.52,
+          "end": 102.88
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP13_P21",
+  "audio_filename": "FLS2_EP13_P21.mp3",
+  "audio_path": "downloads/FLS2_EP13_P21.mp3",
+  "episode": 13,
+  "piste": 21,
+  "page": 98,
+  "cd": "CD2"
+}

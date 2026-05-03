@@ -1,0 +1,741 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 9 Piste 46 Page 74",
+      "translations": {
+        "zh": "第九集 第46轨 第74页",
+        "en": "Episode 9 Track 46 Page 74",
+        "es": "Episodio 9 Pista 46 Página 74"
+      },
+      "start": 0.96,
+      "end": 8.48,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.96,
+          "end": 1.68
+        },
+        {
+          "text": "9",
+          "start": 2.08,
+          "end": 2.24
+        },
+        {
+          "text": "Piste",
+          "start": 3.28,
+          "end": 3.68
+        },
+        {
+          "text": "46",
+          "start": 4.48,
+          "end": 5.44
+        },
+        {
+          "text": "Page",
+          "start": 6.72,
+          "end": 7.2
+        },
+        {
+          "text": "74",
+          "start": 7.28,
+          "end": 8.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 9",
+          "translations": {
+            "zh": "第九集",
+            "en": "Episode 9",
+            "es": "Episodio 9"
+          },
+          "start": 0.96,
+          "end": 2.24
+        },
+        {
+          "text": "Piste 46",
+          "translations": {
+            "zh": "第46轨",
+            "en": "Track 46",
+            "es": "Pista 46"
+          },
+          "start": 3.28,
+          "end": 5.44
+        },
+        {
+          "text": "Page 74",
+          "translations": {
+            "zh": "第74页",
+            "en": "Page 74",
+            "es": "Página 74"
+          },
+          "start": 6.72,
+          "end": 8.48
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Je prends six médicaments différents chaque matin.",
+      "translations": {
+        "zh": "我每天早上吃六种不同的药。",
+        "en": "I take six different medications every morning.",
+        "es": "Tomo seis medicamentos diferentes cada mañana."
+      },
+      "start": 9.6,
+      "end": 13.12,
+      "words": [
+        {
+          "text": "Je",
+          "start": 9.6,
+          "end": 9.76
+        },
+        {
+          "text": "prends",
+          "start": 10.88,
+          "end": 11.04
+        },
+        {
+          "text": "six",
+          "start": 11.12,
+          "end": 11.44
+        },
+        {
+          "text": "médicaments",
+          "start": 11.44,
+          "end": 11.92
+        },
+        {
+          "text": "différents",
+          "start": 11.92,
+          "end": 12.4
+        },
+        {
+          "text": "chaque",
+          "start": 12.48,
+          "end": 12.8
+        },
+        {
+          "text": "matin",
+          "start": 12.8,
+          "end": 13.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je prends six médicaments différents",
+          "translations": {
+            "zh": "我吃六种不同的药",
+            "en": "I take six different medications",
+            "es": "Tomo seis medicamentos diferentes"
+          },
+          "start": 9.6,
+          "end": 12.4
+        },
+        {
+          "text": "chaque matin.",
+          "translations": {
+            "zh": "每天早上。",
+            "en": "every morning.",
+            "es": "cada mañana."
+          },
+          "start": 12.48,
+          "end": 13.12
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Dans la trentaine, je fumais au moins deux paquets de cigarettes par jour.",
+      "translations": {
+        "zh": "三十多岁时，我每天至少抽两包烟。",
+        "en": "In my thirties, I smoked at least two packs of cigarettes a day.",
+        "es": "A los treinta y tantos, fumaba al menos dos paquetes de cigarrillos por día."
+      },
+      "start": 15.12,
+      "end": 20.08,
+      "words": [
+        {
+          "text": "Dans",
+          "start": 15.12,
+          "end": 15.28
+        },
+        {
+          "text": "la",
+          "start": 16.16,
+          "end": 16.32
+        },
+        {
+          "text": "trentaine",
+          "start": 16.32,
+          "end": 17.04
+        },
+        {
+          "text": "je",
+          "start": 17.6,
+          "end": 17.76
+        },
+        {
+          "text": "fumais",
+          "start": 17.76,
+          "end": 18.08
+        },
+        {
+          "text": "au",
+          "start": 18.08,
+          "end": 18.24
+        },
+        {
+          "text": "moins",
+          "start": 18.24,
+          "end": 18.4
+        },
+        {
+          "text": "deux",
+          "start": 18.4,
+          "end": 18.72
+        },
+        {
+          "text": "paquets",
+          "start": 18.72,
+          "end": 19.04
+        },
+        {
+          "text": "de",
+          "start": 19.04,
+          "end": 19.36
+        },
+        {
+          "text": "cigarettes",
+          "start": 19.36,
+          "end": 19.44
+        },
+        {
+          "text": "par",
+          "start": 19.52,
+          "end": 19.68
+        },
+        {
+          "text": "jour",
+          "start": 19.68,
+          "end": 20.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Dans la trentaine,",
+          "translations": {
+            "zh": "三十多岁时，",
+            "en": "In my thirties,",
+            "es": "A los treinta y tantos,"
+          },
+          "start": 15.12,
+          "end": 17.04
+        },
+        {
+          "text": "je fumais au moins deux paquets de cigarettes",
+          "translations": {
+            "zh": "我至少抽两包烟",
+            "en": "I smoked at least two packs of cigarettes",
+            "es": "fumaba al menos dos paquetes de cigarrillos"
+          },
+          "start": 17.6,
+          "end": 19.44
+        },
+        {
+          "text": "par jour.",
+          "translations": {
+            "zh": "每天。",
+            "en": "a day.",
+            "es": "por día."
+          },
+          "start": 19.52,
+          "end": 20.08
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Il ne mange aucun sucre maintenant.",
+      "translations": {
+        "zh": "他现在不吃任何糖。",
+        "en": "He eats no sugar now.",
+        "es": "No come ningún azúcar ahora."
+      },
+      "start": 23.04,
+      "end": 24.64,
+      "words": [
+        {
+          "text": "Il",
+          "start": 23.04,
+          "end": 23.12
+        },
+        {
+          "text": "ne",
+          "start": 23.12,
+          "end": 23.2
+        },
+        {
+          "text": "mange",
+          "start": 23.2,
+          "end": 23.28
+        },
+        {
+          "text": "aucun",
+          "start": 23.28,
+          "end": 23.76
+        },
+        {
+          "text": "sucre",
+          "start": 23.76,
+          "end": 24.16
+        },
+        {
+          "text": "maintenant",
+          "start": 24.16,
+          "end": 24.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il ne mange aucun sucre",
+          "translations": {
+            "zh": "他不吃任何糖",
+            "en": "He eats no sugar",
+            "es": "No come ningún azúcar"
+          },
+          "start": 23.04,
+          "end": 24.16
+        },
+        {
+          "text": "maintenant.",
+          "translations": {
+            "zh": "现在。",
+            "en": "now.",
+            "es": "ahora."
+          },
+          "start": 24.16,
+          "end": 24.64
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Le lundi, je rencontrais des clients jusqu'à tard le soir.",
+      "translations": {
+        "zh": "每个星期一，我会见客户直到深夜。",
+        "en": "On Mondays, I would meet with clients until late in the evening.",
+        "es": "Los lunes, me encontraba con clientes hasta tarde por la noche."
+      },
+      "start": 28.48,
+      "end": 31.92,
+      "words": [
+        {
+          "text": "Le",
+          "start": 28.48,
+          "end": 28.64
+        },
+        {
+          "text": "lundi",
+          "start": 28.64,
+          "end": 29.2
+        },
+        {
+          "text": "je",
+          "start": 29.6,
+          "end": 29.76
+        },
+        {
+          "text": "rencontrais",
+          "start": 29.76,
+          "end": 30.16
+        },
+        {
+          "text": "des",
+          "start": 30.16,
+          "end": 30.24
+        },
+        {
+          "text": "clients",
+          "start": 30.24,
+          "end": 30.56
+        },
+        {
+          "text": "jusqu'à",
+          "start": 30.56,
+          "end": 30.88
+        },
+        {
+          "text": "tard",
+          "start": 30.88,
+          "end": 31.2
+        },
+        {
+          "text": "le",
+          "start": 31.2,
+          "end": 31.28
+        },
+        {
+          "text": "soir",
+          "start": 31.28,
+          "end": 31.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le lundi,",
+          "translations": {
+            "zh": "每个星期一，",
+            "en": "On Mondays,",
+            "es": "Los lunes,"
+          },
+          "start": 28.48,
+          "end": 29.2
+        },
+        {
+          "text": "je rencontrais des clients",
+          "translations": {
+            "zh": "我会见客户",
+            "en": "I would meet with clients",
+            "es": "me encontraba con clientes"
+          },
+          "start": 29.6,
+          "end": 30.56
+        },
+        {
+          "text": "jusqu'à tard le soir.",
+          "translations": {
+            "zh": "直到深夜。",
+            "en": "until late in the evening.",
+            "es": "hasta tarde por la noche."
+          },
+          "start": 30.56,
+          "end": 31.92
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Je vivais beaucoup de stress au quotidien.",
+      "translations": {
+        "zh": "我在日常生活中承受着很大的压力。",
+        "en": "I experienced a lot of stress on a daily basis.",
+        "es": "Vivía mucho estrés en el día a día."
+      },
+      "start": 34.08,
+      "end": 37.36,
+      "words": [
+        {
+          "text": "Je",
+          "start": 34.08,
+          "end": 34.48
+        },
+        {
+          "text": "vivais",
+          "start": 35.52,
+          "end": 35.92
+        },
+        {
+          "text": "beaucoup",
+          "start": 35.92,
+          "end": 36.24
+        },
+        {
+          "text": "de",
+          "start": 36.24,
+          "end": 36.32
+        },
+        {
+          "text": "stress",
+          "start": 36.32,
+          "end": 36.72
+        },
+        {
+          "text": "au",
+          "start": 36.72,
+          "end": 36.8
+        },
+        {
+          "text": "quotidien",
+          "start": 36.8,
+          "end": 37.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vivais beaucoup de stress",
+          "translations": {
+            "zh": "我承受着很大的压力",
+            "en": "I experienced a lot of stress",
+            "es": "Vivía mucho estrés"
+          },
+          "start": 34.08,
+          "end": 36.72
+        },
+        {
+          "text": "au quotidien.",
+          "translations": {
+            "zh": "在日常生活中。",
+            "en": "on a daily basis.",
+            "es": "en el día a día."
+          },
+          "start": 36.72,
+          "end": 37.36
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Lundi, je rencontre le docteur Pedro.",
+      "translations": {
+        "zh": "星期一，我见佩德罗医生。",
+        "en": "On Monday, I am meeting Doctor Pedro.",
+        "es": "El lunes, me encuentro con el doctor Pedro."
+      },
+      "start": 41.44,
+      "end": 43.6,
+      "words": [
+        {
+          "text": "Lundi",
+          "start": 41.44,
+          "end": 42.0
+        },
+        {
+          "text": "je",
+          "start": 42.0,
+          "end": 42.08
+        },
+        {
+          "text": "rencontre",
+          "start": 42.08,
+          "end": 42.64
+        },
+        {
+          "text": "le",
+          "start": 42.64,
+          "end": 42.72
+        },
+        {
+          "text": "docteur",
+          "start": 42.72,
+          "end": 43.12
+        },
+        {
+          "text": "Pedro",
+          "start": 43.12,
+          "end": 43.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Lundi,",
+          "translations": {
+            "zh": "星期一，",
+            "en": "On Monday,",
+            "es": "El lunes,"
+          },
+          "start": 41.44,
+          "end": 42.0
+        },
+        {
+          "text": "je rencontre le docteur Pedro.",
+          "translations": {
+            "zh": "我见佩德罗医生。",
+            "en": "I am meeting Doctor Pedro.",
+            "es": "me encuentro con el doctor Pedro."
+          },
+          "start": 42.0,
+          "end": 43.6
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Chaque lundi, il mangeait une grande pizza extra viande au complet.",
+      "translations": {
+        "zh": "每个星期一，他都把一张大号多肉比萨整个吃完。",
+        "en": "Every Monday, he would eat a large extra-meat pizza in its entirety.",
+        "es": "Cada lunes, se comía una pizza grande extra carne entera."
+      },
+      "start": 45.92,
+      "end": 52.8,
+      "words": [
+        {
+          "text": "Chaque",
+          "start": 45.92,
+          "end": 46.24
+        },
+        {
+          "text": "lundi",
+          "start": 48.0,
+          "end": 48.56
+        },
+        {
+          "text": "il",
+          "start": 49.12,
+          "end": 49.2
+        },
+        {
+          "text": "mangeait",
+          "start": 49.2,
+          "end": 49.76
+        },
+        {
+          "text": "une",
+          "start": 49.76,
+          "end": 50.0
+        },
+        {
+          "text": "grande",
+          "start": 50.0,
+          "end": 50.4
+        },
+        {
+          "text": "pizza",
+          "start": 50.4,
+          "end": 51.04
+        },
+        {
+          "text": "extra",
+          "start": 51.2,
+          "end": 51.6
+        },
+        {
+          "text": "viande",
+          "start": 51.6,
+          "end": 52.0
+        },
+        {
+          "text": "au",
+          "start": 52.08,
+          "end": 52.24
+        },
+        {
+          "text": "complet",
+          "start": 52.24,
+          "end": 52.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Chaque lundi,",
+          "translations": {
+            "zh": "每个星期一，",
+            "en": "Every Monday,",
+            "es": "Cada lunes,"
+          },
+          "start": 45.92,
+          "end": 48.56
+        },
+        {
+          "text": "il mangeait une grande pizza extra viande",
+          "translations": {
+            "zh": "他吃一张大号多肉比萨",
+            "en": "he would eat a large extra-meat pizza",
+            "es": "se comía una pizza grande extra carne"
+          },
+          "start": 49.12,
+          "end": 52.0
+        },
+        {
+          "text": "au complet.",
+          "translations": {
+            "zh": "整个吃完。",
+            "en": "in its entirety.",
+            "es": "entera."
+          },
+          "start": 52.08,
+          "end": 52.8
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Je prends ma retraite après ma sortie de l'hôpital.",
+      "translations": {
+        "zh": "我出院之后就退休。",
+        "en": "I am retiring after I get out of the hospital.",
+        "es": "Me jubilo después de mi salida del hospital."
+      },
+      "start": 54.88,
+      "end": 58.56,
+      "words": [
+        {
+          "text": "Je",
+          "start": 54.88,
+          "end": 54.96
+        },
+        {
+          "text": "prends",
+          "start": 56.48,
+          "end": 56.64
+        },
+        {
+          "text": "ma",
+          "start": 56.64,
+          "end": 56.8
+        },
+        {
+          "text": "retraite",
+          "start": 56.8,
+          "end": 57.2
+        },
+        {
+          "text": "après",
+          "start": 57.36,
+          "end": 57.6
+        },
+        {
+          "text": "ma",
+          "start": 57.6,
+          "end": 57.76
+        },
+        {
+          "text": "sortie",
+          "start": 57.76,
+          "end": 58.0
+        },
+        {
+          "text": "de",
+          "start": 58.0,
+          "end": 58.08
+        },
+        {
+          "text": "l'hôpital",
+          "start": 58.08,
+          "end": 58.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je prends ma retraite",
+          "translations": {
+            "zh": "我退休",
+            "en": "I am retiring",
+            "es": "Me jubilo"
+          },
+          "start": 54.88,
+          "end": 57.2
+        },
+        {
+          "text": "après ma sortie de l'hôpital.",
+          "translations": {
+            "zh": "出院之后。",
+            "en": "after I get out of the hospital.",
+            "es": "después de mi salida del hospital."
+          },
+          "start": 57.36,
+          "end": 58.56
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP09_P46",
+  "audio_filename": "FLS2_EP09_P46.mp3",
+  "audio_path": "downloads/FLS2_EP09_P46.mp3",
+  "episode": 9,
+  "piste": 46,
+  "page": 74,
+  "cd": "CD1"
+}

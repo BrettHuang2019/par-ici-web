@@ -1,0 +1,1881 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 10 Piste 50 Page 77",
+      "translations": {
+        "zh": "第10集 第50课 第77页",
+        "en": "Episode 10 Track 50 Page 77",
+        "es": "Episodio 10 Pista 50 Página 77"
+      },
+      "start": 0.8,
+      "end": 8.08,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.8,
+          "end": 1.52
+        },
+        {
+          "text": "10",
+          "start": 1.92,
+          "end": 2.24
+        },
+        {
+          "text": "Piste",
+          "start": 3.12,
+          "end": 3.12
+        },
+        {
+          "text": "50",
+          "start": 3.12,
+          "end": 5.04
+        },
+        {
+          "text": "Page",
+          "start": 5.04,
+          "end": 5.04
+        },
+        {
+          "text": "77",
+          "start": 6.4,
+          "end": 8.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 10",
+          "translations": {
+            "zh": "第10集",
+            "en": "Episode 10",
+            "es": "Episodio 10"
+          },
+          "start": 0.8,
+          "end": 2.24
+        },
+        {
+          "text": "Piste 50",
+          "translations": {
+            "zh": "第50课",
+            "en": "Track 50",
+            "es": "Pista 50"
+          },
+          "start": 3.12,
+          "end": 5.04
+        },
+        {
+          "text": "Page 77",
+          "translations": {
+            "zh": "第77页",
+            "en": "Page 77",
+            "es": "Página 77"
+          },
+          "start": 5.04,
+          "end": 8.08
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "J'ai quelques informations à vous donner au sujet de votre fracture et de votre plâtre.",
+      "translations": {
+        "zh": "我有一些关于您的骨折和石膏的信息要告诉您。",
+        "en": "I have some information to give you regarding your fracture and your cast.",
+        "es": "Tengo alguna información que darle sobre su fractura y su yeso."
+      },
+      "start": 8.08,
+      "end": 13.52,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 8.08,
+          "end": 8.08
+        },
+        {
+          "text": "quelques",
+          "start": 9.92,
+          "end": 10.24
+        },
+        {
+          "text": "informations",
+          "start": 10.24,
+          "end": 10.72
+        },
+        {
+          "text": "à",
+          "start": 10.8,
+          "end": 10.8
+        },
+        {
+          "text": "vous",
+          "start": 10.8,
+          "end": 10.96
+        },
+        {
+          "text": "donner",
+          "start": 10.96,
+          "end": 11.28
+        },
+        {
+          "text": "au",
+          "start": 11.28,
+          "end": 11.36
+        },
+        {
+          "text": "sujet",
+          "start": 11.36,
+          "end": 11.68
+        },
+        {
+          "text": "de",
+          "start": 11.68,
+          "end": 11.68
+        },
+        {
+          "text": "votre",
+          "start": 11.84,
+          "end": 12.16
+        },
+        {
+          "text": "fracture",
+          "start": 12.16,
+          "end": 12.64
+        },
+        {
+          "text": "et",
+          "start": 12.64,
+          "end": 12.72
+        },
+        {
+          "text": "de",
+          "start": 12.72,
+          "end": 12.8
+        },
+        {
+          "text": "votre",
+          "start": 12.8,
+          "end": 13.04
+        },
+        {
+          "text": "plâtre",
+          "start": 13.04,
+          "end": 13.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai quelques informations à vous donner",
+          "translations": {
+            "zh": "我有一些信息要告诉您",
+            "en": "I have some information to give you",
+            "es": "Tengo alguna información que darle"
+          },
+          "start": 8.08,
+          "end": 11.28
+        },
+        {
+          "text": "au sujet de votre fracture",
+          "translations": {
+            "zh": "关于您的骨折",
+            "en": "regarding your fracture",
+            "es": "sobre su fractura"
+          },
+          "start": 11.28,
+          "end": 12.64
+        },
+        {
+          "text": "et de votre plâtre.",
+          "translations": {
+            "zh": "和您的石膏。",
+            "en": "and your cast.",
+            "es": "y de su yeso."
+          },
+          "start": 12.64,
+          "end": 13.52
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "OK.",
+      "translations": {
+        "zh": "好的。",
+        "en": "OK.",
+        "es": "OK."
+      },
+      "start": 14.24,
+      "end": 14.4,
+      "words": [
+        {
+          "text": "OK",
+          "start": 14.24,
+          "end": 14.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "OK.",
+          "translations": {
+            "zh": "好的。",
+            "en": "OK.",
+            "es": "OK."
+          },
+          "start": 14.24,
+          "end": 14.4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Il se pourrait que vous ayez de la douleur à la jambe.",
+      "translations": {
+        "zh": "您的腿可能会痛。",
+        "en": "It is possible that you may have some pain in your leg.",
+        "es": "Puede que tenga dolor en la pierna."
+      },
+      "start": 15.52,
+      "end": 17.2,
+      "words": [
+        {
+          "text": "Il",
+          "start": 15.52,
+          "end": 15.6
+        },
+        {
+          "text": "se",
+          "start": 15.6,
+          "end": 15.6
+        },
+        {
+          "text": "pourrait",
+          "start": 15.6,
+          "end": 15.84
+        },
+        {
+          "text": "que",
+          "start": 15.84,
+          "end": 15.92
+        },
+        {
+          "text": "vous",
+          "start": 15.92,
+          "end": 16.08
+        },
+        {
+          "text": "ayez",
+          "start": 16.08,
+          "end": 16.24
+        },
+        {
+          "text": "de",
+          "start": 16.24,
+          "end": 16.32
+        },
+        {
+          "text": "la",
+          "start": 16.32,
+          "end": 16.4
+        },
+        {
+          "text": "douleur",
+          "start": 16.4,
+          "end": 16.8
+        },
+        {
+          "text": "à",
+          "start": 16.8,
+          "end": 16.88
+        },
+        {
+          "text": "la",
+          "start": 16.88,
+          "end": 16.96
+        },
+        {
+          "text": "jambe",
+          "start": 16.96,
+          "end": 17.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il se pourrait que",
+          "translations": {
+            "zh": "可能会",
+            "en": "It is possible that",
+            "es": "Puede que"
+          },
+          "start": 15.52,
+          "end": 15.92
+        },
+        {
+          "text": "vous ayez de la douleur à la jambe.",
+          "translations": {
+            "zh": "您的腿会痛。",
+            "en": "you may have some pain in your leg.",
+            "es": "tenga dolor en la pierna."
+          },
+          "start": 15.92,
+          "end": 17.2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Si c'est le cas, prenez de l'acétaminophène toutes les quatre heures.",
+      "translations": {
+        "zh": "如果这样的话，每四个小时服用一次对乙酰氨基酚。",
+        "en": "If that is the case, take acetaminophen every four hours.",
+        "es": "Si es así, tome acetaminofén cada cuatro horas."
+      },
+      "start": 17.68,
+      "end": 20.8,
+      "words": [
+        {
+          "text": "Si",
+          "start": 17.68,
+          "end": 17.84
+        },
+        {
+          "text": "c'est",
+          "start": 17.84,
+          "end": 18.0
+        },
+        {
+          "text": "le",
+          "start": 18.0,
+          "end": 18.16
+        },
+        {
+          "text": "cas",
+          "start": 18.16,
+          "end": 18.48
+        },
+        {
+          "text": "prenez",
+          "start": 18.48,
+          "end": 18.8
+        },
+        {
+          "text": "de",
+          "start": 18.8,
+          "end": 18.88
+        },
+        {
+          "text": "l'acétaminophène",
+          "start": 18.88,
+          "end": 19.84
+        },
+        {
+          "text": "toutes",
+          "start": 19.84,
+          "end": 20.08
+        },
+        {
+          "text": "les",
+          "start": 20.08,
+          "end": 20.16
+        },
+        {
+          "text": "quatre",
+          "start": 20.16,
+          "end": 20.48
+        },
+        {
+          "text": "heures",
+          "start": 20.48,
+          "end": 20.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Si c'est le cas,",
+          "translations": {
+            "zh": "如果这样的话，",
+            "en": "If that is the case,",
+            "es": "Si es así,"
+          },
+          "start": 17.68,
+          "end": 18.48
+        },
+        {
+          "text": "prenez de l'acétaminophène",
+          "translations": {
+            "zh": "服用对乙酰氨基酚",
+            "en": "take acetaminophen",
+            "es": "tome acetaminofén"
+          },
+          "start": 18.48,
+          "end": 19.84
+        },
+        {
+          "text": "toutes les quatre heures.",
+          "translations": {
+            "zh": "每四个小时一次。",
+            "en": "every four hours.",
+            "es": "cada cuatro horas."
+          },
+          "start": 19.84,
+          "end": 20.8
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Si vous ne vous sentez pas mieux demain, appelez-moi et je vous prescrirai quelque chose de plus fort.",
+      "translations": {
+        "zh": "如果您明天没有好转，请给我打电话，我会给您开一些更强效的药。",
+        "en": "If you don't feel better tomorrow, call me and I will prescribe you something stronger.",
+        "es": "Si no se siente mejor mañana, llámeme y le recetaré algo más fuerte."
+      },
+      "start": 21.12,
+      "end": 25.76,
+      "words": [
+        {
+          "text": "Si",
+          "start": 21.12,
+          "end": 21.28
+        },
+        {
+          "text": "vous",
+          "start": 21.28,
+          "end": 21.44
+        },
+        {
+          "text": "ne",
+          "start": 21.44,
+          "end": 21.44
+        },
+        {
+          "text": "vous",
+          "start": 21.44,
+          "end": 21.52
+        },
+        {
+          "text": "sentez",
+          "start": 21.52,
+          "end": 21.84
+        },
+        {
+          "text": "pas",
+          "start": 21.84,
+          "end": 22.0
+        },
+        {
+          "text": "mieux",
+          "start": 22.0,
+          "end": 22.24
+        },
+        {
+          "text": "demain",
+          "start": 22.24,
+          "end": 22.56
+        },
+        {
+          "text": "appelez",
+          "start": 22.96,
+          "end": 23.28
+        },
+        {
+          "text": "moi",
+          "start": 23.28,
+          "end": 23.76
+        },
+        {
+          "text": "et",
+          "start": 23.76,
+          "end": 23.84
+        },
+        {
+          "text": "je",
+          "start": 23.84,
+          "end": 24.0
+        },
+        {
+          "text": "vous",
+          "start": 24.0,
+          "end": 24.08
+        },
+        {
+          "text": "prescrirai",
+          "start": 24.08,
+          "end": 24.64
+        },
+        {
+          "text": "quelque",
+          "start": 24.64,
+          "end": 24.8
+        },
+        {
+          "text": "chose",
+          "start": 24.8,
+          "end": 25.12
+        },
+        {
+          "text": "de",
+          "start": 25.12,
+          "end": 25.12
+        },
+        {
+          "text": "plus",
+          "start": 25.12,
+          "end": 25.28
+        },
+        {
+          "text": "fort",
+          "start": 25.28,
+          "end": 25.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Si vous ne vous sentez pas mieux demain,",
+          "translations": {
+            "zh": "如果您明天没有好转，",
+            "en": "If you don't feel better tomorrow,",
+            "es": "Si no se siente mejor mañana,"
+          },
+          "start": 21.12,
+          "end": 22.56
+        },
+        {
+          "text": "appelez-moi",
+          "translations": {
+            "zh": "请给我打电话",
+            "en": "call me",
+            "es": "llámeme"
+          },
+          "start": 22.96,
+          "end": 23.76
+        },
+        {
+          "text": "et je vous prescrirai quelque chose de plus fort.",
+          "translations": {
+            "zh": "我会给您开一些更强效的药。",
+            "en": "and I will prescribe you something stronger.",
+            "es": "y le recetaré algo más fuerte."
+          },
+          "start": 23.76,
+          "end": 25.76
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "D'accord.",
+      "translations": {
+        "zh": "好的。",
+        "en": "All right.",
+        "es": "De acuerdo."
+      },
+      "start": 26.16,
+      "end": 26.64,
+      "words": [
+        {
+          "text": "D'accord",
+          "start": 26.16,
+          "end": 26.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'accord.",
+          "translations": {
+            "zh": "好的。",
+            "en": "All right.",
+            "es": "De acuerdo."
+          },
+          "start": 26.16,
+          "end": 26.64
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "L'enflure à votre jambe va diminuer d'ici 3-4 jours environ.",
+      "translations": {
+        "zh": "您腿部的肿胀大约在3到4天内会消退。",
+        "en": "The swelling in your leg will go down in about 3-4 days.",
+        "es": "La hinchazón de su pierna disminuirá en 3-4 días aproximadamente."
+      },
+      "start": 27.2,
+      "end": 30.08,
+      "words": [
+        {
+          "text": "L'enflure",
+          "start": 27.2,
+          "end": 27.6
+        },
+        {
+          "text": "à",
+          "start": 27.6,
+          "end": 27.68
+        },
+        {
+          "text": "votre",
+          "start": 27.68,
+          "end": 27.92
+        },
+        {
+          "text": "jambe",
+          "start": 27.92,
+          "end": 28.08
+        },
+        {
+          "text": "va",
+          "start": 28.08,
+          "end": 28.24
+        },
+        {
+          "text": "diminuer",
+          "start": 28.24,
+          "end": 28.64
+        },
+        {
+          "text": "d'ici",
+          "start": 28.64,
+          "end": 28.96
+        },
+        {
+          "text": "3",
+          "start": 28.96,
+          "end": 29.2
+        },
+        {
+          "text": "4",
+          "start": 29.2,
+          "end": 29.36
+        },
+        {
+          "text": "jours",
+          "start": 29.36,
+          "end": 29.6
+        },
+        {
+          "text": "environ",
+          "start": 29.6,
+          "end": 30.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "L'enflure à votre jambe",
+          "translations": {
+            "zh": "您腿部的肿胀",
+            "en": "The swelling in your leg",
+            "es": "La hinchazón de su pierna"
+          },
+          "start": 27.2,
+          "end": 28.08
+        },
+        {
+          "text": "va diminuer",
+          "translations": {
+            "zh": "会消退",
+            "en": "will go down",
+            "es": "va a disminuir"
+          },
+          "start": 28.08,
+          "end": 28.64
+        },
+        {
+          "text": "d'ici 3-4 jours environ.",
+          "translations": {
+            "zh": "大约3到4天内。",
+            "en": "in about 3-4 days.",
+            "es": "en 3-4 días aproximadamente."
+          },
+          "start": 28.64,
+          "end": 30.08
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Évitez de rester debout longtemps, mais bougez régulièrement.",
+      "translations": {
+        "zh": "避免长时间站立，但要定期活动。",
+        "en": "Avoid standing for a long time, but move around regularly.",
+        "es": "Evite permanecer de pie mucho tiempo, pero muévase regularmente."
+      },
+      "start": 31.12,
+      "end": 34.24,
+      "words": [
+        {
+          "text": "Évitez",
+          "start": 31.12,
+          "end": 31.44
+        },
+        {
+          "text": "de",
+          "start": 31.44,
+          "end": 31.44
+        },
+        {
+          "text": "rester",
+          "start": 31.44,
+          "end": 31.76
+        },
+        {
+          "text": "debout",
+          "start": 31.76,
+          "end": 32.16
+        },
+        {
+          "text": "longtemps",
+          "start": 32.16,
+          "end": 32.72
+        },
+        {
+          "text": "mais",
+          "start": 32.72,
+          "end": 32.96
+        },
+        {
+          "text": "bougez",
+          "start": 32.96,
+          "end": 33.44
+        },
+        {
+          "text": "régulièrement",
+          "start": 33.44,
+          "end": 34.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Évitez de rester debout longtemps,",
+          "translations": {
+            "zh": "避免长时间站立，",
+            "en": "Avoid standing for a long time,",
+            "es": "Evite permanecer de pie mucho tiempo,"
+          },
+          "start": 31.12,
+          "end": 32.72
+        },
+        {
+          "text": "mais bougez régulièrement.",
+          "translations": {
+            "zh": "但要定期活动。",
+            "en": "but move around regularly.",
+            "es": "pero muévase regularmente."
+          },
+          "start": 32.72,
+          "end": 34.24
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Bougez vos orteils souvent.",
+      "translations": {
+        "zh": "经常活动您的脚趾。",
+        "en": "Move your toes often.",
+        "es": "Mueva sus dedos de los pies a menudo."
+      },
+      "start": 34.88,
+      "end": 36.4,
+      "words": [
+        {
+          "text": "Bougez",
+          "start": 34.88,
+          "end": 35.2
+        },
+        {
+          "text": "vos",
+          "start": 35.2,
+          "end": 35.44
+        },
+        {
+          "text": "orteils",
+          "start": 35.44,
+          "end": 35.84
+        },
+        {
+          "text": "souvent",
+          "start": 35.84,
+          "end": 36.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bougez vos orteils souvent.",
+          "translations": {
+            "zh": "经常活动您的脚趾。",
+            "en": "Move your toes often.",
+            "es": "Mueva sus dedos de los pies a menudo."
+          },
+          "start": 34.88,
+          "end": 36.4
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Quand vous êtes couché ou assis, placez votre jambe plus haute que votre hanche.",
+      "translations": {
+        "zh": "当您躺着或坐着的时候，把您的腿放在比臀部高的位置。",
+        "en": "When you are lying down or sitting, place your leg higher than your hip.",
+        "es": "Cuando esté acostado o sentado, coloque su pierna más alta que su cadera."
+      },
+      "start": 37.2,
+      "end": 41.84,
+      "words": [
+        {
+          "text": "Quand",
+          "start": 37.2,
+          "end": 37.36
+        },
+        {
+          "text": "vous",
+          "start": 37.36,
+          "end": 37.52
+        },
+        {
+          "text": "êtes",
+          "start": 37.52,
+          "end": 37.6
+        },
+        {
+          "text": "couché",
+          "start": 37.68,
+          "end": 38.24
+        },
+        {
+          "text": "ou",
+          "start": 38.24,
+          "end": 38.4
+        },
+        {
+          "text": "assis",
+          "start": 38.4,
+          "end": 38.96
+        },
+        {
+          "text": "placez",
+          "start": 39.28,
+          "end": 39.6
+        },
+        {
+          "text": "votre",
+          "start": 39.6,
+          "end": 39.92
+        },
+        {
+          "text": "jambe",
+          "start": 39.92,
+          "end": 40.32
+        },
+        {
+          "text": "plus",
+          "start": 40.4,
+          "end": 40.64
+        },
+        {
+          "text": "haute",
+          "start": 40.64,
+          "end": 40.96
+        },
+        {
+          "text": "que",
+          "start": 40.96,
+          "end": 41.04
+        },
+        {
+          "text": "votre",
+          "start": 41.04,
+          "end": 41.36
+        },
+        {
+          "text": "hanche",
+          "start": 41.44,
+          "end": 41.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quand vous êtes couché ou assis,",
+          "translations": {
+            "zh": "当您躺着或坐着的时候，",
+            "en": "When you are lying down or sitting,",
+            "es": "Cuando esté acostado o sentado,"
+          },
+          "start": 37.2,
+          "end": 38.96
+        },
+        {
+          "text": "placez votre jambe",
+          "translations": {
+            "zh": "把您的腿放在",
+            "en": "place your leg",
+            "es": "coloque su pierna"
+          },
+          "start": 39.28,
+          "end": 40.32
+        },
+        {
+          "text": "plus haute que votre hanche.",
+          "translations": {
+            "zh": "比臀部高的位置。",
+            "en": "higher than your hip.",
+            "es": "más alta que su cadera."
+          },
+          "start": 40.4,
+          "end": 41.84
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Mettez un oreiller sous votre jambe pour la surélever.",
+      "translations": {
+        "zh": "在您的腿下面垫一个枕头来抬高它。",
+        "en": "Put a pillow under your leg to elevate it.",
+        "es": "Ponga una almohada debajo de su pierna para elevarla."
+      },
+      "start": 42.24,
+      "end": 44.72,
+      "words": [
+        {
+          "text": "Mettez",
+          "start": 42.24,
+          "end": 42.56
+        },
+        {
+          "text": "un",
+          "start": 42.56,
+          "end": 42.72
+        },
+        {
+          "text": "oreiller",
+          "start": 42.72,
+          "end": 43.04
+        },
+        {
+          "text": "sous",
+          "start": 43.04,
+          "end": 43.28
+        },
+        {
+          "text": "votre",
+          "start": 43.28,
+          "end": 43.44
+        },
+        {
+          "text": "jambe",
+          "start": 43.44,
+          "end": 43.84
+        },
+        {
+          "text": "pour",
+          "start": 43.84,
+          "end": 44.0
+        },
+        {
+          "text": "la",
+          "start": 44.0,
+          "end": 44.08
+        },
+        {
+          "text": "surélever",
+          "start": 44.08,
+          "end": 44.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mettez un oreiller sous votre jambe",
+          "translations": {
+            "zh": "在您的腿下面垫一个枕头",
+            "en": "Put a pillow under your leg",
+            "es": "Ponga una almohada debajo de su pierna"
+          },
+          "start": 42.24,
+          "end": 43.84
+        },
+        {
+          "text": "pour la surélever.",
+          "translations": {
+            "zh": "来抬高它。",
+            "en": "to elevate it.",
+            "es": "para elevarla."
+          },
+          "start": 43.84,
+          "end": 44.72
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Ah, OK, oui.",
+      "translations": {
+        "zh": "啊，好的，是的。",
+        "en": "Ah, OK, yes.",
+        "es": "Ah, OK, sí."
+      },
+      "start": 45.12,
+      "end": 46.72,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 45.12,
+          "end": 45.36
+        },
+        {
+          "text": "OK",
+          "start": 46.32,
+          "end": 46.48
+        },
+        {
+          "text": "oui",
+          "start": 46.48,
+          "end": 46.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah, OK, oui.",
+          "translations": {
+            "zh": "啊，好的，是的。",
+            "en": "Ah, OK, yes.",
+            "es": "Ah, OK, sí."
+          },
+          "start": 45.12,
+          "end": 46.72
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Avant votre départ, on va vous remettre un guide dans lequel vous allez retrouver toutes les informations sur la façon de prendre soin de votre plâtre.",
+      "translations": {
+        "zh": "在您离开之前，我们会给您一份指南，里面有关于如何护理您的石膏的所有信息。",
+        "en": "Before you leave, we will give you a guide in which you will find all the information on how to take care of your cast.",
+        "es": "Antes de su partida, le vamos a entregar una guía en la que va a encontrar toda la información sobre cómo cuidar su yeso."
+      },
+      "start": 47.44,
+      "end": 54.72,
+      "words": [
+        {
+          "text": "Avant",
+          "start": 47.44,
+          "end": 47.68
+        },
+        {
+          "text": "votre",
+          "start": 47.68,
+          "end": 47.84
+        },
+        {
+          "text": "départ",
+          "start": 47.84,
+          "end": 48.48
+        },
+        {
+          "text": "on",
+          "start": 48.88,
+          "end": 48.96
+        },
+        {
+          "text": "va",
+          "start": 48.96,
+          "end": 49.04
+        },
+        {
+          "text": "vous",
+          "start": 49.04,
+          "end": 49.28
+        },
+        {
+          "text": "remettre",
+          "start": 49.28,
+          "end": 49.52
+        },
+        {
+          "text": "un",
+          "start": 49.52,
+          "end": 49.68
+        },
+        {
+          "text": "guide",
+          "start": 49.68,
+          "end": 50.16
+        },
+        {
+          "text": "dans",
+          "start": 50.48,
+          "end": 50.72
+        },
+        {
+          "text": "lequel",
+          "start": 50.72,
+          "end": 50.96
+        },
+        {
+          "text": "vous",
+          "start": 50.96,
+          "end": 51.04
+        },
+        {
+          "text": "allez",
+          "start": 51.04,
+          "end": 51.2
+        },
+        {
+          "text": "retrouver",
+          "start": 51.2,
+          "end": 51.52
+        },
+        {
+          "text": "toutes",
+          "start": 51.52,
+          "end": 51.76
+        },
+        {
+          "text": "les",
+          "start": 51.76,
+          "end": 51.84
+        },
+        {
+          "text": "informations",
+          "start": 51.84,
+          "end": 52.4
+        },
+        {
+          "text": "sur",
+          "start": 52.4,
+          "end": 52.56
+        },
+        {
+          "text": "la",
+          "start": 52.56,
+          "end": 52.64
+        },
+        {
+          "text": "façon",
+          "start": 52.64,
+          "end": 53.2
+        },
+        {
+          "text": "de",
+          "start": 53.2,
+          "end": 53.28
+        },
+        {
+          "text": "prendre",
+          "start": 53.28,
+          "end": 53.68
+        },
+        {
+          "text": "soin",
+          "start": 53.68,
+          "end": 53.92
+        },
+        {
+          "text": "de",
+          "start": 53.92,
+          "end": 53.92
+        },
+        {
+          "text": "votre",
+          "start": 53.92,
+          "end": 54.24
+        },
+        {
+          "text": "plâtre",
+          "start": 54.24,
+          "end": 54.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Avant votre départ,",
+          "translations": {
+            "zh": "在您离开之前，",
+            "en": "Before you leave,",
+            "es": "Antes de su partida,"
+          },
+          "start": 47.44,
+          "end": 48.48
+        },
+        {
+          "text": "on va vous remettre un guide",
+          "translations": {
+            "zh": "我们会给您一份指南",
+            "en": "we will give you a guide",
+            "es": "le vamos a entregar una guía"
+          },
+          "start": 48.88,
+          "end": 50.16
+        },
+        {
+          "text": "dans lequel vous allez retrouver toutes les informations",
+          "translations": {
+            "zh": "里面有所有的信息",
+            "en": "in which you will find all the information",
+            "es": "en la que va a encontrar toda la información"
+          },
+          "start": 50.48,
+          "end": 52.4
+        },
+        {
+          "text": "sur la façon de prendre soin de votre plâtre.",
+          "translations": {
+            "zh": "关于如何护理您的石膏。",
+            "en": "on how to take care of your cast.",
+            "es": "sobre cómo cuidar su yeso."
+          },
+          "start": 52.4,
+          "end": 54.72
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Parfait.",
+      "translations": {
+        "zh": "太好了。",
+        "en": "Perfect.",
+        "es": "Perfecto."
+      },
+      "start": 55.12,
+      "end": 55.52,
+      "words": [
+        {
+          "text": "Parfait",
+          "start": 55.12,
+          "end": 55.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Parfait.",
+          "translations": {
+            "zh": "太好了。",
+            "en": "Perfect.",
+            "es": "Perfecto."
+          },
+          "start": 55.12,
+          "end": 55.52
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Ah...",
+      "translations": {
+        "zh": "啊……",
+        "en": "Ah...",
+        "es": "Ah..."
+      },
+      "start": 56.24,
+      "end": 56.48,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 56.24,
+          "end": 56.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah...",
+          "translations": {
+            "zh": "啊……",
+            "en": "Ah...",
+            "es": "Ah..."
+          },
+          "start": 56.24,
+          "end": 56.48
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Une chose : est-ce que je peux conduire ?",
+      "translations": {
+        "zh": "一件事：我可以开车吗？",
+        "en": "One thing: can I drive?",
+        "es": "Una cosa: ¿puedo conducir?"
+      },
+      "start": 56.96,
+      "end": 58.4,
+      "words": [
+        {
+          "text": "Une",
+          "start": 56.96,
+          "end": 57.12
+        },
+        {
+          "text": "chose",
+          "start": 57.12,
+          "end": 57.44
+        },
+        {
+          "text": "est",
+          "start": 57.44,
+          "end": 57.52
+        },
+        {
+          "text": "ce",
+          "start": 57.52,
+          "end": 57.6
+        },
+        {
+          "text": "que",
+          "start": 57.6,
+          "end": 57.68
+        },
+        {
+          "text": "je",
+          "start": 57.68,
+          "end": 57.76
+        },
+        {
+          "text": "peux",
+          "start": 57.76,
+          "end": 57.92
+        },
+        {
+          "text": "conduire",
+          "start": 57.92,
+          "end": 58.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Une chose :",
+          "translations": {
+            "zh": "一件事：",
+            "en": "One thing:",
+            "es": "Una cosa:"
+          },
+          "start": 56.96,
+          "end": 57.44
+        },
+        {
+          "text": "est-ce que je peux conduire ?",
+          "translations": {
+            "zh": "我可以开车吗？",
+            "en": "can I drive?",
+            "es": "¿puedo conducir?"
+          },
+          "start": 57.44,
+          "end": 58.4
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Avez-vous une voiture manuelle ou automatique ?",
+      "translations": {
+        "zh": "您的车是手动的还是自动的？",
+        "en": "Do you have a manual or automatic car?",
+        "es": "¿Tiene un coche manual o automático?"
+      },
+      "start": 58.88,
+      "end": 61.44,
+      "words": [
+        {
+          "text": "Avez",
+          "start": 58.88,
+          "end": 59.12
+        },
+        {
+          "text": "vous",
+          "start": 59.12,
+          "end": 59.6
+        },
+        {
+          "text": "une",
+          "start": 59.68,
+          "end": 59.92
+        },
+        {
+          "text": "voiture",
+          "start": 59.92,
+          "end": 60.24
+        },
+        {
+          "text": "manuelle",
+          "start": 60.24,
+          "end": 60.64
+        },
+        {
+          "text": "ou",
+          "start": 60.64,
+          "end": 60.72
+        },
+        {
+          "text": "automatique",
+          "start": 60.72,
+          "end": 61.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Avez-vous une voiture manuelle ou automatique ?",
+          "translations": {
+            "zh": "您的车是手动的还是自动的？",
+            "en": "Do you have a manual or automatic car?",
+            "es": "¿Tiene un coche manual o automático?"
+          },
+          "start": 58.88,
+          "end": 61.44
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Automatique.",
+      "translations": {
+        "zh": "自动的。",
+        "en": "Automatic.",
+        "es": "Automático."
+      },
+      "start": 61.92,
+      "end": 62.56,
+      "words": [
+        {
+          "text": "Automatique",
+          "start": 61.92,
+          "end": 62.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Automatique.",
+          "translations": {
+            "zh": "自动的。",
+            "en": "Automatic.",
+            "es": "Automático."
+          },
+          "start": 61.92,
+          "end": 62.56
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Dans ce cas-là, comme c'est votre jambe gauche qui est dans le plâtre, vous pouvez conduire.",
+      "translations": {
+        "zh": "既然这样的话，因为打石膏的是您的左腿，您可以开车。",
+        "en": "In that case, since it is your left leg that is in a cast, you can drive.",
+        "es": "En ese caso, como es su pierna izquierda la que está en el yeso, puede conducir."
+      },
+      "start": 63.68,
+      "end": 67.6,
+      "words": [
+        {
+          "text": "Dans",
+          "start": 63.68,
+          "end": 63.84
+        },
+        {
+          "text": "ce",
+          "start": 63.84,
+          "end": 63.92
+        },
+        {
+          "text": "cas",
+          "start": 63.92,
+          "end": 64.08
+        },
+        {
+          "text": "là",
+          "start": 64.08,
+          "end": 64.32
+        },
+        {
+          "text": "comme",
+          "start": 64.56,
+          "end": 64.72
+        },
+        {
+          "text": "c'est",
+          "start": 64.72,
+          "end": 64.8
+        },
+        {
+          "text": "votre",
+          "start": 64.88,
+          "end": 65.04
+        },
+        {
+          "text": "jambe",
+          "start": 65.04,
+          "end": 65.28
+        },
+        {
+          "text": "gauche",
+          "start": 65.28,
+          "end": 65.52
+        },
+        {
+          "text": "qui",
+          "start": 65.52,
+          "end": 65.68
+        },
+        {
+          "text": "est",
+          "start": 65.68,
+          "end": 65.76
+        },
+        {
+          "text": "dans",
+          "start": 65.76,
+          "end": 65.84
+        },
+        {
+          "text": "le",
+          "start": 65.84,
+          "end": 65.92
+        },
+        {
+          "text": "plâtre",
+          "start": 65.92,
+          "end": 66.32
+        },
+        {
+          "text": "vous",
+          "start": 66.72,
+          "end": 66.88
+        },
+        {
+          "text": "pouvez",
+          "start": 66.88,
+          "end": 67.04
+        },
+        {
+          "text": "conduire",
+          "start": 67.04,
+          "end": 67.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Dans ce cas-là,",
+          "translations": {
+            "zh": "既然这样的话，",
+            "en": "In that case,",
+            "es": "En ese caso,"
+          },
+          "start": 63.68,
+          "end": 64.32
+        },
+        {
+          "text": "comme c'est votre jambe gauche",
+          "translations": {
+            "zh": "因为您的左腿",
+            "en": "since it is your left leg",
+            "es": "como es su pierna izquierda"
+          },
+          "start": 64.56,
+          "end": 65.52
+        },
+        {
+          "text": "qui est dans le plâtre,",
+          "translations": {
+            "zh": "打了石膏，",
+            "en": "that is in a cast,",
+            "es": "la que está en el yeso,"
+          },
+          "start": 65.52,
+          "end": 66.32
+        },
+        {
+          "text": "vous pouvez conduire.",
+          "translations": {
+            "zh": "您可以开车。",
+            "en": "you can drive.",
+            "es": "puede conducir."
+          },
+          "start": 66.72,
+          "end": 67.6
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Ah, bon, ben, c'est une bonne nouvelle.",
+      "translations": {
+        "zh": "啊，好吧，这是个好消息。",
+        "en": "Ah, well, that's good news.",
+        "es": "Ah, bueno, pues, es una buena noticia."
+      },
+      "start": 68.0,
+      "end": 70.0,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 68.0,
+          "end": 68.16
+        },
+        {
+          "text": "bon",
+          "start": 68.16,
+          "end": 68.4
+        },
+        {
+          "text": "ben",
+          "start": 68.96,
+          "end": 69.2
+        },
+        {
+          "text": "c'est",
+          "start": 69.2,
+          "end": 69.36
+        },
+        {
+          "text": "une",
+          "start": 69.44,
+          "end": 69.52
+        },
+        {
+          "text": "bonne",
+          "start": 69.52,
+          "end": 69.68
+        },
+        {
+          "text": "nouvelle",
+          "start": 69.68,
+          "end": 70.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah, bon, ben,",
+          "translations": {
+            "zh": "啊，好吧，",
+            "en": "Ah, well,",
+            "es": "Ah, bueno, pues,"
+          },
+          "start": 68.0,
+          "end": 69.2
+        },
+        {
+          "text": "c'est une bonne nouvelle.",
+          "translations": {
+            "zh": "这是个好消息。",
+            "en": "that's good news.",
+            "es": "es una buena noticia."
+          },
+          "start": 69.2,
+          "end": 70.0
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "On se revoit dans 2 semaines.",
+      "translations": {
+        "zh": "我们两周后再见。",
+        "en": "We'll see each other again in 2 weeks.",
+        "es": "Nos vemos en 2 semanas."
+      },
+      "start": 70.72,
+      "end": 71.92,
+      "words": [
+        {
+          "text": "On",
+          "start": 70.72,
+          "end": 70.8
+        },
+        {
+          "text": "se",
+          "start": 70.8,
+          "end": 70.88
+        },
+        {
+          "text": "revoit",
+          "start": 70.88,
+          "end": 71.12
+        },
+        {
+          "text": "dans",
+          "start": 71.12,
+          "end": 71.36
+        },
+        {
+          "text": "2",
+          "start": 71.36,
+          "end": 71.52
+        },
+        {
+          "text": "semaines",
+          "start": 71.52,
+          "end": 71.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On se revoit dans 2 semaines.",
+          "translations": {
+            "zh": "我们两周后再见。",
+            "en": "We'll see each other again in 2 weeks.",
+            "es": "Nos vemos en 2 semanas."
+          },
+          "start": 70.72,
+          "end": 71.92
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "On va faire une radiographie à ce moment-là pour voir comment l'os se ressoude.",
+      "translations": {
+        "zh": "到那时候我们会拍一张X光片，看看骨头愈合得怎么样。",
+        "en": "We will do an X-ray at that time to see how the bone is healing.",
+        "es": "Vamos a hacer una radiografía en ese momento para ver cómo el hueso se suelda de nuevo."
+      },
+      "start": 72.56,
+      "end": 76.24,
+      "words": [
+        {
+          "text": "On",
+          "start": 72.56,
+          "end": 72.64
+        },
+        {
+          "text": "va",
+          "start": 72.64,
+          "end": 72.8
+        },
+        {
+          "text": "faire",
+          "start": 72.8,
+          "end": 72.96
+        },
+        {
+          "text": "une",
+          "start": 72.96,
+          "end": 73.04
+        },
+        {
+          "text": "radiographie",
+          "start": 73.04,
+          "end": 73.84
+        },
+        {
+          "text": "à",
+          "start": 73.84,
+          "end": 73.92
+        },
+        {
+          "text": "ce",
+          "start": 73.92,
+          "end": 74.08
+        },
+        {
+          "text": "moment",
+          "start": 74.08,
+          "end": 74.32
+        },
+        {
+          "text": "là",
+          "start": 74.32,
+          "end": 74.4
+        },
+        {
+          "text": "pour",
+          "start": 74.4,
+          "end": 74.56
+        },
+        {
+          "text": "voir",
+          "start": 74.56,
+          "end": 74.88
+        },
+        {
+          "text": "comment",
+          "start": 74.88,
+          "end": 75.12
+        },
+        {
+          "text": "l'os",
+          "start": 75.12,
+          "end": 75.36
+        },
+        {
+          "text": "se",
+          "start": 75.36,
+          "end": 75.6
+        },
+        {
+          "text": "ressoude",
+          "start": 75.6,
+          "end": 76.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On va faire une radiographie",
+          "translations": {
+            "zh": "我们会拍一张X光片",
+            "en": "We will do an X-ray",
+            "es": "Vamos a hacer una radiografía"
+          },
+          "start": 72.56,
+          "end": 73.84
+        },
+        {
+          "text": "à ce moment-là",
+          "translations": {
+            "zh": "到那时候",
+            "en": "at that time",
+            "es": "en ese momento"
+          },
+          "start": 73.84,
+          "end": 74.4
+        },
+        {
+          "text": "pour voir comment l'os se ressoude.",
+          "translations": {
+            "zh": "看看骨头愈合得怎么样。",
+            "en": "to see how the bone is healing.",
+            "es": "para ver cómo el hueso se suelda de nuevo."
+          },
+          "start": 74.4,
+          "end": 76.24
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Merci.",
+      "translations": {
+        "zh": "谢谢。",
+        "en": "Thank you.",
+        "es": "Gracias."
+      },
+      "start": 76.8,
+      "end": 77.2,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 76.8,
+          "end": 77.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci.",
+          "translations": {
+            "zh": "谢谢。",
+            "en": "Thank you.",
+            "es": "Gracias."
+          },
+          "start": 76.8,
+          "end": 77.2
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP10_P50",
+  "audio_filename": "FLS2_EP10_P50.mp3",
+  "audio_path": "downloads/FLS2_EP10_P50.mp3",
+  "episode": 10,
+  "piste": 50,
+  "page": 77,
+  "cd": "CD1"
+}

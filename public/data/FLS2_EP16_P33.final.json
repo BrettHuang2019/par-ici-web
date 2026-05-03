@@ -1,0 +1,2356 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 16 Piste 33 Page 123",
+      "translations": {
+        "zh": "第16集 第33课 第123页",
+        "en": "Episode 16 Track 33 Page 123",
+        "es": "Episodio 16 Pista 33 Página 123"
+      },
+      "start": 0.48,
+      "end": 12.8,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.48,
+          "end": 1.2
+        },
+        {
+          "text": "16",
+          "start": 1.44,
+          "end": 2.08
+        },
+        {
+          "text": "Piste",
+          "start": 2.96,
+          "end": 3.44
+        },
+        {
+          "text": "33",
+          "start": 3.92,
+          "end": 4.48
+        },
+        {
+          "text": "Page",
+          "start": 4.48,
+          "end": 6.72
+        },
+        {
+          "text": "123",
+          "start": 12.8,
+          "end": 12.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 16",
+          "translations": {
+            "zh": "第16集",
+            "en": "Episode 16",
+            "es": "Episodio 16"
+          },
+          "start": 0.48,
+          "end": 2.08
+        },
+        {
+          "text": "Piste 33",
+          "translations": {
+            "zh": "第33课",
+            "en": "Track 33",
+            "es": "Pista 33"
+          },
+          "start": 2.96,
+          "end": 4.48
+        },
+        {
+          "text": "Page 123",
+          "translations": {
+            "zh": "第123页",
+            "en": "Page 123",
+            "es": "Página 123"
+          },
+          "start": 4.48,
+          "end": 12.8
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Salut Geneviève !",
+      "translations": {
+        "zh": "你好，Geneviève！",
+        "en": "Hi Geneviève!",
+        "es": "¡Hola Geneviève!"
+      },
+      "start": 12.8,
+      "end": 13.6,
+      "words": [
+        {
+          "text": "Salut",
+          "start": 12.8,
+          "end": 13.12
+        },
+        {
+          "text": "Geneviève",
+          "start": 13.12,
+          "end": 13.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Salut Geneviève !",
+          "translations": {
+            "zh": "你好，Geneviève！",
+            "en": "Hi Geneviève!",
+            "es": "¡Hola Geneviève!"
+          },
+          "start": 12.8,
+          "end": 13.6
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Salut ma chère !",
+      "translations": {
+        "zh": "你好，亲爱的！",
+        "en": "Hi my dear!",
+        "es": "¡Hola querida!"
+      },
+      "start": 14.08,
+      "end": 14.72,
+      "words": [
+        {
+          "text": "Salut",
+          "start": 14.08,
+          "end": 14.4
+        },
+        {
+          "text": "ma",
+          "start": 14.4,
+          "end": 14.56
+        },
+        {
+          "text": "chère",
+          "start": 14.56,
+          "end": 14.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Salut ma chère !",
+          "translations": {
+            "zh": "你好，亲爱的！",
+            "en": "Hi my dear!",
+            "es": "¡Hola querida!"
+          },
+          "start": 14.08,
+          "end": 14.72
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Entre !",
+      "translations": {
+        "zh": "请进！",
+        "en": "Come in!",
+        "es": "¡Entra!"
+      },
+      "start": 15.36,
+      "end": 15.84,
+      "words": [
+        {
+          "text": "Entre",
+          "start": 15.36,
+          "end": 15.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Entre !",
+          "translations": {
+            "zh": "请进！",
+            "en": "Come in!",
+            "es": "¡Entra!"
+          },
+          "start": 15.36,
+          "end": 15.84
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Donne-moi ton manteau...",
+      "translations": {
+        "zh": "把你的大衣给我……",
+        "en": "Give me your coat...",
+        "es": "Dame tu abrigo..."
+      },
+      "start": 15.92,
+      "end": 16.72,
+      "words": [
+        {
+          "text": "Donne",
+          "start": 15.92,
+          "end": 16.08
+        },
+        {
+          "text": "moi",
+          "start": 16.08,
+          "end": 16.24
+        },
+        {
+          "text": "ton",
+          "start": 16.24,
+          "end": 16.4
+        },
+        {
+          "text": "manteau",
+          "start": 16.4,
+          "end": 16.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Donne-moi ton manteau...",
+          "translations": {
+            "zh": "把你的大衣给我……",
+            "en": "Give me your coat...",
+            "es": "Dame tu abrigo..."
+          },
+          "start": 15.92,
+          "end": 16.72
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Je te fais un café ?",
+      "translations": {
+        "zh": "我给你冲杯咖啡？",
+        "en": "Shall I make you a coffee?",
+        "es": "¿Te preparo un café?"
+      },
+      "start": 17.28,
+      "end": 18.0,
+      "words": [
+        {
+          "text": "Je",
+          "start": 17.28,
+          "end": 17.36
+        },
+        {
+          "text": "te",
+          "start": 17.36,
+          "end": 17.44
+        },
+        {
+          "text": "fais",
+          "start": 17.44,
+          "end": 17.6
+        },
+        {
+          "text": "un",
+          "start": 17.6,
+          "end": 17.6
+        },
+        {
+          "text": "café",
+          "start": 17.6,
+          "end": 18.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je te fais un café ?",
+          "translations": {
+            "zh": "我给你冲杯咖啡？",
+            "en": "Shall I make you a coffee?",
+            "es": "¿Te preparo un café?"
+          },
+          "start": 17.28,
+          "end": 18.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Non, je viens d'en boire un.",
+      "translations": {
+        "zh": "不用了，我刚喝过一杯。",
+        "en": "No, I just had one.",
+        "es": "No, acabo de tomar uno."
+      },
+      "start": 18.4,
+      "end": 19.68,
+      "words": [
+        {
+          "text": "Non",
+          "start": 18.4,
+          "end": 18.64
+        },
+        {
+          "text": "je",
+          "start": 18.64,
+          "end": 18.8
+        },
+        {
+          "text": "viens",
+          "start": 18.8,
+          "end": 18.88
+        },
+        {
+          "text": "d'en",
+          "start": 19.12,
+          "end": 19.28
+        },
+        {
+          "text": "boire",
+          "start": 19.28,
+          "end": 19.52
+        },
+        {
+          "text": "un",
+          "start": 19.52,
+          "end": 19.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Non,",
+          "translations": {
+            "zh": "不用了，",
+            "en": "No,",
+            "es": "No,"
+          },
+          "start": 18.4,
+          "end": 18.64
+        },
+        {
+          "text": "je viens d'en boire un.",
+          "translations": {
+            "zh": "我刚喝过一杯。",
+            "en": "I just had one.",
+            "es": "acabo de tomar uno."
+          },
+          "start": 18.64,
+          "end": 19.68
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Juste un verre d'eau, s'il te plait.",
+      "translations": {
+        "zh": "来一杯水就好，麻烦你了。",
+        "en": "Just a glass of water, please.",
+        "es": "Solo un vaso de agua, por favor."
+      },
+      "start": 20.0,
+      "end": 21.52,
+      "words": [
+        {
+          "text": "Juste",
+          "start": 20.0,
+          "end": 20.24
+        },
+        {
+          "text": "un",
+          "start": 20.24,
+          "end": 20.32
+        },
+        {
+          "text": "verre",
+          "start": 20.32,
+          "end": 20.56
+        },
+        {
+          "text": "d'eau",
+          "start": 20.56,
+          "end": 20.8
+        },
+        {
+          "text": "s'il",
+          "start": 20.96,
+          "end": 21.2
+        },
+        {
+          "text": "te",
+          "start": 21.2,
+          "end": 21.28
+        },
+        {
+          "text": "plait",
+          "start": 21.28,
+          "end": 21.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Juste un verre d'eau,",
+          "translations": {
+            "zh": "来一杯水就好，",
+            "en": "Just a glass of water,",
+            "es": "Solo un vaso de agua,"
+          },
+          "start": 20.0,
+          "end": 20.8
+        },
+        {
+          "text": "s'il te plait.",
+          "translations": {
+            "zh": "麻烦你了。",
+            "en": "please.",
+            "es": "por favor."
+          },
+          "start": 20.96,
+          "end": 21.52
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Alors, les vacances...",
+      "translations": {
+        "zh": "那么，假期的事……",
+        "en": "So, the holidays...",
+        "es": "Entonces, las vacaciones..."
+      },
+      "start": 22.16,
+      "end": 23.6,
+      "words": [
+        {
+          "text": "Alors",
+          "start": 22.16,
+          "end": 22.56
+        },
+        {
+          "text": "les",
+          "start": 22.8,
+          "end": 22.88
+        },
+        {
+          "text": "vacances",
+          "start": 22.88,
+          "end": 23.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Alors,",
+          "translations": {
+            "zh": "那么，",
+            "en": "So,",
+            "es": "Entonces,"
+          },
+          "start": 22.16,
+          "end": 22.56
+        },
+        {
+          "text": "les vacances...",
+          "translations": {
+            "zh": "假期的事……",
+            "en": "the holidays...",
+            "es": "las vacaciones..."
+          },
+          "start": 22.8,
+          "end": 23.6
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Écoute, il faut que je te dise...",
+      "translations": {
+        "zh": "听着，我得跟你说……",
+        "en": "Listen, I have to tell you...",
+        "es": "Escucha, tengo que decirte..."
+      },
+      "start": 23.92,
+      "end": 25.6,
+      "words": [
+        {
+          "text": "Écoute",
+          "start": 23.92,
+          "end": 24.4
+        },
+        {
+          "text": "il",
+          "start": 24.4,
+          "end": 24.48
+        },
+        {
+          "text": "faut",
+          "start": 24.48,
+          "end": 24.64
+        },
+        {
+          "text": "que",
+          "start": 24.64,
+          "end": 24.8
+        },
+        {
+          "text": "je",
+          "start": 24.8,
+          "end": 24.8
+        },
+        {
+          "text": "te",
+          "start": 24.88,
+          "end": 24.96
+        },
+        {
+          "text": "dise",
+          "start": 24.96,
+          "end": 25.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Écoute,",
+          "translations": {
+            "zh": "听着，",
+            "en": "Listen,",
+            "es": "Escucha,"
+          },
+          "start": 23.92,
+          "end": 24.4
+        },
+        {
+          "text": "il faut que je te dise...",
+          "translations": {
+            "zh": "我得跟你说……",
+            "en": "I have to tell you...",
+            "es": "tengo que decirte..."
+          },
+          "start": 24.4,
+          "end": 25.6
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Je n'ai pas les moyens de me payer des vacances cette année.",
+      "translations": {
+        "zh": "我今年没有钱去度假。",
+        "en": "I can't afford a vacation this year.",
+        "es": "No tengo los medios para pagarme unas vacaciones este año."
+      },
+      "start": 26.4,
+      "end": 29.04,
+      "words": [
+        {
+          "text": "Je",
+          "start": 26.4,
+          "end": 26.64
+        },
+        {
+          "text": "n'ai",
+          "start": 26.64,
+          "end": 26.72
+        },
+        {
+          "text": "pas",
+          "start": 26.72,
+          "end": 26.88
+        },
+        {
+          "text": "les",
+          "start": 26.88,
+          "end": 26.96
+        },
+        {
+          "text": "moyens",
+          "start": 26.96,
+          "end": 27.36
+        },
+        {
+          "text": "de",
+          "start": 27.36,
+          "end": 27.44
+        },
+        {
+          "text": "me",
+          "start": 27.44,
+          "end": 27.6
+        },
+        {
+          "text": "payer",
+          "start": 27.6,
+          "end": 27.92
+        },
+        {
+          "text": "des",
+          "start": 27.92,
+          "end": 28.08
+        },
+        {
+          "text": "vacances",
+          "start": 28.08,
+          "end": 28.56
+        },
+        {
+          "text": "cette",
+          "start": 28.56,
+          "end": 28.72
+        },
+        {
+          "text": "année",
+          "start": 28.72,
+          "end": 29.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je n'ai pas les moyens",
+          "translations": {
+            "zh": "我没有能力",
+            "en": "I don't have the means",
+            "es": "No tengo los medios"
+          },
+          "start": 26.4,
+          "end": 27.36
+        },
+        {
+          "text": "de me payer des vacances",
+          "translations": {
+            "zh": "负担度假的费用",
+            "en": "to pay for a vacation",
+            "es": "para pagarme unas vacaciones"
+          },
+          "start": 27.36,
+          "end": 28.56
+        },
+        {
+          "text": "cette année.",
+          "translations": {
+            "zh": "今年。",
+            "en": "this year.",
+            "es": "este año."
+          },
+          "start": 28.56,
+          "end": 29.04
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Finalement, je vais passer deux semaines à Edmonton chez mon père en juin.",
+      "translations": {
+        "zh": "最终，我六月会去埃德蒙顿我爸爸家住两个星期。",
+        "en": "In the end, I'm going to spend two weeks in Edmonton at my father's place in June.",
+        "es": "Finalmente, voy a pasar dos semanas en Edmonton en casa de mi padre en junio."
+      },
+      "start": 29.92,
+      "end": 33.2,
+      "words": [
+        {
+          "text": "Finalement",
+          "start": 29.92,
+          "end": 30.48
+        },
+        {
+          "text": "je",
+          "start": 30.48,
+          "end": 30.56
+        },
+        {
+          "text": "vais",
+          "start": 30.56,
+          "end": 30.72
+        },
+        {
+          "text": "passer",
+          "start": 30.72,
+          "end": 31.04
+        },
+        {
+          "text": "deux",
+          "start": 31.04,
+          "end": 31.28
+        },
+        {
+          "text": "semaines",
+          "start": 31.28,
+          "end": 31.52
+        },
+        {
+          "text": "à",
+          "start": 31.52,
+          "end": 31.6
+        },
+        {
+          "text": "Edmonton",
+          "start": 31.6,
+          "end": 32.08
+        },
+        {
+          "text": "chez",
+          "start": 32.16,
+          "end": 32.32
+        },
+        {
+          "text": "mon",
+          "start": 32.32,
+          "end": 32.48
+        },
+        {
+          "text": "père",
+          "start": 32.48,
+          "end": 32.72
+        },
+        {
+          "text": "en",
+          "start": 32.72,
+          "end": 32.88
+        },
+        {
+          "text": "juin",
+          "start": 32.88,
+          "end": 33.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Finalement,",
+          "translations": {
+            "zh": "最终，",
+            "en": "In the end,",
+            "es": "Finalmente,"
+          },
+          "start": 29.92,
+          "end": 30.48
+        },
+        {
+          "text": "je vais passer deux semaines à Edmonton",
+          "translations": {
+            "zh": "我要在埃德蒙顿待两个星期",
+            "en": "I'm going to spend two weeks in Edmonton",
+            "es": "voy a pasar dos semanas en Edmonton"
+          },
+          "start": 30.48,
+          "end": 32.08
+        },
+        {
+          "text": "chez mon père",
+          "translations": {
+            "zh": "在我爸爸家",
+            "en": "at my father's place",
+            "es": "en casa de mi padre"
+          },
+          "start": 32.16,
+          "end": 32.72
+        },
+        {
+          "text": "en juin.",
+          "translations": {
+            "zh": "六月。",
+            "en": "in June.",
+            "es": "en junio."
+          },
+          "start": 32.72,
+          "end": 33.2
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Et, en aout, mon amie Simone me propose d'habiter chez elle à Moncton pendant qu'elle sera en Europe.",
+      "translations": {
+        "zh": "还有，八月份，我的朋友Simone提议我在她去欧洲期间住在她蒙克顿的家里。",
+        "en": "And, in August, my friend Simone is offering me to stay at her place in Moncton while she'll be in Europe.",
+        "es": "Y, en agosto, mi amiga Simone me propone vivir en su casa en Moncton mientras ella esté en Europa."
+      },
+      "start": 33.84,
+      "end": 38.64,
+      "words": [
+        {
+          "text": "Et",
+          "start": 33.84,
+          "end": 34.0
+        },
+        {
+          "text": "en",
+          "start": 34.0,
+          "end": 34.16
+        },
+        {
+          "text": "aout",
+          "start": 34.16,
+          "end": 34.56
+        },
+        {
+          "text": "mon",
+          "start": 34.56,
+          "end": 34.72
+        },
+        {
+          "text": "amie",
+          "start": 34.72,
+          "end": 34.96
+        },
+        {
+          "text": "Simone",
+          "start": 34.96,
+          "end": 35.44
+        },
+        {
+          "text": "me",
+          "start": 35.44,
+          "end": 35.6
+        },
+        {
+          "text": "propose",
+          "start": 35.6,
+          "end": 36.08
+        },
+        {
+          "text": "d'habiter",
+          "start": 36.08,
+          "end": 36.48
+        },
+        {
+          "text": "chez",
+          "start": 36.48,
+          "end": 36.64
+        },
+        {
+          "text": "elle",
+          "start": 36.72,
+          "end": 36.88
+        },
+        {
+          "text": "à",
+          "start": 36.88,
+          "end": 36.96
+        },
+        {
+          "text": "Moncton",
+          "start": 36.96,
+          "end": 37.44
+        },
+        {
+          "text": "pendant",
+          "start": 37.44,
+          "end": 37.84
+        },
+        {
+          "text": "qu'elle",
+          "start": 37.84,
+          "end": 37.92
+        },
+        {
+          "text": "sera",
+          "start": 37.92,
+          "end": 38.16
+        },
+        {
+          "text": "en",
+          "start": 38.16,
+          "end": 38.16
+        },
+        {
+          "text": "Europe",
+          "start": 38.16,
+          "end": 38.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et, en aout,",
+          "translations": {
+            "zh": "还有，八月份，",
+            "en": "And, in August,",
+            "es": "Y, en agosto,"
+          },
+          "start": 33.84,
+          "end": 34.56
+        },
+        {
+          "text": "mon amie Simone me propose",
+          "translations": {
+            "zh": "我的朋友Simone提议我",
+            "en": "my friend Simone is offering me",
+            "es": "mi amiga Simone me propone"
+          },
+          "start": 34.56,
+          "end": 36.08
+        },
+        {
+          "text": "d'habiter chez elle à Moncton",
+          "translations": {
+            "zh": "住在她蒙克顿的家里",
+            "en": "to stay at her place in Moncton",
+            "es": "vivir en su casa en Moncton"
+          },
+          "start": 36.08,
+          "end": 37.44
+        },
+        {
+          "text": "pendant qu'elle sera en Europe.",
+          "translations": {
+            "zh": "在她去欧洲期间。",
+            "en": "while she'll be in Europe.",
+            "es": "mientras ella esté en Europa."
+          },
+          "start": 37.44,
+          "end": 38.64
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Je pense que je vais accepter.",
+      "translations": {
+        "zh": "我想我会接受的。",
+        "en": "I think I'm going to accept.",
+        "es": "Creo que voy a aceptar."
+      },
+      "start": 39.6,
+      "end": 40.88,
+      "words": [
+        {
+          "text": "Je",
+          "start": 39.6,
+          "end": 39.76
+        },
+        {
+          "text": "pense",
+          "start": 39.76,
+          "end": 40.0
+        },
+        {
+          "text": "que",
+          "start": 40.0,
+          "end": 40.16
+        },
+        {
+          "text": "je",
+          "start": 40.16,
+          "end": 40.24
+        },
+        {
+          "text": "vais",
+          "start": 40.24,
+          "end": 40.32
+        },
+        {
+          "text": "accepter",
+          "start": 40.32,
+          "end": 40.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je pense que",
+          "translations": {
+            "zh": "我想",
+            "en": "I think that",
+            "es": "Creo que"
+          },
+          "start": 39.6,
+          "end": 40.16
+        },
+        {
+          "text": "je vais accepter.",
+          "translations": {
+            "zh": "我会接受的。",
+            "en": "I'm going to accept.",
+            "es": "voy a aceptar."
+          },
+          "start": 40.16,
+          "end": 40.88
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Je suis déçue de ne pas pouvoir vous accompagner, mais on va se reprendre, hein ?",
+      "translations": {
+        "zh": "我很失望不能陪你们一起去，但我们会再约的，对吧？",
+        "en": "I'm disappointed not to be able to go with you, but we'll make up for it, right?",
+        "es": "Estoy decepcionada de no poder acompañarlas, pero lo retomaremos, ¿no?"
+      },
+      "start": 41.84,
+      "end": 45.52,
+      "words": [
+        {
+          "text": "Je",
+          "start": 41.84,
+          "end": 41.92
+        },
+        {
+          "text": "suis",
+          "start": 41.92,
+          "end": 42.16
+        },
+        {
+          "text": "déçue",
+          "start": 42.16,
+          "end": 42.8
+        },
+        {
+          "text": "de",
+          "start": 42.8,
+          "end": 42.88
+        },
+        {
+          "text": "ne",
+          "start": 42.88,
+          "end": 42.96
+        },
+        {
+          "text": "pas",
+          "start": 42.96,
+          "end": 43.12
+        },
+        {
+          "text": "pouvoir",
+          "start": 43.12,
+          "end": 43.44
+        },
+        {
+          "text": "vous",
+          "start": 43.44,
+          "end": 43.68
+        },
+        {
+          "text": "accompagner",
+          "start": 43.68,
+          "end": 44.32
+        },
+        {
+          "text": "mais",
+          "start": 44.32,
+          "end": 44.56
+        },
+        {
+          "text": "on",
+          "start": 44.56,
+          "end": 44.64
+        },
+        {
+          "text": "va",
+          "start": 44.64,
+          "end": 44.8
+        },
+        {
+          "text": "se",
+          "start": 44.8,
+          "end": 44.96
+        },
+        {
+          "text": "reprendre",
+          "start": 44.96,
+          "end": 45.36
+        },
+        {
+          "text": "hein",
+          "start": 45.36,
+          "end": 45.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis déçue de ne pas pouvoir vous accompagner,",
+          "translations": {
+            "zh": "我很失望不能陪你们一起去，",
+            "en": "I'm disappointed not to be able to go with you,",
+            "es": "Estoy decepcionada de no poder acompañarlas,"
+          },
+          "start": 41.84,
+          "end": 44.32
+        },
+        {
+          "text": "mais on va se reprendre,",
+          "translations": {
+            "zh": "但我们会再约的，",
+            "en": "but we'll make up for it,",
+            "es": "pero lo retomaremos,"
+          },
+          "start": 44.32,
+          "end": 45.36
+        },
+        {
+          "text": "hein ?",
+          "translations": {
+            "zh": "对吧？",
+            "en": "right?",
+            "es": "¿no?"
+          },
+          "start": 45.36,
+          "end": 45.52
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Tu ne m'en veux pas ?",
+      "translations": {
+        "zh": "你不怪我吧？",
+        "en": "You're not mad at me?",
+        "es": "¿No estás enfadada conmigo?"
+      },
+      "start": 46.56,
+      "end": 47.2,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 46.56,
+          "end": 46.72
+        },
+        {
+          "text": "ne",
+          "start": 46.72,
+          "end": 46.8
+        },
+        {
+          "text": "m'en",
+          "start": 46.8,
+          "end": 46.88
+        },
+        {
+          "text": "veux",
+          "start": 46.88,
+          "end": 46.96
+        },
+        {
+          "text": "pas",
+          "start": 46.96,
+          "end": 47.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu ne m'en veux pas ?",
+          "translations": {
+            "zh": "你不怪我吧？",
+            "en": "You're not mad at me?",
+            "es": "¿No estás enfadada conmigo?"
+          },
+          "start": 46.56,
+          "end": 47.2
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Ben non, voyons !",
+      "translations": {
+        "zh": "当然不会啦，瞧你说的！",
+        "en": "Of course not, come on!",
+        "es": "¡Pues no, vamos!"
+      },
+      "start": 47.76,
+      "end": 48.72,
+      "words": [
+        {
+          "text": "Ben",
+          "start": 47.76,
+          "end": 48.16
+        },
+        {
+          "text": "non",
+          "start": 48.16,
+          "end": 48.4
+        },
+        {
+          "text": "voyons",
+          "start": 48.4,
+          "end": 48.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ben non,",
+          "translations": {
+            "zh": "当然不会，",
+            "en": "Of course not,",
+            "es": "Pues no,"
+          },
+          "start": 47.76,
+          "end": 48.4
+        },
+        {
+          "text": "voyons !",
+          "translations": {
+            "zh": "瞧你说的！",
+            "en": "come on!",
+            "es": "¡vamos!"
+          },
+          "start": 48.4,
+          "end": 48.72
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Et tu sais quoi, j'allais t'annoncer que, Thomas et moi, on a envie de rester au Québec, finalement.",
+      "translations": {
+        "zh": "你知道么，我正要告诉你，Thomas和我，我们想留在魁北克，最终。",
+        "en": "And you know what, I was going to tell you that, Thomas and I, we want to stay in Quebec, in the end.",
+        "es": "¿Y sabes qué?, iba a anunciarte que, Thomas y yo, tenemos ganas de quedarnos en Quebec, finalmente."
+      },
+      "start": 49.44,
+      "end": 53.84,
+      "words": [
+        {
+          "text": "Et",
+          "start": 49.44,
+          "end": 49.52
+        },
+        {
+          "text": "tu",
+          "start": 49.52,
+          "end": 49.6
+        },
+        {
+          "text": "sais",
+          "start": 49.6,
+          "end": 49.76
+        },
+        {
+          "text": "quoi",
+          "start": 49.76,
+          "end": 50.0
+        },
+        {
+          "text": "j'allais",
+          "start": 50.4,
+          "end": 50.72
+        },
+        {
+          "text": "t'annoncer",
+          "start": 50.72,
+          "end": 51.2
+        },
+        {
+          "text": "que",
+          "start": 51.2,
+          "end": 51.36
+        },
+        {
+          "text": "Thomas",
+          "start": 51.36,
+          "end": 51.68
+        },
+        {
+          "text": "et",
+          "start": 51.68,
+          "end": 51.68
+        },
+        {
+          "text": "moi",
+          "start": 51.68,
+          "end": 52.0
+        },
+        {
+          "text": "on",
+          "start": 52.0,
+          "end": 52.16
+        },
+        {
+          "text": "a",
+          "start": 52.16,
+          "end": 52.16
+        },
+        {
+          "text": "envie",
+          "start": 52.16,
+          "end": 52.48
+        },
+        {
+          "text": "de",
+          "start": 52.48,
+          "end": 52.48
+        },
+        {
+          "text": "rester",
+          "start": 52.48,
+          "end": 52.8
+        },
+        {
+          "text": "au",
+          "start": 52.8,
+          "end": 52.88
+        },
+        {
+          "text": "Québec",
+          "start": 52.88,
+          "end": 53.28
+        },
+        {
+          "text": "finalement",
+          "start": 53.28,
+          "end": 53.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et tu sais quoi,",
+          "translations": {
+            "zh": "你知道么，",
+            "en": "And you know what,",
+            "es": "¿Y sabes qué?,"
+          },
+          "start": 49.44,
+          "end": 50.0
+        },
+        {
+          "text": "j'allais t'annoncer que,",
+          "translations": {
+            "zh": "我正要告诉你，",
+            "en": "I was going to tell you that,",
+            "es": "iba a anunciarte que,"
+          },
+          "start": 50.4,
+          "end": 51.36
+        },
+        {
+          "text": "Thomas et moi,",
+          "translations": {
+            "zh": "Thomas和我，",
+            "en": "Thomas and I,",
+            "es": "Thomas y yo,"
+          },
+          "start": 51.36,
+          "end": 52.0
+        },
+        {
+          "text": "on a envie de rester au Québec,",
+          "translations": {
+            "zh": "我们想留在魁北克，",
+            "en": "we want to stay in Quebec,",
+            "es": "tenemos ganas de quedarnos en Quebec,"
+          },
+          "start": 52.0,
+          "end": 53.28
+        },
+        {
+          "text": "finalement.",
+          "translations": {
+            "zh": "最终。",
+            "en": "in the end.",
+            "es": "finalmente."
+          },
+          "start": 53.28,
+          "end": 53.84
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "D'aller voir les baleines, de faire de la plongée, de la voile...",
+      "translations": {
+        "zh": "去看鲸鱼，潜水，帆船……",
+        "en": "To go see the whales, to go scuba diving, sailing...",
+        "es": "Ir a ver las ballenas, hacer buceo, vela..."
+      },
+      "start": 54.4,
+      "end": 57.52,
+      "words": [
+        {
+          "text": "D'aller",
+          "start": 54.4,
+          "end": 54.56
+        },
+        {
+          "text": "voir",
+          "start": 54.56,
+          "end": 54.8
+        },
+        {
+          "text": "les",
+          "start": 54.8,
+          "end": 54.88
+        },
+        {
+          "text": "baleines",
+          "start": 54.88,
+          "end": 55.52
+        },
+        {
+          "text": "de",
+          "start": 55.52,
+          "end": 55.68
+        },
+        {
+          "text": "faire",
+          "start": 55.68,
+          "end": 55.92
+        },
+        {
+          "text": "de",
+          "start": 55.92,
+          "end": 56.0
+        },
+        {
+          "text": "la",
+          "start": 56.0,
+          "end": 56.08
+        },
+        {
+          "text": "plongée",
+          "start": 56.08,
+          "end": 56.8
+        },
+        {
+          "text": "de",
+          "start": 56.8,
+          "end": 56.88
+        },
+        {
+          "text": "la",
+          "start": 56.88,
+          "end": 57.04
+        },
+        {
+          "text": "voile",
+          "start": 57.04,
+          "end": 57.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'aller voir les baleines,",
+          "translations": {
+            "zh": "去看鲸鱼，",
+            "en": "To go see the whales,",
+            "es": "Ir a ver las ballenas,"
+          },
+          "start": 54.4,
+          "end": 55.52
+        },
+        {
+          "text": "de faire de la plongée,",
+          "translations": {
+            "zh": "潜水，",
+            "en": "to go scuba diving,",
+            "es": "hacer buceo,"
+          },
+          "start": 55.52,
+          "end": 56.8
+        },
+        {
+          "text": "de la voile...",
+          "translations": {
+            "zh": "帆船……",
+            "en": "sailing...",
+            "es": "vela..."
+          },
+          "start": 56.8,
+          "end": 57.52
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "On pense aller en Gaspésie, mais on n'est pas décidés encore.",
+      "translations": {
+        "zh": "我们打算去加斯佩西，但还没决定好。",
+        "en": "We're thinking of going to Gaspésie, but we haven't decided yet.",
+        "es": "Pensamos ir a Gaspesia, pero aún no estamos decididos."
+      },
+      "start": 58.0,
+      "end": 61.2,
+      "words": [
+        {
+          "text": "On",
+          "start": 58.0,
+          "end": 58.16
+        },
+        {
+          "text": "pense",
+          "start": 58.16,
+          "end": 58.4
+        },
+        {
+          "text": "aller",
+          "start": 58.4,
+          "end": 58.64
+        },
+        {
+          "text": "en",
+          "start": 58.64,
+          "end": 58.72
+        },
+        {
+          "text": "Gaspésie",
+          "start": 58.72,
+          "end": 59.36
+        },
+        {
+          "text": "mais",
+          "start": 59.68,
+          "end": 59.92
+        },
+        {
+          "text": "on",
+          "start": 59.92,
+          "end": 60.0
+        },
+        {
+          "text": "n'est",
+          "start": 60.0,
+          "end": 60.16
+        },
+        {
+          "text": "pas",
+          "start": 60.16,
+          "end": 60.24
+        },
+        {
+          "text": "décidés",
+          "start": 60.24,
+          "end": 60.72
+        },
+        {
+          "text": "encore",
+          "start": 60.72,
+          "end": 61.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On pense aller en Gaspésie,",
+          "translations": {
+            "zh": "我们打算去加斯佩西，",
+            "en": "We're thinking of going to Gaspésie,",
+            "es": "Pensamos ir a Gaspesia,"
+          },
+          "start": 58.0,
+          "end": 59.36
+        },
+        {
+          "text": "mais on n'est pas décidés encore.",
+          "translations": {
+            "zh": "但还没决定好。",
+            "en": "but we haven't decided yet.",
+            "es": "pero aún no estamos decididos."
+          },
+          "start": 59.68,
+          "end": 61.2
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Oh là là, je l'ai échappé belle !",
+      "translations": {
+        "zh": "哎呀，我真是逃过一劫！",
+        "en": "Oh my, that was a close call!",
+        "es": "¡Ay, me salvé por los pelos!"
+      },
+      "start": 61.52,
+      "end": 63.28,
+      "words": [
+        {
+          "text": "Oh",
+          "start": 61.52,
+          "end": 61.76
+        },
+        {
+          "text": "là",
+          "start": 61.76,
+          "end": 62.0
+        },
+        {
+          "text": "là",
+          "start": 62.0,
+          "end": 62.24
+        },
+        {
+          "text": "je",
+          "start": 62.24,
+          "end": 62.32
+        },
+        {
+          "text": "l'ai",
+          "start": 62.32,
+          "end": 62.56
+        },
+        {
+          "text": "échappé",
+          "start": 62.56,
+          "end": 62.96
+        },
+        {
+          "text": "belle",
+          "start": 62.96,
+          "end": 63.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oh là là,",
+          "translations": {
+            "zh": "哎呀，",
+            "en": "Oh my,",
+            "es": "¡Ay,"
+          },
+          "start": 61.52,
+          "end": 62.24
+        },
+        {
+          "text": "je l'ai échappé belle !",
+          "translations": {
+            "zh": "我真是逃过一劫！",
+            "en": "that was a close call!",
+            "es": "me salvé por los pelos!"
+          },
+          "start": 62.24,
+          "end": 63.28
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Quoiqu'à Moncton, je risque de voir de l'eau quand même...",
+      "translations": {
+        "zh": "不过在蒙克顿，我还是有可能看到水的……",
+        "en": "Although in Moncton, I might still see some water anyway...",
+        "es": "Aunque en Moncton, es probable que vea agua de todos modos..."
+      },
+      "start": 65.52,
+      "end": 68.8,
+      "words": [
+        {
+          "text": "Quoiqu'à",
+          "start": 65.52,
+          "end": 66.0
+        },
+        {
+          "text": "Moncton",
+          "start": 66.0,
+          "end": 66.4
+        },
+        {
+          "text": "je",
+          "start": 66.72,
+          "end": 66.88
+        },
+        {
+          "text": "risque",
+          "start": 67.04,
+          "end": 67.44
+        },
+        {
+          "text": "de",
+          "start": 67.44,
+          "end": 67.52
+        },
+        {
+          "text": "voir",
+          "start": 67.52,
+          "end": 67.84
+        },
+        {
+          "text": "de",
+          "start": 67.84,
+          "end": 68.0
+        },
+        {
+          "text": "l'eau",
+          "start": 68.0,
+          "end": 68.16
+        },
+        {
+          "text": "quand",
+          "start": 68.16,
+          "end": 68.4
+        },
+        {
+          "text": "même",
+          "start": 68.4,
+          "end": 68.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quoiqu'à Moncton,",
+          "translations": {
+            "zh": "不过在蒙克顿，",
+            "en": "Although in Moncton,",
+            "es": "Aunque en Moncton,"
+          },
+          "start": 65.52,
+          "end": 66.4
+        },
+        {
+          "text": "je risque de voir de l'eau",
+          "translations": {
+            "zh": "我还是有可能看到水",
+            "en": "I might see some water",
+            "es": "es probable que vea agua"
+          },
+          "start": 66.72,
+          "end": 68.16
+        },
+        {
+          "text": "quand même...",
+          "translations": {
+            "zh": "毕竟……",
+            "en": "anyway...",
+            "es": "de todos modos..."
+          },
+          "start": 68.16,
+          "end": 68.8
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Dans les Maritimes, de l'eau ?",
+      "translations": {
+        "zh": "在滨海诸省，还有水？",
+        "en": "In the Maritimes, water?",
+        "es": "¿En las Marítimas, agua?"
+      },
+      "start": 69.36,
+      "end": 70.72,
+      "words": [
+        {
+          "text": "Dans",
+          "start": 69.36,
+          "end": 69.6
+        },
+        {
+          "text": "les",
+          "start": 69.6,
+          "end": 69.76
+        },
+        {
+          "text": "Maritimes",
+          "start": 69.76,
+          "end": 70.32
+        },
+        {
+          "text": "de",
+          "start": 70.48,
+          "end": 70.72
+        },
+        {
+          "text": "l'eau",
+          "start": 70.72,
+          "end": 70.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Dans les Maritimes,",
+          "translations": {
+            "zh": "在滨海诸省，",
+            "en": "In the Maritimes,",
+            "es": "¿En las Marítimas,"
+          },
+          "start": 69.36,
+          "end": 70.32
+        },
+        {
+          "text": "de l'eau ?",
+          "translations": {
+            "zh": "还有水？",
+            "en": "water?",
+            "es": "agua?"
+          },
+          "start": 70.48,
+          "end": 70.72
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Il y a de bonnes chances !",
+      "translations": {
+        "zh": "很有可能！",
+        "en": "There's a good chance!",
+        "es": "¡Hay muchas probabilidades!"
+      },
+      "start": 71.44,
+      "end": 72.56,
+      "words": [
+        {
+          "text": "Il",
+          "start": 71.44,
+          "end": 71.52
+        },
+        {
+          "text": "y",
+          "start": 71.52,
+          "end": 71.6
+        },
+        {
+          "text": "a",
+          "start": 71.6,
+          "end": 71.68
+        },
+        {
+          "text": "de",
+          "start": 71.68,
+          "end": 71.76
+        },
+        {
+          "text": "bonnes",
+          "start": 71.76,
+          "end": 71.92
+        },
+        {
+          "text": "chances",
+          "start": 71.92,
+          "end": 72.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il y a de bonnes chances !",
+          "translations": {
+            "zh": "很有可能！",
+            "en": "There's a good chance!",
+            "es": "¡Hay muchas probabilidades!"
+          },
+          "start": 71.44,
+          "end": 72.56
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Les Prairies, ça ne te tenterait pas ?",
+      "translations": {
+        "zh": "大草原，你不感兴趣吗？",
+        "en": "The Prairies, that wouldn't tempt you?",
+        "es": "¿Las Praderas, no te tentaría?"
+      },
+      "start": 72.96,
+      "end": 74.24,
+      "words": [
+        {
+          "text": "Les",
+          "start": 72.96,
+          "end": 73.12
+        },
+        {
+          "text": "Prairies",
+          "start": 73.12,
+          "end": 73.44
+        },
+        {
+          "text": "ça",
+          "start": 73.44,
+          "end": 73.6
+        },
+        {
+          "text": "ne",
+          "start": 73.6,
+          "end": 73.68
+        },
+        {
+          "text": "te",
+          "start": 73.68,
+          "end": 73.76
+        },
+        {
+          "text": "tenterait",
+          "start": 73.76,
+          "end": 74.08
+        },
+        {
+          "text": "pas",
+          "start": 74.08,
+          "end": 74.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les Prairies,",
+          "translations": {
+            "zh": "大草原，",
+            "en": "The Prairies,",
+            "es": "¿Las Praderas,"
+          },
+          "start": 72.96,
+          "end": 73.44
+        },
+        {
+          "text": "ça ne te tenterait pas ?",
+          "translations": {
+            "zh": "你不感兴趣吗？",
+            "en": "that wouldn't tempt you?",
+            "es": "no te tentaría?"
+          },
+          "start": 73.44,
+          "end": 74.24
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Ou les Rocheuses ?",
+      "translations": {
+        "zh": "或者落基山脉？",
+        "en": "Or the Rockies?",
+        "es": "¿O las Rocosas?"
+      },
+      "start": 74.72,
+      "end": 75.52,
+      "words": [
+        {
+          "text": "Ou",
+          "start": 74.72,
+          "end": 74.8
+        },
+        {
+          "text": "les",
+          "start": 74.8,
+          "end": 74.88
+        },
+        {
+          "text": "Rocheuses",
+          "start": 74.88,
+          "end": 75.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ou les Rocheuses ?",
+          "translations": {
+            "zh": "或者落基山脉？",
+            "en": "Or the Rockies?",
+            "es": "¿O las Rocosas?"
+          },
+          "start": 74.72,
+          "end": 75.52
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "N'importe quand !",
+      "translations": {
+        "zh": "随时都行！",
+        "en": "Anytime!",
+        "es": "¡En cualquier momento!"
+      },
+      "start": 75.68,
+      "end": 76.4,
+      "words": [
+        {
+          "text": "N'importe",
+          "start": 75.68,
+          "end": 76.16
+        },
+        {
+          "text": "quand",
+          "start": 76.24,
+          "end": 76.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "N'importe quand !",
+          "translations": {
+            "zh": "随时都行！",
+            "en": "Anytime!",
+            "es": "¡En cualquier momento!"
+          },
+          "start": 75.68,
+          "end": 76.4
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "On y va l'année prochaine ?",
+      "translations": {
+        "zh": "我们明年去？",
+        "en": "We'll go next year?",
+        "es": "¿Vamos el año que viene?"
+      },
+      "start": 76.96,
+      "end": 77.84,
+      "words": [
+        {
+          "text": "On",
+          "start": 76.96,
+          "end": 77.12
+        },
+        {
+          "text": "y",
+          "start": 77.12,
+          "end": 77.2
+        },
+        {
+          "text": "va",
+          "start": 77.2,
+          "end": 77.28
+        },
+        {
+          "text": "l'année",
+          "start": 77.28,
+          "end": 77.44
+        },
+        {
+          "text": "prochaine",
+          "start": 77.44,
+          "end": 77.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On y va",
+          "translations": {
+            "zh": "我们去",
+            "en": "We'll go",
+            "es": "¿Vamos"
+          },
+          "start": 76.96,
+          "end": 77.28
+        },
+        {
+          "text": "l'année prochaine ?",
+          "translations": {
+            "zh": "明年？",
+            "en": "next year?",
+            "es": "el año que viene?"
+          },
+          "start": 77.28,
+          "end": 77.84
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Pourquoi pas !",
+      "translations": {
+        "zh": "为什么不呢！",
+        "en": "Why not!",
+        "es": "¡Por qué no!"
+      },
+      "start": 78.32,
+      "end": 78.88,
+      "words": [
+        {
+          "text": "Pourquoi",
+          "start": 78.32,
+          "end": 78.64
+        },
+        {
+          "text": "pas",
+          "start": 78.64,
+          "end": 78.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pourquoi pas !",
+          "translations": {
+            "zh": "为什么不呢！",
+            "en": "Why not!",
+            "es": "¡Por qué no!"
+          },
+          "start": 78.32,
+          "end": 78.88
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "En attendant, je te montre ce que j'ai trouvé d'intéressant à faire au Québec.",
+      "translations": {
+        "zh": "与此同时，我给你看看我在魁北克找到的有趣的事情。",
+        "en": "In the meantime, let me show you what I found interesting to do in Quebec.",
+        "es": "Mientras tanto, te enseño lo que he encontrado interesante para hacer en Quebec."
+      },
+      "start": 79.52,
+      "end": 82.88,
+      "words": [
+        {
+          "text": "En",
+          "start": 79.52,
+          "end": 79.68
+        },
+        {
+          "text": "attendant",
+          "start": 79.68,
+          "end": 80.24
+        },
+        {
+          "text": "je",
+          "start": 80.24,
+          "end": 80.4
+        },
+        {
+          "text": "te",
+          "start": 80.4,
+          "end": 80.4
+        },
+        {
+          "text": "montre",
+          "start": 80.4,
+          "end": 80.88
+        },
+        {
+          "text": "ce",
+          "start": 80.88,
+          "end": 80.96
+        },
+        {
+          "text": "que",
+          "start": 80.96,
+          "end": 81.04
+        },
+        {
+          "text": "j'ai",
+          "start": 81.04,
+          "end": 81.2
+        },
+        {
+          "text": "trouvé",
+          "start": 81.2,
+          "end": 81.52
+        },
+        {
+          "text": "d'intéressant",
+          "start": 81.52,
+          "end": 82.08
+        },
+        {
+          "text": "à",
+          "start": 82.08,
+          "end": 82.16
+        },
+        {
+          "text": "faire",
+          "start": 82.16,
+          "end": 82.4
+        },
+        {
+          "text": "au",
+          "start": 82.4,
+          "end": 82.4
+        },
+        {
+          "text": "Québec",
+          "start": 82.4,
+          "end": 82.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "En attendant,",
+          "translations": {
+            "zh": "与此同时，",
+            "en": "In the meantime,",
+            "es": "Mientras tanto,"
+          },
+          "start": 79.52,
+          "end": 80.24
+        },
+        {
+          "text": "je te montre ce que j'ai trouvé d'intéressant à faire au Québec.",
+          "translations": {
+            "zh": "我给你看看我在魁北克找到的有趣的事情。",
+            "en": "let me show you what I found interesting to do in Quebec.",
+            "es": "te enseño lo que he encontrado interesante para hacer en Quebec."
+          },
+          "start": 80.24,
+          "end": 82.88
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "Et toi, tu as fait des recherches sur Moncton ?",
+      "translations": {
+        "zh": "你呢，你查了蒙克顿的资料吗？",
+        "en": "And you, have you done any research on Moncton?",
+        "es": "¿Y tú, has investigado sobre Moncton?"
+      },
+      "start": 83.36,
+      "end": 85.36,
+      "words": [
+        {
+          "text": "Et",
+          "start": 83.36,
+          "end": 83.44
+        },
+        {
+          "text": "toi",
+          "start": 83.44,
+          "end": 83.76
+        },
+        {
+          "text": "tu",
+          "start": 84.08,
+          "end": 84.16
+        },
+        {
+          "text": "as",
+          "start": 84.16,
+          "end": 84.24
+        },
+        {
+          "text": "fait",
+          "start": 84.24,
+          "end": 84.32
+        },
+        {
+          "text": "des",
+          "start": 84.32,
+          "end": 84.48
+        },
+        {
+          "text": "recherches",
+          "start": 84.48,
+          "end": 84.88
+        },
+        {
+          "text": "sur",
+          "start": 84.88,
+          "end": 84.96
+        },
+        {
+          "text": "Moncton",
+          "start": 84.96,
+          "end": 85.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et toi,",
+          "translations": {
+            "zh": "你呢，",
+            "en": "And you,",
+            "es": "¿Y tú,"
+          },
+          "start": 83.36,
+          "end": 83.76
+        },
+        {
+          "text": "tu as fait des recherches sur Moncton ?",
+          "translations": {
+            "zh": "你查了蒙克顿的资料吗？",
+            "en": "have you done any research on Moncton?",
+            "es": "has investigado sobre Moncton?"
+          },
+          "start": 84.08,
+          "end": 85.36
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "Oui !",
+      "translations": {
+        "zh": "是的！",
+        "en": "Yes!",
+        "es": "¡Sí!"
+      },
+      "start": 86.0,
+      "end": 86.16,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 86.0,
+          "end": 86.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui !",
+          "translations": {
+            "zh": "是的！",
+            "en": "Yes!",
+            "es": "¡Sí!"
+          },
+          "start": 86.0,
+          "end": 86.16
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "J'ai apporté ma tablette pour te montrer ça !",
+      "translations": {
+        "zh": "我带了我的平板电脑来给你看！",
+        "en": "I brought my tablet to show you!",
+        "es": "¡Traje mi tableta para mostrártelo!"
+      },
+      "start": 86.64,
+      "end": 88.4,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 86.64,
+          "end": 86.8
+        },
+        {
+          "text": "apporté",
+          "start": 86.8,
+          "end": 87.12
+        },
+        {
+          "text": "ma",
+          "start": 87.12,
+          "end": 87.28
+        },
+        {
+          "text": "tablette",
+          "start": 87.28,
+          "end": 87.6
+        },
+        {
+          "text": "pour",
+          "start": 87.6,
+          "end": 87.76
+        },
+        {
+          "text": "te",
+          "start": 87.76,
+          "end": 87.84
+        },
+        {
+          "text": "montrer",
+          "start": 87.84,
+          "end": 88.16
+        },
+        {
+          "text": "ça",
+          "start": 88.16,
+          "end": 88.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai apporté ma tablette",
+          "translations": {
+            "zh": "我带了我的平板电脑",
+            "en": "I brought my tablet",
+            "es": "¡Traje mi tableta"
+          },
+          "start": 86.64,
+          "end": 87.6
+        },
+        {
+          "text": "pour te montrer ça !",
+          "translations": {
+            "zh": "来给你看！",
+            "en": "to show you!",
+            "es": "para mostrártelo!"
+          },
+          "start": 87.6,
+          "end": 88.4
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP16_P33",
+  "audio_filename": "FLS2_EP16_P33.mp3",
+  "audio_path": "downloads/FLS2_EP16_P33.mp3",
+  "episode": 16,
+  "piste": 33,
+  "page": 123,
+  "cd": "CD2"
+}

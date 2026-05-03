@@ -1,0 +1,546 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 9 Piste 43 Page 72",
+      "translations": {
+        "zh": "第九集 第43段 第72页",
+        "en": "Episode 9 Track 43 Page 72",
+        "es": "Episodio 9 Pista 43 Página 72"
+      },
+      "start": 0.64,
+      "end": 7.68,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.64,
+          "end": 1.36
+        },
+        {
+          "text": "9",
+          "start": 1.76,
+          "end": 1.84
+        },
+        {
+          "text": "Piste",
+          "start": 2.96,
+          "end": 3.36
+        },
+        {
+          "text": "43",
+          "start": 4.0,
+          "end": 4.8
+        },
+        {
+          "text": "Page",
+          "start": 6.4,
+          "end": 6.4
+        },
+        {
+          "text": "72",
+          "start": 6.96,
+          "end": 7.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 9",
+          "translations": {
+            "zh": "第九集",
+            "en": "Episode 9",
+            "es": "Episodio 9"
+          },
+          "start": 0.64,
+          "end": 1.84
+        },
+        {
+          "text": "Piste 43",
+          "translations": {
+            "zh": "第43段",
+            "en": "Track 43",
+            "es": "Pista 43"
+          },
+          "start": 2.96,
+          "end": 4.8
+        },
+        {
+          "text": "Page 72",
+          "translations": {
+            "zh": "第72页",
+            "en": "Page 72",
+            "es": "Página 72"
+          },
+          "start": 6.4,
+          "end": 7.68
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "On vient de lui faire une radiographie des poumons.",
+      "translations": {
+        "zh": "我们刚给他拍了一张肺部X光片。",
+        "en": "We just took an X-ray of his lungs.",
+        "es": "Acaban de hacerle una radiografía de los pulmones."
+      },
+      "start": 7.68,
+      "end": 12.48,
+      "words": [
+        {
+          "text": "On",
+          "start": 7.68,
+          "end": 7.68
+        },
+        {
+          "text": "vient",
+          "start": 10.64,
+          "end": 10.8
+        },
+        {
+          "text": "de",
+          "start": 10.8,
+          "end": 10.88
+        },
+        {
+          "text": "lui",
+          "start": 10.88,
+          "end": 11.04
+        },
+        {
+          "text": "faire",
+          "start": 11.04,
+          "end": 11.28
+        },
+        {
+          "text": "une",
+          "start": 11.28,
+          "end": 11.36
+        },
+        {
+          "text": "radiographie",
+          "start": 11.36,
+          "end": 12.0
+        },
+        {
+          "text": "des",
+          "start": 12.0,
+          "end": 12.16
+        },
+        {
+          "text": "poumons",
+          "start": 12.16,
+          "end": 12.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On vient de lui faire",
+          "translations": {
+            "zh": "我们刚给他做了",
+            "en": "We just gave him",
+            "es": "Acaban de hacerle"
+          },
+          "start": 7.68,
+          "end": 11.28
+        },
+        {
+          "text": "une radiographie des poumons.",
+          "translations": {
+            "zh": "一次肺部X光检查。",
+            "en": "an X-ray of the lungs.",
+            "es": "una radiografía de los pulmones."
+          },
+          "start": 11.28,
+          "end": 12.48
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Vous allez passer une échographie cet après-midi.",
+      "translations": {
+        "zh": "您今天下午要做一次超声波检查。",
+        "en": "You are going to have an ultrasound this afternoon.",
+        "es": "Va a hacerse una ecografía esta tarde."
+      },
+      "start": 14.8,
+      "end": 18.24,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 14.8,
+          "end": 14.96
+        },
+        {
+          "text": "allez",
+          "start": 16.08,
+          "end": 16.24
+        },
+        {
+          "text": "passer",
+          "start": 16.24,
+          "end": 16.72
+        },
+        {
+          "text": "une",
+          "start": 16.8,
+          "end": 16.88
+        },
+        {
+          "text": "échographie",
+          "start": 16.88,
+          "end": 17.52
+        },
+        {
+          "text": "cet",
+          "start": 17.52,
+          "end": 17.68
+        },
+        {
+          "text": "après",
+          "start": 17.76,
+          "end": 17.92
+        },
+        {
+          "text": "midi",
+          "start": 17.92,
+          "end": 18.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous allez passer",
+          "translations": {
+            "zh": "您将要进行",
+            "en": "You are going to have",
+            "es": "Va a hacerse"
+          },
+          "start": 14.8,
+          "end": 16.72
+        },
+        {
+          "text": "une échographie",
+          "translations": {
+            "zh": "一次超声波检查",
+            "en": "an ultrasound",
+            "es": "una ecografía"
+          },
+          "start": 16.8,
+          "end": 17.52
+        },
+        {
+          "text": "cet après-midi.",
+          "translations": {
+            "zh": "今天下午。",
+            "en": "this afternoon.",
+            "es": "esta tarde."
+          },
+          "start": 17.52,
+          "end": 18.24
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "On va vous faire un examen d'imagerie par résonnance magnétique.",
+      "translations": {
+        "zh": "我们将为您做一次核磁共振成像检查。",
+        "en": "We are going to give you a magnetic resonance imaging exam.",
+        "es": "Le van a hacer un examen de imagen por resonancia magnética."
+      },
+      "start": 21.12,
+      "end": 25.92,
+      "words": [
+        {
+          "text": "On",
+          "start": 21.12,
+          "end": 21.12
+        },
+        {
+          "text": "va",
+          "start": 21.12,
+          "end": 21.76
+        },
+        {
+          "text": "vous",
+          "start": 23.04,
+          "end": 23.12
+        },
+        {
+          "text": "faire",
+          "start": 23.12,
+          "end": 23.36
+        },
+        {
+          "text": "un",
+          "start": 23.36,
+          "end": 23.52
+        },
+        {
+          "text": "examen",
+          "start": 23.52,
+          "end": 23.92
+        },
+        {
+          "text": "d'imagerie",
+          "start": 23.92,
+          "end": 24.56
+        },
+        {
+          "text": "par",
+          "start": 24.56,
+          "end": 24.72
+        },
+        {
+          "text": "résonnance",
+          "start": 24.72,
+          "end": 25.28
+        },
+        {
+          "text": "magnétique",
+          "start": 25.28,
+          "end": 25.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On va vous faire",
+          "translations": {
+            "zh": "我们将为您做",
+            "en": "We are going to give you",
+            "es": "Le van a hacer"
+          },
+          "start": 21.12,
+          "end": 23.36
+        },
+        {
+          "text": "un examen d'imagerie par résonnance magnétique.",
+          "translations": {
+            "zh": "一次核磁共振成像检查。",
+            "en": "a magnetic resonance imaging exam.",
+            "es": "un examen de imagen por resonancia magnética."
+          },
+          "start": 23.36,
+          "end": 25.92
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Je viens d'obtenir le résultat de ma prise de sang.",
+      "translations": {
+        "zh": "我刚拿到了我的验血结果。",
+        "en": "I just got the result of my blood test.",
+        "es": "Acabo de obtener el resultado de mi análisis de sangre."
+      },
+      "start": 29.68,
+      "end": 32.08,
+      "words": [
+        {
+          "text": "Je",
+          "start": 29.68,
+          "end": 29.68
+        },
+        {
+          "text": "viens",
+          "start": 29.84,
+          "end": 30.0
+        },
+        {
+          "text": "d'obtenir",
+          "start": 30.0,
+          "end": 30.56
+        },
+        {
+          "text": "le",
+          "start": 30.56,
+          "end": 30.64
+        },
+        {
+          "text": "résultat",
+          "start": 30.64,
+          "end": 31.2
+        },
+        {
+          "text": "de",
+          "start": 31.2,
+          "end": 31.28
+        },
+        {
+          "text": "ma",
+          "start": 31.28,
+          "end": 31.36
+        },
+        {
+          "text": "prise",
+          "start": 31.36,
+          "end": 31.68
+        },
+        {
+          "text": "de",
+          "start": 31.68,
+          "end": 31.76
+        },
+        {
+          "text": "sang",
+          "start": 31.76,
+          "end": 32.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je viens d'obtenir",
+          "translations": {
+            "zh": "我刚拿到",
+            "en": "I just got",
+            "es": "Acabo de obtener"
+          },
+          "start": 29.68,
+          "end": 30.56
+        },
+        {
+          "text": "le résultat de ma prise de sang.",
+          "translations": {
+            "zh": "我的验血结果。",
+            "en": "the result of my blood test.",
+            "es": "el resultado de mi análisis de sangre."
+          },
+          "start": 30.56,
+          "end": 32.08
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Vous venez d'avoir une échographie.",
+      "translations": {
+        "zh": "您刚做了一次超声波检查。",
+        "en": "You just had an ultrasound.",
+        "es": "Acaba de hacerse una ecografía."
+      },
+      "start": 34.56,
+      "end": 37.6,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 34.56,
+          "end": 36.08
+        },
+        {
+          "text": "venez",
+          "start": 36.08,
+          "end": 36.32
+        },
+        {
+          "text": "d'avoir",
+          "start": 36.32,
+          "end": 36.8
+        },
+        {
+          "text": "une",
+          "start": 36.8,
+          "end": 36.88
+        },
+        {
+          "text": "échographie",
+          "start": 36.88,
+          "end": 37.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous venez d'avoir",
+          "translations": {
+            "zh": "您刚做了",
+            "en": "You just had",
+            "es": "Acaba de hacerse"
+          },
+          "start": 34.56,
+          "end": 36.8
+        },
+        {
+          "text": "une échographie.",
+          "translations": {
+            "zh": "一次超声波检查。",
+            "en": "an ultrasound.",
+            "es": "una ecografía."
+          },
+          "start": 36.8,
+          "end": 37.6
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Elle vient de subir une chirurgie.",
+      "translations": {
+        "zh": "她刚接受了一次手术。",
+        "en": "She just underwent surgery.",
+        "es": "Ella acaba de someterse a una cirugía."
+      },
+      "start": 41.76,
+      "end": 43.52,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 41.76,
+          "end": 41.84
+        },
+        {
+          "text": "vient",
+          "start": 41.84,
+          "end": 42.0
+        },
+        {
+          "text": "de",
+          "start": 42.0,
+          "end": 42.08
+        },
+        {
+          "text": "subir",
+          "start": 42.08,
+          "end": 42.56
+        },
+        {
+          "text": "une",
+          "start": 42.56,
+          "end": 42.8
+        },
+        {
+          "text": "chirurgie",
+          "start": 42.8,
+          "end": 43.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle vient de subir",
+          "translations": {
+            "zh": "她刚接受了",
+            "en": "She just underwent",
+            "es": "Ella acaba de someterse"
+          },
+          "start": 41.76,
+          "end": 42.56
+        },
+        {
+          "text": "une chirurgie.",
+          "translations": {
+            "zh": "一次手术。",
+            "en": "surgery.",
+            "es": "a una cirugía."
+          },
+          "start": 42.56,
+          "end": 43.52
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP09_P43",
+  "audio_filename": "FLS2_EP09_P43.mp3",
+  "audio_path": "downloads/FLS2_EP09_P43.mp3",
+  "episode": 9,
+  "piste": 43,
+  "page": 72,
+  "cd": "CD1"
+}

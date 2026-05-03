@@ -1,0 +1,766 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 12 Piste 8 Page 91",
+      "translations": {
+        "zh": "第12集 第8课 第91页",
+        "en": "Episode 12 Track 8 Page 91",
+        "es": "Episodio 12 Pista 8 Página 91"
+      },
+      "start": 0.96,
+      "end": 8.48,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.96,
+          "end": 1.6
+        },
+        {
+          "text": "12",
+          "start": 2.08,
+          "end": 2.64
+        },
+        {
+          "text": "Piste",
+          "start": 3.52,
+          "end": 4.0
+        },
+        {
+          "text": "8",
+          "start": 4.4,
+          "end": 4.4
+        },
+        {
+          "text": "Page",
+          "start": 7.44,
+          "end": 7.44
+        },
+        {
+          "text": "91",
+          "start": 7.92,
+          "end": 8.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 12",
+          "translations": {
+            "zh": "第12集",
+            "en": "Episode 12",
+            "es": "Episodio 12"
+          },
+          "start": 0.96,
+          "end": 2.64
+        },
+        {
+          "text": "Piste 8",
+          "translations": {
+            "zh": "第8课",
+            "en": "Track 8",
+            "es": "Pista 8"
+          },
+          "start": 3.52,
+          "end": 4.4
+        },
+        {
+          "text": "Page 91",
+          "translations": {
+            "zh": "第91页",
+            "en": "Page 91",
+            "es": "Página 91"
+          },
+          "start": 7.44,
+          "end": 8.48
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Ne quittez pas, je vous mets en communication.",
+      "translations": {
+        "zh": "请不要挂断，我帮您转接。",
+        "en": "Please hold, I'm putting you through.",
+        "es": "No cuelgue, le comunico."
+      },
+      "start": 9.84,
+      "end": 13.68,
+      "words": [
+        {
+          "text": "Ne",
+          "start": 9.84,
+          "end": 10.0
+        },
+        {
+          "text": "quittez",
+          "start": 11.28,
+          "end": 11.52
+        },
+        {
+          "text": "pas",
+          "start": 11.6,
+          "end": 11.84
+        },
+        {
+          "text": "je",
+          "start": 12.32,
+          "end": 12.48
+        },
+        {
+          "text": "vous",
+          "start": 12.48,
+          "end": 12.64
+        },
+        {
+          "text": "mets",
+          "start": 12.64,
+          "end": 12.8
+        },
+        {
+          "text": "en",
+          "start": 12.8,
+          "end": 12.96
+        },
+        {
+          "text": "communication",
+          "start": 12.96,
+          "end": 13.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ne quittez pas,",
+          "translations": {
+            "zh": "请不要挂断，",
+            "en": "Please hold,",
+            "es": "No cuelgue,"
+          },
+          "start": 9.84,
+          "end": 11.84
+        },
+        {
+          "text": "je vous mets en communication.",
+          "translations": {
+            "zh": "我帮您转接。",
+            "en": "I'm putting you through.",
+            "es": "le comunico."
+          },
+          "start": 12.32,
+          "end": 13.68
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Il n'y a personne qui s'appelle comme ça ici.",
+      "translations": {
+        "zh": "这里没有人叫这个名字。",
+        "en": "There's no one by that name here.",
+        "es": "No hay nadie que se llame así aquí."
+      },
+      "start": 16.56,
+      "end": 19.84,
+      "words": [
+        {
+          "text": "Il",
+          "start": 16.56,
+          "end": 16.72
+        },
+        {
+          "text": "n'y",
+          "start": 16.72,
+          "end": 16.72
+        },
+        {
+          "text": "a",
+          "start": 18.0,
+          "end": 18.08
+        },
+        {
+          "text": "personne",
+          "start": 18.08,
+          "end": 18.64
+        },
+        {
+          "text": "qui",
+          "start": 18.64,
+          "end": 18.72
+        },
+        {
+          "text": "s'appelle",
+          "start": 18.72,
+          "end": 19.04
+        },
+        {
+          "text": "comme",
+          "start": 19.04,
+          "end": 19.2
+        },
+        {
+          "text": "ça",
+          "start": 19.2,
+          "end": 19.44
+        },
+        {
+          "text": "ici",
+          "start": 19.44,
+          "end": 19.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il n'y a personne",
+          "translations": {
+            "zh": "没有人",
+            "en": "There's no one",
+            "es": "No hay nadie"
+          },
+          "start": 16.56,
+          "end": 18.64
+        },
+        {
+          "text": "qui s'appelle comme ça ici.",
+          "translations": {
+            "zh": "在这里叫这个名字的。",
+            "en": "by that name here.",
+            "es": "que se llame así aquí."
+          },
+          "start": 18.64,
+          "end": 19.84
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Il n'est pas là.",
+      "translations": {
+        "zh": "他不在。",
+        "en": "He's not here.",
+        "es": "No está."
+      },
+      "start": 23.28,
+      "end": 23.76,
+      "words": [
+        {
+          "text": "Il",
+          "start": 23.28,
+          "end": 23.36
+        },
+        {
+          "text": "n'est",
+          "start": 23.36,
+          "end": 23.44
+        },
+        {
+          "text": "pas",
+          "start": 23.44,
+          "end": 23.44
+        },
+        {
+          "text": "là",
+          "start": 23.6,
+          "end": 23.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il n'est pas là.",
+          "translations": {
+            "zh": "他不在。",
+            "en": "He's not here.",
+            "es": "No está."
+          },
+          "start": 23.28,
+          "end": 23.76
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Voulez-vous laisser un message ?",
+      "translations": {
+        "zh": "您要留言吗？",
+        "en": "Would you like to leave a message?",
+        "es": "¿Quiere dejar un mensaje?"
+      },
+      "start": 24.24,
+      "end": 25.44,
+      "words": [
+        {
+          "text": "Voulez",
+          "start": 24.24,
+          "end": 24.48
+        },
+        {
+          "text": "vous",
+          "start": 24.48,
+          "end": 24.56
+        },
+        {
+          "text": "laisser",
+          "start": 24.56,
+          "end": 24.8
+        },
+        {
+          "text": "un",
+          "start": 24.8,
+          "end": 24.88
+        },
+        {
+          "text": "message",
+          "start": 24.88,
+          "end": 25.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Voulez-vous laisser un message ?",
+          "translations": {
+            "zh": "您要留言吗？",
+            "en": "Would you like to leave a message?",
+            "es": "¿Quiere dejar un mensaje?"
+          },
+          "start": 24.24,
+          "end": 25.44
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Un instant, je te le passe.",
+      "translations": {
+        "zh": "等一下，我转给你。",
+        "en": "Just a moment, I'll put him through.",
+        "es": "Un momento, te lo paso."
+      },
+      "start": 29.12,
+      "end": 30.4,
+      "words": [
+        {
+          "text": "Un",
+          "start": 29.12,
+          "end": 29.28
+        },
+        {
+          "text": "instant",
+          "start": 29.28,
+          "end": 29.68
+        },
+        {
+          "text": "je",
+          "start": 29.68,
+          "end": 29.92
+        },
+        {
+          "text": "te",
+          "start": 29.92,
+          "end": 29.92
+        },
+        {
+          "text": "le",
+          "start": 29.92,
+          "end": 29.92
+        },
+        {
+          "text": "passe",
+          "start": 29.92,
+          "end": 30.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Un instant,",
+          "translations": {
+            "zh": "等一下，",
+            "en": "Just a moment,",
+            "es": "Un momento,"
+          },
+          "start": 29.12,
+          "end": 29.68
+        },
+        {
+          "text": "je te le passe.",
+          "translations": {
+            "zh": "我转给你。",
+            "en": "I'll put him through.",
+            "es": "te lo paso."
+          },
+          "start": 29.68,
+          "end": 30.4
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Vous faites erreur.",
+      "translations": {
+        "zh": "您打错了。",
+        "en": "You have the wrong number.",
+        "es": "Se equivoca."
+      },
+      "start": 34.32,
+      "end": 35.12,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 34.32,
+          "end": 34.4
+        },
+        {
+          "text": "faites",
+          "start": 34.4,
+          "end": 34.64
+        },
+        {
+          "text": "erreur",
+          "start": 34.72,
+          "end": 35.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous faites erreur.",
+          "translations": {
+            "zh": "您打错了。",
+            "en": "You have the wrong number.",
+            "es": "Se equivoca."
+          },
+          "start": 34.32,
+          "end": 35.12
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Restez en ligne, elle va prendre l'appel dans son bureau.",
+      "translations": {
+        "zh": "请保持通话，她会在办公室接电话。",
+        "en": "Stay on the line, she'll take the call in her office.",
+        "es": "Manténgase en línea, va a contestar la llamada en su oficina."
+      },
+      "start": 37.84,
+      "end": 41.92,
+      "words": [
+        {
+          "text": "Restez",
+          "start": 37.84,
+          "end": 38.16
+        },
+        {
+          "text": "en",
+          "start": 39.6,
+          "end": 39.76
+        },
+        {
+          "text": "ligne",
+          "start": 39.76,
+          "end": 40.08
+        },
+        {
+          "text": "elle",
+          "start": 40.4,
+          "end": 40.56
+        },
+        {
+          "text": "va",
+          "start": 40.56,
+          "end": 40.64
+        },
+        {
+          "text": "prendre",
+          "start": 40.64,
+          "end": 40.96
+        },
+        {
+          "text": "l'appel",
+          "start": 40.96,
+          "end": 41.28
+        },
+        {
+          "text": "dans",
+          "start": 41.28,
+          "end": 41.44
+        },
+        {
+          "text": "son",
+          "start": 41.44,
+          "end": 41.6
+        },
+        {
+          "text": "bureau",
+          "start": 41.6,
+          "end": 41.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Restez en ligne,",
+          "translations": {
+            "zh": "请保持通话，",
+            "en": "Stay on the line,",
+            "es": "Manténgase en línea,"
+          },
+          "start": 37.84,
+          "end": 40.08
+        },
+        {
+          "text": "elle va prendre l'appel",
+          "translations": {
+            "zh": "她会接电话",
+            "en": "she'll take the call",
+            "es": "va a contestar la llamada"
+          },
+          "start": 40.4,
+          "end": 41.28
+        },
+        {
+          "text": "dans son bureau.",
+          "translations": {
+            "zh": "在她的办公室。",
+            "en": "in her office.",
+            "es": "en su oficina."
+          },
+          "start": 41.28,
+          "end": 41.92
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "C'est un faux numéro.",
+      "translations": {
+        "zh": "这是一个错误的号码。",
+        "en": "It's a wrong number.",
+        "es": "Es un número equivocado."
+      },
+      "start": 44.32,
+      "end": 47.12,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 44.32,
+          "end": 44.96
+        },
+        {
+          "text": "un",
+          "start": 46.4,
+          "end": 46.4
+        },
+        {
+          "text": "faux",
+          "start": 46.56,
+          "end": 46.72
+        },
+        {
+          "text": "numéro",
+          "start": 46.72,
+          "end": 47.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est un faux numéro.",
+          "translations": {
+            "zh": "这是一个错误的号码。",
+            "en": "It's a wrong number.",
+            "es": "Es un número equivocado."
+          },
+          "start": 44.32,
+          "end": 47.12
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Moi-même !",
+      "translations": {
+        "zh": "就是我！",
+        "en": "Speaking!",
+        "es": "¡Yo mismo!"
+      },
+      "start": 51.2,
+      "end": 51.76,
+      "words": [
+        {
+          "text": "Moi",
+          "start": 51.2,
+          "end": 51.2
+        },
+        {
+          "text": "même",
+          "start": 51.44,
+          "end": 51.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Moi-même !",
+          "translations": {
+            "zh": "就是我！",
+            "en": "Speaking!",
+            "es": "¡Yo mismo!"
+          },
+          "start": 51.2,
+          "end": 51.76
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Il est sorti.",
+      "translations": {
+        "zh": "他出去了。",
+        "en": "He's stepped out.",
+        "es": "Ha salido."
+      },
+      "start": 53.92,
+      "end": 56.4,
+      "words": [
+        {
+          "text": "Il",
+          "start": 53.92,
+          "end": 54.08
+        },
+        {
+          "text": "est",
+          "start": 54.08,
+          "end": 54.08
+        },
+        {
+          "text": "sorti",
+          "start": 55.92,
+          "end": 56.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il est sorti.",
+          "translations": {
+            "zh": "他出去了。",
+            "en": "He's stepped out.",
+            "es": "Ha salido."
+          },
+          "start": 53.92,
+          "end": 56.4
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Vous voulez parler à qui ?",
+      "translations": {
+        "zh": "您想找谁？",
+        "en": "Who do you want to speak to?",
+        "es": "¿Con quién quiere hablar?"
+      },
+      "start": 58.72,
+      "end": 61.28,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 58.72,
+          "end": 58.8
+        },
+        {
+          "text": "voulez",
+          "start": 60.56,
+          "end": 60.72
+        },
+        {
+          "text": "parler",
+          "start": 60.72,
+          "end": 60.96
+        },
+        {
+          "text": "à",
+          "start": 60.96,
+          "end": 61.04
+        },
+        {
+          "text": "qui",
+          "start": 61.12,
+          "end": 61.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous voulez parler à qui ?",
+          "translations": {
+            "zh": "您想找谁？",
+            "en": "Who do you want to speak to?",
+            "es": "¿Con quién quiere hablar?"
+          },
+          "start": 58.72,
+          "end": 61.28
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Désolée, ce n'est pas ici.",
+      "translations": {
+        "zh": "抱歉，不是这里。",
+        "en": "Sorry, you've got the wrong number.",
+        "es": "Lo siento, no es aquí."
+      },
+      "start": 62.56,
+      "end": 63.68,
+      "words": [
+        {
+          "text": "Désolée",
+          "start": 62.56,
+          "end": 63.04
+        },
+        {
+          "text": "ce",
+          "start": 63.04,
+          "end": 63.2
+        },
+        {
+          "text": "n'est",
+          "start": 63.2,
+          "end": 63.28
+        },
+        {
+          "text": "pas",
+          "start": 63.28,
+          "end": 63.36
+        },
+        {
+          "text": "ici",
+          "start": 63.36,
+          "end": 63.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Désolée,",
+          "translations": {
+            "zh": "抱歉，",
+            "en": "Sorry,",
+            "es": "Lo siento,"
+          },
+          "start": 62.56,
+          "end": 63.04
+        },
+        {
+          "text": "ce n'est pas ici.",
+          "translations": {
+            "zh": "不是这里。",
+            "en": "you've got the wrong number.",
+            "es": "no es aquí."
+          },
+          "start": 63.04,
+          "end": 63.68
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP12_P08",
+  "audio_filename": "FLS2_EP12_P08.mp3",
+  "audio_path": "downloads/FLS2_EP12_P08.mp3",
+  "episode": 12,
+  "piste": 8,
+  "page": 91,
+  "cd": "CD2"
+}

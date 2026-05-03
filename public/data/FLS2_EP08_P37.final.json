@@ -1,0 +1,2521 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 8 Piste 37 Page 65",
+      "translations": {
+        "zh": "第8集 第37课 第65页",
+        "en": "Episode 8 Track 37 Page 65",
+        "es": "Episodio 8 Pista 37 Página 65"
+      },
+      "start": 0.16,
+      "end": 8.96,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.16,
+          "end": 0.8
+        },
+        {
+          "text": "8",
+          "start": 1.2,
+          "end": 1.44
+        },
+        {
+          "text": "Piste",
+          "start": 2.56,
+          "end": 2.96
+        },
+        {
+          "text": "37",
+          "start": 3.68,
+          "end": 4.32
+        },
+        {
+          "text": "Page",
+          "start": 4.32,
+          "end": 4.32
+        },
+        {
+          "text": "65",
+          "start": 8.96,
+          "end": 8.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 8",
+          "translations": {
+            "zh": "第8集",
+            "en": "Episode 8",
+            "es": "Episodio 8"
+          },
+          "start": 0.16,
+          "end": 1.44
+        },
+        {
+          "text": "Piste 37",
+          "translations": {
+            "zh": "第37课",
+            "en": "Track 37",
+            "es": "Pista 37"
+          },
+          "start": 2.56,
+          "end": 4.32
+        },
+        {
+          "text": "Page 65",
+          "translations": {
+            "zh": "第65页",
+            "en": "Page 65",
+            "es": "Página 65"
+          },
+          "start": 4.32,
+          "end": 8.96
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bonjour, ici Marie-Michelle Léger, la directrice du Centre de la petite enfance Les moussaillons.",
+      "translations": {
+        "zh": "您好，我是玛丽-米歇尔·勒热，小水手幼儿中心的主任。",
+        "en": "Hello, this is Marie-Michelle Léger, the director of the Centre de la petite enfance Les moussaillons.",
+        "es": "Hola, aquí Marie-Michelle Léger, la directora del Centro de la primera infancia Los pequenos marineros."
+      },
+      "start": 12.0,
+      "end": 16.0,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 12.0,
+          "end": 12.0
+        },
+        {
+          "text": "ici",
+          "start": 12.0,
+          "end": 12.0
+        },
+        {
+          "text": "Marie",
+          "start": 12.0,
+          "end": 12.24
+        },
+        {
+          "text": "Michelle",
+          "start": 12.24,
+          "end": 12.72
+        },
+        {
+          "text": "Léger",
+          "start": 12.72,
+          "end": 13.12
+        },
+        {
+          "text": "la",
+          "start": 13.36,
+          "end": 13.52
+        },
+        {
+          "text": "directrice",
+          "start": 13.52,
+          "end": 14.0
+        },
+        {
+          "text": "du",
+          "start": 14.0,
+          "end": 14.16
+        },
+        {
+          "text": "Centre",
+          "start": 14.16,
+          "end": 14.56
+        },
+        {
+          "text": "de",
+          "start": 14.56,
+          "end": 14.64
+        },
+        {
+          "text": "la",
+          "start": 14.64,
+          "end": 14.72
+        },
+        {
+          "text": "petite",
+          "start": 14.72,
+          "end": 14.88
+        },
+        {
+          "text": "enfance",
+          "start": 14.88,
+          "end": 15.36
+        },
+        {
+          "text": "Les",
+          "start": 15.36,
+          "end": 15.44
+        },
+        {
+          "text": "moussaillons",
+          "start": 15.44,
+          "end": 16.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 12.0,
+          "end": 12.0
+        },
+        {
+          "text": "ici Marie-Michelle Léger,",
+          "translations": {
+            "zh": "我是玛丽-米歇尔·勒热，",
+            "en": "this is Marie-Michelle Léger,",
+            "es": "aquí Marie-Michelle Léger,"
+          },
+          "start": 12.0,
+          "end": 13.12
+        },
+        {
+          "text": "la directrice du Centre de la petite enfance Les moussaillons.",
+          "translations": {
+            "zh": "小水手幼儿中心的主任。",
+            "en": "the director of the Centre de la petite enfance Les moussaillons.",
+            "es": "la directora del Centro de la primera infancia Los pequeños marineros."
+          },
+          "start": 13.36,
+          "end": 16.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Je vous appelle pour vous informer que la réunion d'accueil aura lieu mardi prochain à 19 h.",
+      "translations": {
+        "zh": "我打电话给您是为了通知您，迎新会议将于下周二19点举行。",
+        "en": "I am calling you to inform you that the welcome meeting will take place next Tuesday at 7 p.m.",
+        "es": "Le llamo para informarle que la reunión de bienvenida tendrá lugar el próximo martes a las 19 h."
+      },
+      "start": 16.56,
+      "end": 20.96,
+      "words": [
+        {
+          "text": "Je",
+          "start": 16.56,
+          "end": 16.72
+        },
+        {
+          "text": "vous",
+          "start": 16.72,
+          "end": 16.88
+        },
+        {
+          "text": "appelle",
+          "start": 16.88,
+          "end": 17.2
+        },
+        {
+          "text": "pour",
+          "start": 17.2,
+          "end": 17.36
+        },
+        {
+          "text": "vous",
+          "start": 17.36,
+          "end": 17.52
+        },
+        {
+          "text": "informer",
+          "start": 17.52,
+          "end": 17.92
+        },
+        {
+          "text": "que",
+          "start": 17.92,
+          "end": 18.0
+        },
+        {
+          "text": "la",
+          "start": 18.0,
+          "end": 18.08
+        },
+        {
+          "text": "réunion",
+          "start": 18.08,
+          "end": 18.48
+        },
+        {
+          "text": "d'accueil",
+          "start": 18.48,
+          "end": 18.88
+        },
+        {
+          "text": "aura",
+          "start": 18.88,
+          "end": 19.04
+        },
+        {
+          "text": "lieu",
+          "start": 19.04,
+          "end": 19.2
+        },
+        {
+          "text": "mardi",
+          "start": 19.2,
+          "end": 19.6
+        },
+        {
+          "text": "prochain",
+          "start": 19.6,
+          "end": 20.08
+        },
+        {
+          "text": "à",
+          "start": 20.16,
+          "end": 20.32
+        },
+        {
+          "text": "19",
+          "start": 20.32,
+          "end": 20.96
+        },
+        {
+          "text": "h",
+          "start": 20.96,
+          "end": 20.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vous appelle",
+          "translations": {
+            "zh": "我打电话给您",
+            "en": "I am calling you",
+            "es": "Le llamo"
+          },
+          "start": 16.56,
+          "end": 17.2
+        },
+        {
+          "text": "pour vous informer",
+          "translations": {
+            "zh": "是为了通知您",
+            "en": "to inform you",
+            "es": "para informarle"
+          },
+          "start": 17.2,
+          "end": 17.92
+        },
+        {
+          "text": "que la réunion d'accueil aura lieu",
+          "translations": {
+            "zh": "迎新会议将举行",
+            "en": "that the welcome meeting will take place",
+            "es": "que la reunión de bienvenida tendrá lugar"
+          },
+          "start": 17.92,
+          "end": 19.2
+        },
+        {
+          "text": "mardi prochain à 19 h.",
+          "translations": {
+            "zh": "在下周二19点。",
+            "en": "next Tuesday at 7 p.m.",
+            "es": "el próximo martes a las 19 h."
+          },
+          "start": 19.2,
+          "end": 20.96
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Il faut que vous soyez présent si vous souhaitez que votre enfant ait une place dans notre établissement.",
+      "translations": {
+        "zh": "如果您希望您的孩子在我们机构获得一个名额，您必须出席。",
+        "en": "You must be present if you wish for your child to have a spot in our establishment.",
+        "es": "Es necesario que esté presente si desea que su hijo tenga una plaza en nuestro establecimiento."
+      },
+      "start": 21.68,
+      "end": 25.36,
+      "words": [
+        {
+          "text": "Il",
+          "start": 21.68,
+          "end": 21.76
+        },
+        {
+          "text": "faut",
+          "start": 21.76,
+          "end": 21.92
+        },
+        {
+          "text": "que",
+          "start": 21.92,
+          "end": 22.0
+        },
+        {
+          "text": "vous",
+          "start": 22.0,
+          "end": 22.08
+        },
+        {
+          "text": "soyez",
+          "start": 22.08,
+          "end": 22.4
+        },
+        {
+          "text": "présent",
+          "start": 22.4,
+          "end": 22.8
+        },
+        {
+          "text": "si",
+          "start": 22.8,
+          "end": 22.96
+        },
+        {
+          "text": "vous",
+          "start": 22.96,
+          "end": 23.04
+        },
+        {
+          "text": "souhaitez",
+          "start": 23.04,
+          "end": 23.36
+        },
+        {
+          "text": "que",
+          "start": 23.36,
+          "end": 23.36
+        },
+        {
+          "text": "votre",
+          "start": 23.44,
+          "end": 23.68
+        },
+        {
+          "text": "enfant",
+          "start": 23.68,
+          "end": 23.84
+        },
+        {
+          "text": "ait",
+          "start": 23.84,
+          "end": 24.08
+        },
+        {
+          "text": "une",
+          "start": 24.08,
+          "end": 24.16
+        },
+        {
+          "text": "place",
+          "start": 24.16,
+          "end": 24.48
+        },
+        {
+          "text": "dans",
+          "start": 24.48,
+          "end": 24.64
+        },
+        {
+          "text": "notre",
+          "start": 24.64,
+          "end": 24.8
+        },
+        {
+          "text": "établissement",
+          "start": 24.8,
+          "end": 25.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il faut que vous soyez présent",
+          "translations": {
+            "zh": "您必须出席",
+            "en": "You must be present",
+            "es": "Es necesario que esté presente"
+          },
+          "start": 21.68,
+          "end": 22.8
+        },
+        {
+          "text": "si vous souhaitez",
+          "translations": {
+            "zh": "如果您希望",
+            "en": "if you wish",
+            "es": "si desea"
+          },
+          "start": 22.8,
+          "end": 23.36
+        },
+        {
+          "text": "que votre enfant ait une place",
+          "translations": {
+            "zh": "您的孩子能获得一个名额",
+            "en": "for your child to have a spot",
+            "es": "que su hijo tenga una plaza"
+          },
+          "start": 23.36,
+          "end": 24.48
+        },
+        {
+          "text": "dans notre établissement.",
+          "translations": {
+            "zh": "在我们机构。",
+            "en": "in our establishment.",
+            "es": "en nuestro establecimiento."
+          },
+          "start": 24.48,
+          "end": 25.36
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "S'il y a quoi que ce soit, vous pouvez m'appeler au 514 555-8745.",
+      "translations": {
+        "zh": "如果有任何问题，您可以拨打514 555-8745联系我。",
+        "en": "If there is anything, you can call me at 514 555-8745.",
+        "es": "Si hay cualquier cosa, puede llamarme al 514 555-8745."
+      },
+      "start": 26.0,
+      "end": 31.92,
+      "words": [
+        {
+          "text": "S'il",
+          "start": 26.0,
+          "end": 26.24
+        },
+        {
+          "text": "y",
+          "start": 26.24,
+          "end": 26.24
+        },
+        {
+          "text": "a",
+          "start": 26.24,
+          "end": 26.32
+        },
+        {
+          "text": "quoi",
+          "start": 26.32,
+          "end": 26.48
+        },
+        {
+          "text": "que",
+          "start": 26.48,
+          "end": 26.56
+        },
+        {
+          "text": "ce",
+          "start": 26.56,
+          "end": 26.64
+        },
+        {
+          "text": "soit",
+          "start": 26.64,
+          "end": 27.04
+        },
+        {
+          "text": "vous",
+          "start": 27.04,
+          "end": 27.2
+        },
+        {
+          "text": "pouvez",
+          "start": 27.2,
+          "end": 27.44
+        },
+        {
+          "text": "m'appeler",
+          "start": 27.44,
+          "end": 27.76
+        },
+        {
+          "text": "au",
+          "start": 27.76,
+          "end": 27.84
+        },
+        {
+          "text": "514",
+          "start": 27.84,
+          "end": 29.92
+        },
+        {
+          "text": "555",
+          "start": 29.92,
+          "end": 29.92
+        },
+        {
+          "text": "8745",
+          "start": 29.92,
+          "end": 31.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "S'il y a quoi que ce soit,",
+          "translations": {
+            "zh": "如果有任何问题，",
+            "en": "If there is anything,",
+            "es": "Si hay cualquier cosa,"
+          },
+          "start": 26.0,
+          "end": 27.04
+        },
+        {
+          "text": "vous pouvez m'appeler",
+          "translations": {
+            "zh": "您可以打电话给我",
+            "en": "you can call me",
+            "es": "puede llamarme"
+          },
+          "start": 27.04,
+          "end": 27.76
+        },
+        {
+          "text": "au 514 555-8745.",
+          "translations": {
+            "zh": "号码是514 555-8745。",
+            "en": "at 514 555-8745.",
+            "es": "al 514 555-8745."
+          },
+          "start": 27.76,
+          "end": 31.92
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Merci et à mardi.",
+      "translations": {
+        "zh": "谢谢，周二见。",
+        "en": "Thank you and see you on Tuesday.",
+        "es": "Gracias y hasta el martes."
+      },
+      "start": 31.92,
+      "end": 32.96,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 31.92,
+          "end": 32.32
+        },
+        {
+          "text": "et",
+          "start": 32.32,
+          "end": 32.48
+        },
+        {
+          "text": "à",
+          "start": 32.48,
+          "end": 32.56
+        },
+        {
+          "text": "mardi",
+          "start": 32.56,
+          "end": 32.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci",
+          "translations": {
+            "zh": "谢谢",
+            "en": "Thank you",
+            "es": "Gracias"
+          },
+          "start": 31.92,
+          "end": 32.32
+        },
+        {
+          "text": "et à mardi.",
+          "translations": {
+            "zh": "周二见。",
+            "en": "and see you on Tuesday.",
+            "es": "y hasta el martes."
+          },
+          "start": 32.32,
+          "end": 32.96
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Bonjour, le message s'adresse aux parents de Samuel.",
+      "translations": {
+        "zh": "您好，这条留言是给塞缪尔的父母的。",
+        "en": "Hello, this message is for Samuel's parents.",
+        "es": "Hola, el mensaje va dirigido a los padres de Samuel."
+      },
+      "start": 39.68,
+      "end": 42.24,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 39.68,
+          "end": 40.32
+        },
+        {
+          "text": "le",
+          "start": 40.32,
+          "end": 40.32
+        },
+        {
+          "text": "message",
+          "start": 40.4,
+          "end": 40.88
+        },
+        {
+          "text": "s'adresse",
+          "start": 40.88,
+          "end": 41.28
+        },
+        {
+          "text": "aux",
+          "start": 41.28,
+          "end": 41.36
+        },
+        {
+          "text": "parents",
+          "start": 41.36,
+          "end": 41.6
+        },
+        {
+          "text": "de",
+          "start": 41.6,
+          "end": 42.24
+        },
+        {
+          "text": "Samuel",
+          "start": 42.24,
+          "end": 42.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 39.68,
+          "end": 40.32
+        },
+        {
+          "text": "le message s'adresse aux parents de Samuel.",
+          "translations": {
+            "zh": "这条留言是给塞缪尔的父母的。",
+            "en": "this message is for Samuel's parents.",
+            "es": "el mensaje va dirigido a los padres de Samuel."
+          },
+          "start": 40.32,
+          "end": 42.24
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "C'est Fabienne, son enseignante.",
+      "translations": {
+        "zh": "我是法比耶纳，他的老师。",
+        "en": "This is Fabienne, his teacher.",
+        "es": "Es Fabienne, su maestra."
+      },
+      "start": 42.64,
+      "end": 44.32,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 42.64,
+          "end": 42.8
+        },
+        {
+          "text": "Fabienne",
+          "start": 42.8,
+          "end": 43.36
+        },
+        {
+          "text": "son",
+          "start": 43.36,
+          "end": 43.6
+        },
+        {
+          "text": "enseignante",
+          "start": 43.6,
+          "end": 44.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est Fabienne,",
+          "translations": {
+            "zh": "我是法比耶纳，",
+            "en": "This is Fabienne,",
+            "es": "Es Fabienne,"
+          },
+          "start": 42.64,
+          "end": 43.36
+        },
+        {
+          "text": "son enseignante.",
+          "translations": {
+            "zh": "他的老师。",
+            "en": "his teacher.",
+            "es": "su maestra."
+          },
+          "start": 43.36,
+          "end": 44.32
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Je vous appelle parce que j'aurais vraiment besoin que votre fils me rapporte le formulaire d'autorisation pour la sortie avec votre signature demain matin.",
+      "translations": {
+        "zh": "我打电话给您，因为我真的需要您的儿子明天早上把带有您签名的外出授权表带回来给我。",
+        "en": "I am calling you because I would really need your son to bring me back the authorization form for the field trip with your signature tomorrow morning.",
+        "es": "Le llamo porque realmente necesitaría que su hijo me trajera el formulario de autorización para la excursión con su firma mañana por la mañana."
+      },
+      "start": 44.72,
+      "end": 52.56,
+      "words": [
+        {
+          "text": "Je",
+          "start": 44.72,
+          "end": 44.8
+        },
+        {
+          "text": "vous",
+          "start": 44.88,
+          "end": 45.04
+        },
+        {
+          "text": "appelle",
+          "start": 45.04,
+          "end": 45.28
+        },
+        {
+          "text": "parce",
+          "start": 45.28,
+          "end": 45.44
+        },
+        {
+          "text": "que",
+          "start": 45.44,
+          "end": 45.6
+        },
+        {
+          "text": "j'aurais",
+          "start": 45.6,
+          "end": 45.92
+        },
+        {
+          "text": "vraiment",
+          "start": 45.92,
+          "end": 46.24
+        },
+        {
+          "text": "besoin",
+          "start": 46.24,
+          "end": 46.64
+        },
+        {
+          "text": "que",
+          "start": 46.64,
+          "end": 46.72
+        },
+        {
+          "text": "votre",
+          "start": 46.72,
+          "end": 46.88
+        },
+        {
+          "text": "fils",
+          "start": 46.88,
+          "end": 47.2
+        },
+        {
+          "text": "me",
+          "start": 47.2,
+          "end": 47.28
+        },
+        {
+          "text": "rapporte",
+          "start": 47.28,
+          "end": 47.68
+        },
+        {
+          "text": "le",
+          "start": 47.68,
+          "end": 47.76
+        },
+        {
+          "text": "formulaire",
+          "start": 47.76,
+          "end": 48.32
+        },
+        {
+          "text": "d'autorisation",
+          "start": 48.32,
+          "end": 49.2
+        },
+        {
+          "text": "pour",
+          "start": 49.2,
+          "end": 49.36
+        },
+        {
+          "text": "la",
+          "start": 49.36,
+          "end": 49.44
+        },
+        {
+          "text": "sortie",
+          "start": 49.44,
+          "end": 50.08
+        },
+        {
+          "text": "avec",
+          "start": 50.4,
+          "end": 50.72
+        },
+        {
+          "text": "votre",
+          "start": 50.72,
+          "end": 50.88
+        },
+        {
+          "text": "signature",
+          "start": 50.88,
+          "end": 51.6
+        },
+        {
+          "text": "demain",
+          "start": 51.84,
+          "end": 52.16
+        },
+        {
+          "text": "matin",
+          "start": 52.16,
+          "end": 52.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vous appelle",
+          "translations": {
+            "zh": "我打电话给您",
+            "en": "I am calling you",
+            "es": "Le llamo"
+          },
+          "start": 44.72,
+          "end": 45.28
+        },
+        {
+          "text": "parce que j'aurais vraiment besoin",
+          "translations": {
+            "zh": "因为我真的需要",
+            "en": "because I would really need",
+            "es": "porque realmente necesitaría"
+          },
+          "start": 45.28,
+          "end": 46.64
+        },
+        {
+          "text": "que votre fils me rapporte",
+          "translations": {
+            "zh": "您的儿子带回来给我",
+            "en": "your son to bring me back",
+            "es": "que su hijo me trajera"
+          },
+          "start": 46.64,
+          "end": 47.68
+        },
+        {
+          "text": "le formulaire d'autorisation pour la sortie",
+          "translations": {
+            "zh": "外出授权表",
+            "en": "the authorization form for the field trip",
+            "es": "el formulario de autorización para la excursión"
+          },
+          "start": 47.68,
+          "end": 50.08
+        },
+        {
+          "text": "avec votre signature",
+          "translations": {
+            "zh": "带有您的签名",
+            "en": "with your signature",
+            "es": "con su firma"
+          },
+          "start": 50.4,
+          "end": 51.6
+        },
+        {
+          "text": "demain matin.",
+          "translations": {
+            "zh": "明天早上。",
+            "en": "tomorrow morning.",
+            "es": "mañana por la mañana."
+          },
+          "start": 51.84,
+          "end": 52.56
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Si je n'ai pas votre autorisation, il ne pourra malheureusement pas participer à l'activité.",
+      "translations": {
+        "zh": "如果我没有您的授权，很遗憾他将无法参加这项活动。",
+        "en": "If I do not have your authorization, he will unfortunately not be able to participate in the activity.",
+        "es": "Si no tengo su autorización, lamentablemente no podrá participar en la actividad."
+      },
+      "start": 52.96,
+      "end": 57.36,
+      "words": [
+        {
+          "text": "Si",
+          "start": 52.96,
+          "end": 53.12
+        },
+        {
+          "text": "je",
+          "start": 53.12,
+          "end": 53.28
+        },
+        {
+          "text": "n'ai",
+          "start": 53.28,
+          "end": 53.28
+        },
+        {
+          "text": "pas",
+          "start": 53.28,
+          "end": 53.52
+        },
+        {
+          "text": "votre",
+          "start": 53.52,
+          "end": 53.76
+        },
+        {
+          "text": "autorisation",
+          "start": 53.76,
+          "end": 54.64
+        },
+        {
+          "text": "il",
+          "start": 54.8,
+          "end": 54.96
+        },
+        {
+          "text": "ne",
+          "start": 54.96,
+          "end": 54.96
+        },
+        {
+          "text": "pourra",
+          "start": 54.96,
+          "end": 55.28
+        },
+        {
+          "text": "malheureusement",
+          "start": 55.28,
+          "end": 55.92
+        },
+        {
+          "text": "pas",
+          "start": 56.0,
+          "end": 56.08
+        },
+        {
+          "text": "participer",
+          "start": 56.08,
+          "end": 56.64
+        },
+        {
+          "text": "à",
+          "start": 56.64,
+          "end": 56.72
+        },
+        {
+          "text": "l'activité",
+          "start": 56.72,
+          "end": 57.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Si je n'ai pas votre autorisation,",
+          "translations": {
+            "zh": "如果我没有您的授权，",
+            "en": "If I do not have your authorization,",
+            "es": "Si no tengo su autorización,"
+          },
+          "start": 52.96,
+          "end": 54.64
+        },
+        {
+          "text": "il ne pourra malheureusement pas participer à l'activité.",
+          "translations": {
+            "zh": "很遗憾他将无法参加这项活动。",
+            "en": "he will unfortunately not be able to participate in the activity.",
+            "es": "lamentablemente no podrá participar en la actividad."
+          },
+          "start": 54.8,
+          "end": 57.36
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Merci et bonne soirée.",
+      "translations": {
+        "zh": "谢谢，晚安。",
+        "en": "Thank you and have a good evening.",
+        "es": "Gracias y buena tarde."
+      },
+      "start": 57.92,
+      "end": 59.28,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 57.92,
+          "end": 58.4
+        },
+        {
+          "text": "et",
+          "start": 58.56,
+          "end": 58.64
+        },
+        {
+          "text": "bonne",
+          "start": 58.64,
+          "end": 58.8
+        },
+        {
+          "text": "soirée",
+          "start": 58.8,
+          "end": 59.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci",
+          "translations": {
+            "zh": "谢谢",
+            "en": "Thank you",
+            "es": "Gracias"
+          },
+          "start": 57.92,
+          "end": 58.4
+        },
+        {
+          "text": "et bonne soirée.",
+          "translations": {
+            "zh": "晚安。",
+            "en": "and have a good evening.",
+            "es": "y buena tarde."
+          },
+          "start": 58.56,
+          "end": 59.28
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Bonsoir, ici Michèle, l'éducatrice de Clara et Julien.",
+      "translations": {
+        "zh": "晚上好，我是米歇尔，克拉拉和朱利安的教育工作者。",
+        "en": "Good evening, this is Michèle, Clara and Julien's educator.",
+        "es": "Buenas tardes, aquí Michèle, la educadora de Clara y Julien."
+      },
+      "start": 64.48,
+      "end": 67.76,
+      "words": [
+        {
+          "text": "Bonsoir",
+          "start": 64.48,
+          "end": 65.12
+        },
+        {
+          "text": "ici",
+          "start": 65.12,
+          "end": 65.44
+        },
+        {
+          "text": "Michèle",
+          "start": 65.44,
+          "end": 66.0
+        },
+        {
+          "text": "l'éducatrice",
+          "start": 66.0,
+          "end": 66.64
+        },
+        {
+          "text": "de",
+          "start": 66.64,
+          "end": 66.8
+        },
+        {
+          "text": "Clara",
+          "start": 66.8,
+          "end": 67.28
+        },
+        {
+          "text": "et",
+          "start": 67.28,
+          "end": 67.36
+        },
+        {
+          "text": "Julien",
+          "start": 67.36,
+          "end": 67.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonsoir,",
+          "translations": {
+            "zh": "晚上好，",
+            "en": "Good evening,",
+            "es": "Buenas tardes,"
+          },
+          "start": 64.48,
+          "end": 65.12
+        },
+        {
+          "text": "ici Michèle,",
+          "translations": {
+            "zh": "我是米歇尔，",
+            "en": "this is Michèle,",
+            "es": "aquí Michèle,"
+          },
+          "start": 65.12,
+          "end": 66.0
+        },
+        {
+          "text": "l'éducatrice de Clara et Julien.",
+          "translations": {
+            "zh": "克拉拉和朱利安的教育工作者。",
+            "en": "Clara and Julien's educator.",
+            "es": "la educadora de Clara y Julien."
+          },
+          "start": 66.0,
+          "end": 67.76
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Je vous appelle pour vous informer que la garderie va être fermée demain, vendredi.",
+      "translations": {
+        "zh": "我打电话给您是为了通知您，托儿所明天，即星期五，将关闭。",
+        "en": "I am calling you to inform you that the daycare will be closed tomorrow, Friday.",
+        "es": "Le llamo para informarle que la guardería va a estar cerrada mañana, viernes."
+      },
+      "start": 68.48,
+      "end": 72.32,
+      "words": [
+        {
+          "text": "Je",
+          "start": 68.48,
+          "end": 68.56
+        },
+        {
+          "text": "vous",
+          "start": 68.56,
+          "end": 68.72
+        },
+        {
+          "text": "appelle",
+          "start": 68.72,
+          "end": 69.12
+        },
+        {
+          "text": "pour",
+          "start": 69.12,
+          "end": 69.28
+        },
+        {
+          "text": "vous",
+          "start": 69.28,
+          "end": 69.52
+        },
+        {
+          "text": "informer",
+          "start": 69.52,
+          "end": 69.92
+        },
+        {
+          "text": "que",
+          "start": 69.92,
+          "end": 70.08
+        },
+        {
+          "text": "la",
+          "start": 70.08,
+          "end": 70.16
+        },
+        {
+          "text": "garderie",
+          "start": 70.16,
+          "end": 70.56
+        },
+        {
+          "text": "va",
+          "start": 70.56,
+          "end": 70.72
+        },
+        {
+          "text": "être",
+          "start": 70.72,
+          "end": 70.88
+        },
+        {
+          "text": "fermée",
+          "start": 70.88,
+          "end": 71.36
+        },
+        {
+          "text": "demain",
+          "start": 71.36,
+          "end": 71.68
+        },
+        {
+          "text": "vendredi",
+          "start": 71.68,
+          "end": 72.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vous appelle",
+          "translations": {
+            "zh": "我打电话给您",
+            "en": "I am calling you",
+            "es": "Le llamo"
+          },
+          "start": 68.48,
+          "end": 69.12
+        },
+        {
+          "text": "pour vous informer",
+          "translations": {
+            "zh": "是为了通知您",
+            "en": "to inform you",
+            "es": "para informarle"
+          },
+          "start": 69.12,
+          "end": 69.92
+        },
+        {
+          "text": "que la garderie va être fermée",
+          "translations": {
+            "zh": "托儿所将关闭",
+            "en": "that the daycare will be closed",
+            "es": "que la guardería va a estar cerrada"
+          },
+          "start": 69.92,
+          "end": 71.36
+        },
+        {
+          "text": "demain, vendredi.",
+          "translations": {
+            "zh": "明天，星期五。",
+            "en": "tomorrow, Friday.",
+            "es": "mañana, viernes."
+          },
+          "start": 71.36,
+          "end": 72.32
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Nous avons eu un gros dégât d'eau au sous-sol et il faut faire venir des spécialistes pour le nettoyage.",
+      "translations": {
+        "zh": "我们地下室发生了严重的水灾，需要请专业人员来进行清理。",
+        "en": "We had a major water damage in the basement and we need to bring in specialists for the cleanup.",
+        "es": "Hemos tenido un gran daño de agua en el sótano y hay que hacer venir a especialistas para la limpieza."
+      },
+      "start": 72.96,
+      "end": 77.76,
+      "words": [
+        {
+          "text": "Nous",
+          "start": 72.96,
+          "end": 73.2
+        },
+        {
+          "text": "avons",
+          "start": 73.2,
+          "end": 73.52
+        },
+        {
+          "text": "eu",
+          "start": 73.52,
+          "end": 73.6
+        },
+        {
+          "text": "un",
+          "start": 73.6,
+          "end": 73.76
+        },
+        {
+          "text": "gros",
+          "start": 73.76,
+          "end": 74.08
+        },
+        {
+          "text": "dégât",
+          "start": 74.08,
+          "end": 74.4
+        },
+        {
+          "text": "d'eau",
+          "start": 74.4,
+          "end": 74.64
+        },
+        {
+          "text": "au",
+          "start": 74.64,
+          "end": 74.64
+        },
+        {
+          "text": "sous",
+          "start": 74.64,
+          "end": 74.8
+        },
+        {
+          "text": "sol",
+          "start": 74.8,
+          "end": 75.2
+        },
+        {
+          "text": "et",
+          "start": 75.2,
+          "end": 75.28
+        },
+        {
+          "text": "il",
+          "start": 75.28,
+          "end": 75.36
+        },
+        {
+          "text": "faut",
+          "start": 75.36,
+          "end": 75.52
+        },
+        {
+          "text": "faire",
+          "start": 75.52,
+          "end": 75.76
+        },
+        {
+          "text": "venir",
+          "start": 75.76,
+          "end": 76.0
+        },
+        {
+          "text": "des",
+          "start": 76.0,
+          "end": 76.16
+        },
+        {
+          "text": "spécialistes",
+          "start": 76.16,
+          "end": 76.8
+        },
+        {
+          "text": "pour",
+          "start": 76.8,
+          "end": 76.96
+        },
+        {
+          "text": "le",
+          "start": 76.96,
+          "end": 77.04
+        },
+        {
+          "text": "nettoyage",
+          "start": 77.04,
+          "end": 77.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Nous avons eu un gros dégât d'eau au sous-sol",
+          "translations": {
+            "zh": "我们地下室发生了严重的水灾",
+            "en": "We had a major water damage in the basement",
+            "es": "Hemos tenido un gran daño de agua en el sótano"
+          },
+          "start": 72.96,
+          "end": 75.2
+        },
+        {
+          "text": "et il faut faire venir des spécialistes",
+          "translations": {
+            "zh": "而且需要请专业人员来",
+            "en": "and we need to bring in specialists",
+            "es": "y hay que hacer venir a especialistas"
+          },
+          "start": 75.2,
+          "end": 76.8
+        },
+        {
+          "text": "pour le nettoyage.",
+          "translations": {
+            "zh": "进行清理。",
+            "en": "for the cleanup.",
+            "es": "para la limpieza."
+          },
+          "start": 76.8,
+          "end": 77.76
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "On nous a dit que tout serait réglé d'ici lundi, donc, normalement, on devrait être ouvert lundi.",
+      "translations": {
+        "zh": "有人告诉我们一切将在周一之前解决，所以，正常情况下，我们应该会在周一开放。",
+        "en": "We were told that everything would be sorted out by Monday, so, normally, we should be open on Monday.",
+        "es": "Nos han dicho que todo estaría solucionado de aquí a lunes, así que, normalmente, deberíamos estar abiertos el lunes."
+      },
+      "start": 78.16,
+      "end": 82.72,
+      "words": [
+        {
+          "text": "On",
+          "start": 78.16,
+          "end": 78.32
+        },
+        {
+          "text": "nous",
+          "start": 78.32,
+          "end": 78.48
+        },
+        {
+          "text": "a",
+          "start": 78.48,
+          "end": 78.48
+        },
+        {
+          "text": "dit",
+          "start": 78.48,
+          "end": 78.72
+        },
+        {
+          "text": "que",
+          "start": 78.72,
+          "end": 78.72
+        },
+        {
+          "text": "tout",
+          "start": 78.8,
+          "end": 78.96
+        },
+        {
+          "text": "serait",
+          "start": 78.96,
+          "end": 79.12
+        },
+        {
+          "text": "réglé",
+          "start": 79.12,
+          "end": 79.44
+        },
+        {
+          "text": "d'ici",
+          "start": 79.44,
+          "end": 79.84
+        },
+        {
+          "text": "lundi",
+          "start": 79.84,
+          "end": 80.24
+        },
+        {
+          "text": "donc",
+          "start": 80.24,
+          "end": 80.64
+        },
+        {
+          "text": "normalement",
+          "start": 80.64,
+          "end": 81.28
+        },
+        {
+          "text": "on",
+          "start": 81.36,
+          "end": 81.44
+        },
+        {
+          "text": "devrait",
+          "start": 81.44,
+          "end": 81.76
+        },
+        {
+          "text": "être",
+          "start": 81.76,
+          "end": 81.92
+        },
+        {
+          "text": "ouvert",
+          "start": 81.92,
+          "end": 82.24
+        },
+        {
+          "text": "lundi",
+          "start": 82.24,
+          "end": 82.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On nous a dit",
+          "translations": {
+            "zh": "有人告诉我们",
+            "en": "We were told",
+            "es": "Nos han dicho"
+          },
+          "start": 78.16,
+          "end": 78.72
+        },
+        {
+          "text": "que tout serait réglé d'ici lundi,",
+          "translations": {
+            "zh": "一切将在周一之前解决，",
+            "en": "that everything would be sorted out by Monday,",
+            "es": "que todo estaría solucionado de aquí a lunes,"
+          },
+          "start": 78.72,
+          "end": 80.24
+        },
+        {
+          "text": "donc, normalement,",
+          "translations": {
+            "zh": "所以，正常情况下，",
+            "en": "so, normally,",
+            "es": "así que, normalmente,"
+          },
+          "start": 80.24,
+          "end": 81.28
+        },
+        {
+          "text": "on devrait être ouvert lundi.",
+          "translations": {
+            "zh": "我们应该会在周一开放。",
+            "en": "we should be open on Monday.",
+            "es": "deberíamos estar abiertos el lunes."
+          },
+          "start": 81.36,
+          "end": 82.72
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Je suis vraiment désolée des inconvénients.",
+      "translations": {
+        "zh": "对于造成的不便，我真的很抱歉。",
+        "en": "I am truly sorry for the inconvenience.",
+        "es": "Estoy realmente avergonzada por los inconvenientes."
+      },
+      "start": 83.36,
+      "end": 85.2,
+      "words": [
+        {
+          "text": "Je",
+          "start": 83.36,
+          "end": 83.44
+        },
+        {
+          "text": "suis",
+          "start": 83.44,
+          "end": 83.68
+        },
+        {
+          "text": "vraiment",
+          "start": 83.68,
+          "end": 84.08
+        },
+        {
+          "text": "désolée",
+          "start": 84.08,
+          "end": 84.48
+        },
+        {
+          "text": "des",
+          "start": 84.48,
+          "end": 84.64
+        },
+        {
+          "text": "inconvénients",
+          "start": 84.64,
+          "end": 85.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis vraiment désolée",
+          "translations": {
+            "zh": "我真的很抱歉",
+            "en": "I am truly sorry",
+            "es": "Estoy realmente avergonzada"
+          },
+          "start": 83.36,
+          "end": 84.48
+        },
+        {
+          "text": "des inconvénients.",
+          "translations": {
+            "zh": "对于这些不便。",
+            "en": "for the inconvenience.",
+            "es": "por los inconvenientes."
+          },
+          "start": 84.48,
+          "end": 85.2
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Vous pouvez me rappeler à la maison s'il y a quelque chose.",
+      "translations": {
+        "zh": "如果有事的话，您可以打到我家里。",
+        "en": "You can call me back at home if there is anything.",
+        "es": "Puede llamarme a casa si hay algo."
+      },
+      "start": 85.92,
+      "end": 88.08,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 85.92,
+          "end": 86.08
+        },
+        {
+          "text": "pouvez",
+          "start": 86.08,
+          "end": 86.32
+        },
+        {
+          "text": "me",
+          "start": 86.32,
+          "end": 86.4
+        },
+        {
+          "text": "rappeler",
+          "start": 86.4,
+          "end": 86.72
+        },
+        {
+          "text": "à",
+          "start": 86.72,
+          "end": 86.72
+        },
+        {
+          "text": "la",
+          "start": 86.72,
+          "end": 86.88
+        },
+        {
+          "text": "maison",
+          "start": 86.88,
+          "end": 87.2
+        },
+        {
+          "text": "s'il",
+          "start": 87.2,
+          "end": 87.44
+        },
+        {
+          "text": "y",
+          "start": 87.44,
+          "end": 87.44
+        },
+        {
+          "text": "a",
+          "start": 87.44,
+          "end": 87.44
+        },
+        {
+          "text": "quelque",
+          "start": 87.44,
+          "end": 87.76
+        },
+        {
+          "text": "chose",
+          "start": 87.76,
+          "end": 88.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous pouvez me rappeler à la maison",
+          "translations": {
+            "zh": "您可以打到我家里",
+            "en": "You can call me back at home",
+            "es": "Puede llamarme a casa"
+          },
+          "start": 85.92,
+          "end": 87.2
+        },
+        {
+          "text": "s'il y a quelque chose.",
+          "translations": {
+            "zh": "如果有事的话。",
+            "en": "if there is anything.",
+            "es": "si hay algo."
+          },
+          "start": 87.2,
+          "end": 88.08
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Merci, bonne soirée.",
+      "translations": {
+        "zh": "谢谢，晚安。",
+        "en": "Thank you, have a good evening.",
+        "es": "Gracias, buena tarde."
+      },
+      "start": 88.72,
+      "end": 89.76,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 88.72,
+          "end": 89.12
+        },
+        {
+          "text": "bonne",
+          "start": 89.2,
+          "end": 89.36
+        },
+        {
+          "text": "soirée",
+          "start": 89.36,
+          "end": 89.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci,",
+          "translations": {
+            "zh": "谢谢，",
+            "en": "Thank you,",
+            "es": "Gracias,"
+          },
+          "start": 88.72,
+          "end": 89.12
+        },
+        {
+          "text": "bonne soirée.",
+          "translations": {
+            "zh": "晚安。",
+            "en": "have a good evening.",
+            "es": "buena tarde."
+          },
+          "start": 89.2,
+          "end": 89.76
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Bonsoir, le message s'adresse aux parents de Mathias.",
+      "translations": {
+        "zh": "晚上好，这条留言是给马蒂亚斯的父母的。",
+        "en": "Good evening, this message is for Mathias's parents.",
+        "es": "Buenas tardes, el mensaje va dirigido a los padres de Mathias."
+      },
+      "start": 95.28,
+      "end": 97.6,
+      "words": [
+        {
+          "text": "Bonsoir",
+          "start": 95.28,
+          "end": 95.84
+        },
+        {
+          "text": "le",
+          "start": 95.84,
+          "end": 95.92
+        },
+        {
+          "text": "message",
+          "start": 95.92,
+          "end": 96.24
+        },
+        {
+          "text": "s'adresse",
+          "start": 96.24,
+          "end": 96.64
+        },
+        {
+          "text": "aux",
+          "start": 96.64,
+          "end": 96.72
+        },
+        {
+          "text": "parents",
+          "start": 96.72,
+          "end": 96.96
+        },
+        {
+          "text": "de",
+          "start": 96.96,
+          "end": 97.04
+        },
+        {
+          "text": "Mathias",
+          "start": 97.04,
+          "end": 97.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonsoir,",
+          "translations": {
+            "zh": "晚上好，",
+            "en": "Good evening,",
+            "es": "Buenas tardes,"
+          },
+          "start": 95.28,
+          "end": 95.84
+        },
+        {
+          "text": "le message s'adresse aux parents de Mathias.",
+          "translations": {
+            "zh": "这条留言是给马蒂亚斯的父母的。",
+            "en": "this message is for Mathias's parents.",
+            "es": "el mensaje va dirigido a los padres de Mathias."
+          },
+          "start": 95.84,
+          "end": 97.6
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Ici Annie Lepage, son enseignante.",
+      "translations": {
+        "zh": "我是安妮·勒帕日，他的老师。",
+        "en": "This is Annie Lepage, his teacher.",
+        "es": "Aquí Annie Lepage, su maestra."
+      },
+      "start": 97.92,
+      "end": 99.76,
+      "words": [
+        {
+          "text": "Ici",
+          "start": 97.92,
+          "end": 98.24
+        },
+        {
+          "text": "Annie",
+          "start": 98.24,
+          "end": 98.56
+        },
+        {
+          "text": "Lepage",
+          "start": 98.56,
+          "end": 98.88
+        },
+        {
+          "text": "son",
+          "start": 98.96,
+          "end": 99.12
+        },
+        {
+          "text": "enseignante",
+          "start": 99.12,
+          "end": 99.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ici Annie Lepage,",
+          "translations": {
+            "zh": "我是安妮·勒帕日，",
+            "en": "This is Annie Lepage,",
+            "es": "Aquí Annie Lepage,"
+          },
+          "start": 97.92,
+          "end": 98.88
+        },
+        {
+          "text": "son enseignante.",
+          "translations": {
+            "zh": "他的老师。",
+            "en": "his teacher.",
+            "es": "su maestra."
+          },
+          "start": 98.96,
+          "end": 99.76
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Je vous appelle parce que je suis forcée d'annuler la réunion de parents qui était prévue demain soir à 19 h 30.",
+      "translations": {
+        "zh": "我打电话给您，因为我不得不取消原定于明晚19点30分举行的家长会。",
+        "en": "I am calling you because I am forced to cancel the parents' meeting that was scheduled for tomorrow evening at 7:30 p.m.",
+        "es": "Le llamo porque me veo obligada a cancelar la reunión de padres que estaba prevista mañana por la tarde a las 19 h 30."
+      },
+      "start": 100.08,
+      "end": 105.28,
+      "words": [
+        {
+          "text": "Je",
+          "start": 100.08,
+          "end": 100.16
+        },
+        {
+          "text": "vous",
+          "start": 100.24,
+          "end": 100.32
+        },
+        {
+          "text": "appelle",
+          "start": 100.32,
+          "end": 100.64
+        },
+        {
+          "text": "parce",
+          "start": 100.72,
+          "end": 100.88
+        },
+        {
+          "text": "que",
+          "start": 100.88,
+          "end": 100.96
+        },
+        {
+          "text": "je",
+          "start": 100.96,
+          "end": 101.04
+        },
+        {
+          "text": "suis",
+          "start": 101.04,
+          "end": 101.2
+        },
+        {
+          "text": "forcée",
+          "start": 101.2,
+          "end": 101.6
+        },
+        {
+          "text": "d'annuler",
+          "start": 101.6,
+          "end": 102.0
+        },
+        {
+          "text": "la",
+          "start": 102.0,
+          "end": 102.08
+        },
+        {
+          "text": "réunion",
+          "start": 102.08,
+          "end": 102.48
+        },
+        {
+          "text": "de",
+          "start": 102.48,
+          "end": 102.56
+        },
+        {
+          "text": "parents",
+          "start": 102.56,
+          "end": 102.96
+        },
+        {
+          "text": "qui",
+          "start": 102.96,
+          "end": 103.12
+        },
+        {
+          "text": "était",
+          "start": 103.12,
+          "end": 103.28
+        },
+        {
+          "text": "prévue",
+          "start": 103.28,
+          "end": 103.68
+        },
+        {
+          "text": "demain",
+          "start": 103.68,
+          "end": 103.92
+        },
+        {
+          "text": "soir",
+          "start": 103.92,
+          "end": 104.24
+        },
+        {
+          "text": "à",
+          "start": 104.24,
+          "end": 104.4
+        },
+        {
+          "text": "19",
+          "start": 104.4,
+          "end": 104.64
+        },
+        {
+          "text": "h",
+          "start": 104.64,
+          "end": 105.2
+        },
+        {
+          "text": "30",
+          "start": 105.2,
+          "end": 105.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vous appelle",
+          "translations": {
+            "zh": "我打电话给您",
+            "en": "I am calling you",
+            "es": "Le llamo"
+          },
+          "start": 100.08,
+          "end": 100.64
+        },
+        {
+          "text": "parce que je suis forcée d'annuler",
+          "translations": {
+            "zh": "因为我被迫取消",
+            "en": "because I am forced to cancel",
+            "es": "porque me veo obligada a cancelar"
+          },
+          "start": 100.72,
+          "end": 102.0
+        },
+        {
+          "text": "la réunion de parents",
+          "translations": {
+            "zh": "家长会",
+            "en": "the parents' meeting",
+            "es": "la reunión de padres"
+          },
+          "start": 102.0,
+          "end": 102.96
+        },
+        {
+          "text": "qui était prévue demain soir à 19 h 30.",
+          "translations": {
+            "zh": "原定于明晚19点30分举行的。",
+            "en": "that was scheduled for tomorrow evening at 7:30 p.m.",
+            "es": "que estaba prevista mañana por la tarde a las 19 h 30."
+          },
+          "start": 102.96,
+          "end": 105.28
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Je suis désolée mais j'ai un empêchement de dernière minute.",
+      "translations": {
+        "zh": "我很抱歉，但我临时有事。",
+        "en": "I am sorry but I have a last-minute commitment.",
+        "es": "Lo siento pero tengo un impedimento de última hora."
+      },
+      "start": 105.6,
+      "end": 107.84,
+      "words": [
+        {
+          "text": "Je",
+          "start": 105.6,
+          "end": 105.68
+        },
+        {
+          "text": "suis",
+          "start": 105.68,
+          "end": 105.84
+        },
+        {
+          "text": "désolée",
+          "start": 105.84,
+          "end": 106.16
+        },
+        {
+          "text": "mais",
+          "start": 106.16,
+          "end": 106.32
+        },
+        {
+          "text": "j'ai",
+          "start": 106.32,
+          "end": 106.48
+        },
+        {
+          "text": "un",
+          "start": 106.48,
+          "end": 106.56
+        },
+        {
+          "text": "empêchement",
+          "start": 106.56,
+          "end": 107.12
+        },
+        {
+          "text": "de",
+          "start": 107.12,
+          "end": 107.28
+        },
+        {
+          "text": "dernière",
+          "start": 107.28,
+          "end": 107.6
+        },
+        {
+          "text": "minute",
+          "start": 107.6,
+          "end": 107.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis désolée",
+          "translations": {
+            "zh": "我很抱歉",
+            "en": "I am sorry",
+            "es": "Lo siento"
+          },
+          "start": 105.6,
+          "end": 106.16
+        },
+        {
+          "text": "mais j'ai un empêchement de dernière minute.",
+          "translations": {
+            "zh": "但我临时有事。",
+            "en": "but I have a last-minute commitment.",
+            "es": "pero tengo un impedimento de última hora."
+          },
+          "start": 106.16,
+          "end": 107.84
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "J'aimerais cependant vous parler pour que nous fixions la date d'une autre rencontre.",
+      "translations": {
+        "zh": "不过我想和您谈谈，以便我们确定另一次会面的日期。",
+        "en": "I would however like to speak with you so that we can set the date for another meeting.",
+        "es": "Me gustaría sin embargo hablar con usted para que fijemos la fecha de otro encuentro."
+      },
+      "start": 108.48,
+      "end": 112.08,
+      "words": [
+        {
+          "text": "J'aimerais",
+          "start": 108.48,
+          "end": 108.8
+        },
+        {
+          "text": "cependant",
+          "start": 108.8,
+          "end": 109.2
+        },
+        {
+          "text": "vous",
+          "start": 109.2,
+          "end": 109.36
+        },
+        {
+          "text": "parler",
+          "start": 109.36,
+          "end": 109.76
+        },
+        {
+          "text": "pour",
+          "start": 109.76,
+          "end": 109.92
+        },
+        {
+          "text": "que",
+          "start": 109.92,
+          "end": 110.08
+        },
+        {
+          "text": "nous",
+          "start": 110.08,
+          "end": 110.16
+        },
+        {
+          "text": "fixions",
+          "start": 110.16,
+          "end": 110.56
+        },
+        {
+          "text": "la",
+          "start": 110.56,
+          "end": 110.72
+        },
+        {
+          "text": "date",
+          "start": 110.72,
+          "end": 110.96
+        },
+        {
+          "text": "d'une",
+          "start": 110.96,
+          "end": 111.2
+        },
+        {
+          "text": "autre",
+          "start": 111.2,
+          "end": 111.52
+        },
+        {
+          "text": "rencontre",
+          "start": 111.52,
+          "end": 112.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'aimerais cependant vous parler",
+          "translations": {
+            "zh": "不过我想和您谈谈",
+            "en": "I would however like to speak with you",
+            "es": "Me gustaría sin embargo hablar con usted"
+          },
+          "start": 108.48,
+          "end": 109.76
+        },
+        {
+          "text": "pour que nous fixions",
+          "translations": {
+            "zh": "以便我们确定",
+            "en": "so that we can set",
+            "es": "para que fijemos"
+          },
+          "start": 109.76,
+          "end": 110.56
+        },
+        {
+          "text": "la date d'une autre rencontre.",
+          "translations": {
+            "zh": "另一次会面的日期。",
+            "en": "the date for another meeting.",
+            "es": "la fecha de otro encuentro."
+          },
+          "start": 110.56,
+          "end": 112.08
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "S'il vous plait, rappelez-moi au 819 555-8526, mon poste téléphonique est le 741.",
+      "translations": {
+        "zh": "请回拨819 555-8526联系我，我的分机号是741。",
+        "en": "Please, call me back at 819 555-8526, my extension is 741.",
+        "es": "Por favor, llámeme al 819 555-8526, mi extensión telefónica es la 741."
+      },
+      "start": 112.48,
+      "end": 121.04,
+      "words": [
+        {
+          "text": "S'il",
+          "start": 112.48,
+          "end": 112.64
+        },
+        {
+          "text": "vous",
+          "start": 112.64,
+          "end": 112.72
+        },
+        {
+          "text": "plait",
+          "start": 112.72,
+          "end": 113.04
+        },
+        {
+          "text": "rappelez",
+          "start": 113.2,
+          "end": 113.52
+        },
+        {
+          "text": "moi",
+          "start": 113.52,
+          "end": 113.76
+        },
+        {
+          "text": "au",
+          "start": 114.16,
+          "end": 114.4
+        },
+        {
+          "text": "819",
+          "start": 114.48,
+          "end": 116.0
+        },
+        {
+          "text": "555",
+          "start": 116.0,
+          "end": 116.56
+        },
+        {
+          "text": "8526",
+          "start": 116.64,
+          "end": 117.92
+        },
+        {
+          "text": "mon",
+          "start": 118.32,
+          "end": 118.48
+        },
+        {
+          "text": "poste",
+          "start": 118.48,
+          "end": 118.8
+        },
+        {
+          "text": "téléphonique",
+          "start": 118.88,
+          "end": 119.44
+        },
+        {
+          "text": "est",
+          "start": 119.44,
+          "end": 119.52
+        },
+        {
+          "text": "le",
+          "start": 119.52,
+          "end": 119.68
+        },
+        {
+          "text": "741",
+          "start": 120.0,
+          "end": 121.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "S'il vous plait,",
+          "translations": {
+            "zh": "请",
+            "en": "Please,",
+            "es": "Por favor,"
+          },
+          "start": 112.48,
+          "end": 113.04
+        },
+        {
+          "text": "rappelez-moi au 819 555-8526,",
+          "translations": {
+            "zh": "回拨819 555-8526联系我，",
+            "en": "call me back at 819 555-8526,",
+            "es": "llámeme al 819 555-8526,"
+          },
+          "start": 113.2,
+          "end": 117.92
+        },
+        {
+          "text": "mon poste téléphonique est le 741.",
+          "translations": {
+            "zh": "我的分机号是741。",
+            "en": "my extension is 741.",
+            "es": "mi extensión telefónica es la 741."
+          },
+          "start": 118.32,
+          "end": 121.04
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Merci et au revoir.",
+      "translations": {
+        "zh": "谢谢，再见。",
+        "en": "Thank you and goodbye.",
+        "es": "Gracias y adiós."
+      },
+      "start": 121.36,
+      "end": 122.64,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 121.36,
+          "end": 121.84
+        },
+        {
+          "text": "et",
+          "start": 122.08,
+          "end": 122.16
+        },
+        {
+          "text": "au",
+          "start": 122.16,
+          "end": 122.32
+        },
+        {
+          "text": "revoir",
+          "start": 122.32,
+          "end": 122.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci",
+          "translations": {
+            "zh": "谢谢",
+            "en": "Thank you",
+            "es": "Gracias"
+          },
+          "start": 121.36,
+          "end": 121.84
+        },
+        {
+          "text": "et au revoir.",
+          "translations": {
+            "zh": "再见。",
+            "en": "and goodbye.",
+            "es": "y adiós."
+          },
+          "start": 122.08,
+          "end": 122.64
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP08_P37",
+  "audio_filename": "FLS2_EP08_P37.mp3",
+  "audio_path": "downloads/FLS2_EP08_P37.mp3",
+  "episode": 8,
+  "piste": 37,
+  "page": 65,
+  "cd": "CD1"
+}

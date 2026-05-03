@@ -1,0 +1,1651 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 12 Piste 15 Page 95",
+      "translations": {
+        "zh": "第12集 第15段 第95页",
+        "en": "Episode 12 Track 15 Page 95",
+        "es": "Episodio 12 Pista 15 Página 95"
+      },
+      "start": 0.56,
+      "end": 8.08,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.56,
+          "end": 1.28
+        },
+        {
+          "text": "12",
+          "start": 1.76,
+          "end": 2.24
+        },
+        {
+          "text": "Piste",
+          "start": 3.12,
+          "end": 3.6
+        },
+        {
+          "text": "15",
+          "start": 4.08,
+          "end": 4.72
+        },
+        {
+          "text": "Page",
+          "start": 4.72,
+          "end": 4.72
+        },
+        {
+          "text": "95",
+          "start": 6.96,
+          "end": 8.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 12",
+          "translations": {
+            "zh": "第12集",
+            "en": "Episode 12",
+            "es": "Episodio 12"
+          },
+          "start": 0.56,
+          "end": 2.24
+        },
+        {
+          "text": "Piste 15",
+          "translations": {
+            "zh": "第15段",
+            "en": "Track 15",
+            "es": "Pista 15"
+          },
+          "start": 3.12,
+          "end": 4.72
+        },
+        {
+          "text": "Page 95",
+          "translations": {
+            "zh": "第95页",
+            "en": "Page 95",
+            "es": "Página 95"
+          },
+          "start": 4.72,
+          "end": 8.08
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Est-ce que je pourrais parler à monsieur ou madame Pineault, s'il vous plait ?",
+      "translations": {
+        "zh": "请问，我可以和皮诺先生或太太说话吗，麻烦您了？",
+        "en": "Could I speak to Mr. or Mrs. Pineault, please?",
+        "es": "¿Podría hablar con el señor o la señora Pineault, por favor?"
+      },
+      "start": 9.04,
+      "end": 13.44,
+      "words": [
+        {
+          "text": "Est",
+          "start": 9.04,
+          "end": 9.28
+        },
+        {
+          "text": "ce",
+          "start": 9.28,
+          "end": 9.52
+        },
+        {
+          "text": "que",
+          "start": 10.96,
+          "end": 11.04
+        },
+        {
+          "text": "je",
+          "start": 11.04,
+          "end": 11.12
+        },
+        {
+          "text": "pourrais",
+          "start": 11.12,
+          "end": 11.28
+        },
+        {
+          "text": "parler",
+          "start": 11.28,
+          "end": 11.6
+        },
+        {
+          "text": "à",
+          "start": 11.6,
+          "end": 11.6
+        },
+        {
+          "text": "monsieur",
+          "start": 11.6,
+          "end": 12.08
+        },
+        {
+          "text": "ou",
+          "start": 12.08,
+          "end": 12.16
+        },
+        {
+          "text": "madame",
+          "start": 12.16,
+          "end": 12.48
+        },
+        {
+          "text": "Pineault",
+          "start": 12.48,
+          "end": 12.88
+        },
+        {
+          "text": "s'il",
+          "start": 12.88,
+          "end": 13.12
+        },
+        {
+          "text": "vous",
+          "start": 13.12,
+          "end": 13.2
+        },
+        {
+          "text": "plait",
+          "start": 13.2,
+          "end": 13.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que je pourrais parler",
+          "translations": {
+            "zh": "我可以和……说话吗",
+            "en": "Could I speak",
+            "es": "¿Podría hablar"
+          },
+          "start": 9.04,
+          "end": 11.6
+        },
+        {
+          "text": "à monsieur ou madame Pineault,",
+          "translations": {
+            "zh": "皮诺先生或太太，",
+            "en": "to Mr. or Mrs. Pineault,",
+            "es": "con el señor o la señora Pineault,"
+          },
+          "start": 11.6,
+          "end": 12.88
+        },
+        {
+          "text": "s'il vous plait ?",
+          "translations": {
+            "zh": "麻烦您了？",
+            "en": "please?",
+            "es": "por favor?"
+          },
+          "start": 12.88,
+          "end": 13.44
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Ils ne sont pas ici en ce moment.",
+      "translations": {
+        "zh": "他们现在不在这里。",
+        "en": "They are not here right now.",
+        "es": "No están aquí en este momento."
+      },
+      "start": 13.92,
+      "end": 15.2,
+      "words": [
+        {
+          "text": "Ils",
+          "start": 13.92,
+          "end": 14.08
+        },
+        {
+          "text": "ne",
+          "start": 14.08,
+          "end": 14.08
+        },
+        {
+          "text": "sont",
+          "start": 14.16,
+          "end": 14.32
+        },
+        {
+          "text": "pas",
+          "start": 14.32,
+          "end": 14.48
+        },
+        {
+          "text": "ici",
+          "start": 14.48,
+          "end": 14.8
+        },
+        {
+          "text": "en",
+          "start": 14.8,
+          "end": 14.8
+        },
+        {
+          "text": "ce",
+          "start": 14.8,
+          "end": 14.96
+        },
+        {
+          "text": "moment",
+          "start": 14.96,
+          "end": 15.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ils ne sont pas ici",
+          "translations": {
+            "zh": "他们不在这里",
+            "en": "They are not here",
+            "es": "No están aquí"
+          },
+          "start": 13.92,
+          "end": 14.8
+        },
+        {
+          "text": "en ce moment.",
+          "translations": {
+            "zh": "现在。",
+            "en": "right now.",
+            "es": "en este momento."
+          },
+          "start": 14.8,
+          "end": 15.2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Pourriez-vous leur dire que leur cafetière est réparée ?",
+      "translations": {
+        "zh": "您能告诉他们他们的咖啡机修好了吗？",
+        "en": "Could you tell them that their coffee maker is repaired?",
+        "es": "¿Podría decirles que su cafetera está reparada?"
+      },
+      "start": 15.68,
+      "end": 17.6,
+      "words": [
+        {
+          "text": "Pourriez",
+          "start": 15.68,
+          "end": 15.92
+        },
+        {
+          "text": "vous",
+          "start": 15.92,
+          "end": 16.08
+        },
+        {
+          "text": "leur",
+          "start": 16.08,
+          "end": 16.24
+        },
+        {
+          "text": "dire",
+          "start": 16.24,
+          "end": 16.4
+        },
+        {
+          "text": "que",
+          "start": 16.4,
+          "end": 16.48
+        },
+        {
+          "text": "leur",
+          "start": 16.48,
+          "end": 16.56
+        },
+        {
+          "text": "cafetière",
+          "start": 16.64,
+          "end": 17.04
+        },
+        {
+          "text": "est",
+          "start": 17.04,
+          "end": 17.12
+        },
+        {
+          "text": "réparée",
+          "start": 17.12,
+          "end": 17.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pourriez-vous leur dire",
+          "translations": {
+            "zh": "您能告诉他们",
+            "en": "Could you tell them",
+            "es": "¿Podría decirles"
+          },
+          "start": 15.68,
+          "end": 16.4
+        },
+        {
+          "text": "que leur cafetière est réparée ?",
+          "translations": {
+            "zh": "他们的咖啡机修好了吗？",
+            "en": "that their coffee maker is repaired?",
+            "es": "que su cafetera está reparada?"
+          },
+          "start": 16.4,
+          "end": 17.6
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Allo Luce.",
+      "translations": {
+        "zh": "喂，露斯。",
+        "en": "Hello Luce.",
+        "es": "Hola Luce."
+      },
+      "start": 21.2,
+      "end": 21.92,
+      "words": [
+        {
+          "text": "Allo",
+          "start": 21.2,
+          "end": 21.44
+        },
+        {
+          "text": "Luce",
+          "start": 21.44,
+          "end": 21.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Allo Luce.",
+          "translations": {
+            "zh": "喂，露斯。",
+            "en": "Hello Luce.",
+            "es": "Hola Luce."
+          },
+          "start": 21.2,
+          "end": 21.92
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Passe-moi Anne, s'il te plait.",
+      "translations": {
+        "zh": "让安接电话，拜托了。",
+        "en": "Put Anne on, please.",
+        "es": "Pásame a Anne, por favor."
+      },
+      "start": 22.32,
+      "end": 23.52,
+      "words": [
+        {
+          "text": "Passe",
+          "start": 22.32,
+          "end": 22.56
+        },
+        {
+          "text": "moi",
+          "start": 22.56,
+          "end": 22.88
+        },
+        {
+          "text": "Anne",
+          "start": 22.88,
+          "end": 22.96
+        },
+        {
+          "text": "s'il",
+          "start": 22.96,
+          "end": 23.12
+        },
+        {
+          "text": "te",
+          "start": 23.12,
+          "end": 23.2
+        },
+        {
+          "text": "plait",
+          "start": 23.2,
+          "end": 23.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Passe-moi Anne,",
+          "translations": {
+            "zh": "让安接电话，",
+            "en": "Put Anne on,",
+            "es": "Pásame a Anne,"
+          },
+          "start": 22.32,
+          "end": 22.96
+        },
+        {
+          "text": "s'il te plait.",
+          "translations": {
+            "zh": "拜托了。",
+            "en": "please.",
+            "es": "por favor."
+          },
+          "start": 22.96,
+          "end": 23.52
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Anne vient juste de partir pour le gymnase.",
+      "translations": {
+        "zh": "安刚出发去健身房。",
+        "en": "Anne has just left for the gym.",
+        "es": "Anne acaba de irse al gimnasio."
+      },
+      "start": 24.24,
+      "end": 26.08,
+      "words": [
+        {
+          "text": "Anne",
+          "start": 24.24,
+          "end": 24.48
+        },
+        {
+          "text": "vient",
+          "start": 24.48,
+          "end": 24.64
+        },
+        {
+          "text": "juste",
+          "start": 24.64,
+          "end": 24.8
+        },
+        {
+          "text": "de",
+          "start": 24.8,
+          "end": 24.88
+        },
+        {
+          "text": "partir",
+          "start": 24.88,
+          "end": 25.28
+        },
+        {
+          "text": "pour",
+          "start": 25.28,
+          "end": 25.44
+        },
+        {
+          "text": "le",
+          "start": 25.44,
+          "end": 25.52
+        },
+        {
+          "text": "gymnase",
+          "start": 25.52,
+          "end": 26.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Anne vient juste de partir",
+          "translations": {
+            "zh": "安刚出发",
+            "en": "Anne has just left",
+            "es": "Anne acaba de irse"
+          },
+          "start": 24.24,
+          "end": 25.28
+        },
+        {
+          "text": "pour le gymnase.",
+          "translations": {
+            "zh": "去健身房。",
+            "en": "for the gym.",
+            "es": "al gimnasio."
+          },
+          "start": 25.28,
+          "end": 26.08
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Dis-lui de me rappeler dès qu'elle revient, OK ?",
+      "translations": {
+        "zh": "告诉她一回来就给我回电话，好吗？",
+        "en": "Tell her to call me back as soon as she gets back, OK?",
+        "es": "Dile que me llame en cuanto vuelva, ¿OK?"
+      },
+      "start": 26.4,
+      "end": 28.0,
+      "words": [
+        {
+          "text": "Dis",
+          "start": 26.4,
+          "end": 26.56
+        },
+        {
+          "text": "lui",
+          "start": 26.56,
+          "end": 26.72
+        },
+        {
+          "text": "de",
+          "start": 26.72,
+          "end": 26.72
+        },
+        {
+          "text": "me",
+          "start": 26.72,
+          "end": 26.8
+        },
+        {
+          "text": "rappeler",
+          "start": 26.8,
+          "end": 27.12
+        },
+        {
+          "text": "dès",
+          "start": 27.12,
+          "end": 27.28
+        },
+        {
+          "text": "qu'elle",
+          "start": 27.28,
+          "end": 27.44
+        },
+        {
+          "text": "revient",
+          "start": 27.44,
+          "end": 27.76
+        },
+        {
+          "text": "OK",
+          "start": 27.76,
+          "end": 28.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Dis-lui de me rappeler",
+          "translations": {
+            "zh": "告诉她给我回电话",
+            "en": "Tell her to call me back",
+            "es": "Dile que me llame"
+          },
+          "start": 26.4,
+          "end": 27.12
+        },
+        {
+          "text": "dès qu'elle revient,",
+          "translations": {
+            "zh": "她一回来，",
+            "en": "as soon as she gets back,",
+            "es": "en cuanto vuelva,"
+          },
+          "start": 27.12,
+          "end": 27.76
+        },
+        {
+          "text": "OK ?",
+          "translations": {
+            "zh": "好吗？",
+            "en": "OK?",
+            "es": "¿OK?"
+          },
+          "start": 27.76,
+          "end": 28.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Bonjour Céleste.",
+      "translations": {
+        "zh": "你好，塞莱斯特。",
+        "en": "Hello Céleste.",
+        "es": "Hola Céleste."
+      },
+      "start": 32.48,
+      "end": 33.36,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 32.48,
+          "end": 32.8
+        },
+        {
+          "text": "Céleste",
+          "start": 32.8,
+          "end": 33.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour Céleste.",
+          "translations": {
+            "zh": "你好，塞莱斯特。",
+            "en": "Hello Céleste.",
+            "es": "Hola Céleste."
+          },
+          "start": 32.48,
+          "end": 33.36
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "C'est Jean Marcotte, le voisin.",
+      "translations": {
+        "zh": "我是让·马科特，邻居。",
+        "en": "This is Jean Marcotte, the neighbor.",
+        "es": "Es Jean Marcotte, el vecino."
+      },
+      "start": 33.6,
+      "end": 34.96,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 33.6,
+          "end": 33.84
+        },
+        {
+          "text": "Jean",
+          "start": 33.84,
+          "end": 34.0
+        },
+        {
+          "text": "Marcotte",
+          "start": 34.0,
+          "end": 34.48
+        },
+        {
+          "text": "le",
+          "start": 34.48,
+          "end": 34.48
+        },
+        {
+          "text": "voisin",
+          "start": 34.48,
+          "end": 34.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est Jean Marcotte,",
+          "translations": {
+            "zh": "我是让·马科特，",
+            "en": "This is Jean Marcotte,",
+            "es": "Es Jean Marcotte,"
+          },
+          "start": 33.6,
+          "end": 34.48
+        },
+        {
+          "text": "le voisin.",
+          "translations": {
+            "zh": "邻居。",
+            "en": "the neighbor.",
+            "es": "el vecino."
+          },
+          "start": 34.48,
+          "end": 34.96
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "J'aimerais parler à tes parents.",
+      "translations": {
+        "zh": "我想和你的父母说话。",
+        "en": "I would like to speak to your parents.",
+        "es": "Me gustaría hablar con tus padres."
+      },
+      "start": 35.52,
+      "end": 36.56,
+      "words": [
+        {
+          "text": "J'aimerais",
+          "start": 35.52,
+          "end": 35.76
+        },
+        {
+          "text": "parler",
+          "start": 35.76,
+          "end": 36.0
+        },
+        {
+          "text": "à",
+          "start": 36.0,
+          "end": 36.08
+        },
+        {
+          "text": "tes",
+          "start": 36.08,
+          "end": 36.16
+        },
+        {
+          "text": "parents",
+          "start": 36.16,
+          "end": 36.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'aimerais parler",
+          "translations": {
+            "zh": "我想和……说话",
+            "en": "I would like to speak",
+            "es": "Me gustaría hablar"
+          },
+          "start": 35.52,
+          "end": 36.0
+        },
+        {
+          "text": "à tes parents.",
+          "translations": {
+            "zh": "你的父母。",
+            "en": "to your parents.",
+            "es": "con tus padres."
+          },
+          "start": 36.0,
+          "end": 36.56
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Bonjour monsieur Marcotte.",
+      "translations": {
+        "zh": "你好，马科特先生。",
+        "en": "Hello Mr. Marcotte.",
+        "es": "Hola señor Marcotte."
+      },
+      "start": 37.2,
+      "end": 38.32,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 37.2,
+          "end": 37.6
+        },
+        {
+          "text": "monsieur",
+          "start": 37.6,
+          "end": 37.92
+        },
+        {
+          "text": "Marcotte",
+          "start": 37.92,
+          "end": 38.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour monsieur Marcotte.",
+          "translations": {
+            "zh": "你好，马科特先生。",
+            "en": "Hello Mr. Marcotte.",
+            "es": "Hola señor Marcotte."
+          },
+          "start": 37.2,
+          "end": 38.32
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Mes parents ne sont pas là.",
+      "translations": {
+        "zh": "我的父母不在。",
+        "en": "My parents are not here.",
+        "es": "Mis padres no están."
+      },
+      "start": 38.8,
+      "end": 39.76,
+      "words": [
+        {
+          "text": "Mes",
+          "start": 38.8,
+          "end": 38.88
+        },
+        {
+          "text": "parents",
+          "start": 38.88,
+          "end": 39.28
+        },
+        {
+          "text": "ne",
+          "start": 39.28,
+          "end": 39.28
+        },
+        {
+          "text": "sont",
+          "start": 39.28,
+          "end": 39.44
+        },
+        {
+          "text": "pas",
+          "start": 39.44,
+          "end": 39.6
+        },
+        {
+          "text": "là",
+          "start": 39.6,
+          "end": 39.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mes parents ne sont pas là.",
+          "translations": {
+            "zh": "我的父母不在。",
+            "en": "My parents are not here.",
+            "es": "Mis padres no están."
+          },
+          "start": 38.8,
+          "end": 39.76
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "J'appelais pour leur proposer de faire un barbecue samedi.",
+      "translations": {
+        "zh": "我打电话是想邀请他们星期六一起烤肉。",
+        "en": "I was calling to suggest they have a barbecue on Saturday.",
+        "es": "Llamaba para proponerles hacer una barbacoa el sábado."
+      },
+      "start": 40.4,
+      "end": 42.72,
+      "words": [
+        {
+          "text": "J'appelais",
+          "start": 40.4,
+          "end": 40.72
+        },
+        {
+          "text": "pour",
+          "start": 40.72,
+          "end": 40.88
+        },
+        {
+          "text": "leur",
+          "start": 40.88,
+          "end": 40.96
+        },
+        {
+          "text": "proposer",
+          "start": 40.96,
+          "end": 41.36
+        },
+        {
+          "text": "de",
+          "start": 41.36,
+          "end": 41.44
+        },
+        {
+          "text": "faire",
+          "start": 41.44,
+          "end": 41.6
+        },
+        {
+          "text": "un",
+          "start": 41.6,
+          "end": 41.68
+        },
+        {
+          "text": "barbecue",
+          "start": 41.68,
+          "end": 42.16
+        },
+        {
+          "text": "samedi",
+          "start": 42.24,
+          "end": 42.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'appelais pour leur proposer",
+          "translations": {
+            "zh": "我打电话是想邀请他们",
+            "en": "I was calling to suggest to them",
+            "es": "Llamaba para proponerles"
+          },
+          "start": 40.4,
+          "end": 41.36
+        },
+        {
+          "text": "de faire un barbecue samedi.",
+          "translations": {
+            "zh": "星期六一起烤肉。",
+            "en": "to have a barbecue on Saturday.",
+            "es": "hacer una barbacoa el sábado."
+          },
+          "start": 41.36,
+          "end": 42.72
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Tu leur fais le message de ma part ?",
+      "translations": {
+        "zh": "你能替我给他们传个话吗？",
+        "en": "Can you give them the message for me?",
+        "es": "¿Les das el mensaje de mi parte?"
+      },
+      "start": 43.2,
+      "end": 44.48,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 43.2,
+          "end": 43.28
+        },
+        {
+          "text": "leur",
+          "start": 43.28,
+          "end": 43.44
+        },
+        {
+          "text": "fais",
+          "start": 43.44,
+          "end": 43.52
+        },
+        {
+          "text": "le",
+          "start": 43.52,
+          "end": 43.6
+        },
+        {
+          "text": "message",
+          "start": 43.6,
+          "end": 43.92
+        },
+        {
+          "text": "de",
+          "start": 43.92,
+          "end": 43.92
+        },
+        {
+          "text": "ma",
+          "start": 43.92,
+          "end": 44.08
+        },
+        {
+          "text": "part",
+          "start": 44.08,
+          "end": 44.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu leur fais le message",
+          "translations": {
+            "zh": "你给他们传个话",
+            "en": "You give them the message",
+            "es": "¿Les das el mensaje"
+          },
+          "start": 43.2,
+          "end": 43.92
+        },
+        {
+          "text": "de ma part ?",
+          "translations": {
+            "zh": "替我转告吗？",
+            "en": "for me?",
+            "es": "de mi parte?"
+          },
+          "start": 43.92,
+          "end": 44.48
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Allo Carlos !",
+      "translations": {
+        "zh": "喂，卡洛斯！",
+        "en": "Hello Carlos!",
+        "es": "¡Hola Carlos!"
+      },
+      "start": 48.64,
+      "end": 49.2,
+      "words": [
+        {
+          "text": "Allo",
+          "start": 48.64,
+          "end": 48.88
+        },
+        {
+          "text": "Carlos",
+          "start": 48.88,
+          "end": 49.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Allo Carlos !",
+          "translations": {
+            "zh": "喂，卡洛斯！",
+            "en": "Hello Carlos!",
+            "es": "¡Hola Carlos!"
+          },
+          "start": 48.64,
+          "end": 49.2
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "C'est Marie-France.",
+      "translations": {
+        "zh": "我是玛丽-弗朗斯。",
+        "en": "This is Marie-France.",
+        "es": "Es Marie-France."
+      },
+      "start": 49.68,
+      "end": 50.64,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 49.68,
+          "end": 49.84
+        },
+        {
+          "text": "Marie",
+          "start": 49.84,
+          "end": 50.08
+        },
+        {
+          "text": "France",
+          "start": 50.08,
+          "end": 50.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est Marie-France.",
+          "translations": {
+            "zh": "我是玛丽-弗朗斯。",
+            "en": "This is Marie-France.",
+            "es": "Es Marie-France."
+          },
+          "start": 49.68,
+          "end": 50.64
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Pourrais-tu me passer Marc ?",
+      "translations": {
+        "zh": "你能让马克接电话吗？",
+        "en": "Could you put Marc on?",
+        "es": "¿Podrías pasarme a Marc?"
+      },
+      "start": 50.8,
+      "end": 51.92,
+      "words": [
+        {
+          "text": "Pourrais",
+          "start": 50.8,
+          "end": 50.96
+        },
+        {
+          "text": "tu",
+          "start": 50.96,
+          "end": 51.12
+        },
+        {
+          "text": "me",
+          "start": 51.12,
+          "end": 51.2
+        },
+        {
+          "text": "passer",
+          "start": 51.2,
+          "end": 51.52
+        },
+        {
+          "text": "Marc",
+          "start": 51.52,
+          "end": 51.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pourrais-tu me passer Marc ?",
+          "translations": {
+            "zh": "你能让马克接电话吗？",
+            "en": "Could you put Marc on?",
+            "es": "¿Podrías pasarme a Marc?"
+          },
+          "start": 50.8,
+          "end": 51.92
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Bonjour Marie-France.",
+      "translations": {
+        "zh": "你好，玛丽-弗朗斯。",
+        "en": "Hello Marie-France.",
+        "es": "Hola Marie-France."
+      },
+      "start": 52.48,
+      "end": 53.44,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 52.48,
+          "end": 52.8
+        },
+        {
+          "text": "Marie",
+          "start": 52.8,
+          "end": 53.04
+        },
+        {
+          "text": "France",
+          "start": 53.04,
+          "end": 53.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour Marie-France.",
+          "translations": {
+            "zh": "你好，玛丽-弗朗斯。",
+            "en": "Hello Marie-France.",
+            "es": "Hola Marie-France."
+          },
+          "start": 52.48,
+          "end": 53.44
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Marc est parti au dépanneur.",
+      "translations": {
+        "zh": "马克去便利店了。",
+        "en": "Marc left for the convenience store.",
+        "es": "Marc se fue a la tienda de conveniencia."
+      },
+      "start": 53.92,
+      "end": 55.12,
+      "words": [
+        {
+          "text": "Marc",
+          "start": 53.92,
+          "end": 54.16
+        },
+        {
+          "text": "est",
+          "start": 54.16,
+          "end": 54.24
+        },
+        {
+          "text": "parti",
+          "start": 54.24,
+          "end": 54.48
+        },
+        {
+          "text": "au",
+          "start": 54.48,
+          "end": 54.56
+        },
+        {
+          "text": "dépanneur",
+          "start": 54.56,
+          "end": 55.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Marc est parti",
+          "translations": {
+            "zh": "马克去了",
+            "en": "Marc left",
+            "es": "Marc se fue"
+          },
+          "start": 53.92,
+          "end": 54.48
+        },
+        {
+          "text": "au dépanneur.",
+          "translations": {
+            "zh": "便利店。",
+            "en": "for the convenience store.",
+            "es": "a la tienda de conveniencia."
+          },
+          "start": 54.48,
+          "end": 55.12
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "OK d'abord, fais-lui le message de m'envoyer ses notes par courriel avant midi sans faute s'il te plait.",
+      "translations": {
+        "zh": "好的，首先，请给他传个话，让他务必在中午之前把笔记用电子邮件发给我。",
+        "en": "OK first, give him the message to send me his notes by email before noon without fail please.",
+        "es": "OK primero, dale el mensaje de que me envíe sus notas por correo electrónico antes del mediodía sin falta por favor."
+      },
+      "start": 55.12,
+      "end": 60.56,
+      "words": [
+        {
+          "text": "OK",
+          "start": 55.12,
+          "end": 55.12
+        },
+        {
+          "text": "d'abord",
+          "start": 55.92,
+          "end": 56.32
+        },
+        {
+          "text": "fais",
+          "start": 56.32,
+          "end": 56.48
+        },
+        {
+          "text": "lui",
+          "start": 56.48,
+          "end": 56.56
+        },
+        {
+          "text": "le",
+          "start": 56.56,
+          "end": 56.64
+        },
+        {
+          "text": "message",
+          "start": 56.64,
+          "end": 57.12
+        },
+        {
+          "text": "de",
+          "start": 57.12,
+          "end": 57.2
+        },
+        {
+          "text": "m'envoyer",
+          "start": 57.2,
+          "end": 57.68
+        },
+        {
+          "text": "ses",
+          "start": 57.68,
+          "end": 57.84
+        },
+        {
+          "text": "notes",
+          "start": 57.84,
+          "end": 58.08
+        },
+        {
+          "text": "par",
+          "start": 58.08,
+          "end": 58.24
+        },
+        {
+          "text": "courriel",
+          "start": 58.24,
+          "end": 58.72
+        },
+        {
+          "text": "avant",
+          "start": 58.72,
+          "end": 58.96
+        },
+        {
+          "text": "midi",
+          "start": 58.96,
+          "end": 59.28
+        },
+        {
+          "text": "sans",
+          "start": 59.28,
+          "end": 59.6
+        },
+        {
+          "text": "faute",
+          "start": 59.6,
+          "end": 59.92
+        },
+        {
+          "text": "s'il",
+          "start": 59.92,
+          "end": 60.16
+        },
+        {
+          "text": "te",
+          "start": 60.16,
+          "end": 60.24
+        },
+        {
+          "text": "plait",
+          "start": 60.24,
+          "end": 60.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "OK d'abord,",
+          "translations": {
+            "zh": "好的，首先，",
+            "en": "OK first,",
+            "es": "OK primero,"
+          },
+          "start": 55.12,
+          "end": 56.32
+        },
+        {
+          "text": "fais-lui le message",
+          "translations": {
+            "zh": "给他传个话",
+            "en": "give him the message",
+            "es": "dale el mensaje"
+          },
+          "start": 56.32,
+          "end": 57.12
+        },
+        {
+          "text": "de m'envoyer ses notes par courriel",
+          "translations": {
+            "zh": "让他把笔记用电子邮件发给我",
+            "en": "to send me his notes by email",
+            "es": "de que me envíe sus notas por correo electrónico"
+          },
+          "start": 57.12,
+          "end": 58.72
+        },
+        {
+          "text": "avant midi sans faute",
+          "translations": {
+            "zh": "务必在中午之前",
+            "en": "before noon without fail",
+            "es": "antes del mediodía sin falta"
+          },
+          "start": 58.72,
+          "end": 59.92
+        },
+        {
+          "text": "s'il te plait.",
+          "translations": {
+            "zh": "拜托了。",
+            "en": "please.",
+            "es": "por favor."
+          },
+          "start": 59.92,
+          "end": 60.56
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Monsieur Ouellet est à l'extérieur de la ville en ce moment.",
+      "translations": {
+        "zh": "韦莱先生现在在城外。",
+        "en": "Mr. Ouellet is out of town right now.",
+        "es": "El señor Ouellet está fuera de la ciudad en este momento."
+      },
+      "start": 64.32,
+      "end": 66.4,
+      "words": [
+        {
+          "text": "Monsieur",
+          "start": 64.32,
+          "end": 64.56
+        },
+        {
+          "text": "Ouellet",
+          "start": 64.56,
+          "end": 64.88
+        },
+        {
+          "text": "est",
+          "start": 64.88,
+          "end": 65.04
+        },
+        {
+          "text": "à",
+          "start": 65.04,
+          "end": 65.12
+        },
+        {
+          "text": "l'extérieur",
+          "start": 65.12,
+          "end": 65.6
+        },
+        {
+          "text": "de",
+          "start": 65.6,
+          "end": 65.76
+        },
+        {
+          "text": "la",
+          "start": 65.76,
+          "end": 65.76
+        },
+        {
+          "text": "ville",
+          "start": 65.76,
+          "end": 65.92
+        },
+        {
+          "text": "en",
+          "start": 65.92,
+          "end": 66.0
+        },
+        {
+          "text": "ce",
+          "start": 66.0,
+          "end": 66.16
+        },
+        {
+          "text": "moment",
+          "start": 66.16,
+          "end": 66.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Monsieur Ouellet est",
+          "translations": {
+            "zh": "韦莱先生在",
+            "en": "Mr. Ouellet is",
+            "es": "El señor Ouellet está"
+          },
+          "start": 64.32,
+          "end": 65.04
+        },
+        {
+          "text": "à l'extérieur de la ville",
+          "translations": {
+            "zh": "城外",
+            "en": "out of town",
+            "es": "fuera de la ciudad"
+          },
+          "start": 65.04,
+          "end": 65.92
+        },
+        {
+          "text": "en ce moment.",
+          "translations": {
+            "zh": "现在。",
+            "en": "right now.",
+            "es": "en este momento."
+          },
+          "start": 65.92,
+          "end": 66.4
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "S'il communique avec vous, dites-lui que Lucas Santos, S-A-N-T-O-S, a téléphoné.",
+      "translations": {
+        "zh": "如果他联系您，请告诉他卢卡斯·桑托斯，S-A-N-T-O-S，打过电话。",
+        "en": "If he contacts you, tell him that Lucas Santos, S-A-N-T-O-S, called.",
+        "es": "Si se comunica con usted, díganle que Lucas Santos, S-A-N-T-O-S, ha llamado."
+      },
+      "start": 67.12,
+      "end": 73.92,
+      "words": [
+        {
+          "text": "S'il",
+          "start": 67.12,
+          "end": 67.28
+        },
+        {
+          "text": "communique",
+          "start": 67.28,
+          "end": 67.68
+        },
+        {
+          "text": "avec",
+          "start": 67.68,
+          "end": 67.92
+        },
+        {
+          "text": "vous",
+          "start": 67.92,
+          "end": 68.24
+        },
+        {
+          "text": "dites",
+          "start": 68.64,
+          "end": 68.96
+        },
+        {
+          "text": "lui",
+          "start": 68.96,
+          "end": 69.04
+        },
+        {
+          "text": "que",
+          "start": 69.04,
+          "end": 69.28
+        },
+        {
+          "text": "Lucas",
+          "start": 69.36,
+          "end": 69.84
+        },
+        {
+          "text": "Santos",
+          "start": 69.84,
+          "end": 70.72
+        },
+        {
+          "text": "S",
+          "start": 70.96,
+          "end": 71.36
+        },
+        {
+          "text": "A",
+          "start": 71.52,
+          "end": 71.76
+        },
+        {
+          "text": "N",
+          "start": 71.84,
+          "end": 72.08
+        },
+        {
+          "text": "T",
+          "start": 72.08,
+          "end": 72.32
+        },
+        {
+          "text": "O",
+          "start": 72.48,
+          "end": 72.64
+        },
+        {
+          "text": "S",
+          "start": 72.72,
+          "end": 73.04
+        },
+        {
+          "text": "a",
+          "start": 73.28,
+          "end": 73.44
+        },
+        {
+          "text": "téléphoné",
+          "start": 73.44,
+          "end": 73.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "S'il communique avec vous,",
+          "translations": {
+            "zh": "如果他联系您，",
+            "en": "If he contacts you,",
+            "es": "Si se comunica con usted,"
+          },
+          "start": 67.12,
+          "end": 68.24
+        },
+        {
+          "text": "dites-lui que Lucas Santos,",
+          "translations": {
+            "zh": "请告诉他卢卡斯·桑托斯，",
+            "en": "tell him that Lucas Santos,",
+            "es": "díganle que Lucas Santos,"
+          },
+          "start": 68.64,
+          "end": 70.72
+        },
+        {
+          "text": "S-A-N-T-O-S,",
+          "translations": {
+            "zh": "S-A-N-T-O-S，",
+            "en": "S-A-N-T-O-S,",
+            "es": "S-A-N-T-O-S,"
+          },
+          "start": 70.96,
+          "end": 73.04
+        },
+        {
+          "text": "a téléphoné.",
+          "translations": {
+            "zh": "打过电话。",
+            "en": "called.",
+            "es": "ha llamado."
+          },
+          "start": 73.28,
+          "end": 73.92
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP12_P15",
+  "audio_filename": "FLS2_EP12_P15.mp3",
+  "audio_path": "downloads/FLS2_EP12_P15.mp3",
+  "episode": 12,
+  "piste": 15,
+  "page": 95,
+  "cd": "CD2"
+}

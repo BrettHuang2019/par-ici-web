@@ -1,0 +1,996 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 12 Piste 16 Page 96",
+      "translations": {
+        "zh": "第12集 第16课 第96页",
+        "en": "Episode 12 Track 16 Page 96",
+        "es": "Episodio 12 Pista 16 Página 96"
+      },
+      "start": 0.64,
+      "end": 8.16,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.64,
+          "end": 1.36
+        },
+        {
+          "text": "12",
+          "start": 1.84,
+          "end": 2.32
+        },
+        {
+          "text": "Piste",
+          "start": 3.2,
+          "end": 3.68
+        },
+        {
+          "text": "16",
+          "start": 4.16,
+          "end": 4.8
+        },
+        {
+          "text": "Page",
+          "start": 4.8,
+          "end": 6.96
+        },
+        {
+          "text": "96",
+          "start": 7.04,
+          "end": 8.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 12",
+          "translations": {
+            "zh": "第12集",
+            "en": "Episode 12",
+            "es": "Episodio 12"
+          },
+          "start": 0.64,
+          "end": 2.32
+        },
+        {
+          "text": "Piste 16",
+          "translations": {
+            "zh": "第16课",
+            "en": "Track 16",
+            "es": "Pista 16"
+          },
+          "start": 3.2,
+          "end": 4.8
+        },
+        {
+          "text": "Page 96",
+          "translations": {
+            "zh": "第96页",
+            "en": "Page 96",
+            "es": "Página 96"
+          },
+          "start": 4.8,
+          "end": 8.16
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bonjour vous deux, c'est Évelyne !",
+      "translations": {
+        "zh": "你们好，我是Évelyne！",
+        "en": "Hello you two, it's Évelyne!",
+        "es": "¡Hola ustedes dos, soy Évelyne!"
+      },
+      "start": 10.8,
+      "end": 12.4,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 10.8,
+          "end": 11.12
+        },
+        {
+          "text": "vous",
+          "start": 11.12,
+          "end": 11.28
+        },
+        {
+          "text": "deux",
+          "start": 11.28,
+          "end": 11.6
+        },
+        {
+          "text": "c'est",
+          "start": 11.6,
+          "end": 11.84
+        },
+        {
+          "text": "Évelyne",
+          "start": 11.84,
+          "end": 12.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour vous deux,",
+          "translations": {
+            "zh": "你们好，",
+            "en": "Hello you two,",
+            "es": "Hola ustedes dos,"
+          },
+          "start": 10.8,
+          "end": 11.6
+        },
+        {
+          "text": "c'est Évelyne !",
+          "translations": {
+            "zh": "我是Évelyne！",
+            "en": "it's Évelyne!",
+            "es": "¡soy Évelyne!"
+          },
+          "start": 11.6,
+          "end": 12.4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Je suis désolée, je ne pourrai pas venir souper chez vous.",
+      "translations": {
+        "zh": "很抱歉，我不能来你们家吃晚饭了。",
+        "en": "I'm sorry, I won't be able to come have dinner at your place.",
+        "es": "Lo siento, no podré ir a cenar a su casa."
+      },
+      "start": 13.04,
+      "end": 15.36,
+      "words": [
+        {
+          "text": "Je",
+          "start": 13.04,
+          "end": 13.12
+        },
+        {
+          "text": "suis",
+          "start": 13.12,
+          "end": 13.28
+        },
+        {
+          "text": "désolée",
+          "start": 13.28,
+          "end": 13.84
+        },
+        {
+          "text": "je",
+          "start": 13.84,
+          "end": 14.0
+        },
+        {
+          "text": "ne",
+          "start": 14.0,
+          "end": 14.0
+        },
+        {
+          "text": "pourrai",
+          "start": 14.0,
+          "end": 14.24
+        },
+        {
+          "text": "pas",
+          "start": 14.24,
+          "end": 14.32
+        },
+        {
+          "text": "venir",
+          "start": 14.32,
+          "end": 14.56
+        },
+        {
+          "text": "souper",
+          "start": 14.64,
+          "end": 14.88
+        },
+        {
+          "text": "chez",
+          "start": 14.88,
+          "end": 15.12
+        },
+        {
+          "text": "vous",
+          "start": 15.12,
+          "end": 15.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis désolée,",
+          "translations": {
+            "zh": "很抱歉，",
+            "en": "I'm sorry,",
+            "es": "Lo siento,"
+          },
+          "start": 13.04,
+          "end": 13.84
+        },
+        {
+          "text": "je ne pourrai pas venir souper chez vous.",
+          "translations": {
+            "zh": "我不能来你们家吃晚饭了。",
+            "en": "I won't be able to come have dinner at your place.",
+            "es": "no podré ir a cenar a su casa."
+          },
+          "start": 13.84,
+          "end": 15.36
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "J'ai un empêchement de dernière minute.",
+      "translations": {
+        "zh": "我临时有事来不了。",
+        "en": "I have a last-minute conflict.",
+        "es": "Tengo un impedimento de última hora."
+      },
+      "start": 15.6,
+      "end": 17.2,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 15.6,
+          "end": 15.76
+        },
+        {
+          "text": "un",
+          "start": 15.76,
+          "end": 15.84
+        },
+        {
+          "text": "empêchement",
+          "start": 15.84,
+          "end": 16.32
+        },
+        {
+          "text": "de",
+          "start": 16.32,
+          "end": 16.4
+        },
+        {
+          "text": "dernière",
+          "start": 16.4,
+          "end": 16.72
+        },
+        {
+          "text": "minute",
+          "start": 16.72,
+          "end": 17.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai un empêchement",
+          "translations": {
+            "zh": "我有事耽搁了",
+            "en": "I have a conflict",
+            "es": "Tengo un impedimento"
+          },
+          "start": 15.6,
+          "end": 16.32
+        },
+        {
+          "text": "de dernière minute.",
+          "translations": {
+            "zh": "是临时的。",
+            "en": "at the last minute.",
+            "es": "de última hora."
+          },
+          "start": 16.32,
+          "end": 17.2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Oui, bonjour, c'est les pompiers.",
+      "translations": {
+        "zh": "嗯，您好，我是消防队的。",
+        "en": "Yes, hello, it's the fire department.",
+        "es": "Sí, hola, son los bomberos."
+      },
+      "start": 21.28,
+      "end": 22.48,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 21.28,
+          "end": 21.44
+        },
+        {
+          "text": "bonjour",
+          "start": 21.44,
+          "end": 21.84
+        },
+        {
+          "text": "c'est",
+          "start": 21.84,
+          "end": 22.0
+        },
+        {
+          "text": "les",
+          "start": 22.0,
+          "end": 22.08
+        },
+        {
+          "text": "pompiers",
+          "start": 22.08,
+          "end": 22.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui, bonjour,",
+          "translations": {
+            "zh": "嗯，您好，",
+            "en": "Yes, hello,",
+            "es": "Sí, hola,"
+          },
+          "start": 21.28,
+          "end": 21.84
+        },
+        {
+          "text": "c'est les pompiers.",
+          "translations": {
+            "zh": "我是消防队的。",
+            "en": "it's the fire department.",
+            "es": "son los bomberos."
+          },
+          "start": 21.84,
+          "end": 22.48
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "On va passer cet après-midi pour notre inspection annuelle.",
+      "translations": {
+        "zh": "我们今天下午会过来做年度检查。",
+        "en": "We're going to come by this afternoon for our annual inspection.",
+        "es": "Vamos a pasar esta tarde para nuestra inspección anual."
+      },
+      "start": 22.64,
+      "end": 24.72,
+      "words": [
+        {
+          "text": "On",
+          "start": 22.64,
+          "end": 22.72
+        },
+        {
+          "text": "va",
+          "start": 22.72,
+          "end": 22.88
+        },
+        {
+          "text": "passer",
+          "start": 22.88,
+          "end": 23.2
+        },
+        {
+          "text": "cet",
+          "start": 23.2,
+          "end": 23.28
+        },
+        {
+          "text": "après",
+          "start": 23.28,
+          "end": 23.52
+        },
+        {
+          "text": "midi",
+          "start": 23.52,
+          "end": 23.76
+        },
+        {
+          "text": "pour",
+          "start": 23.76,
+          "end": 23.84
+        },
+        {
+          "text": "notre",
+          "start": 23.84,
+          "end": 24.0
+        },
+        {
+          "text": "inspection",
+          "start": 24.0,
+          "end": 24.4
+        },
+        {
+          "text": "annuelle",
+          "start": 24.4,
+          "end": 24.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On va passer cet après-midi",
+          "translations": {
+            "zh": "我们今天下午会过来",
+            "en": "We're going to come by this afternoon",
+            "es": "Vamos a pasar esta tarde"
+          },
+          "start": 22.64,
+          "end": 23.76
+        },
+        {
+          "text": "pour notre inspection annuelle.",
+          "translations": {
+            "zh": "做年度检查。",
+            "en": "for our annual inspection.",
+            "es": "para nuestra inspección anual."
+          },
+          "start": 23.76,
+          "end": 24.72
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Bonjour Fatima, c'est Ève.",
+      "translations": {
+        "zh": "你好Fatima，我是Ève。",
+        "en": "Hello Fatima, it's Ève.",
+        "es": "Hola Fatima, soy Ève."
+      },
+      "start": 28.24,
+      "end": 29.84,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 28.24,
+          "end": 28.64
+        },
+        {
+          "text": "Fatima",
+          "start": 28.64,
+          "end": 29.2
+        },
+        {
+          "text": "c'est",
+          "start": 29.2,
+          "end": 29.36
+        },
+        {
+          "text": "Ève",
+          "start": 29.36,
+          "end": 29.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour Fatima,",
+          "translations": {
+            "zh": "你好Fatima，",
+            "en": "Hello Fatima,",
+            "es": "Hola Fatima,"
+          },
+          "start": 28.24,
+          "end": 29.2
+        },
+        {
+          "text": "c'est Ève.",
+          "translations": {
+            "zh": "我是Ève。",
+            "en": "it's Ève.",
+            "es": "soy Ève."
+          },
+          "start": 29.2,
+          "end": 29.84
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Je te félicite pour le prix que tu viens de gagner !",
+      "translations": {
+        "zh": "祝贺你刚刚赢得的奖项！",
+        "en": "I congratulate you on the prize you just won!",
+        "es": "¡Te felicito por el premio que acabas de ganar!"
+      },
+      "start": 29.92,
+      "end": 32.16,
+      "words": [
+        {
+          "text": "Je",
+          "start": 29.92,
+          "end": 30.08
+        },
+        {
+          "text": "te",
+          "start": 30.08,
+          "end": 30.16
+        },
+        {
+          "text": "félicite",
+          "start": 30.16,
+          "end": 30.72
+        },
+        {
+          "text": "pour",
+          "start": 30.72,
+          "end": 30.88
+        },
+        {
+          "text": "le",
+          "start": 30.88,
+          "end": 31.04
+        },
+        {
+          "text": "prix",
+          "start": 31.04,
+          "end": 31.2
+        },
+        {
+          "text": "que",
+          "start": 31.2,
+          "end": 31.28
+        },
+        {
+          "text": "tu",
+          "start": 31.28,
+          "end": 31.44
+        },
+        {
+          "text": "viens",
+          "start": 31.44,
+          "end": 31.6
+        },
+        {
+          "text": "de",
+          "start": 31.6,
+          "end": 31.68
+        },
+        {
+          "text": "gagner",
+          "start": 31.68,
+          "end": 32.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je te félicite pour le prix",
+          "translations": {
+            "zh": "我祝贺你获得的奖项",
+            "en": "I congratulate you on the prize",
+            "es": "Te felicito por el premio"
+          },
+          "start": 29.92,
+          "end": 31.2
+        },
+        {
+          "text": "que tu viens de gagner !",
+          "translations": {
+            "zh": "你刚刚赢得的！",
+            "en": "that you just won!",
+            "es": "¡que acabas de ganar!"
+          },
+          "start": 31.2,
+          "end": 32.16
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Je veux organiser une petite fête pour célébrer ça, je vais te rappeler pour en parler.",
+      "translations": {
+        "zh": "我想组织一个小聚会来庆祝这件事，我会再打电话给你详谈。",
+        "en": "I want to organize a little party to celebrate it, I'll call you back to talk about it.",
+        "es": "Quiero organizar una pequeña fiesta para celebrarlo, te llamaré de vuelta para hablar de ello."
+      },
+      "start": 32.4,
+      "end": 36.0,
+      "words": [
+        {
+          "text": "Je",
+          "start": 32.4,
+          "end": 32.48
+        },
+        {
+          "text": "veux",
+          "start": 32.48,
+          "end": 32.64
+        },
+        {
+          "text": "organiser",
+          "start": 32.64,
+          "end": 33.12
+        },
+        {
+          "text": "une",
+          "start": 33.12,
+          "end": 33.2
+        },
+        {
+          "text": "petite",
+          "start": 33.2,
+          "end": 33.6
+        },
+        {
+          "text": "fête",
+          "start": 33.6,
+          "end": 33.84
+        },
+        {
+          "text": "pour",
+          "start": 33.84,
+          "end": 34.0
+        },
+        {
+          "text": "célébrer",
+          "start": 34.0,
+          "end": 34.4
+        },
+        {
+          "text": "ça",
+          "start": 34.4,
+          "end": 34.72
+        },
+        {
+          "text": "je",
+          "start": 34.88,
+          "end": 34.96
+        },
+        {
+          "text": "vais",
+          "start": 34.96,
+          "end": 35.04
+        },
+        {
+          "text": "te",
+          "start": 35.04,
+          "end": 35.12
+        },
+        {
+          "text": "rappeler",
+          "start": 35.12,
+          "end": 35.36
+        },
+        {
+          "text": "pour",
+          "start": 35.36,
+          "end": 35.52
+        },
+        {
+          "text": "en",
+          "start": 35.52,
+          "end": 35.6
+        },
+        {
+          "text": "parler",
+          "start": 35.6,
+          "end": 36.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je veux organiser une petite fête pour célébrer ça,",
+          "translations": {
+            "zh": "我想组织一个小聚会来庆祝这件事，",
+            "en": "I want to organize a little party to celebrate it,",
+            "es": "Quiero organizar una pequeña fiesta para celebrarlo,"
+          },
+          "start": 32.4,
+          "end": 34.72
+        },
+        {
+          "text": "je vais te rappeler pour en parler.",
+          "translations": {
+            "zh": "我会再打电话给你详谈。",
+            "en": "I'll call you back to talk about it.",
+            "es": "te llamaré de vuelta para hablar de ello."
+          },
+          "start": 34.88,
+          "end": 36.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Oui, bonjour, c'est le plombier.",
+      "translations": {
+        "zh": "嗯，您好，我是水管工。",
+        "en": "Yes, hello, it's the plumber.",
+        "es": "Sí, hola, es el plomero."
+      },
+      "start": 40.88,
+      "end": 42.4,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 40.88,
+          "end": 41.12
+        },
+        {
+          "text": "bonjour",
+          "start": 41.12,
+          "end": 41.6
+        },
+        {
+          "text": "c'est",
+          "start": 41.6,
+          "end": 41.76
+        },
+        {
+          "text": "le",
+          "start": 41.76,
+          "end": 41.84
+        },
+        {
+          "text": "plombier",
+          "start": 41.84,
+          "end": 42.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui, bonjour,",
+          "translations": {
+            "zh": "嗯，您好，",
+            "en": "Yes, hello,",
+            "es": "Sí, hola,"
+          },
+          "start": 40.88,
+          "end": 41.6
+        },
+        {
+          "text": "c'est le plombier.",
+          "translations": {
+            "zh": "我是水管工。",
+            "en": "it's the plumber.",
+            "es": "es el plomero."
+          },
+          "start": 41.6,
+          "end": 42.4
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Je suis trop occupé pour faire vos travaux.",
+      "translations": {
+        "zh": "我太忙了，做不了你们的活儿。",
+        "en": "I'm too busy to do your work.",
+        "es": "Estoy demasiado ocupado para hacer sus trabajos."
+      },
+      "start": 43.04,
+      "end": 44.64,
+      "words": [
+        {
+          "text": "Je",
+          "start": 43.04,
+          "end": 43.12
+        },
+        {
+          "text": "suis",
+          "start": 43.12,
+          "end": 43.2
+        },
+        {
+          "text": "trop",
+          "start": 43.2,
+          "end": 43.36
+        },
+        {
+          "text": "occupé",
+          "start": 43.36,
+          "end": 43.68
+        },
+        {
+          "text": "pour",
+          "start": 43.68,
+          "end": 43.84
+        },
+        {
+          "text": "faire",
+          "start": 43.84,
+          "end": 44.0
+        },
+        {
+          "text": "vos",
+          "start": 44.0,
+          "end": 44.16
+        },
+        {
+          "text": "travaux",
+          "start": 44.16,
+          "end": 44.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis trop occupé",
+          "translations": {
+            "zh": "我太忙了",
+            "en": "I'm too busy",
+            "es": "Estoy demasiado ocupado"
+          },
+          "start": 43.04,
+          "end": 43.68
+        },
+        {
+          "text": "pour faire vos travaux.",
+          "translations": {
+            "zh": "做不了你们的活儿。",
+            "en": "to do your work.",
+            "es": "para hacer sus trabajos."
+          },
+          "start": 43.68,
+          "end": 44.64
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Je pourrais vous suggérer mon beau-frère.",
+      "translations": {
+        "zh": "我可以向您推荐我的姐夫。",
+        "en": "I could suggest my brother-in-law to you.",
+        "es": "Podría sugerirles a mi cuñado."
+      },
+      "start": 45.12,
+      "end": 46.72,
+      "words": [
+        {
+          "text": "Je",
+          "start": 45.12,
+          "end": 45.2
+        },
+        {
+          "text": "pourrais",
+          "start": 45.2,
+          "end": 45.36
+        },
+        {
+          "text": "vous",
+          "start": 45.36,
+          "end": 45.52
+        },
+        {
+          "text": "suggérer",
+          "start": 45.52,
+          "end": 45.84
+        },
+        {
+          "text": "mon",
+          "start": 45.92,
+          "end": 46.08
+        },
+        {
+          "text": "beau",
+          "start": 46.08,
+          "end": 46.24
+        },
+        {
+          "text": "frère",
+          "start": 46.24,
+          "end": 46.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je pourrais vous suggérer",
+          "translations": {
+            "zh": "我可以向您推荐",
+            "en": "I could suggest to you",
+            "es": "Podría sugerirles"
+          },
+          "start": 45.12,
+          "end": 45.84
+        },
+        {
+          "text": "mon beau-frère.",
+          "translations": {
+            "zh": "我的姐夫。",
+            "en": "my brother-in-law.",
+            "es": "a mi cuñado."
+          },
+          "start": 45.92,
+          "end": 46.72
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Appelez-le au 450 333-8888 si ça vous intéresse.",
+      "translations": {
+        "zh": "如果您感兴趣的话，请拨打450 333-8888联系他。",
+        "en": "Call him at 450 333-8888 if you're interested.",
+        "es": "Llámenlo al 450 333-8888 si les interesa."
+      },
+      "start": 47.36,
+      "end": 52.16,
+      "words": [
+        {
+          "text": "Appelez",
+          "start": 47.36,
+          "end": 47.68
+        },
+        {
+          "text": "le",
+          "start": 47.68,
+          "end": 47.92
+        },
+        {
+          "text": "au",
+          "start": 48.0,
+          "end": 48.16
+        },
+        {
+          "text": "450",
+          "start": 48.16,
+          "end": 48.56
+        },
+        {
+          "text": "333",
+          "start": 49.2,
+          "end": 50.08
+        },
+        {
+          "text": "8888",
+          "start": 50.08,
+          "end": 51.04
+        },
+        {
+          "text": "si",
+          "start": 51.28,
+          "end": 51.44
+        },
+        {
+          "text": "ça",
+          "start": 51.44,
+          "end": 51.52
+        },
+        {
+          "text": "vous",
+          "start": 51.52,
+          "end": 51.6
+        },
+        {
+          "text": "intéresse",
+          "start": 51.6,
+          "end": 52.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Appelez-le au 450 333-8888",
+          "translations": {
+            "zh": "请拨打450 333-8888联系他",
+            "en": "Call him at 450 333-8888",
+            "es": "Llámenlo al 450 333-8888"
+          },
+          "start": 47.36,
+          "end": 51.04
+        },
+        {
+          "text": "si ça vous intéresse.",
+          "translations": {
+            "zh": "如果您感兴趣的话。",
+            "en": "if you're interested.",
+            "es": "si les interesa."
+          },
+          "start": 51.28,
+          "end": 52.16
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP12_P16",
+  "audio_filename": "FLS2_EP12_P16.mp3",
+  "audio_path": "downloads/FLS2_EP12_P16.mp3",
+  "episode": 12,
+  "piste": 16,
+  "page": 96,
+  "cd": "CD2"
+}

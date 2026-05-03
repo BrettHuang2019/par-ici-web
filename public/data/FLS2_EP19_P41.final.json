@@ -1,0 +1,4751 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 19 Piste 41 Page 148",
+      "translations": {
+        "zh": "第19集 第41轨 第148页",
+        "en": "Episode 19 Track 41 Page 148",
+        "es": "Episodio 19 Pista 41 Página 148"
+      },
+      "start": 0.32,
+      "end": 8.96,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.32,
+          "end": 1.04
+        },
+        {
+          "text": "19",
+          "start": 1.44,
+          "end": 1.76
+        },
+        {
+          "text": "Piste",
+          "start": 2.8,
+          "end": 3.2
+        },
+        {
+          "text": "41",
+          "start": 3.76,
+          "end": 4.4
+        },
+        {
+          "text": "Page",
+          "start": 4.4,
+          "end": 4.4
+        },
+        {
+          "text": "148",
+          "start": 6.08,
+          "end": 8.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 19",
+          "translations": {
+            "zh": "第19集",
+            "en": "Episode 19",
+            "es": "Episodio 19"
+          },
+          "start": 0.32,
+          "end": 1.76
+        },
+        {
+          "text": "Piste 41",
+          "translations": {
+            "zh": "第41轨",
+            "en": "Track 41",
+            "es": "Pista 41"
+          },
+          "start": 2.8,
+          "end": 4.4
+        },
+        {
+          "text": "Page 148",
+          "translations": {
+            "zh": "第148页",
+            "en": "Page 148",
+            "es": "Página 148"
+          },
+          "start": 4.4,
+          "end": 8.96
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bonjour, École nationale du meuble, comment puis-je vous aider ?",
+      "translations": {
+        "zh": "您好，国立家具学校，请问有什么可以帮您的？",
+        "en": "Hello, National School of Furniture, how can I help you?",
+        "es": "Hola, Escuela Nacional del Mobiliario, ¿cómo puedo ayudarle?"
+      },
+      "start": 10.08,
+      "end": 13.76,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 10.08,
+          "end": 10.72
+        },
+        {
+          "text": "École",
+          "start": 11.04,
+          "end": 11.36
+        },
+        {
+          "text": "nationale",
+          "start": 11.36,
+          "end": 11.84
+        },
+        {
+          "text": "du",
+          "start": 11.84,
+          "end": 12.0
+        },
+        {
+          "text": "meuble",
+          "start": 12.0,
+          "end": 12.48
+        },
+        {
+          "text": "comment",
+          "start": 12.72,
+          "end": 12.96
+        },
+        {
+          "text": "puis",
+          "start": 12.96,
+          "end": 13.2
+        },
+        {
+          "text": "je",
+          "start": 13.2,
+          "end": 13.28
+        },
+        {
+          "text": "vous",
+          "start": 13.28,
+          "end": 13.44
+        },
+        {
+          "text": "aider",
+          "start": 13.44,
+          "end": 13.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 10.08,
+          "end": 10.72
+        },
+        {
+          "text": "École nationale du meuble,",
+          "translations": {
+            "zh": "国立家具学校，",
+            "en": "National School of Furniture,",
+            "es": "Escuela Nacional del Mobiliario,"
+          },
+          "start": 11.04,
+          "end": 12.48
+        },
+        {
+          "text": "comment puis-je vous aider ?",
+          "translations": {
+            "zh": "请问有什么可以帮您的？",
+            "en": "how can I help you?",
+            "es": "¿cómo puedo ayudarle?"
+          },
+          "start": 12.72,
+          "end": 13.76
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Bonjour, j'aimerais me renseigner sur le programme d'ébénisterie, à qui dois-je parler ?",
+      "translations": {
+        "zh": "您好，我想了解一下细木工项目，我应该跟谁联系？",
+        "en": "Hello, I would like to get information about the cabinetmaking program, who should I speak to?",
+        "es": "Hola, me gustaría informarme sobre el programa de ebanistería, ¿con quién debo hablar?"
+      },
+      "start": 14.0,
+      "end": 18.4,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 14.0,
+          "end": 14.64
+        },
+        {
+          "text": "j'aimerais",
+          "start": 15.04,
+          "end": 15.44
+        },
+        {
+          "text": "me",
+          "start": 15.44,
+          "end": 15.52
+        },
+        {
+          "text": "renseigner",
+          "start": 15.52,
+          "end": 15.92
+        },
+        {
+          "text": "sur",
+          "start": 15.92,
+          "end": 16.08
+        },
+        {
+          "text": "le",
+          "start": 16.08,
+          "end": 16.16
+        },
+        {
+          "text": "programme",
+          "start": 16.16,
+          "end": 16.48
+        },
+        {
+          "text": "d'ébénisterie",
+          "start": 16.48,
+          "end": 17.36
+        },
+        {
+          "text": "à",
+          "start": 17.52,
+          "end": 17.6
+        },
+        {
+          "text": "qui",
+          "start": 17.6,
+          "end": 17.76
+        },
+        {
+          "text": "dois",
+          "start": 17.76,
+          "end": 17.92
+        },
+        {
+          "text": "je",
+          "start": 17.92,
+          "end": 18.0
+        },
+        {
+          "text": "parler",
+          "start": 18.0,
+          "end": 18.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 14.0,
+          "end": 14.64
+        },
+        {
+          "text": "j'aimerais me renseigner sur le programme d'ébénisterie,",
+          "translations": {
+            "zh": "我想了解一下细木工项目，",
+            "en": "I would like to get information about the cabinetmaking program,",
+            "es": "me gustaría informarme sobre el programa de ebanistería,"
+          },
+          "start": 15.04,
+          "end": 17.36
+        },
+        {
+          "text": "à qui dois-je parler ?",
+          "translations": {
+            "zh": "我应该跟谁联系？",
+            "en": "who should I speak to?",
+            "es": "¿con quién debo hablar?"
+          },
+          "start": 17.52,
+          "end": 18.4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Je vous mets en communication avec monsieur Cloutier, le coordonateur du programme.",
+      "translations": {
+        "zh": "我帮您转接Cloutier先生，他是该项目的协调员。",
+        "en": "I will put you through to Mr. Cloutier, the program coordinator.",
+        "es": "Le paso la comunicación con el señor Cloutier, el coordinador del programa."
+      },
+      "start": 18.96,
+      "end": 23.68,
+      "words": [
+        {
+          "text": "Je",
+          "start": 18.96,
+          "end": 19.04
+        },
+        {
+          "text": "vous",
+          "start": 19.04,
+          "end": 19.2
+        },
+        {
+          "text": "mets",
+          "start": 19.2,
+          "end": 19.36
+        },
+        {
+          "text": "en",
+          "start": 19.36,
+          "end": 19.44
+        },
+        {
+          "text": "communication",
+          "start": 19.44,
+          "end": 20.48
+        },
+        {
+          "text": "avec",
+          "start": 20.48,
+          "end": 20.8
+        },
+        {
+          "text": "monsieur",
+          "start": 20.8,
+          "end": 21.12
+        },
+        {
+          "text": "Cloutier",
+          "start": 21.12,
+          "end": 21.76
+        },
+        {
+          "text": "le",
+          "start": 22.0,
+          "end": 22.08
+        },
+        {
+          "text": "coordonateur",
+          "start": 22.08,
+          "end": 22.88
+        },
+        {
+          "text": "du",
+          "start": 22.88,
+          "end": 23.04
+        },
+        {
+          "text": "programme",
+          "start": 23.04,
+          "end": 23.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vous mets en communication avec monsieur Cloutier,",
+          "translations": {
+            "zh": "我帮您转接Cloutier先生，",
+            "en": "I will put you through to Mr. Cloutier,",
+            "es": "Le paso la comunicación con el señor Cloutier,"
+          },
+          "start": 18.96,
+          "end": 21.76
+        },
+        {
+          "text": "le coordonateur du programme.",
+          "translations": {
+            "zh": "他是该项目的协调员。",
+            "en": "the program coordinator.",
+            "es": "el coordinador del programa."
+          },
+          "start": 22.0,
+          "end": 23.68
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Bonne journée !",
+      "translations": {
+        "zh": "祝您有美好的一天！",
+        "en": "Have a nice day!",
+        "es": "¡Buen día!"
+      },
+      "start": 24.32,
+      "end": 24.96,
+      "words": [
+        {
+          "text": "Bonne",
+          "start": 24.32,
+          "end": 24.48
+        },
+        {
+          "text": "journée",
+          "start": 24.48,
+          "end": 24.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonne journée !",
+          "translations": {
+            "zh": "祝您有美好的一天！",
+            "en": "Have a nice day!",
+            "es": "¡Buen día!"
+          },
+          "start": 24.32,
+          "end": 24.96
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "M.",
+      "translations": {
+        "zh": "先生",
+        "en": "Mr.",
+        "es": "Sr."
+      },
+      "start": 31.2,
+      "end": 31.2,
+      "words": [
+        {
+          "text": "M",
+          "start": 31.2,
+          "end": 31.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "M.",
+          "translations": {
+            "zh": "先生",
+            "en": "Mr.",
+            "es": "Sr."
+          },
+          "start": 31.2,
+          "end": 31.2
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Cloutier : Gilles Cloutier, bonjour !",
+      "translations": {
+        "zh": "Cloutier：Gilles Cloutier，您好！",
+        "en": "Cloutier: Gilles Cloutier, hello!",
+        "es": "Cloutier: Gilles Cloutier, ¡hola!"
+      },
+      "start": 31.44,
+      "end": 32.56,
+      "words": [
+        {
+          "text": "Cloutier",
+          "start": 31.44,
+          "end": 32.0
+        },
+        {
+          "text": "Gilles",
+          "start": 32.0,
+          "end": 32.0
+        },
+        {
+          "text": "Cloutier",
+          "start": 32.0,
+          "end": 32.0
+        },
+        {
+          "text": "bonjour",
+          "start": 32.08,
+          "end": 32.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Cloutier : Gilles Cloutier,",
+          "translations": {
+            "zh": "Cloutier：Gilles Cloutier，",
+            "en": "Cloutier: Gilles Cloutier,",
+            "es": "Cloutier: Gilles Cloutier,"
+          },
+          "start": 31.44,
+          "end": 32.0
+        },
+        {
+          "text": "bonjour !",
+          "translations": {
+            "zh": "您好！",
+            "en": "hello!",
+            "es": "¡hola!"
+          },
+          "start": 32.08,
+          "end": 32.56
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Bonjour, je pense m'inscrire en ébénisterie et j'aurais quelques questions.",
+      "translations": {
+        "zh": "您好，我打算报名细木工专业，我有一些问题想问。",
+        "en": "Hello, I am thinking of enrolling in cabinetmaking and I would have a few questions.",
+        "es": "Hola, pienso inscribirme en ebanistería y tendría algunas preguntas."
+      },
+      "start": 33.12,
+      "end": 37.44,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 33.12,
+          "end": 33.76
+        },
+        {
+          "text": "je",
+          "start": 34.24,
+          "end": 34.32
+        },
+        {
+          "text": "pense",
+          "start": 34.32,
+          "end": 34.56
+        },
+        {
+          "text": "m'inscrire",
+          "start": 34.56,
+          "end": 35.04
+        },
+        {
+          "text": "en",
+          "start": 35.04,
+          "end": 35.12
+        },
+        {
+          "text": "ébénisterie",
+          "start": 35.2,
+          "end": 36.08
+        },
+        {
+          "text": "et",
+          "start": 36.08,
+          "end": 36.32
+        },
+        {
+          "text": "j'aurais",
+          "start": 36.32,
+          "end": 36.56
+        },
+        {
+          "text": "quelques",
+          "start": 36.56,
+          "end": 36.88
+        },
+        {
+          "text": "questions",
+          "start": 36.88,
+          "end": 37.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 33.12,
+          "end": 33.76
+        },
+        {
+          "text": "je pense m'inscrire en ébénisterie",
+          "translations": {
+            "zh": "我打算报名细木工专业",
+            "en": "I am thinking of enrolling in cabinetmaking",
+            "es": "pienso inscribirme en ebanistería"
+          },
+          "start": 34.24,
+          "end": 36.08
+        },
+        {
+          "text": "et j'aurais quelques questions.",
+          "translations": {
+            "zh": "我有一些问题想问。",
+            "en": "and I would have a few questions.",
+            "es": "y tendría algunas preguntas."
+          },
+          "start": 36.08,
+          "end": 37.44
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Pouvez-vous m'aider ?",
+      "translations": {
+        "zh": "您能帮我吗？",
+        "en": "Can you help me?",
+        "es": "¿Puede ayudarme?"
+      },
+      "start": 37.92,
+      "end": 38.56,
+      "words": [
+        {
+          "text": "Pouvez",
+          "start": 37.92,
+          "end": 38.08
+        },
+        {
+          "text": "vous",
+          "start": 38.08,
+          "end": 38.24
+        },
+        {
+          "text": "m'aider",
+          "start": 38.24,
+          "end": 38.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pouvez-vous m'aider ?",
+          "translations": {
+            "zh": "您能帮我吗？",
+            "en": "Can you help me?",
+            "es": "¿Puede ayudarme?"
+          },
+          "start": 37.92,
+          "end": 38.56
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "M.",
+      "translations": {
+        "zh": "先生",
+        "en": "Mr.",
+        "es": "Sr."
+      },
+      "start": 39.04,
+      "end": 39.12,
+      "words": [
+        {
+          "text": "M",
+          "start": 39.04,
+          "end": 39.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "M.",
+          "translations": {
+            "zh": "先生",
+            "en": "Mr.",
+            "es": "Sr."
+          },
+          "start": 39.04,
+          "end": 39.12
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Cloutier : Bien sûr !",
+      "translations": {
+        "zh": "Cloutier：当然可以！",
+        "en": "Cloutier: Of course!",
+        "es": "Cloutier: ¡Por supuesto!"
+      },
+      "start": 39.12,
+      "end": 40.4,
+      "words": [
+        {
+          "text": "Cloutier",
+          "start": 39.12,
+          "end": 39.6
+        },
+        {
+          "text": "Bien",
+          "start": 40.32,
+          "end": 40.4
+        },
+        {
+          "text": "sûr",
+          "start": 40.4,
+          "end": 40.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Cloutier : Bien sûr !",
+          "translations": {
+            "zh": "Cloutier：当然可以！",
+            "en": "Cloutier: Of course!",
+            "es": "Cloutier: ¡Por supuesto!"
+          },
+          "start": 39.12,
+          "end": 40.4
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Un instant, je ferme la porte de mon bureau.",
+      "translations": {
+        "zh": "稍等一下，我关一下办公室的门。",
+        "en": "One moment, I am closing the door of my office.",
+        "es": "Un momento, cierro la puerta de mi oficina."
+      },
+      "start": 40.4,
+      "end": 42.0,
+      "words": [
+        {
+          "text": "Un",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "text": "instant",
+          "start": 40.4,
+          "end": 40.88
+        },
+        {
+          "text": "je",
+          "start": 40.88,
+          "end": 40.96
+        },
+        {
+          "text": "ferme",
+          "start": 40.96,
+          "end": 41.28
+        },
+        {
+          "text": "la",
+          "start": 41.28,
+          "end": 41.36
+        },
+        {
+          "text": "porte",
+          "start": 41.36,
+          "end": 41.52
+        },
+        {
+          "text": "de",
+          "start": 41.52,
+          "end": 41.6
+        },
+        {
+          "text": "mon",
+          "start": 41.6,
+          "end": 41.76
+        },
+        {
+          "text": "bureau",
+          "start": 41.76,
+          "end": 42.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Un instant,",
+          "translations": {
+            "zh": "稍等一下，",
+            "en": "One moment,",
+            "es": "Un momento,"
+          },
+          "start": 40.4,
+          "end": 40.88
+        },
+        {
+          "text": "je ferme la porte de mon bureau.",
+          "translations": {
+            "zh": "我关一下办公室的门。",
+            "en": "I am closing the door of my office.",
+            "es": "cierro la puerta de mi oficina."
+          },
+          "start": 40.88,
+          "end": 42.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Voilà, je vous écoute.",
+      "translations": {
+        "zh": "好了，我听着呢。",
+        "en": "There, I am listening to you.",
+        "es": "Aquí estoy, le escucho."
+      },
+      "start": 44.24,
+      "end": 45.84,
+      "words": [
+        {
+          "text": "Voilà",
+          "start": 44.24,
+          "end": 45.04
+        },
+        {
+          "text": "je",
+          "start": 45.12,
+          "end": 45.12
+        },
+        {
+          "text": "vous",
+          "start": 45.2,
+          "end": 45.36
+        },
+        {
+          "text": "écoute",
+          "start": 45.36,
+          "end": 45.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Voilà,",
+          "translations": {
+            "zh": "好了，",
+            "en": "There,",
+            "es": "Aquí estoy,"
+          },
+          "start": 44.24,
+          "end": 45.04
+        },
+        {
+          "text": "je vous écoute.",
+          "translations": {
+            "zh": "我听着呢。",
+            "en": "I am listening to you.",
+            "es": "le escucho."
+          },
+          "start": 45.12,
+          "end": 45.84
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Euh, premièrement, je ne comprends pas bien la différence entre une AEC et un DEC...",
+      "translations": {
+        "zh": "呃，首先，我不太明白AEC和DEC之间的区别……",
+        "en": "Um, first of all, I don't really understand the difference between an AEC and a DEC...",
+        "es": "Eh, en primer lugar, no entiendo bien la diferencia entre una AEC y un DEC..."
+      },
+      "start": 46.72,
+      "end": 51.52,
+      "words": [
+        {
+          "text": "Euh",
+          "start": 46.72,
+          "end": 47.12
+        },
+        {
+          "text": "premièrement",
+          "start": 47.6,
+          "end": 48.16
+        },
+        {
+          "text": "je",
+          "start": 48.16,
+          "end": 48.24
+        },
+        {
+          "text": "ne",
+          "start": 48.24,
+          "end": 48.32
+        },
+        {
+          "text": "comprends",
+          "start": 48.32,
+          "end": 48.56
+        },
+        {
+          "text": "pas",
+          "start": 48.56,
+          "end": 48.64
+        },
+        {
+          "text": "bien",
+          "start": 48.64,
+          "end": 48.8
+        },
+        {
+          "text": "la",
+          "start": 48.8,
+          "end": 48.88
+        },
+        {
+          "text": "différence",
+          "start": 48.88,
+          "end": 49.44
+        },
+        {
+          "text": "entre",
+          "start": 49.44,
+          "end": 49.68
+        },
+        {
+          "text": "une",
+          "start": 49.68,
+          "end": 49.84
+        },
+        {
+          "text": "AEC",
+          "start": 50.16,
+          "end": 50.72
+        },
+        {
+          "text": "et",
+          "start": 50.88,
+          "end": 50.96
+        },
+        {
+          "text": "un",
+          "start": 50.96,
+          "end": 51.12
+        },
+        {
+          "text": "DEC",
+          "start": 51.12,
+          "end": 51.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Euh, premièrement,",
+          "translations": {
+            "zh": "呃，首先，",
+            "en": "Um, first of all,",
+            "es": "Eh, en primer lugar,"
+          },
+          "start": 46.72,
+          "end": 48.16
+        },
+        {
+          "text": "je ne comprends pas bien la différence entre une AEC et un DEC...",
+          "translations": {
+            "zh": "我不太明白AEC和DEC之间的区别……",
+            "en": "I don't really understand the difference between an AEC and a DEC...",
+            "es": "no entiendo bien la diferencia entre una AEC y un DEC..."
+          },
+          "start": 48.16,
+          "end": 51.52
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "M.",
+      "translations": {
+        "zh": "先生",
+        "en": "Mr.",
+        "es": "Sr."
+      },
+      "start": 52.56,
+      "end": 52.64,
+      "words": [
+        {
+          "text": "M",
+          "start": 52.56,
+          "end": 52.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "M.",
+          "translations": {
+            "zh": "先生",
+            "en": "Mr.",
+            "es": "Sr."
+          },
+          "start": 52.56,
+          "end": 52.64
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Cloutier : L'AEC est un programme d'une seule année qui mène directement au marché du travail, alors que le DEC dure trois ans, et tu peux aller à l'université après.",
+      "translations": {
+        "zh": "Cloutier：AEC是一个只有一年的项目，直接通向就业市场，而DEC为期三年，之后你可以去上大学。",
+        "en": "Cloutier: The AEC is a one-year program that leads directly to the job market, whereas the DEC lasts three years, and you can go to university after.",
+        "es": "Cloutier: La AEC es un programa de un solo año que lleva directamente al mercado laboral, mientras que el DEC dura tres años, y puedes ir a la universidad después."
+      },
+      "start": 52.64,
+      "end": 61.04,
+      "words": [
+        {
+          "text": "Cloutier",
+          "start": 52.64,
+          "end": 53.12
+        },
+        {
+          "text": "L'AEC",
+          "start": 53.12,
+          "end": 53.12
+        },
+        {
+          "text": "est",
+          "start": 53.12,
+          "end": 53.12
+        },
+        {
+          "text": "un",
+          "start": 53.12,
+          "end": 53.2
+        },
+        {
+          "text": "programme",
+          "start": 53.2,
+          "end": 53.6
+        },
+        {
+          "text": "d'une",
+          "start": 53.6,
+          "end": 53.76
+        },
+        {
+          "text": "seule",
+          "start": 53.76,
+          "end": 54.08
+        },
+        {
+          "text": "année",
+          "start": 54.08,
+          "end": 54.48
+        },
+        {
+          "text": "qui",
+          "start": 54.56,
+          "end": 54.72
+        },
+        {
+          "text": "mène",
+          "start": 54.72,
+          "end": 54.88
+        },
+        {
+          "text": "directement",
+          "start": 54.88,
+          "end": 55.44
+        },
+        {
+          "text": "au",
+          "start": 55.44,
+          "end": 55.52
+        },
+        {
+          "text": "marché",
+          "start": 55.52,
+          "end": 55.76
+        },
+        {
+          "text": "du",
+          "start": 55.76,
+          "end": 55.92
+        },
+        {
+          "text": "travail",
+          "start": 55.92,
+          "end": 56.32
+        },
+        {
+          "text": "alors",
+          "start": 57.12,
+          "end": 57.36
+        },
+        {
+          "text": "que",
+          "start": 57.36,
+          "end": 57.44
+        },
+        {
+          "text": "le",
+          "start": 57.44,
+          "end": 57.6
+        },
+        {
+          "text": "DEC",
+          "start": 57.6,
+          "end": 57.92
+        },
+        {
+          "text": "dure",
+          "start": 58.0,
+          "end": 58.16
+        },
+        {
+          "text": "trois",
+          "start": 58.16,
+          "end": 58.56
+        },
+        {
+          "text": "ans",
+          "start": 58.56,
+          "end": 58.72
+        },
+        {
+          "text": "et",
+          "start": 59.2,
+          "end": 59.52
+        },
+        {
+          "text": "tu",
+          "start": 59.52,
+          "end": 59.68
+        },
+        {
+          "text": "peux",
+          "start": 59.68,
+          "end": 59.84
+        },
+        {
+          "text": "aller",
+          "start": 59.84,
+          "end": 60.0
+        },
+        {
+          "text": "à",
+          "start": 60.0,
+          "end": 60.08
+        },
+        {
+          "text": "l'université",
+          "start": 60.08,
+          "end": 60.72
+        },
+        {
+          "text": "après",
+          "start": 60.72,
+          "end": 61.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Cloutier : L'AEC est un programme d'une seule année",
+          "translations": {
+            "zh": "Cloutier：AEC是一个只有一年的项目",
+            "en": "Cloutier: The AEC is a one-year program",
+            "es": "Cloutier: La AEC es un programa de un solo año"
+          },
+          "start": 52.64,
+          "end": 54.48
+        },
+        {
+          "text": "qui mène directement au marché du travail,",
+          "translations": {
+            "zh": "直接通向就业市场，",
+            "en": "that leads directly to the job market,",
+            "es": "que lleva directamente al mercado laboral,"
+          },
+          "start": 54.56,
+          "end": 56.32
+        },
+        {
+          "text": "alors que le DEC dure trois ans,",
+          "translations": {
+            "zh": "而DEC为期三年，",
+            "en": "whereas the DEC lasts three years,",
+            "es": "mientras que el DEC dura tres años,"
+          },
+          "start": 57.12,
+          "end": 58.72
+        },
+        {
+          "text": "et tu peux aller à l'université après.",
+          "translations": {
+            "zh": "之后你可以去上大学。",
+            "en": "and you can go to university after.",
+            "es": "y puedes ir a la universidad después."
+          },
+          "start": 59.2,
+          "end": 61.04
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Ah, j'ai déjà commencé l'université, mais je ne veux pas continuer.",
+      "translations": {
+        "zh": "啊，我已经开始上大学了，但我不想继续了。",
+        "en": "Ah, I have already started university, but I don't want to continue.",
+        "es": "Ah, ya he empezado la universidad, pero no quiero continuar."
+      },
+      "start": 62.08,
+      "end": 65.04,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 62.08,
+          "end": 62.24
+        },
+        {
+          "text": "j'ai",
+          "start": 62.56,
+          "end": 62.72
+        },
+        {
+          "text": "déjà",
+          "start": 62.72,
+          "end": 62.88
+        },
+        {
+          "text": "commencé",
+          "start": 62.88,
+          "end": 63.28
+        },
+        {
+          "text": "l'université",
+          "start": 63.28,
+          "end": 64.0
+        },
+        {
+          "text": "mais",
+          "start": 64.0,
+          "end": 64.24
+        },
+        {
+          "text": "je",
+          "start": 64.24,
+          "end": 64.32
+        },
+        {
+          "text": "ne",
+          "start": 64.32,
+          "end": 64.4
+        },
+        {
+          "text": "veux",
+          "start": 64.4,
+          "end": 64.4
+        },
+        {
+          "text": "pas",
+          "start": 64.4,
+          "end": 64.48
+        },
+        {
+          "text": "continuer",
+          "start": 64.48,
+          "end": 65.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah,",
+          "translations": {
+            "zh": "啊，",
+            "en": "Ah,",
+            "es": "Ah,"
+          },
+          "start": 62.08,
+          "end": 62.24
+        },
+        {
+          "text": "j'ai déjà commencé l'université,",
+          "translations": {
+            "zh": "我已经开始上大学了，",
+            "en": "I have already started university,",
+            "es": "ya he empezado la universidad,"
+          },
+          "start": 62.56,
+          "end": 64.0
+        },
+        {
+          "text": "mais je ne veux pas continuer.",
+          "translations": {
+            "zh": "但我不想继续了。",
+            "en": "but I don't want to continue.",
+            "es": "pero no quiero continuar."
+          },
+          "start": 64.0,
+          "end": 65.04
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Je devrais faire l'AEC, dans ce cas ?",
+      "translations": {
+        "zh": "那在这种情况下，我应该读AEC吗？",
+        "en": "I should do the AEC, in that case?",
+        "es": "¿Debería hacer la AEC, en ese caso?"
+      },
+      "start": 65.68,
+      "end": 67.28,
+      "words": [
+        {
+          "text": "Je",
+          "start": 65.68,
+          "end": 65.76
+        },
+        {
+          "text": "devrais",
+          "start": 65.76,
+          "end": 66.08
+        },
+        {
+          "text": "faire",
+          "start": 66.08,
+          "end": 66.24
+        },
+        {
+          "text": "l'AEC",
+          "start": 66.24,
+          "end": 66.88
+        },
+        {
+          "text": "dans",
+          "start": 66.88,
+          "end": 67.04
+        },
+        {
+          "text": "ce",
+          "start": 67.04,
+          "end": 67.12
+        },
+        {
+          "text": "cas",
+          "start": 67.12,
+          "end": 67.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je devrais faire l'AEC,",
+          "translations": {
+            "zh": "我应该读AEC，",
+            "en": "I should do the AEC,",
+            "es": "¿Debería hacer la AEC,"
+          },
+          "start": 65.68,
+          "end": 66.88
+        },
+        {
+          "text": "dans ce cas ?",
+          "translations": {
+            "zh": "在这种情况下？",
+            "en": "in that case?",
+            "es": "en ese caso?"
+          },
+          "start": 66.88,
+          "end": 67.28
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "M.",
+      "translations": {
+        "zh": "先生",
+        "en": "Mr.",
+        "es": "Sr."
+      },
+      "start": 67.6,
+      "end": 68.24,
+      "words": [
+        {
+          "text": "M",
+          "start": 67.6,
+          "end": 68.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "M.",
+          "translations": {
+            "zh": "先生",
+            "en": "Mr.",
+            "es": "Sr."
+          },
+          "start": 67.6,
+          "end": 68.24
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Cloutier : Hum, tu sais, le DEC est un programme plus complet et ses diplômés sont plus recherchés par les employeurs.",
+      "translations": {
+        "zh": "Cloutier：嗯，你知道，DEC是一个更全面的项目，它的毕业生更受雇主青睐。",
+        "en": "Cloutier: Hmm, you know, the DEC is a more comprehensive program and its graduates are more sought after by employers.",
+        "es": "Cloutier: Hmm, ya sabes, el DEC es un programa más completo y sus diplomados son más buscados por los empleadores."
+      },
+      "start": 68.48,
+      "end": 74.72,
+      "words": [
+        {
+          "text": "Cloutier",
+          "start": 68.48,
+          "end": 68.48
+        },
+        {
+          "text": "Hum",
+          "start": 68.48,
+          "end": 68.48
+        },
+        {
+          "text": "tu",
+          "start": 68.48,
+          "end": 68.48
+        },
+        {
+          "text": "sais",
+          "start": 68.56,
+          "end": 69.44
+        },
+        {
+          "text": "le",
+          "start": 69.6,
+          "end": 69.68
+        },
+        {
+          "text": "DEC",
+          "start": 69.84,
+          "end": 70.24
+        },
+        {
+          "text": "est",
+          "start": 70.24,
+          "end": 70.32
+        },
+        {
+          "text": "un",
+          "start": 70.32,
+          "end": 70.4
+        },
+        {
+          "text": "programme",
+          "start": 70.4,
+          "end": 70.8
+        },
+        {
+          "text": "plus",
+          "start": 70.8,
+          "end": 70.96
+        },
+        {
+          "text": "complet",
+          "start": 70.96,
+          "end": 71.52
+        },
+        {
+          "text": "et",
+          "start": 72.08,
+          "end": 72.16
+        },
+        {
+          "text": "ses",
+          "start": 72.16,
+          "end": 72.4
+        },
+        {
+          "text": "diplômés",
+          "start": 72.4,
+          "end": 73.04
+        },
+        {
+          "text": "sont",
+          "start": 73.04,
+          "end": 73.28
+        },
+        {
+          "text": "plus",
+          "start": 73.28,
+          "end": 73.44
+        },
+        {
+          "text": "recherchés",
+          "start": 73.44,
+          "end": 73.92
+        },
+        {
+          "text": "par",
+          "start": 73.92,
+          "end": 74.08
+        },
+        {
+          "text": "les",
+          "start": 74.08,
+          "end": 74.16
+        },
+        {
+          "text": "employeurs",
+          "start": 74.16,
+          "end": 74.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Cloutier : Hum, tu sais,",
+          "translations": {
+            "zh": "Cloutier：嗯，你知道，",
+            "en": "Cloutier: Hmm, you know,",
+            "es": "Cloutier: Hmm, ya sabes,"
+          },
+          "start": 68.48,
+          "end": 69.44
+        },
+        {
+          "text": "le DEC est un programme plus complet",
+          "translations": {
+            "zh": "DEC是一个更全面的项目",
+            "en": "the DEC is a more comprehensive program",
+            "es": "el DEC es un programa más completo"
+          },
+          "start": 69.6,
+          "end": 71.52
+        },
+        {
+          "text": "et ses diplômés sont plus recherchés par les employeurs.",
+          "translations": {
+            "zh": "它的毕业生更受雇主青睐。",
+            "en": "and its graduates are more sought after by employers.",
+            "es": "y sus diplomados son más buscados por los empleadores."
+          },
+          "start": 72.08,
+          "end": 74.72
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Mais ça dépend du temps que tu veux consacrer à tes études, si tu es pressé ou non de les terminer.",
+      "translations": {
+        "zh": "但这取决于你想花多少时间在学业上，你是否急于完成学业。",
+        "en": "But it depends on the time you want to devote to your studies, whether you are in a hurry to finish them or not.",
+        "es": "Pero eso depende del tiempo que quieras dedicar a tus estudios, si tienes prisa o no por terminarlos."
+      },
+      "start": 75.84,
+      "end": 80.48,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 75.84,
+          "end": 76.24
+        },
+        {
+          "text": "ça",
+          "start": 76.88,
+          "end": 77.04
+        },
+        {
+          "text": "dépend",
+          "start": 77.04,
+          "end": 77.28
+        },
+        {
+          "text": "du",
+          "start": 77.28,
+          "end": 77.44
+        },
+        {
+          "text": "temps",
+          "start": 77.44,
+          "end": 77.52
+        },
+        {
+          "text": "que",
+          "start": 77.52,
+          "end": 77.6
+        },
+        {
+          "text": "tu",
+          "start": 77.6,
+          "end": 77.68
+        },
+        {
+          "text": "veux",
+          "start": 77.68,
+          "end": 77.76
+        },
+        {
+          "text": "consacrer",
+          "start": 77.76,
+          "end": 78.24
+        },
+        {
+          "text": "à",
+          "start": 78.24,
+          "end": 78.24
+        },
+        {
+          "text": "tes",
+          "start": 78.24,
+          "end": 78.32
+        },
+        {
+          "text": "études",
+          "start": 78.4,
+          "end": 78.72
+        },
+        {
+          "text": "si",
+          "start": 78.88,
+          "end": 79.2
+        },
+        {
+          "text": "tu",
+          "start": 79.2,
+          "end": 79.28
+        },
+        {
+          "text": "es",
+          "start": 79.28,
+          "end": 79.28
+        },
+        {
+          "text": "pressé",
+          "start": 79.28,
+          "end": 79.68
+        },
+        {
+          "text": "ou",
+          "start": 79.68,
+          "end": 79.76
+        },
+        {
+          "text": "non",
+          "start": 79.76,
+          "end": 79.92
+        },
+        {
+          "text": "de",
+          "start": 79.92,
+          "end": 80.0
+        },
+        {
+          "text": "les",
+          "start": 80.0,
+          "end": 80.08
+        },
+        {
+          "text": "terminer",
+          "start": 80.08,
+          "end": 80.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais ça dépend du temps que tu veux consacrer à tes études,",
+          "translations": {
+            "zh": "但这取决于你想花多少时间在学业上，",
+            "en": "But it depends on the time you want to devote to your studies,",
+            "es": "Pero eso depende del tiempo que quieras dedicar a tus estudios,"
+          },
+          "start": 75.84,
+          "end": 78.72
+        },
+        {
+          "text": "si tu es pressé ou non de les terminer.",
+          "translations": {
+            "zh": "你是否急于完成学业。",
+            "en": "whether you are in a hurry to finish them or not.",
+            "es": "si tienes prisa o no por terminarlos."
+          },
+          "start": 78.88,
+          "end": 80.48
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "OK, je vois.",
+      "translations": {
+        "zh": "好的，我明白了。",
+        "en": "OK, I see.",
+        "es": "OK, ya veo."
+      },
+      "start": 81.2,
+      "end": 81.92,
+      "words": [
+        {
+          "text": "OK",
+          "start": 81.2,
+          "end": 81.52
+        },
+        {
+          "text": "je",
+          "start": 81.52,
+          "end": 81.6
+        },
+        {
+          "text": "vois",
+          "start": 81.68,
+          "end": 81.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "OK,",
+          "translations": {
+            "zh": "好的，",
+            "en": "OK,",
+            "es": "OK,"
+          },
+          "start": 81.2,
+          "end": 81.52
+        },
+        {
+          "text": "je vois.",
+          "translations": {
+            "zh": "我明白了。",
+            "en": "I see.",
+            "es": "ya veo."
+          },
+          "start": 81.52,
+          "end": 81.92
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "C'est vrai que j'ai hâte d'être sur le marché du travail, mais je vais y réfléchir.",
+      "translations": {
+        "zh": "我确实迫不及待想进入就业市场，但我会好好考虑一下的。",
+        "en": "It's true that I am eager to be on the job market, but I will think about it.",
+        "es": "Es verdad que tengo ganas de estar en el mercado laboral, pero lo voy a pensar."
+      },
+      "start": 82.8,
+      "end": 86.32,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 82.8,
+          "end": 82.96
+        },
+        {
+          "text": "vrai",
+          "start": 82.96,
+          "end": 83.04
+        },
+        {
+          "text": "que",
+          "start": 83.04,
+          "end": 83.12
+        },
+        {
+          "text": "j'ai",
+          "start": 83.12,
+          "end": 83.2
+        },
+        {
+          "text": "hâte",
+          "start": 83.2,
+          "end": 83.44
+        },
+        {
+          "text": "d'être",
+          "start": 83.44,
+          "end": 83.6
+        },
+        {
+          "text": "sur",
+          "start": 83.6,
+          "end": 83.76
+        },
+        {
+          "text": "le",
+          "start": 83.76,
+          "end": 83.76
+        },
+        {
+          "text": "marché",
+          "start": 83.76,
+          "end": 84.08
+        },
+        {
+          "text": "du",
+          "start": 84.08,
+          "end": 84.16
+        },
+        {
+          "text": "travail",
+          "start": 84.16,
+          "end": 84.56
+        },
+        {
+          "text": "mais",
+          "start": 85.28,
+          "end": 85.44
+        },
+        {
+          "text": "je",
+          "start": 85.44,
+          "end": 85.52
+        },
+        {
+          "text": "vais",
+          "start": 85.52,
+          "end": 85.6
+        },
+        {
+          "text": "y",
+          "start": 85.6,
+          "end": 85.68
+        },
+        {
+          "text": "réfléchir",
+          "start": 85.68,
+          "end": 86.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est vrai que j'ai hâte d'être sur le marché du travail,",
+          "translations": {
+            "zh": "我确实迫不及待想进入就业市场，",
+            "en": "It's true that I am eager to be on the job market,",
+            "es": "Es verdad que tengo ganas de estar en el mercado laboral,"
+          },
+          "start": 82.8,
+          "end": 84.56
+        },
+        {
+          "text": "mais je vais y réfléchir.",
+          "translations": {
+            "zh": "但我会好好考虑一下的。",
+            "en": "but I will think about it.",
+            "es": "pero lo voy a pensar."
+          },
+          "start": 85.28,
+          "end": 86.32
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "M.",
+      "translations": {
+        "zh": "先生",
+        "en": "Mr.",
+        "es": "Sr."
+      },
+      "start": 87.2,
+      "end": 87.2,
+      "words": [
+        {
+          "text": "M",
+          "start": 87.2,
+          "end": 87.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "M.",
+          "translations": {
+            "zh": "先生",
+            "en": "Mr.",
+            "es": "Sr."
+          },
+          "start": 87.2,
+          "end": 87.2
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Cloutier : Dans ce cas, c'est important que tu saches que, si tu commences à l'hiver, tu terminerais le DEC en trois ans et demi plutôt que trois, à cause du cheminement à l'intérieur du programme.",
+      "translations": {
+        "zh": "Cloutier：在这种情况下，你要知道，如果你在冬季入学，你需要三年半而不是三年才能完成DEC，因为项目内部的课程进程安排。",
+        "en": "Cloutier: In that case, it is important that you know that, if you start in the winter, you would finish the DEC in three and a half years rather than three, because of the progression within the program.",
+        "es": "Cloutier: En ese caso, es importante que sepas que, si empiezas en invierno, terminarías el DEC en tres años y medio en vez de tres, debido al recorrido dentro del programa."
+      },
+      "start": 87.2,
+      "end": 96.56,
+      "words": [
+        {
+          "text": "Cloutier",
+          "start": 87.2,
+          "end": 87.2
+        },
+        {
+          "text": "Dans",
+          "start": 87.2,
+          "end": 87.36
+        },
+        {
+          "text": "ce",
+          "start": 87.36,
+          "end": 87.44
+        },
+        {
+          "text": "cas",
+          "start": 87.44,
+          "end": 87.68
+        },
+        {
+          "text": "c'est",
+          "start": 87.92,
+          "end": 88.24
+        },
+        {
+          "text": "important",
+          "start": 88.24,
+          "end": 88.64
+        },
+        {
+          "text": "que",
+          "start": 88.64,
+          "end": 88.72
+        },
+        {
+          "text": "tu",
+          "start": 88.72,
+          "end": 88.88
+        },
+        {
+          "text": "saches",
+          "start": 88.88,
+          "end": 89.52
+        },
+        {
+          "text": "que",
+          "start": 89.52,
+          "end": 89.6
+        },
+        {
+          "text": "si",
+          "start": 89.6,
+          "end": 89.92
+        },
+        {
+          "text": "tu",
+          "start": 89.92,
+          "end": 90.0
+        },
+        {
+          "text": "commences",
+          "start": 90.0,
+          "end": 90.4
+        },
+        {
+          "text": "à",
+          "start": 90.4,
+          "end": 90.48
+        },
+        {
+          "text": "l'hiver",
+          "start": 90.48,
+          "end": 91.12
+        },
+        {
+          "text": "tu",
+          "start": 91.52,
+          "end": 91.6
+        },
+        {
+          "text": "terminerais",
+          "start": 91.6,
+          "end": 92.08
+        },
+        {
+          "text": "le",
+          "start": 92.08,
+          "end": 92.24
+        },
+        {
+          "text": "DEC",
+          "start": 92.24,
+          "end": 92.56
+        },
+        {
+          "text": "en",
+          "start": 92.72,
+          "end": 92.8
+        },
+        {
+          "text": "trois",
+          "start": 92.8,
+          "end": 93.2
+        },
+        {
+          "text": "ans",
+          "start": 93.2,
+          "end": 93.2
+        },
+        {
+          "text": "et",
+          "start": 93.2,
+          "end": 93.36
+        },
+        {
+          "text": "demi",
+          "start": 93.36,
+          "end": 93.6
+        },
+        {
+          "text": "plutôt",
+          "start": 93.6,
+          "end": 93.84
+        },
+        {
+          "text": "que",
+          "start": 93.84,
+          "end": 93.92
+        },
+        {
+          "text": "trois",
+          "start": 93.92,
+          "end": 94.24
+        },
+        {
+          "text": "à",
+          "start": 94.88,
+          "end": 94.96
+        },
+        {
+          "text": "cause",
+          "start": 94.96,
+          "end": 95.12
+        },
+        {
+          "text": "du",
+          "start": 95.12,
+          "end": 95.28
+        },
+        {
+          "text": "cheminement",
+          "start": 95.28,
+          "end": 95.68
+        },
+        {
+          "text": "à",
+          "start": 95.68,
+          "end": 95.68
+        },
+        {
+          "text": "l'intérieur",
+          "start": 95.68,
+          "end": 96.08
+        },
+        {
+          "text": "du",
+          "start": 96.08,
+          "end": 96.16
+        },
+        {
+          "text": "programme",
+          "start": 96.16,
+          "end": 96.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Cloutier : Dans ce cas,",
+          "translations": {
+            "zh": "Cloutier：在这种情况下，",
+            "en": "Cloutier: In that case,",
+            "es": "Cloutier: En ese caso,"
+          },
+          "start": 87.2,
+          "end": 87.68
+        },
+        {
+          "text": "c'est important que tu saches que,",
+          "translations": {
+            "zh": "你要知道，",
+            "en": "it is important that you know that,",
+            "es": "es importante que sepas que,"
+          },
+          "start": 87.92,
+          "end": 89.6
+        },
+        {
+          "text": "si tu commences à l'hiver,",
+          "translations": {
+            "zh": "如果你在冬季入学，",
+            "en": "if you start in the winter,",
+            "es": "si empiezas en invierno,"
+          },
+          "start": 89.6,
+          "end": 91.12
+        },
+        {
+          "text": "tu terminerais le DEC en trois ans et demi plutôt que trois,",
+          "translations": {
+            "zh": "你需要三年半而不是三年才能完成DEC，",
+            "en": "you would finish the DEC in three and a half years rather than three,",
+            "es": "terminarías el DEC en tres años y medio en vez de tres,"
+          },
+          "start": 91.52,
+          "end": 94.24
+        },
+        {
+          "text": "à cause du cheminement à l'intérieur du programme.",
+          "translations": {
+            "zh": "因为项目内部的课程进程安排。",
+            "en": "because of the progression within the program.",
+            "es": "debido al recorrido dentro del programa."
+          },
+          "start": 94.88,
+          "end": 96.56
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Et l'AEC n'est offerte qu'à l'automne.",
+      "translations": {
+        "zh": "而AEC只在秋季开设。",
+        "en": "And the AEC is only offered in the fall.",
+        "es": "Y la AEC solo se ofrece en otoño."
+      },
+      "start": 97.2,
+      "end": 99.6,
+      "words": [
+        {
+          "text": "Et",
+          "start": 97.2,
+          "end": 97.6
+        },
+        {
+          "text": "l'AEC",
+          "start": 97.76,
+          "end": 98.4
+        },
+        {
+          "text": "n'est",
+          "start": 98.4,
+          "end": 98.56
+        },
+        {
+          "text": "offerte",
+          "start": 98.64,
+          "end": 99.04
+        },
+        {
+          "text": "qu'à",
+          "start": 99.12,
+          "end": 99.28
+        },
+        {
+          "text": "l'automne",
+          "start": 99.28,
+          "end": 99.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et l'AEC n'est offerte qu'à l'automne.",
+          "translations": {
+            "zh": "而AEC只在秋季开设。",
+            "en": "And the AEC is only offered in the fall.",
+            "es": "Y la AEC solo se ofrece en otoño."
+          },
+          "start": 97.2,
+          "end": 99.6
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Oh, oui...",
+      "translations": {
+        "zh": "哦，是的……",
+        "en": "Oh, yes...",
+        "es": "Oh, sí..."
+      },
+      "start": 100.32,
+      "end": 101.04,
+      "words": [
+        {
+          "text": "Oh",
+          "start": 100.32,
+          "end": 100.32
+        },
+        {
+          "text": "oui",
+          "start": 100.8,
+          "end": 101.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oh, oui...",
+          "translations": {
+            "zh": "哦，是的……",
+            "en": "Oh, yes...",
+            "es": "Oh, sí..."
+          },
+          "start": 100.32,
+          "end": 101.04
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Et ça commence quand, pour la session d'hiver ?",
+      "translations": {
+        "zh": "那冬季学期什么时候开始呢？",
+        "en": "And when does it start, for the winter semester?",
+        "es": "¿Y cuándo empieza, para la sesión de invierno?"
+      },
+      "start": 101.76,
+      "end": 103.28,
+      "words": [
+        {
+          "text": "Et",
+          "start": 101.76,
+          "end": 101.84
+        },
+        {
+          "text": "ça",
+          "start": 101.84,
+          "end": 102.0
+        },
+        {
+          "text": "commence",
+          "start": 102.0,
+          "end": 102.32
+        },
+        {
+          "text": "quand",
+          "start": 102.32,
+          "end": 102.4
+        },
+        {
+          "text": "pour",
+          "start": 102.48,
+          "end": 102.56
+        },
+        {
+          "text": "la",
+          "start": 102.56,
+          "end": 102.64
+        },
+        {
+          "text": "session",
+          "start": 102.64,
+          "end": 102.96
+        },
+        {
+          "text": "d'hiver",
+          "start": 102.96,
+          "end": 103.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et ça commence quand,",
+          "translations": {
+            "zh": "那什么时候开始，",
+            "en": "And when does it start,",
+            "es": "¿Y cuándo empieza,"
+          },
+          "start": 101.76,
+          "end": 102.4
+        },
+        {
+          "text": "pour la session d'hiver ?",
+          "translations": {
+            "zh": "冬季学期呢？",
+            "en": "for the winter semester?",
+            "es": "para la sesión de invierno?"
+          },
+          "start": 102.48,
+          "end": 103.28
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "M.",
+      "translations": {
+        "zh": "先生",
+        "en": "Mr.",
+        "es": "Sr."
+      },
+      "start": 103.28,
+      "end": 103.28,
+      "words": [
+        {
+          "text": "M",
+          "start": 103.28,
+          "end": 103.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "M.",
+          "translations": {
+            "zh": "先生",
+            "en": "Mr.",
+            "es": "Sr."
+          },
+          "start": 103.28,
+          "end": 103.28
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Cloutier : Attends...",
+      "translations": {
+        "zh": "Cloutier：等等……",
+        "en": "Cloutier: Wait...",
+        "es": "Cloutier: Espera..."
+      },
+      "start": 103.28,
+      "end": 105.44,
+      "words": [
+        {
+          "text": "Cloutier",
+          "start": 103.28,
+          "end": 103.68
+        },
+        {
+          "text": "Attends",
+          "start": 104.88,
+          "end": 105.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Cloutier : Attends...",
+          "translations": {
+            "zh": "Cloutier：等等……",
+            "en": "Cloutier: Wait...",
+            "es": "Cloutier: Espera..."
+          },
+          "start": 103.28,
+          "end": 105.44
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "je n'ai pas la date sous les yeux, mais c'est autour du 20 janvier.",
+      "translations": {
+        "zh": "我手边没有具体日期，但大概在1月20日左右。",
+        "en": "I don't have the date in front of me, but it's around January 20th.",
+        "es": "no tengo la fecha a la vista, pero es alrededor del 20 de enero."
+      },
+      "start": 105.6,
+      "end": 109.6,
+      "words": [
+        {
+          "text": "je",
+          "start": 105.6,
+          "end": 105.6
+        },
+        {
+          "text": "n'ai",
+          "start": 105.6,
+          "end": 105.68
+        },
+        {
+          "text": "pas",
+          "start": 105.92,
+          "end": 106.08
+        },
+        {
+          "text": "la",
+          "start": 106.08,
+          "end": 106.24
+        },
+        {
+          "text": "date",
+          "start": 106.24,
+          "end": 106.4
+        },
+        {
+          "text": "sous",
+          "start": 106.4,
+          "end": 106.56
+        },
+        {
+          "text": "les",
+          "start": 106.56,
+          "end": 106.88
+        },
+        {
+          "text": "yeux",
+          "start": 106.88,
+          "end": 107.2
+        },
+        {
+          "text": "mais",
+          "start": 107.28,
+          "end": 107.68
+        },
+        {
+          "text": "c'est",
+          "start": 108.24,
+          "end": 108.56
+        },
+        {
+          "text": "autour",
+          "start": 108.56,
+          "end": 108.8
+        },
+        {
+          "text": "du",
+          "start": 108.8,
+          "end": 108.96
+        },
+        {
+          "text": "20",
+          "start": 108.96,
+          "end": 109.2
+        },
+        {
+          "text": "janvier",
+          "start": 109.2,
+          "end": 109.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "je n'ai pas la date sous les yeux,",
+          "translations": {
+            "zh": "我手边没有具体日期，",
+            "en": "I don't have the date in front of me,",
+            "es": "no tengo la fecha a la vista,"
+          },
+          "start": 105.6,
+          "end": 107.2
+        },
+        {
+          "text": "mais c'est autour du 20 janvier.",
+          "translations": {
+            "zh": "但大概在1月20日左右。",
+            "en": "but it's around January 20th.",
+            "es": "pero es alrededor del 20 de enero."
+          },
+          "start": 107.28,
+          "end": 109.6
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "Pour la session d'automne, c'est autour du 20 aout.",
+      "translations": {
+        "zh": "秋季学期大概在8月20日左右。",
+        "en": "For the fall semester, it's around August 20th.",
+        "es": "Para la sesión de otoño, es alrededor del 20 de agosto."
+      },
+      "start": 110.24,
+      "end": 113.84,
+      "words": [
+        {
+          "text": "Pour",
+          "start": 110.24,
+          "end": 110.4
+        },
+        {
+          "text": "la",
+          "start": 110.4,
+          "end": 110.48
+        },
+        {
+          "text": "session",
+          "start": 110.48,
+          "end": 110.8
+        },
+        {
+          "text": "d'automne",
+          "start": 110.8,
+          "end": 111.28
+        },
+        {
+          "text": "c'est",
+          "start": 111.28,
+          "end": 111.68
+        },
+        {
+          "text": "autour",
+          "start": 111.68,
+          "end": 112.0
+        },
+        {
+          "text": "du",
+          "start": 112.0,
+          "end": 112.16
+        },
+        {
+          "text": "20",
+          "start": 112.16,
+          "end": 112.48
+        },
+        {
+          "text": "aout",
+          "start": 113.84,
+          "end": 113.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pour la session d'automne,",
+          "translations": {
+            "zh": "秋季学期，",
+            "en": "For the fall semester,",
+            "es": "Para la sesión de otoño,"
+          },
+          "start": 110.24,
+          "end": 111.28
+        },
+        {
+          "text": "c'est autour du 20 aout.",
+          "translations": {
+            "zh": "大概在8月20日左右。",
+            "en": "it's around August 20th.",
+            "es": "es alrededor del 20 de agosto."
+          },
+          "start": 111.28,
+          "end": 113.84
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "Tu peux vérifier les dates exactes sur notre site Web, ce sera plus fiable que moi !",
+      "translations": {
+        "zh": "你可以在我们的网站上查看确切日期，那会比我更可靠！",
+        "en": "You can check the exact dates on our website, it will be more reliable than me!",
+        "es": "Puedes verificar las fechas exactas en nuestro sitio web, ¡será más fiable que yo!"
+      },
+      "start": 114.48,
+      "end": 118.24,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 114.48,
+          "end": 114.56
+        },
+        {
+          "text": "peux",
+          "start": 114.56,
+          "end": 114.72
+        },
+        {
+          "text": "vérifier",
+          "start": 114.72,
+          "end": 115.04
+        },
+        {
+          "text": "les",
+          "start": 115.04,
+          "end": 115.12
+        },
+        {
+          "text": "dates",
+          "start": 115.12,
+          "end": 115.36
+        },
+        {
+          "text": "exactes",
+          "start": 115.36,
+          "end": 115.84
+        },
+        {
+          "text": "sur",
+          "start": 115.84,
+          "end": 115.92
+        },
+        {
+          "text": "notre",
+          "start": 115.92,
+          "end": 116.08
+        },
+        {
+          "text": "site",
+          "start": 116.08,
+          "end": 116.32
+        },
+        {
+          "text": "Web",
+          "start": 116.32,
+          "end": 116.64
+        },
+        {
+          "text": "ce",
+          "start": 117.04,
+          "end": 117.12
+        },
+        {
+          "text": "sera",
+          "start": 117.12,
+          "end": 117.28
+        },
+        {
+          "text": "plus",
+          "start": 117.28,
+          "end": 117.44
+        },
+        {
+          "text": "fiable",
+          "start": 117.44,
+          "end": 117.84
+        },
+        {
+          "text": "que",
+          "start": 117.84,
+          "end": 117.92
+        },
+        {
+          "text": "moi",
+          "start": 117.92,
+          "end": 118.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu peux vérifier les dates exactes sur notre site Web,",
+          "translations": {
+            "zh": "你可以在我们的网站上查看确切日期，",
+            "en": "You can check the exact dates on our website,",
+            "es": "Puedes verificar las fechas exactas en nuestro sitio web,"
+          },
+          "start": 114.48,
+          "end": 116.64
+        },
+        {
+          "text": "ce sera plus fiable que moi !",
+          "translations": {
+            "zh": "那会比我更可靠！",
+            "en": "it will be more reliable than me!",
+            "es": "¡será más fiable que yo!"
+          },
+          "start": 117.04,
+          "end": 118.24
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "text": "OK.",
+      "translations": {
+        "zh": "好的。",
+        "en": "OK.",
+        "es": "OK."
+      },
+      "start": 119.52,
+      "end": 120.0,
+      "words": [
+        {
+          "text": "OK",
+          "start": 119.52,
+          "end": 120.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "OK.",
+          "translations": {
+            "zh": "好的。",
+            "en": "OK.",
+            "es": "OK."
+          },
+          "start": 119.52,
+          "end": 120.0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "text": "Est-ce qu'il y a des préalables pour être accepté dans le programme ?",
+      "translations": {
+        "zh": "被该项目录取有先修条件吗？",
+        "en": "Are there prerequisites to be accepted into the program?",
+        "es": "¿Hay requisitos previos para ser aceptado en el programa?"
+      },
+      "start": 120.0,
+      "end": 123.52,
+      "words": [
+        {
+          "text": "Est",
+          "start": 120.0,
+          "end": 120.08
+        },
+        {
+          "text": "ce",
+          "start": 120.08,
+          "end": 120.08
+        },
+        {
+          "text": "qu'il",
+          "start": 120.08,
+          "end": 120.08
+        },
+        {
+          "text": "y",
+          "start": 120.08,
+          "end": 120.08
+        },
+        {
+          "text": "a",
+          "start": 120.08,
+          "end": 120.08
+        },
+        {
+          "text": "des",
+          "start": 121.12,
+          "end": 121.2
+        },
+        {
+          "text": "préalables",
+          "start": 121.2,
+          "end": 122.16
+        },
+        {
+          "text": "pour",
+          "start": 122.16,
+          "end": 122.32
+        },
+        {
+          "text": "être",
+          "start": 122.32,
+          "end": 122.4
+        },
+        {
+          "text": "accepté",
+          "start": 122.4,
+          "end": 122.8
+        },
+        {
+          "text": "dans",
+          "start": 122.8,
+          "end": 122.88
+        },
+        {
+          "text": "le",
+          "start": 122.88,
+          "end": 122.88
+        },
+        {
+          "text": "programme",
+          "start": 122.88,
+          "end": 123.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce qu'il y a des préalables",
+          "translations": {
+            "zh": "有先修条件吗",
+            "en": "Are there prerequisites",
+            "es": "¿Hay requisitos previos"
+          },
+          "start": 120.0,
+          "end": 122.16
+        },
+        {
+          "text": "pour être accepté dans le programme ?",
+          "translations": {
+            "zh": "要被该项目录取？",
+            "en": "to be accepted into the program?",
+            "es": "para ser aceptado en el programa?"
+          },
+          "start": 122.16,
+          "end": 123.52
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "text": "M.",
+      "translations": {
+        "zh": "先生",
+        "en": "Mr.",
+        "es": "Sr."
+      },
+      "start": 124.0,
+      "end": 124.24,
+      "words": [
+        {
+          "text": "M",
+          "start": 124.0,
+          "end": 124.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "M.",
+          "translations": {
+            "zh": "先生",
+            "en": "Mr.",
+            "es": "Sr."
+          },
+          "start": 124.0,
+          "end": 124.24
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "text": "Cloutier : Oui, le DES est obligatoire, y compris les mathématiques et la séquence Culture, société et technique de la 4 e secondaire.",
+      "translations": {
+        "zh": "Cloutier：是的，DES是必须的，包括数学和中学四年级的文化、社会与技术课程序列。",
+        "en": "Cloutier: Yes, the DES is mandatory, including mathematics and the Culture, Society and Technology sequence from Secondary 4.",
+        "es": "Cloutier: Sí, el DES es obligatorio, incluidas las matemáticas y la secuencia Cultura, sociedad y técnica del 4.º de secundaria."
+      },
+      "start": 124.88,
+      "end": 132.48,
+      "words": [
+        {
+          "text": "Cloutier",
+          "start": 124.88,
+          "end": 124.88
+        },
+        {
+          "text": "Oui",
+          "start": 124.88,
+          "end": 124.88
+        },
+        {
+          "text": "le",
+          "start": 124.88,
+          "end": 125.04
+        },
+        {
+          "text": "DES",
+          "start": 125.04,
+          "end": 125.28
+        },
+        {
+          "text": "est",
+          "start": 125.28,
+          "end": 125.6
+        },
+        {
+          "text": "obligatoire",
+          "start": 126.16,
+          "end": 126.24
+        },
+        {
+          "text": "y",
+          "start": 126.8,
+          "end": 126.8
+        },
+        {
+          "text": "compris",
+          "start": 126.88,
+          "end": 127.2
+        },
+        {
+          "text": "les",
+          "start": 127.2,
+          "end": 127.28
+        },
+        {
+          "text": "mathématiques",
+          "start": 127.28,
+          "end": 128.24
+        },
+        {
+          "text": "et",
+          "start": 128.32,
+          "end": 128.64
+        },
+        {
+          "text": "la",
+          "start": 128.64,
+          "end": 128.8
+        },
+        {
+          "text": "séquence",
+          "start": 128.8,
+          "end": 129.28
+        },
+        {
+          "text": "Culture",
+          "start": 129.28,
+          "end": 129.84
+        },
+        {
+          "text": "société",
+          "start": 129.84,
+          "end": 130.48
+        },
+        {
+          "text": "et",
+          "start": 130.56,
+          "end": 130.64
+        },
+        {
+          "text": "technique",
+          "start": 130.64,
+          "end": 131.28
+        },
+        {
+          "text": "de",
+          "start": 131.36,
+          "end": 131.44
+        },
+        {
+          "text": "la",
+          "start": 131.44,
+          "end": 131.52
+        },
+        {
+          "text": "4",
+          "start": 131.52,
+          "end": 131.92
+        },
+        {
+          "text": "e",
+          "start": 131.92,
+          "end": 131.92
+        },
+        {
+          "text": "secondaire",
+          "start": 131.92,
+          "end": 132.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Cloutier : Oui,",
+          "translations": {
+            "zh": "Cloutier：是的，",
+            "en": "Cloutier: Yes,",
+            "es": "Cloutier: Sí,"
+          },
+          "start": 124.88,
+          "end": 124.88
+        },
+        {
+          "text": "le DES est obligatoire,",
+          "translations": {
+            "zh": "DES是必须的，",
+            "en": "the DES is mandatory,",
+            "es": "el DES es obligatorio,"
+          },
+          "start": 124.88,
+          "end": 126.24
+        },
+        {
+          "text": "y compris les mathématiques et la séquence Culture, société et technique de la 4 e secondaire.",
+          "translations": {
+            "zh": "包括数学和中学四年级的文化、社会与技术课程序列。",
+            "en": "including mathematics and the Culture, Society and Technology sequence from Secondary 4.",
+            "es": "incluidas las matemáticas y la secuencia Cultura, sociedad y técnica del 4.º de secundaria."
+          },
+          "start": 126.8,
+          "end": 132.48
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "text": "Mais tu dois avoir tout ça, vu que tu es allé à l'université.",
+      "translations": {
+        "zh": "但你应该都有这些了，既然你上过大学。",
+        "en": "But you must have all of that, since you went to university.",
+        "es": "Pero debes tener todo eso, dado que fuiste a la universidad."
+      },
+      "start": 133.2,
+      "end": 135.52,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 133.2,
+          "end": 133.6
+        },
+        {
+          "text": "tu",
+          "start": 133.6,
+          "end": 133.76
+        },
+        {
+          "text": "dois",
+          "start": 133.76,
+          "end": 133.92
+        },
+        {
+          "text": "avoir",
+          "start": 133.92,
+          "end": 134.08
+        },
+        {
+          "text": "tout",
+          "start": 134.08,
+          "end": 134.24
+        },
+        {
+          "text": "ça",
+          "start": 134.24,
+          "end": 134.4
+        },
+        {
+          "text": "vu",
+          "start": 134.4,
+          "end": 134.48
+        },
+        {
+          "text": "que",
+          "start": 134.48,
+          "end": 134.56
+        },
+        {
+          "text": "tu",
+          "start": 134.56,
+          "end": 134.64
+        },
+        {
+          "text": "es",
+          "start": 134.64,
+          "end": 134.72
+        },
+        {
+          "text": "allé",
+          "start": 134.72,
+          "end": 134.88
+        },
+        {
+          "text": "à",
+          "start": 134.88,
+          "end": 134.88
+        },
+        {
+          "text": "l'université",
+          "start": 134.88,
+          "end": 135.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais tu dois avoir tout ça,",
+          "translations": {
+            "zh": "但你应该都有这些了，",
+            "en": "But you must have all of that,",
+            "es": "Pero debes tener todo eso,"
+          },
+          "start": 133.2,
+          "end": 134.4
+        },
+        {
+          "text": "vu que tu es allé à l'université.",
+          "translations": {
+            "zh": "既然你上过大学。",
+            "en": "since you went to university.",
+            "es": "dado que fuiste a la universidad."
+          },
+          "start": 134.4,
+          "end": 135.52
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "text": "C'est essentiel que tu fasses la vérification, par contre !",
+      "translations": {
+        "zh": "不过，你必须去核实一下！",
+        "en": "It is essential that you verify it, though!",
+        "es": "¡Es esencial que hagas la verificación, sin embargo!"
+      },
+      "start": 136.4,
+      "end": 138.72,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 136.4,
+          "end": 136.56
+        },
+        {
+          "text": "essentiel",
+          "start": 136.56,
+          "end": 136.96
+        },
+        {
+          "text": "que",
+          "start": 137.04,
+          "end": 137.12
+        },
+        {
+          "text": "tu",
+          "start": 137.12,
+          "end": 137.2
+        },
+        {
+          "text": "fasses",
+          "start": 137.2,
+          "end": 137.44
+        },
+        {
+          "text": "la",
+          "start": 137.44,
+          "end": 137.52
+        },
+        {
+          "text": "vérification",
+          "start": 137.52,
+          "end": 138.16
+        },
+        {
+          "text": "par",
+          "start": 138.16,
+          "end": 138.32
+        },
+        {
+          "text": "contre",
+          "start": 138.32,
+          "end": 138.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est essentiel que tu fasses la vérification,",
+          "translations": {
+            "zh": "你必须去核实一下，",
+            "en": "It is essential that you verify it,",
+            "es": "Es esencial que hagas la verificación,"
+          },
+          "start": 136.4,
+          "end": 138.16
+        },
+        {
+          "text": "par contre !",
+          "translations": {
+            "zh": "不过！",
+            "en": "though!",
+            "es": "¡sin embargo!"
+          },
+          "start": 138.16,
+          "end": 138.72
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "text": "Je le ferai !",
+      "translations": {
+        "zh": "我会的！",
+        "en": "I will!",
+        "es": "¡Lo haré!"
+      },
+      "start": 139.28,
+      "end": 139.84,
+      "words": [
+        {
+          "text": "Je",
+          "start": 139.28,
+          "end": 139.44
+        },
+        {
+          "text": "le",
+          "start": 139.44,
+          "end": 139.44
+        },
+        {
+          "text": "ferai",
+          "start": 139.52,
+          "end": 139.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je le ferai !",
+          "translations": {
+            "zh": "我会的！",
+            "en": "I will!",
+            "es": "¡Lo haré!"
+          },
+          "start": 139.28,
+          "end": 139.84
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "text": "Et l'inscription, elle se fait en ligne ?",
+      "translations": {
+        "zh": "那注册是在网上进行的吗？",
+        "en": "And the registration, is it done online?",
+        "es": "¿Y la inscripción, se hace en línea?"
+      },
+      "start": 140.8,
+      "end": 142.24,
+      "words": [
+        {
+          "text": "Et",
+          "start": 140.8,
+          "end": 140.88
+        },
+        {
+          "text": "l'inscription",
+          "start": 140.88,
+          "end": 141.52
+        },
+        {
+          "text": "elle",
+          "start": 141.52,
+          "end": 141.6
+        },
+        {
+          "text": "se",
+          "start": 141.6,
+          "end": 141.76
+        },
+        {
+          "text": "fait",
+          "start": 141.76,
+          "end": 141.84
+        },
+        {
+          "text": "en",
+          "start": 141.84,
+          "end": 142.0
+        },
+        {
+          "text": "ligne",
+          "start": 142.0,
+          "end": 142.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et l'inscription,",
+          "translations": {
+            "zh": "那注册，",
+            "en": "And the registration,",
+            "es": "¿Y la inscripción,"
+          },
+          "start": 140.8,
+          "end": 141.52
+        },
+        {
+          "text": "elle se fait en ligne ?",
+          "translations": {
+            "zh": "是在网上进行的吗？",
+            "en": "is it done online?",
+            "es": "se hace en línea?"
+          },
+          "start": 141.52,
+          "end": 142.24
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "text": "Est-ce que le programme est contingenté ?",
+      "translations": {
+        "zh": "该项目有人数限制吗？",
+        "en": "Is the program limited in capacity?",
+        "es": "¿El programa tiene cupo limitado?"
+      },
+      "start": 142.88,
+      "end": 144.32,
+      "words": [
+        {
+          "text": "Est",
+          "start": 142.88,
+          "end": 142.96
+        },
+        {
+          "text": "ce",
+          "start": 142.96,
+          "end": 143.12
+        },
+        {
+          "text": "que",
+          "start": 143.12,
+          "end": 143.12
+        },
+        {
+          "text": "le",
+          "start": 143.12,
+          "end": 143.2
+        },
+        {
+          "text": "programme",
+          "start": 143.2,
+          "end": 143.6
+        },
+        {
+          "text": "est",
+          "start": 143.6,
+          "end": 143.6
+        },
+        {
+          "text": "contingenté",
+          "start": 143.6,
+          "end": 144.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que le programme est contingenté ?",
+          "translations": {
+            "zh": "该项目有人数限制吗？",
+            "en": "Is the program limited in capacity?",
+            "es": "¿El programa tiene cupo limitado?"
+          },
+          "start": 142.88,
+          "end": 144.32
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "text": "M.",
+      "translations": {
+        "zh": "先生",
+        "en": "Mr.",
+        "es": "Sr."
+      },
+      "start": 145.12,
+      "end": 145.44,
+      "words": [
+        {
+          "text": "M",
+          "start": 145.12,
+          "end": 145.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "M.",
+          "translations": {
+            "zh": "先生",
+            "en": "Mr.",
+            "es": "Sr."
+          },
+          "start": 145.12,
+          "end": 145.44
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "text": "Cloutier : Non, il n'est pas contingenté, et oui, il faut que tu t'inscrives en ligne, et aussi que tu fournisses tous les documents requis.",
+      "translations": {
+        "zh": "Cloutier：没有，它没有人数限制，是的，你需要在网上注册，并且提供所有要求的文件。",
+        "en": "Cloutier: No, it is not limited in capacity, and yes, you must register online, and also provide all the required documents.",
+        "es": "Cloutier: No, no tiene cupo limitado, y sí, tienes que inscribirte en línea, y también que proporciones todos los documentos requeridos."
+      },
+      "start": 145.92,
+      "end": 153.2,
+      "words": [
+        {
+          "text": "Cloutier",
+          "start": 145.92,
+          "end": 145.92
+        },
+        {
+          "text": "Non",
+          "start": 145.92,
+          "end": 145.92
+        },
+        {
+          "text": "il",
+          "start": 145.92,
+          "end": 146.16
+        },
+        {
+          "text": "n'est",
+          "start": 146.16,
+          "end": 146.24
+        },
+        {
+          "text": "pas",
+          "start": 146.24,
+          "end": 146.4
+        },
+        {
+          "text": "contingenté",
+          "start": 146.4,
+          "end": 147.28
+        },
+        {
+          "text": "et",
+          "start": 147.44,
+          "end": 147.76
+        },
+        {
+          "text": "oui",
+          "start": 147.76,
+          "end": 148.08
+        },
+        {
+          "text": "il",
+          "start": 148.24,
+          "end": 148.32
+        },
+        {
+          "text": "faut",
+          "start": 148.32,
+          "end": 148.48
+        },
+        {
+          "text": "que",
+          "start": 148.48,
+          "end": 148.56
+        },
+        {
+          "text": "tu",
+          "start": 148.56,
+          "end": 148.64
+        },
+        {
+          "text": "t'inscrives",
+          "start": 148.64,
+          "end": 149.04
+        },
+        {
+          "text": "en",
+          "start": 149.04,
+          "end": 149.12
+        },
+        {
+          "text": "ligne",
+          "start": 149.12,
+          "end": 149.44
+        },
+        {
+          "text": "et",
+          "start": 149.92,
+          "end": 150.4
+        },
+        {
+          "text": "aussi",
+          "start": 150.8,
+          "end": 151.28
+        },
+        {
+          "text": "que",
+          "start": 151.28,
+          "end": 151.52
+        },
+        {
+          "text": "tu",
+          "start": 151.52,
+          "end": 151.76
+        },
+        {
+          "text": "fournisses",
+          "start": 151.76,
+          "end": 152.24
+        },
+        {
+          "text": "tous",
+          "start": 152.24,
+          "end": 152.32
+        },
+        {
+          "text": "les",
+          "start": 152.32,
+          "end": 152.4
+        },
+        {
+          "text": "documents",
+          "start": 152.4,
+          "end": 152.8
+        },
+        {
+          "text": "requis",
+          "start": 152.8,
+          "end": 153.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Cloutier : Non,",
+          "translations": {
+            "zh": "Cloutier：没有，",
+            "en": "Cloutier: No,",
+            "es": "Cloutier: No,"
+          },
+          "start": 145.92,
+          "end": 145.92
+        },
+        {
+          "text": "il n'est pas contingenté,",
+          "translations": {
+            "zh": "它没有人数限制，",
+            "en": "it is not limited in capacity,",
+            "es": "no tiene cupo limitado,"
+          },
+          "start": 145.92,
+          "end": 147.28
+        },
+        {
+          "text": "et oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "and yes,",
+            "es": "y sí,"
+          },
+          "start": 147.44,
+          "end": 148.08
+        },
+        {
+          "text": "il faut que tu t'inscrives en ligne,",
+          "translations": {
+            "zh": "你需要在网上注册，",
+            "en": "you must register online,",
+            "es": "tienes que inscribirte en línea,"
+          },
+          "start": 148.24,
+          "end": 149.44
+        },
+        {
+          "text": "et aussi que tu fournisses tous les documents requis.",
+          "translations": {
+            "zh": "并且提供所有要求的文件。",
+            "en": "and also provide all the required documents.",
+            "es": "y también que proporciones todos los documentos requeridos."
+          },
+          "start": 149.92,
+          "end": 153.2
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "text": "Avant de commencer tes démarches, assure-toi que tu as tous les documents.",
+      "translations": {
+        "zh": "在开始办理手续之前，确保你有所有的文件。",
+        "en": "Before starting your procedures, make sure you have all the documents.",
+        "es": "Antes de comenzar tus trámites, asegúrate de que tienes todos los documentos."
+      },
+      "start": 153.84,
+      "end": 156.96,
+      "words": [
+        {
+          "text": "Avant",
+          "start": 153.84,
+          "end": 154.08
+        },
+        {
+          "text": "de",
+          "start": 154.08,
+          "end": 154.16
+        },
+        {
+          "text": "commencer",
+          "start": 154.16,
+          "end": 154.48
+        },
+        {
+          "text": "tes",
+          "start": 154.48,
+          "end": 154.64
+        },
+        {
+          "text": "démarches",
+          "start": 154.64,
+          "end": 155.12
+        },
+        {
+          "text": "assure",
+          "start": 155.44,
+          "end": 155.76
+        },
+        {
+          "text": "toi",
+          "start": 155.76,
+          "end": 155.92
+        },
+        {
+          "text": "que",
+          "start": 155.92,
+          "end": 156.0
+        },
+        {
+          "text": "tu",
+          "start": 156.0,
+          "end": 156.16
+        },
+        {
+          "text": "as",
+          "start": 156.16,
+          "end": 156.24
+        },
+        {
+          "text": "tous",
+          "start": 156.32,
+          "end": 156.4
+        },
+        {
+          "text": "les",
+          "start": 156.4,
+          "end": 156.56
+        },
+        {
+          "text": "documents",
+          "start": 156.56,
+          "end": 156.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Avant de commencer tes démarches,",
+          "translations": {
+            "zh": "在开始办理手续之前，",
+            "en": "Before starting your procedures,",
+            "es": "Antes de comenzar tus trámites,"
+          },
+          "start": 153.84,
+          "end": 155.12
+        },
+        {
+          "text": "assure-toi que tu as tous les documents.",
+          "translations": {
+            "zh": "确保你有所有的文件。",
+            "en": "make sure you have all the documents.",
+            "es": "asegúrate de que tienes todos los documentos."
+          },
+          "start": 155.44,
+          "end": 156.96
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "text": "Sinon, va les chercher.",
+      "translations": {
+        "zh": "如果没有，去把它们取来。",
+        "en": "Otherwise, go get them.",
+        "es": "Si no, ve a buscarlos."
+      },
+      "start": 157.36,
+      "end": 158.56,
+      "words": [
+        {
+          "text": "Sinon",
+          "start": 157.36,
+          "end": 157.84
+        },
+        {
+          "text": "va",
+          "start": 157.84,
+          "end": 157.92
+        },
+        {
+          "text": "les",
+          "start": 157.92,
+          "end": 158.08
+        },
+        {
+          "text": "chercher",
+          "start": 158.08,
+          "end": 158.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Sinon,",
+          "translations": {
+            "zh": "如果没有，",
+            "en": "Otherwise,",
+            "es": "Si no,"
+          },
+          "start": 157.36,
+          "end": 157.84
+        },
+        {
+          "text": "va les chercher.",
+          "translations": {
+            "zh": "去把它们取来。",
+            "en": "go get them.",
+            "es": "ve a buscarlos."
+          },
+          "start": 157.84,
+          "end": 158.56
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "text": "Après ça, tu pourras monter ton dossier de candidature à temps pour la date limite d'inscription.",
+      "translations": {
+        "zh": "之后，你就可以在报名截止日期前及时准备好你的申请材料。",
+        "en": "After that, you will be able to put together your application file in time for the registration deadline.",
+        "es": "Después de eso, podrás armar tu expediente de candidatura a tiempo para la fecha límite de inscripción."
+      },
+      "start": 159.12,
+      "end": 163.12,
+      "words": [
+        {
+          "text": "Après",
+          "start": 159.12,
+          "end": 159.44
+        },
+        {
+          "text": "ça",
+          "start": 159.44,
+          "end": 159.68
+        },
+        {
+          "text": "tu",
+          "start": 159.68,
+          "end": 159.84
+        },
+        {
+          "text": "pourras",
+          "start": 159.84,
+          "end": 160.0
+        },
+        {
+          "text": "monter",
+          "start": 160.0,
+          "end": 160.32
+        },
+        {
+          "text": "ton",
+          "start": 160.32,
+          "end": 160.48
+        },
+        {
+          "text": "dossier",
+          "start": 160.48,
+          "end": 160.72
+        },
+        {
+          "text": "de",
+          "start": 160.72,
+          "end": 160.8
+        },
+        {
+          "text": "candidature",
+          "start": 160.8,
+          "end": 161.44
+        },
+        {
+          "text": "à",
+          "start": 161.44,
+          "end": 161.52
+        },
+        {
+          "text": "temps",
+          "start": 161.52,
+          "end": 161.76
+        },
+        {
+          "text": "pour",
+          "start": 162.0,
+          "end": 162.08
+        },
+        {
+          "text": "la",
+          "start": 162.08,
+          "end": 162.16
+        },
+        {
+          "text": "date",
+          "start": 162.16,
+          "end": 162.4
+        },
+        {
+          "text": "limite",
+          "start": 162.4,
+          "end": 162.56
+        },
+        {
+          "text": "d'inscription",
+          "start": 162.56,
+          "end": 163.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Après ça,",
+          "translations": {
+            "zh": "之后，",
+            "en": "After that,",
+            "es": "Después de eso,"
+          },
+          "start": 159.12,
+          "end": 159.68
+        },
+        {
+          "text": "tu pourras monter ton dossier de candidature à temps pour la date limite d'inscription.",
+          "translations": {
+            "zh": "你就可以在报名截止日期前及时准备好你的申请材料。",
+            "en": "you will be able to put together your application file in time for the registration deadline.",
+            "es": "podrás armar tu expediente de candidatura a tiempo para la fecha límite de inscripción."
+          },
+          "start": 159.68,
+          "end": 163.12
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "text": "C'est quoi, la date limite ?",
+      "translations": {
+        "zh": "截止日期是什么时候？",
+        "en": "What is the deadline?",
+        "es": "¿Cuál es la fecha límite?"
+      },
+      "start": 163.76,
+      "end": 165.12,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 163.76,
+          "end": 164.0
+        },
+        {
+          "text": "quoi",
+          "start": 164.0,
+          "end": 164.4
+        },
+        {
+          "text": "la",
+          "start": 164.4,
+          "end": 164.56
+        },
+        {
+          "text": "date",
+          "start": 164.56,
+          "end": 164.8
+        },
+        {
+          "text": "limite",
+          "start": 164.8,
+          "end": 165.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est quoi,",
+          "translations": {
+            "zh": "是什么，",
+            "en": "What is",
+            "es": "¿Qué es,"
+          },
+          "start": 163.76,
+          "end": 164.4
+        },
+        {
+          "text": "la date limite ?",
+          "translations": {
+            "zh": "截止日期？",
+            "en": "the deadline?",
+            "es": "la fecha límite?"
+          },
+          "start": 164.4,
+          "end": 165.12
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "text": "M.",
+      "translations": {
+        "zh": "先生",
+        "en": "Mr.",
+        "es": "Sr."
+      },
+      "start": 165.84,
+      "end": 165.84,
+      "words": [
+        {
+          "text": "M",
+          "start": 165.84,
+          "end": 165.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "M.",
+          "translations": {
+            "zh": "先生",
+            "en": "Mr.",
+            "es": "Sr."
+          },
+          "start": 165.84,
+          "end": 165.84
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "text": "Cloutier : Pour la session d'hiver, c'est le 1 er novembre.",
+      "translations": {
+        "zh": "Cloutier：冬季学期是11月1日。",
+        "en": "Cloutier: For the winter semester, it is November 1st.",
+        "es": "Cloutier: Para la sesión de invierno, es el 1 de noviembre."
+      },
+      "start": 165.84,
+      "end": 167.84,
+      "words": [
+        {
+          "text": "Cloutier",
+          "start": 165.84,
+          "end": 165.84
+        },
+        {
+          "text": "Pour",
+          "start": 165.888,
+          "end": 165.936
+        },
+        {
+          "text": "la",
+          "start": 165.984,
+          "end": 166.032
+        },
+        {
+          "text": "session",
+          "start": 166.08,
+          "end": 166.4
+        },
+        {
+          "text": "d'hiver",
+          "start": 166.4,
+          "end": 166.8
+        },
+        {
+          "text": "c'est",
+          "start": 166.8,
+          "end": 166.96
+        },
+        {
+          "text": "le",
+          "start": 166.96,
+          "end": 167.04
+        },
+        {
+          "text": "1",
+          "start": 167.04,
+          "end": 167.44
+        },
+        {
+          "text": "er",
+          "start": 167.44,
+          "end": 167.44
+        },
+        {
+          "text": "novembre",
+          "start": 167.44,
+          "end": 167.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Cloutier : Pour la session d'hiver,",
+          "translations": {
+            "zh": "Cloutier：冬季学期，",
+            "en": "Cloutier: For the winter semester,",
+            "es": "Cloutier: Para la sesión de invierno,"
+          },
+          "start": 165.84,
+          "end": 166.8
+        },
+        {
+          "text": "c'est le 1 er novembre.",
+          "translations": {
+            "zh": "是11月1日。",
+            "en": "it is November 1st.",
+            "es": "es el 1 de noviembre."
+          },
+          "start": 166.8,
+          "end": 167.84
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "text": "Est-ce que je pourrais aller visiter le cégep et les locaux où se donnent les cours ?",
+      "translations": {
+        "zh": "我可以去参观CEGEP和上课的教室吗？",
+        "en": "Could I go visit the CEGEP and the rooms where the classes are held?",
+        "es": "¿Podría ir a visitar el cégep y las aulas donde se imparten los cursos?"
+      },
+      "start": 168.48,
+      "end": 172.0,
+      "words": [
+        {
+          "text": "Est",
+          "start": 168.48,
+          "end": 168.56
+        },
+        {
+          "text": "ce",
+          "start": 168.56,
+          "end": 168.8
+        },
+        {
+          "text": "que",
+          "start": 168.96,
+          "end": 169.04
+        },
+        {
+          "text": "je",
+          "start": 169.04,
+          "end": 169.12
+        },
+        {
+          "text": "pourrais",
+          "start": 169.2,
+          "end": 169.52
+        },
+        {
+          "text": "aller",
+          "start": 169.52,
+          "end": 169.68
+        },
+        {
+          "text": "visiter",
+          "start": 169.68,
+          "end": 170.0
+        },
+        {
+          "text": "le",
+          "start": 170.0,
+          "end": 170.08
+        },
+        {
+          "text": "cégep",
+          "start": 170.08,
+          "end": 170.56
+        },
+        {
+          "text": "et",
+          "start": 170.56,
+          "end": 170.56
+        },
+        {
+          "text": "les",
+          "start": 170.64,
+          "end": 170.8
+        },
+        {
+          "text": "locaux",
+          "start": 170.8,
+          "end": 171.12
+        },
+        {
+          "text": "où",
+          "start": 171.12,
+          "end": 171.2
+        },
+        {
+          "text": "se",
+          "start": 171.2,
+          "end": 171.28
+        },
+        {
+          "text": "donnent",
+          "start": 171.28,
+          "end": 171.44
+        },
+        {
+          "text": "les",
+          "start": 171.44,
+          "end": 171.52
+        },
+        {
+          "text": "cours",
+          "start": 171.52,
+          "end": 172.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que je pourrais aller visiter le cégep",
+          "translations": {
+            "zh": "我可以去参观CEGEP",
+            "en": "Could I go visit the CEGEP",
+            "es": "¿Podría ir a visitar el cégep"
+          },
+          "start": 168.48,
+          "end": 170.56
+        },
+        {
+          "text": "et les locaux où se donnent les cours ?",
+          "translations": {
+            "zh": "和上课的教室吗？",
+            "en": "and the rooms where the classes are held?",
+            "es": "y las aulas donde se imparten los cursos?"
+          },
+          "start": 170.56,
+          "end": 172.0
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "text": "M.",
+      "translations": {
+        "zh": "先生",
+        "en": "Mr.",
+        "es": "Sr."
+      },
+      "start": 172.56,
+      "end": 172.64,
+      "words": [
+        {
+          "text": "M",
+          "start": 172.56,
+          "end": 172.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "M.",
+          "translations": {
+            "zh": "先生",
+            "en": "Mr.",
+            "es": "Sr."
+          },
+          "start": 172.56,
+          "end": 172.64
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "text": "Cloutier : On n'a pas de journée \" Portes ouvertes \" prévue bientôt, mais tu pourrais passer, je te ferai visiter.",
+      "translations": {
+        "zh": "Cloutier：我们近期没有安排「开放日」，但你可以过来，我带你参观。",
+        "en": "Cloutier: We don't have an \"Open House\" day planned soon, but you could drop by, I will give you a tour.",
+        "es": "Cloutier: No tenemos una jornada de \"Puertas abiertas\" prevista pronto, pero podrías pasar, te mostraré."
+      },
+      "start": 172.64,
+      "end": 177.52,
+      "words": [
+        {
+          "text": "Cloutier",
+          "start": 172.64,
+          "end": 172.64
+        },
+        {
+          "text": "On",
+          "start": 172.64,
+          "end": 172.64
+        },
+        {
+          "text": "n'a",
+          "start": 172.64,
+          "end": 172.72
+        },
+        {
+          "text": "pas",
+          "start": 172.72,
+          "end": 172.88
+        },
+        {
+          "text": "de",
+          "start": 172.88,
+          "end": 172.96
+        },
+        {
+          "text": "journée",
+          "start": 172.96,
+          "end": 173.2
+        },
+        {
+          "text": "Portes",
+          "start": 173.2,
+          "end": 173.52
+        },
+        {
+          "text": "ouvertes",
+          "start": 173.52,
+          "end": 173.84
+        },
+        {
+          "text": "prévue",
+          "start": 173.84,
+          "end": 174.16
+        },
+        {
+          "text": "bientôt",
+          "start": 174.16,
+          "end": 174.72
+        },
+        {
+          "text": "mais",
+          "start": 174.8,
+          "end": 175.2
+        },
+        {
+          "text": "tu",
+          "start": 175.52,
+          "end": 175.6
+        },
+        {
+          "text": "pourrais",
+          "start": 175.6,
+          "end": 175.84
+        },
+        {
+          "text": "passer",
+          "start": 175.84,
+          "end": 176.24
+        },
+        {
+          "text": "je",
+          "start": 176.8,
+          "end": 176.8
+        },
+        {
+          "text": "te",
+          "start": 176.88,
+          "end": 176.96
+        },
+        {
+          "text": "ferai",
+          "start": 176.96,
+          "end": 177.12
+        },
+        {
+          "text": "visiter",
+          "start": 177.12,
+          "end": 177.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Cloutier : On n'a pas de journée \" Portes ouvertes \" prévue bientôt,",
+          "translations": {
+            "zh": "Cloutier：我们近期没有安排「开放日」，",
+            "en": "Cloutier: We don't have an \"Open House\" day planned soon,",
+            "es": "Cloutier: No tenemos una jornada de \"Puertas abiertas\" prevista pronto,"
+          },
+          "start": 172.64,
+          "end": 174.72
+        },
+        {
+          "text": "mais tu pourrais passer,",
+          "translations": {
+            "zh": "但你可以过来，",
+            "en": "but you could drop by,",
+            "es": "pero podrías pasar,"
+          },
+          "start": 174.8,
+          "end": 176.24
+        },
+        {
+          "text": "je te ferai visiter.",
+          "translations": {
+            "zh": "我带你参观。",
+            "en": "I will give you a tour.",
+            "es": "te mostraré."
+          },
+          "start": 176.8,
+          "end": 177.52
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "text": "Avant de venir, tu devrais parler avec notre conseiller pédagogique, il pourrait vérifier avec toi si tu as les préalables.",
+      "translations": {
+        "zh": "在来之前，你应该和我们的学业顾问谈谈，他可以和你一起核实你是否具备先修条件。",
+        "en": "Before coming, you should speak with our academic advisor, he could verify with you if you have the prerequisites.",
+        "es": "Antes de venir, deberías hablar con nuestro consejero pedagógico, podría verificar contigo si tienes los requisitos previos."
+      },
+      "start": 178.24,
+      "end": 184.56,
+      "words": [
+        {
+          "text": "Avant",
+          "start": 178.24,
+          "end": 178.4
+        },
+        {
+          "text": "de",
+          "start": 178.4,
+          "end": 178.48
+        },
+        {
+          "text": "venir",
+          "start": 178.48,
+          "end": 178.96
+        },
+        {
+          "text": "tu",
+          "start": 179.44,
+          "end": 179.52
+        },
+        {
+          "text": "devrais",
+          "start": 179.52,
+          "end": 179.76
+        },
+        {
+          "text": "parler",
+          "start": 179.76,
+          "end": 180.16
+        },
+        {
+          "text": "avec",
+          "start": 180.16,
+          "end": 180.4
+        },
+        {
+          "text": "notre",
+          "start": 180.4,
+          "end": 180.64
+        },
+        {
+          "text": "conseiller",
+          "start": 180.64,
+          "end": 181.04
+        },
+        {
+          "text": "pédagogique",
+          "start": 181.04,
+          "end": 181.84
+        },
+        {
+          "text": "il",
+          "start": 182.32,
+          "end": 182.4
+        },
+        {
+          "text": "pourrait",
+          "start": 182.4,
+          "end": 182.64
+        },
+        {
+          "text": "vérifier",
+          "start": 182.64,
+          "end": 182.96
+        },
+        {
+          "text": "avec",
+          "start": 182.96,
+          "end": 183.2
+        },
+        {
+          "text": "toi",
+          "start": 183.2,
+          "end": 183.44
+        },
+        {
+          "text": "si",
+          "start": 183.44,
+          "end": 183.68
+        },
+        {
+          "text": "tu",
+          "start": 183.68,
+          "end": 183.76
+        },
+        {
+          "text": "as",
+          "start": 183.76,
+          "end": 183.84
+        },
+        {
+          "text": "les",
+          "start": 183.84,
+          "end": 183.92
+        },
+        {
+          "text": "préalables",
+          "start": 183.92,
+          "end": 184.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Avant de venir,",
+          "translations": {
+            "zh": "在来之前，",
+            "en": "Before coming,",
+            "es": "Antes de venir,"
+          },
+          "start": 178.24,
+          "end": 178.96
+        },
+        {
+          "text": "tu devrais parler avec notre conseiller pédagogique,",
+          "translations": {
+            "zh": "你应该和我们的学业顾问谈谈，",
+            "en": "you should speak with our academic advisor,",
+            "es": "deberías hablar con nuestro consejero pedagógico,"
+          },
+          "start": 179.44,
+          "end": 181.84
+        },
+        {
+          "text": "il pourrait vérifier avec toi si tu as les préalables.",
+          "translations": {
+            "zh": "他可以和你一起核实你是否具备先修条件。",
+            "en": "he could verify with you if you have the prerequisites.",
+            "es": "podría verificar contigo si tienes los requisitos previos."
+          },
+          "start": 182.32,
+          "end": 184.56
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "text": "Après ça, appelle-moi et on prendra un rendez- vous pour une visite.",
+      "translations": {
+        "zh": "之后，给我打电话，我们约个时间参观。",
+        "en": "After that, call me and we will set up an appointment for a visit.",
+        "es": "Después de eso, llámame y programaremos una cita para una visita."
+      },
+      "start": 185.44,
+      "end": 189.2,
+      "words": [
+        {
+          "text": "Après",
+          "start": 185.44,
+          "end": 185.68
+        },
+        {
+          "text": "ça",
+          "start": 185.68,
+          "end": 186.08
+        },
+        {
+          "text": "appelle",
+          "start": 186.48,
+          "end": 186.72
+        },
+        {
+          "text": "moi",
+          "start": 186.72,
+          "end": 187.12
+        },
+        {
+          "text": "et",
+          "start": 187.44,
+          "end": 187.52
+        },
+        {
+          "text": "on",
+          "start": 187.52,
+          "end": 187.6
+        },
+        {
+          "text": "prendra",
+          "start": 187.6,
+          "end": 187.92
+        },
+        {
+          "text": "un",
+          "start": 187.92,
+          "end": 188.08
+        },
+        {
+          "text": "rendez",
+          "start": 188.08,
+          "end": 188.24
+        },
+        {
+          "text": "vous",
+          "start": 188.24,
+          "end": 188.4
+        },
+        {
+          "text": "pour",
+          "start": 188.4,
+          "end": 188.64
+        },
+        {
+          "text": "une",
+          "start": 188.64,
+          "end": 188.64
+        },
+        {
+          "text": "visite",
+          "start": 188.64,
+          "end": 189.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Après ça,",
+          "translations": {
+            "zh": "之后，",
+            "en": "After that,",
+            "es": "Después de eso,"
+          },
+          "start": 185.44,
+          "end": 186.08
+        },
+        {
+          "text": "appelle-moi et on prendra un rendez- vous pour une visite.",
+          "translations": {
+            "zh": "给我打电话，我们约个时间参观。",
+            "en": "call me and we will set up an appointment for a visit.",
+            "es": "llámame y programaremos una cita para una visita."
+          },
+          "start": 186.48,
+          "end": 189.2
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "text": "Et va voir notre site Web, tu trouveras toutes les infos sur les préalables, les stages à faire, les cours, et même quelques photos des locaux !",
+      "translations": {
+        "zh": "还有去看看我们的网站，你会找到关于先修条件、要做的实习、课程的所有信息，甚至还有一些教室的照片！",
+        "en": "And go check out our website, you will find all the information about the prerequisites, the internships to do, the courses, and even some photos of the rooms!",
+        "es": "Y ve a ver nuestro sitio web, encontrarás toda la información sobre los requisitos previos, las prácticas que hacer, los cursos, ¡e incluso algunas fotos de las aulas!"
+      },
+      "start": 189.76,
+      "end": 198.32,
+      "words": [
+        {
+          "text": "Et",
+          "start": 189.76,
+          "end": 190.0
+        },
+        {
+          "text": "va",
+          "start": 190.4,
+          "end": 190.48
+        },
+        {
+          "text": "voir",
+          "start": 190.48,
+          "end": 190.64
+        },
+        {
+          "text": "notre",
+          "start": 190.64,
+          "end": 190.88
+        },
+        {
+          "text": "site",
+          "start": 190.88,
+          "end": 191.12
+        },
+        {
+          "text": "Web",
+          "start": 191.12,
+          "end": 191.44
+        },
+        {
+          "text": "tu",
+          "start": 192.08,
+          "end": 192.24
+        },
+        {
+          "text": "trouveras",
+          "start": 192.24,
+          "end": 192.56
+        },
+        {
+          "text": "toutes",
+          "start": 192.56,
+          "end": 192.88
+        },
+        {
+          "text": "les",
+          "start": 192.88,
+          "end": 192.96
+        },
+        {
+          "text": "infos",
+          "start": 192.96,
+          "end": 193.36
+        },
+        {
+          "text": "sur",
+          "start": 193.36,
+          "end": 193.52
+        },
+        {
+          "text": "les",
+          "start": 193.52,
+          "end": 193.6
+        },
+        {
+          "text": "préalables",
+          "start": 193.6,
+          "end": 194.32
+        },
+        {
+          "text": "les",
+          "start": 194.56,
+          "end": 194.64
+        },
+        {
+          "text": "stages",
+          "start": 194.64,
+          "end": 195.04
+        },
+        {
+          "text": "à",
+          "start": 195.04,
+          "end": 195.04
+        },
+        {
+          "text": "faire",
+          "start": 195.04,
+          "end": 195.6
+        },
+        {
+          "text": "les",
+          "start": 195.76,
+          "end": 195.92
+        },
+        {
+          "text": "cours",
+          "start": 195.92,
+          "end": 196.32
+        },
+        {
+          "text": "et",
+          "start": 196.8,
+          "end": 197.12
+        },
+        {
+          "text": "même",
+          "start": 197.2,
+          "end": 197.36
+        },
+        {
+          "text": "quelques",
+          "start": 197.36,
+          "end": 197.68
+        },
+        {
+          "text": "photos",
+          "start": 197.68,
+          "end": 198.0
+        },
+        {
+          "text": "des",
+          "start": 198.0,
+          "end": 198.08
+        },
+        {
+          "text": "locaux",
+          "start": 198.08,
+          "end": 198.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et va voir notre site Web,",
+          "translations": {
+            "zh": "还有去看看我们的网站，",
+            "en": "And go check out our website,",
+            "es": "Y ve a ver nuestro sitio web,"
+          },
+          "start": 189.76,
+          "end": 191.44
+        },
+        {
+          "text": "tu trouveras toutes les infos sur les préalables,",
+          "translations": {
+            "zh": "你会找到关于先修条件的所有信息，",
+            "en": "you will find all the information about the prerequisites,",
+            "es": "encontrarás toda la información sobre los requisitos previos,"
+          },
+          "start": 192.08,
+          "end": 194.32
+        },
+        {
+          "text": "les stages à faire,",
+          "translations": {
+            "zh": "要做的实习，",
+            "en": "the internships to do,",
+            "es": "las prácticas que hacer,"
+          },
+          "start": 194.56,
+          "end": 195.6
+        },
+        {
+          "text": "les cours,",
+          "translations": {
+            "zh": "课程，",
+            "en": "the courses,",
+            "es": "los cursos,"
+          },
+          "start": 195.76,
+          "end": 196.32
+        },
+        {
+          "text": "et même quelques photos des locaux !",
+          "translations": {
+            "zh": "甚至还有一些教室的照片！",
+            "en": "and even some photos of the rooms!",
+            "es": "¡e incluso algunas fotos de las aulas!"
+          },
+          "start": 196.8,
+          "end": 198.32
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "text": "C'est parfait, merci pour votre temps !",
+      "translations": {
+        "zh": "太好了，感谢您的时间！",
+        "en": "That's perfect, thank you for your time!",
+        "es": "Es perfecto, ¡gracias por su tiempo!"
+      },
+      "start": 198.96,
+      "end": 201.04,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 198.96,
+          "end": 199.2
+        },
+        {
+          "text": "parfait",
+          "start": 199.2,
+          "end": 199.68
+        },
+        {
+          "text": "merci",
+          "start": 200.16,
+          "end": 200.48
+        },
+        {
+          "text": "pour",
+          "start": 200.48,
+          "end": 200.56
+        },
+        {
+          "text": "votre",
+          "start": 200.56,
+          "end": 200.8
+        },
+        {
+          "text": "temps",
+          "start": 200.8,
+          "end": 201.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est parfait,",
+          "translations": {
+            "zh": "太好了，",
+            "en": "That's perfect,",
+            "es": "Es perfecto,"
+          },
+          "start": 198.96,
+          "end": 199.68
+        },
+        {
+          "text": "merci pour votre temps !",
+          "translations": {
+            "zh": "感谢您的时间！",
+            "en": "thank you for your time!",
+            "es": "¡gracias por su tiempo!"
+          },
+          "start": 200.16,
+          "end": 201.04
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP19_P41",
+  "audio_filename": "FLS2_EP19_P41.mp3",
+  "audio_path": "downloads/FLS2_EP19_P41.mp3",
+  "episode": 19,
+  "piste": 41,
+  "page": 148,
+  "cd": "CD2"
+}

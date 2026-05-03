@@ -1,0 +1,1511 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 15 Piste 31 Page 116",
+      "translations": {
+        "zh": "第15集 第31轨 第116页",
+        "en": "Episode 15 Track 31 Page 116",
+        "es": "Episodio 15 Pista 31 Página 116"
+      },
+      "start": 0.48,
+      "end": 7.84,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.48,
+          "end": 1.12
+        },
+        {
+          "text": "15",
+          "start": 1.6,
+          "end": 2.16
+        },
+        {
+          "text": "Piste",
+          "start": 2.96,
+          "end": 3.36
+        },
+        {
+          "text": "31",
+          "start": 3.76,
+          "end": 4.32
+        },
+        {
+          "text": "Page",
+          "start": 4.32,
+          "end": 6.72
+        },
+        {
+          "text": "116",
+          "start": 6.72,
+          "end": 7.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 15",
+          "translations": {
+            "zh": "第15集",
+            "en": "Episode 15",
+            "es": "Episodio 15"
+          },
+          "start": 0.48,
+          "end": 2.16
+        },
+        {
+          "text": "Piste 31",
+          "translations": {
+            "zh": "第31轨",
+            "en": "Track 31",
+            "es": "Pista 31"
+          },
+          "start": 2.96,
+          "end": 4.32
+        },
+        {
+          "text": "Page 116",
+          "translations": {
+            "zh": "第116页",
+            "en": "Page 116",
+            "es": "Página 116"
+          },
+          "start": 4.32,
+          "end": 7.84
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Ce matin, on vous rappelle que, sur le pont Charles-de-Gaulle, jusqu'à lundi 5 h, une seule voie est ouverte vers la Rive- Nord à cause des travaux à la structure métallique.",
+      "translations": {
+        "zh": "今天早上，我们提醒您，在戴高乐桥上，直到周一早上5点，因金属结构施工，仅有一条通往北岸的车道开放。",
+        "en": "This morning, we remind you that, on the Charles-de-Gaulle bridge, until Monday 5 a.m., only one lane is open toward the North Shore due to work on the steel structure.",
+        "es": "Esta mañana, se les recuerda que, sobre el puente Charles-de-Gaulle, hasta el lunes a las 5 h, una sola vía está abierta hacia la Ribera Norte a causa de los trabajos en la estructura metálica."
+      },
+      "start": 7.84,
+      "end": 18.16,
+      "words": [
+        {
+          "text": "Ce",
+          "start": 7.84,
+          "end": 7.84
+        },
+        {
+          "text": "matin",
+          "start": 11.12,
+          "end": 11.52
+        },
+        {
+          "text": "on",
+          "start": 11.52,
+          "end": 11.6
+        },
+        {
+          "text": "vous",
+          "start": 11.6,
+          "end": 11.68
+        },
+        {
+          "text": "rappelle",
+          "start": 11.68,
+          "end": 12.08
+        },
+        {
+          "text": "que",
+          "start": 12.08,
+          "end": 12.16
+        },
+        {
+          "text": "sur",
+          "start": 12.16,
+          "end": 12.32
+        },
+        {
+          "text": "le",
+          "start": 12.32,
+          "end": 12.48
+        },
+        {
+          "text": "pont",
+          "start": 12.48,
+          "end": 12.64
+        },
+        {
+          "text": "Charles",
+          "start": 12.64,
+          "end": 12.88
+        },
+        {
+          "text": "de",
+          "start": 12.88,
+          "end": 12.96
+        },
+        {
+          "text": "Gaulle",
+          "start": 12.96,
+          "end": 13.28
+        },
+        {
+          "text": "jusqu'à",
+          "start": 13.28,
+          "end": 13.6
+        },
+        {
+          "text": "lundi",
+          "start": 13.6,
+          "end": 13.92
+        },
+        {
+          "text": "5",
+          "start": 13.92,
+          "end": 14.16
+        },
+        {
+          "text": "h",
+          "start": 14.24,
+          "end": 14.56
+        },
+        {
+          "text": "une",
+          "start": 14.56,
+          "end": 14.8
+        },
+        {
+          "text": "seule",
+          "start": 14.8,
+          "end": 14.96
+        },
+        {
+          "text": "voie",
+          "start": 14.96,
+          "end": 15.2
+        },
+        {
+          "text": "est",
+          "start": 15.2,
+          "end": 15.28
+        },
+        {
+          "text": "ouverte",
+          "start": 15.28,
+          "end": 15.68
+        },
+        {
+          "text": "vers",
+          "start": 15.68,
+          "end": 15.84
+        },
+        {
+          "text": "la",
+          "start": 15.84,
+          "end": 15.92
+        },
+        {
+          "text": "Rive",
+          "start": 15.92,
+          "end": 16.16
+        },
+        {
+          "text": "Nord",
+          "start": 16.16,
+          "end": 16.32
+        },
+        {
+          "text": "à",
+          "start": 16.32,
+          "end": 16.48
+        },
+        {
+          "text": "cause",
+          "start": 16.48,
+          "end": 16.64
+        },
+        {
+          "text": "des",
+          "start": 16.64,
+          "end": 16.8
+        },
+        {
+          "text": "travaux",
+          "start": 16.8,
+          "end": 17.12
+        },
+        {
+          "text": "à",
+          "start": 17.12,
+          "end": 17.12
+        },
+        {
+          "text": "la",
+          "start": 17.12,
+          "end": 17.28
+        },
+        {
+          "text": "structure",
+          "start": 17.28,
+          "end": 17.6
+        },
+        {
+          "text": "métallique",
+          "start": 17.6,
+          "end": 18.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ce matin,",
+          "translations": {
+            "zh": "今天早上，",
+            "en": "This morning,",
+            "es": "Esta mañana,"
+          },
+          "start": 7.84,
+          "end": 11.52
+        },
+        {
+          "text": "on vous rappelle que,",
+          "translations": {
+            "zh": "我们提醒您，",
+            "en": "we remind you that,",
+            "es": "se les recuerda que,"
+          },
+          "start": 11.52,
+          "end": 12.16
+        },
+        {
+          "text": "sur le pont Charles-de-Gaulle,",
+          "translations": {
+            "zh": "在戴高乐桥上，",
+            "en": "on the Charles-de-Gaulle bridge,",
+            "es": "sobre el puente Charles-de-Gaulle,"
+          },
+          "start": 12.16,
+          "end": 13.28
+        },
+        {
+          "text": "jusqu'à lundi 5 h,",
+          "translations": {
+            "zh": "直到周一早上5点，",
+            "en": "until Monday 5 a.m.,",
+            "es": "hasta el lunes a las 5 h,"
+          },
+          "start": 13.28,
+          "end": 14.56
+        },
+        {
+          "text": "une seule voie est ouverte vers la Rive- Nord",
+          "translations": {
+            "zh": "仅有一条通往北岸的车道开放",
+            "en": "only one lane is open toward the North Shore",
+            "es": "una sola vía está abierta hacia la Ribera Norte"
+          },
+          "start": 14.56,
+          "end": 16.32
+        },
+        {
+          "text": "à cause des travaux à la structure métallique.",
+          "translations": {
+            "zh": "因为金属结构施工。",
+            "en": "due to work on the steel structure.",
+            "es": "a causa de los trabajos en la estructura metálica."
+          },
+          "start": 16.32,
+          "end": 18.16
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Pour l'instant, la circulation est fluide, mais on recommande aux automobilistes d'emprunter un autre pont...",
+      "translations": {
+        "zh": "目前交通畅通，但我们建议驾车人士使用另一座桥……",
+        "en": "For now, traffic is flowing smoothly, but motorists are advised to take another bridge...",
+        "es": "Por el momento, la circulación es fluida, pero se recomienda a los automovilistas tomar otro puente..."
+      },
+      "start": 18.4,
+      "end": 22.88,
+      "words": [
+        {
+          "text": "Pour",
+          "start": 18.4,
+          "end": 18.56
+        },
+        {
+          "text": "l'instant",
+          "start": 18.56,
+          "end": 18.88
+        },
+        {
+          "text": "la",
+          "start": 18.88,
+          "end": 19.04
+        },
+        {
+          "text": "circulation",
+          "start": 19.04,
+          "end": 19.6
+        },
+        {
+          "text": "est",
+          "start": 19.6,
+          "end": 19.76
+        },
+        {
+          "text": "fluide",
+          "start": 19.76,
+          "end": 20.16
+        },
+        {
+          "text": "mais",
+          "start": 20.16,
+          "end": 20.32
+        },
+        {
+          "text": "on",
+          "start": 20.32,
+          "end": 20.4
+        },
+        {
+          "text": "recommande",
+          "start": 20.4,
+          "end": 20.8
+        },
+        {
+          "text": "aux",
+          "start": 20.8,
+          "end": 20.88
+        },
+        {
+          "text": "automobilistes",
+          "start": 20.96,
+          "end": 21.68
+        },
+        {
+          "text": "d'emprunter",
+          "start": 21.68,
+          "end": 22.24
+        },
+        {
+          "text": "un",
+          "start": 22.24,
+          "end": 22.4
+        },
+        {
+          "text": "autre",
+          "start": 22.4,
+          "end": 22.64
+        },
+        {
+          "text": "pont",
+          "start": 22.64,
+          "end": 22.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pour l'instant,",
+          "translations": {
+            "zh": "目前，",
+            "en": "For now,",
+            "es": "Por el momento,"
+          },
+          "start": 18.4,
+          "end": 18.88
+        },
+        {
+          "text": "la circulation est fluide,",
+          "translations": {
+            "zh": "交通畅通，",
+            "en": "traffic is flowing smoothly,",
+            "es": "la circulación es fluida,"
+          },
+          "start": 18.88,
+          "end": 20.16
+        },
+        {
+          "text": "mais on recommande aux automobilistes",
+          "translations": {
+            "zh": "但我们建议驾车人士",
+            "en": "but motorists are advised",
+            "es": "pero se recomienda a los automovilistas"
+          },
+          "start": 20.16,
+          "end": 21.68
+        },
+        {
+          "text": "d'emprunter un autre pont...",
+          "translations": {
+            "zh": "使用另一座桥……",
+            "en": "to take another bridge...",
+            "es": "tomar otro puente..."
+          },
+          "start": 21.68,
+          "end": 22.88
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "À noter aussi que, pour rejoindre le pont Olivier-Charbonneau, il y a un petit détour, mais ça ne semble pas causer trop de problèmes...",
+      "translations": {
+        "zh": "还需注意，要前往奥利维耶-沙博诺桥，需要绕一小段路，但这似乎不会造成太大问题……",
+        "en": "Note also that, to reach the Olivier-Charbonneau bridge, there is a small detour, but it doesn't seem to be causing too many problems...",
+        "es": "Hay que señalar también que, para llegar al puente Olivier-Charbonneau, hay un pequeño desvío, pero no parece causar demasiados problemas..."
+      },
+      "start": 23.52,
+      "end": 28.88,
+      "words": [
+        {
+          "text": "À",
+          "start": 23.52,
+          "end": 23.68
+        },
+        {
+          "text": "noter",
+          "start": 23.68,
+          "end": 23.92
+        },
+        {
+          "text": "aussi",
+          "start": 23.92,
+          "end": 24.16
+        },
+        {
+          "text": "que",
+          "start": 24.16,
+          "end": 24.32
+        },
+        {
+          "text": "pour",
+          "start": 24.32,
+          "end": 24.56
+        },
+        {
+          "text": "rejoindre",
+          "start": 24.56,
+          "end": 24.96
+        },
+        {
+          "text": "le",
+          "start": 24.96,
+          "end": 25.12
+        },
+        {
+          "text": "pont",
+          "start": 25.12,
+          "end": 25.36
+        },
+        {
+          "text": "Olivier",
+          "start": 25.36,
+          "end": 25.6
+        },
+        {
+          "text": "Charbonneau",
+          "start": 25.6,
+          "end": 26.24
+        },
+        {
+          "text": "il",
+          "start": 26.24,
+          "end": 26.4
+        },
+        {
+          "text": "y",
+          "start": 26.4,
+          "end": 26.4
+        },
+        {
+          "text": "a",
+          "start": 26.4,
+          "end": 26.4
+        },
+        {
+          "text": "un",
+          "start": 26.4,
+          "end": 26.48
+        },
+        {
+          "text": "petit",
+          "start": 26.48,
+          "end": 26.64
+        },
+        {
+          "text": "détour",
+          "start": 26.64,
+          "end": 27.12
+        },
+        {
+          "text": "mais",
+          "start": 27.12,
+          "end": 27.36
+        },
+        {
+          "text": "ça",
+          "start": 27.36,
+          "end": 27.44
+        },
+        {
+          "text": "ne",
+          "start": 27.44,
+          "end": 27.52
+        },
+        {
+          "text": "semble",
+          "start": 27.52,
+          "end": 27.76
+        },
+        {
+          "text": "pas",
+          "start": 27.76,
+          "end": 27.92
+        },
+        {
+          "text": "causer",
+          "start": 27.92,
+          "end": 28.16
+        },
+        {
+          "text": "trop",
+          "start": 28.16,
+          "end": 28.32
+        },
+        {
+          "text": "de",
+          "start": 28.32,
+          "end": 28.4
+        },
+        {
+          "text": "problèmes",
+          "start": 28.4,
+          "end": 28.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "À noter aussi que,",
+          "translations": {
+            "zh": "还需注意，",
+            "en": "Note also that,",
+            "es": "Hay que señalar también que,"
+          },
+          "start": 23.52,
+          "end": 24.32
+        },
+        {
+          "text": "pour rejoindre le pont Olivier-Charbonneau,",
+          "translations": {
+            "zh": "要前往奥利维耶-沙博诺桥，",
+            "en": "to reach the Olivier-Charbonneau bridge,",
+            "es": "para llegar al puente Olivier-Charbonneau,"
+          },
+          "start": 24.32,
+          "end": 26.24
+        },
+        {
+          "text": "il y a un petit détour,",
+          "translations": {
+            "zh": "需要绕一小段路，",
+            "en": "there is a small detour,",
+            "es": "hay un pequeño desvío,"
+          },
+          "start": 26.24,
+          "end": 27.12
+        },
+        {
+          "text": "mais ça ne semble pas causer trop de problèmes...",
+          "translations": {
+            "zh": "但这似乎不会造成太大问题……",
+            "en": "but it doesn't seem to be causing too many problems...",
+            "es": "pero no parece causar demasiados problemas..."
+          },
+          "start": 27.12,
+          "end": 28.88
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Pardon...",
+      "translations": {
+        "zh": "抱歉……",
+        "en": "Sorry...",
+        "es": "Perdón..."
+      },
+      "start": 29.76,
+      "end": 30.24,
+      "words": [
+        {
+          "text": "Pardon",
+          "start": 29.76,
+          "end": 30.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pardon...",
+          "translations": {
+            "zh": "抱歉……",
+            "en": "Sorry...",
+            "es": "Perdón..."
+          },
+          "start": 29.76,
+          "end": 30.24
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "On vient de me signaler un carambolage sur la rue Sherbrooke, au coin de la 91 e Avenue, soit quelques coins de rue avant l'entrée sur le pont Le Gardeur.",
+      "translations": {
+        "zh": "刚才有人向我报告舍布鲁克街与第91大道交汇处发生了一起连环相撞事故，也就是在勒加德桥入口前几个路口的地方。",
+        "en": "I've just been informed of a pileup on Sherbrooke Street, at the corner of 91st Avenue, a few blocks before the entrance to the Le Gardeur bridge.",
+        "es": "Acaban de señalarme un choque múltiple en la calle Sherbrooke, en la esquina de la 91.ª Avenida, es decir, unas cuadras antes de la entrada al puente Le Gardeur."
+      },
+      "start": 30.56,
+      "end": 38.88,
+      "words": [
+        {
+          "text": "On",
+          "start": 30.56,
+          "end": 30.64
+        },
+        {
+          "text": "vient",
+          "start": 30.64,
+          "end": 30.88
+        },
+        {
+          "text": "de",
+          "start": 30.88,
+          "end": 31.04
+        },
+        {
+          "text": "me",
+          "start": 31.04,
+          "end": 31.12
+        },
+        {
+          "text": "signaler",
+          "start": 31.12,
+          "end": 31.76
+        },
+        {
+          "text": "un",
+          "start": 31.76,
+          "end": 31.84
+        },
+        {
+          "text": "carambolage",
+          "start": 31.84,
+          "end": 32.72
+        },
+        {
+          "text": "sur",
+          "start": 32.72,
+          "end": 32.88
+        },
+        {
+          "text": "la",
+          "start": 32.88,
+          "end": 33.04
+        },
+        {
+          "text": "rue",
+          "start": 33.04,
+          "end": 33.12
+        },
+        {
+          "text": "Sherbrooke",
+          "start": 33.12,
+          "end": 33.76
+        },
+        {
+          "text": "au",
+          "start": 33.84,
+          "end": 34.0
+        },
+        {
+          "text": "coin",
+          "start": 34.0,
+          "end": 34.32
+        },
+        {
+          "text": "de",
+          "start": 34.32,
+          "end": 34.4
+        },
+        {
+          "text": "la",
+          "start": 34.4,
+          "end": 34.56
+        },
+        {
+          "text": "91",
+          "start": 34.56,
+          "end": 35.2
+        },
+        {
+          "text": "e",
+          "start": 35.2,
+          "end": 35.28
+        },
+        {
+          "text": "Avenue",
+          "start": 35.36,
+          "end": 35.76
+        },
+        {
+          "text": "soit",
+          "start": 36.08,
+          "end": 36.32
+        },
+        {
+          "text": "quelques",
+          "start": 36.32,
+          "end": 36.72
+        },
+        {
+          "text": "coins",
+          "start": 36.72,
+          "end": 36.96
+        },
+        {
+          "text": "de",
+          "start": 36.96,
+          "end": 37.04
+        },
+        {
+          "text": "rue",
+          "start": 37.04,
+          "end": 37.2
+        },
+        {
+          "text": "avant",
+          "start": 37.2,
+          "end": 37.36
+        },
+        {
+          "text": "l'entrée",
+          "start": 37.36,
+          "end": 37.76
+        },
+        {
+          "text": "sur",
+          "start": 37.76,
+          "end": 37.92
+        },
+        {
+          "text": "le",
+          "start": 37.92,
+          "end": 38.0
+        },
+        {
+          "text": "pont",
+          "start": 38.0,
+          "end": 38.16
+        },
+        {
+          "text": "Le",
+          "start": 38.16,
+          "end": 38.24
+        },
+        {
+          "text": "Gardeur",
+          "start": 38.24,
+          "end": 38.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On vient de me signaler",
+          "translations": {
+            "zh": "刚才有人向我报告",
+            "en": "I've just been informed",
+            "es": "Acaban de señalarme"
+          },
+          "start": 30.56,
+          "end": 31.76
+        },
+        {
+          "text": "un carambolage sur la rue Sherbrooke,",
+          "translations": {
+            "zh": "舍布鲁克街发生了一起连环相撞，",
+            "en": "of a pileup on Sherbrooke Street,",
+            "es": "un choque múltiple en la calle Sherbrooke,"
+          },
+          "start": 31.76,
+          "end": 33.76
+        },
+        {
+          "text": "au coin de la 91 e Avenue,",
+          "translations": {
+            "zh": "在第91大道的拐角处，",
+            "en": "at the corner of 91st Avenue,",
+            "es": "en la esquina de la 91.ª Avenida,"
+          },
+          "start": 33.84,
+          "end": 35.76
+        },
+        {
+          "text": "soit quelques coins de rue",
+          "translations": {
+            "zh": "也就是几个路口外",
+            "en": "a few blocks",
+            "es": "es decir, unas cuadras"
+          },
+          "start": 36.08,
+          "end": 37.2
+        },
+        {
+          "text": "avant l'entrée sur le pont Le Gardeur.",
+          "translations": {
+            "zh": "在勒加德桥入口之前。",
+            "en": "before the entrance to the Le Gardeur bridge.",
+            "es": "antes de la entrada al puente Le Gardeur."
+          },
+          "start": 37.2,
+          "end": 38.88
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Malheureusement, on rapporte un blessé grave...",
+      "translations": {
+        "zh": "不幸的是，据报道有一人重伤……",
+        "en": "Unfortunately, a seriously injured person is reported...",
+        "es": "Lamentablemente, se informa de un herido grave..."
+      },
+      "start": 39.44,
+      "end": 41.44,
+      "words": [
+        {
+          "text": "Malheureusement",
+          "start": 39.44,
+          "end": 40.08
+        },
+        {
+          "text": "on",
+          "start": 40.16,
+          "end": 40.32
+        },
+        {
+          "text": "rapporte",
+          "start": 40.32,
+          "end": 40.72
+        },
+        {
+          "text": "un",
+          "start": 40.72,
+          "end": 40.8
+        },
+        {
+          "text": "blessé",
+          "start": 40.8,
+          "end": 41.04
+        },
+        {
+          "text": "grave",
+          "start": 41.04,
+          "end": 41.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Malheureusement,",
+          "translations": {
+            "zh": "不幸的是，",
+            "en": "Unfortunately,",
+            "es": "Lamentablemente,"
+          },
+          "start": 39.44,
+          "end": 40.08
+        },
+        {
+          "text": "on rapporte un blessé grave...",
+          "translations": {
+            "zh": "据报道有一人重伤……",
+            "en": "a seriously injured person is reported...",
+            "es": "se informa de un herido grave..."
+          },
+          "start": 40.16,
+          "end": 41.44
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Les secours sont sur place...",
+      "translations": {
+        "zh": "救援人员已到达现场……",
+        "en": "Emergency services are on the scene...",
+        "es": "Los servicios de emergencia están en el lugar..."
+      },
+      "start": 41.76,
+      "end": 42.96,
+      "words": [
+        {
+          "text": "Les",
+          "start": 41.76,
+          "end": 41.92
+        },
+        {
+          "text": "secours",
+          "start": 41.92,
+          "end": 42.32
+        },
+        {
+          "text": "sont",
+          "start": 42.32,
+          "end": 42.48
+        },
+        {
+          "text": "sur",
+          "start": 42.48,
+          "end": 42.64
+        },
+        {
+          "text": "place",
+          "start": 42.64,
+          "end": 42.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les secours sont sur place...",
+          "translations": {
+            "zh": "救援人员已到达现场……",
+            "en": "Emergency services are on the scene...",
+            "es": "Los servicios de emergencia están en el lugar..."
+          },
+          "start": 41.76,
+          "end": 42.96
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Il est donc préférable de passer par Notre-Dame, mais tout le secteur est congestionné.",
+      "translations": {
+        "zh": "因此最好走圣母院路，但整个地区都拥堵。",
+        "en": "It is therefore preferable to go via Notre-Dame, but the entire area is congested.",
+        "es": "Por lo tanto, es preferible pasar por Notre-Dame, pero todo el sector está congestionado."
+      },
+      "start": 43.84,
+      "end": 48.16,
+      "words": [
+        {
+          "text": "Il",
+          "start": 43.84,
+          "end": 44.0
+        },
+        {
+          "text": "est",
+          "start": 44.0,
+          "end": 44.08
+        },
+        {
+          "text": "donc",
+          "start": 44.08,
+          "end": 44.24
+        },
+        {
+          "text": "préférable",
+          "start": 44.24,
+          "end": 44.8
+        },
+        {
+          "text": "de",
+          "start": 44.8,
+          "end": 44.88
+        },
+        {
+          "text": "passer",
+          "start": 44.96,
+          "end": 45.36
+        },
+        {
+          "text": "par",
+          "start": 45.36,
+          "end": 45.6
+        },
+        {
+          "text": "Notre",
+          "start": 45.6,
+          "end": 45.76
+        },
+        {
+          "text": "Dame",
+          "start": 45.76,
+          "end": 46.16
+        },
+        {
+          "text": "mais",
+          "start": 46.48,
+          "end": 46.64
+        },
+        {
+          "text": "tout",
+          "start": 46.64,
+          "end": 46.88
+        },
+        {
+          "text": "le",
+          "start": 46.88,
+          "end": 46.88
+        },
+        {
+          "text": "secteur",
+          "start": 46.88,
+          "end": 47.44
+        },
+        {
+          "text": "est",
+          "start": 47.44,
+          "end": 47.52
+        },
+        {
+          "text": "congestionné",
+          "start": 47.52,
+          "end": 48.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il est donc préférable de passer par Notre-Dame,",
+          "translations": {
+            "zh": "因此最好走圣母院路，",
+            "en": "It is therefore preferable to go via Notre-Dame,",
+            "es": "Por lo tanto, es preferible pasar por Notre-Dame,"
+          },
+          "start": 43.84,
+          "end": 46.16
+        },
+        {
+          "text": "mais tout le secteur est congestionné.",
+          "translations": {
+            "zh": "但整个地区都拥堵。",
+            "en": "but the entire area is congested.",
+            "es": "pero todo el sector está congestionado."
+          },
+          "start": 46.48,
+          "end": 48.16
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "On nous signale aussi un ralentissement sur le boulevard Pie-IX en raison d'une opération de sensibilisation aux chantiers routiers menée par Transports Québec et la Sûreté du Québec.",
+      "translations": {
+        "zh": "也有人向我们报告皮九大道出现交通减速，原因是魁北克交通部和魁北克安全局正在开展道路施工宣传活动。",
+        "en": "We are also being informed of a slowdown on Pie-IX Boulevard due to a roadwork awareness operation conducted by Transports Québec and the Sûreté du Québec.",
+        "es": "También se nos informa de una lentitud en el bulevar Pie-IX debido a una operación de sensibilización sobre las obras viales llevada a cabo por Transportes Québec y la Seguridad de Québec."
+      },
+      "start": 48.56,
+      "end": 57.6,
+      "words": [
+        {
+          "text": "On",
+          "start": 48.56,
+          "end": 48.72
+        },
+        {
+          "text": "nous",
+          "start": 48.72,
+          "end": 48.8
+        },
+        {
+          "text": "signale",
+          "start": 48.8,
+          "end": 49.12
+        },
+        {
+          "text": "aussi",
+          "start": 49.12,
+          "end": 49.44
+        },
+        {
+          "text": "un",
+          "start": 49.44,
+          "end": 49.52
+        },
+        {
+          "text": "ralentissement",
+          "start": 49.52,
+          "end": 50.24
+        },
+        {
+          "text": "sur",
+          "start": 50.24,
+          "end": 50.4
+        },
+        {
+          "text": "le",
+          "start": 50.4,
+          "end": 50.56
+        },
+        {
+          "text": "boulevard",
+          "start": 50.56,
+          "end": 50.96
+        },
+        {
+          "text": "Pie",
+          "start": 50.96,
+          "end": 51.12
+        },
+        {
+          "text": "IX",
+          "start": 51.12,
+          "end": 51.28
+        },
+        {
+          "text": "en",
+          "start": 51.36,
+          "end": 51.52
+        },
+        {
+          "text": "raison",
+          "start": 51.52,
+          "end": 51.84
+        },
+        {
+          "text": "d'une",
+          "start": 51.84,
+          "end": 52.0
+        },
+        {
+          "text": "opération",
+          "start": 52.0,
+          "end": 52.56
+        },
+        {
+          "text": "de",
+          "start": 52.56,
+          "end": 52.64
+        },
+        {
+          "text": "sensibilisation",
+          "start": 52.64,
+          "end": 53.68
+        },
+        {
+          "text": "aux",
+          "start": 53.68,
+          "end": 53.84
+        },
+        {
+          "text": "chantiers",
+          "start": 53.84,
+          "end": 54.16
+        },
+        {
+          "text": "routiers",
+          "start": 54.16,
+          "end": 54.64
+        },
+        {
+          "text": "menée",
+          "start": 54.72,
+          "end": 55.04
+        },
+        {
+          "text": "par",
+          "start": 55.04,
+          "end": 55.28
+        },
+        {
+          "text": "Transports",
+          "start": 55.28,
+          "end": 55.68
+        },
+        {
+          "text": "Québec",
+          "start": 55.68,
+          "end": 56.16
+        },
+        {
+          "text": "et",
+          "start": 56.48,
+          "end": 56.64
+        },
+        {
+          "text": "la",
+          "start": 56.64,
+          "end": 56.72
+        },
+        {
+          "text": "Sûreté",
+          "start": 56.72,
+          "end": 56.96
+        },
+        {
+          "text": "du",
+          "start": 56.96,
+          "end": 57.12
+        },
+        {
+          "text": "Québec",
+          "start": 57.12,
+          "end": 57.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On nous signale aussi un ralentissement sur le boulevard Pie-IX",
+          "translations": {
+            "zh": "也有人向我们报告皮九大道出现交通减速",
+            "en": "We are also being informed of a slowdown on Pie-IX Boulevard",
+            "es": "También se nos informa de una lentitud en el bulevar Pie-IX"
+          },
+          "start": 48.56,
+          "end": 51.28
+        },
+        {
+          "text": "en raison d'une opération de sensibilisation aux chantiers routiers",
+          "translations": {
+            "zh": "原因是道路施工宣传活动",
+            "en": "due to a roadwork awareness operation",
+            "es": "debido a una operación de sensibilización sobre las obras viales"
+          },
+          "start": 51.36,
+          "end": 54.64
+        },
+        {
+          "text": "menée par Transports Québec et la Sûreté du Québec.",
+          "translations": {
+            "zh": "由魁北克交通部和魁北克安全局开展。",
+            "en": "conducted by Transports Québec and the Sûreté du Québec.",
+            "es": "llevada a cabo por Transportes Québec y la Seguridad de Québec."
+          },
+          "start": 54.72,
+          "end": 57.6
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Évidemment, avec tous les vacanciers qui tentent de sortir de la ville pour fuir la canicule, ça risque de causer de gros bouchons...",
+      "translations": {
+        "zh": "显然，随着所有度假者试图离开城市去躲避酷暑，这很可能造成严重的交通堵塞……",
+        "en": "Obviously, with all the vacationers trying to leave the city to escape the heat wave, that's likely to cause major traffic jams...",
+        "es": "Evidentemente, con todos los vacacionistas que intentan salir de la ciudad para huir de la ola de calor, corre el riesgo de causar grandes embotellamientos..."
+      },
+      "start": 58.32,
+      "end": 64.0,
+      "words": [
+        {
+          "text": "Évidemment",
+          "start": 58.32,
+          "end": 58.88
+        },
+        {
+          "text": "avec",
+          "start": 58.88,
+          "end": 59.04
+        },
+        {
+          "text": "tous",
+          "start": 59.04,
+          "end": 59.2
+        },
+        {
+          "text": "les",
+          "start": 59.2,
+          "end": 59.28
+        },
+        {
+          "text": "vacanciers",
+          "start": 59.28,
+          "end": 59.76
+        },
+        {
+          "text": "qui",
+          "start": 59.76,
+          "end": 59.92
+        },
+        {
+          "text": "tentent",
+          "start": 59.92,
+          "end": 60.16
+        },
+        {
+          "text": "de",
+          "start": 60.16,
+          "end": 60.24
+        },
+        {
+          "text": "sortir",
+          "start": 60.24,
+          "end": 60.64
+        },
+        {
+          "text": "de",
+          "start": 60.64,
+          "end": 60.72
+        },
+        {
+          "text": "la",
+          "start": 60.72,
+          "end": 60.8
+        },
+        {
+          "text": "ville",
+          "start": 60.8,
+          "end": 61.04
+        },
+        {
+          "text": "pour",
+          "start": 61.04,
+          "end": 61.2
+        },
+        {
+          "text": "fuir",
+          "start": 61.2,
+          "end": 61.44
+        },
+        {
+          "text": "la",
+          "start": 61.44,
+          "end": 61.52
+        },
+        {
+          "text": "canicule",
+          "start": 61.52,
+          "end": 62.08
+        },
+        {
+          "text": "ça",
+          "start": 62.4,
+          "end": 62.64
+        },
+        {
+          "text": "risque",
+          "start": 62.64,
+          "end": 62.96
+        },
+        {
+          "text": "de",
+          "start": 62.96,
+          "end": 63.04
+        },
+        {
+          "text": "causer",
+          "start": 63.04,
+          "end": 63.36
+        },
+        {
+          "text": "de",
+          "start": 63.36,
+          "end": 63.52
+        },
+        {
+          "text": "gros",
+          "start": 63.52,
+          "end": 63.68
+        },
+        {
+          "text": "bouchons",
+          "start": 63.68,
+          "end": 64.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Évidemment,",
+          "translations": {
+            "zh": "显然，",
+            "en": "Obviously,",
+            "es": "Evidentemente,"
+          },
+          "start": 58.32,
+          "end": 58.88
+        },
+        {
+          "text": "avec tous les vacanciers",
+          "translations": {
+            "zh": "随着所有度假者",
+            "en": "with all the vacationers",
+            "es": "con todos los vacacionistas"
+          },
+          "start": 58.88,
+          "end": 59.76
+        },
+        {
+          "text": "qui tentent de sortir de la ville",
+          "translations": {
+            "zh": "试图离开城市",
+            "en": "trying to leave the city",
+            "es": "que intentan salir de la ciudad"
+          },
+          "start": 59.76,
+          "end": 61.04
+        },
+        {
+          "text": "pour fuir la canicule,",
+          "translations": {
+            "zh": "去躲避酷暑，",
+            "en": "to escape the heat wave,",
+            "es": "para huir de la ola de calor,"
+          },
+          "start": 61.04,
+          "end": 62.08
+        },
+        {
+          "text": "ça risque de causer de gros bouchons...",
+          "translations": {
+            "zh": "这很可能造成严重的交通堵塞……",
+            "en": "that's likely to cause major traffic jams...",
+            "es": "corre el riesgo de causar grandes embotellamientos..."
+          },
+          "start": 62.4,
+          "end": 64.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "ÉPISODE 16",
+      "translations": {
+        "zh": "第16集",
+        "en": "EPISODE 16",
+        "es": "EPISODIO 16"
+      },
+      "start": 64.48,
+      "end": 66.32,
+      "words": [
+        {
+          "text": "ÉPISODE",
+          "start": 64.48,
+          "end": 65.12
+        },
+        {
+          "text": "16",
+          "start": 66.32,
+          "end": 66.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "ÉPISODE 16",
+          "translations": {
+            "zh": "第16集",
+            "en": "EPISODE 16",
+            "es": "EPISODIO 16"
+          },
+          "start": 64.48,
+          "end": 66.32
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP15_P31",
+  "audio_filename": "FLS2_EP15_P31.mp3",
+  "audio_path": "downloads/FLS2_EP15_P31.mp3",
+  "episode": 15,
+  "piste": 31,
+  "page": 116,
+  "cd": "CD2"
+}

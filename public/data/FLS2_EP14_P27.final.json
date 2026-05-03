@@ -1,0 +1,3911 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 14 Piste 27 Page 109",
+      "translations": {
+        "zh": "第14集 第27音轨 第109页",
+        "en": "Episode 14 Track 27 Page 109",
+        "es": "Episodio 14 Pista 27 Página 109"
+      },
+      "start": 0.32,
+      "end": 7.2,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.32,
+          "end": 1.04
+        },
+        {
+          "text": "14",
+          "start": 1.52,
+          "end": 2.16
+        },
+        {
+          "text": "Piste",
+          "start": 2.88,
+          "end": 3.36
+        },
+        {
+          "text": "27",
+          "start": 3.68,
+          "end": 4.32
+        },
+        {
+          "text": "Page",
+          "start": 4.32,
+          "end": 4.32
+        },
+        {
+          "text": "109",
+          "start": 6.16,
+          "end": 7.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 14",
+          "translations": {
+            "zh": "第14集",
+            "en": "Episode 14",
+            "es": "Episodio 14"
+          },
+          "start": 0.32,
+          "end": 2.16
+        },
+        {
+          "text": "Piste 27",
+          "translations": {
+            "zh": "第27音轨",
+            "en": "Track 27",
+            "es": "Pista 27"
+          },
+          "start": 2.88,
+          "end": 4.32
+        },
+        {
+          "text": "Page 109",
+          "translations": {
+            "zh": "第109页",
+            "en": "Page 109",
+            "es": "Página 109"
+          },
+          "start": 4.32,
+          "end": 7.2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Allo chéri, qu'est-ce que tu as fait de bon, aujourd'hui ?",
+      "translations": {
+        "zh": "喂，亲爱的，你今天做了什么好事？",
+        "en": "Hi darling, what did you do that was nice today?",
+        "es": "Hola cariño, ¿qué has hecho de bueno, hoy?"
+      },
+      "start": 8.96,
+      "end": 12.08,
+      "words": [
+        {
+          "text": "Allo",
+          "start": 8.96,
+          "end": 9.2
+        },
+        {
+          "text": "chéri",
+          "start": 9.2,
+          "end": 9.92
+        },
+        {
+          "text": "qu'est",
+          "start": 10.56,
+          "end": 10.64
+        },
+        {
+          "text": "ce",
+          "start": 10.64,
+          "end": 10.72
+        },
+        {
+          "text": "que",
+          "start": 10.72,
+          "end": 10.8
+        },
+        {
+          "text": "tu",
+          "start": 10.8,
+          "end": 10.96
+        },
+        {
+          "text": "as",
+          "start": 10.96,
+          "end": 10.96
+        },
+        {
+          "text": "fait",
+          "start": 10.96,
+          "end": 11.2
+        },
+        {
+          "text": "de",
+          "start": 11.2,
+          "end": 11.2
+        },
+        {
+          "text": "bon",
+          "start": 11.2,
+          "end": 11.44
+        },
+        {
+          "text": "aujourd'hui",
+          "start": 11.44,
+          "end": 12.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Allo chéri,",
+          "translations": {
+            "zh": "喂，亲爱的，",
+            "en": "Hi darling,",
+            "es": "Hola cariño,"
+          },
+          "start": 8.96,
+          "end": 9.92
+        },
+        {
+          "text": "qu'est-ce que tu as fait de bon,",
+          "translations": {
+            "zh": "你做了什么好事，",
+            "en": "what did you do that was nice,",
+            "es": "¿qué has hecho de bueno,"
+          },
+          "start": 10.56,
+          "end": 11.44
+        },
+        {
+          "text": "aujourd'hui ?",
+          "translations": {
+            "zh": "今天？",
+            "en": "today?",
+            "es": "hoy?"
+          },
+          "start": 11.44,
+          "end": 12.08
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Rien de spécial.",
+      "translations": {
+        "zh": "没什么特别的。",
+        "en": "Nothing special.",
+        "es": "Nada de especial."
+      },
+      "start": 12.64,
+      "end": 13.44,
+      "words": [
+        {
+          "text": "Rien",
+          "start": 12.64,
+          "end": 12.8
+        },
+        {
+          "text": "de",
+          "start": 12.8,
+          "end": 12.8
+        },
+        {
+          "text": "spécial",
+          "start": 12.8,
+          "end": 13.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Rien de spécial.",
+          "translations": {
+            "zh": "没什么特别的。",
+            "en": "Nothing special.",
+            "es": "Nada de especial."
+          },
+          "start": 12.64,
+          "end": 13.44
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "J'ai jardiné un peu ce matin.",
+      "translations": {
+        "zh": "我今天早上做了一点园艺。",
+        "en": "I did a little gardening this morning.",
+        "es": "He hecho un poco de jardinería esta mañana."
+      },
+      "start": 14.0,
+      "end": 15.2,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 14.0,
+          "end": 14.16
+        },
+        {
+          "text": "jardiné",
+          "start": 14.16,
+          "end": 14.56
+        },
+        {
+          "text": "un",
+          "start": 14.56,
+          "end": 14.64
+        },
+        {
+          "text": "peu",
+          "start": 14.64,
+          "end": 14.8
+        },
+        {
+          "text": "ce",
+          "start": 14.8,
+          "end": 14.88
+        },
+        {
+          "text": "matin",
+          "start": 14.88,
+          "end": 15.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai jardiné un peu",
+          "translations": {
+            "zh": "我做了一点园艺",
+            "en": "I did a little gardening",
+            "es": "He hecho un poco de jardinería"
+          },
+          "start": 14.0,
+          "end": 14.8
+        },
+        {
+          "text": "ce matin.",
+          "translations": {
+            "zh": "今天早上。",
+            "en": "this morning.",
+            "es": "esta mañana."
+          },
+          "start": 14.8,
+          "end": 15.2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Cet après-midi, j'ai fait du hamac...",
+      "translations": {
+        "zh": "今天下午，我躺了吊床……",
+        "en": "This afternoon, I lounged in the hammock...",
+        "es": "Esta tarde, he estado en la hamaca..."
+      },
+      "start": 16.08,
+      "end": 18.88,
+      "words": [
+        {
+          "text": "Cet",
+          "start": 16.08,
+          "end": 16.24
+        },
+        {
+          "text": "après",
+          "start": 16.24,
+          "end": 16.48
+        },
+        {
+          "text": "midi",
+          "start": 16.48,
+          "end": 16.96
+        },
+        {
+          "text": "j'ai",
+          "start": 16.96,
+          "end": 17.2
+        },
+        {
+          "text": "fait",
+          "start": 17.2,
+          "end": 17.92
+        },
+        {
+          "text": "du",
+          "start": 18.08,
+          "end": 18.4
+        },
+        {
+          "text": "hamac",
+          "start": 18.4,
+          "end": 18.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Cet après-midi,",
+          "translations": {
+            "zh": "今天下午，",
+            "en": "This afternoon,",
+            "es": "Esta tarde,"
+          },
+          "start": 16.08,
+          "end": 16.96
+        },
+        {
+          "text": "j'ai fait du hamac...",
+          "translations": {
+            "zh": "我躺了吊床……",
+            "en": "I lounged in the hammock...",
+            "es": "he estado en la hamaca..."
+          },
+          "start": 16.96,
+          "end": 18.88
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Ma journée a été pas pire, sauf que ma cousine Mimi a téléphoné vers 3 h pour m'annoncer une mauvaise nouvelle : ma tante Emma est morte.",
+      "translations": {
+        "zh": "我这一天过得还不错，只是我表姐咪咪三点左右打来电话告诉我一个坏消息：我的艾玛阿姨去世了。",
+        "en": "My day was not bad, except my cousin Mimi called around 3 o'clock to announce some bad news: my aunt Emma died.",
+        "es": "Mi día no ha estado mal, excepto que mi prima Mimi llamó hacia las 3 para anunciarme una mala noticia: mi tía Emma ha muerto."
+      },
+      "start": 20.4,
+      "end": 28.64,
+      "words": [
+        {
+          "text": "Ma",
+          "start": 20.4,
+          "end": 20.48
+        },
+        {
+          "text": "journée",
+          "start": 20.48,
+          "end": 20.8
+        },
+        {
+          "text": "a",
+          "start": 20.8,
+          "end": 20.8
+        },
+        {
+          "text": "été",
+          "start": 20.8,
+          "end": 20.96
+        },
+        {
+          "text": "pas",
+          "start": 20.96,
+          "end": 21.12
+        },
+        {
+          "text": "pire",
+          "start": 21.12,
+          "end": 21.44
+        },
+        {
+          "text": "sauf",
+          "start": 22.16,
+          "end": 22.48
+        },
+        {
+          "text": "que",
+          "start": 22.48,
+          "end": 22.8
+        },
+        {
+          "text": "ma",
+          "start": 23.84,
+          "end": 23.92
+        },
+        {
+          "text": "cousine",
+          "start": 23.92,
+          "end": 24.24
+        },
+        {
+          "text": "Mimi",
+          "start": 24.24,
+          "end": 24.4
+        },
+        {
+          "text": "a",
+          "start": 24.4,
+          "end": 24.48
+        },
+        {
+          "text": "téléphoné",
+          "start": 24.48,
+          "end": 24.96
+        },
+        {
+          "text": "vers",
+          "start": 24.96,
+          "end": 25.12
+        },
+        {
+          "text": "3",
+          "start": 25.12,
+          "end": 25.52
+        },
+        {
+          "text": "h",
+          "start": 25.52,
+          "end": 25.52
+        },
+        {
+          "text": "pour",
+          "start": 25.52,
+          "end": 25.68
+        },
+        {
+          "text": "m'annoncer",
+          "start": 25.68,
+          "end": 26.0
+        },
+        {
+          "text": "une",
+          "start": 26.0,
+          "end": 26.08
+        },
+        {
+          "text": "mauvaise",
+          "start": 26.08,
+          "end": 26.4
+        },
+        {
+          "text": "nouvelle",
+          "start": 26.4,
+          "end": 26.72
+        },
+        {
+          "text": "ma",
+          "start": 27.52,
+          "end": 27.6
+        },
+        {
+          "text": "tante",
+          "start": 27.6,
+          "end": 27.84
+        },
+        {
+          "text": "Emma",
+          "start": 27.84,
+          "end": 28.08
+        },
+        {
+          "text": "est",
+          "start": 28.08,
+          "end": 28.16
+        },
+        {
+          "text": "morte",
+          "start": 28.16,
+          "end": 28.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ma journée a été pas pire,",
+          "translations": {
+            "zh": "我这一天过得还不错，",
+            "en": "My day was not bad,",
+            "es": "Mi día no ha estado mal,"
+          },
+          "start": 20.4,
+          "end": 21.44
+        },
+        {
+          "text": "sauf que ma cousine Mimi a téléphoné vers 3 h",
+          "translations": {
+            "zh": "只是我表姐咪咪三点左右打来电话",
+            "en": "except my cousin Mimi called around 3 o'clock",
+            "es": "excepto que mi prima Mimi llamó hacia las 3"
+          },
+          "start": 22.16,
+          "end": 25.52
+        },
+        {
+          "text": "pour m'annoncer une mauvaise nouvelle :",
+          "translations": {
+            "zh": "告诉我一个坏消息：",
+            "en": "to announce some bad news:",
+            "es": "para anunciarme una mala noticia:"
+          },
+          "start": 25.52,
+          "end": 26.72
+        },
+        {
+          "text": "ma tante Emma est morte.",
+          "translations": {
+            "zh": "我的艾玛阿姨去世了。",
+            "en": "my aunt Emma died.",
+            "es": "mi tía Emma ha muerto."
+          },
+          "start": 27.52,
+          "end": 28.64
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Ta tante Emma ?",
+      "translations": {
+        "zh": "你的艾玛阿姨？",
+        "en": "Your aunt Emma?",
+        "es": "¿Tu tía Emma?"
+      },
+      "start": 29.28,
+      "end": 30.08,
+      "words": [
+        {
+          "text": "Ta",
+          "start": 29.28,
+          "end": 29.36
+        },
+        {
+          "text": "tante",
+          "start": 29.36,
+          "end": 29.76
+        },
+        {
+          "text": "Emma",
+          "start": 29.76,
+          "end": 30.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ta tante Emma ?",
+          "translations": {
+            "zh": "你的艾玛阿姨？",
+            "en": "Your aunt Emma?",
+            "es": "¿Tu tía Emma?"
+          },
+          "start": 29.28,
+          "end": 30.08
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "C'est celle qui a fêté son centenaire l'année passée.",
+      "translations": {
+        "zh": "就是去年庆祝百岁生日的那位。",
+        "en": "She's the one who celebrated her hundredth birthday last year.",
+        "es": "Es la que celebró su centenario el año pasado."
+      },
+      "start": 30.56,
+      "end": 32.4,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 30.56,
+          "end": 30.72
+        },
+        {
+          "text": "celle",
+          "start": 30.72,
+          "end": 30.96
+        },
+        {
+          "text": "qui",
+          "start": 30.96,
+          "end": 31.04
+        },
+        {
+          "text": "a",
+          "start": 31.04,
+          "end": 31.12
+        },
+        {
+          "text": "fêté",
+          "start": 31.12,
+          "end": 31.36
+        },
+        {
+          "text": "son",
+          "start": 31.36,
+          "end": 31.52
+        },
+        {
+          "text": "centenaire",
+          "start": 31.52,
+          "end": 31.84
+        },
+        {
+          "text": "l'année",
+          "start": 31.84,
+          "end": 32.08
+        },
+        {
+          "text": "passée",
+          "start": 32.08,
+          "end": 32.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est celle",
+          "translations": {
+            "zh": "就是那位",
+            "en": "She's the one",
+            "es": "Es la"
+          },
+          "start": 30.56,
+          "end": 30.96
+        },
+        {
+          "text": "qui a fêté son centenaire",
+          "translations": {
+            "zh": "庆祝了百岁生日的",
+            "en": "who celebrated her hundredth birthday",
+            "es": "que celebró su centenario"
+          },
+          "start": 30.96,
+          "end": 31.84
+        },
+        {
+          "text": "l'année passée.",
+          "translations": {
+            "zh": "去年。",
+            "en": "last year.",
+            "es": "el año pasado."
+          },
+          "start": 31.84,
+          "end": 32.4
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Tu ne te rappelles pas ?",
+      "translations": {
+        "zh": "你不记得了吗？",
+        "en": "Don't you remember?",
+        "es": "¿No te acuerdas?"
+      },
+      "start": 32.96,
+      "end": 33.6,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 32.96,
+          "end": 33.12
+        },
+        {
+          "text": "ne",
+          "start": 33.12,
+          "end": 33.12
+        },
+        {
+          "text": "te",
+          "start": 33.12,
+          "end": 33.12
+        },
+        {
+          "text": "rappelles",
+          "start": 33.12,
+          "end": 33.36
+        },
+        {
+          "text": "pas",
+          "start": 33.36,
+          "end": 33.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu ne te rappelles pas ?",
+          "translations": {
+            "zh": "你不记得了吗？",
+            "en": "Don't you remember?",
+            "es": "¿No te acuerdas?"
+          },
+          "start": 32.96,
+          "end": 33.6
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "C'était à Kamouraska, au mois de juillet...",
+      "translations": {
+        "zh": "那是在卡穆拉斯卡，七月份的时候……",
+        "en": "It was in Kamouraska, in the month of July...",
+        "es": "Fue en Kamouraska, en el mes de julio..."
+      },
+      "start": 34.32,
+      "end": 35.84,
+      "words": [
+        {
+          "text": "C'était",
+          "start": 34.32,
+          "end": 34.64
+        },
+        {
+          "text": "à",
+          "start": 34.64,
+          "end": 34.64
+        },
+        {
+          "text": "Kamouraska",
+          "start": 34.64,
+          "end": 35.28
+        },
+        {
+          "text": "au",
+          "start": 35.28,
+          "end": 35.36
+        },
+        {
+          "text": "mois",
+          "start": 35.36,
+          "end": 35.44
+        },
+        {
+          "text": "de",
+          "start": 35.44,
+          "end": 35.52
+        },
+        {
+          "text": "juillet",
+          "start": 35.52,
+          "end": 35.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'était à Kamouraska,",
+          "translations": {
+            "zh": "那是在卡穆拉斯卡，",
+            "en": "It was in Kamouraska,",
+            "es": "Fue en Kamouraska,"
+          },
+          "start": 34.32,
+          "end": 35.28
+        },
+        {
+          "text": "au mois de juillet...",
+          "translations": {
+            "zh": "七月份的时候……",
+            "en": "in the month of July...",
+            "es": "en el mes de julio..."
+          },
+          "start": 35.28,
+          "end": 35.84
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Oui, je m'en souviens, là...",
+      "translations": {
+        "zh": "对，我记得，嗯……",
+        "en": "Yes, I remember, yeah...",
+        "es": "Sí, me acuerdo, pues..."
+      },
+      "start": 36.48,
+      "end": 37.84,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 36.48,
+          "end": 36.72
+        },
+        {
+          "text": "je",
+          "start": 36.72,
+          "end": 36.8
+        },
+        {
+          "text": "m'en",
+          "start": 36.8,
+          "end": 36.96
+        },
+        {
+          "text": "souviens",
+          "start": 36.96,
+          "end": 37.52
+        },
+        {
+          "text": "là",
+          "start": 37.52,
+          "end": 37.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "对，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 36.48,
+          "end": 36.72
+        },
+        {
+          "text": "je m'en souviens,",
+          "translations": {
+            "zh": "我记得，",
+            "en": "I remember,",
+            "es": "me acuerdo,"
+          },
+          "start": 36.72,
+          "end": 37.52
+        },
+        {
+          "text": "là...",
+          "translations": {
+            "zh": "嗯……",
+            "en": "yeah...",
+            "es": "pues..."
+          },
+          "start": 37.52,
+          "end": 37.84
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Il y avait toute ta parenté du Nouveau-Brunswick, que j'avais de la misère à comprendre.",
+      "translations": {
+        "zh": "你新不伦瑞克那边的亲戚都来了，我很难听懂他们说话。",
+        "en": "All your relatives from New Brunswick were there, and I had a hard time understanding them.",
+        "es": "Estaba todo tu parentesco de Nuevo Brunswick, que me costaba entender."
+      },
+      "start": 38.4,
+      "end": 42.24,
+      "words": [
+        {
+          "text": "Il",
+          "start": 38.4,
+          "end": 38.48
+        },
+        {
+          "text": "y",
+          "start": 38.48,
+          "end": 38.48
+        },
+        {
+          "text": "avait",
+          "start": 38.48,
+          "end": 38.64
+        },
+        {
+          "text": "toute",
+          "start": 38.64,
+          "end": 38.88
+        },
+        {
+          "text": "ta",
+          "start": 38.88,
+          "end": 38.96
+        },
+        {
+          "text": "parenté",
+          "start": 38.96,
+          "end": 39.52
+        },
+        {
+          "text": "du",
+          "start": 39.52,
+          "end": 39.6
+        },
+        {
+          "text": "Nouveau",
+          "start": 39.6,
+          "end": 39.84
+        },
+        {
+          "text": "Brunswick",
+          "start": 39.84,
+          "end": 40.48
+        },
+        {
+          "text": "que",
+          "start": 40.48,
+          "end": 40.56
+        },
+        {
+          "text": "j'avais",
+          "start": 40.88,
+          "end": 41.12
+        },
+        {
+          "text": "de",
+          "start": 41.12,
+          "end": 41.12
+        },
+        {
+          "text": "la",
+          "start": 41.12,
+          "end": 41.2
+        },
+        {
+          "text": "misère",
+          "start": 41.2,
+          "end": 41.52
+        },
+        {
+          "text": "à",
+          "start": 41.52,
+          "end": 41.6
+        },
+        {
+          "text": "comprendre",
+          "start": 41.6,
+          "end": 42.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il y avait toute ta parenté du Nouveau-Brunswick,",
+          "translations": {
+            "zh": "你新不伦瑞克那边的亲戚都来了，",
+            "en": "All your relatives from New Brunswick were there,",
+            "es": "Estaba todo tu parentesco de Nuevo Brunswick,"
+          },
+          "start": 38.4,
+          "end": 40.48
+        },
+        {
+          "text": "que j'avais de la misère à comprendre.",
+          "translations": {
+            "zh": "我很难听懂他们说话。",
+            "en": "and I had a hard time understanding them.",
+            "es": "que me costaba entender."
+          },
+          "start": 40.48,
+          "end": 42.24
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "L'accent acadien, là...",
+      "translations": {
+        "zh": "阿卡迪亚口音，嗯……",
+        "en": "The Acadian accent, you know...",
+        "es": "El acento acadiano, pues..."
+      },
+      "start": 42.56,
+      "end": 44.08,
+      "words": [
+        {
+          "text": "L'accent",
+          "start": 42.56,
+          "end": 43.12
+        },
+        {
+          "text": "acadien",
+          "start": 43.12,
+          "end": 43.84
+        },
+        {
+          "text": "là",
+          "start": 43.84,
+          "end": 44.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "L'accent acadien,",
+          "translations": {
+            "zh": "阿卡迪亚口音，",
+            "en": "The Acadian accent,",
+            "es": "El acento acadiano,"
+          },
+          "start": 42.56,
+          "end": 43.84
+        },
+        {
+          "text": "là...",
+          "translations": {
+            "zh": "嗯……",
+            "en": "you know...",
+            "es": "pues..."
+          },
+          "start": 43.84,
+          "end": 44.08
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Oui !",
+      "translations": {
+        "zh": "是的！",
+        "en": "Yes!",
+        "es": "¡Sí!"
+      },
+      "start": 44.8,
+      "end": 45.28,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 44.8,
+          "end": 45.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui !",
+          "translations": {
+            "zh": "是的！",
+            "en": "Yes!",
+            "es": "¡Sí!"
+          },
+          "start": 44.8,
+          "end": 45.28
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Mais c'était une belle réunion de famille...",
+      "translations": {
+        "zh": "不过那是一次美好的家庭聚会……",
+        "en": "But it was a lovely family reunion...",
+        "es": "Pero fue una hermosa reunión familiar..."
+      },
+      "start": 45.28,
+      "end": 48.96,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 45.28,
+          "end": 45.28
+        },
+        {
+          "text": "c'était",
+          "start": 47.52,
+          "end": 47.76
+        },
+        {
+          "text": "une",
+          "start": 47.76,
+          "end": 47.84
+        },
+        {
+          "text": "belle",
+          "start": 47.84,
+          "end": 48.08
+        },
+        {
+          "text": "réunion",
+          "start": 48.08,
+          "end": 48.4
+        },
+        {
+          "text": "de",
+          "start": 48.4,
+          "end": 48.48
+        },
+        {
+          "text": "famille",
+          "start": 48.48,
+          "end": 48.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais c'était une belle réunion de famille...",
+          "translations": {
+            "zh": "不过那是一次美好的家庭聚会……",
+            "en": "But it was a lovely family reunion...",
+            "es": "Pero fue una hermosa reunión familiar..."
+          },
+          "start": 45.28,
+          "end": 48.96
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Hum.",
+      "translations": {
+        "zh": "嗯。",
+        "en": "Hmm.",
+        "es": "Mmm."
+      },
+      "start": 49.52,
+      "end": 49.92,
+      "words": [
+        {
+          "text": "Hum",
+          "start": 49.52,
+          "end": 49.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Hum.",
+          "translations": {
+            "zh": "嗯。",
+            "en": "Hmm.",
+            "es": "Mmm."
+          },
+          "start": 49.52,
+          "end": 49.92
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Pauvre ma tante !",
+      "translations": {
+        "zh": "可怜的阿姨！",
+        "en": "Poor auntie!",
+        "es": "¡Pobre de mi tía!"
+      },
+      "start": 50.56,
+      "end": 51.44,
+      "words": [
+        {
+          "text": "Pauvre",
+          "start": 50.56,
+          "end": 50.88
+        },
+        {
+          "text": "ma",
+          "start": 50.88,
+          "end": 50.96
+        },
+        {
+          "text": "tante",
+          "start": 50.96,
+          "end": 51.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pauvre ma tante !",
+          "translations": {
+            "zh": "可怜的阿姨！",
+            "en": "Poor auntie!",
+            "es": "¡Pobre de mi tía!"
+          },
+          "start": 50.56,
+          "end": 51.44
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Ça me fait de la peine.",
+      "translations": {
+        "zh": "这让我很难过。",
+        "en": "It makes me sad.",
+        "es": "Me da pena."
+      },
+      "start": 52.08,
+      "end": 52.96,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 52.08,
+          "end": 52.24
+        },
+        {
+          "text": "me",
+          "start": 52.24,
+          "end": 52.24
+        },
+        {
+          "text": "fait",
+          "start": 52.24,
+          "end": 52.48
+        },
+        {
+          "text": "de",
+          "start": 52.48,
+          "end": 52.48
+        },
+        {
+          "text": "la",
+          "start": 52.48,
+          "end": 52.56
+        },
+        {
+          "text": "peine",
+          "start": 52.56,
+          "end": 52.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça me fait de la peine.",
+          "translations": {
+            "zh": "这让我很难过。",
+            "en": "It makes me sad.",
+            "es": "Me da pena."
+          },
+          "start": 52.08,
+          "end": 52.96
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Je l'aimais bien, elle me faisait tout le temps rire.",
+      "translations": {
+        "zh": "我很喜欢她，她总是让我笑。",
+        "en": "I really liked her, she always made me laugh.",
+        "es": "La quería mucho, me hacía reír todo el tiempo."
+      },
+      "start": 53.28,
+      "end": 55.84,
+      "words": [
+        {
+          "text": "Je",
+          "start": 53.28,
+          "end": 53.44
+        },
+        {
+          "text": "l'aimais",
+          "start": 53.44,
+          "end": 53.6
+        },
+        {
+          "text": "bien",
+          "start": 53.6,
+          "end": 53.92
+        },
+        {
+          "text": "elle",
+          "start": 54.72,
+          "end": 54.8
+        },
+        {
+          "text": "me",
+          "start": 54.8,
+          "end": 54.8
+        },
+        {
+          "text": "faisait",
+          "start": 54.8,
+          "end": 55.04
+        },
+        {
+          "text": "tout",
+          "start": 55.04,
+          "end": 55.12
+        },
+        {
+          "text": "le",
+          "start": 55.12,
+          "end": 55.2
+        },
+        {
+          "text": "temps",
+          "start": 55.2,
+          "end": 55.44
+        },
+        {
+          "text": "rire",
+          "start": 55.44,
+          "end": 55.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je l'aimais bien,",
+          "translations": {
+            "zh": "我很喜欢她，",
+            "en": "I really liked her,",
+            "es": "La quería mucho,"
+          },
+          "start": 53.28,
+          "end": 53.92
+        },
+        {
+          "text": "elle me faisait tout le temps rire.",
+          "translations": {
+            "zh": "她总是让我笑。",
+            "en": "she always made me laugh.",
+            "es": "me hacía reír todo el tiempo."
+          },
+          "start": 54.72,
+          "end": 55.84
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Elle avait un don pour raconter...",
+      "translations": {
+        "zh": "她很有讲故事的天赋……",
+        "en": "She had a gift for storytelling...",
+        "es": "Tenía un don para contar historias..."
+      },
+      "start": 55.92,
+      "end": 57.44,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 55.92,
+          "end": 56.08
+        },
+        {
+          "text": "avait",
+          "start": 56.08,
+          "end": 56.16
+        },
+        {
+          "text": "un",
+          "start": 56.16,
+          "end": 56.32
+        },
+        {
+          "text": "don",
+          "start": 56.4,
+          "end": 56.72
+        },
+        {
+          "text": "pour",
+          "start": 56.72,
+          "end": 56.96
+        },
+        {
+          "text": "raconter",
+          "start": 56.96,
+          "end": 57.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle avait un don",
+          "translations": {
+            "zh": "她很有天赋",
+            "en": "She had a gift",
+            "es": "Tenía un don"
+          },
+          "start": 55.92,
+          "end": 56.72
+        },
+        {
+          "text": "pour raconter...",
+          "translations": {
+            "zh": "讲故事……",
+            "en": "for storytelling...",
+            "es": "para contar historias..."
+          },
+          "start": 56.72,
+          "end": 57.44
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Veux-tu qu'on aille aux funérailles ?",
+      "translations": {
+        "zh": "你想不想去参加葬礼？",
+        "en": "Do you want us to go to the funeral?",
+        "es": "¿Quieres que vayamos al funeral?"
+      },
+      "start": 57.44,
+      "end": 58.8,
+      "words": [
+        {
+          "text": "Veux",
+          "start": 57.44,
+          "end": 57.6
+        },
+        {
+          "text": "tu",
+          "start": 57.6,
+          "end": 57.68
+        },
+        {
+          "text": "qu'on",
+          "start": 57.68,
+          "end": 57.92
+        },
+        {
+          "text": "aille",
+          "start": 57.92,
+          "end": 58.08
+        },
+        {
+          "text": "aux",
+          "start": 58.08,
+          "end": 58.08
+        },
+        {
+          "text": "funérailles",
+          "start": 58.08,
+          "end": 58.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Veux-tu",
+          "translations": {
+            "zh": "你想不想",
+            "en": "Do you want",
+            "es": "¿Quieres"
+          },
+          "start": 57.44,
+          "end": 57.68
+        },
+        {
+          "text": "qu'on aille aux funérailles ?",
+          "translations": {
+            "zh": "去参加葬礼？",
+            "en": "us to go to the funeral?",
+            "es": "que vayamos al funeral?"
+          },
+          "start": 57.68,
+          "end": 58.8
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Non, il n'y aura pas grand-chose...",
+      "translations": {
+        "zh": "不了，不会有太多安排……",
+        "en": "No, there won't be much of a service...",
+        "es": "No, no habrá gran cosa..."
+      },
+      "start": 59.2,
+      "end": 61.04,
+      "words": [
+        {
+          "text": "Non",
+          "start": 59.2,
+          "end": 59.84
+        },
+        {
+          "text": "il",
+          "start": 59.84,
+          "end": 59.92
+        },
+        {
+          "text": "n'y",
+          "start": 59.92,
+          "end": 60.0
+        },
+        {
+          "text": "aura",
+          "start": 60.0,
+          "end": 60.16
+        },
+        {
+          "text": "pas",
+          "start": 60.16,
+          "end": 60.32
+        },
+        {
+          "text": "grand",
+          "start": 60.32,
+          "end": 60.48
+        },
+        {
+          "text": "chose",
+          "start": 60.48,
+          "end": 61.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Non,",
+          "translations": {
+            "zh": "不了，",
+            "en": "No,",
+            "es": "No,"
+          },
+          "start": 59.2,
+          "end": 59.84
+        },
+        {
+          "text": "il n'y aura pas grand-chose...",
+          "translations": {
+            "zh": "不会有太多安排……",
+            "en": "there won't be much of a service...",
+            "es": "no habrá gran cosa..."
+          },
+          "start": 59.84,
+          "end": 61.04
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Mimi m'a dit que sa mère parlait de sa mort avec beaucoup de sérénité.",
+      "translations": {
+        "zh": "咪咪告诉我她母亲谈起自己的死时非常平静。",
+        "en": "Mimi told me that her mother spoke about her death with a lot of serenity.",
+        "es": "Mimi me dijo que su madre hablaba de su muerte con mucha serenidad."
+      },
+      "start": 61.84,
+      "end": 64.56,
+      "words": [
+        {
+          "text": "Mimi",
+          "start": 61.84,
+          "end": 62.08
+        },
+        {
+          "text": "m'a",
+          "start": 62.08,
+          "end": 62.24
+        },
+        {
+          "text": "dit",
+          "start": 62.24,
+          "end": 62.4
+        },
+        {
+          "text": "que",
+          "start": 62.4,
+          "end": 62.4
+        },
+        {
+          "text": "sa",
+          "start": 62.4,
+          "end": 62.56
+        },
+        {
+          "text": "mère",
+          "start": 62.56,
+          "end": 62.72
+        },
+        {
+          "text": "parlait",
+          "start": 62.72,
+          "end": 63.04
+        },
+        {
+          "text": "de",
+          "start": 63.04,
+          "end": 63.04
+        },
+        {
+          "text": "sa",
+          "start": 63.04,
+          "end": 63.2
+        },
+        {
+          "text": "mort",
+          "start": 63.2,
+          "end": 63.44
+        },
+        {
+          "text": "avec",
+          "start": 63.44,
+          "end": 63.68
+        },
+        {
+          "text": "beaucoup",
+          "start": 63.68,
+          "end": 63.84
+        },
+        {
+          "text": "de",
+          "start": 63.84,
+          "end": 63.92
+        },
+        {
+          "text": "sérénité",
+          "start": 63.92,
+          "end": 64.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mimi m'a dit",
+          "translations": {
+            "zh": "咪咪告诉我",
+            "en": "Mimi told me",
+            "es": "Mimi me dijo"
+          },
+          "start": 61.84,
+          "end": 62.4
+        },
+        {
+          "text": "que sa mère parlait de sa mort",
+          "translations": {
+            "zh": "她母亲谈起自己的死时",
+            "en": "that her mother spoke about her death",
+            "es": "que su madre hablaba de su muerte"
+          },
+          "start": 62.4,
+          "end": 63.44
+        },
+        {
+          "text": "avec beaucoup de sérénité.",
+          "translations": {
+            "zh": "非常平静。",
+            "en": "with a lot of serenity.",
+            "es": "con mucha serenidad."
+          },
+          "start": 63.44,
+          "end": 64.56
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Au printemps, elle lui a dit qu'elle voulait se faire incinérer, pis qu'elle ne voulait pas de salon funéraire...",
+      "translations": {
+        "zh": "今年春天，她跟她说她想要火化，而且不要办殡仪馆仪式……",
+        "en": "In the spring, she told her that she wanted to be cremated, and that she didn't want a funeral home...",
+        "es": "En primavera, le dijo que quería que la incineraran, y que no quería velorio..."
+      },
+      "start": 65.04,
+      "end": 69.76,
+      "words": [
+        {
+          "text": "Au",
+          "start": 65.04,
+          "end": 65.2
+        },
+        {
+          "text": "printemps",
+          "start": 65.2,
+          "end": 65.68
+        },
+        {
+          "text": "elle",
+          "start": 66.24,
+          "end": 66.4
+        },
+        {
+          "text": "lui",
+          "start": 66.4,
+          "end": 66.48
+        },
+        {
+          "text": "a",
+          "start": 66.48,
+          "end": 66.48
+        },
+        {
+          "text": "dit",
+          "start": 66.48,
+          "end": 66.64
+        },
+        {
+          "text": "qu'elle",
+          "start": 66.64,
+          "end": 66.8
+        },
+        {
+          "text": "voulait",
+          "start": 66.8,
+          "end": 66.96
+        },
+        {
+          "text": "se",
+          "start": 66.96,
+          "end": 67.04
+        },
+        {
+          "text": "faire",
+          "start": 67.04,
+          "end": 67.2
+        },
+        {
+          "text": "incinérer",
+          "start": 67.2,
+          "end": 67.92
+        },
+        {
+          "text": "pis",
+          "start": 67.92,
+          "end": 68.56
+        },
+        {
+          "text": "qu'elle",
+          "start": 68.56,
+          "end": 68.72
+        },
+        {
+          "text": "ne",
+          "start": 68.8,
+          "end": 68.8
+        },
+        {
+          "text": "voulait",
+          "start": 68.8,
+          "end": 68.88
+        },
+        {
+          "text": "pas",
+          "start": 68.88,
+          "end": 69.04
+        },
+        {
+          "text": "de",
+          "start": 69.04,
+          "end": 69.12
+        },
+        {
+          "text": "salon",
+          "start": 69.12,
+          "end": 69.28
+        },
+        {
+          "text": "funéraire",
+          "start": 69.28,
+          "end": 69.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Au printemps,",
+          "translations": {
+            "zh": "今年春天，",
+            "en": "In the spring,",
+            "es": "En primavera,"
+          },
+          "start": 65.04,
+          "end": 65.68
+        },
+        {
+          "text": "elle lui a dit",
+          "translations": {
+            "zh": "她跟她说",
+            "en": "she told her",
+            "es": "le dijo"
+          },
+          "start": 66.24,
+          "end": 66.64
+        },
+        {
+          "text": "qu'elle voulait se faire incinérer,",
+          "translations": {
+            "zh": "她想要火化，",
+            "en": "that she wanted to be cremated,",
+            "es": "que quería que la incineraran,"
+          },
+          "start": 66.64,
+          "end": 67.92
+        },
+        {
+          "text": "pis qu'elle ne voulait pas de salon funéraire...",
+          "translations": {
+            "zh": "而且不要办殡仪馆仪式……",
+            "en": "and that she didn't want a funeral home...",
+            "es": "y que no quería velorio..."
+          },
+          "start": 67.92,
+          "end": 69.76
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "C'est triste, quand même.",
+      "translations": {
+        "zh": "这很令人难过，不管怎么说。",
+        "en": "It's sad, still.",
+        "es": "Es triste, de todos modos."
+      },
+      "start": 70.4,
+      "end": 71.6,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 70.4,
+          "end": 70.64
+        },
+        {
+          "text": "triste",
+          "start": 70.64,
+          "end": 71.04
+        },
+        {
+          "text": "quand",
+          "start": 71.04,
+          "end": 71.2
+        },
+        {
+          "text": "même",
+          "start": 71.2,
+          "end": 71.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est triste,",
+          "translations": {
+            "zh": "这很令人难过，",
+            "en": "It's sad,",
+            "es": "Es triste,"
+          },
+          "start": 70.4,
+          "end": 71.04
+        },
+        {
+          "text": "quand même.",
+          "translations": {
+            "zh": "不管怎么说。",
+            "en": "still.",
+            "es": "de todos modos."
+          },
+          "start": 71.04,
+          "end": 71.6
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "On devrait au moins envoyer une carte à ta cousine...",
+      "translations": {
+        "zh": "我们至少应该给你表姐寄张卡片……",
+        "en": "We should at least send a card to your cousin...",
+        "es": "Deberíamos al menos enviarle una tarjeta a tu prima..."
+      },
+      "start": 72.48,
+      "end": 74.48,
+      "words": [
+        {
+          "text": "On",
+          "start": 72.48,
+          "end": 72.56
+        },
+        {
+          "text": "devrait",
+          "start": 72.56,
+          "end": 72.8
+        },
+        {
+          "text": "au",
+          "start": 72.8,
+          "end": 72.88
+        },
+        {
+          "text": "moins",
+          "start": 72.88,
+          "end": 73.04
+        },
+        {
+          "text": "envoyer",
+          "start": 73.04,
+          "end": 73.36
+        },
+        {
+          "text": "une",
+          "start": 73.36,
+          "end": 73.44
+        },
+        {
+          "text": "carte",
+          "start": 73.44,
+          "end": 73.68
+        },
+        {
+          "text": "à",
+          "start": 73.68,
+          "end": 73.76
+        },
+        {
+          "text": "ta",
+          "start": 73.76,
+          "end": 73.92
+        },
+        {
+          "text": "cousine",
+          "start": 73.92,
+          "end": 74.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On devrait au moins",
+          "translations": {
+            "zh": "我们至少应该",
+            "en": "We should at least",
+            "es": "Deberíamos al menos"
+          },
+          "start": 72.48,
+          "end": 73.04
+        },
+        {
+          "text": "envoyer une carte à ta cousine...",
+          "translations": {
+            "zh": "给你表姐寄张卡片……",
+            "en": "send a card to your cousin...",
+            "es": "enviarle una tarjeta a tu prima..."
+          },
+          "start": 73.04,
+          "end": 74.48
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Oui, je lui ai déjà présenté mes condoléances au téléphone, mais tu as raison.",
+      "translations": {
+        "zh": "对，我已经在电话里向她表达了哀悼，但你说的对。",
+        "en": "Yes, I already gave her my condolences on the phone, but you're right.",
+        "es": "Sí, ya le he dado el pésame por teléfono, pero tienes razón."
+      },
+      "start": 75.12,
+      "end": 79.84,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 75.12,
+          "end": 75.68
+        },
+        {
+          "text": "je",
+          "start": 76.64,
+          "end": 76.8
+        },
+        {
+          "text": "lui",
+          "start": 76.8,
+          "end": 76.88
+        },
+        {
+          "text": "ai",
+          "start": 76.88,
+          "end": 76.88
+        },
+        {
+          "text": "déjà",
+          "start": 76.88,
+          "end": 77.12
+        },
+        {
+          "text": "présenté",
+          "start": 77.12,
+          "end": 77.44
+        },
+        {
+          "text": "mes",
+          "start": 77.44,
+          "end": 77.6
+        },
+        {
+          "text": "condoléances",
+          "start": 77.6,
+          "end": 78.08
+        },
+        {
+          "text": "au",
+          "start": 78.08,
+          "end": 78.16
+        },
+        {
+          "text": "téléphone",
+          "start": 78.16,
+          "end": 78.72
+        },
+        {
+          "text": "mais",
+          "start": 78.72,
+          "end": 79.12
+        },
+        {
+          "text": "tu",
+          "start": 79.44,
+          "end": 79.52
+        },
+        {
+          "text": "as",
+          "start": 79.52,
+          "end": 79.6
+        },
+        {
+          "text": "raison",
+          "start": 79.6,
+          "end": 79.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "对，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 75.12,
+          "end": 75.68
+        },
+        {
+          "text": "je lui ai déjà présenté mes condoléances au téléphone,",
+          "translations": {
+            "zh": "我已经在电话里向她表达了哀悼，",
+            "en": "I already gave her my condolences on the phone,",
+            "es": "ya le he dado el pésame por teléfono,"
+          },
+          "start": 76.64,
+          "end": 78.72
+        },
+        {
+          "text": "mais tu as raison.",
+          "translations": {
+            "zh": "但你说的对。",
+            "en": "but you're right.",
+            "es": "pero tienes razón."
+          },
+          "start": 78.72,
+          "end": 79.84
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "OK, je m'en occupe demain.",
+      "translations": {
+        "zh": "好的，我明天就办。",
+        "en": "OK, I'll take care of it tomorrow.",
+        "es": "OK, me encargo mañana."
+      },
+      "start": 80.32,
+      "end": 81.76,
+      "words": [
+        {
+          "text": "OK",
+          "start": 80.32,
+          "end": 80.4
+        },
+        {
+          "text": "je",
+          "start": 80.48,
+          "end": 80.56
+        },
+        {
+          "text": "m'en",
+          "start": 80.96,
+          "end": 81.12
+        },
+        {
+          "text": "occupe",
+          "start": 81.12,
+          "end": 81.44
+        },
+        {
+          "text": "demain",
+          "start": 81.44,
+          "end": 81.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "OK,",
+          "translations": {
+            "zh": "好的，",
+            "en": "OK,",
+            "es": "OK,"
+          },
+          "start": 80.32,
+          "end": 80.4
+        },
+        {
+          "text": "je m'en occupe demain.",
+          "translations": {
+            "zh": "我明天就办。",
+            "en": "I'll take care of it tomorrow.",
+            "es": "me encargo mañana."
+          },
+          "start": 80.48,
+          "end": 81.76
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Toi, comment était ta journée ?",
+      "translations": {
+        "zh": "你呢，你今天过得怎么样？",
+        "en": "How about you, how was your day?",
+        "es": "Tú, ¿cómo estuvo tu día?"
+      },
+      "start": 82.64,
+      "end": 84.16,
+      "words": [
+        {
+          "text": "Toi",
+          "start": 82.64,
+          "end": 82.96
+        },
+        {
+          "text": "comment",
+          "start": 83.36,
+          "end": 83.52
+        },
+        {
+          "text": "était",
+          "start": 83.52,
+          "end": 83.76
+        },
+        {
+          "text": "ta",
+          "start": 83.76,
+          "end": 83.84
+        },
+        {
+          "text": "journée",
+          "start": 83.84,
+          "end": 84.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Toi,",
+          "translations": {
+            "zh": "你呢，",
+            "en": "How about you,",
+            "es": "Tú,"
+          },
+          "start": 82.64,
+          "end": 82.96
+        },
+        {
+          "text": "comment était ta journée ?",
+          "translations": {
+            "zh": "你今天过得怎么样？",
+            "en": "how was your day?",
+            "es": "¿cómo estuvo tu día?"
+          },
+          "start": 83.36,
+          "end": 84.16
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Fatigante !",
+      "translations": {
+        "zh": "累人！",
+        "en": "Tiring!",
+        "es": "¡Agotadora!"
+      },
+      "start": 84.72,
+      "end": 86.0,
+      "words": [
+        {
+          "text": "Fatigante",
+          "start": 84.72,
+          "end": 86.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Fatigante !",
+          "translations": {
+            "zh": "累人！",
+            "en": "Tiring!",
+            "es": "¡Agotadora!"
+          },
+          "start": 84.72,
+          "end": 86.0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "On a reçu notre commande de Charlevoix cet après-midi, pis il a fallu que je la vérifie toute seule en même temps que je m'occupais des clients parce que Noémie était encore absente.",
+      "translations": {
+        "zh": "我们今天下午收到了沙勒沃伊的订单，而我不得不一边招呼客人一边自己核对，因为诺埃米又缺席了。",
+        "en": "We received our order from Charlevoix this afternoon, and I had to check it all by myself at the same time as I was looking after the customers because Noémie was absent again.",
+        "es": "Recibimos nuestro pedido de Charlevoix esta tarde, y tuve que verificarlo yo sola al mismo tiempo que me ocupaba de los clientes porque Noémie seguía ausente."
+      },
+      "start": 86.4,
+      "end": 96.0,
+      "words": [
+        {
+          "text": "On",
+          "start": 86.4,
+          "end": 86.56
+        },
+        {
+          "text": "a",
+          "start": 86.56,
+          "end": 86.64
+        },
+        {
+          "text": "reçu",
+          "start": 86.64,
+          "end": 86.88
+        },
+        {
+          "text": "notre",
+          "start": 86.88,
+          "end": 87.04
+        },
+        {
+          "text": "commande",
+          "start": 87.04,
+          "end": 87.36
+        },
+        {
+          "text": "de",
+          "start": 87.36,
+          "end": 87.52
+        },
+        {
+          "text": "Charlevoix",
+          "start": 87.52,
+          "end": 88.0
+        },
+        {
+          "text": "cet",
+          "start": 88.0,
+          "end": 88.16
+        },
+        {
+          "text": "après",
+          "start": 88.16,
+          "end": 88.4
+        },
+        {
+          "text": "midi",
+          "start": 88.4,
+          "end": 88.88
+        },
+        {
+          "text": "pis",
+          "start": 88.88,
+          "end": 89.28
+        },
+        {
+          "text": "il",
+          "start": 89.44,
+          "end": 89.52
+        },
+        {
+          "text": "a",
+          "start": 89.52,
+          "end": 89.6
+        },
+        {
+          "text": "fallu",
+          "start": 89.6,
+          "end": 89.84
+        },
+        {
+          "text": "que",
+          "start": 89.84,
+          "end": 89.92
+        },
+        {
+          "text": "je",
+          "start": 90.0,
+          "end": 90.08
+        },
+        {
+          "text": "la",
+          "start": 90.08,
+          "end": 90.16
+        },
+        {
+          "text": "vérifie",
+          "start": 90.16,
+          "end": 90.56
+        },
+        {
+          "text": "toute",
+          "start": 90.56,
+          "end": 90.72
+        },
+        {
+          "text": "seule",
+          "start": 90.72,
+          "end": 91.12
+        },
+        {
+          "text": "en",
+          "start": 91.12,
+          "end": 91.28
+        },
+        {
+          "text": "même",
+          "start": 91.28,
+          "end": 91.52
+        },
+        {
+          "text": "temps",
+          "start": 91.52,
+          "end": 91.76
+        },
+        {
+          "text": "que",
+          "start": 91.76,
+          "end": 91.92
+        },
+        {
+          "text": "je",
+          "start": 91.92,
+          "end": 92.08
+        },
+        {
+          "text": "m'occupais",
+          "start": 92.08,
+          "end": 92.48
+        },
+        {
+          "text": "des",
+          "start": 92.48,
+          "end": 92.64
+        },
+        {
+          "text": "clients",
+          "start": 92.64,
+          "end": 93.12
+        },
+        {
+          "text": "parce",
+          "start": 93.68,
+          "end": 93.92
+        },
+        {
+          "text": "que",
+          "start": 93.92,
+          "end": 94.0
+        },
+        {
+          "text": "Noémie",
+          "start": 94.0,
+          "end": 94.64
+        },
+        {
+          "text": "était",
+          "start": 94.72,
+          "end": 94.88
+        },
+        {
+          "text": "encore",
+          "start": 94.88,
+          "end": 95.28
+        },
+        {
+          "text": "absente",
+          "start": 95.28,
+          "end": 96.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On a reçu notre commande de Charlevoix cet après-midi,",
+          "translations": {
+            "zh": "我们今天下午收到了沙勒沃伊的订单，",
+            "en": "We received our order from Charlevoix this afternoon,",
+            "es": "Recibimos nuestro pedido de Charlevoix esta tarde,"
+          },
+          "start": 86.4,
+          "end": 88.88
+        },
+        {
+          "text": "pis il a fallu que je la vérifie toute seule",
+          "translations": {
+            "zh": "而我不得不自己一个人核对",
+            "en": "and I had to check it all by myself",
+            "es": "y tuve que verificarlo yo sola"
+          },
+          "start": 88.88,
+          "end": 91.12
+        },
+        {
+          "text": "en même temps que je m'occupais des clients",
+          "translations": {
+            "zh": "一边招呼客人",
+            "en": "at the same time as I was looking after the customers",
+            "es": "al mismo tiempo que me ocupaba de los clientes"
+          },
+          "start": 91.12,
+          "end": 93.12
+        },
+        {
+          "text": "parce que Noémie était encore absente.",
+          "translations": {
+            "zh": "因为诺埃米又缺席了。",
+            "en": "because Noémie was absent again.",
+            "es": "porque Noémie seguía ausente."
+          },
+          "start": 93.68,
+          "end": 96.0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "Il me semble que ça fait plusieurs fois qu'elle s'absente, ces temps-ci...",
+      "translations": {
+        "zh": "我觉得她最近缺席了好几次了……",
+        "en": "It seems to me that she's been absent several times lately...",
+        "es": "Me parece que ya van varias veces que se ausenta, últimamente..."
+      },
+      "start": 96.64,
+      "end": 99.12,
+      "words": [
+        {
+          "text": "Il",
+          "start": 96.64,
+          "end": 96.72
+        },
+        {
+          "text": "me",
+          "start": 96.72,
+          "end": 96.72
+        },
+        {
+          "text": "semble",
+          "start": 96.72,
+          "end": 97.12
+        },
+        {
+          "text": "que",
+          "start": 97.12,
+          "end": 97.2
+        },
+        {
+          "text": "ça",
+          "start": 97.2,
+          "end": 97.36
+        },
+        {
+          "text": "fait",
+          "start": 97.36,
+          "end": 97.52
+        },
+        {
+          "text": "plusieurs",
+          "start": 97.52,
+          "end": 97.84
+        },
+        {
+          "text": "fois",
+          "start": 97.84,
+          "end": 98.0
+        },
+        {
+          "text": "qu'elle",
+          "start": 98.0,
+          "end": 98.16
+        },
+        {
+          "text": "s'absente",
+          "start": 98.16,
+          "end": 98.64
+        },
+        {
+          "text": "ces",
+          "start": 98.64,
+          "end": 98.8
+        },
+        {
+          "text": "temps",
+          "start": 98.8,
+          "end": 98.88
+        },
+        {
+          "text": "ci",
+          "start": 98.88,
+          "end": 99.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il me semble",
+          "translations": {
+            "zh": "我觉得",
+            "en": "It seems to me",
+            "es": "Me parece"
+          },
+          "start": 96.64,
+          "end": 97.12
+        },
+        {
+          "text": "que ça fait plusieurs fois qu'elle s'absente,",
+          "translations": {
+            "zh": "她已经缺席了好几次了，",
+            "en": "that she's been absent several times,",
+            "es": "que ya van varias veces que se ausenta,"
+          },
+          "start": 97.12,
+          "end": 98.64
+        },
+        {
+          "text": "ces temps-ci...",
+          "translations": {
+            "zh": "最近……",
+            "en": "lately...",
+            "es": "últimamente..."
+          },
+          "start": 98.64,
+          "end": 99.12
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "Oui, pis je suis pas mal tannée.",
+      "translations": {
+        "zh": "对，而且我挺烦的。",
+        "en": "Yes, and I'm pretty fed up.",
+        "es": "Sí, y estoy bastante harta."
+      },
+      "start": 99.6,
+      "end": 101.12,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 99.6,
+          "end": 100.0
+        },
+        {
+          "text": "pis",
+          "start": 100.0,
+          "end": 100.16
+        },
+        {
+          "text": "je",
+          "start": 100.16,
+          "end": 100.24
+        },
+        {
+          "text": "suis",
+          "start": 100.24,
+          "end": 100.24
+        },
+        {
+          "text": "pas",
+          "start": 100.24,
+          "end": 100.32
+        },
+        {
+          "text": "mal",
+          "start": 100.32,
+          "end": 100.56
+        },
+        {
+          "text": "tannée",
+          "start": 100.56,
+          "end": 101.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "对，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 99.6,
+          "end": 100.0
+        },
+        {
+          "text": "pis je suis pas mal tannée.",
+          "translations": {
+            "zh": "而且我挺烦的。",
+            "en": "and I'm pretty fed up.",
+            "es": "y estoy bastante harta."
+          },
+          "start": 100.0,
+          "end": 101.12
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "text": "Elle m'a envoyé un texto à 10 h pour me dire qu'elle avait la grippe, mais je ne suis pas sure que c'est vrai...",
+      "translations": {
+        "zh": "她十点给我发了条短信说她得了流感，但我不确定是不是真的……",
+        "en": "She sent me a text at 10 o'clock to tell me she had the flu, but I'm not sure it's true...",
+        "es": "Me envió un mensaje a las 10 para decirme que tenía gripe, pero no estoy segura de que sea verdad..."
+      },
+      "start": 101.52,
+      "end": 106.08,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 101.52,
+          "end": 101.52
+        },
+        {
+          "text": "m'a",
+          "start": 101.6,
+          "end": 101.68
+        },
+        {
+          "text": "envoyé",
+          "start": 101.68,
+          "end": 102.0
+        },
+        {
+          "text": "un",
+          "start": 102.0,
+          "end": 102.08
+        },
+        {
+          "text": "texto",
+          "start": 102.08,
+          "end": 102.48
+        },
+        {
+          "text": "à",
+          "start": 102.48,
+          "end": 102.56
+        },
+        {
+          "text": "10",
+          "start": 102.56,
+          "end": 103.12
+        },
+        {
+          "text": "h",
+          "start": 103.12,
+          "end": 103.12
+        },
+        {
+          "text": "pour",
+          "start": 103.12,
+          "end": 103.2
+        },
+        {
+          "text": "me",
+          "start": 103.2,
+          "end": 103.36
+        },
+        {
+          "text": "dire",
+          "start": 103.36,
+          "end": 103.52
+        },
+        {
+          "text": "qu'elle",
+          "start": 103.52,
+          "end": 103.68
+        },
+        {
+          "text": "avait",
+          "start": 103.68,
+          "end": 103.84
+        },
+        {
+          "text": "la",
+          "start": 103.84,
+          "end": 104.0
+        },
+        {
+          "text": "grippe",
+          "start": 104.0,
+          "end": 104.48
+        },
+        {
+          "text": "mais",
+          "start": 104.96,
+          "end": 104.96
+        },
+        {
+          "text": "je",
+          "start": 104.96,
+          "end": 105.04
+        },
+        {
+          "text": "ne",
+          "start": 105.04,
+          "end": 105.04
+        },
+        {
+          "text": "suis",
+          "start": 105.12,
+          "end": 105.12
+        },
+        {
+          "text": "pas",
+          "start": 105.12,
+          "end": 105.2
+        },
+        {
+          "text": "sure",
+          "start": 105.2,
+          "end": 105.44
+        },
+        {
+          "text": "que",
+          "start": 105.44,
+          "end": 105.6
+        },
+        {
+          "text": "c'est",
+          "start": 105.6,
+          "end": 105.76
+        },
+        {
+          "text": "vrai",
+          "start": 105.76,
+          "end": 106.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle m'a envoyé un texto à 10 h",
+          "translations": {
+            "zh": "她十点给我发了条短信",
+            "en": "She sent me a text at 10 o'clock",
+            "es": "Me envió un mensaje a las 10"
+          },
+          "start": 101.52,
+          "end": 103.12
+        },
+        {
+          "text": "pour me dire qu'elle avait la grippe,",
+          "translations": {
+            "zh": "说她得了流感，",
+            "en": "to tell me she had the flu,",
+            "es": "para decirme que tenía gripe,"
+          },
+          "start": 103.12,
+          "end": 104.48
+        },
+        {
+          "text": "mais je ne suis pas sure que c'est vrai...",
+          "translations": {
+            "zh": "但我不确定是不是真的……",
+            "en": "but I'm not sure it's true...",
+            "es": "pero no estoy segura de que sea verdad..."
+          },
+          "start": 104.96,
+          "end": 106.08
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "text": "Comment ça ?",
+      "translations": {
+        "zh": "怎么说？",
+        "en": "How so?",
+        "es": "¿Cómo así?"
+      },
+      "start": 106.56,
+      "end": 106.96,
+      "words": [
+        {
+          "text": "Comment",
+          "start": 106.56,
+          "end": 106.72
+        },
+        {
+          "text": "ça",
+          "start": 106.72,
+          "end": 106.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Comment ça ?",
+          "translations": {
+            "zh": "怎么说？",
+            "en": "How so?",
+            "es": "¿Cómo así?"
+          },
+          "start": 106.56,
+          "end": 106.96
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "text": "Elle avait un 5 à 7, hier, pis je pense qu'elle a trop fêté...",
+      "translations": {
+        "zh": "她昨天有个下班后的聚会，我觉得她玩得太过火了……",
+        "en": "She had a happy hour yesterday, and I think she partied too hard...",
+        "es": "Tenía un afterwork ayer, y creo que festejó demasiado..."
+      },
+      "start": 107.52,
+      "end": 110.56,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 107.52,
+          "end": 107.68
+        },
+        {
+          "text": "avait",
+          "start": 107.68,
+          "end": 107.76
+        },
+        {
+          "text": "un",
+          "start": 107.76,
+          "end": 107.76
+        },
+        {
+          "text": "5",
+          "start": 107.84,
+          "end": 107.84
+        },
+        {
+          "text": "à",
+          "start": 108.16,
+          "end": 108.16
+        },
+        {
+          "text": "7",
+          "start": 108.16,
+          "end": 108.56
+        },
+        {
+          "text": "hier",
+          "start": 108.56,
+          "end": 109.04
+        },
+        {
+          "text": "pis",
+          "start": 109.12,
+          "end": 109.2
+        },
+        {
+          "text": "je",
+          "start": 109.2,
+          "end": 109.36
+        },
+        {
+          "text": "pense",
+          "start": 109.36,
+          "end": 109.6
+        },
+        {
+          "text": "qu'elle",
+          "start": 109.6,
+          "end": 109.76
+        },
+        {
+          "text": "a",
+          "start": 109.76,
+          "end": 109.76
+        },
+        {
+          "text": "trop",
+          "start": 109.84,
+          "end": 110.0
+        },
+        {
+          "text": "fêté",
+          "start": 110.0,
+          "end": 110.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle avait un 5 à 7, hier,",
+          "translations": {
+            "zh": "她昨天有个下班后的聚会，",
+            "en": "She had a happy hour yesterday,",
+            "es": "Tenía un afterwork ayer,"
+          },
+          "start": 107.52,
+          "end": 109.04
+        },
+        {
+          "text": "pis je pense qu'elle a trop fêté...",
+          "translations": {
+            "zh": "我觉得她玩得太过火了……",
+            "en": "and I think she partied too hard...",
+            "es": "y creo que festejó demasiado..."
+          },
+          "start": 109.12,
+          "end": 110.56
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "text": "Elle n'est pas fiable pantoute ; elle est souvent absente, surtout les jours où elle sait qu'on va avoir beaucoup d'ouvrage !",
+      "translations": {
+        "zh": "她一点也不靠谱；她经常缺席，尤其是她知道我们会有很多活儿的时候！",
+        "en": "She's not reliable at all; she's often absent, especially on the days when she knows we're going to have a lot of work!",
+        "es": "No es nada confiable; falta a menudo, sobre todo los días en que sabe que vamos a tener mucho trabajo."
+      },
+      "start": 111.28,
+      "end": 116.72,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 111.28,
+          "end": 111.36
+        },
+        {
+          "text": "n'est",
+          "start": 111.36,
+          "end": 111.36
+        },
+        {
+          "text": "pas",
+          "start": 111.36,
+          "end": 111.52
+        },
+        {
+          "text": "fiable",
+          "start": 111.52,
+          "end": 111.76
+        },
+        {
+          "text": "pantoute",
+          "start": 111.84,
+          "end": 112.72
+        },
+        {
+          "text": "elle",
+          "start": 112.8,
+          "end": 112.88
+        },
+        {
+          "text": "est",
+          "start": 112.88,
+          "end": 112.88
+        },
+        {
+          "text": "souvent",
+          "start": 112.88,
+          "end": 113.2
+        },
+        {
+          "text": "absente",
+          "start": 113.2,
+          "end": 113.68
+        },
+        {
+          "text": "surtout",
+          "start": 113.92,
+          "end": 114.32
+        },
+        {
+          "text": "les",
+          "start": 114.32,
+          "end": 114.48
+        },
+        {
+          "text": "jours",
+          "start": 114.48,
+          "end": 114.8
+        },
+        {
+          "text": "où",
+          "start": 114.8,
+          "end": 114.96
+        },
+        {
+          "text": "elle",
+          "start": 114.96,
+          "end": 114.96
+        },
+        {
+          "text": "sait",
+          "start": 114.96,
+          "end": 115.12
+        },
+        {
+          "text": "qu'on",
+          "start": 115.12,
+          "end": 115.28
+        },
+        {
+          "text": "va",
+          "start": 115.28,
+          "end": 115.44
+        },
+        {
+          "text": "avoir",
+          "start": 115.44,
+          "end": 115.68
+        },
+        {
+          "text": "beaucoup",
+          "start": 115.68,
+          "end": 115.92
+        },
+        {
+          "text": "d'ouvrage",
+          "start": 115.92,
+          "end": 116.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle n'est pas fiable pantoute ;",
+          "translations": {
+            "zh": "她一点也不靠谱；",
+            "en": "She's not reliable at all;",
+            "es": "No es nada confiable;"
+          },
+          "start": 111.28,
+          "end": 112.72
+        },
+        {
+          "text": "elle est souvent absente,",
+          "translations": {
+            "zh": "她经常缺席，",
+            "en": "she's often absent,",
+            "es": "falta a menudo,"
+          },
+          "start": 112.8,
+          "end": 113.68
+        },
+        {
+          "text": "surtout les jours où elle sait",
+          "translations": {
+            "zh": "尤其是她知道",
+            "en": "especially on the days when she knows",
+            "es": "sobre todo los días en que sabe"
+          },
+          "start": 113.92,
+          "end": 115.12
+        },
+        {
+          "text": "qu'on va avoir beaucoup d'ouvrage !",
+          "translations": {
+            "zh": "我们会有很多活儿的时候！",
+            "en": "we're going to have a lot of work!",
+            "es": "que vamos a tener mucho trabajo."
+          },
+          "start": 115.12,
+          "end": 116.72
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "text": "C'est plate quand on ne peut pas compter sur ses employés...",
+      "translations": {
+        "zh": "当没法指望自己的员工时，真是令人失望……",
+        "en": "It's disappointing when you can't count on your employees...",
+        "es": "Es frustrante cuando no se puede contar con los empleados..."
+      },
+      "start": 117.2,
+      "end": 119.76,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 117.2,
+          "end": 117.52
+        },
+        {
+          "text": "plate",
+          "start": 117.52,
+          "end": 118.08
+        },
+        {
+          "text": "quand",
+          "start": 118.08,
+          "end": 118.32
+        },
+        {
+          "text": "on",
+          "start": 118.32,
+          "end": 118.32
+        },
+        {
+          "text": "ne",
+          "start": 118.32,
+          "end": 118.32
+        },
+        {
+          "text": "peut",
+          "start": 118.32,
+          "end": 118.48
+        },
+        {
+          "text": "pas",
+          "start": 118.48,
+          "end": 118.56
+        },
+        {
+          "text": "compter",
+          "start": 118.56,
+          "end": 118.88
+        },
+        {
+          "text": "sur",
+          "start": 118.88,
+          "end": 119.04
+        },
+        {
+          "text": "ses",
+          "start": 119.04,
+          "end": 119.28
+        },
+        {
+          "text": "employés",
+          "start": 119.28,
+          "end": 119.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est plate",
+          "translations": {
+            "zh": "真是令人失望",
+            "en": "It's disappointing",
+            "es": "Es frustrante"
+          },
+          "start": 117.2,
+          "end": 118.08
+        },
+        {
+          "text": "quand on ne peut pas compter sur ses employés...",
+          "translations": {
+            "zh": "当没法指望自己的员工时……",
+            "en": "when you can't count on your employees...",
+            "es": "cuando no se puede contar con los empleados..."
+          },
+          "start": 118.08,
+          "end": 119.76
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "text": "Mets-en !",
+      "translations": {
+        "zh": "可不是嘛！",
+        "en": "You bet!",
+        "es": "¡Ya lo creo!"
+      },
+      "start": 120.0,
+      "end": 120.64,
+      "words": [
+        {
+          "text": "Mets",
+          "start": 120.0,
+          "end": 120.4
+        },
+        {
+          "text": "en",
+          "start": 120.4,
+          "end": 120.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mets-en !",
+          "translations": {
+            "zh": "可不是嘛！",
+            "en": "You bet!",
+            "es": "¡Ya lo creo!"
+          },
+          "start": 120.0,
+          "end": 120.64
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "text": "On va avoir une conversation entre quatre yeux aussitôt qu'elle revient, je te le dis...",
+      "translations": {
+        "zh": "她一回来我们就单独谈谈，我跟你讲……",
+        "en": "We're going to have a face-to-face conversation as soon as she gets back, I'm telling you...",
+        "es": "Vamos a tener una conversación a solas en cuanto vuelva, te lo digo..."
+      },
+      "start": 121.36,
+      "end": 124.96,
+      "words": [
+        {
+          "text": "On",
+          "start": 121.36,
+          "end": 121.44
+        },
+        {
+          "text": "va",
+          "start": 121.44,
+          "end": 121.52
+        },
+        {
+          "text": "avoir",
+          "start": 121.52,
+          "end": 121.76
+        },
+        {
+          "text": "une",
+          "start": 121.76,
+          "end": 121.84
+        },
+        {
+          "text": "conversation",
+          "start": 121.84,
+          "end": 122.48
+        },
+        {
+          "text": "entre",
+          "start": 122.48,
+          "end": 122.72
+        },
+        {
+          "text": "quatre",
+          "start": 122.72,
+          "end": 122.88
+        },
+        {
+          "text": "yeux",
+          "start": 122.88,
+          "end": 123.28
+        },
+        {
+          "text": "aussitôt",
+          "start": 123.28,
+          "end": 123.68
+        },
+        {
+          "text": "qu'elle",
+          "start": 123.68,
+          "end": 123.84
+        },
+        {
+          "text": "revient",
+          "start": 123.84,
+          "end": 124.24
+        },
+        {
+          "text": "je",
+          "start": 124.24,
+          "end": 124.32
+        },
+        {
+          "text": "te",
+          "start": 124.32,
+          "end": 124.4
+        },
+        {
+          "text": "le",
+          "start": 124.4,
+          "end": 124.48
+        },
+        {
+          "text": "dis",
+          "start": 124.48,
+          "end": 124.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On va avoir une conversation entre quatre yeux",
+          "translations": {
+            "zh": "我们要单独谈谈",
+            "en": "We're going to have a face-to-face conversation",
+            "es": "Vamos a tener una conversación a solas"
+          },
+          "start": 121.36,
+          "end": 123.28
+        },
+        {
+          "text": "aussitôt qu'elle revient,",
+          "translations": {
+            "zh": "她一回来，",
+            "en": "as soon as she gets back,",
+            "es": "en cuanto vuelva,"
+          },
+          "start": 123.28,
+          "end": 124.24
+        },
+        {
+          "text": "je te le dis...",
+          "translations": {
+            "zh": "我跟你讲……",
+            "en": "I'm telling you...",
+            "es": "te lo digo..."
+          },
+          "start": 124.24,
+          "end": 124.96
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "text": "Pis si elle ne comprend rien, je pense que je vais lui montrer la porte...",
+      "translations": {
+        "zh": "要是她什么都不明白的话，我想我会让她走人……",
+        "en": "And if she doesn't get it, I think I'm going to show her the door...",
+        "es": "Y si no entiende nada, creo que le voy a enseñar la puerta..."
+      },
+      "start": 125.6,
+      "end": 128.56,
+      "words": [
+        {
+          "text": "Pis",
+          "start": 125.6,
+          "end": 125.84
+        },
+        {
+          "text": "si",
+          "start": 125.84,
+          "end": 125.84
+        },
+        {
+          "text": "elle",
+          "start": 125.84,
+          "end": 125.92
+        },
+        {
+          "text": "ne",
+          "start": 125.92,
+          "end": 125.92
+        },
+        {
+          "text": "comprend",
+          "start": 125.92,
+          "end": 126.32
+        },
+        {
+          "text": "rien",
+          "start": 126.32,
+          "end": 126.72
+        },
+        {
+          "text": "je",
+          "start": 126.88,
+          "end": 126.96
+        },
+        {
+          "text": "pense",
+          "start": 126.96,
+          "end": 127.2
+        },
+        {
+          "text": "que",
+          "start": 127.2,
+          "end": 127.28
+        },
+        {
+          "text": "je",
+          "start": 127.28,
+          "end": 127.36
+        },
+        {
+          "text": "vais",
+          "start": 127.36,
+          "end": 127.44
+        },
+        {
+          "text": "lui",
+          "start": 127.44,
+          "end": 127.52
+        },
+        {
+          "text": "montrer",
+          "start": 127.52,
+          "end": 127.92
+        },
+        {
+          "text": "la",
+          "start": 127.92,
+          "end": 128.0
+        },
+        {
+          "text": "porte",
+          "start": 128.08,
+          "end": 128.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pis si elle ne comprend rien,",
+          "translations": {
+            "zh": "要是她什么都不明白的话，",
+            "en": "And if she doesn't get it,",
+            "es": "Y si no entiende nada,"
+          },
+          "start": 125.6,
+          "end": 126.72
+        },
+        {
+          "text": "je pense que je vais lui montrer la porte...",
+          "translations": {
+            "zh": "我想我会让她走人……",
+            "en": "I think I'm going to show her the door...",
+            "es": "creo que le voy a enseñar la puerta..."
+          },
+          "start": 126.88,
+          "end": 128.56
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "text": "Est-ce que tu as préparé le souper ?",
+      "translations": {
+        "zh": "你准备晚饭了吗？",
+        "en": "Did you make supper?",
+        "es": "¿Preparaste la cena?"
+      },
+      "start": 129.92,
+      "end": 131.36,
+      "words": [
+        {
+          "text": "Est",
+          "start": 129.92,
+          "end": 130.0
+        },
+        {
+          "text": "ce",
+          "start": 130.0,
+          "end": 130.08
+        },
+        {
+          "text": "que",
+          "start": 130.08,
+          "end": 130.16
+        },
+        {
+          "text": "tu",
+          "start": 130.16,
+          "end": 130.32
+        },
+        {
+          "text": "as",
+          "start": 130.32,
+          "end": 130.32
+        },
+        {
+          "text": "préparé",
+          "start": 130.32,
+          "end": 130.8
+        },
+        {
+          "text": "le",
+          "start": 130.8,
+          "end": 130.8
+        },
+        {
+          "text": "souper",
+          "start": 130.8,
+          "end": 131.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que tu as préparé le souper ?",
+          "translations": {
+            "zh": "你准备晚饭了吗？",
+            "en": "Did you make supper?",
+            "es": "¿Preparaste la cena?"
+          },
+          "start": 129.92,
+          "end": 131.36
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "text": "Voyons donc, quelle question !",
+      "translations": {
+        "zh": "拜托，什么问题嘛！",
+        "en": "Come on, what a question!",
+        "es": "Vamos, ¡qué pregunta!"
+      },
+      "start": 131.84,
+      "end": 133.36,
+      "words": [
+        {
+          "text": "Voyons",
+          "start": 131.84,
+          "end": 132.08
+        },
+        {
+          "text": "donc",
+          "start": 132.08,
+          "end": 132.4
+        },
+        {
+          "text": "quelle",
+          "start": 132.64,
+          "end": 132.8
+        },
+        {
+          "text": "question",
+          "start": 132.8,
+          "end": 133.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Voyons donc,",
+          "translations": {
+            "zh": "拜托，",
+            "en": "Come on,",
+            "es": "Vamos,"
+          },
+          "start": 131.84,
+          "end": 132.4
+        },
+        {
+          "text": "quelle question !",
+          "translations": {
+            "zh": "什么问题嘛！",
+            "en": "what a question!",
+            "es": "¡qué pregunta!"
+          },
+          "start": 132.64,
+          "end": 133.36
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "text": "J'étais à mes fourneaux à partir de 4 h 30, madame !",
+      "translations": {
+        "zh": "我从四点半就在灶台前了，夫人！",
+        "en": "I've been at the stove since 4:30, ma'am!",
+        "es": "Estaba en los fogones a partir de las 4:30, ¡señora!"
+      },
+      "start": 133.84,
+      "end": 136.16,
+      "words": [
+        {
+          "text": "J'étais",
+          "start": 133.84,
+          "end": 134.16
+        },
+        {
+          "text": "à",
+          "start": 134.16,
+          "end": 134.16
+        },
+        {
+          "text": "mes",
+          "start": 134.16,
+          "end": 134.24
+        },
+        {
+          "text": "fourneaux",
+          "start": 134.24,
+          "end": 134.56
+        },
+        {
+          "text": "à",
+          "start": 134.56,
+          "end": 134.64
+        },
+        {
+          "text": "partir",
+          "start": 134.64,
+          "end": 134.88
+        },
+        {
+          "text": "de",
+          "start": 134.88,
+          "end": 134.96
+        },
+        {
+          "text": "4",
+          "start": 134.96,
+          "end": 135.36
+        },
+        {
+          "text": "h",
+          "start": 135.36,
+          "end": 135.44
+        },
+        {
+          "text": "30",
+          "start": 135.44,
+          "end": 135.76
+        },
+        {
+          "text": "madame",
+          "start": 135.76,
+          "end": 136.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'étais à mes fourneaux",
+          "translations": {
+            "zh": "我在灶台前",
+            "en": "I've been at the stove",
+            "es": "Estaba en los fogones"
+          },
+          "start": 133.84,
+          "end": 134.56
+        },
+        {
+          "text": "à partir de 4 h 30,",
+          "translations": {
+            "zh": "从四点半开始，",
+            "en": "since 4:30,",
+            "es": "a partir de las 4:30,"
+          },
+          "start": 134.56,
+          "end": 135.76
+        },
+        {
+          "text": "madame !",
+          "translations": {
+            "zh": "夫人！",
+            "en": "ma'am!",
+            "es": "¡señora!"
+          },
+          "start": 135.76,
+          "end": 136.16
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "text": "J'ai fait des vol-au-vent puis une bonne salade.",
+      "translations": {
+        "zh": "我做了酥皮馅饼，还有一份好沙拉。",
+        "en": "I made vol-au-vents and a good salad.",
+        "es": "Hice volovanes y una buena ensalada."
+      },
+      "start": 136.56,
+      "end": 138.88,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 136.56,
+          "end": 136.64
+        },
+        {
+          "text": "fait",
+          "start": 136.64,
+          "end": 136.8
+        },
+        {
+          "text": "des",
+          "start": 136.8,
+          "end": 136.96
+        },
+        {
+          "text": "vol",
+          "start": 136.96,
+          "end": 137.12
+        },
+        {
+          "text": "au",
+          "start": 137.12,
+          "end": 137.28
+        },
+        {
+          "text": "vent",
+          "start": 137.28,
+          "end": 137.6
+        },
+        {
+          "text": "puis",
+          "start": 137.6,
+          "end": 137.84
+        },
+        {
+          "text": "une",
+          "start": 137.84,
+          "end": 138.0
+        },
+        {
+          "text": "bonne",
+          "start": 138.0,
+          "end": 138.24
+        },
+        {
+          "text": "salade",
+          "start": 138.24,
+          "end": 138.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai fait des vol-au-vent",
+          "translations": {
+            "zh": "我做了酥皮馅饼",
+            "en": "I made vol-au-vents",
+            "es": "Hice volovanes"
+          },
+          "start": 136.56,
+          "end": 137.6
+        },
+        {
+          "text": "puis une bonne salade.",
+          "translations": {
+            "zh": "还有一份好沙拉。",
+            "en": "and a good salad.",
+            "es": "y una buena ensalada."
+          },
+          "start": 137.6,
+          "end": 138.88
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "text": "Mmm !",
+      "translations": {
+        "zh": "嗯！",
+        "en": "Mmm!",
+        "es": "¡Mmm!"
+      },
+      "start": 139.12,
+      "end": 139.68,
+      "words": [
+        {
+          "text": "Mmm",
+          "start": 139.12,
+          "end": 139.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mmm !",
+          "translations": {
+            "zh": "嗯！",
+            "en": "Mmm!",
+            "es": "¡Mmm!"
+          },
+          "start": 139.12,
+          "end": 139.68
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "text": "Je suis chanceuse d'avoir un mari retraité qui aime cuisiner !",
+      "translations": {
+        "zh": "我很幸运有一个喜欢做饭的退休丈夫！",
+        "en": "I'm lucky to have a retired husband who likes to cook!",
+        "es": "¡Tengo suerte de tener un marido jubilado al que le gusta cocinar!"
+      },
+      "start": 139.68,
+      "end": 142.88,
+      "words": [
+        {
+          "text": "Je",
+          "start": 139.68,
+          "end": 139.68
+        },
+        {
+          "text": "suis",
+          "start": 139.76,
+          "end": 140.0
+        },
+        {
+          "text": "chanceuse",
+          "start": 140.0,
+          "end": 140.56
+        },
+        {
+          "text": "d'avoir",
+          "start": 140.56,
+          "end": 140.8
+        },
+        {
+          "text": "un",
+          "start": 140.8,
+          "end": 140.96
+        },
+        {
+          "text": "mari",
+          "start": 140.96,
+          "end": 141.28
+        },
+        {
+          "text": "retraité",
+          "start": 141.28,
+          "end": 141.92
+        },
+        {
+          "text": "qui",
+          "start": 141.92,
+          "end": 142.08
+        },
+        {
+          "text": "aime",
+          "start": 142.08,
+          "end": 142.24
+        },
+        {
+          "text": "cuisiner",
+          "start": 142.24,
+          "end": 142.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis chanceuse",
+          "translations": {
+            "zh": "我很幸运",
+            "en": "I'm lucky",
+            "es": "Tengo suerte"
+          },
+          "start": 139.68,
+          "end": 140.56
+        },
+        {
+          "text": "d'avoir un mari retraité",
+          "translations": {
+            "zh": "有一个退休的丈夫",
+            "en": "to have a retired husband",
+            "es": "de tener un marido jubilado"
+          },
+          "start": 140.56,
+          "end": 141.92
+        },
+        {
+          "text": "qui aime cuisiner !",
+          "translations": {
+            "zh": "喜欢做饭的！",
+            "en": "who likes to cook!",
+            "es": "al que le gusta cocinar!"
+          },
+          "start": 141.92,
+          "end": 142.88
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "text": "Oui, tu peux le dire !",
+      "translations": {
+        "zh": "对，你说得没错！",
+        "en": "Yes, you can say that again!",
+        "es": "Sí, ¡puedes decirlo!"
+      },
+      "start": 143.92,
+      "end": 144.96,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 143.92,
+          "end": 144.32
+        },
+        {
+          "text": "tu",
+          "start": 144.32,
+          "end": 144.4
+        },
+        {
+          "text": "peux",
+          "start": 144.4,
+          "end": 144.56
+        },
+        {
+          "text": "le",
+          "start": 144.56,
+          "end": 144.64
+        },
+        {
+          "text": "dire",
+          "start": 144.64,
+          "end": 144.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "对，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 143.92,
+          "end": 144.32
+        },
+        {
+          "text": "tu peux le dire !",
+          "translations": {
+            "zh": "你说得没错！",
+            "en": "you can say that again!",
+            "es": "¡puedes decirlo!"
+          },
+          "start": 144.32,
+          "end": 144.96
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP14_P27",
+  "audio_filename": "FLS2_EP14_P27.mp3",
+  "audio_path": "downloads/FLS2_EP14_P27.mp3",
+  "episode": 14,
+  "piste": 27,
+  "page": 109,
+  "cd": "CD2"
+}

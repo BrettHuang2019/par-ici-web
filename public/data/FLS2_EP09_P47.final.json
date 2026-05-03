@@ -1,0 +1,1831 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 9 Piste 47 Page 75",
+      "translations": {
+        "zh": "第九集 音轨47 第75页",
+        "en": "Episode 9 Track 47 Page 75",
+        "es": "Episodio 9 Pista 47 Página 75"
+      },
+      "start": 0.88,
+      "end": 8.08,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.88,
+          "end": 1.6
+        },
+        {
+          "text": "9",
+          "start": 2.0,
+          "end": 2.08
+        },
+        {
+          "text": "Piste",
+          "start": 3.2,
+          "end": 3.6
+        },
+        {
+          "text": "47",
+          "start": 4.32,
+          "end": 4.96
+        },
+        {
+          "text": "Page",
+          "start": 6.48,
+          "end": 6.48
+        },
+        {
+          "text": "75",
+          "start": 6.48,
+          "end": 8.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 9",
+          "translations": {
+            "zh": "第九集",
+            "en": "Episode 9",
+            "es": "Episodio 9"
+          },
+          "start": 0.88,
+          "end": 2.08
+        },
+        {
+          "text": "Piste 47",
+          "translations": {
+            "zh": "音轨47",
+            "en": "Track 47",
+            "es": "Pista 47"
+          },
+          "start": 3.2,
+          "end": 4.96
+        },
+        {
+          "text": "Page 75",
+          "translations": {
+            "zh": "第75页",
+            "en": "Page 75",
+            "es": "Página 75"
+          },
+          "start": 6.48,
+          "end": 8.08
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bonjour.",
+      "translations": {
+        "zh": "您好。",
+        "en": "Hello.",
+        "es": "Buenos días."
+      },
+      "start": 9.28,
+      "end": 9.84,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 9.28,
+          "end": 9.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour.",
+          "translations": {
+            "zh": "您好。",
+            "en": "Hello.",
+            "es": "Buenos días."
+          },
+          "start": 9.28,
+          "end": 9.84
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Qu'est-ce qui vous amène aujourd'hui ?",
+      "translations": {
+        "zh": "今天是什么事让您来的？",
+        "en": "What brings you here today?",
+        "es": "¿Qué le trae hoy?"
+      },
+      "start": 10.24,
+      "end": 11.28,
+      "words": [
+        {
+          "text": "Qu'est",
+          "start": 10.24,
+          "end": 10.32
+        },
+        {
+          "text": "ce",
+          "start": 10.32,
+          "end": 10.4
+        },
+        {
+          "text": "qui",
+          "start": 10.4,
+          "end": 10.48
+        },
+        {
+          "text": "vous",
+          "start": 10.48,
+          "end": 10.64
+        },
+        {
+          "text": "amène",
+          "start": 10.64,
+          "end": 10.88
+        },
+        {
+          "text": "aujourd'hui",
+          "start": 10.88,
+          "end": 11.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Qu'est-ce qui vous amène",
+          "translations": {
+            "zh": "是什么事让您来的",
+            "en": "What brings you",
+            "es": "¿Qué le trae"
+          },
+          "start": 10.24,
+          "end": 10.88
+        },
+        {
+          "text": "aujourd'hui ?",
+          "translations": {
+            "zh": "今天？",
+            "en": "today?",
+            "es": "¿hoy?"
+          },
+          "start": 10.88,
+          "end": 11.28
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Moustache ne va pas bien.",
+      "translations": {
+        "zh": "Moustache身体不太好。",
+        "en": "Moustache is not doing well.",
+        "es": "Moustache no está bien."
+      },
+      "start": 11.84,
+      "end": 12.96,
+      "words": [
+        {
+          "text": "Moustache",
+          "start": 11.84,
+          "end": 12.32
+        },
+        {
+          "text": "ne",
+          "start": 12.32,
+          "end": 12.4
+        },
+        {
+          "text": "va",
+          "start": 12.4,
+          "end": 12.48
+        },
+        {
+          "text": "pas",
+          "start": 12.48,
+          "end": 12.64
+        },
+        {
+          "text": "bien",
+          "start": 12.64,
+          "end": 12.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Moustache ne va pas bien.",
+          "translations": {
+            "zh": "Moustache身体不太好。",
+            "en": "Moustache is not doing well.",
+            "es": "Moustache no está bien."
+          },
+          "start": 11.84,
+          "end": 12.96
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Qu'est-ce qui se passe exactement ?",
+      "translations": {
+        "zh": "到底发生了什么事？",
+        "en": "What exactly is going on?",
+        "es": "¿Qué pasa exactamente?"
+      },
+      "start": 13.28,
+      "end": 14.48,
+      "words": [
+        {
+          "text": "Qu'est",
+          "start": 13.28,
+          "end": 13.36
+        },
+        {
+          "text": "ce",
+          "start": 13.36,
+          "end": 13.44
+        },
+        {
+          "text": "qui",
+          "start": 13.44,
+          "end": 13.52
+        },
+        {
+          "text": "se",
+          "start": 13.52,
+          "end": 13.6
+        },
+        {
+          "text": "passe",
+          "start": 13.6,
+          "end": 13.92
+        },
+        {
+          "text": "exactement",
+          "start": 13.92,
+          "end": 14.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Qu'est-ce qui se passe",
+          "translations": {
+            "zh": "发生了什么事",
+            "en": "What is going on",
+            "es": "¿Qué pasa"
+          },
+          "start": 13.28,
+          "end": 13.92
+        },
+        {
+          "text": "exactement ?",
+          "translations": {
+            "zh": "到底？",
+            "en": "exactly?",
+            "es": "¿exactamente?"
+          },
+          "start": 13.92,
+          "end": 14.48
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Je me suis rendu compte, hier, en voulant aller marcher avec lui, qu'il boitait.",
+      "translations": {
+        "zh": "昨天，我想带他去散步的时候，我发现他跛了。",
+        "en": "I realized, yesterday, when I wanted to go for a walk with him, that he was limping.",
+        "es": "Me di cuenta, ayer, al querer ir a caminar con él, de que cojeaba."
+      },
+      "start": 14.72,
+      "end": 17.76,
+      "words": [
+        {
+          "text": "Je",
+          "start": 14.72,
+          "end": 14.88
+        },
+        {
+          "text": "me",
+          "start": 14.88,
+          "end": 14.96
+        },
+        {
+          "text": "suis",
+          "start": 14.96,
+          "end": 15.12
+        },
+        {
+          "text": "rendu",
+          "start": 15.12,
+          "end": 15.36
+        },
+        {
+          "text": "compte",
+          "start": 15.36,
+          "end": 15.6
+        },
+        {
+          "text": "hier",
+          "start": 15.6,
+          "end": 15.84
+        },
+        {
+          "text": "en",
+          "start": 15.84,
+          "end": 15.92
+        },
+        {
+          "text": "voulant",
+          "start": 15.92,
+          "end": 16.16
+        },
+        {
+          "text": "aller",
+          "start": 16.16,
+          "end": 16.4
+        },
+        {
+          "text": "marcher",
+          "start": 16.4,
+          "end": 16.72
+        },
+        {
+          "text": "avec",
+          "start": 16.72,
+          "end": 16.96
+        },
+        {
+          "text": "lui",
+          "start": 16.96,
+          "end": 17.12
+        },
+        {
+          "text": "qu'il",
+          "start": 17.12,
+          "end": 17.36
+        },
+        {
+          "text": "boitait",
+          "start": 17.36,
+          "end": 17.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je me suis rendu compte,",
+          "translations": {
+            "zh": "我发现，",
+            "en": "I realized,",
+            "es": "Me di cuenta,"
+          },
+          "start": 14.72,
+          "end": 15.6
+        },
+        {
+          "text": "hier,",
+          "translations": {
+            "zh": "昨天，",
+            "en": "yesterday,",
+            "es": "ayer,"
+          },
+          "start": 15.6,
+          "end": 15.84
+        },
+        {
+          "text": "en voulant aller marcher avec lui,",
+          "translations": {
+            "zh": "在我想和他去散步的时候，",
+            "en": "when wanting to go for a walk with him,",
+            "es": "al querer ir a caminar con él,"
+          },
+          "start": 15.84,
+          "end": 17.12
+        },
+        {
+          "text": "qu'il boitait.",
+          "translations": {
+            "zh": "他跛了。",
+            "en": "that he was limping.",
+            "es": "de que cojeaba."
+          },
+          "start": 17.12,
+          "end": 17.76
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Il a l'air d'avoir mal à la patte arrière gauche.",
+      "translations": {
+        "zh": "他看起来左后腿疼。",
+        "en": "He seems to be in pain in his left back leg.",
+        "es": "Parece que le duele la pata trasera izquierda."
+      },
+      "start": 18.4,
+      "end": 20.4,
+      "words": [
+        {
+          "text": "Il",
+          "start": 18.4,
+          "end": 18.48
+        },
+        {
+          "text": "a",
+          "start": 18.56,
+          "end": 18.56
+        },
+        {
+          "text": "l'air",
+          "start": 18.56,
+          "end": 18.8
+        },
+        {
+          "text": "d'avoir",
+          "start": 18.8,
+          "end": 19.04
+        },
+        {
+          "text": "mal",
+          "start": 19.04,
+          "end": 19.2
+        },
+        {
+          "text": "à",
+          "start": 19.2,
+          "end": 19.28
+        },
+        {
+          "text": "la",
+          "start": 19.28,
+          "end": 19.44
+        },
+        {
+          "text": "patte",
+          "start": 19.44,
+          "end": 19.68
+        },
+        {
+          "text": "arrière",
+          "start": 19.68,
+          "end": 20.0
+        },
+        {
+          "text": "gauche",
+          "start": 20.0,
+          "end": 20.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il a l'air d'avoir mal",
+          "translations": {
+            "zh": "他看起来好像很疼",
+            "en": "He seems to be in pain",
+            "es": "Parece que le duele"
+          },
+          "start": 18.4,
+          "end": 19.2
+        },
+        {
+          "text": "à la patte arrière gauche.",
+          "translations": {
+            "zh": "在左后腿。",
+            "en": "in his left back leg.",
+            "es": "la pata trasera izquierda."
+          },
+          "start": 19.2,
+          "end": 20.4
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "D'autres symptômes ?",
+      "translations": {
+        "zh": "还有其他症状吗？",
+        "en": "Any other symptoms?",
+        "es": "¿Otros síntomas?"
+      },
+      "start": 20.8,
+      "end": 21.68,
+      "words": [
+        {
+          "text": "D'autres",
+          "start": 20.8,
+          "end": 21.12
+        },
+        {
+          "text": "symptômes",
+          "start": 21.12,
+          "end": 21.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'autres symptômes ?",
+          "translations": {
+            "zh": "还有其他症状吗？",
+            "en": "Any other symptoms?",
+            "es": "¿Otros síntomas?"
+          },
+          "start": 20.8,
+          "end": 21.68
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Il ne mange presque plus, il ne bouge pas.",
+      "translations": {
+        "zh": "他几乎不怎么吃东西了，也不动。",
+        "en": "He's hardly eating anymore, he's not moving.",
+        "es": "Ya casi no come, no se mueve."
+      },
+      "start": 22.08,
+      "end": 23.68,
+      "words": [
+        {
+          "text": "Il",
+          "start": 22.08,
+          "end": 22.16
+        },
+        {
+          "text": "ne",
+          "start": 22.16,
+          "end": 22.24
+        },
+        {
+          "text": "mange",
+          "start": 22.24,
+          "end": 22.4
+        },
+        {
+          "text": "presque",
+          "start": 22.4,
+          "end": 22.72
+        },
+        {
+          "text": "plus",
+          "start": 22.72,
+          "end": 23.04
+        },
+        {
+          "text": "il",
+          "start": 23.04,
+          "end": 23.2
+        },
+        {
+          "text": "ne",
+          "start": 23.2,
+          "end": 23.2
+        },
+        {
+          "text": "bouge",
+          "start": 23.2,
+          "end": 23.44
+        },
+        {
+          "text": "pas",
+          "start": 23.44,
+          "end": 23.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il ne mange presque plus,",
+          "translations": {
+            "zh": "他几乎不怎么吃东西了，",
+            "en": "He's hardly eating anymore,",
+            "es": "Ya casi no come,"
+          },
+          "start": 22.08,
+          "end": 23.04
+        },
+        {
+          "text": "il ne bouge pas.",
+          "translations": {
+            "zh": "他也不动。",
+            "en": "he's not moving.",
+            "es": "no se mueve."
+          },
+          "start": 23.04,
+          "end": 23.68
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Il a l'air d'avoir de la difficulté à se tenir debout.",
+      "translations": {
+        "zh": "他看起来保持站立很困难。",
+        "en": "He seems to have difficulty standing up.",
+        "es": "Parece tener dificultad para mantenerse de pie."
+      },
+      "start": 24.56,
+      "end": 26.48,
+      "words": [
+        {
+          "text": "Il",
+          "start": 24.56,
+          "end": 24.64
+        },
+        {
+          "text": "a",
+          "start": 24.64,
+          "end": 24.72
+        },
+        {
+          "text": "l'air",
+          "start": 24.72,
+          "end": 24.88
+        },
+        {
+          "text": "d'avoir",
+          "start": 24.88,
+          "end": 25.2
+        },
+        {
+          "text": "de",
+          "start": 25.2,
+          "end": 25.28
+        },
+        {
+          "text": "la",
+          "start": 25.28,
+          "end": 25.36
+        },
+        {
+          "text": "difficulté",
+          "start": 25.36,
+          "end": 25.92
+        },
+        {
+          "text": "à",
+          "start": 25.92,
+          "end": 25.92
+        },
+        {
+          "text": "se",
+          "start": 25.92,
+          "end": 26.08
+        },
+        {
+          "text": "tenir",
+          "start": 26.08,
+          "end": 26.24
+        },
+        {
+          "text": "debout",
+          "start": 26.24,
+          "end": 26.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il a l'air d'avoir de la difficulté",
+          "translations": {
+            "zh": "他看起来有困难",
+            "en": "He seems to have difficulty",
+            "es": "Parece tener dificultad"
+          },
+          "start": 24.56,
+          "end": 25.92
+        },
+        {
+          "text": "à se tenir debout.",
+          "translations": {
+            "zh": "保持站立。",
+            "en": "standing up.",
+            "es": "para mantenerse de pie."
+          },
+          "start": 25.92,
+          "end": 26.48
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Ça a commencé à quel moment ?",
+      "translations": {
+        "zh": "这是从什么时候开始的？",
+        "en": "When did it start?",
+        "es": "¿Cuándo empezó?"
+      },
+      "start": 26.8,
+      "end": 28.0,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 26.8,
+          "end": 26.96
+        },
+        {
+          "text": "a",
+          "start": 26.96,
+          "end": 26.96
+        },
+        {
+          "text": "commencé",
+          "start": 26.96,
+          "end": 27.44
+        },
+        {
+          "text": "à",
+          "start": 27.44,
+          "end": 27.52
+        },
+        {
+          "text": "quel",
+          "start": 27.52,
+          "end": 27.76
+        },
+        {
+          "text": "moment",
+          "start": 27.76,
+          "end": 28.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça a commencé",
+          "translations": {
+            "zh": "这开始的",
+            "en": "It started",
+            "es": "¿Empezó"
+          },
+          "start": 26.8,
+          "end": 27.44
+        },
+        {
+          "text": "à quel moment ?",
+          "translations": {
+            "zh": "是在什么时候？",
+            "en": "when?",
+            "es": "en qué momento?"
+          },
+          "start": 27.44,
+          "end": 28.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Je m'en suis rendu compte hier matin.",
+      "translations": {
+        "zh": "我昨天早上才发现的。",
+        "en": "I noticed it yesterday morning.",
+        "es": "Me di cuenta ayer por la mañana."
+      },
+      "start": 28.56,
+      "end": 29.84,
+      "words": [
+        {
+          "text": "Je",
+          "start": 28.56,
+          "end": 28.64
+        },
+        {
+          "text": "m'en",
+          "start": 28.64,
+          "end": 28.8
+        },
+        {
+          "text": "suis",
+          "start": 28.8,
+          "end": 28.96
+        },
+        {
+          "text": "rendu",
+          "start": 28.96,
+          "end": 29.12
+        },
+        {
+          "text": "compte",
+          "start": 29.12,
+          "end": 29.36
+        },
+        {
+          "text": "hier",
+          "start": 29.36,
+          "end": 29.52
+        },
+        {
+          "text": "matin",
+          "start": 29.52,
+          "end": 29.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je m'en suis rendu compte",
+          "translations": {
+            "zh": "我发现了这件事",
+            "en": "I noticed it",
+            "es": "Me di cuenta"
+          },
+          "start": 28.56,
+          "end": 29.36
+        },
+        {
+          "text": "hier matin.",
+          "translations": {
+            "zh": "昨天早上。",
+            "en": "yesterday morning.",
+            "es": "ayer por la mañana."
+          },
+          "start": 29.36,
+          "end": 29.84
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Ma mère a été hospitalisée, je n'ai pas été souvent chez moi et je suis pas mal distrait depuis quelques jours.",
+      "translations": {
+        "zh": "我母亲住院了，我不怎么在家，最近几天挺分心的。",
+        "en": "My mother was hospitalized, I haven't been home much and I've been pretty distracted for a few days.",
+        "es": "Mi madre fue hospitalizada, no he estado mucho en casa y estoy bastante distraído desde hace unos días."
+      },
+      "start": 30.08,
+      "end": 34.8,
+      "words": [
+        {
+          "text": "Ma",
+          "start": 30.08,
+          "end": 30.32
+        },
+        {
+          "text": "mère",
+          "start": 30.32,
+          "end": 30.56
+        },
+        {
+          "text": "a",
+          "start": 30.56,
+          "end": 30.56
+        },
+        {
+          "text": "été",
+          "start": 30.56,
+          "end": 30.72
+        },
+        {
+          "text": "hospitalisée",
+          "start": 30.72,
+          "end": 31.36
+        },
+        {
+          "text": "je",
+          "start": 31.52,
+          "end": 31.76
+        },
+        {
+          "text": "n'ai",
+          "start": 31.76,
+          "end": 31.76
+        },
+        {
+          "text": "pas",
+          "start": 31.76,
+          "end": 31.92
+        },
+        {
+          "text": "été",
+          "start": 31.92,
+          "end": 32.08
+        },
+        {
+          "text": "souvent",
+          "start": 32.08,
+          "end": 32.32
+        },
+        {
+          "text": "chez",
+          "start": 32.32,
+          "end": 32.48
+        },
+        {
+          "text": "moi",
+          "start": 32.48,
+          "end": 32.8
+        },
+        {
+          "text": "et",
+          "start": 32.8,
+          "end": 33.04
+        },
+        {
+          "text": "je",
+          "start": 33.04,
+          "end": 33.04
+        },
+        {
+          "text": "suis",
+          "start": 33.04,
+          "end": 33.28
+        },
+        {
+          "text": "pas",
+          "start": 33.28,
+          "end": 33.44
+        },
+        {
+          "text": "mal",
+          "start": 33.44,
+          "end": 33.6
+        },
+        {
+          "text": "distrait",
+          "start": 33.6,
+          "end": 34.0
+        },
+        {
+          "text": "depuis",
+          "start": 34.0,
+          "end": 34.16
+        },
+        {
+          "text": "quelques",
+          "start": 34.16,
+          "end": 34.48
+        },
+        {
+          "text": "jours",
+          "start": 34.48,
+          "end": 34.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ma mère a été hospitalisée,",
+          "translations": {
+            "zh": "我母亲住院了，",
+            "en": "My mother was hospitalized,",
+            "es": "Mi madre fue hospitalizada,"
+          },
+          "start": 30.08,
+          "end": 31.36
+        },
+        {
+          "text": "je n'ai pas été souvent chez moi",
+          "translations": {
+            "zh": "我不怎么在家",
+            "en": "I haven't been home much",
+            "es": "no he estado mucho en casa"
+          },
+          "start": 31.52,
+          "end": 32.8
+        },
+        {
+          "text": "et je suis pas mal distrait",
+          "translations": {
+            "zh": "而且我挺分心的",
+            "en": "and I've been pretty distracted",
+            "es": "y estoy bastante distraído"
+          },
+          "start": 32.8,
+          "end": 34.0
+        },
+        {
+          "text": "depuis quelques jours.",
+          "translations": {
+            "zh": "最近几天。",
+            "en": "for a few days.",
+            "es": "desde hace unos días."
+          },
+          "start": 34.0,
+          "end": 34.8
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Est-ce qu'il s'est blessé en faisant une activité ?",
+      "translations": {
+        "zh": "他是在做活动的时候受伤的吗？",
+        "en": "Did he get injured doing an activity?",
+        "es": "¿Se lastimó haciendo alguna actividad?"
+      },
+      "start": 35.44,
+      "end": 37.44,
+      "words": [
+        {
+          "text": "Est",
+          "start": 35.44,
+          "end": 35.52
+        },
+        {
+          "text": "ce",
+          "start": 35.52,
+          "end": 35.6
+        },
+        {
+          "text": "qu'il",
+          "start": 35.6,
+          "end": 35.68
+        },
+        {
+          "text": "s'est",
+          "start": 35.68,
+          "end": 35.84
+        },
+        {
+          "text": "blessé",
+          "start": 35.84,
+          "end": 36.32
+        },
+        {
+          "text": "en",
+          "start": 36.32,
+          "end": 36.4
+        },
+        {
+          "text": "faisant",
+          "start": 36.4,
+          "end": 36.64
+        },
+        {
+          "text": "une",
+          "start": 36.64,
+          "end": 36.8
+        },
+        {
+          "text": "activité",
+          "start": 36.8,
+          "end": 37.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce qu'il s'est blessé",
+          "translations": {
+            "zh": "他是不是受伤了",
+            "en": "Did he get injured",
+            "es": "¿Se lastimó"
+          },
+          "start": 35.44,
+          "end": 36.32
+        },
+        {
+          "text": "en faisant une activité ?",
+          "translations": {
+            "zh": "在做活动的时候？",
+            "en": "doing an activity?",
+            "es": "¿haciendo alguna actividad?"
+          },
+          "start": 36.32,
+          "end": 37.44
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Non, je ne pense pas.",
+      "translations": {
+        "zh": "不，我觉得没有。",
+        "en": "No, I don't think so.",
+        "es": "No, no creo."
+      },
+      "start": 37.68,
+      "end": 38.4,
+      "words": [
+        {
+          "text": "Non",
+          "start": 37.68,
+          "end": 37.92
+        },
+        {
+          "text": "je",
+          "start": 37.92,
+          "end": 38.08
+        },
+        {
+          "text": "ne",
+          "start": 38.08,
+          "end": 38.08
+        },
+        {
+          "text": "pense",
+          "start": 38.08,
+          "end": 38.24
+        },
+        {
+          "text": "pas",
+          "start": 38.24,
+          "end": 38.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Non,",
+          "translations": {
+            "zh": "不，",
+            "en": "No,",
+            "es": "No,"
+          },
+          "start": 37.68,
+          "end": 37.92
+        },
+        {
+          "text": "je ne pense pas.",
+          "translations": {
+            "zh": "我觉得没有。",
+            "en": "I don't think so.",
+            "es": "no creo."
+          },
+          "start": 37.92,
+          "end": 38.4
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "On n'a rien fait de particulier.",
+      "translations": {
+        "zh": "我们没做什么特别的事。",
+        "en": "We didn't do anything unusual.",
+        "es": "No hicimos nada en particular."
+      },
+      "start": 39.36,
+      "end": 40.56,
+      "words": [
+        {
+          "text": "On",
+          "start": 39.36,
+          "end": 39.44
+        },
+        {
+          "text": "n'a",
+          "start": 39.44,
+          "end": 39.52
+        },
+        {
+          "text": "rien",
+          "start": 39.52,
+          "end": 39.76
+        },
+        {
+          "text": "fait",
+          "start": 39.76,
+          "end": 39.84
+        },
+        {
+          "text": "de",
+          "start": 39.84,
+          "end": 39.92
+        },
+        {
+          "text": "particulier",
+          "start": 39.92,
+          "end": 40.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On n'a rien fait de particulier.",
+          "translations": {
+            "zh": "我们没做什么特别的事。",
+            "en": "We didn't do anything unusual.",
+            "es": "No hicimos nada en particular."
+          },
+          "start": 39.36,
+          "end": 40.56
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Une demi-heure de marche chaque jour, comme d'habitude.",
+      "translations": {
+        "zh": "每天散步半小时，像往常一样。",
+        "en": "A half hour walk every day, as usual.",
+        "es": "Media hora de caminata cada día, como de costumbre."
+      },
+      "start": 41.12,
+      "end": 42.96,
+      "words": [
+        {
+          "text": "Une",
+          "start": 41.12,
+          "end": 41.28
+        },
+        {
+          "text": "demi",
+          "start": 41.28,
+          "end": 41.52
+        },
+        {
+          "text": "heure",
+          "start": 41.52,
+          "end": 41.68
+        },
+        {
+          "text": "de",
+          "start": 41.68,
+          "end": 41.76
+        },
+        {
+          "text": "marche",
+          "start": 41.76,
+          "end": 42.0
+        },
+        {
+          "text": "chaque",
+          "start": 42.0,
+          "end": 42.16
+        },
+        {
+          "text": "jour",
+          "start": 42.16,
+          "end": 42.4
+        },
+        {
+          "text": "comme",
+          "start": 42.4,
+          "end": 42.56
+        },
+        {
+          "text": "d'habitude",
+          "start": 42.56,
+          "end": 42.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Une demi-heure de marche chaque jour,",
+          "translations": {
+            "zh": "每天散步半小时，",
+            "en": "A half hour walk every day,",
+            "es": "Media hora de caminata cada día,"
+          },
+          "start": 41.12,
+          "end": 42.4
+        },
+        {
+          "text": "comme d'habitude.",
+          "translations": {
+            "zh": "像往常一样。",
+            "en": "as usual.",
+            "es": "como de costumbre."
+          },
+          "start": 42.4,
+          "end": 42.96
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Il ne s'est pas fait mordre ?",
+      "translations": {
+        "zh": "他没有被咬吗？",
+        "en": "He didn't get bitten?",
+        "es": "¿No lo mordieron?"
+      },
+      "start": 43.92,
+      "end": 45.2,
+      "words": [
+        {
+          "text": "Il",
+          "start": 43.92,
+          "end": 44.0
+        },
+        {
+          "text": "ne",
+          "start": 44.0,
+          "end": 44.0
+        },
+        {
+          "text": "s'est",
+          "start": 44.0,
+          "end": 44.16
+        },
+        {
+          "text": "pas",
+          "start": 44.16,
+          "end": 44.32
+        },
+        {
+          "text": "fait",
+          "start": 44.32,
+          "end": 44.48
+        },
+        {
+          "text": "mordre",
+          "start": 44.48,
+          "end": 45.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il ne s'est pas fait mordre ?",
+          "translations": {
+            "zh": "他没有被咬吗？",
+            "en": "He didn't get bitten?",
+            "es": "¿No lo mordieron?"
+          },
+          "start": 43.92,
+          "end": 45.2
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Est- ce qu'il a été en contact avec d'autres animaux ?",
+      "translations": {
+        "zh": "他有没有和其他动物接触过？",
+        "en": "Has he been in contact with other animals?",
+        "es": "¿Ha estado en contacto con otros animales?"
+      },
+      "start": 45.92,
+      "end": 47.92,
+      "words": [
+        {
+          "text": "Est",
+          "start": 45.92,
+          "end": 46.08
+        },
+        {
+          "text": "ce",
+          "start": 46.08,
+          "end": 46.16
+        },
+        {
+          "text": "qu'il",
+          "start": 46.16,
+          "end": 46.32
+        },
+        {
+          "text": "a",
+          "start": 46.32,
+          "end": 46.32
+        },
+        {
+          "text": "été",
+          "start": 46.32,
+          "end": 46.56
+        },
+        {
+          "text": "en",
+          "start": 46.56,
+          "end": 46.64
+        },
+        {
+          "text": "contact",
+          "start": 46.64,
+          "end": 47.04
+        },
+        {
+          "text": "avec",
+          "start": 47.04,
+          "end": 47.2
+        },
+        {
+          "text": "d'autres",
+          "start": 47.2,
+          "end": 47.6
+        },
+        {
+          "text": "animaux",
+          "start": 47.6,
+          "end": 47.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est- ce qu'il a été en contact",
+          "translations": {
+            "zh": "他有没有接触过",
+            "en": "Has he been in contact",
+            "es": "¿Ha estado en contacto"
+          },
+          "start": 45.92,
+          "end": 47.04
+        },
+        {
+          "text": "avec d'autres animaux ?",
+          "translations": {
+            "zh": "和其他动物？",
+            "en": "with other animals?",
+            "es": "¿con otros animales?"
+          },
+          "start": 47.04,
+          "end": 47.92
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "TRAN S C RIP TION DE S DIALO GUES On est allés au parc à chiens samedi.",
+      "translations": {
+        "zh": "对话记录 我们星期六去了狗公园。",
+        "en": "TRANSCRIPT OF THE DIALOGUES We went to the dog park on Saturday.",
+        "es": "TRANSCRIPCIÓN DE LOS DIÁLOGOS Fuimos al parque para perros el sábado."
+      },
+      "start": 48.32,
+      "end": 49.76,
+      "words": [
+        {
+          "text": "TRAN",
+          "start": 48.32,
+          "end": 48.48
+        },
+        {
+          "text": "S",
+          "start": 48.48,
+          "end": 48.64
+        },
+        {
+          "text": "C",
+          "start": 48.64,
+          "end": 48.64
+        },
+        {
+          "text": "RIP",
+          "start": 48.644,
+          "end": 48.648
+        },
+        {
+          "text": "TION",
+          "start": 48.652,
+          "end": 48.656
+        },
+        {
+          "text": "DE",
+          "start": 48.661,
+          "end": 48.665
+        },
+        {
+          "text": "S",
+          "start": 48.669,
+          "end": 48.673
+        },
+        {
+          "text": "DIALO",
+          "start": 48.677,
+          "end": 48.682
+        },
+        {
+          "text": "GUES",
+          "start": 48.686,
+          "end": 48.69
+        },
+        {
+          "text": "On",
+          "start": 48.694,
+          "end": 48.698
+        },
+        {
+          "text": "est",
+          "start": 48.703,
+          "end": 48.707
+        },
+        {
+          "text": "allés",
+          "start": 48.711,
+          "end": 48.715
+        },
+        {
+          "text": "au",
+          "start": 48.72,
+          "end": 48.8
+        },
+        {
+          "text": "parc",
+          "start": 48.8,
+          "end": 49.04
+        },
+        {
+          "text": "à",
+          "start": 49.04,
+          "end": 49.12
+        },
+        {
+          "text": "chiens",
+          "start": 49.12,
+          "end": 49.28
+        },
+        {
+          "text": "samedi",
+          "start": 49.28,
+          "end": 49.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "TRAN S C RIP TION DE S DIALO GUES",
+          "translations": {
+            "zh": "对话记录",
+            "en": "TRANSCRIPT OF THE DIALOGUES",
+            "es": "TRANSCRIPCIÓN DE LOS DIÁLOGOS"
+          },
+          "start": 48.32,
+          "end": 48.69
+        },
+        {
+          "text": "On est allés au parc à chiens samedi.",
+          "translations": {
+            "zh": "我们星期六去了狗公园。",
+            "en": "We went to the dog park on Saturday.",
+            "es": "Fuimos al parque para perros el sábado."
+          },
+          "start": 48.694,
+          "end": 49.76
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Mais on y va souvent et Moustache n'a jamais eu de problème.",
+      "translations": {
+        "zh": "但我们经常去那里，Moustache从来没出过问题。",
+        "en": "But we go there often and Moustache has never had a problem.",
+        "es": "Pero vamos a menudo y Moustache nunca ha tenido ningún problema."
+      },
+      "start": 50.4,
+      "end": 52.8,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 50.4,
+          "end": 50.64
+        },
+        {
+          "text": "on",
+          "start": 50.64,
+          "end": 50.72
+        },
+        {
+          "text": "y",
+          "start": 50.72,
+          "end": 50.8
+        },
+        {
+          "text": "va",
+          "start": 50.8,
+          "end": 50.88
+        },
+        {
+          "text": "souvent",
+          "start": 50.88,
+          "end": 51.28
+        },
+        {
+          "text": "et",
+          "start": 51.28,
+          "end": 51.36
+        },
+        {
+          "text": "Moustache",
+          "start": 51.44,
+          "end": 51.92
+        },
+        {
+          "text": "n'a",
+          "start": 51.92,
+          "end": 52.0
+        },
+        {
+          "text": "jamais",
+          "start": 52.0,
+          "end": 52.16
+        },
+        {
+          "text": "eu",
+          "start": 52.16,
+          "end": 52.32
+        },
+        {
+          "text": "de",
+          "start": 52.32,
+          "end": 52.32
+        },
+        {
+          "text": "problème",
+          "start": 52.32,
+          "end": 52.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais on y va souvent",
+          "translations": {
+            "zh": "但我们经常去那里",
+            "en": "But we go there often",
+            "es": "Pero vamos a menudo"
+          },
+          "start": 50.4,
+          "end": 51.28
+        },
+        {
+          "text": "et Moustache n'a jamais eu de problème.",
+          "translations": {
+            "zh": "而Moustache从来没出过问题。",
+            "en": "and Moustache has never had a problem.",
+            "es": "y Moustache nunca ha tenido ningún problema."
+          },
+          "start": 51.28,
+          "end": 52.8
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "D'accord.",
+      "translations": {
+        "zh": "好的。",
+        "en": "All right.",
+        "es": "De acuerdo."
+      },
+      "start": 53.12,
+      "end": 53.52,
+      "words": [
+        {
+          "text": "D'accord",
+          "start": 53.12,
+          "end": 53.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'accord.",
+          "translations": {
+            "zh": "好的。",
+            "en": "All right.",
+            "es": "De acuerdo."
+          },
+          "start": 53.12,
+          "end": 53.52
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Je vais commencer par l'examiner.",
+      "translations": {
+        "zh": "我先给他做个检查。",
+        "en": "I'm going to start by examining him.",
+        "es": "Voy a empezar por examinarlo."
+      },
+      "start": 54.32,
+      "end": 55.6,
+      "words": [
+        {
+          "text": "Je",
+          "start": 54.32,
+          "end": 54.4
+        },
+        {
+          "text": "vais",
+          "start": 54.48,
+          "end": 54.56
+        },
+        {
+          "text": "commencer",
+          "start": 54.56,
+          "end": 54.96
+        },
+        {
+          "text": "par",
+          "start": 54.96,
+          "end": 55.12
+        },
+        {
+          "text": "l'examiner",
+          "start": 55.12,
+          "end": 55.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais commencer par l'examiner.",
+          "translations": {
+            "zh": "我先给他做个检查。",
+            "en": "I'm going to start by examining him.",
+            "es": "Voy a empezar por examinarlo."
+          },
+          "start": 54.32,
+          "end": 55.6
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Pouvez-vous m'aider à le monter sur la table ?",
+      "translations": {
+        "zh": "您能帮我把他抱上桌子吗？",
+        "en": "Can you help me lift him onto the table?",
+        "es": "¿Puede ayudarme a subirlo a la mesa?"
+      },
+      "start": 56.48,
+      "end": 58.24,
+      "words": [
+        {
+          "text": "Pouvez",
+          "start": 56.48,
+          "end": 56.72
+        },
+        {
+          "text": "vous",
+          "start": 56.72,
+          "end": 56.88
+        },
+        {
+          "text": "m'aider",
+          "start": 56.88,
+          "end": 57.12
+        },
+        {
+          "text": "à",
+          "start": 57.12,
+          "end": 57.28
+        },
+        {
+          "text": "le",
+          "start": 57.28,
+          "end": 57.28
+        },
+        {
+          "text": "monter",
+          "start": 57.28,
+          "end": 57.6
+        },
+        {
+          "text": "sur",
+          "start": 57.6,
+          "end": 57.76
+        },
+        {
+          "text": "la",
+          "start": 57.76,
+          "end": 57.92
+        },
+        {
+          "text": "table",
+          "start": 57.92,
+          "end": 58.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pouvez-vous m'aider",
+          "translations": {
+            "zh": "您能帮我吗",
+            "en": "Can you help me",
+            "es": "¿Puede ayudarme"
+          },
+          "start": 56.48,
+          "end": 57.12
+        },
+        {
+          "text": "à le monter sur la table ?",
+          "translations": {
+            "zh": "把他抱上桌子？",
+            "en": "lift him onto the table?",
+            "es": "¿a subirlo a la mesa?"
+          },
+          "start": 57.12,
+          "end": 58.24
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Bien sûr.",
+      "translations": {
+        "zh": "当然。",
+        "en": "Of course.",
+        "es": "Claro."
+      },
+      "start": 58.64,
+      "end": 59.04,
+      "words": [
+        {
+          "text": "Bien",
+          "start": 58.64,
+          "end": 58.8
+        },
+        {
+          "text": "sûr",
+          "start": 58.8,
+          "end": 59.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bien sûr.",
+          "translations": {
+            "zh": "当然。",
+            "en": "Of course.",
+            "es": "Claro."
+          },
+          "start": 58.64,
+          "end": 59.04
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP09_P47",
+  "audio_filename": "FLS2_EP09_P47.mp3",
+  "audio_path": "downloads/FLS2_EP09_P47.mp3",
+  "episode": 9,
+  "piste": 47,
+  "page": 75,
+  "cd": "CD1"
+}

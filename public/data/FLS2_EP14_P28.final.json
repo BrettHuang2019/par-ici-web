@@ -1,0 +1,586 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 14 Piste 28 Page 110",
+      "translations": {
+        "zh": "第14集 第28轨 第110页",
+        "en": "Episode 14 Track 28 Page 110",
+        "es": "Episodio 14 Pista 28 Página 110"
+      },
+      "start": 0.64,
+      "end": 6.48,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.64,
+          "end": 1.36
+        },
+        {
+          "text": "14",
+          "start": 1.84,
+          "end": 2.48
+        },
+        {
+          "text": "Piste",
+          "start": 3.28,
+          "end": 3.68
+        },
+        {
+          "text": "28",
+          "start": 4.08,
+          "end": 4.72
+        },
+        {
+          "text": "Page",
+          "start": 4.72,
+          "end": 4.72
+        },
+        {
+          "text": "110",
+          "start": 6.48,
+          "end": 6.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 14",
+          "translations": {
+            "zh": "第14集",
+            "en": "Episode 14",
+            "es": "Episodio 14"
+          },
+          "start": 0.64,
+          "end": 2.48
+        },
+        {
+          "text": "Piste 28",
+          "translations": {
+            "zh": "第28轨",
+            "en": "Track 28",
+            "es": "Pista 28"
+          },
+          "start": 3.28,
+          "end": 4.72
+        },
+        {
+          "text": "Page 110",
+          "translations": {
+            "zh": "第110页",
+            "en": "Page 110",
+            "es": "Página 110"
+          },
+          "start": 4.72,
+          "end": 6.48
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Tu étais fatigué et stressé.",
+      "translations": {
+        "zh": "你当时又累又紧张。",
+        "en": "You were tired and stressed.",
+        "es": "Estabas cansado y estresado."
+      },
+      "start": 10.16,
+      "end": 12.0,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 10.16,
+          "end": 10.32
+        },
+        {
+          "text": "étais",
+          "start": 10.32,
+          "end": 10.56
+        },
+        {
+          "text": "fatigué",
+          "start": 10.56,
+          "end": 11.2
+        },
+        {
+          "text": "et",
+          "start": 11.2,
+          "end": 11.2
+        },
+        {
+          "text": "stressé",
+          "start": 11.52,
+          "end": 12.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu étais fatigué",
+          "translations": {
+            "zh": "你当时很累",
+            "en": "You were tired",
+            "es": "Estabas cansado"
+          },
+          "start": 10.16,
+          "end": 11.2
+        },
+        {
+          "text": "et stressé.",
+          "translations": {
+            "zh": "也很紧张。",
+            "en": "and stressed.",
+            "es": "y estresado."
+          },
+          "start": 11.2,
+          "end": 12.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Hier, j'ai rencontré ton frère.",
+      "translations": {
+        "zh": "昨天，我遇见了你哥哥。",
+        "en": "Yesterday, I met your brother.",
+        "es": "Ayer, conocí a tu hermano."
+      },
+      "start": 13.76,
+      "end": 16.72,
+      "words": [
+        {
+          "text": "Hier",
+          "start": 13.76,
+          "end": 13.92
+        },
+        {
+          "text": "j'ai",
+          "start": 14.96,
+          "end": 15.12
+        },
+        {
+          "text": "rencontré",
+          "start": 15.76,
+          "end": 16.16
+        },
+        {
+          "text": "ton",
+          "start": 16.16,
+          "end": 16.32
+        },
+        {
+          "text": "frère",
+          "start": 16.32,
+          "end": 16.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Hier,",
+          "translations": {
+            "zh": "昨天，",
+            "en": "Yesterday,",
+            "es": "Ayer,"
+          },
+          "start": 13.76,
+          "end": 13.92
+        },
+        {
+          "text": "j'ai rencontré ton frère.",
+          "translations": {
+            "zh": "我遇见了你哥哥。",
+            "en": "I met your brother.",
+            "es": "conocí a tu hermano."
+          },
+          "start": 14.96,
+          "end": 16.72
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Il faisait un froid sibérien.",
+      "translations": {
+        "zh": "当时天气冷得像西伯利亚一样。",
+        "en": "It was a Siberian cold.",
+        "es": "Hacía un frío siberiano."
+      },
+      "start": 20.16,
+      "end": 21.76,
+      "words": [
+        {
+          "text": "Il",
+          "start": 20.16,
+          "end": 20.32
+        },
+        {
+          "text": "faisait",
+          "start": 20.32,
+          "end": 20.56
+        },
+        {
+          "text": "un",
+          "start": 20.56,
+          "end": 20.72
+        },
+        {
+          "text": "froid",
+          "start": 20.72,
+          "end": 21.04
+        },
+        {
+          "text": "sibérien",
+          "start": 21.04,
+          "end": 21.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il faisait",
+          "translations": {
+            "zh": "当时天气",
+            "en": "It was",
+            "es": "Hacía"
+          },
+          "start": 20.16,
+          "end": 20.56
+        },
+        {
+          "text": "un froid sibérien.",
+          "translations": {
+            "zh": "冷得像西伯利亚一样。",
+            "en": "a Siberian cold.",
+            "es": "un frío siberiano."
+          },
+          "start": 20.56,
+          "end": 21.76
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Chaque lundi soir, j'allais voir ma grand- mère.",
+      "translations": {
+        "zh": "每个星期一晚上，我去看我奶奶。",
+        "en": "Every Monday evening, I used to go see my grandmother.",
+        "es": "Cada lunes por la noche, iba a ver a mi abuela."
+      },
+      "start": 24.72,
+      "end": 27.36,
+      "words": [
+        {
+          "text": "Chaque",
+          "start": 24.72,
+          "end": 25.04
+        },
+        {
+          "text": "lundi",
+          "start": 25.12,
+          "end": 25.36
+        },
+        {
+          "text": "soir",
+          "start": 25.36,
+          "end": 26.08
+        },
+        {
+          "text": "j'allais",
+          "start": 26.24,
+          "end": 26.48
+        },
+        {
+          "text": "voir",
+          "start": 26.48,
+          "end": 26.64
+        },
+        {
+          "text": "ma",
+          "start": 26.64,
+          "end": 26.72
+        },
+        {
+          "text": "grand",
+          "start": 26.72,
+          "end": 26.96
+        },
+        {
+          "text": "mère",
+          "start": 26.96,
+          "end": 27.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Chaque lundi soir,",
+          "translations": {
+            "zh": "每个星期一晚上，",
+            "en": "Every Monday evening,",
+            "es": "Cada lunes por la noche,"
+          },
+          "start": 24.72,
+          "end": 26.08
+        },
+        {
+          "text": "j'allais voir ma grand- mère.",
+          "translations": {
+            "zh": "我去看我奶奶。",
+            "en": "I used to go see my grandmother.",
+            "es": "iba a ver a mi abuela."
+          },
+          "start": 26.24,
+          "end": 27.36
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Il est arrivé ici en 2013.",
+      "translations": {
+        "zh": "他2013年来到了这里。",
+        "en": "He arrived here in 2013.",
+        "es": "Llegó aquí en 2013."
+      },
+      "start": 30.4,
+      "end": 32.32,
+      "words": [
+        {
+          "text": "Il",
+          "start": 30.4,
+          "end": 30.48
+        },
+        {
+          "text": "est",
+          "start": 30.48,
+          "end": 30.64
+        },
+        {
+          "text": "arrivé",
+          "start": 30.64,
+          "end": 30.96
+        },
+        {
+          "text": "ici",
+          "start": 30.96,
+          "end": 31.28
+        },
+        {
+          "text": "en",
+          "start": 31.36,
+          "end": 31.44
+        },
+        {
+          "text": "2013",
+          "start": 31.44,
+          "end": 32.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il est arrivé ici",
+          "translations": {
+            "zh": "他来到了这里",
+            "en": "He arrived here",
+            "es": "Llegó aquí"
+          },
+          "start": 30.4,
+          "end": 31.28
+        },
+        {
+          "text": "en 2013.",
+          "translations": {
+            "zh": "在2013年。",
+            "en": "in 2013.",
+            "es": "en 2013."
+          },
+          "start": 31.36,
+          "end": 32.32
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Ils étaient énormes et terrifiants.",
+      "translations": {
+        "zh": "它们巨大而可怕。",
+        "en": "They were enormous and terrifying.",
+        "es": "Eran enormes y terroríficos."
+      },
+      "start": 34.48,
+      "end": 38.0,
+      "words": [
+        {
+          "text": "Ils",
+          "start": 34.48,
+          "end": 34.56
+        },
+        {
+          "text": "étaient",
+          "start": 35.84,
+          "end": 36.08
+        },
+        {
+          "text": "énormes",
+          "start": 36.16,
+          "end": 37.04
+        },
+        {
+          "text": "et",
+          "start": 37.2,
+          "end": 37.28
+        },
+        {
+          "text": "terrifiants",
+          "start": 37.28,
+          "end": 38.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ils étaient énormes",
+          "translations": {
+            "zh": "它们很巨大",
+            "en": "They were enormous",
+            "es": "Eran enormes"
+          },
+          "start": 34.48,
+          "end": 37.04
+        },
+        {
+          "text": "et terrifiants.",
+          "translations": {
+            "zh": "也很可怕。",
+            "en": "and terrifying.",
+            "es": "y terroríficos."
+          },
+          "start": 37.2,
+          "end": 38.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Le blanc de la neige nous éblouissait.",
+      "translations": {
+        "zh": "雪的白色使我们目眩。",
+        "en": "The white of the snow was dazzling us.",
+        "es": "El blanco de la nieve nos deslumbraba."
+      },
+      "start": 40.56,
+      "end": 44.24,
+      "words": [
+        {
+          "text": "Le",
+          "start": 40.56,
+          "end": 40.64
+        },
+        {
+          "text": "blanc",
+          "start": 42.24,
+          "end": 42.56
+        },
+        {
+          "text": "de",
+          "start": 42.56,
+          "end": 42.64
+        },
+        {
+          "text": "la",
+          "start": 42.64,
+          "end": 42.72
+        },
+        {
+          "text": "neige",
+          "start": 42.72,
+          "end": 43.28
+        },
+        {
+          "text": "nous",
+          "start": 43.36,
+          "end": 43.52
+        },
+        {
+          "text": "éblouissait",
+          "start": 43.52,
+          "end": 44.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le blanc de la neige",
+          "translations": {
+            "zh": "雪的白色",
+            "en": "The white of the snow",
+            "es": "El blanco de la nieve"
+          },
+          "start": 40.56,
+          "end": 43.28
+        },
+        {
+          "text": "nous éblouissait.",
+          "translations": {
+            "zh": "使我们目眩。",
+            "en": "was dazzling us.",
+            "es": "nos deslumbraba."
+          },
+          "start": 43.36,
+          "end": 44.24
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "ÉPISODE 15 - Bilan",
+      "translations": {
+        "zh": "第15集 - 总结",
+        "en": "EPISODE 15 - Review",
+        "es": "EPISODIO 15 - Balance"
+      },
+      "start": 45.44,
+      "end": 45.44,
+      "words": [
+        {
+          "text": "ÉPISODE",
+          "start": 45.44,
+          "end": 45.44
+        },
+        {
+          "text": "15",
+          "start": 45.44,
+          "end": 45.44
+        },
+        {
+          "text": "Bilan",
+          "start": 45.44,
+          "end": 45.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "ÉPISODE 15",
+          "translations": {
+            "zh": "第15集",
+            "en": "EPISODE 15",
+            "es": "EPISODIO 15"
+          },
+          "start": 45.44,
+          "end": 45.44
+        },
+        {
+          "text": "- Bilan",
+          "translations": {
+            "zh": "- 总结",
+            "en": "- Review",
+            "es": "- Balance"
+          },
+          "start": 45.44,
+          "end": 45.44
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP14_P28",
+  "audio_filename": "FLS2_EP14_P28.mp3",
+  "audio_path": "downloads/FLS2_EP14_P28.mp3",
+  "episode": 14,
+  "piste": 28,
+  "page": 110,
+  "cd": "CD2"
+}

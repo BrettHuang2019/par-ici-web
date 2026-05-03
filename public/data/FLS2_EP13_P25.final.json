@@ -1,0 +1,1061 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 13 Piste 25 Page 105",
+      "translations": {
+        "zh": "第13集 第25轨 第105页",
+        "en": "Episode 13 Track 25 Page 105",
+        "es": "Episodio 13 Pista 25 Página 105"
+      },
+      "start": 0.4,
+      "end": 7.68,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.4,
+          "end": 1.12
+        },
+        {
+          "text": "13",
+          "start": 1.6,
+          "end": 2.24
+        },
+        {
+          "text": "Piste",
+          "start": 2.96,
+          "end": 3.44
+        },
+        {
+          "text": "25",
+          "start": 3.84,
+          "end": 4.8
+        },
+        {
+          "text": "Page",
+          "start": 6.24,
+          "end": 6.24
+        },
+        {
+          "text": "105",
+          "start": 6.24,
+          "end": 7.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 13",
+          "translations": {
+            "zh": "第13集",
+            "en": "Episode 13",
+            "es": "Episodio 13"
+          },
+          "start": 0.4,
+          "end": 2.24
+        },
+        {
+          "text": "Piste 25",
+          "translations": {
+            "zh": "第25轨",
+            "en": "Track 25",
+            "es": "Pista 25"
+          },
+          "start": 2.96,
+          "end": 4.8
+        },
+        {
+          "text": "Page 105",
+          "translations": {
+            "zh": "第105页",
+            "en": "Page 105",
+            "es": "Página 105"
+          },
+          "start": 6.24,
+          "end": 7.68
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bonjour.",
+      "translations": {
+        "zh": "你好。",
+        "en": "Hello.",
+        "es": "Buenos días."
+      },
+      "start": 10.24,
+      "end": 10.8,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 10.24,
+          "end": 10.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour.",
+          "translations": {
+            "zh": "你好。",
+            "en": "Hello.",
+            "es": "Buenos días."
+          },
+          "start": 10.24,
+          "end": 10.8
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Vous écoutez Radio circulation.",
+      "translations": {
+        "zh": "您正在收听交通广播电台。",
+        "en": "You are listening to Traffic Radio.",
+        "es": "Ustedes escuchan Radio circulación."
+      },
+      "start": 11.04,
+      "end": 12.8,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 11.04,
+          "end": 11.2
+        },
+        {
+          "text": "écoutez",
+          "start": 11.2,
+          "end": 11.68
+        },
+        {
+          "text": "Radio",
+          "start": 11.68,
+          "end": 12.08
+        },
+        {
+          "text": "circulation",
+          "start": 12.08,
+          "end": 12.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous écoutez",
+          "translations": {
+            "zh": "您正在收听",
+            "en": "You are listening to",
+            "es": "Ustedes escuchan"
+          },
+          "start": 11.04,
+          "end": 11.68
+        },
+        {
+          "text": "Radio circulation.",
+          "translations": {
+            "zh": "交通广播电台。",
+            "en": "Traffic Radio.",
+            "es": "Radio circulación."
+          },
+          "start": 11.68,
+          "end": 12.8
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Il est 7 h et demie.",
+      "translations": {
+        "zh": "现在是七点半。",
+        "en": "It is half past seven.",
+        "es": "Son las 7 y media."
+      },
+      "start": 13.04,
+      "end": 14.08,
+      "words": [
+        {
+          "text": "Il",
+          "start": 13.04,
+          "end": 13.2
+        },
+        {
+          "text": "est",
+          "start": 13.2,
+          "end": 13.28
+        },
+        {
+          "text": "7",
+          "start": 13.28,
+          "end": 13.76
+        },
+        {
+          "text": "h",
+          "start": 14.0,
+          "end": 14.08
+        },
+        {
+          "text": "et",
+          "start": 14.08,
+          "end": 14.08
+        },
+        {
+          "text": "demie",
+          "start": 14.08,
+          "end": 14.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il est",
+          "translations": {
+            "zh": "现在是",
+            "en": "It is",
+            "es": "Son las"
+          },
+          "start": 13.04,
+          "end": 13.28
+        },
+        {
+          "text": "7 h et demie.",
+          "translations": {
+            "zh": "七点半。",
+            "en": "half past seven.",
+            "es": "7 y media."
+          },
+          "start": 13.28,
+          "end": 14.08
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Celles et ceux qui entrent sur le pont Jacques- Cartier en direction de Montréal vont devoir patienter.",
+      "translations": {
+        "zh": "那些从雅克·卡蒂埃桥往蒙特利尔方向进入的人将不得不等待。",
+        "en": "Those who are entering the Jacques-Cartier bridge heading toward Montreal will have to wait.",
+        "es": "Aquellas y aquellos que entran al puente Jacques-Cartier en dirección a Montreal tendrán que esperar."
+      },
+      "start": 14.56,
+      "end": 19.12,
+      "words": [
+        {
+          "text": "Celles",
+          "start": 14.56,
+          "end": 14.8
+        },
+        {
+          "text": "et",
+          "start": 14.88,
+          "end": 14.88
+        },
+        {
+          "text": "ceux",
+          "start": 14.88,
+          "end": 15.12
+        },
+        {
+          "text": "qui",
+          "start": 15.12,
+          "end": 15.36
+        },
+        {
+          "text": "entrent",
+          "start": 15.36,
+          "end": 15.6
+        },
+        {
+          "text": "sur",
+          "start": 15.6,
+          "end": 15.76
+        },
+        {
+          "text": "le",
+          "start": 15.76,
+          "end": 15.84
+        },
+        {
+          "text": "pont",
+          "start": 15.84,
+          "end": 16.0
+        },
+        {
+          "text": "Jacques",
+          "start": 16.0,
+          "end": 16.24
+        },
+        {
+          "text": "Cartier",
+          "start": 16.24,
+          "end": 16.64
+        },
+        {
+          "text": "en",
+          "start": 16.64,
+          "end": 16.72
+        },
+        {
+          "text": "direction",
+          "start": 16.72,
+          "end": 17.12
+        },
+        {
+          "text": "de",
+          "start": 17.12,
+          "end": 17.2
+        },
+        {
+          "text": "Montréal",
+          "start": 17.2,
+          "end": 17.76
+        },
+        {
+          "text": "vont",
+          "start": 17.76,
+          "end": 17.92
+        },
+        {
+          "text": "devoir",
+          "start": 17.92,
+          "end": 18.32
+        },
+        {
+          "text": "patienter",
+          "start": 18.32,
+          "end": 19.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Celles et ceux",
+          "translations": {
+            "zh": "那些人",
+            "en": "Those",
+            "es": "Aquellas y aquellos"
+          },
+          "start": 14.56,
+          "end": 15.12
+        },
+        {
+          "text": "qui entrent sur le pont Jacques- Cartier",
+          "translations": {
+            "zh": "进入雅克·卡蒂埃桥的",
+            "en": "who are entering the Jacques-Cartier bridge",
+            "es": "que entran al puente Jacques-Cartier"
+          },
+          "start": 15.12,
+          "end": 16.64
+        },
+        {
+          "text": "en direction de Montréal",
+          "translations": {
+            "zh": "往蒙特利尔方向",
+            "en": "heading toward Montreal",
+            "es": "en dirección a Montreal"
+          },
+          "start": 16.64,
+          "end": 17.76
+        },
+        {
+          "text": "vont devoir patienter.",
+          "translations": {
+            "zh": "将不得不等待。",
+            "en": "will have to wait.",
+            "es": "tendrán que esperar."
+          },
+          "start": 17.76,
+          "end": 19.12
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "On nous signale un ralentissement en raison d'un accident.",
+      "translations": {
+        "zh": "有人向我们报告由于一起事故导致了交通减速。",
+        "en": "We are being told of a slowdown due to an accident.",
+        "es": "Se nos informa de una ralentización debido a un accidente."
+      },
+      "start": 19.44,
+      "end": 22.16,
+      "words": [
+        {
+          "text": "On",
+          "start": 19.44,
+          "end": 19.6
+        },
+        {
+          "text": "nous",
+          "start": 19.6,
+          "end": 19.68
+        },
+        {
+          "text": "signale",
+          "start": 19.68,
+          "end": 20.16
+        },
+        {
+          "text": "un",
+          "start": 20.16,
+          "end": 20.32
+        },
+        {
+          "text": "ralentissement",
+          "start": 20.32,
+          "end": 21.04
+        },
+        {
+          "text": "en",
+          "start": 21.04,
+          "end": 21.2
+        },
+        {
+          "text": "raison",
+          "start": 21.2,
+          "end": 21.52
+        },
+        {
+          "text": "d'un",
+          "start": 21.52,
+          "end": 21.68
+        },
+        {
+          "text": "accident",
+          "start": 21.68,
+          "end": 22.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On nous signale",
+          "translations": {
+            "zh": "有人向我们报告",
+            "en": "We are being told",
+            "es": "Se nos informa"
+          },
+          "start": 19.44,
+          "end": 20.16
+        },
+        {
+          "text": "un ralentissement",
+          "translations": {
+            "zh": "一起交通减速",
+            "en": "of a slowdown",
+            "es": "de una ralentización"
+          },
+          "start": 20.16,
+          "end": 21.04
+        },
+        {
+          "text": "en raison d'un accident.",
+          "translations": {
+            "zh": "由于一起事故。",
+            "en": "due to an accident.",
+            "es": "debido a un accidente."
+          },
+          "start": 21.04,
+          "end": 22.16
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Les secours sont arrivés, le secteur est congestionné.",
+      "translations": {
+        "zh": "救援人员已经到达，该区域交通拥堵。",
+        "en": "Emergency services have arrived, the area is congested.",
+        "es": "Los servicios de emergencia han llegado, el sector está congestionado."
+      },
+      "start": 22.48,
+      "end": 25.04,
+      "words": [
+        {
+          "text": "Les",
+          "start": 22.48,
+          "end": 22.64
+        },
+        {
+          "text": "secours",
+          "start": 22.64,
+          "end": 22.96
+        },
+        {
+          "text": "sont",
+          "start": 22.96,
+          "end": 23.12
+        },
+        {
+          "text": "arrivés",
+          "start": 23.12,
+          "end": 23.6
+        },
+        {
+          "text": "le",
+          "start": 23.6,
+          "end": 23.68
+        },
+        {
+          "text": "secteur",
+          "start": 23.68,
+          "end": 24.16
+        },
+        {
+          "text": "est",
+          "start": 24.16,
+          "end": 24.24
+        },
+        {
+          "text": "congestionné",
+          "start": 24.24,
+          "end": 25.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les secours sont arrivés,",
+          "translations": {
+            "zh": "救援人员已经到达，",
+            "en": "Emergency services have arrived,",
+            "es": "Los servicios de emergencia han llegado,"
+          },
+          "start": 22.48,
+          "end": 23.6
+        },
+        {
+          "text": "le secteur est congestionné.",
+          "translations": {
+            "zh": "该区域交通拥堵。",
+            "en": "the area is congested.",
+            "es": "el sector está congestionado."
+          },
+          "start": 23.6,
+          "end": 25.04
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "TRAN S C RIP TION DE S DIALO GUES Pont Champlain, vers la Rive-Sud, la circulation est fluide.",
+      "translations": {
+        "zh": "对话文字记录 香普兰桥，往南岸方向，交通畅通。",
+        "en": "TRANSCRIPTION OF DIALOGUES Champlain Bridge, toward the South Shore, traffic is flowing smoothly.",
+        "es": "TRANSCRIPCIÓN DE LOS DIÁLOGOS Puente Champlain, hacia la Rivera Sur, la circulación es fluida."
+      },
+      "start": 25.52,
+      "end": 28.32,
+      "words": [
+        {
+          "text": "TRAN",
+          "start": 25.52,
+          "end": 25.52
+        },
+        {
+          "text": "S",
+          "start": 25.68,
+          "end": 25.76
+        },
+        {
+          "text": "C",
+          "start": 26.56,
+          "end": 26.88
+        },
+        {
+          "text": "RIP",
+          "start": 27.08,
+          "end": 27.28
+        },
+        {
+          "text": "TION",
+          "start": 27.48,
+          "end": 27.68
+        },
+        {
+          "text": "DE",
+          "start": 27.68,
+          "end": 27.68
+        },
+        {
+          "text": "S",
+          "start": 27.68,
+          "end": 27.68
+        },
+        {
+          "text": "DIALO",
+          "start": 27.68,
+          "end": 27.68
+        },
+        {
+          "text": "GUES",
+          "start": 27.68,
+          "end": 27.68
+        },
+        {
+          "text": "Pont",
+          "start": 27.68,
+          "end": 27.68
+        },
+        {
+          "text": "Champlain",
+          "start": 27.68,
+          "end": 27.68
+        },
+        {
+          "text": "vers",
+          "start": 27.68,
+          "end": 27.68
+        },
+        {
+          "text": "la",
+          "start": 27.68,
+          "end": 27.68
+        },
+        {
+          "text": "Rive",
+          "start": 27.68,
+          "end": 27.68
+        },
+        {
+          "text": "Sud",
+          "start": 27.68,
+          "end": 27.68
+        },
+        {
+          "text": "la",
+          "start": 27.68,
+          "end": 27.68
+        },
+        {
+          "text": "circulation",
+          "start": 27.68,
+          "end": 27.68
+        },
+        {
+          "text": "est",
+          "start": 27.68,
+          "end": 27.76
+        },
+        {
+          "text": "fluide",
+          "start": 27.76,
+          "end": 28.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "TRAN S C RIP TION DE S DIALO GUES",
+          "translations": {
+            "zh": "对话文字记录",
+            "en": "TRANSCRIPTION OF DIALOGUES",
+            "es": "TRANSCRIPCIÓN DE LOS DIÁLOGOS"
+          },
+          "start": 25.52,
+          "end": 27.68
+        },
+        {
+          "text": "Pont Champlain,",
+          "translations": {
+            "zh": "香普兰桥，",
+            "en": "Champlain Bridge,",
+            "es": "Puente Champlain,"
+          },
+          "start": 27.68,
+          "end": 27.68
+        },
+        {
+          "text": "vers la Rive-Sud,",
+          "translations": {
+            "zh": "往南岸方向，",
+            "en": "toward the South Shore,",
+            "es": "hacia la Rivera Sur,"
+          },
+          "start": 27.68,
+          "end": 27.68
+        },
+        {
+          "text": "la circulation est fluide.",
+          "translations": {
+            "zh": "交通畅通。",
+            "en": "traffic is flowing smoothly.",
+            "es": "la circulación es fluida."
+          },
+          "start": 27.68,
+          "end": 28.32
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Sur le pont Victoria, c'est un peu lent à cause des travaux.",
+      "translations": {
+        "zh": "在维多利亚桥上，由于施工有点慢。",
+        "en": "On the Victoria Bridge, it's a bit slow because of construction.",
+        "es": "Sobre el puente Victoria, está un poco lento debido a las obras."
+      },
+      "start": 28.32,
+      "end": 31.04,
+      "words": [
+        {
+          "text": "Sur",
+          "start": 28.32,
+          "end": 28.64
+        },
+        {
+          "text": "le",
+          "start": 28.64,
+          "end": 28.72
+        },
+        {
+          "text": "pont",
+          "start": 28.72,
+          "end": 28.96
+        },
+        {
+          "text": "Victoria",
+          "start": 28.96,
+          "end": 29.68
+        },
+        {
+          "text": "c'est",
+          "start": 29.68,
+          "end": 30.0
+        },
+        {
+          "text": "un",
+          "start": 30.0,
+          "end": 30.08
+        },
+        {
+          "text": "peu",
+          "start": 30.08,
+          "end": 30.24
+        },
+        {
+          "text": "lent",
+          "start": 30.24,
+          "end": 30.48
+        },
+        {
+          "text": "à",
+          "start": 30.48,
+          "end": 30.48
+        },
+        {
+          "text": "cause",
+          "start": 30.48,
+          "end": 30.64
+        },
+        {
+          "text": "des",
+          "start": 30.64,
+          "end": 30.72
+        },
+        {
+          "text": "travaux",
+          "start": 30.72,
+          "end": 31.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Sur le pont Victoria,",
+          "translations": {
+            "zh": "在维多利亚桥上，",
+            "en": "On the Victoria Bridge,",
+            "es": "Sobre el puente Victoria,"
+          },
+          "start": 28.32,
+          "end": 29.68
+        },
+        {
+          "text": "c'est un peu lent",
+          "translations": {
+            "zh": "有点慢",
+            "en": "it's a bit slow",
+            "es": "está un poco lento"
+          },
+          "start": 29.68,
+          "end": 30.48
+        },
+        {
+          "text": "à cause des travaux.",
+          "translations": {
+            "zh": "由于施工。",
+            "en": "because of construction.",
+            "es": "debido a las obras."
+          },
+          "start": 30.48,
+          "end": 31.04
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Pour le reste des axes routiers, tout est beau.",
+      "translations": {
+        "zh": "对于其余的道路来说，一切都很顺利。",
+        "en": "For the rest of the roadways, everything is fine.",
+        "es": "Para el resto de los ejes viales, todo está bien."
+      },
+      "start": 31.6,
+      "end": 33.6,
+      "words": [
+        {
+          "text": "Pour",
+          "start": 31.6,
+          "end": 31.76
+        },
+        {
+          "text": "le",
+          "start": 31.76,
+          "end": 31.84
+        },
+        {
+          "text": "reste",
+          "start": 31.84,
+          "end": 32.08
+        },
+        {
+          "text": "des",
+          "start": 32.08,
+          "end": 32.16
+        },
+        {
+          "text": "axes",
+          "start": 32.32,
+          "end": 32.32
+        },
+        {
+          "text": "routiers",
+          "start": 32.56,
+          "end": 32.96
+        },
+        {
+          "text": "tout",
+          "start": 33.12,
+          "end": 33.28
+        },
+        {
+          "text": "est",
+          "start": 33.36,
+          "end": 33.44
+        },
+        {
+          "text": "beau",
+          "start": 33.44,
+          "end": 33.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pour le reste des axes routiers,",
+          "translations": {
+            "zh": "对于其余的道路来说，",
+            "en": "For the rest of the roadways,",
+            "es": "Para el resto de los ejes viales,"
+          },
+          "start": 31.6,
+          "end": 32.96
+        },
+        {
+          "text": "tout est beau.",
+          "translations": {
+            "zh": "一切都很顺利。",
+            "en": "everything is fine.",
+            "es": "todo está bien."
+          },
+          "start": 33.12,
+          "end": 33.6
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Prochain bulletin de circulation à 8 h 10.",
+      "translations": {
+        "zh": "下一次交通公告在八点十分。",
+        "en": "Next traffic report at 8:10.",
+        "es": "Próximo boletín de circulación a las 8 h 10."
+      },
+      "start": 34.24,
+      "end": 39.12,
+      "words": [
+        {
+          "text": "Prochain",
+          "start": 34.24,
+          "end": 34.48
+        },
+        {
+          "text": "bulletin",
+          "start": 34.56,
+          "end": 34.88
+        },
+        {
+          "text": "de",
+          "start": 34.88,
+          "end": 34.96
+        },
+        {
+          "text": "circulation",
+          "start": 34.96,
+          "end": 35.76
+        },
+        {
+          "text": "à",
+          "start": 35.92,
+          "end": 36.08
+        },
+        {
+          "text": "8",
+          "start": 36.16,
+          "end": 36.48
+        },
+        {
+          "text": "h",
+          "start": 36.56,
+          "end": 36.88
+        },
+        {
+          "text": "10",
+          "start": 39.12,
+          "end": 39.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Prochain bulletin de circulation",
+          "translations": {
+            "zh": "下一次交通公告",
+            "en": "Next traffic report",
+            "es": "Próximo boletín de circulación"
+          },
+          "start": 34.24,
+          "end": 35.76
+        },
+        {
+          "text": "à 8 h 10.",
+          "translations": {
+            "zh": "在八点十分。",
+            "en": "at 8:10.",
+            "es": "a las 8 h 10."
+          },
+          "start": 35.92,
+          "end": 39.12
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Bon, ben, il ne reste plus qu'à patienter dans le bouchon...",
+      "translations": {
+        "zh": "好吧，那只能在堵车中等待了……",
+        "en": "Well, then, all that's left is to wait in the traffic jam...",
+        "es": "Bueno, pues, ya solo queda esperar en el embotellamiento..."
+      },
+      "start": 39.12,
+      "end": 41.44,
+      "words": [
+        {
+          "text": "Bon",
+          "start": 39.12,
+          "end": 39.52
+        },
+        {
+          "text": "ben",
+          "start": 39.6,
+          "end": 39.68
+        },
+        {
+          "text": "il",
+          "start": 39.68,
+          "end": 39.92
+        },
+        {
+          "text": "ne",
+          "start": 39.92,
+          "end": 40.0
+        },
+        {
+          "text": "reste",
+          "start": 40.0,
+          "end": 40.16
+        },
+        {
+          "text": "plus",
+          "start": 40.16,
+          "end": 40.24
+        },
+        {
+          "text": "qu'à",
+          "start": 40.24,
+          "end": 40.4
+        },
+        {
+          "text": "patienter",
+          "start": 40.4,
+          "end": 40.88
+        },
+        {
+          "text": "dans",
+          "start": 40.88,
+          "end": 40.96
+        },
+        {
+          "text": "le",
+          "start": 40.96,
+          "end": 41.04
+        },
+        {
+          "text": "bouchon",
+          "start": 41.04,
+          "end": 41.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bon,",
+          "translations": {
+            "zh": "好，",
+            "en": "Well,",
+            "es": "Bueno,"
+          },
+          "start": 39.12,
+          "end": 39.52
+        },
+        {
+          "text": "ben,",
+          "translations": {
+            "zh": "那，",
+            "en": "then,",
+            "es": "pues,"
+          },
+          "start": 39.6,
+          "end": 39.68
+        },
+        {
+          "text": "il ne reste plus qu'à patienter",
+          "translations": {
+            "zh": "只能等待了",
+            "en": "all that's left is to wait",
+            "es": "ya solo queda esperar"
+          },
+          "start": 39.68,
+          "end": 40.88
+        },
+        {
+          "text": "dans le bouchon...",
+          "translations": {
+            "zh": "在堵车中……",
+            "en": "in the traffic jam...",
+            "es": "en el embotellamiento..."
+          },
+          "start": 40.88,
+          "end": 41.44
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP13_P25",
+  "audio_filename": "FLS2_EP13_P25.mp3",
+  "audio_path": "downloads/FLS2_EP13_P25.mp3",
+  "episode": 13,
+  "piste": 25,
+  "page": 105,
+  "cd": "CD2"
+}

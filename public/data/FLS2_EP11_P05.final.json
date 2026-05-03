@@ -1,0 +1,811 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 11 Piste 5 Page 89",
+      "translations": {
+        "zh": "第11集 第5轨 第89页",
+        "en": "Episode 11 Track 5 Page 89",
+        "es": "Episodio 11 Pista 5 Página 89"
+      },
+      "start": 0.56,
+      "end": 7.92,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.56,
+          "end": 1.28
+        },
+        {
+          "text": "11",
+          "start": 1.6,
+          "end": 2.08
+        },
+        {
+          "text": "Piste",
+          "start": 2.88,
+          "end": 3.28
+        },
+        {
+          "text": "5",
+          "start": 3.84,
+          "end": 4.16
+        },
+        {
+          "text": "Page",
+          "start": 4.16,
+          "end": 4.16
+        },
+        {
+          "text": "89",
+          "start": 6.32,
+          "end": 7.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 11",
+          "translations": {
+            "zh": "第11集",
+            "en": "Episode 11",
+            "es": "Episodio 11"
+          },
+          "start": 0.56,
+          "end": 2.08
+        },
+        {
+          "text": "Piste 5",
+          "translations": {
+            "zh": "第5轨",
+            "en": "Track 5",
+            "es": "Pista 5"
+          },
+          "start": 2.88,
+          "end": 4.16
+        },
+        {
+          "text": "Page 89",
+          "translations": {
+            "zh": "第89页",
+            "en": "Page 89",
+            "es": "Página 89"
+          },
+          "start": 4.16,
+          "end": 7.92
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Me prêterais-tu tes ciseaux ?",
+      "translations": {
+        "zh": "你能把你的剪刀借给我吗？",
+        "en": "Would you lend me your scissors?",
+        "es": "¿Me prestarías tus tijeras?"
+      },
+      "start": 9.76,
+      "end": 10.96,
+      "words": [
+        {
+          "text": "Me",
+          "start": 9.76,
+          "end": 9.92
+        },
+        {
+          "text": "prêterais",
+          "start": 9.92,
+          "end": 10.32
+        },
+        {
+          "text": "tu",
+          "start": 10.32,
+          "end": 10.48
+        },
+        {
+          "text": "tes",
+          "start": 10.48,
+          "end": 10.56
+        },
+        {
+          "text": "ciseaux",
+          "start": 10.56,
+          "end": 10.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Me prêterais-tu",
+          "translations": {
+            "zh": "你能借给我",
+            "en": "Would you lend me",
+            "es": "¿Me prestarías"
+          },
+          "start": 9.76,
+          "end": 10.48
+        },
+        {
+          "text": "tes ciseaux ?",
+          "translations": {
+            "zh": "你的剪刀吗？",
+            "en": "your scissors?",
+            "es": "tus tijeras?"
+          },
+          "start": 10.48,
+          "end": 10.96
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "J'ai perdu les miens.",
+      "translations": {
+        "zh": "我把我的丢了。",
+        "en": "I lost mine.",
+        "es": "He perdido los míos."
+      },
+      "start": 11.68,
+      "end": 12.48,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 11.68,
+          "end": 11.84
+        },
+        {
+          "text": "perdu",
+          "start": 11.84,
+          "end": 12.08
+        },
+        {
+          "text": "les",
+          "start": 12.08,
+          "end": 12.24
+        },
+        {
+          "text": "miens",
+          "start": 12.24,
+          "end": 12.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai perdu",
+          "translations": {
+            "zh": "我丢了",
+            "en": "I lost",
+            "es": "He perdido"
+          },
+          "start": 11.68,
+          "end": 12.08
+        },
+        {
+          "text": "les miens.",
+          "translations": {
+            "zh": "我的。",
+            "en": "mine.",
+            "es": "los míos."
+          },
+          "start": 12.08,
+          "end": 12.48
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Ça, c'est ma poubelle.",
+      "translations": {
+        "zh": "那个，是我的垃圾桶。",
+        "en": "That, that's my trash can.",
+        "es": "Esa, es mi papelera."
+      },
+      "start": 14.08,
+      "end": 16.0,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 14.08,
+          "end": 14.24
+        },
+        {
+          "text": "c'est",
+          "start": 15.36,
+          "end": 15.44
+        },
+        {
+          "text": "ma",
+          "start": 15.44,
+          "end": 15.6
+        },
+        {
+          "text": "poubelle",
+          "start": 15.6,
+          "end": 16.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça,",
+          "translations": {
+            "zh": "那个，",
+            "en": "That,",
+            "es": "Esa,"
+          },
+          "start": 14.08,
+          "end": 14.24
+        },
+        {
+          "text": "c'est ma poubelle.",
+          "translations": {
+            "zh": "是我的垃圾桶。",
+            "en": "that's my trash can.",
+            "es": "es mi papelera."
+          },
+          "start": 15.36,
+          "end": 16.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "C'est celle-là, la sienne !",
+      "translations": {
+        "zh": "那个才是，他的！",
+        "en": "It's that one, his!",
+        "es": "¡Es esa, la suya!"
+      },
+      "start": 16.32,
+      "end": 17.28,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 16.32,
+          "end": 16.48
+        },
+        {
+          "text": "celle",
+          "start": 16.48,
+          "end": 16.72
+        },
+        {
+          "text": "là",
+          "start": 16.72,
+          "end": 16.8
+        },
+        {
+          "text": "la",
+          "start": 16.8,
+          "end": 16.96
+        },
+        {
+          "text": "sienne",
+          "start": 16.96,
+          "end": 17.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est celle-là,",
+          "translations": {
+            "zh": "那个才是，",
+            "en": "It's that one,",
+            "es": "Es esa,"
+          },
+          "start": 16.32,
+          "end": 16.8
+        },
+        {
+          "text": "la sienne !",
+          "translations": {
+            "zh": "他的！",
+            "en": "his!",
+            "es": "¡la suya!"
+          },
+          "start": 16.8,
+          "end": 17.28
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Mon fils est tannant.",
+      "translations": {
+        "zh": "我儿子很烦人。",
+        "en": "My son is annoying.",
+        "es": "Mi hijo es molesto."
+      },
+      "start": 20.24,
+      "end": 21.6,
+      "words": [
+        {
+          "text": "Mon",
+          "start": 20.24,
+          "end": 20.48
+        },
+        {
+          "text": "fils",
+          "start": 20.48,
+          "end": 20.8
+        },
+        {
+          "text": "est",
+          "start": 20.88,
+          "end": 20.96
+        },
+        {
+          "text": "tannant",
+          "start": 20.96,
+          "end": 21.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mon fils",
+          "translations": {
+            "zh": "我儿子",
+            "en": "My son",
+            "es": "Mi hijo"
+          },
+          "start": 20.24,
+          "end": 20.8
+        },
+        {
+          "text": "est tannant.",
+          "translations": {
+            "zh": "很烦人。",
+            "en": "is annoying.",
+            "es": "es molesto."
+          },
+          "start": 20.88,
+          "end": 21.6
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Le vôtre est plus tranquille.",
+      "translations": {
+        "zh": "您的更安静。",
+        "en": "Yours is calmer.",
+        "es": "El suyo es más tranquilo."
+      },
+      "start": 22.0,
+      "end": 23.36,
+      "words": [
+        {
+          "text": "Le",
+          "start": 22.0,
+          "end": 22.08
+        },
+        {
+          "text": "vôtre",
+          "start": 22.08,
+          "end": 22.4
+        },
+        {
+          "text": "est",
+          "start": 22.4,
+          "end": 22.48
+        },
+        {
+          "text": "plus",
+          "start": 22.48,
+          "end": 22.72
+        },
+        {
+          "text": "tranquille",
+          "start": 22.72,
+          "end": 23.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le vôtre",
+          "translations": {
+            "zh": "您的",
+            "en": "Yours",
+            "es": "El suyo"
+          },
+          "start": 22.0,
+          "end": 22.4
+        },
+        {
+          "text": "est plus tranquille.",
+          "translations": {
+            "zh": "更安静。",
+            "en": "is calmer.",
+            "es": "es más tranquilo."
+          },
+          "start": 22.4,
+          "end": 23.36
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Moi aussi, je fais des muffins, mais je préfère les tiens.",
+      "translations": {
+        "zh": "我也做松饼，但我更喜欢你的。",
+        "en": "I make muffins too, but I prefer yours.",
+        "es": "Yo también hago muffins, pero prefiero los tuyos."
+      },
+      "start": 26.4,
+      "end": 29.28,
+      "words": [
+        {
+          "text": "Moi",
+          "start": 26.4,
+          "end": 26.64
+        },
+        {
+          "text": "aussi",
+          "start": 26.64,
+          "end": 26.96
+        },
+        {
+          "text": "je",
+          "start": 26.96,
+          "end": 27.04
+        },
+        {
+          "text": "fais",
+          "start": 27.04,
+          "end": 27.2
+        },
+        {
+          "text": "des",
+          "start": 27.2,
+          "end": 27.36
+        },
+        {
+          "text": "muffins",
+          "start": 27.36,
+          "end": 27.76
+        },
+        {
+          "text": "mais",
+          "start": 28.24,
+          "end": 28.4
+        },
+        {
+          "text": "je",
+          "start": 28.4,
+          "end": 28.48
+        },
+        {
+          "text": "préfère",
+          "start": 28.48,
+          "end": 28.88
+        },
+        {
+          "text": "les",
+          "start": 28.88,
+          "end": 28.96
+        },
+        {
+          "text": "tiens",
+          "start": 28.96,
+          "end": 29.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Moi aussi,",
+          "translations": {
+            "zh": "我也",
+            "en": "Me too,",
+            "es": "Yo también,"
+          },
+          "start": 26.4,
+          "end": 26.96
+        },
+        {
+          "text": "je fais des muffins,",
+          "translations": {
+            "zh": "做松饼，",
+            "en": "I make muffins,",
+            "es": "hago muffins,"
+          },
+          "start": 26.96,
+          "end": 27.76
+        },
+        {
+          "text": "mais je préfère les tiens.",
+          "translations": {
+            "zh": "但我更喜欢你的。",
+            "en": "but I prefer yours.",
+            "es": "pero prefiero los tuyos."
+          },
+          "start": 28.24,
+          "end": 29.28
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Nos recettes sont à base de maïs ; les leurs sont à base de riz.",
+      "translations": {
+        "zh": "我们的食谱以玉米为主；他们的以米饭为主。",
+        "en": "Our recipes are based on corn; theirs are based on rice.",
+        "es": "Nuestras recetas son a base de maíz; las suyas son a base de arroz."
+      },
+      "start": 32.64,
+      "end": 36.8,
+      "words": [
+        {
+          "text": "Nos",
+          "start": 32.64,
+          "end": 32.72
+        },
+        {
+          "text": "recettes",
+          "start": 32.72,
+          "end": 33.12
+        },
+        {
+          "text": "sont",
+          "start": 33.12,
+          "end": 33.28
+        },
+        {
+          "text": "à",
+          "start": 33.36,
+          "end": 33.44
+        },
+        {
+          "text": "base",
+          "start": 33.44,
+          "end": 33.68
+        },
+        {
+          "text": "de",
+          "start": 33.68,
+          "end": 33.76
+        },
+        {
+          "text": "maïs",
+          "start": 33.76,
+          "end": 34.4
+        },
+        {
+          "text": "les",
+          "start": 35.36,
+          "end": 35.52
+        },
+        {
+          "text": "leurs",
+          "start": 35.52,
+          "end": 35.76
+        },
+        {
+          "text": "sont",
+          "start": 35.76,
+          "end": 36.0
+        },
+        {
+          "text": "à",
+          "start": 36.0,
+          "end": 36.08
+        },
+        {
+          "text": "base",
+          "start": 36.08,
+          "end": 36.32
+        },
+        {
+          "text": "de",
+          "start": 36.32,
+          "end": 36.4
+        },
+        {
+          "text": "riz",
+          "start": 36.4,
+          "end": 36.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Nos recettes sont à base de maïs ;",
+          "translations": {
+            "zh": "我们的食谱以玉米为主；",
+            "en": "Our recipes are based on corn;",
+            "es": "Nuestras recetas son a base de maíz;"
+          },
+          "start": 32.64,
+          "end": 34.4
+        },
+        {
+          "text": "les leurs sont à base de riz.",
+          "translations": {
+            "zh": "他们的以米饭为主。",
+            "en": "theirs are based on rice.",
+            "es": "las suyas son a base de arroz."
+          },
+          "start": 35.36,
+          "end": 36.8
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Votre chat est toujours dehors.",
+      "translations": {
+        "zh": "您的猫总是在外面。",
+        "en": "Your cat is always outside.",
+        "es": "Su gato está siempre fuera."
+      },
+      "start": 38.88,
+      "end": 41.92,
+      "words": [
+        {
+          "text": "Votre",
+          "start": 38.88,
+          "end": 40.96
+        },
+        {
+          "text": "chat",
+          "start": 40.96,
+          "end": 40.96
+        },
+        {
+          "text": "est",
+          "start": 40.96,
+          "end": 40.96
+        },
+        {
+          "text": "toujours",
+          "start": 41.04,
+          "end": 41.36
+        },
+        {
+          "text": "dehors",
+          "start": 41.36,
+          "end": 41.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Votre chat",
+          "translations": {
+            "zh": "您的猫",
+            "en": "Your cat",
+            "es": "Su gato"
+          },
+          "start": 38.88,
+          "end": 40.96
+        },
+        {
+          "text": "est toujours dehors.",
+          "translations": {
+            "zh": "总是在外面。",
+            "en": "is always outside.",
+            "es": "está siempre fuera."
+          },
+          "start": 40.96,
+          "end": 41.92
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Le nôtre est vieux, il ne veut plus sortir.",
+      "translations": {
+        "zh": "我们的老了，它不想再出去了。",
+        "en": "Ours is old, he doesn't want to go out anymore.",
+        "es": "El nuestro es viejo, ya no quiere salir."
+      },
+      "start": 42.64,
+      "end": 44.88,
+      "words": [
+        {
+          "text": "Le",
+          "start": 42.64,
+          "end": 42.8
+        },
+        {
+          "text": "nôtre",
+          "start": 42.8,
+          "end": 43.12
+        },
+        {
+          "text": "est",
+          "start": 43.12,
+          "end": 43.2
+        },
+        {
+          "text": "vieux",
+          "start": 43.2,
+          "end": 43.68
+        },
+        {
+          "text": "il",
+          "start": 43.68,
+          "end": 43.84
+        },
+        {
+          "text": "ne",
+          "start": 43.84,
+          "end": 44.0
+        },
+        {
+          "text": "veut",
+          "start": 44.0,
+          "end": 44.0
+        },
+        {
+          "text": "plus",
+          "start": 44.0,
+          "end": 44.16
+        },
+        {
+          "text": "sortir",
+          "start": 44.16,
+          "end": 44.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le nôtre est vieux,",
+          "translations": {
+            "zh": "我们的老了，",
+            "en": "Ours is old,",
+            "es": "El nuestro es viejo,"
+          },
+          "start": 42.64,
+          "end": 43.68
+        },
+        {
+          "text": "il ne veut plus sortir.",
+          "translations": {
+            "zh": "它不想再出去了。",
+            "en": "he doesn't want to go out anymore.",
+            "es": "ya no quiere salir."
+          },
+          "start": 43.68,
+          "end": 44.88
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "ÉPISODE 12",
+      "translations": {
+        "zh": "第12集",
+        "en": "EPISODE 12",
+        "es": "EPISODIO 12"
+      },
+      "start": 44.88,
+      "end": 44.88,
+      "words": [
+        {
+          "text": "ÉPISODE",
+          "start": 44.88,
+          "end": 44.88
+        },
+        {
+          "text": "12",
+          "start": 44.88,
+          "end": 44.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "ÉPISODE 12",
+          "translations": {
+            "zh": "第12集",
+            "en": "EPISODE 12",
+            "es": "EPISODIO 12"
+          },
+          "start": 44.88,
+          "end": 44.88
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP11_P05",
+  "audio_filename": "FLS2_EP11_P05.mp3",
+  "audio_path": "downloads/FLS2_EP11_P05.mp3",
+  "episode": 11,
+  "piste": 5,
+  "page": 89,
+  "cd": "CD2"
+}

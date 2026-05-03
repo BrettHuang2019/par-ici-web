@@ -1,0 +1,801 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 12 Piste 18 Page 96",
+      "translations": {
+        "zh": "第12集 第18轨 第96页",
+        "en": "Episode 12 Track 18 Page 96",
+        "es": "Episodio 12 Pista 18 Página 96"
+      },
+      "start": 0.88,
+      "end": 8.4,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.88,
+          "end": 1.6
+        },
+        {
+          "text": "12",
+          "start": 2.08,
+          "end": 2.64
+        },
+        {
+          "text": "Piste",
+          "start": 3.52,
+          "end": 3.92
+        },
+        {
+          "text": "18",
+          "start": 4.32,
+          "end": 4.88
+        },
+        {
+          "text": "Page",
+          "start": 4.88,
+          "end": 4.88
+        },
+        {
+          "text": "96",
+          "start": 7.28,
+          "end": 8.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 12",
+          "translations": {
+            "zh": "第12集",
+            "en": "Episode 12",
+            "es": "Episodio 12"
+          },
+          "start": 0.88,
+          "end": 2.64
+        },
+        {
+          "text": "Piste 18",
+          "translations": {
+            "zh": "第18轨",
+            "en": "Track 18",
+            "es": "Pista 18"
+          },
+          "start": 3.52,
+          "end": 4.88
+        },
+        {
+          "text": "Page 96",
+          "translations": {
+            "zh": "第96页",
+            "en": "Page 96",
+            "es": "Página 96"
+          },
+          "start": 4.88,
+          "end": 8.4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Salut Jacques, c'est Daniel.",
+      "translations": {
+        "zh": "你好雅克，我是丹尼尔。",
+        "en": "Hi Jacques, it's Daniel.",
+        "es": "Hola Jacques, es Daniel."
+      },
+      "start": 11.36,
+      "end": 12.88,
+      "words": [
+        {
+          "text": "Salut",
+          "start": 11.36,
+          "end": 11.68
+        },
+        {
+          "text": "Jacques",
+          "start": 11.68,
+          "end": 12.16
+        },
+        {
+          "text": "c'est",
+          "start": 12.24,
+          "end": 12.48
+        },
+        {
+          "text": "Daniel",
+          "start": 12.48,
+          "end": 12.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Salut Jacques,",
+          "translations": {
+            "zh": "你好雅克，",
+            "en": "Hi Jacques,",
+            "es": "Hola Jacques,"
+          },
+          "start": 11.36,
+          "end": 12.16
+        },
+        {
+          "text": "c'est Daniel.",
+          "translations": {
+            "zh": "我是丹尼尔。",
+            "en": "it's Daniel.",
+            "es": "es Daniel."
+          },
+          "start": 12.24,
+          "end": 12.88
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "J'aurais besoin de te parler.",
+      "translations": {
+        "zh": "我需要跟你谈谈。",
+        "en": "I would need to talk to you.",
+        "es": "Necesitaría hablar contigo."
+      },
+      "start": 13.52,
+      "end": 14.72,
+      "words": [
+        {
+          "text": "J'aurais",
+          "start": 13.52,
+          "end": 13.84
+        },
+        {
+          "text": "besoin",
+          "start": 13.84,
+          "end": 14.16
+        },
+        {
+          "text": "de",
+          "start": 14.16,
+          "end": 14.16
+        },
+        {
+          "text": "te",
+          "start": 14.16,
+          "end": 14.32
+        },
+        {
+          "text": "parler",
+          "start": 14.32,
+          "end": 14.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'aurais besoin",
+          "translations": {
+            "zh": "我需要",
+            "en": "I would need",
+            "es": "Necesitaría"
+          },
+          "start": 13.52,
+          "end": 14.16
+        },
+        {
+          "text": "de te parler.",
+          "translations": {
+            "zh": "跟你谈谈。",
+            "en": "to talk to you.",
+            "es": "hablar contigo."
+          },
+          "start": 14.16,
+          "end": 14.72
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Bonjour, c'est madame Desrosiers, je pense que votre chien s'est sauvé.",
+      "translations": {
+        "zh": "你好，我是德罗西耶夫人，我觉得您的狗跑了。",
+        "en": "Hello, this is Mrs. Desrosiers, I think your dog has run away.",
+        "es": "Hola, es la señora Desrosiers, creo que su perro se ha escapado."
+      },
+      "start": 19.52,
+      "end": 23.68,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 19.52,
+          "end": 20.08
+        },
+        {
+          "text": "c'est",
+          "start": 20.08,
+          "end": 20.24
+        },
+        {
+          "text": "madame",
+          "start": 20.24,
+          "end": 20.64
+        },
+        {
+          "text": "Desrosiers",
+          "start": 20.64,
+          "end": 21.44
+        },
+        {
+          "text": "je",
+          "start": 21.84,
+          "end": 22.0
+        },
+        {
+          "text": "pense",
+          "start": 22.0,
+          "end": 22.32
+        },
+        {
+          "text": "que",
+          "start": 22.32,
+          "end": 22.4
+        },
+        {
+          "text": "votre",
+          "start": 22.4,
+          "end": 22.64
+        },
+        {
+          "text": "chien",
+          "start": 22.64,
+          "end": 22.96
+        },
+        {
+          "text": "s'est",
+          "start": 22.96,
+          "end": 23.12
+        },
+        {
+          "text": "sauvé",
+          "start": 23.12,
+          "end": 23.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "你好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 19.52,
+          "end": 20.08
+        },
+        {
+          "text": "c'est madame Desrosiers,",
+          "translations": {
+            "zh": "我是德罗西耶夫人，",
+            "en": "this is Mrs. Desrosiers,",
+            "es": "es la señora Desrosiers,"
+          },
+          "start": 20.08,
+          "end": 21.44
+        },
+        {
+          "text": "je pense que votre chien s'est sauvé.",
+          "translations": {
+            "zh": "我觉得您的狗跑了。",
+            "en": "I think your dog has run away.",
+            "es": "creo que su perro se ha escapado."
+          },
+          "start": 21.84,
+          "end": 23.68
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Je l'ai vu dans ma cour...",
+      "translations": {
+        "zh": "我看到它在我的院子里……",
+        "en": "I saw him in my yard...",
+        "es": "Lo vi en mi patio..."
+      },
+      "start": 24.08,
+      "end": 25.28,
+      "words": [
+        {
+          "text": "Je",
+          "start": 24.08,
+          "end": 24.16
+        },
+        {
+          "text": "l'ai",
+          "start": 24.16,
+          "end": 24.4
+        },
+        {
+          "text": "vu",
+          "start": 24.4,
+          "end": 24.56
+        },
+        {
+          "text": "dans",
+          "start": 24.56,
+          "end": 24.64
+        },
+        {
+          "text": "ma",
+          "start": 24.64,
+          "end": 24.8
+        },
+        {
+          "text": "cour",
+          "start": 24.8,
+          "end": 25.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je l'ai vu",
+          "translations": {
+            "zh": "我看到它",
+            "en": "I saw him",
+            "es": "Lo vi"
+          },
+          "start": 24.08,
+          "end": 24.56
+        },
+        {
+          "text": "dans ma cour...",
+          "translations": {
+            "zh": "在我的院子里……",
+            "en": "in my yard...",
+            "es": "en mi patio..."
+          },
+          "start": 24.56,
+          "end": 25.28
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Salut vous deux, c'est Jean-Philippe.",
+      "translations": {
+        "zh": "你们两个好，我是让-菲利普。",
+        "en": "Hi you two, it's Jean-Philippe.",
+        "es": "Hola ustedes dos, es Jean-Philippe."
+      },
+      "start": 28.96,
+      "end": 30.48,
+      "words": [
+        {
+          "text": "Salut",
+          "start": 28.96,
+          "end": 29.2
+        },
+        {
+          "text": "vous",
+          "start": 29.2,
+          "end": 29.36
+        },
+        {
+          "text": "deux",
+          "start": 29.36,
+          "end": 29.6
+        },
+        {
+          "text": "c'est",
+          "start": 29.6,
+          "end": 29.84
+        },
+        {
+          "text": "Jean",
+          "start": 29.84,
+          "end": 29.92
+        },
+        {
+          "text": "Philippe",
+          "start": 29.92,
+          "end": 30.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Salut vous deux,",
+          "translations": {
+            "zh": "你们两个好，",
+            "en": "Hi you two,",
+            "es": "Hola ustedes dos,"
+          },
+          "start": 28.96,
+          "end": 29.6
+        },
+        {
+          "text": "c'est Jean-Philippe.",
+          "translations": {
+            "zh": "我是让-菲利普。",
+            "en": "it's Jean-Philippe.",
+            "es": "es Jean-Philippe."
+          },
+          "start": 29.6,
+          "end": 30.48
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Vous pouvez compter sur moi pour vous aider à déménager.",
+      "translations": {
+        "zh": "你们可以指望我帮忙搬家。",
+        "en": "You can count on me to help you move.",
+        "es": "Pueden contar conmigo para ayudarles a mudarse."
+      },
+      "start": 30.96,
+      "end": 33.04,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 30.96,
+          "end": 31.12
+        },
+        {
+          "text": "pouvez",
+          "start": 31.12,
+          "end": 31.36
+        },
+        {
+          "text": "compter",
+          "start": 31.36,
+          "end": 31.6
+        },
+        {
+          "text": "sur",
+          "start": 31.6,
+          "end": 31.76
+        },
+        {
+          "text": "moi",
+          "start": 31.76,
+          "end": 31.92
+        },
+        {
+          "text": "pour",
+          "start": 31.92,
+          "end": 32.08
+        },
+        {
+          "text": "vous",
+          "start": 32.08,
+          "end": 32.24
+        },
+        {
+          "text": "aider",
+          "start": 32.24,
+          "end": 32.4
+        },
+        {
+          "text": "à",
+          "start": 32.4,
+          "end": 32.48
+        },
+        {
+          "text": "déménager",
+          "start": 32.48,
+          "end": 33.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous pouvez compter sur moi",
+          "translations": {
+            "zh": "你们可以指望我",
+            "en": "You can count on me",
+            "es": "Pueden contar conmigo"
+          },
+          "start": 30.96,
+          "end": 31.92
+        },
+        {
+          "text": "pour vous aider à déménager.",
+          "translations": {
+            "zh": "帮忙搬家。",
+            "en": "to help you move.",
+            "es": "para ayudarles a mudarse."
+          },
+          "start": 31.92,
+          "end": 33.04
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Je vais être là à 7 h.",
+      "translations": {
+        "zh": "我会在7点到那里。",
+        "en": "I'll be there at 7 o'clock.",
+        "es": "Voy a estar allí a las 7."
+      },
+      "start": 33.36,
+      "end": 34.56,
+      "words": [
+        {
+          "text": "Je",
+          "start": 33.36,
+          "end": 33.52
+        },
+        {
+          "text": "vais",
+          "start": 33.52,
+          "end": 33.6
+        },
+        {
+          "text": "être",
+          "start": 33.6,
+          "end": 33.76
+        },
+        {
+          "text": "là",
+          "start": 33.76,
+          "end": 34.0
+        },
+        {
+          "text": "à",
+          "start": 34.0,
+          "end": 34.0
+        },
+        {
+          "text": "7",
+          "start": 34.0,
+          "end": 34.56
+        },
+        {
+          "text": "h",
+          "start": 34.56,
+          "end": 34.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais être là",
+          "translations": {
+            "zh": "我会在那里",
+            "en": "I'll be there",
+            "es": "Voy a estar allí"
+          },
+          "start": 33.36,
+          "end": 34.0
+        },
+        {
+          "text": "à 7 h.",
+          "translations": {
+            "zh": "7点到。",
+            "en": "at 7 o'clock.",
+            "es": "a las 7."
+          },
+          "start": 34.0,
+          "end": 34.56
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Bonjour Louis, bonjour Clara !",
+      "translations": {
+        "zh": "你好路易，你好克拉拉！",
+        "en": "Hello Louis, hello Clara!",
+        "es": "¡Hola Louis, hola Clara!"
+      },
+      "start": 38.96,
+      "end": 40.88,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 38.96,
+          "end": 39.44
+        },
+        {
+          "text": "Louis",
+          "start": 39.44,
+          "end": 39.84
+        },
+        {
+          "text": "bonjour",
+          "start": 39.84,
+          "end": 40.32
+        },
+        {
+          "text": "Clara",
+          "start": 40.32,
+          "end": 40.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour Louis,",
+          "translations": {
+            "zh": "你好路易，",
+            "en": "Hello Louis,",
+            "es": "Hola Louis,"
+          },
+          "start": 38.96,
+          "end": 39.84
+        },
+        {
+          "text": "bonjour Clara !",
+          "translations": {
+            "zh": "你好克拉拉！",
+            "en": "hello Clara!",
+            "es": "¡hola Clara!"
+          },
+          "start": 39.84,
+          "end": 40.88
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "C'est votre tante Gaby.",
+      "translations": {
+        "zh": "我是你们的加比阿姨。",
+        "en": "It's your aunt Gaby.",
+        "es": "Es su tía Gaby."
+      },
+      "start": 41.44,
+      "end": 42.56,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 41.44,
+          "end": 41.6
+        },
+        {
+          "text": "votre",
+          "start": 41.6,
+          "end": 41.84
+        },
+        {
+          "text": "tante",
+          "start": 41.84,
+          "end": 42.08
+        },
+        {
+          "text": "Gaby",
+          "start": 42.08,
+          "end": 42.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est votre tante Gaby.",
+          "translations": {
+            "zh": "我是你们的加比阿姨。",
+            "en": "It's your aunt Gaby.",
+            "es": "Es su tía Gaby."
+          },
+          "start": 41.44,
+          "end": 42.56
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Je vous invite au cinéma samedi après-midi.",
+      "translations": {
+        "zh": "我邀请你们星期六下午去看电影。",
+        "en": "I'm inviting you to the movies Saturday afternoon.",
+        "es": "Los invito al cine el sábado por la tarde."
+      },
+      "start": 43.28,
+      "end": 45.44,
+      "words": [
+        {
+          "text": "Je",
+          "start": 43.28,
+          "end": 43.36
+        },
+        {
+          "text": "vous",
+          "start": 43.36,
+          "end": 43.6
+        },
+        {
+          "text": "invite",
+          "start": 43.6,
+          "end": 43.92
+        },
+        {
+          "text": "au",
+          "start": 43.92,
+          "end": 43.92
+        },
+        {
+          "text": "cinéma",
+          "start": 43.92,
+          "end": 44.48
+        },
+        {
+          "text": "samedi",
+          "start": 44.48,
+          "end": 44.8
+        },
+        {
+          "text": "après",
+          "start": 44.8,
+          "end": 45.12
+        },
+        {
+          "text": "midi",
+          "start": 45.12,
+          "end": 45.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vous invite au cinéma",
+          "translations": {
+            "zh": "我邀请你们去看电影",
+            "en": "I'm inviting you to the movies",
+            "es": "Los invito al cine"
+          },
+          "start": 43.28,
+          "end": 44.48
+        },
+        {
+          "text": "samedi après-midi.",
+          "translations": {
+            "zh": "星期六下午。",
+            "en": "Saturday afternoon.",
+            "es": "el sábado por la tarde."
+          },
+          "start": 44.48,
+          "end": 45.44
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Je vous embrasse.",
+      "translations": {
+        "zh": "亲亲你们。",
+        "en": "I kiss you.",
+        "es": "Les beso."
+      },
+      "start": 46.16,
+      "end": 46.96,
+      "words": [
+        {
+          "text": "Je",
+          "start": 46.16,
+          "end": 46.24
+        },
+        {
+          "text": "vous",
+          "start": 46.24,
+          "end": 46.4
+        },
+        {
+          "text": "embrasse",
+          "start": 46.4,
+          "end": 46.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vous embrasse.",
+          "translations": {
+            "zh": "亲亲你们。",
+            "en": "I kiss you.",
+            "es": "Les beso."
+          },
+          "start": 46.16,
+          "end": 46.96
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP12_P18",
+  "audio_filename": "FLS2_EP12_P18.mp3",
+  "audio_path": "downloads/FLS2_EP12_P18.mp3",
+  "episode": 12,
+  "piste": 18,
+  "page": 96,
+  "cd": "CD2"
+}

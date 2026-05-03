@@ -1,0 +1,586 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 8 Piste 38 Page 65",
+      "translations": {
+        "zh": "第8集 第38音轨 第65页",
+        "en": "Episode 8 Track 38 Page 65",
+        "es": "Episodio 8 Pista 38 Página 65"
+      },
+      "start": 0.4,
+      "end": 9.6,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.4,
+          "end": 1.04
+        },
+        {
+          "text": "8",
+          "start": 1.44,
+          "end": 1.6
+        },
+        {
+          "text": "Piste",
+          "start": 2.72,
+          "end": 3.2
+        },
+        {
+          "text": "38",
+          "start": 3.76,
+          "end": 4.32
+        },
+        {
+          "text": "Page",
+          "start": 4.48,
+          "end": 4.64
+        },
+        {
+          "text": "65",
+          "start": 9.6,
+          "end": 9.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 8",
+          "translations": {
+            "zh": "第8集",
+            "en": "Episode 8",
+            "es": "Episodio 8"
+          },
+          "start": 0.4,
+          "end": 1.6
+        },
+        {
+          "text": "Piste 38",
+          "translations": {
+            "zh": "第38音轨",
+            "en": "Track 38",
+            "es": "Pista 38"
+          },
+          "start": 2.72,
+          "end": 4.32
+        },
+        {
+          "text": "Page 65",
+          "translations": {
+            "zh": "第65页",
+            "en": "Page 65",
+            "es": "Página 65"
+          },
+          "start": 4.48,
+          "end": 9.6
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Il faut que tu prennes la clé qui est dans ma boite aux lettres.",
+      "translations": {
+        "zh": "你得把我信箱里的钥匙拿走。",
+        "en": "You need to take the key that is in my mailbox.",
+        "es": "Es necesario que tomes la llave que está en mi buzón."
+      },
+      "start": 10.88,
+      "end": 13.04,
+      "words": [
+        {
+          "text": "Il",
+          "start": 10.88,
+          "end": 11.04
+        },
+        {
+          "text": "faut",
+          "start": 11.04,
+          "end": 11.2
+        },
+        {
+          "text": "que",
+          "start": 11.2,
+          "end": 11.2
+        },
+        {
+          "text": "tu",
+          "start": 11.2,
+          "end": 11.36
+        },
+        {
+          "text": "prennes",
+          "start": 11.36,
+          "end": 11.6
+        },
+        {
+          "text": "la",
+          "start": 11.6,
+          "end": 11.68
+        },
+        {
+          "text": "clé",
+          "start": 11.68,
+          "end": 11.92
+        },
+        {
+          "text": "qui",
+          "start": 11.92,
+          "end": 12.08
+        },
+        {
+          "text": "est",
+          "start": 12.08,
+          "end": 12.08
+        },
+        {
+          "text": "dans",
+          "start": 12.08,
+          "end": 12.16
+        },
+        {
+          "text": "ma",
+          "start": 12.16,
+          "end": 12.32
+        },
+        {
+          "text": "boite",
+          "start": 12.32,
+          "end": 12.56
+        },
+        {
+          "text": "aux",
+          "start": 12.56,
+          "end": 12.64
+        },
+        {
+          "text": "lettres",
+          "start": 12.64,
+          "end": 13.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il faut que tu prennes la clé",
+          "translations": {
+            "zh": "你得把钥匙拿走，",
+            "en": "You need to take the key",
+            "es": "Es necesario que tomes la llave"
+          },
+          "start": 10.88,
+          "end": 11.92
+        },
+        {
+          "text": "qui est dans ma boite aux lettres.",
+          "translations": {
+            "zh": "那把钥匙在我信箱里。",
+            "en": "that is in my mailbox.",
+            "es": "que está en mi buzón."
+          },
+          "start": 11.92,
+          "end": 13.04
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Il faut qu'on aille à Québec en fin de semaine.",
+      "translations": {
+        "zh": "我们周末得去魁北克。",
+        "en": "We need to go to Quebec City on the weekend.",
+        "es": "Es necesario que vayamos a Quebec el fin de semana."
+      },
+      "start": 14.4,
+      "end": 16.8,
+      "words": [
+        {
+          "text": "Il",
+          "start": 14.4,
+          "end": 14.56
+        },
+        {
+          "text": "faut",
+          "start": 15.36,
+          "end": 15.52
+        },
+        {
+          "text": "qu'on",
+          "start": 15.52,
+          "end": 15.68
+        },
+        {
+          "text": "aille",
+          "start": 15.68,
+          "end": 15.84
+        },
+        {
+          "text": "à",
+          "start": 15.84,
+          "end": 15.92
+        },
+        {
+          "text": "Québec",
+          "start": 15.92,
+          "end": 16.24
+        },
+        {
+          "text": "en",
+          "start": 16.24,
+          "end": 16.32
+        },
+        {
+          "text": "fin",
+          "start": 16.32,
+          "end": 16.4
+        },
+        {
+          "text": "de",
+          "start": 16.4,
+          "end": 16.48
+        },
+        {
+          "text": "semaine",
+          "start": 16.48,
+          "end": 16.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il faut qu'on aille à Québec",
+          "translations": {
+            "zh": "我们得去魁北克，",
+            "en": "We need to go to Quebec City",
+            "es": "Es necesario que vayamos a Quebec"
+          },
+          "start": 14.4,
+          "end": 16.24
+        },
+        {
+          "text": "en fin de semaine.",
+          "translations": {
+            "zh": "周末去。",
+            "en": "on the weekend.",
+            "es": "el fin de semana."
+          },
+          "start": 16.24,
+          "end": 16.8
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Il faut que tu téléphones à Jean-Pierre.",
+      "translations": {
+        "zh": "你得给让-皮埃尔打电话。",
+        "en": "You need to call Jean-Pierre.",
+        "es": "Es necesario que llames a Jean-Pierre."
+      },
+      "start": 20.08,
+      "end": 21.52,
+      "words": [
+        {
+          "text": "Il",
+          "start": 20.08,
+          "end": 20.16
+        },
+        {
+          "text": "faut",
+          "start": 20.16,
+          "end": 20.32
+        },
+        {
+          "text": "que",
+          "start": 20.32,
+          "end": 20.4
+        },
+        {
+          "text": "tu",
+          "start": 20.4,
+          "end": 20.48
+        },
+        {
+          "text": "téléphones",
+          "start": 20.48,
+          "end": 20.88
+        },
+        {
+          "text": "à",
+          "start": 20.88,
+          "end": 20.96
+        },
+        {
+          "text": "Jean",
+          "start": 20.96,
+          "end": 21.12
+        },
+        {
+          "text": "Pierre",
+          "start": 21.12,
+          "end": 21.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il faut que tu téléphones",
+          "translations": {
+            "zh": "你得打电话",
+            "en": "You need to call",
+            "es": "Es necesario que llames"
+          },
+          "start": 20.08,
+          "end": 20.88
+        },
+        {
+          "text": "à Jean-Pierre.",
+          "translations": {
+            "zh": "给让-皮埃尔。",
+            "en": "Jean-Pierre.",
+            "es": "a Jean-Pierre."
+          },
+          "start": 20.88,
+          "end": 21.52
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Il faut que tu sois prête à 8 h.",
+      "translations": {
+        "zh": "你得在八点准备好。",
+        "en": "You need to be ready at 8 o'clock.",
+        "es": "Es necesario que estés lista a las 8."
+      },
+      "start": 25.2,
+      "end": 26.8,
+      "words": [
+        {
+          "text": "Il",
+          "start": 25.2,
+          "end": 25.28
+        },
+        {
+          "text": "faut",
+          "start": 25.28,
+          "end": 25.44
+        },
+        {
+          "text": "que",
+          "start": 25.44,
+          "end": 25.6
+        },
+        {
+          "text": "tu",
+          "start": 25.6,
+          "end": 25.68
+        },
+        {
+          "text": "sois",
+          "start": 25.68,
+          "end": 25.84
+        },
+        {
+          "text": "prête",
+          "start": 25.84,
+          "end": 26.08
+        },
+        {
+          "text": "à",
+          "start": 26.08,
+          "end": 26.16
+        },
+        {
+          "text": "8",
+          "start": 26.16,
+          "end": 26.8
+        },
+        {
+          "text": "h",
+          "start": 26.8,
+          "end": 26.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il faut que tu sois prête",
+          "translations": {
+            "zh": "你得准备好，",
+            "en": "You need to be ready",
+            "es": "Es necesario que estés lista"
+          },
+          "start": 25.2,
+          "end": 26.08
+        },
+        {
+          "text": "à 8 h.",
+          "translations": {
+            "zh": "八点钟。",
+            "en": "at 8 o'clock.",
+            "es": "a las 8."
+          },
+          "start": 26.08,
+          "end": 26.8
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Il faut que vous veniez ici tout de suite.",
+      "translations": {
+        "zh": "你们得马上到这里来。",
+        "en": "You need to come here right away.",
+        "es": "Es necesario que venga aquí enseguida."
+      },
+      "start": 30.08,
+      "end": 32.0,
+      "words": [
+        {
+          "text": "Il",
+          "start": 30.08,
+          "end": 30.24
+        },
+        {
+          "text": "faut",
+          "start": 30.24,
+          "end": 30.48
+        },
+        {
+          "text": "que",
+          "start": 30.48,
+          "end": 30.56
+        },
+        {
+          "text": "vous",
+          "start": 30.56,
+          "end": 30.72
+        },
+        {
+          "text": "veniez",
+          "start": 30.72,
+          "end": 31.04
+        },
+        {
+          "text": "ici",
+          "start": 31.12,
+          "end": 31.52
+        },
+        {
+          "text": "tout",
+          "start": 31.6,
+          "end": 31.68
+        },
+        {
+          "text": "de",
+          "start": 31.68,
+          "end": 31.76
+        },
+        {
+          "text": "suite",
+          "start": 31.76,
+          "end": 32.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il faut que vous veniez ici",
+          "translations": {
+            "zh": "你们得到这里来，",
+            "en": "You need to come here",
+            "es": "Es necesario que venga aquí"
+          },
+          "start": 30.08,
+          "end": 31.52
+        },
+        {
+          "text": "tout de suite.",
+          "translations": {
+            "zh": "马上。",
+            "en": "right away.",
+            "es": "enseguida."
+          },
+          "start": 31.6,
+          "end": 32.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Il faut que je fasse un appel important.",
+      "translations": {
+        "zh": "我得打一个重要的电话。",
+        "en": "I need to make an important call.",
+        "es": "Es necesario que haga una llamada importante."
+      },
+      "start": 34.56,
+      "end": 37.36,
+      "words": [
+        {
+          "text": "Il",
+          "start": 34.56,
+          "end": 34.64
+        },
+        {
+          "text": "faut",
+          "start": 36.08,
+          "end": 36.24
+        },
+        {
+          "text": "que",
+          "start": 36.24,
+          "end": 36.32
+        },
+        {
+          "text": "je",
+          "start": 36.32,
+          "end": 36.4
+        },
+        {
+          "text": "fasse",
+          "start": 36.4,
+          "end": 36.64
+        },
+        {
+          "text": "un",
+          "start": 36.64,
+          "end": 36.72
+        },
+        {
+          "text": "appel",
+          "start": 36.72,
+          "end": 36.96
+        },
+        {
+          "text": "important",
+          "start": 36.96,
+          "end": 37.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il faut que je fasse",
+          "translations": {
+            "zh": "我得打",
+            "en": "I need to make",
+            "es": "Es necesario que haga"
+          },
+          "start": 34.56,
+          "end": 36.64
+        },
+        {
+          "text": "un appel important.",
+          "translations": {
+            "zh": "一个重要的电话。",
+            "en": "an important call.",
+            "es": "una llamada importante."
+          },
+          "start": 36.64,
+          "end": 37.36
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP08_P38",
+  "audio_filename": "FLS2_EP08_P38.mp3",
+  "audio_path": "downloads/FLS2_EP08_P38.mp3",
+  "episode": 8,
+  "piste": 38,
+  "page": 65,
+  "cd": "CD1"
+}

@@ -1,0 +1,3201 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 19 Piste 40 Page 144",
+      "translations": {
+        "zh": "第19集 第40轨 第144页",
+        "en": "Episode 19 Track 40 Page 144",
+        "es": "Episodio 19 Pista 40 Página 144"
+      },
+      "start": 0.88,
+      "end": 9.84,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.88,
+          "end": 1.52
+        },
+        {
+          "text": "19",
+          "start": 1.92,
+          "end": 2.32
+        },
+        {
+          "text": "Piste",
+          "start": 3.28,
+          "end": 3.68
+        },
+        {
+          "text": "40",
+          "start": 4.16,
+          "end": 4.64
+        },
+        {
+          "text": "Page",
+          "start": 6.48,
+          "end": 6.88
+        },
+        {
+          "text": "144",
+          "start": 9.84,
+          "end": 9.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 19",
+          "translations": {
+            "zh": "第19集",
+            "en": "Episode 19",
+            "es": "Episodio 19"
+          },
+          "start": 0.88,
+          "end": 2.32
+        },
+        {
+          "text": "Piste 40",
+          "translations": {
+            "zh": "第40轨",
+            "en": "Track 40",
+            "es": "Pista 40"
+          },
+          "start": 3.28,
+          "end": 4.64
+        },
+        {
+          "text": "Page 144",
+          "translations": {
+            "zh": "第144页",
+            "en": "Page 144",
+            "es": "Página 144"
+          },
+          "start": 6.48,
+          "end": 9.84
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Hé !",
+      "translations": {
+        "zh": "嘿！",
+        "en": "Hey!",
+        "es": "¡Eh!"
+      },
+      "start": 9.92,
+      "end": 9.92,
+      "words": [
+        {
+          "text": "Hé",
+          "start": 9.92,
+          "end": 9.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Hé !",
+          "translations": {
+            "zh": "嘿！",
+            "en": "Hey!",
+            "es": "¡Eh!"
+          },
+          "start": 9.92,
+          "end": 9.92
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Salut Thomas, ça va ?",
+      "translations": {
+        "zh": "你好托马斯，你好吗？",
+        "en": "Hi Thomas, how are you?",
+        "es": "Hola Thomas, ¿qué tal?"
+      },
+      "start": 10.08,
+      "end": 11.2,
+      "words": [
+        {
+          "text": "Salut",
+          "start": 10.08,
+          "end": 10.48
+        },
+        {
+          "text": "Thomas",
+          "start": 10.48,
+          "end": 10.8
+        },
+        {
+          "text": "ça",
+          "start": 10.8,
+          "end": 10.88
+        },
+        {
+          "text": "va",
+          "start": 10.88,
+          "end": 11.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Salut Thomas,",
+          "translations": {
+            "zh": "你好托马斯，",
+            "en": "Hi Thomas,",
+            "es": "Hola Thomas,"
+          },
+          "start": 10.08,
+          "end": 10.8
+        },
+        {
+          "text": "ça va ?",
+          "translations": {
+            "zh": "你好吗？",
+            "en": "how are you?",
+            "es": "¿qué tal?"
+          },
+          "start": 10.8,
+          "end": 11.2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Ouais, pas pire, pis toi ?",
+      "translations": {
+        "zh": "嗯，还行，你呢？",
+        "en": "Yeah, not bad, and you?",
+        "es": "Sí, no tan mal, ¿y tú?"
+      },
+      "start": 11.44,
+      "end": 12.64,
+      "words": [
+        {
+          "text": "Ouais",
+          "start": 11.44,
+          "end": 11.76
+        },
+        {
+          "text": "pas",
+          "start": 11.76,
+          "end": 11.92
+        },
+        {
+          "text": "pire",
+          "start": 11.92,
+          "end": 12.16
+        },
+        {
+          "text": "pis",
+          "start": 12.24,
+          "end": 12.4
+        },
+        {
+          "text": "toi",
+          "start": 12.4,
+          "end": 12.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ouais,",
+          "translations": {
+            "zh": "嗯，",
+            "en": "Yeah,",
+            "es": "Sí,"
+          },
+          "start": 11.44,
+          "end": 11.76
+        },
+        {
+          "text": "pas pire,",
+          "translations": {
+            "zh": "还行，",
+            "en": "not bad,",
+            "es": "no tan mal,"
+          },
+          "start": 11.76,
+          "end": 12.16
+        },
+        {
+          "text": "pis toi ?",
+          "translations": {
+            "zh": "你呢？",
+            "en": "and you?",
+            "es": "¿y tú?"
+          },
+          "start": 12.24,
+          "end": 12.64
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Travailles-tu toujours au café ?",
+      "translations": {
+        "zh": "你还在咖啡馆工作吗？",
+        "en": "Are you still working at the café?",
+        "es": "¿Todavía trabajas en el café?"
+      },
+      "start": 13.12,
+      "end": 14.24,
+      "words": [
+        {
+          "text": "Travailles",
+          "start": 13.12,
+          "end": 13.44
+        },
+        {
+          "text": "tu",
+          "start": 13.44,
+          "end": 13.52
+        },
+        {
+          "text": "toujours",
+          "start": 13.52,
+          "end": 13.84
+        },
+        {
+          "text": "au",
+          "start": 13.84,
+          "end": 13.92
+        },
+        {
+          "text": "café",
+          "start": 13.92,
+          "end": 14.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Travailles-tu toujours au café ?",
+          "translations": {
+            "zh": "你还在咖啡馆工作吗？",
+            "en": "Are you still working at the café?",
+            "es": "¿Todavía trabajas en el café?"
+          },
+          "start": 13.12,
+          "end": 14.24
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Oui, mais je suis un peu tanné.",
+      "translations": {
+        "zh": "是的，但我有点厌倦了。",
+        "en": "Yes, but I'm a bit fed up.",
+        "es": "Sí, pero estoy un poco harto."
+      },
+      "start": 15.2,
+      "end": 16.88,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 15.2,
+          "end": 15.68
+        },
+        {
+          "text": "mais",
+          "start": 15.68,
+          "end": 15.84
+        },
+        {
+          "text": "je",
+          "start": 15.84,
+          "end": 16.0
+        },
+        {
+          "text": "suis",
+          "start": 16.0,
+          "end": 16.0
+        },
+        {
+          "text": "un",
+          "start": 16.0,
+          "end": 16.16
+        },
+        {
+          "text": "peu",
+          "start": 16.16,
+          "end": 16.24
+        },
+        {
+          "text": "tanné",
+          "start": 16.24,
+          "end": 16.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 15.2,
+          "end": 15.68
+        },
+        {
+          "text": "mais je suis un peu tanné.",
+          "translations": {
+            "zh": "但我有点厌倦了。",
+            "en": "but I'm a bit fed up.",
+            "es": "pero estoy un poco harto."
+          },
+          "start": 15.68,
+          "end": 16.88
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Je pense m'inscrire à un cours d'ébénisterie.",
+      "translations": {
+        "zh": "我想报名参加一个细木工课程。",
+        "en": "I'm thinking of signing up for a cabinetmaking course.",
+        "es": "Estoy pensando inscribirme en un curso de ebanistería."
+      },
+      "start": 17.28,
+      "end": 19.12,
+      "words": [
+        {
+          "text": "Je",
+          "start": 17.28,
+          "end": 17.36
+        },
+        {
+          "text": "pense",
+          "start": 17.36,
+          "end": 17.6
+        },
+        {
+          "text": "m'inscrire",
+          "start": 17.6,
+          "end": 18.08
+        },
+        {
+          "text": "à",
+          "start": 18.08,
+          "end": 18.16
+        },
+        {
+          "text": "un",
+          "start": 18.16,
+          "end": 18.24
+        },
+        {
+          "text": "cours",
+          "start": 18.24,
+          "end": 18.4
+        },
+        {
+          "text": "d'ébénisterie",
+          "start": 18.4,
+          "end": 19.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je pense m'inscrire",
+          "translations": {
+            "zh": "我想报名参加",
+            "en": "I'm thinking of signing up",
+            "es": "Estoy pensando inscribirme"
+          },
+          "start": 17.28,
+          "end": 18.08
+        },
+        {
+          "text": "à un cours d'ébénisterie.",
+          "translations": {
+            "zh": "一个细木工课程。",
+            "en": "for a cabinetmaking course.",
+            "es": "en un curso de ebanistería."
+          },
+          "start": 18.08,
+          "end": 19.12
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Ah oui ?",
+      "translations": {
+        "zh": "哦，是吗？",
+        "en": "Oh yeah?",
+        "es": "¿Ah, sí?"
+      },
+      "start": 19.52,
+      "end": 19.84,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 19.52,
+          "end": 19.68
+        },
+        {
+          "text": "oui",
+          "start": 19.68,
+          "end": 19.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah oui ?",
+          "translations": {
+            "zh": "哦，是吗？",
+            "en": "Oh yeah?",
+            "es": "¿Ah, sí?"
+          },
+          "start": 19.52,
+          "end": 19.84
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Tu lâches l'université complètement ?",
+      "translations": {
+        "zh": "你完全放弃大学了吗？",
+        "en": "Are you dropping out of university completely?",
+        "es": "¿Dejas la universidad por completo?"
+      },
+      "start": 20.48,
+      "end": 22.0,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 20.48,
+          "end": 20.64
+        },
+        {
+          "text": "lâches",
+          "start": 20.64,
+          "end": 20.96
+        },
+        {
+          "text": "l'université",
+          "start": 20.96,
+          "end": 21.52
+        },
+        {
+          "text": "complètement",
+          "start": 21.52,
+          "end": 22.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu lâches l'université complètement ?",
+          "translations": {
+            "zh": "你完全放弃大学了吗？",
+            "en": "Are you dropping out of university completely?",
+            "es": "¿Dejas la universidad por completo?"
+          },
+          "start": 20.48,
+          "end": 22.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Ouais.",
+      "translations": {
+        "zh": "嗯。",
+        "en": "Yeah.",
+        "es": "Sí."
+      },
+      "start": 22.16,
+      "end": 22.4,
+      "words": [
+        {
+          "text": "Ouais",
+          "start": 22.16,
+          "end": 22.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ouais.",
+          "translations": {
+            "zh": "嗯。",
+            "en": "Yeah.",
+            "es": "Sí."
+          },
+          "start": 22.16,
+          "end": 22.4
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Ça fait un an que j'ai arrêté pis je fais des petites jobs à gauche, à droite.",
+      "translations": {
+        "zh": "我已经停学一年了，然后到处打些零工。",
+        "en": "It's been a year since I stopped and I've been doing odd jobs here and there.",
+        "es": "Hace un año que lo dejé y hago pequeños trabajos aquí y allá."
+      },
+      "start": 23.12,
+      "end": 26.48,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 23.12,
+          "end": 23.28
+        },
+        {
+          "text": "fait",
+          "start": 23.28,
+          "end": 23.36
+        },
+        {
+          "text": "un",
+          "start": 23.36,
+          "end": 23.52
+        },
+        {
+          "text": "an",
+          "start": 23.52,
+          "end": 23.68
+        },
+        {
+          "text": "que",
+          "start": 23.68,
+          "end": 23.68
+        },
+        {
+          "text": "j'ai",
+          "start": 23.68,
+          "end": 23.84
+        },
+        {
+          "text": "arrêté",
+          "start": 23.84,
+          "end": 24.32
+        },
+        {
+          "text": "pis",
+          "start": 24.32,
+          "end": 24.56
+        },
+        {
+          "text": "je",
+          "start": 24.56,
+          "end": 24.64
+        },
+        {
+          "text": "fais",
+          "start": 24.64,
+          "end": 24.8
+        },
+        {
+          "text": "des",
+          "start": 24.8,
+          "end": 24.88
+        },
+        {
+          "text": "petites",
+          "start": 24.88,
+          "end": 25.12
+        },
+        {
+          "text": "jobs",
+          "start": 25.12,
+          "end": 25.44
+        },
+        {
+          "text": "à",
+          "start": 25.44,
+          "end": 25.52
+        },
+        {
+          "text": "gauche",
+          "start": 25.52,
+          "end": 25.92
+        },
+        {
+          "text": "à",
+          "start": 25.92,
+          "end": 26.08
+        },
+        {
+          "text": "droite",
+          "start": 26.08,
+          "end": 26.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça fait un an que j'ai arrêté",
+          "translations": {
+            "zh": "我已经停学一年了",
+            "en": "It's been a year since I stopped",
+            "es": "Hace un año que lo dejé"
+          },
+          "start": 23.12,
+          "end": 24.32
+        },
+        {
+          "text": "pis je fais des petites jobs",
+          "translations": {
+            "zh": "然后我打一些零工",
+            "en": "and I've been doing odd jobs",
+            "es": "y hago pequeños trabajos"
+          },
+          "start": 24.32,
+          "end": 25.44
+        },
+        {
+          "text": "à gauche, à droite.",
+          "translations": {
+            "zh": "东做做西做做。",
+            "en": "here and there.",
+            "es": "aquí y allá."
+          },
+          "start": 25.44,
+          "end": 26.48
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Tu sais, je me suis rendu compte que l'université, les longues études, ce n'est pas pour moi.",
+      "translations": {
+        "zh": "你知道吗，我意识到大学、漫长的学业，不适合我。",
+        "en": "You know, I realized that university, long studies, that's not for me.",
+        "es": "Sabes, me di cuenta de que la universidad, los estudios largos, no son para mí."
+      },
+      "start": 27.2,
+      "end": 30.48,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 27.2,
+          "end": 27.44
+        },
+        {
+          "text": "sais",
+          "start": 27.44,
+          "end": 27.44
+        },
+        {
+          "text": "je",
+          "start": 27.44,
+          "end": 27.52
+        },
+        {
+          "text": "me",
+          "start": 27.52,
+          "end": 27.6
+        },
+        {
+          "text": "suis",
+          "start": 27.6,
+          "end": 27.76
+        },
+        {
+          "text": "rendu",
+          "start": 27.76,
+          "end": 27.92
+        },
+        {
+          "text": "compte",
+          "start": 27.92,
+          "end": 28.08
+        },
+        {
+          "text": "que",
+          "start": 28.08,
+          "end": 28.16
+        },
+        {
+          "text": "l'université",
+          "start": 28.16,
+          "end": 28.96
+        },
+        {
+          "text": "les",
+          "start": 28.96,
+          "end": 29.12
+        },
+        {
+          "text": "longues",
+          "start": 29.12,
+          "end": 29.44
+        },
+        {
+          "text": "études",
+          "start": 29.44,
+          "end": 29.76
+        },
+        {
+          "text": "ce",
+          "start": 29.76,
+          "end": 29.76
+        },
+        {
+          "text": "n'est",
+          "start": 29.76,
+          "end": 29.76
+        },
+        {
+          "text": "pas",
+          "start": 29.92,
+          "end": 30.08
+        },
+        {
+          "text": "pour",
+          "start": 30.08,
+          "end": 30.24
+        },
+        {
+          "text": "moi",
+          "start": 30.24,
+          "end": 30.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu sais,",
+          "translations": {
+            "zh": "你知道吗，",
+            "en": "You know,",
+            "es": "Sabes,"
+          },
+          "start": 27.2,
+          "end": 27.44
+        },
+        {
+          "text": "je me suis rendu compte",
+          "translations": {
+            "zh": "我意识到",
+            "en": "I realized",
+            "es": "me di cuenta"
+          },
+          "start": 27.44,
+          "end": 28.08
+        },
+        {
+          "text": "que l'université, les longues études,",
+          "translations": {
+            "zh": "大学、漫长的学业，",
+            "en": "that university, long studies,",
+            "es": "de que la universidad, los estudios largos,"
+          },
+          "start": 28.08,
+          "end": 29.76
+        },
+        {
+          "text": "ce n'est pas pour moi.",
+          "translations": {
+            "zh": "不适合我。",
+            "en": "that's not for me.",
+            "es": "no son para mí."
+          },
+          "start": 29.76,
+          "end": 30.48
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Ça ne me tente pas de travailler pour une grosse compagnie ou dans un bureau.",
+      "translations": {
+        "zh": "我不想为大公司或在办公室工作。",
+        "en": "I don't feel like working for a big company or in an office.",
+        "es": "No me tienta trabajar para una gran empresa o en una oficina."
+      },
+      "start": 30.96,
+      "end": 34.08,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 30.96,
+          "end": 31.12
+        },
+        {
+          "text": "ne",
+          "start": 31.12,
+          "end": 31.12
+        },
+        {
+          "text": "me",
+          "start": 31.12,
+          "end": 31.2
+        },
+        {
+          "text": "tente",
+          "start": 31.2,
+          "end": 31.36
+        },
+        {
+          "text": "pas",
+          "start": 31.36,
+          "end": 31.44
+        },
+        {
+          "text": "de",
+          "start": 31.44,
+          "end": 31.52
+        },
+        {
+          "text": "travailler",
+          "start": 31.52,
+          "end": 32.0
+        },
+        {
+          "text": "pour",
+          "start": 32.0,
+          "end": 32.16
+        },
+        {
+          "text": "une",
+          "start": 32.16,
+          "end": 32.4
+        },
+        {
+          "text": "grosse",
+          "start": 32.4,
+          "end": 32.72
+        },
+        {
+          "text": "compagnie",
+          "start": 32.72,
+          "end": 33.28
+        },
+        {
+          "text": "ou",
+          "start": 33.28,
+          "end": 33.36
+        },
+        {
+          "text": "dans",
+          "start": 33.36,
+          "end": 33.6
+        },
+        {
+          "text": "un",
+          "start": 33.6,
+          "end": 33.68
+        },
+        {
+          "text": "bureau",
+          "start": 33.68,
+          "end": 34.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça ne me tente pas",
+          "translations": {
+            "zh": "我不想",
+            "en": "I don't feel like",
+            "es": "No me tienta"
+          },
+          "start": 30.96,
+          "end": 31.44
+        },
+        {
+          "text": "de travailler pour une grosse compagnie",
+          "translations": {
+            "zh": "为大公司工作",
+            "en": "working for a big company",
+            "es": "trabajar para una gran empresa"
+          },
+          "start": 31.44,
+          "end": 33.28
+        },
+        {
+          "text": "ou dans un bureau.",
+          "translations": {
+            "zh": "或在办公室工作。",
+            "en": "or in an office.",
+            "es": "o en una oficina."
+          },
+          "start": 33.28,
+          "end": 34.08
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "J'ai envie de travailler avec mes mains pis, qui sait, peut-être d'avoir ma propre petite business un jour !",
+      "translations": {
+        "zh": "我想用双手工作，而且，谁知道呢，也许有一天能拥有自己的小生意！",
+        "en": "I want to work with my hands and, who knows, maybe have my own little business one day!",
+        "es": "Tengo ganas de trabajar con mis manos y, quién sabe, ¡quizás tener mi propio pequeño negocio algún día!"
+      },
+      "start": 34.96,
+      "end": 39.76,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 34.96,
+          "end": 35.12
+        },
+        {
+          "text": "envie",
+          "start": 35.12,
+          "end": 35.28
+        },
+        {
+          "text": "de",
+          "start": 35.28,
+          "end": 35.28
+        },
+        {
+          "text": "travailler",
+          "start": 35.28,
+          "end": 35.76
+        },
+        {
+          "text": "avec",
+          "start": 35.76,
+          "end": 36.0
+        },
+        {
+          "text": "mes",
+          "start": 36.0,
+          "end": 36.16
+        },
+        {
+          "text": "mains",
+          "start": 36.16,
+          "end": 36.56
+        },
+        {
+          "text": "pis",
+          "start": 36.64,
+          "end": 36.96
+        },
+        {
+          "text": "qui",
+          "start": 36.96,
+          "end": 36.96
+        },
+        {
+          "text": "sait",
+          "start": 37.44,
+          "end": 37.76
+        },
+        {
+          "text": "peut",
+          "start": 37.76,
+          "end": 37.84
+        },
+        {
+          "text": "être",
+          "start": 37.92,
+          "end": 38.08
+        },
+        {
+          "text": "d'avoir",
+          "start": 38.08,
+          "end": 38.24
+        },
+        {
+          "text": "ma",
+          "start": 38.24,
+          "end": 38.4
+        },
+        {
+          "text": "propre",
+          "start": 38.4,
+          "end": 38.72
+        },
+        {
+          "text": "petite",
+          "start": 38.72,
+          "end": 38.96
+        },
+        {
+          "text": "business",
+          "start": 38.96,
+          "end": 39.44
+        },
+        {
+          "text": "un",
+          "start": 39.44,
+          "end": 39.52
+        },
+        {
+          "text": "jour",
+          "start": 39.52,
+          "end": 39.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai envie de travailler avec mes mains",
+          "translations": {
+            "zh": "我想用双手工作",
+            "en": "I want to work with my hands",
+            "es": "Tengo ganas de trabajar con mis manos"
+          },
+          "start": 34.96,
+          "end": 36.56
+        },
+        {
+          "text": "pis, qui sait,",
+          "translations": {
+            "zh": "而且，谁知道呢，",
+            "en": "and, who knows,",
+            "es": "y, quién sabe,"
+          },
+          "start": 36.64,
+          "end": 37.76
+        },
+        {
+          "text": "peut-être d'avoir ma propre petite business un jour !",
+          "translations": {
+            "zh": "也许有一天能拥有自己的小生意！",
+            "en": "maybe have my own little business one day!",
+            "es": "¡quizás tener mi propio pequeño negocio algún día!"
+          },
+          "start": 37.76,
+          "end": 39.76
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Je te vois ben faire ça !",
+      "translations": {
+        "zh": "我完全能想象你做这个！",
+        "en": "I can totally see you doing that!",
+        "es": "¡Te veo muy capaz de hacer eso!"
+      },
+      "start": 40.16,
+      "end": 41.2,
+      "words": [
+        {
+          "text": "Je",
+          "start": 40.16,
+          "end": 40.24
+        },
+        {
+          "text": "te",
+          "start": 40.24,
+          "end": 40.32
+        },
+        {
+          "text": "vois",
+          "start": 40.32,
+          "end": 40.56
+        },
+        {
+          "text": "ben",
+          "start": 40.56,
+          "end": 40.72
+        },
+        {
+          "text": "faire",
+          "start": 40.72,
+          "end": 40.96
+        },
+        {
+          "text": "ça",
+          "start": 40.96,
+          "end": 41.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je te vois ben faire ça !",
+          "translations": {
+            "zh": "我完全能想象你做这个！",
+            "en": "I can totally see you doing that!",
+            "es": "¡Te veo muy capaz de hacer eso!"
+          },
+          "start": 40.16,
+          "end": 41.2
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Tu étais super bon pour réparer les chaises brisées quand je travaillais au café !",
+      "translations": {
+        "zh": "我在咖啡馆工作的时候，你修理坏椅子超级厉害！",
+        "en": "You were really good at fixing the broken chairs when I worked at the café!",
+        "es": "¡Eras muy bueno reparando las sillas rotas cuando trabajabas en el café!"
+      },
+      "start": 41.68,
+      "end": 44.64,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 41.68,
+          "end": 41.76
+        },
+        {
+          "text": "étais",
+          "start": 41.76,
+          "end": 41.92
+        },
+        {
+          "text": "super",
+          "start": 41.92,
+          "end": 42.32
+        },
+        {
+          "text": "bon",
+          "start": 42.32,
+          "end": 42.56
+        },
+        {
+          "text": "pour",
+          "start": 42.56,
+          "end": 42.72
+        },
+        {
+          "text": "réparer",
+          "start": 42.72,
+          "end": 43.04
+        },
+        {
+          "text": "les",
+          "start": 43.04,
+          "end": 43.12
+        },
+        {
+          "text": "chaises",
+          "start": 43.12,
+          "end": 43.36
+        },
+        {
+          "text": "brisées",
+          "start": 43.36,
+          "end": 43.68
+        },
+        {
+          "text": "quand",
+          "start": 43.68,
+          "end": 43.84
+        },
+        {
+          "text": "je",
+          "start": 43.84,
+          "end": 43.92
+        },
+        {
+          "text": "travaillais",
+          "start": 43.92,
+          "end": 44.16
+        },
+        {
+          "text": "au",
+          "start": 44.16,
+          "end": 44.24
+        },
+        {
+          "text": "café",
+          "start": 44.24,
+          "end": 44.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu étais super bon",
+          "translations": {
+            "zh": "你超级厉害",
+            "en": "You were really good",
+            "es": "Eras muy bueno"
+          },
+          "start": 41.68,
+          "end": 42.56
+        },
+        {
+          "text": "pour réparer les chaises brisées",
+          "translations": {
+            "zh": "修理坏椅子",
+            "en": "at fixing the broken chairs",
+            "es": "reparando las sillas rotas"
+          },
+          "start": 42.56,
+          "end": 43.68
+        },
+        {
+          "text": "quand je travaillais au café !",
+          "translations": {
+            "zh": "当我在咖啡馆工作的时候！",
+            "en": "when I worked at the café!",
+            "es": "cuando trabajabas en el café!"
+          },
+          "start": 43.68,
+          "end": 44.64
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Ah, merci !",
+      "translations": {
+        "zh": "啊，谢谢！",
+        "en": "Oh, thanks!",
+        "es": "¡Ah, gracias!"
+      },
+      "start": 45.6,
+      "end": 47.44,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 45.6,
+          "end": 45.76
+        },
+        {
+          "text": "merci",
+          "start": 46.64,
+          "end": 47.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah, merci !",
+          "translations": {
+            "zh": "啊，谢谢！",
+            "en": "Oh, thanks!",
+            "es": "¡Ah, gracias!"
+          },
+          "start": 45.6,
+          "end": 47.44
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "J'ai trouvé un programme intéressant qui se donne au cégep, mais je dois encore me renseigner.",
+      "translations": {
+        "zh": "我找到了一个在CEGEP开设的有意思的项目，但我还需要了解一下。",
+        "en": "I found an interesting program offered at the CEGEP, but I still need to look into it.",
+        "es": "Encontré un programa interesante que se imparte en el cégep, pero todavía tengo que informarme."
+      },
+      "start": 48.24,
+      "end": 51.68,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 48.24,
+          "end": 48.32
+        },
+        {
+          "text": "trouvé",
+          "start": 48.32,
+          "end": 48.56
+        },
+        {
+          "text": "un",
+          "start": 48.56,
+          "end": 48.56
+        },
+        {
+          "text": "programme",
+          "start": 48.56,
+          "end": 48.96
+        },
+        {
+          "text": "intéressant",
+          "start": 48.96,
+          "end": 49.44
+        },
+        {
+          "text": "qui",
+          "start": 49.44,
+          "end": 49.52
+        },
+        {
+          "text": "se",
+          "start": 49.52,
+          "end": 49.6
+        },
+        {
+          "text": "donne",
+          "start": 49.6,
+          "end": 49.76
+        },
+        {
+          "text": "au",
+          "start": 49.76,
+          "end": 49.84
+        },
+        {
+          "text": "cégep",
+          "start": 49.84,
+          "end": 50.24
+        },
+        {
+          "text": "mais",
+          "start": 50.56,
+          "end": 50.64
+        },
+        {
+          "text": "je",
+          "start": 50.64,
+          "end": 50.72
+        },
+        {
+          "text": "dois",
+          "start": 50.72,
+          "end": 50.88
+        },
+        {
+          "text": "encore",
+          "start": 50.88,
+          "end": 51.04
+        },
+        {
+          "text": "me",
+          "start": 51.04,
+          "end": 51.12
+        },
+        {
+          "text": "renseigner",
+          "start": 51.12,
+          "end": 51.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai trouvé un programme intéressant",
+          "translations": {
+            "zh": "我找到了一个有意思的项目",
+            "en": "I found an interesting program",
+            "es": "Encontré un programa interesante"
+          },
+          "start": 48.24,
+          "end": 49.44
+        },
+        {
+          "text": "qui se donne au cégep,",
+          "translations": {
+            "zh": "在CEGEP开设的，",
+            "en": "offered at the CEGEP,",
+            "es": "que se imparte en el cégep,"
+          },
+          "start": 49.44,
+          "end": 50.24
+        },
+        {
+          "text": "mais je dois encore me renseigner.",
+          "translations": {
+            "zh": "但我还需要了解一下。",
+            "en": "but I still need to look into it.",
+            "es": "pero todavía tengo que informarme."
+          },
+          "start": 50.56,
+          "end": 51.68
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Sais-tu qui pourrait m'aider ?",
+      "translations": {
+        "zh": "你知道谁能帮我吗？",
+        "en": "Do you know who could help me?",
+        "es": "¿Sabes quién podría ayudarme?"
+      },
+      "start": 52.4,
+      "end": 53.44,
+      "words": [
+        {
+          "text": "Sais",
+          "start": 52.4,
+          "end": 52.56
+        },
+        {
+          "text": "tu",
+          "start": 52.56,
+          "end": 52.72
+        },
+        {
+          "text": "qui",
+          "start": 52.72,
+          "end": 52.88
+        },
+        {
+          "text": "pourrait",
+          "start": 52.88,
+          "end": 53.12
+        },
+        {
+          "text": "m'aider",
+          "start": 53.12,
+          "end": 53.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Sais-tu qui pourrait m'aider ?",
+          "translations": {
+            "zh": "你知道谁能帮我吗？",
+            "en": "Do you know who could help me?",
+            "es": "¿Sabes quién podría ayudarme?"
+          },
+          "start": 52.4,
+          "end": 53.44
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Ben, ça dépend de tes questions...",
+      "translations": {
+        "zh": "嗯，这取决于你的问题……",
+        "en": "Well, that depends on your questions...",
+        "es": "Bueno, depende de tus preguntas..."
+      },
+      "start": 53.92,
+      "end": 55.36,
+      "words": [
+        {
+          "text": "Ben",
+          "start": 53.92,
+          "end": 54.08
+        },
+        {
+          "text": "ça",
+          "start": 54.24,
+          "end": 54.4
+        },
+        {
+          "text": "dépend",
+          "start": 54.4,
+          "end": 54.72
+        },
+        {
+          "text": "de",
+          "start": 54.72,
+          "end": 54.8
+        },
+        {
+          "text": "tes",
+          "start": 54.8,
+          "end": 54.88
+        },
+        {
+          "text": "questions",
+          "start": 54.88,
+          "end": 55.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ben,",
+          "translations": {
+            "zh": "嗯，",
+            "en": "Well,",
+            "es": "Bueno,"
+          },
+          "start": 53.92,
+          "end": 54.08
+        },
+        {
+          "text": "ça dépend de tes questions...",
+          "translations": {
+            "zh": "这取决于你的问题……",
+            "en": "that depends on your questions...",
+            "es": "depende de tus preguntas..."
+          },
+          "start": 54.24,
+          "end": 55.36
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Tu peux rencontrer un conseiller d'orientation si tu as besoin de te faire guider en général mais, si ça concerne juste le programme, tu devrais appeler directement au cégep.",
+      "translations": {
+        "zh": "如果你需要一般性的指导，你可以去见职业顾问，但如果只是关于项目的问题，你应该直接打电话给CEGEP。",
+        "en": "You can meet with a guidance counselor if you need general guidance, but if it's just about the program, you should call the CEGEP directly.",
+        "es": "Puedes ver a un consejero de orientación si necesitas que te guíen en general pero, si solo concierne al programa, deberías llamar directamente al cégep."
+      },
+      "start": 56.32,
+      "end": 63.76,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 56.32,
+          "end": 56.4
+        },
+        {
+          "text": "peux",
+          "start": 56.4,
+          "end": 56.56
+        },
+        {
+          "text": "rencontrer",
+          "start": 56.56,
+          "end": 56.96
+        },
+        {
+          "text": "un",
+          "start": 56.96,
+          "end": 57.04
+        },
+        {
+          "text": "conseiller",
+          "start": 57.04,
+          "end": 57.44
+        },
+        {
+          "text": "d'orientation",
+          "start": 57.44,
+          "end": 58.16
+        },
+        {
+          "text": "si",
+          "start": 58.16,
+          "end": 58.32
+        },
+        {
+          "text": "tu",
+          "start": 58.32,
+          "end": 58.4
+        },
+        {
+          "text": "as",
+          "start": 58.4,
+          "end": 58.4
+        },
+        {
+          "text": "besoin",
+          "start": 58.4,
+          "end": 58.72
+        },
+        {
+          "text": "de",
+          "start": 58.72,
+          "end": 58.8
+        },
+        {
+          "text": "te",
+          "start": 58.8,
+          "end": 58.88
+        },
+        {
+          "text": "faire",
+          "start": 58.88,
+          "end": 59.04
+        },
+        {
+          "text": "guider",
+          "start": 59.04,
+          "end": 59.36
+        },
+        {
+          "text": "en",
+          "start": 59.36,
+          "end": 59.36
+        },
+        {
+          "text": "général",
+          "start": 59.36,
+          "end": 59.92
+        },
+        {
+          "text": "mais",
+          "start": 59.92,
+          "end": 60.24
+        },
+        {
+          "text": "si",
+          "start": 60.24,
+          "end": 60.4
+        },
+        {
+          "text": "ça",
+          "start": 60.4,
+          "end": 60.56
+        },
+        {
+          "text": "concerne",
+          "start": 60.56,
+          "end": 61.04
+        },
+        {
+          "text": "juste",
+          "start": 61.04,
+          "end": 61.36
+        },
+        {
+          "text": "le",
+          "start": 61.36,
+          "end": 61.44
+        },
+        {
+          "text": "programme",
+          "start": 61.44,
+          "end": 62.0
+        },
+        {
+          "text": "tu",
+          "start": 62.24,
+          "end": 62.4
+        },
+        {
+          "text": "devrais",
+          "start": 62.4,
+          "end": 62.64
+        },
+        {
+          "text": "appeler",
+          "start": 62.64,
+          "end": 62.88
+        },
+        {
+          "text": "directement",
+          "start": 62.88,
+          "end": 63.36
+        },
+        {
+          "text": "au",
+          "start": 63.36,
+          "end": 63.44
+        },
+        {
+          "text": "cégep",
+          "start": 63.44,
+          "end": 63.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu peux rencontrer un conseiller d'orientation",
+          "translations": {
+            "zh": "你可以去见职业顾问",
+            "en": "You can meet with a guidance counselor",
+            "es": "Puedes ver a un consejero de orientación"
+          },
+          "start": 56.32,
+          "end": 58.16
+        },
+        {
+          "text": "si tu as besoin de te faire guider en général",
+          "translations": {
+            "zh": "如果你需要一般性的指导",
+            "en": "if you need general guidance",
+            "es": "si necesitas que te guíen en general"
+          },
+          "start": 58.16,
+          "end": 59.92
+        },
+        {
+          "text": "mais, si ça concerne juste le programme,",
+          "translations": {
+            "zh": "但如果只是关于项目的问题，",
+            "en": "but if it's just about the program,",
+            "es": "pero, si solo concierne al programa,"
+          },
+          "start": 59.92,
+          "end": 62.0
+        },
+        {
+          "text": "tu devrais appeler directement au cégep.",
+          "translations": {
+            "zh": "你应该直接打电话给CEGEP。",
+            "en": "you should call the CEGEP directly.",
+            "es": "deberías llamar directamente al cégep."
+          },
+          "start": 62.24,
+          "end": 63.76
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Bonne idée !",
+      "translations": {
+        "zh": "好主意！",
+        "en": "Good idea!",
+        "es": "¡Buena idea!"
+      },
+      "start": 64.16,
+      "end": 65.2,
+      "words": [
+        {
+          "text": "Bonne",
+          "start": 64.16,
+          "end": 64.56
+        },
+        {
+          "text": "idée",
+          "start": 64.56,
+          "end": 65.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonne idée !",
+          "translations": {
+            "zh": "好主意！",
+            "en": "Good idea!",
+            "es": "¡Buena idea!"
+          },
+          "start": 64.16,
+          "end": 65.2
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Pis toi, as-tu fini ton bac en chimie ?",
+      "translations": {
+        "zh": "那你呢，你完成化学学士了吗？",
+        "en": "And you, have you finished your chemistry degree?",
+        "es": "¿Y tú, has terminado tu licenciatura en química?"
+      },
+      "start": 65.84,
+      "end": 68.24,
+      "words": [
+        {
+          "text": "Pis",
+          "start": 65.84,
+          "end": 65.92
+        },
+        {
+          "text": "toi",
+          "start": 65.92,
+          "end": 66.24
+        },
+        {
+          "text": "as",
+          "start": 66.96,
+          "end": 67.04
+        },
+        {
+          "text": "tu",
+          "start": 67.04,
+          "end": 67.2
+        },
+        {
+          "text": "fini",
+          "start": 67.2,
+          "end": 67.36
+        },
+        {
+          "text": "ton",
+          "start": 67.36,
+          "end": 67.52
+        },
+        {
+          "text": "bac",
+          "start": 67.6,
+          "end": 67.76
+        },
+        {
+          "text": "en",
+          "start": 67.76,
+          "end": 67.84
+        },
+        {
+          "text": "chimie",
+          "start": 67.84,
+          "end": 68.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pis toi,",
+          "translations": {
+            "zh": "那你呢，",
+            "en": "And you,",
+            "es": "¿Y tú,"
+          },
+          "start": 65.84,
+          "end": 66.24
+        },
+        {
+          "text": "as-tu fini ton bac en chimie ?",
+          "translations": {
+            "zh": "你完成化学学士了吗？",
+            "en": "have you finished your chemistry degree?",
+            "es": "has terminado tu licenciatura en química?"
+          },
+          "start": 66.96,
+          "end": 68.24
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Je termine mes derniers cours en ce moment.",
+      "translations": {
+        "zh": "我现在正在完成最后的几门课。",
+        "en": "I'm finishing my last courses right now.",
+        "es": "Estoy terminando mis últimos cursos en este momento."
+      },
+      "start": 68.8,
+      "end": 70.32,
+      "words": [
+        {
+          "text": "Je",
+          "start": 68.8,
+          "end": 68.96
+        },
+        {
+          "text": "termine",
+          "start": 68.96,
+          "end": 69.28
+        },
+        {
+          "text": "mes",
+          "start": 69.28,
+          "end": 69.44
+        },
+        {
+          "text": "derniers",
+          "start": 69.44,
+          "end": 69.68
+        },
+        {
+          "text": "cours",
+          "start": 69.68,
+          "end": 69.92
+        },
+        {
+          "text": "en",
+          "start": 69.92,
+          "end": 70.0
+        },
+        {
+          "text": "ce",
+          "start": 70.0,
+          "end": 70.08
+        },
+        {
+          "text": "moment",
+          "start": 70.08,
+          "end": 70.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je termine mes derniers cours",
+          "translations": {
+            "zh": "我正在完成最后的几门课",
+            "en": "I'm finishing my last courses",
+            "es": "Estoy terminando mis últimos cursos"
+          },
+          "start": 68.8,
+          "end": 69.92
+        },
+        {
+          "text": "en ce moment.",
+          "translations": {
+            "zh": "现在。",
+            "en": "right now.",
+            "es": "en este momento."
+          },
+          "start": 69.92,
+          "end": 70.32
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Tu penses faire quoi après ?",
+      "translations": {
+        "zh": "你之后打算做什么？",
+        "en": "What are you thinking of doing after?",
+        "es": "¿Qué piensas hacer después?"
+      },
+      "start": 70.96,
+      "end": 72.0,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 70.96,
+          "end": 71.12
+        },
+        {
+          "text": "penses",
+          "start": 71.12,
+          "end": 71.28
+        },
+        {
+          "text": "faire",
+          "start": 71.28,
+          "end": 71.52
+        },
+        {
+          "text": "quoi",
+          "start": 71.52,
+          "end": 71.68
+        },
+        {
+          "text": "après",
+          "start": 71.68,
+          "end": 72.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu penses faire quoi après ?",
+          "translations": {
+            "zh": "你之后打算做什么？",
+            "en": "What are you thinking of doing after?",
+            "es": "¿Qué piensas hacer después?"
+          },
+          "start": 70.96,
+          "end": 72.0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Il me semble que tu parlais de faire une maitrise ?",
+      "translations": {
+        "zh": "我记得你说过要读硕士？",
+        "en": "I seem to remember you talking about doing a master's?",
+        "es": "¿Me parece que hablabas de hacer un máster?"
+      },
+      "start": 72.56,
+      "end": 74.4,
+      "words": [
+        {
+          "text": "Il",
+          "start": 72.56,
+          "end": 72.72
+        },
+        {
+          "text": "me",
+          "start": 72.72,
+          "end": 72.72
+        },
+        {
+          "text": "semble",
+          "start": 72.72,
+          "end": 73.04
+        },
+        {
+          "text": "que",
+          "start": 73.04,
+          "end": 73.12
+        },
+        {
+          "text": "tu",
+          "start": 73.12,
+          "end": 73.28
+        },
+        {
+          "text": "parlais",
+          "start": 73.28,
+          "end": 73.52
+        },
+        {
+          "text": "de",
+          "start": 73.52,
+          "end": 73.52
+        },
+        {
+          "text": "faire",
+          "start": 73.52,
+          "end": 73.76
+        },
+        {
+          "text": "une",
+          "start": 73.76,
+          "end": 73.84
+        },
+        {
+          "text": "maitrise",
+          "start": 73.84,
+          "end": 74.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il me semble",
+          "translations": {
+            "zh": "我记得",
+            "en": "I seem to remember",
+            "es": "Me parece"
+          },
+          "start": 72.56,
+          "end": 73.04
+        },
+        {
+          "text": "que tu parlais de faire une maitrise ?",
+          "translations": {
+            "zh": "你说过要读硕士？",
+            "en": "you talking about doing a master's?",
+            "es": "que hablabas de hacer un máster?"
+          },
+          "start": 73.04,
+          "end": 74.4
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Ben, c'est ça, il faudrait que je me décide...",
+      "translations": {
+        "zh": "嗯，就是这样，我得做决定了……",
+        "en": "Well, that's it, I need to make up my mind...",
+        "es": "Bueno, es eso, tendría que decidirme..."
+      },
+      "start": 74.72,
+      "end": 76.48,
+      "words": [
+        {
+          "text": "Ben",
+          "start": 74.72,
+          "end": 74.96
+        },
+        {
+          "text": "c'est",
+          "start": 74.96,
+          "end": 75.12
+        },
+        {
+          "text": "ça",
+          "start": 75.12,
+          "end": 75.12
+        },
+        {
+          "text": "il",
+          "start": 75.28,
+          "end": 75.36
+        },
+        {
+          "text": "faudrait",
+          "start": 75.44,
+          "end": 75.76
+        },
+        {
+          "text": "que",
+          "start": 75.76,
+          "end": 75.84
+        },
+        {
+          "text": "je",
+          "start": 75.84,
+          "end": 75.92
+        },
+        {
+          "text": "me",
+          "start": 75.92,
+          "end": 76.0
+        },
+        {
+          "text": "décide",
+          "start": 76.0,
+          "end": 76.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ben, c'est ça,",
+          "translations": {
+            "zh": "嗯，就是这样，",
+            "en": "Well, that's it,",
+            "es": "Bueno, es eso,"
+          },
+          "start": 74.72,
+          "end": 75.12
+        },
+        {
+          "text": "il faudrait que je me décide...",
+          "translations": {
+            "zh": "我得做决定了……",
+            "en": "I need to make up my mind...",
+            "es": "tendría que decidirme..."
+          },
+          "start": 75.28,
+          "end": 76.48
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "J'hésite entre me trouver un emploi pis continuer mes études.",
+      "translations": {
+        "zh": "我在找工作和继续学业之间犹豫不决。",
+        "en": "I'm hesitating between finding a job and continuing my studies.",
+        "es": "Dudo entre buscarme un empleo y continuar mis estudios."
+      },
+      "start": 77.6,
+      "end": 80.8,
+      "words": [
+        {
+          "text": "J'hésite",
+          "start": 77.6,
+          "end": 78.08
+        },
+        {
+          "text": "entre",
+          "start": 78.08,
+          "end": 78.24
+        },
+        {
+          "text": "me",
+          "start": 78.24,
+          "end": 78.32
+        },
+        {
+          "text": "trouver",
+          "start": 78.32,
+          "end": 78.64
+        },
+        {
+          "text": "un",
+          "start": 78.64,
+          "end": 78.72
+        },
+        {
+          "text": "emploi",
+          "start": 78.72,
+          "end": 79.36
+        },
+        {
+          "text": "pis",
+          "start": 79.68,
+          "end": 79.76
+        },
+        {
+          "text": "continuer",
+          "start": 79.76,
+          "end": 80.24
+        },
+        {
+          "text": "mes",
+          "start": 80.24,
+          "end": 80.4
+        },
+        {
+          "text": "études",
+          "start": 80.4,
+          "end": 80.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'hésite",
+          "translations": {
+            "zh": "我犹豫不决",
+            "en": "I'm hesitating",
+            "es": "Dudo"
+          },
+          "start": 77.6,
+          "end": 78.08
+        },
+        {
+          "text": "entre me trouver un emploi",
+          "translations": {
+            "zh": "在找一份工作",
+            "en": "between finding a job",
+            "es": "entre buscarme un empleo"
+          },
+          "start": 78.08,
+          "end": 79.36
+        },
+        {
+          "text": "pis continuer mes études.",
+          "translations": {
+            "zh": "和继续学业之间。",
+            "en": "and continuing my studies.",
+            "es": "y continuar mis estudios."
+          },
+          "start": 79.68,
+          "end": 80.8
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Je commence à avoir envie de gagner plus d'argent mais, en même temps, faire une maitrise, ça m'ouvrirait les portes de plus d'emplois à mon gout...",
+      "translations": {
+        "zh": "我开始想赚更多钱了，但与此同时，读硕士会为我打开更多我喜欢的工作机会的大门……",
+        "en": "I'm starting to want to earn more money but, at the same time, doing a master's would open the doors to more jobs to my liking...",
+        "es": "Empiezo a tener ganas de ganar más dinero pero, al mismo tiempo, hacer un máster me abriría las puertas a más empleos a mi gusto..."
+      },
+      "start": 81.84,
+      "end": 88.48,
+      "words": [
+        {
+          "text": "Je",
+          "start": 81.84,
+          "end": 81.92
+        },
+        {
+          "text": "commence",
+          "start": 81.92,
+          "end": 82.24
+        },
+        {
+          "text": "à",
+          "start": 82.24,
+          "end": 82.32
+        },
+        {
+          "text": "avoir",
+          "start": 82.32,
+          "end": 82.48
+        },
+        {
+          "text": "envie",
+          "start": 82.48,
+          "end": 82.64
+        },
+        {
+          "text": "de",
+          "start": 82.64,
+          "end": 82.72
+        },
+        {
+          "text": "gagner",
+          "start": 82.72,
+          "end": 83.04
+        },
+        {
+          "text": "plus",
+          "start": 83.04,
+          "end": 83.2
+        },
+        {
+          "text": "d'argent",
+          "start": 83.2,
+          "end": 83.68
+        },
+        {
+          "text": "mais",
+          "start": 83.68,
+          "end": 83.84
+        },
+        {
+          "text": "en",
+          "start": 83.84,
+          "end": 83.92
+        },
+        {
+          "text": "même",
+          "start": 83.92,
+          "end": 84.16
+        },
+        {
+          "text": "temps",
+          "start": 84.16,
+          "end": 84.4
+        },
+        {
+          "text": "faire",
+          "start": 85.2,
+          "end": 85.44
+        },
+        {
+          "text": "une",
+          "start": 85.44,
+          "end": 85.52
+        },
+        {
+          "text": "maitrise",
+          "start": 85.52,
+          "end": 86.08
+        },
+        {
+          "text": "ça",
+          "start": 86.08,
+          "end": 86.32
+        },
+        {
+          "text": "m'ouvrirait",
+          "start": 86.32,
+          "end": 86.8
+        },
+        {
+          "text": "les",
+          "start": 86.8,
+          "end": 86.96
+        },
+        {
+          "text": "portes",
+          "start": 86.96,
+          "end": 87.2
+        },
+        {
+          "text": "de",
+          "start": 87.2,
+          "end": 87.28
+        },
+        {
+          "text": "plus",
+          "start": 87.28,
+          "end": 87.6
+        },
+        {
+          "text": "d'emplois",
+          "start": 87.6,
+          "end": 88.0
+        },
+        {
+          "text": "à",
+          "start": 88.0,
+          "end": 88.0
+        },
+        {
+          "text": "mon",
+          "start": 88.0,
+          "end": 88.16
+        },
+        {
+          "text": "gout",
+          "start": 88.16,
+          "end": 88.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je commence à avoir envie",
+          "translations": {
+            "zh": "我开始想要",
+            "en": "I'm starting to want",
+            "es": "Empiezo a tener ganas"
+          },
+          "start": 81.84,
+          "end": 82.64
+        },
+        {
+          "text": "de gagner plus d'argent",
+          "translations": {
+            "zh": "赚更多钱",
+            "en": "to earn more money",
+            "es": "de ganar más dinero"
+          },
+          "start": 82.64,
+          "end": 83.68
+        },
+        {
+          "text": "mais, en même temps,",
+          "translations": {
+            "zh": "但与此同时，",
+            "en": "but, at the same time,",
+            "es": "pero, al mismo tiempo,"
+          },
+          "start": 83.68,
+          "end": 84.4
+        },
+        {
+          "text": "faire une maitrise,",
+          "translations": {
+            "zh": "读硕士，",
+            "en": "doing a master's,",
+            "es": "hacer un máster,"
+          },
+          "start": 85.2,
+          "end": 86.08
+        },
+        {
+          "text": "ça m'ouvrirait les portes de plus d'emplois à mon gout...",
+          "translations": {
+            "zh": "会为我打开更多我喜欢的工作机会的大门……",
+            "en": "would open the doors to more jobs to my liking...",
+            "es": "me abriría las puertas a más empleos a mi gusto..."
+          },
+          "start": 86.08,
+          "end": 88.48
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Ou je pourrais aussi faire un DESS pour pouvoir enseigner au cégep...",
+      "translations": {
+        "zh": "或者我也可以读一个DESS，这样就能在CEGEP教书……",
+        "en": "Or I could also do a DESS to be able to teach at the CEGEP...",
+        "es": "O también podría hacer un DESS para poder enseñar en el cégep..."
+      },
+      "start": 89.04,
+      "end": 92.32,
+      "words": [
+        {
+          "text": "Ou",
+          "start": 89.04,
+          "end": 89.2
+        },
+        {
+          "text": "je",
+          "start": 89.2,
+          "end": 89.28
+        },
+        {
+          "text": "pourrais",
+          "start": 89.36,
+          "end": 89.6
+        },
+        {
+          "text": "aussi",
+          "start": 89.6,
+          "end": 89.84
+        },
+        {
+          "text": "faire",
+          "start": 89.84,
+          "end": 90.08
+        },
+        {
+          "text": "un",
+          "start": 90.08,
+          "end": 90.24
+        },
+        {
+          "text": "DESS",
+          "start": 90.24,
+          "end": 91.12
+        },
+        {
+          "text": "pour",
+          "start": 91.12,
+          "end": 91.28
+        },
+        {
+          "text": "pouvoir",
+          "start": 91.28,
+          "end": 91.6
+        },
+        {
+          "text": "enseigner",
+          "start": 91.6,
+          "end": 91.84
+        },
+        {
+          "text": "au",
+          "start": 91.84,
+          "end": 91.92
+        },
+        {
+          "text": "cégep",
+          "start": 91.92,
+          "end": 92.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ou je pourrais aussi faire un DESS",
+          "translations": {
+            "zh": "或者我也可以读一个DESS",
+            "en": "Or I could also do a DESS",
+            "es": "O también podría hacer un DESS"
+          },
+          "start": 89.04,
+          "end": 91.12
+        },
+        {
+          "text": "pour pouvoir enseigner au cégep...",
+          "translations": {
+            "zh": "这样就能在CEGEP教书……",
+            "en": "to be able to teach at the CEGEP...",
+            "es": "para poder enseñar en el cégep..."
+          },
+          "start": 91.12,
+          "end": 92.32
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "Ouf, je te jure, je suis un peu perdu !",
+      "translations": {
+        "zh": "唉，我跟你说，我有点迷茫！",
+        "en": "Phew, I swear, I'm a bit lost!",
+        "es": "¡Uf, te lo juro, estoy un poco perdido!"
+      },
+      "start": 93.52,
+      "end": 96.0,
+      "words": [
+        {
+          "text": "Ouf",
+          "start": 93.52,
+          "end": 93.92
+        },
+        {
+          "text": "je",
+          "start": 94.8,
+          "end": 94.96
+        },
+        {
+          "text": "te",
+          "start": 94.96,
+          "end": 94.96
+        },
+        {
+          "text": "jure",
+          "start": 94.96,
+          "end": 95.28
+        },
+        {
+          "text": "je",
+          "start": 95.28,
+          "end": 95.44
+        },
+        {
+          "text": "suis",
+          "start": 95.44,
+          "end": 95.44
+        },
+        {
+          "text": "un",
+          "start": 95.44,
+          "end": 95.52
+        },
+        {
+          "text": "peu",
+          "start": 95.52,
+          "end": 95.6
+        },
+        {
+          "text": "perdu",
+          "start": 95.6,
+          "end": 96.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ouf,",
+          "translations": {
+            "zh": "唉，",
+            "en": "Phew,",
+            "es": "Uf,"
+          },
+          "start": 93.52,
+          "end": 93.92
+        },
+        {
+          "text": "je te jure,",
+          "translations": {
+            "zh": "我跟你说，",
+            "en": "I swear,",
+            "es": "te lo juro,"
+          },
+          "start": 94.8,
+          "end": 95.28
+        },
+        {
+          "text": "je suis un peu perdu !",
+          "translations": {
+            "zh": "我有点迷茫！",
+            "en": "I'm a bit lost!",
+            "es": "¡estoy un poco perdido!"
+          },
+          "start": 95.28,
+          "end": 96.0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "Je pense à prendre une année sabbatique, voyager un peu, voir du pays...",
+      "translations": {
+        "zh": "我在想休一个间隔年，去旅行一下，看看外面的世界……",
+        "en": "I'm thinking of taking a gap year, traveling a bit, seeing the country...",
+        "es": "Estoy pensando en tomar un año sabático, viajar un poco, ver país..."
+      },
+      "start": 96.48,
+      "end": 100.08,
+      "words": [
+        {
+          "text": "Je",
+          "start": 96.48,
+          "end": 96.64
+        },
+        {
+          "text": "pense",
+          "start": 96.64,
+          "end": 96.88
+        },
+        {
+          "text": "à",
+          "start": 96.88,
+          "end": 96.96
+        },
+        {
+          "text": "prendre",
+          "start": 96.96,
+          "end": 97.28
+        },
+        {
+          "text": "une",
+          "start": 97.28,
+          "end": 97.36
+        },
+        {
+          "text": "année",
+          "start": 97.36,
+          "end": 97.52
+        },
+        {
+          "text": "sabbatique",
+          "start": 97.52,
+          "end": 98.32
+        },
+        {
+          "text": "voyager",
+          "start": 98.48,
+          "end": 98.88
+        },
+        {
+          "text": "un",
+          "start": 98.88,
+          "end": 99.04
+        },
+        {
+          "text": "peu",
+          "start": 99.04,
+          "end": 99.28
+        },
+        {
+          "text": "voir",
+          "start": 99.28,
+          "end": 99.52
+        },
+        {
+          "text": "du",
+          "start": 99.52,
+          "end": 99.6
+        },
+        {
+          "text": "pays",
+          "start": 99.6,
+          "end": 100.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je pense à prendre une année sabbatique,",
+          "translations": {
+            "zh": "我在想休一个间隔年，",
+            "en": "I'm thinking of taking a gap year,",
+            "es": "Estoy pensando en tomar un año sabático,"
+          },
+          "start": 96.48,
+          "end": 98.32
+        },
+        {
+          "text": "voyager un peu,",
+          "translations": {
+            "zh": "去旅行一下，",
+            "en": "traveling a bit,",
+            "es": "viajar un poco,"
+          },
+          "start": 98.48,
+          "end": 99.28
+        },
+        {
+          "text": "voir du pays...",
+          "translations": {
+            "zh": "看看外面的世界……",
+            "en": "seeing the country...",
+            "es": "ver país..."
+          },
+          "start": 99.28,
+          "end": 100.08
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "Ça m'aiderait surement à réfléchir à tout ça...",
+      "translations": {
+        "zh": "这肯定会帮助我思考这一切……",
+        "en": "That would surely help me think about all that...",
+        "es": "Seguro me ayudaría a reflexionar sobre todo eso..."
+      },
+      "start": 100.64,
+      "end": 102.56,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 100.64,
+          "end": 100.8
+        },
+        {
+          "text": "m'aiderait",
+          "start": 100.8,
+          "end": 101.12
+        },
+        {
+          "text": "surement",
+          "start": 101.12,
+          "end": 101.52
+        },
+        {
+          "text": "à",
+          "start": 101.52,
+          "end": 101.52
+        },
+        {
+          "text": "réfléchir",
+          "start": 101.52,
+          "end": 102.08
+        },
+        {
+          "text": "à",
+          "start": 102.08,
+          "end": 102.16
+        },
+        {
+          "text": "tout",
+          "start": 102.16,
+          "end": 102.32
+        },
+        {
+          "text": "ça",
+          "start": 102.32,
+          "end": 102.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça m'aiderait surement",
+          "translations": {
+            "zh": "这肯定会帮助我",
+            "en": "That would surely help me",
+            "es": "Seguro me ayudaría"
+          },
+          "start": 100.64,
+          "end": 101.52
+        },
+        {
+          "text": "à réfléchir à tout ça...",
+          "translations": {
+            "zh": "思考这一切……",
+            "en": "think about all that...",
+            "es": "a reflexionar sobre todo eso..."
+          },
+          "start": 101.52,
+          "end": 102.56
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "text": "Ah, je te comprends !",
+      "translations": {
+        "zh": "啊，我理解你！",
+        "en": "Oh, I understand you!",
+        "es": "¡Ah, te entiendo!"
+      },
+      "start": 102.88,
+      "end": 104.0,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 102.88,
+          "end": 103.04
+        },
+        {
+          "text": "je",
+          "start": 103.28,
+          "end": 103.44
+        },
+        {
+          "text": "te",
+          "start": 103.44,
+          "end": 103.52
+        },
+        {
+          "text": "comprends",
+          "start": 103.52,
+          "end": 104.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah,",
+          "translations": {
+            "zh": "啊，",
+            "en": "Oh,",
+            "es": "Ah,"
+          },
+          "start": 102.88,
+          "end": 103.04
+        },
+        {
+          "text": "je te comprends !",
+          "translations": {
+            "zh": "我理解你！",
+            "en": "I understand you!",
+            "es": "¡te entiendo!"
+          },
+          "start": 103.28,
+          "end": 104.0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "text": "Mais, en même temps, si tu arrêtes, tu vas peut-être trouver ça dur de recommencer...",
+      "translations": {
+        "zh": "但与此同时，如果你停下来了，你可能会觉得很难重新开始……",
+        "en": "But, at the same time, if you stop, you might find it hard to start again...",
+        "es": "Pero, al mismo tiempo, si paras, quizás te parezca difícil volver a empezar..."
+      },
+      "start": 104.4,
+      "end": 108.24,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 104.4,
+          "end": 104.56
+        },
+        {
+          "text": "en",
+          "start": 104.56,
+          "end": 104.64
+        },
+        {
+          "text": "même",
+          "start": 104.64,
+          "end": 104.88
+        },
+        {
+          "text": "temps",
+          "start": 104.88,
+          "end": 105.04
+        },
+        {
+          "text": "si",
+          "start": 105.52,
+          "end": 105.76
+        },
+        {
+          "text": "tu",
+          "start": 105.76,
+          "end": 105.76
+        },
+        {
+          "text": "arrêtes",
+          "start": 105.76,
+          "end": 106.24
+        },
+        {
+          "text": "tu",
+          "start": 106.48,
+          "end": 106.56
+        },
+        {
+          "text": "vas",
+          "start": 106.64,
+          "end": 106.72
+        },
+        {
+          "text": "peut",
+          "start": 106.72,
+          "end": 106.8
+        },
+        {
+          "text": "être",
+          "start": 106.8,
+          "end": 106.88
+        },
+        {
+          "text": "trouver",
+          "start": 106.88,
+          "end": 107.12
+        },
+        {
+          "text": "ça",
+          "start": 107.12,
+          "end": 107.28
+        },
+        {
+          "text": "dur",
+          "start": 107.28,
+          "end": 107.52
+        },
+        {
+          "text": "de",
+          "start": 107.52,
+          "end": 107.6
+        },
+        {
+          "text": "recommencer",
+          "start": 107.6,
+          "end": 108.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais, en même temps,",
+          "translations": {
+            "zh": "但与此同时，",
+            "en": "But, at the same time,",
+            "es": "Pero, al mismo tiempo,"
+          },
+          "start": 104.4,
+          "end": 105.04
+        },
+        {
+          "text": "si tu arrêtes,",
+          "translations": {
+            "zh": "如果你停下来，",
+            "en": "if you stop,",
+            "es": "si paras,"
+          },
+          "start": 105.52,
+          "end": 106.24
+        },
+        {
+          "text": "tu vas peut-être trouver ça dur",
+          "translations": {
+            "zh": "你可能会觉得很难",
+            "en": "you might find it hard",
+            "es": "quizás te parezca difícil"
+          },
+          "start": 106.48,
+          "end": 107.52
+        },
+        {
+          "text": "de recommencer...",
+          "translations": {
+            "zh": "重新开始……",
+            "en": "to start again...",
+            "es": "volver a empezar..."
+          },
+          "start": 107.52,
+          "end": 108.24
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "text": "En tout cas, c'est ce que ça m'a fait, à moi !",
+      "translations": {
+        "zh": "不管怎样，这就是发生在我身上的事！",
+        "en": "In any case, that's what it did to me!",
+        "es": "En todo caso, ¡eso es lo que me pasó a mí!"
+      },
+      "start": 108.72,
+      "end": 110.48,
+      "words": [
+        {
+          "text": "En",
+          "start": 108.72,
+          "end": 108.88
+        },
+        {
+          "text": "tout",
+          "start": 108.88,
+          "end": 108.96
+        },
+        {
+          "text": "cas",
+          "start": 108.96,
+          "end": 109.12
+        },
+        {
+          "text": "c'est",
+          "start": 109.44,
+          "end": 109.6
+        },
+        {
+          "text": "ce",
+          "start": 109.6,
+          "end": 109.68
+        },
+        {
+          "text": "que",
+          "start": 109.68,
+          "end": 109.76
+        },
+        {
+          "text": "ça",
+          "start": 109.76,
+          "end": 109.92
+        },
+        {
+          "text": "m'a",
+          "start": 109.92,
+          "end": 110.0
+        },
+        {
+          "text": "fait",
+          "start": 110.0,
+          "end": 110.24
+        },
+        {
+          "text": "à",
+          "start": 110.24,
+          "end": 110.32
+        },
+        {
+          "text": "moi",
+          "start": 110.32,
+          "end": 110.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "En tout cas,",
+          "translations": {
+            "zh": "不管怎样，",
+            "en": "In any case,",
+            "es": "En todo caso,"
+          },
+          "start": 108.72,
+          "end": 109.12
+        },
+        {
+          "text": "c'est ce que ça m'a fait, à moi !",
+          "translations": {
+            "zh": "这就是发生在我身上的事！",
+            "en": "that's what it did to me!",
+            "es": "¡eso es lo que me pasó a mí!"
+          },
+          "start": 109.44,
+          "end": 110.48
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "text": "As-tu le temps de prendre une bière, on pourrait en jaser un peu ?",
+      "translations": {
+        "zh": "你有时间喝杯啤酒吗，我们可以聊聊？",
+        "en": "Do you have time to grab a beer, we could chat about it a bit?",
+        "es": "¿Tienes tiempo para tomar una cerveza, podríamos charlar un poco?"
+      },
+      "start": 111.28,
+      "end": 113.36,
+      "words": [
+        {
+          "text": "As",
+          "start": 111.28,
+          "end": 111.36
+        },
+        {
+          "text": "tu",
+          "start": 111.36,
+          "end": 111.52
+        },
+        {
+          "text": "le",
+          "start": 111.52,
+          "end": 111.52
+        },
+        {
+          "text": "temps",
+          "start": 111.52,
+          "end": 111.6
+        },
+        {
+          "text": "de",
+          "start": 111.6,
+          "end": 111.68
+        },
+        {
+          "text": "prendre",
+          "start": 111.68,
+          "end": 111.84
+        },
+        {
+          "text": "une",
+          "start": 111.84,
+          "end": 112.0
+        },
+        {
+          "text": "bière",
+          "start": 112.0,
+          "end": 112.32
+        },
+        {
+          "text": "on",
+          "start": 112.4,
+          "end": 112.56
+        },
+        {
+          "text": "pourrait",
+          "start": 112.56,
+          "end": 112.8
+        },
+        {
+          "text": "en",
+          "start": 112.8,
+          "end": 112.88
+        },
+        {
+          "text": "jaser",
+          "start": 112.88,
+          "end": 113.12
+        },
+        {
+          "text": "un",
+          "start": 113.12,
+          "end": 113.2
+        },
+        {
+          "text": "peu",
+          "start": 113.2,
+          "end": 113.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "As-tu le temps de prendre une bière,",
+          "translations": {
+            "zh": "你有时间喝杯啤酒吗，",
+            "en": "Do you have time to grab a beer,",
+            "es": "¿Tienes tiempo para tomar una cerveza,"
+          },
+          "start": 111.28,
+          "end": 112.32
+        },
+        {
+          "text": "on pourrait en jaser un peu ?",
+          "translations": {
+            "zh": "我们可以聊聊？",
+            "en": "we could chat about it a bit?",
+            "es": "podríamos charlar un poco?"
+          },
+          "start": 112.4,
+          "end": 113.36
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "text": "Ben certain !",
+      "translations": {
+        "zh": "当然！",
+        "en": "For sure!",
+        "es": "¡Claro que sí!"
+      },
+      "start": 114.08,
+      "end": 114.88,
+      "words": [
+        {
+          "text": "Ben",
+          "start": 114.08,
+          "end": 114.24
+        },
+        {
+          "text": "certain",
+          "start": 114.24,
+          "end": 114.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ben certain !",
+          "translations": {
+            "zh": "当然！",
+            "en": "For sure!",
+            "es": "¡Claro que sí!"
+          },
+          "start": 114.08,
+          "end": 114.88
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP19_P40",
+  "audio_filename": "FLS2_EP19_P40.mp3",
+  "audio_path": "downloads/FLS2_EP19_P40.mp3",
+  "episode": 19,
+  "piste": 40,
+  "page": 144,
+  "cd": "CD2"
+}

@@ -1,0 +1,426 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 12 Piste 6 Page 90",
+      "translations": {
+        "zh": "第12集 音轨6 第90页",
+        "en": "Episode 12 Track 6 Page 90",
+        "es": "Episodio 12 Pista 6 Página 90"
+      },
+      "start": 0.72,
+      "end": 8.32,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.72,
+          "end": 1.44
+        },
+        {
+          "text": "12",
+          "start": 1.92,
+          "end": 2.4
+        },
+        {
+          "text": "Piste",
+          "start": 3.36,
+          "end": 3.76
+        },
+        {
+          "text": "6",
+          "start": 4.32,
+          "end": 4.72
+        },
+        {
+          "text": "Page",
+          "start": 6.72,
+          "end": 7.2
+        },
+        {
+          "text": "90",
+          "start": 7.28,
+          "end": 8.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 12",
+          "translations": {
+            "zh": "第12集",
+            "en": "Episode 12",
+            "es": "Episodio 12"
+          },
+          "start": 0.72,
+          "end": 2.4
+        },
+        {
+          "text": "Piste 6",
+          "translations": {
+            "zh": "音轨6",
+            "en": "Track 6",
+            "es": "Pista 6"
+          },
+          "start": 3.36,
+          "end": 4.72
+        },
+        {
+          "text": "Page 90",
+          "translations": {
+            "zh": "第90页",
+            "en": "Page 90",
+            "es": "Página 90"
+          },
+          "start": 6.72,
+          "end": 8.32
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "L'écran La caméra Les micros Le bouton Marche/Veille Les icônes d'application La prise Le bouton principal La prise d'écouteurs Le clavier alphanumérique La touche étoile La touche carré La touche d'appel ou de fin d'appel La touche correction",
+      "translations": {
+        "zh": "屏幕 摄像头 麦克风 开机/待机按钮 应用程序图标 接口 主按钮 耳机接口 字母数字键盘 星号键 方形键 拨号或挂断键 更正键",
+        "en": "The screen The camera The microphones The power button The app icons The port The home button The headphone jack The alphanumeric keyboard The star key The square key The call or end call key The backspace key",
+        "es": "La pantalla La cámara Los micrófonos El botón Encendido/Espera Los iconos de aplicación La toma El botón principal La toma de auriculares El teclado alfanumérico La tecla asterisco La tecla cuadrada La tecla de llamada o de fin de llamada La tecla de corrección"
+      },
+      "start": 10.88,
+      "end": 68.72,
+      "words": [
+        {
+          "text": "L'écran",
+          "start": 10.88,
+          "end": 11.44
+        },
+        {
+          "text": "La",
+          "start": 11.44,
+          "end": 14.64
+        },
+        {
+          "text": "caméra",
+          "start": 14.64,
+          "end": 15.28
+        },
+        {
+          "text": "Les",
+          "start": 18.8,
+          "end": 18.8
+        },
+        {
+          "text": "micros",
+          "start": 19.04,
+          "end": 19.6
+        },
+        {
+          "text": "Le",
+          "start": 22.72,
+          "end": 22.88
+        },
+        {
+          "text": "bouton",
+          "start": 22.88,
+          "end": 23.44
+        },
+        {
+          "text": "Marche",
+          "start": 23.52,
+          "end": 24.0
+        },
+        {
+          "text": "Veille",
+          "start": 24.24,
+          "end": 24.72
+        },
+        {
+          "text": "Les",
+          "start": 28.24,
+          "end": 28.56
+        },
+        {
+          "text": "icônes",
+          "start": 28.56,
+          "end": 28.88
+        },
+        {
+          "text": "d'application",
+          "start": 28.88,
+          "end": 29.68
+        },
+        {
+          "text": "La",
+          "start": 29.76,
+          "end": 29.92
+        },
+        {
+          "text": "prise",
+          "start": 33.28,
+          "end": 33.28
+        },
+        {
+          "text": "Le",
+          "start": 37.28,
+          "end": 37.52
+        },
+        {
+          "text": "bouton",
+          "start": 37.52,
+          "end": 37.92
+        },
+        {
+          "text": "principal",
+          "start": 37.92,
+          "end": 38.8
+        },
+        {
+          "text": "La",
+          "start": 40.64,
+          "end": 40.72
+        },
+        {
+          "text": "prise",
+          "start": 42.32,
+          "end": 42.8
+        },
+        {
+          "text": "d'écouteurs",
+          "start": 42.8,
+          "end": 43.52
+        },
+        {
+          "text": "Le",
+          "start": 45.28,
+          "end": 45.52
+        },
+        {
+          "text": "clavier",
+          "start": 46.88,
+          "end": 47.44
+        },
+        {
+          "text": "alphanumérique",
+          "start": 47.52,
+          "end": 48.48
+        },
+        {
+          "text": "La",
+          "start": 51.76,
+          "end": 51.92
+        },
+        {
+          "text": "touche",
+          "start": 51.92,
+          "end": 52.32
+        },
+        {
+          "text": "étoile",
+          "start": 52.32,
+          "end": 52.88
+        },
+        {
+          "text": "La",
+          "start": 55.28,
+          "end": 55.44
+        },
+        {
+          "text": "touche",
+          "start": 56.8,
+          "end": 57.12
+        },
+        {
+          "text": "carré",
+          "start": 57.12,
+          "end": 57.6
+        },
+        {
+          "text": "La",
+          "start": 58.16,
+          "end": 58.24
+        },
+        {
+          "text": "touche",
+          "start": 58.66,
+          "end": 59.08
+        },
+        {
+          "text": "d'appel",
+          "start": 59.5,
+          "end": 59.92
+        },
+        {
+          "text": "ou",
+          "start": 63.6,
+          "end": 63.68
+        },
+        {
+          "text": "de",
+          "start": 63.68,
+          "end": 63.68
+        },
+        {
+          "text": "fin",
+          "start": 63.84,
+          "end": 64.16
+        },
+        {
+          "text": "d'appel",
+          "start": 64.16,
+          "end": 64.64
+        },
+        {
+          "text": "La",
+          "start": 67.6,
+          "end": 67.6
+        },
+        {
+          "text": "touche",
+          "start": 67.76,
+          "end": 68.16
+        },
+        {
+          "text": "correction",
+          "start": 68.16,
+          "end": 68.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "L'écran",
+          "translations": {
+            "zh": "屏幕",
+            "en": "The screen",
+            "es": "La pantalla"
+          },
+          "start": 10.88,
+          "end": 11.44
+        },
+        {
+          "text": "La caméra",
+          "translations": {
+            "zh": "摄像头",
+            "en": "The camera",
+            "es": "La cámara"
+          },
+          "start": 11.44,
+          "end": 15.28
+        },
+        {
+          "text": "Les micros",
+          "translations": {
+            "zh": "麦克风",
+            "en": "The microphones",
+            "es": "Los micrófonos"
+          },
+          "start": 18.8,
+          "end": 19.6
+        },
+        {
+          "text": "Le bouton Marche/Veille",
+          "translations": {
+            "zh": "开机/待机按钮",
+            "en": "The power button",
+            "es": "El botón Encendido/Espera"
+          },
+          "start": 22.72,
+          "end": 24.72
+        },
+        {
+          "text": "Les icônes d'application",
+          "translations": {
+            "zh": "应用程序图标",
+            "en": "The app icons",
+            "es": "Los iconos de aplicación"
+          },
+          "start": 28.24,
+          "end": 29.68
+        },
+        {
+          "text": "La prise",
+          "translations": {
+            "zh": "接口",
+            "en": "The port",
+            "es": "La toma"
+          },
+          "start": 29.76,
+          "end": 33.28
+        },
+        {
+          "text": "Le bouton principal",
+          "translations": {
+            "zh": "主按钮",
+            "en": "The home button",
+            "es": "El botón principal"
+          },
+          "start": 37.28,
+          "end": 38.8
+        },
+        {
+          "text": "La prise d'écouteurs",
+          "translations": {
+            "zh": "耳机接口",
+            "en": "The headphone jack",
+            "es": "La toma de auriculares"
+          },
+          "start": 40.64,
+          "end": 43.52
+        },
+        {
+          "text": "Le clavier alphanumérique",
+          "translations": {
+            "zh": "字母数字键盘",
+            "en": "The alphanumeric keyboard",
+            "es": "El teclado alfanumérico"
+          },
+          "start": 45.28,
+          "end": 48.48
+        },
+        {
+          "text": "La touche étoile",
+          "translations": {
+            "zh": "星号键",
+            "en": "The star key",
+            "es": "La tecla asterisco"
+          },
+          "start": 51.76,
+          "end": 52.88
+        },
+        {
+          "text": "La touche carré",
+          "translations": {
+            "zh": "方形键",
+            "en": "The square key",
+            "es": "La tecla cuadrada"
+          },
+          "start": 55.28,
+          "end": 57.6
+        },
+        {
+          "text": "La touche d'appel ou de fin d'appel",
+          "translations": {
+            "zh": "拨号或挂断键",
+            "en": "The call or end call key",
+            "es": "La tecla de llamada o de fin de llamada"
+          },
+          "start": 58.16,
+          "end": 64.64
+        },
+        {
+          "text": "La touche correction",
+          "translations": {
+            "zh": "更正键",
+            "en": "The backspace key",
+            "es": "La tecla de corrección"
+          },
+          "start": 67.6,
+          "end": 68.72
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP12_P06",
+  "audio_filename": "FLS2_EP12_P06.mp3",
+  "audio_path": "downloads/FLS2_EP12_P06.mp3",
+  "episode": 12,
+  "piste": 6,
+  "page": 90,
+  "cd": "CD2"
+}

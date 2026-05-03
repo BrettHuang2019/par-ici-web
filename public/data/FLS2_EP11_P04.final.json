@@ -1,0 +1,1831 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 11 Piste 4 Page 88",
+      "translations": {
+        "zh": "第11集 第4轨 第88页",
+        "en": "Episode 11 Track 4 Page 88",
+        "es": "Episodio 11 Pista 4 Página 88"
+      },
+      "start": 0.48,
+      "end": 7.28,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.48,
+          "end": 1.12
+        },
+        {
+          "text": "11",
+          "start": 1.44,
+          "end": 1.92
+        },
+        {
+          "text": "Piste",
+          "start": 2.72,
+          "end": 3.2
+        },
+        {
+          "text": "4",
+          "start": 3.84,
+          "end": 3.84
+        },
+        {
+          "text": "Page",
+          "start": 3.84,
+          "end": 4.32
+        },
+        {
+          "text": "88",
+          "start": 6.16,
+          "end": 7.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 11",
+          "translations": {
+            "zh": "第11集",
+            "en": "Episode 11",
+            "es": "Episodio 11"
+          },
+          "start": 0.48,
+          "end": 1.92
+        },
+        {
+          "text": "Piste 4",
+          "translations": {
+            "zh": "第4轨",
+            "en": "Track 4",
+            "es": "Pista 4"
+          },
+          "start": 2.72,
+          "end": 3.84
+        },
+        {
+          "text": "Page 88",
+          "translations": {
+            "zh": "第88页",
+            "en": "Page 88",
+            "es": "Página 88"
+          },
+          "start": 3.84,
+          "end": 7.28
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Femme 1 : Je te recommande les marchés Jean-Talon ou Atwater.",
+      "translations": {
+        "zh": "女士1：我向你推荐让·塔隆市场或阿特沃特市场。",
+        "en": "Woman 1: I recommend the Jean-Talon or Atwater markets to you.",
+        "es": "Mujer 1: Te recomiendo los mercados Jean-Talon o Atwater."
+      },
+      "start": 8.96,
+      "end": 12.72,
+      "words": [
+        {
+          "text": "Femme",
+          "start": 8.96,
+          "end": 8.96
+        },
+        {
+          "text": "1",
+          "start": 9.2,
+          "end": 9.2
+        },
+        {
+          "text": "Je",
+          "start": 9.2,
+          "end": 9.2
+        },
+        {
+          "text": "te",
+          "start": 10.24,
+          "end": 10.4
+        },
+        {
+          "text": "recommande",
+          "start": 10.4,
+          "end": 10.88
+        },
+        {
+          "text": "les",
+          "start": 10.88,
+          "end": 10.96
+        },
+        {
+          "text": "marchés",
+          "start": 10.96,
+          "end": 11.36
+        },
+        {
+          "text": "Jean",
+          "start": 11.36,
+          "end": 11.52
+        },
+        {
+          "text": "Talon",
+          "start": 11.52,
+          "end": 11.84
+        },
+        {
+          "text": "ou",
+          "start": 11.92,
+          "end": 12.0
+        },
+        {
+          "text": "Atwater",
+          "start": 12.08,
+          "end": 12.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Femme 1 :",
+          "translations": {
+            "zh": "女士1：",
+            "en": "Woman 1:",
+            "es": "Mujer 1:"
+          },
+          "start": 8.96,
+          "end": 9.2
+        },
+        {
+          "text": "Je te recommande les marchés Jean-Talon ou Atwater.",
+          "translations": {
+            "zh": "我向你推荐让·塔隆市场或阿特沃特市场。",
+            "en": "I recommend the Jean-Talon or Atwater markets to you.",
+            "es": "Te recomiendo los mercados Jean-Talon o Atwater."
+          },
+          "start": 9.2,
+          "end": 12.72
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Il y a un choix incroyable de fleurs, et les gens sont très accueillants.",
+      "translations": {
+        "zh": "花的种类多得令人难以置信，而且人们非常热情好客。",
+        "en": "There's an incredible selection of flowers, and the people are very welcoming.",
+        "es": "Hay una selección increíble de flores, y la gente es muy acogedora."
+      },
+      "start": 13.28,
+      "end": 16.4,
+      "words": [
+        {
+          "text": "Il",
+          "start": 13.28,
+          "end": 13.28
+        },
+        {
+          "text": "y",
+          "start": 13.28,
+          "end": 13.36
+        },
+        {
+          "text": "a",
+          "start": 13.36,
+          "end": 13.44
+        },
+        {
+          "text": "un",
+          "start": 13.44,
+          "end": 13.44
+        },
+        {
+          "text": "choix",
+          "start": 13.44,
+          "end": 13.76
+        },
+        {
+          "text": "incroyable",
+          "start": 13.76,
+          "end": 14.4
+        },
+        {
+          "text": "de",
+          "start": 14.4,
+          "end": 14.56
+        },
+        {
+          "text": "fleurs",
+          "start": 14.56,
+          "end": 15.04
+        },
+        {
+          "text": "et",
+          "start": 15.12,
+          "end": 15.2
+        },
+        {
+          "text": "les",
+          "start": 15.2,
+          "end": 15.36
+        },
+        {
+          "text": "gens",
+          "start": 15.36,
+          "end": 15.52
+        },
+        {
+          "text": "sont",
+          "start": 15.52,
+          "end": 15.68
+        },
+        {
+          "text": "très",
+          "start": 15.68,
+          "end": 15.92
+        },
+        {
+          "text": "accueillants",
+          "start": 15.92,
+          "end": 16.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il y a un choix incroyable de fleurs,",
+          "translations": {
+            "zh": "花的种类多得令人难以置信，",
+            "en": "There's an incredible selection of flowers,",
+            "es": "Hay una selección increíble de flores,"
+          },
+          "start": 13.28,
+          "end": 15.04
+        },
+        {
+          "text": "et les gens sont très accueillants.",
+          "translations": {
+            "zh": "而且人们非常热情好客。",
+            "en": "and the people are very welcoming.",
+            "es": "y la gente es muy acogedora."
+          },
+          "start": 15.12,
+          "end": 16.4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Femme 2 : Le marché Jean-Talon ?",
+      "translations": {
+        "zh": "女士2：让·塔隆市场？",
+        "en": "Woman 2: The Jean-Talon market?",
+        "es": "Mujer 2: ¿El mercado Jean-Talon?"
+      },
+      "start": 16.4,
+      "end": 18.0,
+      "words": [
+        {
+          "text": "Femme",
+          "start": 16.4,
+          "end": 16.4
+        },
+        {
+          "text": "2",
+          "start": 16.88,
+          "end": 16.96
+        },
+        {
+          "text": "Le",
+          "start": 16.96,
+          "end": 16.96
+        },
+        {
+          "text": "marché",
+          "start": 17.04,
+          "end": 17.36
+        },
+        {
+          "text": "Jean",
+          "start": 17.36,
+          "end": 17.6
+        },
+        {
+          "text": "Talon",
+          "start": 17.6,
+          "end": 18.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Femme 2 :",
+          "translations": {
+            "zh": "女士2：",
+            "en": "Woman 2:",
+            "es": "Mujer 2:"
+          },
+          "start": 16.4,
+          "end": 16.96
+        },
+        {
+          "text": "Le marché Jean-Talon ?",
+          "translations": {
+            "zh": "让·塔隆市场？",
+            "en": "The Jean-Talon market?",
+            "es": "¿El mercado Jean-Talon?"
+          },
+          "start": 16.96,
+          "end": 18.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Bonne idée de sortie !",
+      "translations": {
+        "zh": "出游的好主意！",
+        "en": "Good idea for an outing!",
+        "es": "¡Buena idea de salida!"
+      },
+      "start": 18.24,
+      "end": 19.44,
+      "words": [
+        {
+          "text": "Bonne",
+          "start": 18.24,
+          "end": 18.56
+        },
+        {
+          "text": "idée",
+          "start": 18.56,
+          "end": 18.8
+        },
+        {
+          "text": "de",
+          "start": 18.8,
+          "end": 18.8
+        },
+        {
+          "text": "sortie",
+          "start": 18.8,
+          "end": 19.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonne idée de sortie !",
+          "translations": {
+            "zh": "出游的好主意！",
+            "en": "Good idea for an outing!",
+            "es": "¡Buena idea de salida!"
+          },
+          "start": 18.24,
+          "end": 19.44
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Je vais en parler aux nouveaux voisins, ce sera l'occasion de leur faire visiter le coin de la Petite Italie.",
+      "translations": {
+        "zh": "我要去跟新邻居们说说，这也将是带他们参观小意大利区的机会。",
+        "en": "I'll mention it to the new neighbors, it'll be a chance to show them around the Little Italy area.",
+        "es": "Voy a hablar de ello con los nuevos vecinos, será la ocasión de hacerles visitar el barrio de la Pequeña Italia."
+      },
+      "start": 20.0,
+      "end": 24.4,
+      "words": [
+        {
+          "text": "Je",
+          "start": 20.0,
+          "end": 20.0
+        },
+        {
+          "text": "vais",
+          "start": 20.16,
+          "end": 20.24
+        },
+        {
+          "text": "en",
+          "start": 20.24,
+          "end": 20.32
+        },
+        {
+          "text": "parler",
+          "start": 20.32,
+          "end": 20.64
+        },
+        {
+          "text": "aux",
+          "start": 20.64,
+          "end": 20.72
+        },
+        {
+          "text": "nouveaux",
+          "start": 20.72,
+          "end": 20.96
+        },
+        {
+          "text": "voisins",
+          "start": 20.96,
+          "end": 21.44
+        },
+        {
+          "text": "ce",
+          "start": 21.76,
+          "end": 21.92
+        },
+        {
+          "text": "sera",
+          "start": 21.92,
+          "end": 22.08
+        },
+        {
+          "text": "l'occasion",
+          "start": 22.08,
+          "end": 22.56
+        },
+        {
+          "text": "de",
+          "start": 22.56,
+          "end": 22.64
+        },
+        {
+          "text": "leur",
+          "start": 22.64,
+          "end": 22.72
+        },
+        {
+          "text": "faire",
+          "start": 22.72,
+          "end": 22.96
+        },
+        {
+          "text": "visiter",
+          "start": 22.96,
+          "end": 23.36
+        },
+        {
+          "text": "le",
+          "start": 23.36,
+          "end": 23.36
+        },
+        {
+          "text": "coin",
+          "start": 23.36,
+          "end": 23.6
+        },
+        {
+          "text": "de",
+          "start": 23.6,
+          "end": 23.68
+        },
+        {
+          "text": "la",
+          "start": 23.68,
+          "end": 23.76
+        },
+        {
+          "text": "Petite",
+          "start": 23.76,
+          "end": 24.0
+        },
+        {
+          "text": "Italie",
+          "start": 24.0,
+          "end": 24.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais en parler aux nouveaux voisins,",
+          "translations": {
+            "zh": "我要去跟新邻居们说说，",
+            "en": "I'll mention it to the new neighbors,",
+            "es": "Voy a hablar de ello con los nuevos vecinos,"
+          },
+          "start": 20.0,
+          "end": 21.44
+        },
+        {
+          "text": "ce sera l'occasion de leur faire visiter le coin de la Petite Italie.",
+          "translations": {
+            "zh": "这也将是带他们参观小意大利区的机会。",
+            "en": "it'll be a chance to show them around the Little Italy area.",
+            "es": "será la ocasión de hacerles visitar el barrio de la Pequeña Italia."
+          },
+          "start": 21.76,
+          "end": 24.4
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Allo Marie, c'est Alain.",
+      "translations": {
+        "zh": "喂，玛丽，我是阿兰。",
+        "en": "Hi Marie, it's Alain.",
+        "es": "Hola Marie, es Alain."
+      },
+      "start": 29.92,
+      "end": 30.88,
+      "words": [
+        {
+          "text": "Allo",
+          "start": 29.92,
+          "end": 30.08
+        },
+        {
+          "text": "Marie",
+          "start": 30.08,
+          "end": 30.4
+        },
+        {
+          "text": "c'est",
+          "start": 30.56,
+          "end": 30.72
+        },
+        {
+          "text": "Alain",
+          "start": 30.72,
+          "end": 30.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Allo Marie,",
+          "translations": {
+            "zh": "喂，玛丽，",
+            "en": "Hi Marie,",
+            "es": "Hola Marie,"
+          },
+          "start": 29.92,
+          "end": 30.4
+        },
+        {
+          "text": "c'est Alain.",
+          "translations": {
+            "zh": "我是阿兰。",
+            "en": "it's Alain.",
+            "es": "es Alain."
+          },
+          "start": 30.56,
+          "end": 30.88
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Je t'appelle pour t'avertir que nos ados font un party samedi.",
+      "translations": {
+        "zh": "我打电话来是想通知你，我们的孩子们星期六要办一个派对。",
+        "en": "I'm calling to let you know that our teenagers are throwing a party on Saturday.",
+        "es": "Te llamo para avisarte que nuestros adolescentes hacen una fiesta el sábado."
+      },
+      "start": 32.0,
+      "end": 34.56,
+      "words": [
+        {
+          "text": "Je",
+          "start": 32.0,
+          "end": 32.08
+        },
+        {
+          "text": "t'appelle",
+          "start": 32.08,
+          "end": 32.4
+        },
+        {
+          "text": "pour",
+          "start": 32.4,
+          "end": 32.56
+        },
+        {
+          "text": "t'avertir",
+          "start": 32.56,
+          "end": 33.04
+        },
+        {
+          "text": "que",
+          "start": 33.04,
+          "end": 33.12
+        },
+        {
+          "text": "nos",
+          "start": 33.12,
+          "end": 33.36
+        },
+        {
+          "text": "ados",
+          "start": 33.36,
+          "end": 33.6
+        },
+        {
+          "text": "font",
+          "start": 33.6,
+          "end": 33.76
+        },
+        {
+          "text": "un",
+          "start": 33.76,
+          "end": 33.84
+        },
+        {
+          "text": "party",
+          "start": 33.84,
+          "end": 34.16
+        },
+        {
+          "text": "samedi",
+          "start": 34.16,
+          "end": 34.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je t'appelle pour t'avertir",
+          "translations": {
+            "zh": "我打电话来是想通知你，",
+            "en": "I'm calling to let you know",
+            "es": "Te llamo para avisarte"
+          },
+          "start": 32.0,
+          "end": 33.04
+        },
+        {
+          "text": "que nos ados font un party samedi.",
+          "translations": {
+            "zh": "我们的孩子们星期六要办一个派对。",
+            "en": "that our teenagers are throwing a party on Saturday.",
+            "es": "que nuestros adolescentes hacen una fiesta el sábado."
+          },
+          "start": 33.04,
+          "end": 34.56
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Ça risque d'être un peu bruyant...",
+      "translations": {
+        "zh": "可能会有点吵……",
+        "en": "It might be a bit noisy...",
+        "es": "Puede que sea un poco ruidoso..."
+      },
+      "start": 34.88,
+      "end": 36.48,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 34.88,
+          "end": 35.04
+        },
+        {
+          "text": "risque",
+          "start": 35.12,
+          "end": 35.44
+        },
+        {
+          "text": "d'être",
+          "start": 35.44,
+          "end": 35.76
+        },
+        {
+          "text": "un",
+          "start": 35.76,
+          "end": 35.84
+        },
+        {
+          "text": "peu",
+          "start": 35.92,
+          "end": 36.08
+        },
+        {
+          "text": "bruyant",
+          "start": 36.08,
+          "end": 36.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça risque d'être un peu bruyant...",
+          "translations": {
+            "zh": "可能会有点吵……",
+            "en": "It might be a bit noisy...",
+            "es": "Puede que sea un poco ruidoso..."
+          },
+          "start": 34.88,
+          "end": 36.48
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Ça ne me dérange pas.",
+      "translations": {
+        "zh": "我不介意。",
+        "en": "That doesn't bother me.",
+        "es": "No me molesta."
+      },
+      "start": 37.2,
+      "end": 38.0,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 37.2,
+          "end": 37.36
+        },
+        {
+          "text": "ne",
+          "start": 37.36,
+          "end": 37.44
+        },
+        {
+          "text": "me",
+          "start": 37.44,
+          "end": 37.44
+        },
+        {
+          "text": "dérange",
+          "start": 37.44,
+          "end": 37.84
+        },
+        {
+          "text": "pas",
+          "start": 37.84,
+          "end": 38.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça ne me dérange pas.",
+          "translations": {
+            "zh": "我不介意。",
+            "en": "That doesn't bother me.",
+            "es": "No me molesta."
+          },
+          "start": 37.2,
+          "end": 38.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Si vous avez besoin d'aide pour préparer la fête, dites- le-moi.",
+      "translations": {
+        "zh": "如果你们需要帮忙准备聚会，请告诉我。",
+        "en": "If you need help preparing the party, let me know.",
+        "es": "Si necesitan ayuda para preparar la fiesta, díganmelo."
+      },
+      "start": 38.64,
+      "end": 41.68,
+      "words": [
+        {
+          "text": "Si",
+          "start": 38.64,
+          "end": 38.8
+        },
+        {
+          "text": "vous",
+          "start": 38.8,
+          "end": 39.04
+        },
+        {
+          "text": "avez",
+          "start": 39.04,
+          "end": 39.12
+        },
+        {
+          "text": "besoin",
+          "start": 39.2,
+          "end": 39.6
+        },
+        {
+          "text": "d'aide",
+          "start": 39.6,
+          "end": 39.84
+        },
+        {
+          "text": "pour",
+          "start": 39.84,
+          "end": 40.0
+        },
+        {
+          "text": "préparer",
+          "start": 40.0,
+          "end": 40.48
+        },
+        {
+          "text": "la",
+          "start": 40.48,
+          "end": 40.56
+        },
+        {
+          "text": "fête",
+          "start": 40.56,
+          "end": 41.04
+        },
+        {
+          "text": "dites",
+          "start": 41.2,
+          "end": 41.36
+        },
+        {
+          "text": "le",
+          "start": 41.36,
+          "end": 41.44
+        },
+        {
+          "text": "moi",
+          "start": 41.44,
+          "end": 41.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Si vous avez besoin d'aide pour préparer la fête,",
+          "translations": {
+            "zh": "如果你们需要帮忙准备聚会，",
+            "en": "If you need help preparing the party,",
+            "es": "Si necesitan ayuda para preparar la fiesta,"
+          },
+          "start": 38.64,
+          "end": 41.04
+        },
+        {
+          "text": "dites- le-moi.",
+          "translations": {
+            "zh": "请告诉我。",
+            "en": "let me know.",
+            "es": "díganmelo."
+          },
+          "start": 41.2,
+          "end": 41.68
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Merci, c'est gentil !",
+      "translations": {
+        "zh": "谢谢，你真好！",
+        "en": "Thanks, that's nice!",
+        "es": "Gracias, ¡es amable!"
+      },
+      "start": 42.32,
+      "end": 43.28,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 42.32,
+          "end": 42.64
+        },
+        {
+          "text": "c'est",
+          "start": 42.64,
+          "end": 42.8
+        },
+        {
+          "text": "gentil",
+          "start": 42.8,
+          "end": 43.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci,",
+          "translations": {
+            "zh": "谢谢，",
+            "en": "Thanks,",
+            "es": "Gracias,"
+          },
+          "start": 42.32,
+          "end": 42.64
+        },
+        {
+          "text": "c'est gentil !",
+          "translations": {
+            "zh": "你真好！",
+            "en": "that's nice!",
+            "es": "¡es amable!"
+          },
+          "start": 42.64,
+          "end": 43.28
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Tu es vraiment fine.",
+      "translations": {
+        "zh": "你真的很善良。",
+        "en": "You're really sweet.",
+        "es": "Eres realmente amable."
+      },
+      "start": 43.44,
+      "end": 44.16,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 43.44,
+          "end": 43.6
+        },
+        {
+          "text": "es",
+          "start": 43.6,
+          "end": 43.6
+        },
+        {
+          "text": "vraiment",
+          "start": 43.6,
+          "end": 43.92
+        },
+        {
+          "text": "fine",
+          "start": 43.92,
+          "end": 44.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu es vraiment fine.",
+          "translations": {
+            "zh": "你真的很善良。",
+            "en": "You're really sweet.",
+            "es": "Eres realmente amable."
+          },
+          "start": 43.44,
+          "end": 44.16
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Femme 1 : Qu'est-ce que vous pensez du projet pilote du quartier ?",
+      "translations": {
+        "zh": "女士1：你们觉得社区的试点项目怎么样？",
+        "en": "Woman 1: What do you think of the neighborhood pilot project?",
+        "es": "Mujer 1: ¿Qué opinan del proyecto piloto del barrio?"
+      },
+      "start": 46.56,
+      "end": 50.16,
+      "words": [
+        {
+          "text": "Femme",
+          "start": 46.56,
+          "end": 46.88
+        },
+        {
+          "text": "1",
+          "start": 48.0,
+          "end": 48.08
+        },
+        {
+          "text": "Qu'est",
+          "start": 48.08,
+          "end": 48.08
+        },
+        {
+          "text": "ce",
+          "start": 48.08,
+          "end": 48.16
+        },
+        {
+          "text": "que",
+          "start": 48.16,
+          "end": 48.24
+        },
+        {
+          "text": "vous",
+          "start": 48.24,
+          "end": 48.4
+        },
+        {
+          "text": "pensez",
+          "start": 48.4,
+          "end": 48.8
+        },
+        {
+          "text": "du",
+          "start": 48.8,
+          "end": 48.88
+        },
+        {
+          "text": "projet",
+          "start": 48.88,
+          "end": 49.2
+        },
+        {
+          "text": "pilote",
+          "start": 49.2,
+          "end": 49.52
+        },
+        {
+          "text": "du",
+          "start": 49.52,
+          "end": 49.68
+        },
+        {
+          "text": "quartier",
+          "start": 49.68,
+          "end": 50.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Femme 1 :",
+          "translations": {
+            "zh": "女士1：",
+            "en": "Woman 1:",
+            "es": "Mujer 1:"
+          },
+          "start": 46.56,
+          "end": 48.08
+        },
+        {
+          "text": "Qu'est-ce que vous pensez du projet pilote du quartier ?",
+          "translations": {
+            "zh": "你们觉得社区的试点项目怎么样？",
+            "en": "What do you think of the neighborhood pilot project?",
+            "es": "¿Qué opinan del proyecto piloto del barrio?"
+          },
+          "start": 48.08,
+          "end": 50.16
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Femme 2 : Je trouve que les rues piétonnes sont très réussies.",
+      "translations": {
+        "zh": "女士2：我觉得步行街做得很成功。",
+        "en": "Woman 2: I think the pedestrian streets are very well done.",
+        "es": "Mujer 2: Me parece que las calles peatonales están muy logradas."
+      },
+      "start": 50.64,
+      "end": 53.2,
+      "words": [
+        {
+          "text": "Femme",
+          "start": 50.64,
+          "end": 50.96
+        },
+        {
+          "text": "2",
+          "start": 50.96,
+          "end": 51.04
+        },
+        {
+          "text": "Je",
+          "start": 51.04,
+          "end": 51.04
+        },
+        {
+          "text": "trouve",
+          "start": 51.04,
+          "end": 51.04
+        },
+        {
+          "text": "que",
+          "start": 51.04,
+          "end": 51.12
+        },
+        {
+          "text": "les",
+          "start": 51.12,
+          "end": 51.28
+        },
+        {
+          "text": "rues",
+          "start": 51.28,
+          "end": 51.44
+        },
+        {
+          "text": "piétonnes",
+          "start": 51.44,
+          "end": 52.0
+        },
+        {
+          "text": "sont",
+          "start": 52.0,
+          "end": 52.24
+        },
+        {
+          "text": "très",
+          "start": 52.24,
+          "end": 52.64
+        },
+        {
+          "text": "réussies",
+          "start": 52.64,
+          "end": 53.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Femme 2 :",
+          "translations": {
+            "zh": "女士2：",
+            "en": "Woman 2:",
+            "es": "Mujer 2:"
+          },
+          "start": 50.64,
+          "end": 51.04
+        },
+        {
+          "text": "Je trouve que les rues piétonnes sont très réussies.",
+          "translations": {
+            "zh": "我觉得步行街做得很成功。",
+            "en": "I think the pedestrian streets are very well done.",
+            "es": "Me parece que las calles peatonales están muy logradas."
+          },
+          "start": 51.04,
+          "end": 53.2
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Les gens vont pouvoir découvrir leur quartier et magasiner en étant plus tranquilles.",
+      "translations": {
+        "zh": "人们将能够探索他们的社区，并在更加宁静的环境中购物。",
+        "en": "People will be able to discover their neighborhood and shop more peacefully.",
+        "es": "La gente va a poder descubrir su barrio y comprar estando más tranquilos."
+      },
+      "start": 53.6,
+      "end": 57.68,
+      "words": [
+        {
+          "text": "Les",
+          "start": 53.6,
+          "end": 53.76
+        },
+        {
+          "text": "gens",
+          "start": 53.76,
+          "end": 53.92
+        },
+        {
+          "text": "vont",
+          "start": 53.92,
+          "end": 54.08
+        },
+        {
+          "text": "pouvoir",
+          "start": 54.08,
+          "end": 54.56
+        },
+        {
+          "text": "découvrir",
+          "start": 54.56,
+          "end": 55.04
+        },
+        {
+          "text": "leur",
+          "start": 55.04,
+          "end": 55.28
+        },
+        {
+          "text": "quartier",
+          "start": 55.28,
+          "end": 55.68
+        },
+        {
+          "text": "et",
+          "start": 55.68,
+          "end": 55.76
+        },
+        {
+          "text": "magasiner",
+          "start": 55.84,
+          "end": 56.48
+        },
+        {
+          "text": "en",
+          "start": 56.48,
+          "end": 56.64
+        },
+        {
+          "text": "étant",
+          "start": 56.64,
+          "end": 56.96
+        },
+        {
+          "text": "plus",
+          "start": 56.96,
+          "end": 57.12
+        },
+        {
+          "text": "tranquilles",
+          "start": 57.12,
+          "end": 57.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les gens vont pouvoir découvrir leur quartier",
+          "translations": {
+            "zh": "人们将能够探索他们的社区，",
+            "en": "People will be able to discover their neighborhood",
+            "es": "La gente va a poder descubrir su barrio"
+          },
+          "start": 53.6,
+          "end": 55.68
+        },
+        {
+          "text": "et magasiner en étant plus tranquilles.",
+          "translations": {
+            "zh": "并在更加宁静的环境中购物。",
+            "en": "and shop more peacefully.",
+            "es": "y comprar estando más tranquilos."
+          },
+          "start": 55.68,
+          "end": 57.68
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Il y a des bancs, des bacs à fleurs, puis même un carrousel pour les enfants.",
+      "translations": {
+        "zh": "有长椅、花坛，甚至还有给孩子们的旋转木马。",
+        "en": "There are benches, flower boxes, and even a carousel for the children.",
+        "es": "Hay bancos, jardineras de flores, y hasta un carrusel para los niños."
+      },
+      "start": 58.24,
+      "end": 61.6,
+      "words": [
+        {
+          "text": "Il",
+          "start": 58.24,
+          "end": 58.32
+        },
+        {
+          "text": "y",
+          "start": 58.32,
+          "end": 58.32
+        },
+        {
+          "text": "a",
+          "start": 58.32,
+          "end": 58.32
+        },
+        {
+          "text": "des",
+          "start": 58.32,
+          "end": 58.56
+        },
+        {
+          "text": "bancs",
+          "start": 58.56,
+          "end": 59.04
+        },
+        {
+          "text": "des",
+          "start": 59.04,
+          "end": 59.2
+        },
+        {
+          "text": "bacs",
+          "start": 59.2,
+          "end": 59.44
+        },
+        {
+          "text": "à",
+          "start": 59.44,
+          "end": 59.52
+        },
+        {
+          "text": "fleurs",
+          "start": 59.52,
+          "end": 59.92
+        },
+        {
+          "text": "puis",
+          "start": 59.92,
+          "end": 60.16
+        },
+        {
+          "text": "même",
+          "start": 60.16,
+          "end": 60.32
+        },
+        {
+          "text": "un",
+          "start": 60.32,
+          "end": 60.4
+        },
+        {
+          "text": "carrousel",
+          "start": 60.4,
+          "end": 60.96
+        },
+        {
+          "text": "pour",
+          "start": 60.96,
+          "end": 61.12
+        },
+        {
+          "text": "les",
+          "start": 61.12,
+          "end": 61.28
+        },
+        {
+          "text": "enfants",
+          "start": 61.28,
+          "end": 61.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il y a des bancs,",
+          "translations": {
+            "zh": "有长椅、",
+            "en": "There are benches,",
+            "es": "Hay bancos,"
+          },
+          "start": 58.24,
+          "end": 59.04
+        },
+        {
+          "text": "des bacs à fleurs,",
+          "translations": {
+            "zh": "花坛，",
+            "en": "flower boxes,",
+            "es": "jardineras de flores,"
+          },
+          "start": 59.04,
+          "end": 59.92
+        },
+        {
+          "text": "puis même un carrousel pour les enfants.",
+          "translations": {
+            "zh": "甚至还有给孩子们的旋转木马。",
+            "en": "and even a carousel for the children.",
+            "es": "y hasta un carrusel para los niños."
+          },
+          "start": 59.92,
+          "end": 61.6
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "C'est vraiment le fun.",
+      "translations": {
+        "zh": "这真的很棒。",
+        "en": "It's really fun.",
+        "es": "Es realmente divertido."
+      },
+      "start": 61.92,
+      "end": 63.04,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 61.92,
+          "end": 62.16
+        },
+        {
+          "text": "vraiment",
+          "start": 62.16,
+          "end": 62.64
+        },
+        {
+          "text": "le",
+          "start": 62.64,
+          "end": 62.72
+        },
+        {
+          "text": "fun",
+          "start": 62.72,
+          "end": 63.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est vraiment le fun.",
+          "translations": {
+            "zh": "这真的很棒。",
+            "en": "It's really fun.",
+            "es": "Es realmente divertido."
+          },
+          "start": 61.92,
+          "end": 63.04
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Bonjour madame Parent !",
+      "translations": {
+        "zh": "你好，帕朗太太！",
+        "en": "Hello Mrs. Parent!",
+        "es": "¡Buenos días, señora Parent!"
+      },
+      "start": 67.2,
+      "end": 68.24,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 67.2,
+          "end": 67.52
+        },
+        {
+          "text": "madame",
+          "start": 67.52,
+          "end": 67.76
+        },
+        {
+          "text": "Parent",
+          "start": 67.76,
+          "end": 68.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour madame Parent !",
+          "translations": {
+            "zh": "你好，帕朗太太！",
+            "en": "Hello Mrs. Parent!",
+            "es": "¡Buenos días, señora Parent!"
+          },
+          "start": 67.2,
+          "end": 68.24
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Il parait qu'il va encore pleuvoir toute la journée...",
+      "translations": {
+        "zh": "听说今天又要下一整天的雨……",
+        "en": "Apparently it's going to rain all day again...",
+        "es": "Parece que va a llover otra vez todo el día..."
+      },
+      "start": 68.8,
+      "end": 70.48,
+      "words": [
+        {
+          "text": "Il",
+          "start": 68.8,
+          "end": 68.88
+        },
+        {
+          "text": "parait",
+          "start": 68.88,
+          "end": 69.12
+        },
+        {
+          "text": "qu'il",
+          "start": 69.12,
+          "end": 69.28
+        },
+        {
+          "text": "va",
+          "start": 69.28,
+          "end": 69.44
+        },
+        {
+          "text": "encore",
+          "start": 69.44,
+          "end": 69.6
+        },
+        {
+          "text": "pleuvoir",
+          "start": 69.6,
+          "end": 69.92
+        },
+        {
+          "text": "toute",
+          "start": 69.92,
+          "end": 70.0
+        },
+        {
+          "text": "la",
+          "start": 70.0,
+          "end": 70.08
+        },
+        {
+          "text": "journée",
+          "start": 70.08,
+          "end": 70.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il parait qu'il va encore pleuvoir toute la journée...",
+          "translations": {
+            "zh": "听说今天又要下一整天的雨……",
+            "en": "Apparently it's going to rain all day again...",
+            "es": "Parece que va a llover otra vez todo el día..."
+          },
+          "start": 68.8,
+          "end": 70.48
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Bonjour monsieur Goyette.",
+      "translations": {
+        "zh": "你好，戈耶特先生。",
+        "en": "Hello Mr. Goyette.",
+        "es": "Buenos días, señor Goyette."
+      },
+      "start": 70.96,
+      "end": 71.92,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 70.96,
+          "end": 71.28
+        },
+        {
+          "text": "monsieur",
+          "start": 71.28,
+          "end": 71.52
+        },
+        {
+          "text": "Goyette",
+          "start": 71.52,
+          "end": 71.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour monsieur Goyette.",
+          "translations": {
+            "zh": "你好，戈耶特先生。",
+            "en": "Hello Mr. Goyette.",
+            "es": "Buenos días, señor Goyette."
+          },
+          "start": 70.96,
+          "end": 71.92
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Oui, quel mauvais temps !",
+      "translations": {
+        "zh": "是啊，天气真糟糕！",
+        "en": "Yes, what awful weather!",
+        "es": "Sí, ¡qué mal tiempo!"
+      },
+      "start": 72.48,
+      "end": 73.76,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 72.48,
+          "end": 72.8
+        },
+        {
+          "text": "quel",
+          "start": 72.96,
+          "end": 73.2
+        },
+        {
+          "text": "mauvais",
+          "start": 73.2,
+          "end": 73.44
+        },
+        {
+          "text": "temps",
+          "start": 73.44,
+          "end": 73.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是啊，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 72.48,
+          "end": 72.8
+        },
+        {
+          "text": "quel mauvais temps !",
+          "translations": {
+            "zh": "天气真糟糕！",
+            "en": "what awful weather!",
+            "es": "¡qué mal tiempo!"
+          },
+          "start": 72.96,
+          "end": 73.76
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Un temps pour rester à la maison.",
+      "translations": {
+        "zh": "这种天气就该待在家里。",
+        "en": "Weather to stay home.",
+        "es": "Un tiempo para quedarse en casa."
+      },
+      "start": 74.16,
+      "end": 75.6,
+      "words": [
+        {
+          "text": "Un",
+          "start": 74.16,
+          "end": 74.32
+        },
+        {
+          "text": "temps",
+          "start": 74.32,
+          "end": 74.56
+        },
+        {
+          "text": "pour",
+          "start": 74.56,
+          "end": 74.64
+        },
+        {
+          "text": "rester",
+          "start": 74.64,
+          "end": 75.04
+        },
+        {
+          "text": "à",
+          "start": 75.04,
+          "end": 75.04
+        },
+        {
+          "text": "la",
+          "start": 75.04,
+          "end": 75.2
+        },
+        {
+          "text": "maison",
+          "start": 75.2,
+          "end": 75.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Un temps pour rester à la maison.",
+          "translations": {
+            "zh": "这种天气就该待在家里。",
+            "en": "Weather to stay home.",
+            "es": "Un tiempo para quedarse en casa."
+          },
+          "start": 74.16,
+          "end": 75.6
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Pis ça va durer jusqu'à la fin de la semaine.",
+      "translations": {
+        "zh": "而且会一直持续到周末。",
+        "en": "And it's going to last until the end of the week.",
+        "es": "Y va a durar hasta el final de la semana."
+      },
+      "start": 75.92,
+      "end": 77.68,
+      "words": [
+        {
+          "text": "Pis",
+          "start": 75.92,
+          "end": 76.08
+        },
+        {
+          "text": "ça",
+          "start": 76.08,
+          "end": 76.24
+        },
+        {
+          "text": "va",
+          "start": 76.24,
+          "end": 76.32
+        },
+        {
+          "text": "durer",
+          "start": 76.32,
+          "end": 76.64
+        },
+        {
+          "text": "jusqu'à",
+          "start": 76.64,
+          "end": 76.88
+        },
+        {
+          "text": "la",
+          "start": 76.88,
+          "end": 76.96
+        },
+        {
+          "text": "fin",
+          "start": 77.04,
+          "end": 77.12
+        },
+        {
+          "text": "de",
+          "start": 77.12,
+          "end": 77.2
+        },
+        {
+          "text": "la",
+          "start": 77.2,
+          "end": 77.36
+        },
+        {
+          "text": "semaine",
+          "start": 77.36,
+          "end": 77.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pis ça va durer",
+          "translations": {
+            "zh": "而且会一直持续",
+            "en": "And it's going to last",
+            "es": "Y va a durar"
+          },
+          "start": 75.92,
+          "end": 76.64
+        },
+        {
+          "text": "jusqu'à la fin de la semaine.",
+          "translations": {
+            "zh": "到周末。",
+            "en": "until the end of the week.",
+            "es": "hasta el final de la semana."
+          },
+          "start": 76.64,
+          "end": 77.68
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Parapluie et bottes jusqu'à dimanche !",
+      "translations": {
+        "zh": "雨伞和雨靴得用到星期天！",
+        "en": "Umbrella and boots until Sunday!",
+        "es": "¡Paraguas y botas hasta el domingo!"
+      },
+      "start": 78.48,
+      "end": 81.04,
+      "words": [
+        {
+          "text": "Parapluie",
+          "start": 78.48,
+          "end": 79.2
+        },
+        {
+          "text": "et",
+          "start": 79.36,
+          "end": 79.52
+        },
+        {
+          "text": "bottes",
+          "start": 79.52,
+          "end": 79.76
+        },
+        {
+          "text": "jusqu'à",
+          "start": 79.92,
+          "end": 80.32
+        },
+        {
+          "text": "dimanche",
+          "start": 80.32,
+          "end": 81.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Parapluie et bottes",
+          "translations": {
+            "zh": "雨伞和雨靴",
+            "en": "Umbrella and boots",
+            "es": "Paraguas y botas"
+          },
+          "start": 78.48,
+          "end": 79.76
+        },
+        {
+          "text": "jusqu'à dimanche !",
+          "translations": {
+            "zh": "得用到星期天！",
+            "en": "until Sunday!",
+            "es": "¡hasta el domingo!"
+          },
+          "start": 79.92,
+          "end": 81.04
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP11_P04",
+  "audio_filename": "FLS2_EP11_P04.mp3",
+  "audio_path": "downloads/FLS2_EP11_P04.mp3",
+  "episode": 11,
+  "piste": 4,
+  "page": 88,
+  "cd": "CD2"
+}

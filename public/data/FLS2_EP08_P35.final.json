@@ -1,0 +1,1391 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 8 Piste 35 Page 64",
+      "translations": {
+        "zh": "第八集 第三十五音轨 第64页",
+        "en": "Episode 8 Track 35 Page 64",
+        "es": "Episodio 8 Pista 35 Página 64"
+      },
+      "start": 0.48,
+      "end": 10.24,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.48,
+          "end": 1.12
+        },
+        {
+          "text": "8",
+          "start": 1.52,
+          "end": 1.76
+        },
+        {
+          "text": "Piste",
+          "start": 2.88,
+          "end": 3.36
+        },
+        {
+          "text": "35",
+          "start": 3.92,
+          "end": 4.64
+        },
+        {
+          "text": "Page",
+          "start": 6.64,
+          "end": 6.64
+        },
+        {
+          "text": "64",
+          "start": 10.24,
+          "end": 10.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 8",
+          "translations": {
+            "zh": "第八集",
+            "en": "Episode 8",
+            "es": "Episodio 8"
+          },
+          "start": 0.48,
+          "end": 1.76
+        },
+        {
+          "text": "Piste 35",
+          "translations": {
+            "zh": "第三十五音轨",
+            "en": "Track 35",
+            "es": "Pista 35"
+          },
+          "start": 2.88,
+          "end": 4.64
+        },
+        {
+          "text": "Page 64",
+          "translations": {
+            "zh": "第64页",
+            "en": "Page 64",
+            "es": "Página 64"
+          },
+          "start": 6.64,
+          "end": 10.24
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bonjour, vous avez joint Hélène Ronceau, directrice du Service des communications.",
+      "translations": {
+        "zh": "您好，您已联系到埃莱娜·龙索，通信部主任。",
+        "en": "Hello, you have reached Hélène Ronceau, director of the Communications Department.",
+        "es": "Hola, ha llamado a Hélène Ronceau, directora del Servicio de comunicaciones."
+      },
+      "start": 10.32,
+      "end": 15.04,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 10.32,
+          "end": 10.88
+        },
+        {
+          "text": "vous",
+          "start": 11.28,
+          "end": 11.52
+        },
+        {
+          "text": "avez",
+          "start": 11.52,
+          "end": 11.76
+        },
+        {
+          "text": "joint",
+          "start": 11.76,
+          "end": 12.0
+        },
+        {
+          "text": "Hélène",
+          "start": 12.16,
+          "end": 12.48
+        },
+        {
+          "text": "Ronceau",
+          "start": 12.48,
+          "end": 12.96
+        },
+        {
+          "text": "directrice",
+          "start": 13.2,
+          "end": 13.76
+        },
+        {
+          "text": "du",
+          "start": 13.76,
+          "end": 13.84
+        },
+        {
+          "text": "Service",
+          "start": 13.84,
+          "end": 14.24
+        },
+        {
+          "text": "des",
+          "start": 14.24,
+          "end": 14.4
+        },
+        {
+          "text": "communications",
+          "start": 14.4,
+          "end": 15.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 10.32,
+          "end": 10.88
+        },
+        {
+          "text": "vous avez joint Hélène Ronceau,",
+          "translations": {
+            "zh": "您已联系到埃莱娜·龙索，",
+            "en": "you have reached Hélène Ronceau,",
+            "es": "ha llamado a Hélène Ronceau,"
+          },
+          "start": 11.28,
+          "end": 12.96
+        },
+        {
+          "text": "directrice du Service des communications.",
+          "translations": {
+            "zh": "通信部主任。",
+            "en": "director of the Communications Department.",
+            "es": "directora del Servicio de comunicaciones."
+          },
+          "start": 13.2,
+          "end": 15.04
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Il m'est présentement impossible de répondre à votre appel.",
+      "translations": {
+        "zh": "我目前无法接听您的来电。",
+        "en": "It is currently impossible for me to answer your call.",
+        "es": "Me es actualmente imposible responder a su llamada."
+      },
+      "start": 15.92,
+      "end": 18.32,
+      "words": [
+        {
+          "text": "Il",
+          "start": 15.92,
+          "end": 16.08
+        },
+        {
+          "text": "m'est",
+          "start": 16.08,
+          "end": 16.16
+        },
+        {
+          "text": "présentement",
+          "start": 16.16,
+          "end": 16.72
+        },
+        {
+          "text": "impossible",
+          "start": 16.72,
+          "end": 17.28
+        },
+        {
+          "text": "de",
+          "start": 17.28,
+          "end": 17.36
+        },
+        {
+          "text": "répondre",
+          "start": 17.36,
+          "end": 17.76
+        },
+        {
+          "text": "à",
+          "start": 17.76,
+          "end": 17.84
+        },
+        {
+          "text": "votre",
+          "start": 17.84,
+          "end": 18.08
+        },
+        {
+          "text": "appel",
+          "start": 18.08,
+          "end": 18.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il m'est présentement impossible",
+          "translations": {
+            "zh": "我目前无法",
+            "en": "It is currently impossible for me",
+            "es": "Me es actualmente imposible"
+          },
+          "start": 15.92,
+          "end": 17.28
+        },
+        {
+          "text": "de répondre à votre appel.",
+          "translations": {
+            "zh": "接听您的来电。",
+            "en": "to answer your call.",
+            "es": "responder a su llamada."
+          },
+          "start": 17.28,
+          "end": 18.32
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "S'il vous plait, laissez-moi votre nom et votre numéro de téléphone et je vous rappellerai dans les plus brefs délais.",
+      "translations": {
+        "zh": "请留下您的姓名和电话号码，我会尽快给您回电。",
+        "en": "Please leave me your name and your phone number and I will call you back as soon as possible.",
+        "es": "Por favor, déjeme su nombre y su número de teléfono y lo llamaré lo antes posible."
+      },
+      "start": 19.04,
+      "end": 24.0,
+      "words": [
+        {
+          "text": "S'il",
+          "start": 19.04,
+          "end": 19.28
+        },
+        {
+          "text": "vous",
+          "start": 19.28,
+          "end": 19.44
+        },
+        {
+          "text": "plait",
+          "start": 19.44,
+          "end": 19.76
+        },
+        {
+          "text": "laissez",
+          "start": 19.76,
+          "end": 20.0
+        },
+        {
+          "text": "moi",
+          "start": 20.0,
+          "end": 20.16
+        },
+        {
+          "text": "votre",
+          "start": 20.16,
+          "end": 20.4
+        },
+        {
+          "text": "nom",
+          "start": 20.4,
+          "end": 20.64
+        },
+        {
+          "text": "et",
+          "start": 20.64,
+          "end": 20.72
+        },
+        {
+          "text": "votre",
+          "start": 20.72,
+          "end": 20.88
+        },
+        {
+          "text": "numéro",
+          "start": 20.88,
+          "end": 21.2
+        },
+        {
+          "text": "de",
+          "start": 21.2,
+          "end": 21.28
+        },
+        {
+          "text": "téléphone",
+          "start": 21.28,
+          "end": 21.76
+        },
+        {
+          "text": "et",
+          "start": 22.24,
+          "end": 22.4
+        },
+        {
+          "text": "je",
+          "start": 22.4,
+          "end": 22.56
+        },
+        {
+          "text": "vous",
+          "start": 22.56,
+          "end": 22.64
+        },
+        {
+          "text": "rappellerai",
+          "start": 22.64,
+          "end": 23.12
+        },
+        {
+          "text": "dans",
+          "start": 23.12,
+          "end": 23.2
+        },
+        {
+          "text": "les",
+          "start": 23.2,
+          "end": 23.36
+        },
+        {
+          "text": "plus",
+          "start": 23.36,
+          "end": 23.52
+        },
+        {
+          "text": "brefs",
+          "start": 23.52,
+          "end": 23.68
+        },
+        {
+          "text": "délais",
+          "start": 23.76,
+          "end": 24.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "S'il vous plait,",
+          "translations": {
+            "zh": "请，",
+            "en": "Please,",
+            "es": "Por favor,"
+          },
+          "start": 19.04,
+          "end": 19.76
+        },
+        {
+          "text": "laissez-moi votre nom et votre numéro de téléphone",
+          "translations": {
+            "zh": "留下您的姓名和电话号码，",
+            "en": "leave me your name and your phone number",
+            "es": "déjeme su nombre y su número de teléfono"
+          },
+          "start": 19.76,
+          "end": 21.76
+        },
+        {
+          "text": "et je vous rappellerai dans les plus brefs délais.",
+          "translations": {
+            "zh": "我会尽快给您回电。",
+            "en": "and I will call you back as soon as possible.",
+            "es": "y lo llamaré lo antes posible."
+          },
+          "start": 22.24,
+          "end": 24.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Pour une réponse immédiate, veuillez composer le 0 afin que votre appel soit dirigé vers la réception.",
+      "translations": {
+        "zh": "如需立即回复，请拨0，以便您的来电被转接至前台。",
+        "en": "For an immediate response, please dial 0 so that your call may be directed to reception.",
+        "es": "Para una respuesta inmediata, por favor marque el 0 para que su llamada sea dirigida a la recepción."
+      },
+      "start": 24.72,
+      "end": 30.08,
+      "words": [
+        {
+          "text": "Pour",
+          "start": 24.72,
+          "end": 24.88
+        },
+        {
+          "text": "une",
+          "start": 24.88,
+          "end": 24.96
+        },
+        {
+          "text": "réponse",
+          "start": 24.96,
+          "end": 25.36
+        },
+        {
+          "text": "immédiate",
+          "start": 25.36,
+          "end": 25.76
+        },
+        {
+          "text": "veuillez",
+          "start": 26.0,
+          "end": 26.4
+        },
+        {
+          "text": "composer",
+          "start": 26.4,
+          "end": 27.04
+        },
+        {
+          "text": "le",
+          "start": 27.04,
+          "end": 27.12
+        },
+        {
+          "text": "0",
+          "start": 27.12,
+          "end": 27.52
+        },
+        {
+          "text": "afin",
+          "start": 27.84,
+          "end": 28.08
+        },
+        {
+          "text": "que",
+          "start": 28.08,
+          "end": 28.16
+        },
+        {
+          "text": "votre",
+          "start": 28.16,
+          "end": 28.4
+        },
+        {
+          "text": "appel",
+          "start": 28.48,
+          "end": 28.72
+        },
+        {
+          "text": "soit",
+          "start": 28.72,
+          "end": 28.96
+        },
+        {
+          "text": "dirigé",
+          "start": 28.96,
+          "end": 29.28
+        },
+        {
+          "text": "vers",
+          "start": 29.28,
+          "end": 29.44
+        },
+        {
+          "text": "la",
+          "start": 29.44,
+          "end": 29.6
+        },
+        {
+          "text": "réception",
+          "start": 29.6,
+          "end": 30.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pour une réponse immédiate,",
+          "translations": {
+            "zh": "如需立即回复，",
+            "en": "For an immediate response,",
+            "es": "Para una respuesta inmediata,"
+          },
+          "start": 24.72,
+          "end": 25.76
+        },
+        {
+          "text": "veuillez composer le 0",
+          "translations": {
+            "zh": "请拨0，",
+            "en": "please dial 0",
+            "es": "por favor marque el 0"
+          },
+          "start": 26.0,
+          "end": 27.52
+        },
+        {
+          "text": "afin que votre appel soit dirigé vers la réception.",
+          "translations": {
+            "zh": "以便您的来电被转接至前台。",
+            "en": "so that your call may be directed to reception.",
+            "es": "para que su llamada sea dirigida a la recepción."
+          },
+          "start": 27.84,
+          "end": 30.08
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Merci et bonne journée.",
+      "translations": {
+        "zh": "谢谢，祝您有美好的一天。",
+        "en": "Thank you and have a good day.",
+        "es": "Gracias y que tenga un buen día."
+      },
+      "start": 30.64,
+      "end": 31.84,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 30.64,
+          "end": 31.12
+        },
+        {
+          "text": "et",
+          "start": 31.2,
+          "end": 31.28
+        },
+        {
+          "text": "bonne",
+          "start": 31.28,
+          "end": 31.44
+        },
+        {
+          "text": "journée",
+          "start": 31.44,
+          "end": 31.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci",
+          "translations": {
+            "zh": "谢谢",
+            "en": "Thank you",
+            "es": "Gracias"
+          },
+          "start": 30.64,
+          "end": 31.12
+        },
+        {
+          "text": "et bonne journée.",
+          "translations": {
+            "zh": "祝您有美好的一天。",
+            "en": "and have a good day.",
+            "es": "y que tenga un buen día."
+          },
+          "start": 31.2,
+          "end": 31.84
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Bonjour Hélène, c'est Francine, l'éducatrice de Léa.",
+      "translations": {
+        "zh": "你好埃莱娜，我是弗朗辛，蕾雅的幼教老师。",
+        "en": "Hello Hélène, this is Francine, Léa's educator.",
+        "es": "Hola Hélène, soy Francine, la educadora de Léa."
+      },
+      "start": 36.24,
+      "end": 38.96,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 36.24,
+          "end": 36.56
+        },
+        {
+          "text": "Hélène",
+          "start": 36.56,
+          "end": 36.96
+        },
+        {
+          "text": "c'est",
+          "start": 36.96,
+          "end": 37.12
+        },
+        {
+          "text": "Francine",
+          "start": 37.12,
+          "end": 37.76
+        },
+        {
+          "text": "l'éducatrice",
+          "start": 37.92,
+          "end": 38.48
+        },
+        {
+          "text": "de",
+          "start": 38.48,
+          "end": 38.56
+        },
+        {
+          "text": "Léa",
+          "start": 38.56,
+          "end": 38.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour Hélène,",
+          "translations": {
+            "zh": "你好埃莱娜，",
+            "en": "Hello Hélène,",
+            "es": "Hola Hélène,"
+          },
+          "start": 36.24,
+          "end": 36.96
+        },
+        {
+          "text": "c'est Francine,",
+          "translations": {
+            "zh": "我是弗朗辛，",
+            "en": "this is Francine,",
+            "es": "soy Francine,"
+          },
+          "start": 36.96,
+          "end": 37.76
+        },
+        {
+          "text": "l'éducatrice de Léa.",
+          "translations": {
+            "zh": "蕾雅的幼教老师。",
+            "en": "Léa's educator.",
+            "es": "la educadora de Léa."
+          },
+          "start": 37.92,
+          "end": 38.96
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Je vous appelle parce qu'elle a commencé à faire de la fièvre ce matin.",
+      "translations": {
+        "zh": "我打电话给您是因为她今天早上开始发烧了。",
+        "en": "I am calling you because she started to have a fever this morning.",
+        "es": "Le llamo porque empezó a tener fiebre esta mañana."
+      },
+      "start": 39.68,
+      "end": 42.24,
+      "words": [
+        {
+          "text": "Je",
+          "start": 39.68,
+          "end": 39.76
+        },
+        {
+          "text": "vous",
+          "start": 39.76,
+          "end": 39.92
+        },
+        {
+          "text": "appelle",
+          "start": 39.92,
+          "end": 40.24
+        },
+        {
+          "text": "parce",
+          "start": 40.24,
+          "end": 40.48
+        },
+        {
+          "text": "qu'elle",
+          "start": 40.48,
+          "end": 40.56
+        },
+        {
+          "text": "a",
+          "start": 40.64,
+          "end": 40.64
+        },
+        {
+          "text": "commencé",
+          "start": 40.64,
+          "end": 41.04
+        },
+        {
+          "text": "à",
+          "start": 41.04,
+          "end": 41.12
+        },
+        {
+          "text": "faire",
+          "start": 41.12,
+          "end": 41.28
+        },
+        {
+          "text": "de",
+          "start": 41.28,
+          "end": 41.36
+        },
+        {
+          "text": "la",
+          "start": 41.36,
+          "end": 41.44
+        },
+        {
+          "text": "fièvre",
+          "start": 41.44,
+          "end": 41.84
+        },
+        {
+          "text": "ce",
+          "start": 41.84,
+          "end": 41.92
+        },
+        {
+          "text": "matin",
+          "start": 41.92,
+          "end": 42.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vous appelle",
+          "translations": {
+            "zh": "我打电话给您",
+            "en": "I am calling you",
+            "es": "Le llamo"
+          },
+          "start": 39.68,
+          "end": 40.24
+        },
+        {
+          "text": "parce qu'elle a commencé à faire de la fièvre",
+          "translations": {
+            "zh": "因为她开始发烧了",
+            "en": "because she started to have a fever",
+            "es": "porque empezó a tener fiebre"
+          },
+          "start": 40.24,
+          "end": 41.84
+        },
+        {
+          "text": "ce matin.",
+          "translations": {
+            "zh": "今天早上。",
+            "en": "this morning.",
+            "es": "esta mañana."
+          },
+          "start": 41.84,
+          "end": 42.24
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "On lui a donné de l'acétaminophène il y a deux heures, mais ça ne baisse pas tellement.",
+      "translations": {
+        "zh": "两个小时前给她吃了对乙酰氨基酚，但没怎么退烧。",
+        "en": "We gave her some acetaminophen two hours ago, but it hasn't gone down much.",
+        "es": "Se le dio acetaminofén hace dos horas, pero no baja mucho."
+      },
+      "start": 43.12,
+      "end": 47.44,
+      "words": [
+        {
+          "text": "On",
+          "start": 43.12,
+          "end": 43.2
+        },
+        {
+          "text": "lui",
+          "start": 43.2,
+          "end": 43.36
+        },
+        {
+          "text": "a",
+          "start": 43.36,
+          "end": 43.44
+        },
+        {
+          "text": "donné",
+          "start": 43.44,
+          "end": 43.68
+        },
+        {
+          "text": "de",
+          "start": 43.68,
+          "end": 43.76
+        },
+        {
+          "text": "l'acétaminophène",
+          "start": 43.76,
+          "end": 44.8
+        },
+        {
+          "text": "il",
+          "start": 44.8,
+          "end": 44.8
+        },
+        {
+          "text": "y",
+          "start": 44.8,
+          "end": 44.88
+        },
+        {
+          "text": "a",
+          "start": 44.88,
+          "end": 44.96
+        },
+        {
+          "text": "deux",
+          "start": 44.96,
+          "end": 45.28
+        },
+        {
+          "text": "heures",
+          "start": 45.28,
+          "end": 45.68
+        },
+        {
+          "text": "mais",
+          "start": 46.24,
+          "end": 46.4
+        },
+        {
+          "text": "ça",
+          "start": 46.4,
+          "end": 46.64
+        },
+        {
+          "text": "ne",
+          "start": 46.64,
+          "end": 46.64
+        },
+        {
+          "text": "baisse",
+          "start": 46.64,
+          "end": 46.88
+        },
+        {
+          "text": "pas",
+          "start": 46.88,
+          "end": 46.96
+        },
+        {
+          "text": "tellement",
+          "start": 46.96,
+          "end": 47.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On lui a donné de l'acétaminophène",
+          "translations": {
+            "zh": "给她吃了对乙酰氨基酚",
+            "en": "We gave her some acetaminophen",
+            "es": "Se le dio acetaminofén"
+          },
+          "start": 43.12,
+          "end": 44.8
+        },
+        {
+          "text": "il y a deux heures,",
+          "translations": {
+            "zh": "两个小时前，",
+            "en": "two hours ago,",
+            "es": "hace dos horas,"
+          },
+          "start": 44.8,
+          "end": 45.68
+        },
+        {
+          "text": "mais ça ne baisse pas tellement.",
+          "translations": {
+            "zh": "但没怎么退烧。",
+            "en": "but it hasn't gone down much.",
+            "es": "pero no baja mucho."
+          },
+          "start": 46.24,
+          "end": 47.44
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Elle fait environ 38,5 °C.",
+      "translations": {
+        "zh": "她的体温大约是38.5°C。",
+        "en": "She is at about 38.5 °C.",
+        "es": "Tiene aproximadamente 38,5 °C."
+      },
+      "start": 48.08,
+      "end": 50.32,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 48.08,
+          "end": 48.24
+        },
+        {
+          "text": "fait",
+          "start": 48.24,
+          "end": 48.32
+        },
+        {
+          "text": "environ",
+          "start": 48.32,
+          "end": 49.04
+        },
+        {
+          "text": "38",
+          "start": 49.2,
+          "end": 50.16
+        },
+        {
+          "text": "5",
+          "start": 50.16,
+          "end": 50.16
+        },
+        {
+          "text": "C",
+          "start": 50.16,
+          "end": 50.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle fait environ 38,5 °C.",
+          "translations": {
+            "zh": "她的体温大约是38.5°C。",
+            "en": "She is at about 38.5 °C.",
+            "es": "Tiene aproximadamente 38,5 °C."
+          },
+          "start": 48.08,
+          "end": 50.32
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Elle n'a pas l'air très en forme, pis elle est un peu maussade.",
+      "translations": {
+        "zh": "她看起来状态不太好，而且有点烦躁。",
+        "en": "She doesn't look very well, and she is a bit cranky.",
+        "es": "No parece estar muy bien, y está un poco de mal humor."
+      },
+      "start": 51.04,
+      "end": 53.92,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 51.04,
+          "end": 51.2
+        },
+        {
+          "text": "n'a",
+          "start": 51.2,
+          "end": 51.28
+        },
+        {
+          "text": "pas",
+          "start": 51.28,
+          "end": 51.44
+        },
+        {
+          "text": "l'air",
+          "start": 51.44,
+          "end": 51.68
+        },
+        {
+          "text": "très",
+          "start": 51.68,
+          "end": 52.0
+        },
+        {
+          "text": "en",
+          "start": 52.0,
+          "end": 52.08
+        },
+        {
+          "text": "forme",
+          "start": 52.08,
+          "end": 52.64
+        },
+        {
+          "text": "pis",
+          "start": 52.64,
+          "end": 52.8
+        },
+        {
+          "text": "elle",
+          "start": 52.8,
+          "end": 52.88
+        },
+        {
+          "text": "est",
+          "start": 52.88,
+          "end": 52.96
+        },
+        {
+          "text": "un",
+          "start": 52.96,
+          "end": 53.04
+        },
+        {
+          "text": "peu",
+          "start": 53.04,
+          "end": 53.2
+        },
+        {
+          "text": "maussade",
+          "start": 53.2,
+          "end": 53.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle n'a pas l'air très en forme,",
+          "translations": {
+            "zh": "她看起来状态不太好，",
+            "en": "She doesn't look very well,",
+            "es": "No parece estar muy bien,"
+          },
+          "start": 51.04,
+          "end": 52.64
+        },
+        {
+          "text": "pis elle est un peu maussade.",
+          "translations": {
+            "zh": "而且有点烦躁。",
+            "en": "and she is a bit cranky.",
+            "es": "y está un poco de mal humor."
+          },
+          "start": 52.64,
+          "end": 53.92
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Ce n'est probablement rien d'inquiétant, mais il faudrait venir la chercher le plus rapidement possible s'il vous plait.",
+      "translations": {
+        "zh": "可能没什么可担心的，但请您尽快来接她。",
+        "en": "It's probably nothing to worry about, but it would be best to come pick her up as quickly as possible, please.",
+        "es": "Probablemente no es nada preocupante, pero sería necesario venir a buscarla lo más rápido posible, por favor."
+      },
+      "start": 54.8,
+      "end": 59.76,
+      "words": [
+        {
+          "text": "Ce",
+          "start": 54.8,
+          "end": 54.96
+        },
+        {
+          "text": "n'est",
+          "start": 54.96,
+          "end": 54.96
+        },
+        {
+          "text": "probablement",
+          "start": 54.96,
+          "end": 55.52
+        },
+        {
+          "text": "rien",
+          "start": 55.52,
+          "end": 55.76
+        },
+        {
+          "text": "d'inquiétant",
+          "start": 55.76,
+          "end": 56.48
+        },
+        {
+          "text": "mais",
+          "start": 56.96,
+          "end": 57.04
+        },
+        {
+          "text": "il",
+          "start": 57.04,
+          "end": 57.12
+        },
+        {
+          "text": "faudrait",
+          "start": 57.12,
+          "end": 57.36
+        },
+        {
+          "text": "venir",
+          "start": 57.44,
+          "end": 57.6
+        },
+        {
+          "text": "la",
+          "start": 57.6,
+          "end": 57.68
+        },
+        {
+          "text": "chercher",
+          "start": 57.68,
+          "end": 58.08
+        },
+        {
+          "text": "le",
+          "start": 58.08,
+          "end": 58.08
+        },
+        {
+          "text": "plus",
+          "start": 58.08,
+          "end": 58.24
+        },
+        {
+          "text": "rapidement",
+          "start": 58.24,
+          "end": 58.64
+        },
+        {
+          "text": "possible",
+          "start": 58.64,
+          "end": 59.12
+        },
+        {
+          "text": "s'il",
+          "start": 59.12,
+          "end": 59.36
+        },
+        {
+          "text": "vous",
+          "start": 59.36,
+          "end": 59.44
+        },
+        {
+          "text": "plait",
+          "start": 59.44,
+          "end": 59.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ce n'est probablement rien d'inquiétant,",
+          "translations": {
+            "zh": "可能没什么可担心的，",
+            "en": "It's probably nothing to worry about,",
+            "es": "Probablemente no es nada preocupante,"
+          },
+          "start": 54.8,
+          "end": 56.48
+        },
+        {
+          "text": "mais il faudrait venir la chercher",
+          "translations": {
+            "zh": "但应该来接她",
+            "en": "but it would be best to come pick her up",
+            "es": "pero sería necesario venir a buscarla"
+          },
+          "start": 56.96,
+          "end": 58.08
+        },
+        {
+          "text": "le plus rapidement possible",
+          "translations": {
+            "zh": "尽快",
+            "en": "as quickly as possible",
+            "es": "lo más rápido posible"
+          },
+          "start": 58.08,
+          "end": 59.12
+        },
+        {
+          "text": "s'il vous plait.",
+          "translations": {
+            "zh": "拜托了。",
+            "en": "please.",
+            "es": "por favor."
+          },
+          "start": 59.12,
+          "end": 59.76
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "S'il y a quoi que ce soit, vous pouvez m'appeler, au poste 204.",
+      "translations": {
+        "zh": "如果有任何问题，您可以给我打电话，分机号204。",
+        "en": "If there is anything, you can call me, at extension 204.",
+        "es": "Si hay cualquier cosa, puede llamarme, a la extensión 204."
+      },
+      "start": 60.48,
+      "end": 63.92,
+      "words": [
+        {
+          "text": "S'il",
+          "start": 60.48,
+          "end": 60.72
+        },
+        {
+          "text": "y",
+          "start": 60.72,
+          "end": 60.72
+        },
+        {
+          "text": "a",
+          "start": 60.72,
+          "end": 60.8
+        },
+        {
+          "text": "quoi",
+          "start": 60.8,
+          "end": 60.96
+        },
+        {
+          "text": "que",
+          "start": 60.96,
+          "end": 61.04
+        },
+        {
+          "text": "ce",
+          "start": 61.04,
+          "end": 61.2
+        },
+        {
+          "text": "soit",
+          "start": 61.2,
+          "end": 61.52
+        },
+        {
+          "text": "vous",
+          "start": 61.84,
+          "end": 62.0
+        },
+        {
+          "text": "pouvez",
+          "start": 62.0,
+          "end": 62.16
+        },
+        {
+          "text": "m'appeler",
+          "start": 62.16,
+          "end": 62.56
+        },
+        {
+          "text": "au",
+          "start": 62.56,
+          "end": 62.64
+        },
+        {
+          "text": "poste",
+          "start": 62.64,
+          "end": 63.04
+        },
+        {
+          "text": "204",
+          "start": 63.04,
+          "end": 63.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "S'il y a quoi que ce soit,",
+          "translations": {
+            "zh": "如果有任何问题，",
+            "en": "If there is anything,",
+            "es": "Si hay cualquier cosa,"
+          },
+          "start": 60.48,
+          "end": 61.52
+        },
+        {
+          "text": "vous pouvez m'appeler,",
+          "translations": {
+            "zh": "您可以给我打电话，",
+            "en": "you can call me,",
+            "es": "puede llamarme,"
+          },
+          "start": 61.84,
+          "end": 62.56
+        },
+        {
+          "text": "au poste 204.",
+          "translations": {
+            "zh": "分机号204。",
+            "en": "at extension 204.",
+            "es": "a la extensión 204."
+          },
+          "start": 62.56,
+          "end": 63.92
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Merci et à tantôt.",
+      "translations": {
+        "zh": "谢谢，回见。",
+        "en": "Thank you and see you later.",
+        "es": "Gracias y hasta luego."
+      },
+      "start": 64.24,
+      "end": 65.44,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 64.24,
+          "end": 64.8
+        },
+        {
+          "text": "et",
+          "start": 64.8,
+          "end": 64.96
+        },
+        {
+          "text": "à",
+          "start": 64.96,
+          "end": 65.04
+        },
+        {
+          "text": "tantôt",
+          "start": 65.04,
+          "end": 65.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci",
+          "translations": {
+            "zh": "谢谢",
+            "en": "Thank you",
+            "es": "Gracias"
+          },
+          "start": 64.24,
+          "end": 64.8
+        },
+        {
+          "text": "et à tantôt.",
+          "translations": {
+            "zh": "回见。",
+            "en": "and see you later.",
+            "es": "y hasta luego."
+          },
+          "start": 64.8,
+          "end": 65.44
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP08_P35",
+  "audio_filename": "FLS2_EP08_P35.mp3",
+  "audio_path": "downloads/FLS2_EP08_P35.mp3",
+  "episode": 8,
+  "piste": 35,
+  "page": 64,
+  "cd": "CD1"
+}

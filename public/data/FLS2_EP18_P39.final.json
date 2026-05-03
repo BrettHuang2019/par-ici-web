@@ -1,0 +1,641 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 18 Piste 39 Page 137",
+      "translations": {
+        "zh": "第18集 第39轨 第137页",
+        "en": "Episode 18 Track 39 Page 137",
+        "es": "Episodio 18 Pista 39 Página 137"
+      },
+      "start": 0.56,
+      "end": 7.68,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.56,
+          "end": 1.2
+        },
+        {
+          "text": "18",
+          "start": 1.6,
+          "end": 2.08
+        },
+        {
+          "text": "Piste",
+          "start": 2.96,
+          "end": 2.96
+        },
+        {
+          "text": "39",
+          "start": 3.84,
+          "end": 4.4
+        },
+        {
+          "text": "Page",
+          "start": 6.24,
+          "end": 6.64
+        },
+        {
+          "text": "137",
+          "start": 6.8,
+          "end": 7.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 18",
+          "translations": {
+            "zh": "第18集",
+            "en": "Episode 18",
+            "es": "Episodio 18"
+          },
+          "start": 0.56,
+          "end": 2.08
+        },
+        {
+          "text": "Piste 39",
+          "translations": {
+            "zh": "第39轨",
+            "en": "Track 39",
+            "es": "Pista 39"
+          },
+          "start": 2.96,
+          "end": 4.4
+        },
+        {
+          "text": "Page 137",
+          "translations": {
+            "zh": "第137页",
+            "en": "Page 137",
+            "es": "Página 137"
+          },
+          "start": 6.24,
+          "end": 7.68
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Pardon monsieur, avez-vous l'heure ?",
+      "translations": {
+        "zh": "对不起先生，您知道现在几点吗？",
+        "en": "Excuse me sir, do you have the time?",
+        "es": "Perdone señor, ¿tiene la hora?"
+      },
+      "start": 10.32,
+      "end": 12.0,
+      "words": [
+        {
+          "text": "Pardon",
+          "start": 10.32,
+          "end": 10.64
+        },
+        {
+          "text": "monsieur",
+          "start": 10.64,
+          "end": 11.04
+        },
+        {
+          "text": "avez",
+          "start": 11.12,
+          "end": 11.36
+        },
+        {
+          "text": "vous",
+          "start": 11.36,
+          "end": 11.52
+        },
+        {
+          "text": "l'heure",
+          "start": 11.52,
+          "end": 12.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pardon monsieur,",
+          "translations": {
+            "zh": "对不起先生，",
+            "en": "Excuse me sir,",
+            "es": "Perdone señor,"
+          },
+          "start": 10.32,
+          "end": 11.04
+        },
+        {
+          "text": "avez-vous l'heure ?",
+          "translations": {
+            "zh": "您知道现在几点吗？",
+            "en": "do you have the time?",
+            "es": "¿tiene la hora?"
+          },
+          "start": 11.12,
+          "end": 12.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Savez-vous à quelle heure passe le 324 ?",
+      "translations": {
+        "zh": "您知道324路几点经过吗？",
+        "en": "Do you know what time the 324 passes?",
+        "es": "¿Sabe a qué hora pasa el 324?"
+      },
+      "start": 12.96,
+      "end": 15.52,
+      "words": [
+        {
+          "text": "Savez",
+          "start": 12.96,
+          "end": 13.28
+        },
+        {
+          "text": "vous",
+          "start": 13.28,
+          "end": 13.44
+        },
+        {
+          "text": "à",
+          "start": 13.44,
+          "end": 13.52
+        },
+        {
+          "text": "quelle",
+          "start": 13.52,
+          "end": 13.76
+        },
+        {
+          "text": "heure",
+          "start": 13.76,
+          "end": 13.92
+        },
+        {
+          "text": "passe",
+          "start": 13.92,
+          "end": 14.32
+        },
+        {
+          "text": "le",
+          "start": 14.32,
+          "end": 14.4
+        },
+        {
+          "text": "324",
+          "start": 14.4,
+          "end": 15.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Savez-vous",
+          "translations": {
+            "zh": "您知道",
+            "en": "Do you know",
+            "es": "¿Sabe"
+          },
+          "start": 12.96,
+          "end": 13.44
+        },
+        {
+          "text": "à quelle heure passe le 324 ?",
+          "translations": {
+            "zh": "324路几点经过吗？",
+            "en": "what time the 324 passes?",
+            "es": "a qué hora pasa el 324?"
+          },
+          "start": 13.44,
+          "end": 15.52
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Excusez-moi, ça ne vous dérange pas trop que j'abaisse mon siège ?",
+      "translations": {
+        "zh": "打扰一下，我把座椅调低您不太介意吧？",
+        "en": "Excuse me, do you mind too much if I lower my seat?",
+        "es": "Disculpe, ¿no le molesta demasiado que baje mi asiento?"
+      },
+      "start": 18.48,
+      "end": 22.08,
+      "words": [
+        {
+          "text": "Excusez",
+          "start": 18.48,
+          "end": 18.96
+        },
+        {
+          "text": "moi",
+          "start": 18.96,
+          "end": 19.2
+        },
+        {
+          "text": "ça",
+          "start": 19.68,
+          "end": 19.92
+        },
+        {
+          "text": "ne",
+          "start": 19.92,
+          "end": 20.0
+        },
+        {
+          "text": "vous",
+          "start": 20.0,
+          "end": 20.08
+        },
+        {
+          "text": "dérange",
+          "start": 20.08,
+          "end": 20.48
+        },
+        {
+          "text": "pas",
+          "start": 20.48,
+          "end": 20.56
+        },
+        {
+          "text": "trop",
+          "start": 20.56,
+          "end": 20.8
+        },
+        {
+          "text": "que",
+          "start": 20.8,
+          "end": 20.96
+        },
+        {
+          "text": "j'abaisse",
+          "start": 20.96,
+          "end": 21.44
+        },
+        {
+          "text": "mon",
+          "start": 21.44,
+          "end": 21.6
+        },
+        {
+          "text": "siège",
+          "start": 21.6,
+          "end": 22.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Excusez-moi,",
+          "translations": {
+            "zh": "打扰一下，",
+            "en": "Excuse me,",
+            "es": "Disculpe,"
+          },
+          "start": 18.48,
+          "end": 19.2
+        },
+        {
+          "text": "ça ne vous dérange pas trop",
+          "translations": {
+            "zh": "您不太介意",
+            "en": "do you mind too much",
+            "es": "¿no le molesta demasiado"
+          },
+          "start": 19.68,
+          "end": 20.8
+        },
+        {
+          "text": "que j'abaisse mon siège ?",
+          "translations": {
+            "zh": "我把座椅调低吧？",
+            "en": "if I lower my seat?",
+            "es": "que baje mi asiento?"
+          },
+          "start": 20.8,
+          "end": 22.08
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Vous avez assez de place ?",
+      "translations": {
+        "zh": "您的空间够吗？",
+        "en": "Do you have enough room?",
+        "es": "¿Tiene suficiente espacio?"
+      },
+      "start": 22.72,
+      "end": 23.68,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 22.72,
+          "end": 22.88
+        },
+        {
+          "text": "avez",
+          "start": 22.88,
+          "end": 23.04
+        },
+        {
+          "text": "assez",
+          "start": 23.04,
+          "end": 23.2
+        },
+        {
+          "text": "de",
+          "start": 23.2,
+          "end": 23.28
+        },
+        {
+          "text": "place",
+          "start": 23.28,
+          "end": 23.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous avez assez de place ?",
+          "translations": {
+            "zh": "您的空间够吗？",
+            "en": "Do you have enough room?",
+            "es": "¿Tiene suficiente espacio?"
+          },
+          "start": 22.72,
+          "end": 23.68
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "C'est votre premier bébé ?",
+      "translations": {
+        "zh": "这是您的第一个宝宝吗？",
+        "en": "Is this your first baby?",
+        "es": "¿Es su primer bebé?"
+      },
+      "start": 25.44,
+      "end": 27.76,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 25.44,
+          "end": 26.88
+        },
+        {
+          "text": "votre",
+          "start": 26.88,
+          "end": 27.12
+        },
+        {
+          "text": "premier",
+          "start": 27.12,
+          "end": 27.52
+        },
+        {
+          "text": "bébé",
+          "start": 27.52,
+          "end": 27.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est votre premier bébé ?",
+          "translations": {
+            "zh": "这是您的第一个宝宝吗？",
+            "en": "Is this your first baby?",
+            "es": "¿Es su primer bebé?"
+          },
+          "start": 25.44,
+          "end": 27.76
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "C'est stressant d'attendre comme ça...",
+      "translations": {
+        "zh": "这样等下去真让人紧张...",
+        "en": "It's stressful waiting like that...",
+        "es": "Es estresante esperar así..."
+      },
+      "start": 32.08,
+      "end": 33.52,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 32.08,
+          "end": 32.32
+        },
+        {
+          "text": "stressant",
+          "start": 32.32,
+          "end": 32.8
+        },
+        {
+          "text": "d'attendre",
+          "start": 32.8,
+          "end": 33.04
+        },
+        {
+          "text": "comme",
+          "start": 33.04,
+          "end": 33.28
+        },
+        {
+          "text": "ça",
+          "start": 33.28,
+          "end": 33.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est stressant",
+          "translations": {
+            "zh": "真让人紧张",
+            "en": "It's stressful",
+            "es": "Es estresante"
+          },
+          "start": 32.08,
+          "end": 32.8
+        },
+        {
+          "text": "d'attendre comme ça...",
+          "translations": {
+            "zh": "这样等下去...",
+            "en": "waiting like that...",
+            "es": "esperar así..."
+          },
+          "start": 32.8,
+          "end": 33.52
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Je me demande pourquoi ils nous ont tous convoqués en même temps pour l'entrevue.",
+      "translations": {
+        "zh": "我想知道为什么他们同时把我们所有人都召集来面试。",
+        "en": "I wonder why they summoned us all at the same time for the interview.",
+        "es": "Me pregunto por qué nos han convocado a todos al mismo tiempo para la entrevista."
+      },
+      "start": 34.08,
+      "end": 36.96,
+      "words": [
+        {
+          "text": "Je",
+          "start": 34.08,
+          "end": 34.24
+        },
+        {
+          "text": "me",
+          "start": 34.24,
+          "end": 34.32
+        },
+        {
+          "text": "demande",
+          "start": 34.32,
+          "end": 34.56
+        },
+        {
+          "text": "pourquoi",
+          "start": 34.56,
+          "end": 34.88
+        },
+        {
+          "text": "ils",
+          "start": 34.88,
+          "end": 34.88
+        },
+        {
+          "text": "nous",
+          "start": 34.88,
+          "end": 35.12
+        },
+        {
+          "text": "ont",
+          "start": 35.12,
+          "end": 35.2
+        },
+        {
+          "text": "tous",
+          "start": 35.2,
+          "end": 35.52
+        },
+        {
+          "text": "convoqués",
+          "start": 35.52,
+          "end": 35.92
+        },
+        {
+          "text": "en",
+          "start": 35.92,
+          "end": 36.0
+        },
+        {
+          "text": "même",
+          "start": 36.0,
+          "end": 36.16
+        },
+        {
+          "text": "temps",
+          "start": 36.16,
+          "end": 36.32
+        },
+        {
+          "text": "pour",
+          "start": 36.32,
+          "end": 36.48
+        },
+        {
+          "text": "l'entrevue",
+          "start": 36.48,
+          "end": 36.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je me demande",
+          "translations": {
+            "zh": "我想知道",
+            "en": "I wonder",
+            "es": "Me pregunto"
+          },
+          "start": 34.08,
+          "end": 34.56
+        },
+        {
+          "text": "pourquoi ils nous ont tous convoqués",
+          "translations": {
+            "zh": "为什么他们把我们所有人都召集来",
+            "en": "why they summoned us all",
+            "es": "por qué nos han convocado a todos"
+          },
+          "start": 34.56,
+          "end": 35.92
+        },
+        {
+          "text": "en même temps",
+          "translations": {
+            "zh": "同时",
+            "en": "at the same time",
+            "es": "al mismo tiempo"
+          },
+          "start": 35.92,
+          "end": 36.32
+        },
+        {
+          "text": "pour l'entrevue.",
+          "translations": {
+            "zh": "面试。",
+            "en": "for the interview.",
+            "es": "para la entrevista."
+          },
+          "start": 36.32,
+          "end": 36.96
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "ÉPISODE 19",
+      "translations": {
+        "zh": "第19集",
+        "en": "EPISODE 19",
+        "es": "EPISODIO 19"
+      },
+      "start": 36.96,
+      "end": 36.96,
+      "words": [
+        {
+          "text": "ÉPISODE",
+          "start": 36.96,
+          "end": 36.96
+        },
+        {
+          "text": "19",
+          "start": 36.96,
+          "end": 36.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "ÉPISODE 19",
+          "translations": {
+            "zh": "第19集",
+            "en": "EPISODE 19",
+            "es": "EPISODIO 19"
+          },
+          "start": 36.96,
+          "end": 36.96
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP18_P39",
+  "audio_filename": "FLS2_EP18_P39.mp3",
+  "audio_path": "downloads/FLS2_EP18_P39.mp3",
+  "episode": 18,
+  "piste": 39,
+  "page": 137,
+  "cd": "CD2"
+}

@@ -1,0 +1,471 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 12 Piste 19 Page 97",
+      "translations": {
+        "zh": "第12集 第19音轨 第97页",
+        "en": "Episode 12 Track 19 Page 97",
+        "es": "Episodio 12 Pista 19 Página 97"
+      },
+      "start": 0.64,
+      "end": 7.84,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.64,
+          "end": 1.36
+        },
+        {
+          "text": "12",
+          "start": 1.84,
+          "end": 2.32
+        },
+        {
+          "text": "Piste",
+          "start": 3.2,
+          "end": 3.68
+        },
+        {
+          "text": "19",
+          "start": 4.08,
+          "end": 4.56
+        },
+        {
+          "text": "Page",
+          "start": 4.56,
+          "end": 4.56
+        },
+        {
+          "text": "97",
+          "start": 6.96,
+          "end": 7.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 12",
+          "translations": {
+            "zh": "第12集",
+            "en": "Episode 12",
+            "es": "Episodio 12"
+          },
+          "start": 0.64,
+          "end": 2.32
+        },
+        {
+          "text": "Piste 19",
+          "translations": {
+            "zh": "第19音轨",
+            "en": "Track 19",
+            "es": "Pista 19"
+          },
+          "start": 3.2,
+          "end": 4.56
+        },
+        {
+          "text": "Page 97",
+          "translations": {
+            "zh": "第97页",
+            "en": "Page 97",
+            "es": "Página 97"
+          },
+          "start": 4.56,
+          "end": 7.84
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Est-ce que vous habitez ici ?",
+      "translations": {
+        "zh": "您住在这里吗？",
+        "en": "Do you live here?",
+        "es": "¿Viven ustedes aquí?"
+      },
+      "start": 9.12,
+      "end": 11.44,
+      "words": [
+        {
+          "text": "Est",
+          "start": 9.12,
+          "end": 9.36
+        },
+        {
+          "text": "ce",
+          "start": 10.32,
+          "end": 10.48
+        },
+        {
+          "text": "que",
+          "start": 10.48,
+          "end": 10.56
+        },
+        {
+          "text": "vous",
+          "start": 10.56,
+          "end": 10.8
+        },
+        {
+          "text": "habitez",
+          "start": 10.8,
+          "end": 11.12
+        },
+        {
+          "text": "ici",
+          "start": 11.12,
+          "end": 11.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que",
+          "translations": {
+            "zh": "是否",
+            "en": "Do",
+            "es": "¿"
+          },
+          "start": 9.12,
+          "end": 10.56
+        },
+        {
+          "text": "vous habitez",
+          "translations": {
+            "zh": "您住",
+            "en": "you live",
+            "es": "viven ustedes"
+          },
+          "start": 10.56,
+          "end": 11.12
+        },
+        {
+          "text": "ici ?",
+          "translations": {
+            "zh": "在这里吗？",
+            "en": "here?",
+            "es": "aquí?"
+          },
+          "start": 11.12,
+          "end": 11.44
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Est-ce que tu as annulé ta commande ?",
+      "translations": {
+        "zh": "你取消你的订单了吗？",
+        "en": "Did you cancel your order?",
+        "es": "¿Tú cancelaste tu pedido?"
+      },
+      "start": 13.12,
+      "end": 15.68,
+      "words": [
+        {
+          "text": "Est",
+          "start": 13.12,
+          "end": 13.28
+        },
+        {
+          "text": "ce",
+          "start": 14.32,
+          "end": 14.4
+        },
+        {
+          "text": "que",
+          "start": 14.4,
+          "end": 14.48
+        },
+        {
+          "text": "tu",
+          "start": 14.48,
+          "end": 14.64
+        },
+        {
+          "text": "as",
+          "start": 14.64,
+          "end": 14.72
+        },
+        {
+          "text": "annulé",
+          "start": 14.72,
+          "end": 14.96
+        },
+        {
+          "text": "ta",
+          "start": 14.96,
+          "end": 15.12
+        },
+        {
+          "text": "commande",
+          "start": 15.12,
+          "end": 15.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que",
+          "translations": {
+            "zh": "是否",
+            "en": "Did",
+            "es": "¿"
+          },
+          "start": 13.12,
+          "end": 14.48
+        },
+        {
+          "text": "tu as annulé",
+          "translations": {
+            "zh": "你取消了",
+            "en": "you cancel",
+            "es": "tú cancelaste"
+          },
+          "start": 14.48,
+          "end": 14.96
+        },
+        {
+          "text": "ta commande ?",
+          "translations": {
+            "zh": "你的订单吗？",
+            "en": "your order?",
+            "es": "tu pedido?"
+          },
+          "start": 14.96,
+          "end": 15.68
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Est-ce qu'il prend un taxi ?",
+      "translations": {
+        "zh": "他坐出租车吗？",
+        "en": "Does he take a taxi?",
+        "es": "¿Él toma un taxi?"
+      },
+      "start": 18.64,
+      "end": 19.6,
+      "words": [
+        {
+          "text": "Est",
+          "start": 18.64,
+          "end": 18.8
+        },
+        {
+          "text": "ce",
+          "start": 18.8,
+          "end": 18.88
+        },
+        {
+          "text": "qu'il",
+          "start": 18.88,
+          "end": 19.04
+        },
+        {
+          "text": "prend",
+          "start": 19.04,
+          "end": 19.12
+        },
+        {
+          "text": "un",
+          "start": 19.12,
+          "end": 19.2
+        },
+        {
+          "text": "taxi",
+          "start": 19.2,
+          "end": 19.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce qu'il",
+          "translations": {
+            "zh": "他是否",
+            "en": "Does he",
+            "es": "¿Él"
+          },
+          "start": 18.64,
+          "end": 19.04
+        },
+        {
+          "text": "prend",
+          "translations": {
+            "zh": "乘坐",
+            "en": "take",
+            "es": "toma"
+          },
+          "start": 19.04,
+          "end": 19.12
+        },
+        {
+          "text": "un taxi ?",
+          "translations": {
+            "zh": "一辆出租车吗？",
+            "en": "a taxi?",
+            "es": "un taxi?"
+          },
+          "start": 19.12,
+          "end": 19.6
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Est-ce que tout va bien ?",
+      "translations": {
+        "zh": "一切都好吗？",
+        "en": "Is everything going well?",
+        "es": "¿Todo va bien?"
+      },
+      "start": 21.6,
+      "end": 23.6,
+      "words": [
+        {
+          "text": "Est",
+          "start": 21.6,
+          "end": 21.76
+        },
+        {
+          "text": "ce",
+          "start": 22.8,
+          "end": 22.8
+        },
+        {
+          "text": "que",
+          "start": 22.96,
+          "end": 23.04
+        },
+        {
+          "text": "tout",
+          "start": 23.04,
+          "end": 23.2
+        },
+        {
+          "text": "va",
+          "start": 23.2,
+          "end": 23.36
+        },
+        {
+          "text": "bien",
+          "start": 23.36,
+          "end": 23.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que",
+          "translations": {
+            "zh": "是否",
+            "en": "Is",
+            "es": "¿"
+          },
+          "start": 21.6,
+          "end": 23.04
+        },
+        {
+          "text": "tout va bien ?",
+          "translations": {
+            "zh": "一切都好吗？",
+            "en": "everything going well?",
+            "es": "todo va bien?"
+          },
+          "start": 23.04,
+          "end": 23.6
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Est-ce que je peux partir plus tôt ?",
+      "translations": {
+        "zh": "我可以早点走吗？",
+        "en": "Can I leave earlier?",
+        "es": "¿Puedo irme más temprano?"
+      },
+      "start": 24.48,
+      "end": 29.12,
+      "words": [
+        {
+          "text": "Est",
+          "start": 24.48,
+          "end": 26.48
+        },
+        {
+          "text": "ce",
+          "start": 27.92,
+          "end": 27.92
+        },
+        {
+          "text": "que",
+          "start": 28.0,
+          "end": 28.08
+        },
+        {
+          "text": "je",
+          "start": 28.08,
+          "end": 28.16
+        },
+        {
+          "text": "peux",
+          "start": 28.16,
+          "end": 28.24
+        },
+        {
+          "text": "partir",
+          "start": 28.24,
+          "end": 28.64
+        },
+        {
+          "text": "plus",
+          "start": 28.64,
+          "end": 28.8
+        },
+        {
+          "text": "tôt",
+          "start": 28.8,
+          "end": 29.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que",
+          "translations": {
+            "zh": "是否",
+            "en": "Can",
+            "es": "¿"
+          },
+          "start": 24.48,
+          "end": 28.08
+        },
+        {
+          "text": "je peux partir",
+          "translations": {
+            "zh": "我可以离开",
+            "en": "I leave",
+            "es": "puedo irme"
+          },
+          "start": 28.08,
+          "end": 28.64
+        },
+        {
+          "text": "plus tôt ?",
+          "translations": {
+            "zh": "更早吗？",
+            "en": "earlier?",
+            "es": "más temprano?"
+          },
+          "start": 28.64,
+          "end": 29.12
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP12_P19",
+  "audio_filename": "FLS2_EP12_P19.mp3",
+  "audio_path": "downloads/FLS2_EP12_P19.mp3",
+  "episode": 12,
+  "piste": 19,
+  "page": 97,
+  "cd": "CD2"
+}

@@ -1,0 +1,311 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 16 Piste 35 Page 128",
+      "translations": {
+        "zh": "第16集 第35轨 第128页",
+        "en": "Episode 16 Track 35 Page 128",
+        "es": "Episodio 16 Pista 35 Página 128"
+      },
+      "start": 0.96,
+      "end": 8.08,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.96,
+          "end": 1.68
+        },
+        {
+          "text": "16",
+          "start": 1.92,
+          "end": 2.56
+        },
+        {
+          "text": "Piste",
+          "start": 3.52,
+          "end": 3.92
+        },
+        {
+          "text": "35",
+          "start": 4.24,
+          "end": 4.96
+        },
+        {
+          "text": "Page",
+          "start": 4.96,
+          "end": 5.12
+        },
+        {
+          "text": "128",
+          "start": 6.88,
+          "end": 8.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 16",
+          "translations": {
+            "zh": "第16集",
+            "en": "Episode 16",
+            "es": "Episodio 16"
+          },
+          "start": 0.96,
+          "end": 2.56
+        },
+        {
+          "text": "Piste 35",
+          "translations": {
+            "zh": "第35轨",
+            "en": "Track 35",
+            "es": "Pista 35"
+          },
+          "start": 3.52,
+          "end": 4.96
+        },
+        {
+          "text": "Page 128",
+          "translations": {
+            "zh": "第128页",
+            "en": "Page 128",
+            "es": "Página 128"
+          },
+          "start": 4.96,
+          "end": 8.08
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Quelles vacances mémorables !",
+      "translations": {
+        "zh": "多么难忘的假期！",
+        "en": "What memorable vacations!",
+        "es": "¡Qué vacaciones memorables!"
+      },
+      "start": 10.72,
+      "end": 12.64,
+      "words": [
+        {
+          "text": "Quelles",
+          "start": 10.72,
+          "end": 10.88
+        },
+        {
+          "text": "vacances",
+          "start": 10.88,
+          "end": 11.52
+        },
+        {
+          "text": "mémorables",
+          "start": 11.52,
+          "end": 12.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quelles vacances mémorables !",
+          "translations": {
+            "zh": "多么难忘的假期！",
+            "en": "What memorable vacations!",
+            "es": "¡Qué vacaciones memorables!"
+          },
+          "start": 10.72,
+          "end": 12.64
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Quel chemin ?",
+      "translations": {
+        "zh": "哪条路？",
+        "en": "Which path?",
+        "es": "¿Qué camino?"
+      },
+      "start": 15.52,
+      "end": 16.08,
+      "words": [
+        {
+          "text": "Quel",
+          "start": 15.52,
+          "end": 15.68
+        },
+        {
+          "text": "chemin",
+          "start": 15.68,
+          "end": 16.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quel chemin ?",
+          "translations": {
+            "zh": "哪条路？",
+            "en": "Which path?",
+            "es": "¿Qué camino?"
+          },
+          "start": 15.52,
+          "end": 16.08
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Quelle déception !",
+      "translations": {
+        "zh": "多么令人失望！",
+        "en": "What a disappointment!",
+        "es": "¡Qué decepción!"
+      },
+      "start": 20.0,
+      "end": 21.84,
+      "words": [
+        {
+          "text": "Quelle",
+          "start": 20.0,
+          "end": 20.4
+        },
+        {
+          "text": "déception",
+          "start": 20.48,
+          "end": 21.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quelle déception !",
+          "translations": {
+            "zh": "多么令人失望！",
+            "en": "What a disappointment!",
+            "es": "¡Qué decepción!"
+          },
+          "start": 20.0,
+          "end": 21.84
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Quels beaux paysages !",
+      "translations": {
+        "zh": "多么美丽的风景！",
+        "en": "What beautiful landscapes!",
+        "es": "¡Qué paisajes tan hermosos!"
+      },
+      "start": 25.6,
+      "end": 27.12,
+      "words": [
+        {
+          "text": "Quels",
+          "start": 25.6,
+          "end": 25.84
+        },
+        {
+          "text": "beaux",
+          "start": 25.84,
+          "end": 26.08
+        },
+        {
+          "text": "paysages",
+          "start": 26.08,
+          "end": 27.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quels beaux paysages !",
+          "translations": {
+            "zh": "多么美丽的风景！",
+            "en": "What beautiful landscapes!",
+            "es": "¡Qué paisajes tan hermosos!"
+          },
+          "start": 25.6,
+          "end": 27.12
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Quelle plage ?",
+      "translations": {
+        "zh": "哪个海滩？",
+        "en": "Which beach?",
+        "es": "¿Qué playa?"
+      },
+      "start": 30.24,
+      "end": 30.96,
+      "words": [
+        {
+          "text": "Quelle",
+          "start": 30.24,
+          "end": 30.48
+        },
+        {
+          "text": "plage",
+          "start": 30.48,
+          "end": 30.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quelle plage ?",
+          "translations": {
+            "zh": "哪个海滩？",
+            "en": "Which beach?",
+            "es": "¿Qué playa?"
+          },
+          "start": 30.24,
+          "end": 30.96
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Quels animaux fascinants !",
+      "translations": {
+        "zh": "多么迷人的动物！",
+        "en": "What fascinating animals!",
+        "es": "¡Qué animales tan fascinantes!"
+      },
+      "start": 34.0,
+      "end": 35.68,
+      "words": [
+        {
+          "text": "Quels",
+          "start": 34.0,
+          "end": 34.4
+        },
+        {
+          "text": "animaux",
+          "start": 34.4,
+          "end": 34.88
+        },
+        {
+          "text": "fascinants",
+          "start": 34.88,
+          "end": 35.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quels animaux fascinants !",
+          "translations": {
+            "zh": "多么迷人的动物！",
+            "en": "What fascinating animals!",
+            "es": "¡Qué animales tan fascinantes!"
+          },
+          "start": 34.0,
+          "end": 35.68
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP16_P35",
+  "audio_filename": "FLS2_EP16_P35.mp3",
+  "audio_path": "downloads/FLS2_EP16_P35.mp3",
+  "episode": 16,
+  "piste": 35,
+  "page": 128,
+  "cd": "CD2"
+}

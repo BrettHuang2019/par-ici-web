@@ -1,0 +1,1311 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 11 Piste 2 Page 86",
+      "translations": {
+        "zh": "第11集 第2轨 第86页",
+        "en": "Episode 11 Track 2 Page 86",
+        "es": "Episodio 11 Pista 2 Página 86"
+      },
+      "start": 0.64,
+      "end": 8.24,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.64,
+          "end": 1.28
+        },
+        {
+          "text": "11",
+          "start": 1.68,
+          "end": 2.16
+        },
+        {
+          "text": "Piste",
+          "start": 2.88,
+          "end": 3.36
+        },
+        {
+          "text": "2",
+          "start": 4.0,
+          "end": 4.32
+        },
+        {
+          "text": "Page",
+          "start": 4.32,
+          "end": 6.96
+        },
+        {
+          "text": "86",
+          "start": 7.12,
+          "end": 8.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 11",
+          "translations": {
+            "zh": "第11集",
+            "en": "Episode 11",
+            "es": "Episodio 11"
+          },
+          "start": 0.64,
+          "end": 2.16
+        },
+        {
+          "text": "Piste 2",
+          "translations": {
+            "zh": "第2轨",
+            "en": "Track 2",
+            "es": "Pista 2"
+          },
+          "start": 2.88,
+          "end": 4.32
+        },
+        {
+          "text": "Page 86",
+          "translations": {
+            "zh": "第86页",
+            "en": "Page 86",
+            "es": "Página 86"
+          },
+          "start": 4.32,
+          "end": 8.24
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Les prévisions météo pour aujourd'hui et les jours à venir.",
+      "translations": {
+        "zh": "今天及未来几天的天气预报。",
+        "en": "The weather forecasts for today and the coming days.",
+        "es": "Las previsiones meteorológicas para hoy y los días venideros."
+      },
+      "start": 10.96,
+      "end": 13.6,
+      "words": [
+        {
+          "text": "Les",
+          "start": 10.96,
+          "end": 11.12
+        },
+        {
+          "text": "prévisions",
+          "start": 11.12,
+          "end": 11.52
+        },
+        {
+          "text": "météo",
+          "start": 11.52,
+          "end": 11.92
+        },
+        {
+          "text": "pour",
+          "start": 11.92,
+          "end": 12.08
+        },
+        {
+          "text": "aujourd'hui",
+          "start": 12.08,
+          "end": 12.64
+        },
+        {
+          "text": "et",
+          "start": 12.72,
+          "end": 12.8
+        },
+        {
+          "text": "les",
+          "start": 12.8,
+          "end": 12.96
+        },
+        {
+          "text": "jours",
+          "start": 12.96,
+          "end": 13.12
+        },
+        {
+          "text": "à",
+          "start": 13.12,
+          "end": 13.2
+        },
+        {
+          "text": "venir",
+          "start": 13.2,
+          "end": 13.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les prévisions météo pour aujourd'hui et les jours à venir.",
+          "translations": {
+            "zh": "今天及未来几天的天气预报。",
+            "en": "The weather forecasts for today and the coming days.",
+            "es": "Las previsiones meteorológicas para hoy y los días venideros."
+          },
+          "start": 10.96,
+          "end": 13.6
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "En ce vendredi 20 mai, la zone de basse pression sur la côte est des États-Unis nous amène encore du temps très frais.",
+      "translations": {
+        "zh": "在这五月二十日星期五，美国东海岸的低压区又给我们带来了非常凉爽的天气。",
+        "en": "On this Friday, May 20, the low-pressure zone over the east coast of the United States is bringing us more very cool weather.",
+        "es": "En este viernes 20 de mayo, la zona de baja presión sobre la costa este de los Estados Unidos nos trae aún tiempo muy fresco."
+      },
+      "start": 14.32,
+      "end": 20.4,
+      "words": [
+        {
+          "text": "En",
+          "start": 14.32,
+          "end": 14.4
+        },
+        {
+          "text": "ce",
+          "start": 14.4,
+          "end": 14.56
+        },
+        {
+          "text": "vendredi",
+          "start": 14.56,
+          "end": 14.96
+        },
+        {
+          "text": "20",
+          "start": 14.96,
+          "end": 15.12
+        },
+        {
+          "text": "mai",
+          "start": 15.12,
+          "end": 15.44
+        },
+        {
+          "text": "la",
+          "start": 15.84,
+          "end": 16.0
+        },
+        {
+          "text": "zone",
+          "start": 16.0,
+          "end": 16.24
+        },
+        {
+          "text": "de",
+          "start": 16.24,
+          "end": 16.32
+        },
+        {
+          "text": "basse",
+          "start": 16.32,
+          "end": 16.64
+        },
+        {
+          "text": "pression",
+          "start": 16.64,
+          "end": 17.04
+        },
+        {
+          "text": "sur",
+          "start": 17.04,
+          "end": 17.12
+        },
+        {
+          "text": "la",
+          "start": 17.12,
+          "end": 17.2
+        },
+        {
+          "text": "côte",
+          "start": 17.2,
+          "end": 17.52
+        },
+        {
+          "text": "est",
+          "start": 17.52,
+          "end": 17.76
+        },
+        {
+          "text": "des",
+          "start": 17.76,
+          "end": 18.0
+        },
+        {
+          "text": "États",
+          "start": 18.0,
+          "end": 18.16
+        },
+        {
+          "text": "Unis",
+          "start": 18.16,
+          "end": 18.48
+        },
+        {
+          "text": "nous",
+          "start": 18.88,
+          "end": 19.12
+        },
+        {
+          "text": "amène",
+          "start": 19.12,
+          "end": 19.28
+        },
+        {
+          "text": "encore",
+          "start": 19.28,
+          "end": 19.6
+        },
+        {
+          "text": "du",
+          "start": 19.6,
+          "end": 19.68
+        },
+        {
+          "text": "temps",
+          "start": 19.68,
+          "end": 19.84
+        },
+        {
+          "text": "très",
+          "start": 19.84,
+          "end": 20.08
+        },
+        {
+          "text": "frais",
+          "start": 20.08,
+          "end": 20.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "En ce vendredi 20 mai,",
+          "translations": {
+            "zh": "在这五月二十日星期五，",
+            "en": "On this Friday, May 20,",
+            "es": "En este viernes 20 de mayo,"
+          },
+          "start": 14.32,
+          "end": 15.44
+        },
+        {
+          "text": "la zone de basse pression sur la côte est des États-Unis",
+          "translations": {
+            "zh": "美国东海岸的低压区",
+            "en": "the low-pressure zone over the east coast of the United States",
+            "es": "la zona de baja presión sobre la costa este de los Estados Unidos"
+          },
+          "start": 15.84,
+          "end": 18.48
+        },
+        {
+          "text": "nous amène encore du temps très frais.",
+          "translations": {
+            "zh": "又给我们带来了非常凉爽的天气。",
+            "en": "is bringing us more very cool weather.",
+            "es": "nos trae aún tiempo muy fresco."
+          },
+          "start": 18.88,
+          "end": 20.4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Présentement, il fait 11 C à l'aéroport Pierre- Elliott-Trudeau.",
+      "translations": {
+        "zh": "目前，皮埃尔·埃利奥特·特鲁多机场的气温为11°C。",
+        "en": "Currently, it is 11°C at the Pierre-Elliott-Trudeau airport.",
+        "es": "Actualmente, hace 11 C en el aeropuerto Pierre-Elliott-Trudeau."
+      },
+      "start": 21.36,
+      "end": 24.4,
+      "words": [
+        {
+          "text": "Présentement",
+          "start": 21.36,
+          "end": 21.92
+        },
+        {
+          "text": "il",
+          "start": 21.92,
+          "end": 22.0
+        },
+        {
+          "text": "fait",
+          "start": 22.0,
+          "end": 22.24
+        },
+        {
+          "text": "11",
+          "start": 22.32,
+          "end": 22.56
+        },
+        {
+          "text": "C",
+          "start": 22.56,
+          "end": 22.96
+        },
+        {
+          "text": "à",
+          "start": 22.96,
+          "end": 23.04
+        },
+        {
+          "text": "l'aéroport",
+          "start": 23.12,
+          "end": 23.68
+        },
+        {
+          "text": "Pierre",
+          "start": 23.68,
+          "end": 23.84
+        },
+        {
+          "text": "Elliott",
+          "start": 23.84,
+          "end": 24.0
+        },
+        {
+          "text": "Trudeau",
+          "start": 24.0,
+          "end": 24.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Présentement,",
+          "translations": {
+            "zh": "目前，",
+            "en": "Currently,",
+            "es": "Actualmente,"
+          },
+          "start": 21.36,
+          "end": 21.92
+        },
+        {
+          "text": "il fait 11 C à l'aéroport Pierre- Elliott-Trudeau.",
+          "translations": {
+            "zh": "皮埃尔·埃利奥特·特鲁多机场的气温为11°C。",
+            "en": "it is 11°C at the Pierre-Elliott-Trudeau airport.",
+            "es": "hace 11 C en el aeropuerto Pierre-Elliott-Trudeau."
+          },
+          "start": 21.92,
+          "end": 24.4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "On prévoit un maximum de 15 C cet après-midi, avec bruine et pluie persistantes.",
+      "translations": {
+        "zh": "预计今天下午最高气温为15°C，伴有持续的细雨和降雨。",
+        "en": "A high of 15°C is expected this afternoon, with persistent drizzle and rain.",
+        "es": "Se prevé un máximo de 15 C esta tarde, con llovizna y lluvia persistentes."
+      },
+      "start": 25.12,
+      "end": 30.16,
+      "words": [
+        {
+          "text": "On",
+          "start": 25.12,
+          "end": 25.2
+        },
+        {
+          "text": "prévoit",
+          "start": 25.2,
+          "end": 25.6
+        },
+        {
+          "text": "un",
+          "start": 25.6,
+          "end": 25.6
+        },
+        {
+          "text": "maximum",
+          "start": 25.6,
+          "end": 26.08
+        },
+        {
+          "text": "de",
+          "start": 26.08,
+          "end": 26.16
+        },
+        {
+          "text": "15",
+          "start": 26.16,
+          "end": 26.4
+        },
+        {
+          "text": "C",
+          "start": 26.72,
+          "end": 26.8
+        },
+        {
+          "text": "cet",
+          "start": 26.8,
+          "end": 26.88
+        },
+        {
+          "text": "après",
+          "start": 26.88,
+          "end": 27.04
+        },
+        {
+          "text": "midi",
+          "start": 27.04,
+          "end": 27.44
+        },
+        {
+          "text": "avec",
+          "start": 27.92,
+          "end": 28.24
+        },
+        {
+          "text": "bruine",
+          "start": 28.24,
+          "end": 28.8
+        },
+        {
+          "text": "et",
+          "start": 28.88,
+          "end": 28.96
+        },
+        {
+          "text": "pluie",
+          "start": 28.96,
+          "end": 29.28
+        },
+        {
+          "text": "persistantes",
+          "start": 29.28,
+          "end": 30.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On prévoit un maximum de 15 C cet après-midi,",
+          "translations": {
+            "zh": "预计今天下午最高气温为15°C，",
+            "en": "A high of 15°C is expected this afternoon,",
+            "es": "Se prevé un máximo de 15 C esta tarde,"
+          },
+          "start": 25.12,
+          "end": 27.44
+        },
+        {
+          "text": "avec bruine et pluie persistantes.",
+          "translations": {
+            "zh": "伴有持续的细雨和降雨。",
+            "en": "with persistent drizzle and rain.",
+            "es": "con llovizna y lluvia persistentes."
+          },
+          "start": 27.92,
+          "end": 30.16
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Quelques éclaircies en fin de journée.",
+      "translations": {
+        "zh": "傍晚时分会有几阵放晴。",
+        "en": "Some clearing at the end of the day.",
+        "es": "Algunos claros al final del día."
+      },
+      "start": 30.72,
+      "end": 32.4,
+      "words": [
+        {
+          "text": "Quelques",
+          "start": 30.72,
+          "end": 31.12
+        },
+        {
+          "text": "éclaircies",
+          "start": 31.12,
+          "end": 31.68
+        },
+        {
+          "text": "en",
+          "start": 31.76,
+          "end": 31.84
+        },
+        {
+          "text": "fin",
+          "start": 31.84,
+          "end": 32.0
+        },
+        {
+          "text": "de",
+          "start": 32.0,
+          "end": 32.08
+        },
+        {
+          "text": "journée",
+          "start": 32.08,
+          "end": 32.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quelques éclaircies en fin de journée.",
+          "translations": {
+            "zh": "傍晚时分会有几阵放晴。",
+            "en": "Some clearing at the end of the day.",
+            "es": "Algunos claros al final del día."
+          },
+          "start": 30.72,
+          "end": 32.4
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Cette nuit, des orages accompagnés de vents violents s'abattront sur la plupart des régions.",
+      "translations": {
+        "zh": "今夜，伴有强风的暴风雨将袭击大部分地区。",
+        "en": "Tonight, storms accompanied by violent winds will strike most regions.",
+        "es": "Esta noche, tormentas acompañadas de vientos violentos se abatirán sobre la mayoría de las regiones."
+      },
+      "start": 33.28,
+      "end": 38.24,
+      "words": [
+        {
+          "text": "Cette",
+          "start": 33.28,
+          "end": 33.52
+        },
+        {
+          "text": "nuit",
+          "start": 33.52,
+          "end": 33.76
+        },
+        {
+          "text": "des",
+          "start": 34.24,
+          "end": 34.48
+        },
+        {
+          "text": "orages",
+          "start": 34.48,
+          "end": 35.04
+        },
+        {
+          "text": "accompagnés",
+          "start": 35.2,
+          "end": 35.68
+        },
+        {
+          "text": "de",
+          "start": 35.68,
+          "end": 35.76
+        },
+        {
+          "text": "vents",
+          "start": 35.76,
+          "end": 35.92
+        },
+        {
+          "text": "violents",
+          "start": 35.92,
+          "end": 36.4
+        },
+        {
+          "text": "s'abattront",
+          "start": 36.72,
+          "end": 37.28
+        },
+        {
+          "text": "sur",
+          "start": 37.28,
+          "end": 37.44
+        },
+        {
+          "text": "la",
+          "start": 37.44,
+          "end": 37.52
+        },
+        {
+          "text": "plupart",
+          "start": 37.52,
+          "end": 37.84
+        },
+        {
+          "text": "des",
+          "start": 37.84,
+          "end": 37.92
+        },
+        {
+          "text": "régions",
+          "start": 37.92,
+          "end": 38.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Cette nuit,",
+          "translations": {
+            "zh": "今夜，",
+            "en": "Tonight,",
+            "es": "Esta noche,"
+          },
+          "start": 33.28,
+          "end": 33.76
+        },
+        {
+          "text": "des orages accompagnés de vents violents",
+          "translations": {
+            "zh": "伴有强风的暴风雨",
+            "en": "storms accompanied by violent winds",
+            "es": "tormentas acompañadas de vientos violentos"
+          },
+          "start": 34.24,
+          "end": 36.4
+        },
+        {
+          "text": "s'abattront sur la plupart des régions.",
+          "translations": {
+            "zh": "将袭击大部分地区。",
+            "en": "will strike most regions.",
+            "es": "se abatirán sobre la mayoría de las regiones."
+          },
+          "start": 36.72,
+          "end": 38.24
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Il y aura même possibilité de gel au sol en Abitibi et dans le nord du Québec, où les températures chuteront.",
+      "translations": {
+        "zh": "在阿比蒂比和魁北克北部甚至可能出现地面霜冻，那里的气温将骤降。",
+        "en": "There will even be a possibility of ground frost in Abitibi and in northern Quebec, where temperatures will drop.",
+        "es": "Habrá incluso posibilidad de helada en el suelo en Abitibi y en el norte de Quebec, donde las temperaturas caerán."
+      },
+      "start": 38.88,
+      "end": 44.72,
+      "words": [
+        {
+          "text": "Il",
+          "start": 38.88,
+          "end": 38.96
+        },
+        {
+          "text": "y",
+          "start": 38.96,
+          "end": 39.04
+        },
+        {
+          "text": "aura",
+          "start": 39.04,
+          "end": 39.2
+        },
+        {
+          "text": "même",
+          "start": 39.2,
+          "end": 39.44
+        },
+        {
+          "text": "possibilité",
+          "start": 39.44,
+          "end": 40.08
+        },
+        {
+          "text": "de",
+          "start": 40.08,
+          "end": 40.16
+        },
+        {
+          "text": "gel",
+          "start": 40.16,
+          "end": 40.4
+        },
+        {
+          "text": "au",
+          "start": 40.4,
+          "end": 40.56
+        },
+        {
+          "text": "sol",
+          "start": 40.56,
+          "end": 40.88
+        },
+        {
+          "text": "en",
+          "start": 40.96,
+          "end": 41.12
+        },
+        {
+          "text": "Abitibi",
+          "start": 41.12,
+          "end": 41.68
+        },
+        {
+          "text": "et",
+          "start": 42.0,
+          "end": 42.08
+        },
+        {
+          "text": "dans",
+          "start": 42.08,
+          "end": 42.24
+        },
+        {
+          "text": "le",
+          "start": 42.24,
+          "end": 42.24
+        },
+        {
+          "text": "nord",
+          "start": 42.24,
+          "end": 42.48
+        },
+        {
+          "text": "du",
+          "start": 42.48,
+          "end": 42.56
+        },
+        {
+          "text": "Québec",
+          "start": 42.56,
+          "end": 43.04
+        },
+        {
+          "text": "où",
+          "start": 43.44,
+          "end": 43.52
+        },
+        {
+          "text": "les",
+          "start": 43.52,
+          "end": 43.68
+        },
+        {
+          "text": "températures",
+          "start": 43.68,
+          "end": 44.32
+        },
+        {
+          "text": "chuteront",
+          "start": 44.32,
+          "end": 44.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il y aura même possibilité de gel au sol",
+          "translations": {
+            "zh": "甚至可能出现地面霜冻",
+            "en": "There will even be a possibility of ground frost",
+            "es": "Habrá incluso posibilidad de helada en el suelo"
+          },
+          "start": 38.88,
+          "end": 40.88
+        },
+        {
+          "text": "en Abitibi et dans le nord du Québec,",
+          "translations": {
+            "zh": "在阿比蒂比和魁北克北部，",
+            "en": "in Abitibi and in northern Quebec,",
+            "es": "en Abitibi y en el norte de Quebec,"
+          },
+          "start": 40.96,
+          "end": 43.04
+        },
+        {
+          "text": "où les températures chuteront.",
+          "translations": {
+            "zh": "那里的气温将骤降。",
+            "en": "where temperatures will drop.",
+            "es": "donde las temperaturas caerán."
+          },
+          "start": 43.44,
+          "end": 44.72
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Demain, samedi, la grisaille continue.",
+      "translations": {
+        "zh": "明天星期六，阴天仍将持续。",
+        "en": "Tomorrow, Saturday, the gloom continues.",
+        "es": "Mañana, sábado, la grisura continúa."
+      },
+      "start": 45.44,
+      "end": 47.52,
+      "words": [
+        {
+          "text": "Demain",
+          "start": 45.44,
+          "end": 45.76
+        },
+        {
+          "text": "samedi",
+          "start": 45.76,
+          "end": 46.32
+        },
+        {
+          "text": "la",
+          "start": 46.32,
+          "end": 46.48
+        },
+        {
+          "text": "grisaille",
+          "start": 46.48,
+          "end": 46.96
+        },
+        {
+          "text": "continue",
+          "start": 46.96,
+          "end": 47.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Demain, samedi,",
+          "translations": {
+            "zh": "明天星期六，",
+            "en": "Tomorrow, Saturday,",
+            "es": "Mañana, sábado,"
+          },
+          "start": 45.44,
+          "end": 46.32
+        },
+        {
+          "text": "la grisaille continue.",
+          "translations": {
+            "zh": "阴天仍将持续。",
+            "en": "the gloom continues.",
+            "es": "la grisura continúa."
+          },
+          "start": 46.32,
+          "end": 47.52
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Ce sera partiellement ensoleillé en après-midi, le thermomètre montera jusqu'à 17 C.",
+      "translations": {
+        "zh": "下午将部分晴朗，气温将升至17°C。",
+        "en": "It will be partly sunny in the afternoon; the thermometer will rise to 17°C.",
+        "es": "Estará parcialmente soleado por la tarde, el termómetro subirá hasta 17 C."
+      },
+      "start": 48.08,
+      "end": 52.72,
+      "words": [
+        {
+          "text": "Ce",
+          "start": 48.08,
+          "end": 48.24
+        },
+        {
+          "text": "sera",
+          "start": 48.24,
+          "end": 48.4
+        },
+        {
+          "text": "partiellement",
+          "start": 48.4,
+          "end": 48.96
+        },
+        {
+          "text": "ensoleillé",
+          "start": 48.96,
+          "end": 49.36
+        },
+        {
+          "text": "en",
+          "start": 49.36,
+          "end": 49.44
+        },
+        {
+          "text": "après",
+          "start": 49.44,
+          "end": 49.6
+        },
+        {
+          "text": "midi",
+          "start": 49.6,
+          "end": 50.0
+        },
+        {
+          "text": "le",
+          "start": 50.56,
+          "end": 50.64
+        },
+        {
+          "text": "thermomètre",
+          "start": 50.64,
+          "end": 51.44
+        },
+        {
+          "text": "montera",
+          "start": 51.6,
+          "end": 52.0
+        },
+        {
+          "text": "jusqu'à",
+          "start": 52.0,
+          "end": 52.4
+        },
+        {
+          "text": "17",
+          "start": 52.4,
+          "end": 52.72
+        },
+        {
+          "text": "C",
+          "start": 52.72,
+          "end": 52.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ce sera partiellement ensoleillé en après-midi,",
+          "translations": {
+            "zh": "下午将部分晴朗，",
+            "en": "It will be partly sunny in the afternoon,",
+            "es": "Estará parcialmente soleado por la tarde,"
+          },
+          "start": 48.08,
+          "end": 50.0
+        },
+        {
+          "text": "le thermomètre montera jusqu'à 17 C.",
+          "translations": {
+            "zh": "气温将升至17°C。",
+            "en": "the thermometer will rise to 17°C.",
+            "es": "el termómetro subirá hasta 17 C."
+          },
+          "start": 50.56,
+          "end": 52.72
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Dimanche, ça se réchauffera pour atteindre des températures plus près de la normale, avec un maximum de 23 C.",
+      "translations": {
+        "zh": "星期天，天气将回暖，达到接近正常的温度，最高气温为23°C。",
+        "en": "On Sunday, it will warm up to reach temperatures closer to normal, with a high of 23°C.",
+        "es": "El domingo, se calentará para alcanzar temperaturas más cerca de lo normal, con un máximo de 23 C."
+      },
+      "start": 52.72,
+      "end": 60.08,
+      "words": [
+        {
+          "text": "Dimanche",
+          "start": 52.72,
+          "end": 53.04
+        },
+        {
+          "text": "ça",
+          "start": 54.24,
+          "end": 54.4
+        },
+        {
+          "text": "se",
+          "start": 54.4,
+          "end": 54.56
+        },
+        {
+          "text": "réchauffera",
+          "start": 54.56,
+          "end": 55.2
+        },
+        {
+          "text": "pour",
+          "start": 55.6,
+          "end": 55.76
+        },
+        {
+          "text": "atteindre",
+          "start": 55.76,
+          "end": 56.32
+        },
+        {
+          "text": "des",
+          "start": 56.32,
+          "end": 56.56
+        },
+        {
+          "text": "températures",
+          "start": 56.56,
+          "end": 57.04
+        },
+        {
+          "text": "plus",
+          "start": 57.04,
+          "end": 57.2
+        },
+        {
+          "text": "près",
+          "start": 57.2,
+          "end": 57.44
+        },
+        {
+          "text": "de",
+          "start": 57.44,
+          "end": 57.52
+        },
+        {
+          "text": "la",
+          "start": 57.52,
+          "end": 57.6
+        },
+        {
+          "text": "normale",
+          "start": 57.6,
+          "end": 58.16
+        },
+        {
+          "text": "avec",
+          "start": 58.48,
+          "end": 58.72
+        },
+        {
+          "text": "un",
+          "start": 58.72,
+          "end": 58.8
+        },
+        {
+          "text": "maximum",
+          "start": 58.8,
+          "end": 59.36
+        },
+        {
+          "text": "de",
+          "start": 59.36,
+          "end": 59.44
+        },
+        {
+          "text": "23",
+          "start": 59.44,
+          "end": 59.76
+        },
+        {
+          "text": "C",
+          "start": 59.84,
+          "end": 60.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Dimanche,",
+          "translations": {
+            "zh": "星期天，",
+            "en": "On Sunday,",
+            "es": "El domingo,"
+          },
+          "start": 52.72,
+          "end": 53.04
+        },
+        {
+          "text": "ça se réchauffera pour atteindre des températures plus près de la normale,",
+          "translations": {
+            "zh": "天气将回暖，达到接近正常的温度，",
+            "en": "it will warm up to reach temperatures closer to normal,",
+            "es": "se calentará para alcanzar temperaturas más cerca de lo normal,"
+          },
+          "start": 54.24,
+          "end": 58.16
+        },
+        {
+          "text": "avec un maximum de 23 C.",
+          "translations": {
+            "zh": "最高气温为23°C。",
+            "en": "with a high of 23°C.",
+            "es": "con un máximo de 23 C."
+          },
+          "start": 58.48,
+          "end": 60.08
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Il y aura du soleil, et on prévoit que le beau temps se maintiendra pour le congé de lundi, où le mercure atteindra 24 C.",
+      "translations": {
+        "zh": "将会出太阳，预计好天气将持续到周一假期，届时气温将达到24°C。",
+        "en": "There will be sun, and the fine weather is expected to hold for the Monday holiday, where the mercury will reach 24°C.",
+        "es": "Habrá sol, y se prevé que el buen tiempo se mantendrá para el feriado del lunes, donde el mercurio alcanzará 24 C."
+      },
+      "start": 60.48,
+      "end": 67.12,
+      "words": [
+        {
+          "text": "Il",
+          "start": 60.48,
+          "end": 60.64
+        },
+        {
+          "text": "y",
+          "start": 60.64,
+          "end": 60.64
+        },
+        {
+          "text": "aura",
+          "start": 60.64,
+          "end": 60.8
+        },
+        {
+          "text": "du",
+          "start": 60.8,
+          "end": 60.96
+        },
+        {
+          "text": "soleil",
+          "start": 60.96,
+          "end": 61.52
+        },
+        {
+          "text": "et",
+          "start": 62.0,
+          "end": 62.08
+        },
+        {
+          "text": "on",
+          "start": 62.08,
+          "end": 62.16
+        },
+        {
+          "text": "prévoit",
+          "start": 62.16,
+          "end": 62.48
+        },
+        {
+          "text": "que",
+          "start": 62.48,
+          "end": 62.64
+        },
+        {
+          "text": "le",
+          "start": 62.64,
+          "end": 62.64
+        },
+        {
+          "text": "beau",
+          "start": 62.64,
+          "end": 62.88
+        },
+        {
+          "text": "temps",
+          "start": 62.88,
+          "end": 63.04
+        },
+        {
+          "text": "se",
+          "start": 63.04,
+          "end": 63.2
+        },
+        {
+          "text": "maintiendra",
+          "start": 63.2,
+          "end": 63.68
+        },
+        {
+          "text": "pour",
+          "start": 63.68,
+          "end": 63.84
+        },
+        {
+          "text": "le",
+          "start": 63.84,
+          "end": 63.92
+        },
+        {
+          "text": "congé",
+          "start": 63.92,
+          "end": 64.24
+        },
+        {
+          "text": "de",
+          "start": 64.24,
+          "end": 64.32
+        },
+        {
+          "text": "lundi",
+          "start": 64.32,
+          "end": 64.72
+        },
+        {
+          "text": "où",
+          "start": 65.04,
+          "end": 65.12
+        },
+        {
+          "text": "le",
+          "start": 65.12,
+          "end": 65.2
+        },
+        {
+          "text": "mercure",
+          "start": 65.2,
+          "end": 65.68
+        },
+        {
+          "text": "atteindra",
+          "start": 65.68,
+          "end": 66.32
+        },
+        {
+          "text": "24",
+          "start": 66.48,
+          "end": 66.8
+        },
+        {
+          "text": "C",
+          "start": 66.88,
+          "end": 67.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il y aura du soleil,",
+          "translations": {
+            "zh": "将会出太阳，",
+            "en": "There will be sun,",
+            "es": "Habrá sol,"
+          },
+          "start": 60.48,
+          "end": 61.52
+        },
+        {
+          "text": "et on prévoit que le beau temps se maintiendra pour le congé de lundi,",
+          "translations": {
+            "zh": "预计好天气将持续到周一假期，",
+            "en": "and the fine weather is expected to hold for the Monday holiday,",
+            "es": "y se prevé que el buen tiempo se mantendrá para el feriado del lunes,"
+          },
+          "start": 62.0,
+          "end": 64.72
+        },
+        {
+          "text": "où le mercure atteindra 24 C.",
+          "translations": {
+            "zh": "届时气温将达到24°C。",
+            "en": "where the mercury will reach 24°C.",
+            "es": "donde el mercurio alcanzará 24 C."
+          },
+          "start": 65.04,
+          "end": 67.12
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP11_P02",
+  "audio_filename": "FLS2_EP11_P02.mp3",
+  "audio_path": "downloads/FLS2_EP11_P02.mp3",
+  "episode": 11,
+  "piste": 2,
+  "page": 86,
+  "cd": "CD2"
+}

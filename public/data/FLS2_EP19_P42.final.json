@@ -1,0 +1,611 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 19 Piste 42 Page 149",
+      "translations": {
+        "zh": "第19集 第42轨 第149页",
+        "en": "Episode 19 Track 42 Page 149",
+        "es": "Episodio 19 Pista 42 Página 149"
+      },
+      "start": 0.72,
+      "end": 8.08,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.72,
+          "end": 1.36
+        },
+        {
+          "text": "19",
+          "start": 1.76,
+          "end": 2.16
+        },
+        {
+          "text": "Piste",
+          "start": 3.12,
+          "end": 3.6
+        },
+        {
+          "text": "42",
+          "start": 3.84,
+          "end": 4.48
+        },
+        {
+          "text": "Page",
+          "start": 6.4,
+          "end": 6.8
+        },
+        {
+          "text": "149",
+          "start": 7.2,
+          "end": 8.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 19",
+          "translations": {
+            "zh": "第19集",
+            "en": "Episode 19",
+            "es": "Episodio 19"
+          },
+          "start": 0.72,
+          "end": 2.16
+        },
+        {
+          "text": "Piste 42",
+          "translations": {
+            "zh": "第42轨",
+            "en": "Track 42",
+            "es": "Pista 42"
+          },
+          "start": 3.12,
+          "end": 4.48
+        },
+        {
+          "text": "Page 149",
+          "translations": {
+            "zh": "第149页",
+            "en": "Page 149",
+            "es": "Página 149"
+          },
+          "start": 6.4,
+          "end": 8.08
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Elle voudrait que j'aille avec elle.",
+      "translations": {
+        "zh": "她希望我和她一起去。",
+        "en": "She would like me to go with her.",
+        "es": "Ella querría que yo vaya con ella."
+      },
+      "start": 8.96,
+      "end": 11.6,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 8.96,
+          "end": 10.24
+        },
+        {
+          "text": "voudrait",
+          "start": 10.24,
+          "end": 10.56
+        },
+        {
+          "text": "que",
+          "start": 10.56,
+          "end": 10.72
+        },
+        {
+          "text": "j'aille",
+          "start": 10.72,
+          "end": 10.96
+        },
+        {
+          "text": "avec",
+          "start": 10.96,
+          "end": 11.2
+        },
+        {
+          "text": "elle",
+          "start": 11.2,
+          "end": 11.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle voudrait",
+          "translations": {
+            "zh": "她希望",
+            "en": "She would like",
+            "es": "Ella querría"
+          },
+          "start": 8.96,
+          "end": 10.56
+        },
+        {
+          "text": "que j'aille avec elle.",
+          "translations": {
+            "zh": "我和她一起去。",
+            "en": "me to go with her.",
+            "es": "que yo vaya con ella."
+          },
+          "start": 10.56,
+          "end": 11.6
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Il demande que vous fassiez votre discours avant le sien.",
+      "translations": {
+        "zh": "他要求您在他的演讲之前做您的演讲。",
+        "en": "He asks that you give your speech before his.",
+        "es": "Él pide que ustedes hagan su discurso antes del suyo."
+      },
+      "start": 13.76,
+      "end": 17.44,
+      "words": [
+        {
+          "text": "Il",
+          "start": 13.76,
+          "end": 13.92
+        },
+        {
+          "text": "demande",
+          "start": 14.96,
+          "end": 15.36
+        },
+        {
+          "text": "que",
+          "start": 15.36,
+          "end": 15.36
+        },
+        {
+          "text": "vous",
+          "start": 15.36,
+          "end": 15.52
+        },
+        {
+          "text": "fassiez",
+          "start": 15.52,
+          "end": 15.84
+        },
+        {
+          "text": "votre",
+          "start": 15.84,
+          "end": 16.16
+        },
+        {
+          "text": "discours",
+          "start": 16.16,
+          "end": 16.8
+        },
+        {
+          "text": "avant",
+          "start": 16.88,
+          "end": 17.04
+        },
+        {
+          "text": "le",
+          "start": 17.04,
+          "end": 17.12
+        },
+        {
+          "text": "sien",
+          "start": 17.12,
+          "end": 17.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il demande",
+          "translations": {
+            "zh": "他要求",
+            "en": "He asks",
+            "es": "Él pide"
+          },
+          "start": 13.76,
+          "end": 15.36
+        },
+        {
+          "text": "que vous fassiez votre discours",
+          "translations": {
+            "zh": "您做您的演讲",
+            "en": "that you give your speech",
+            "es": "que ustedes hagan su discurso"
+          },
+          "start": 15.36,
+          "end": 16.8
+        },
+        {
+          "text": "avant le sien.",
+          "translations": {
+            "zh": "在他的之前。",
+            "en": "before his.",
+            "es": "antes del suyo."
+          },
+          "start": 16.88,
+          "end": 17.44
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Surtout, qu'il ne coure pas dans la rue.",
+      "translations": {
+        "zh": "最重要的是，他不要在街上跑。",
+        "en": "Above all, he must not run in the street.",
+        "es": "Sobre todo, que no corra por la calle."
+      },
+      "start": 20.88,
+      "end": 22.88,
+      "words": [
+        {
+          "text": "Surtout",
+          "start": 20.88,
+          "end": 21.44
+        },
+        {
+          "text": "qu'il",
+          "start": 21.68,
+          "end": 21.92
+        },
+        {
+          "text": "ne",
+          "start": 21.92,
+          "end": 21.92
+        },
+        {
+          "text": "coure",
+          "start": 21.92,
+          "end": 22.24
+        },
+        {
+          "text": "pas",
+          "start": 22.24,
+          "end": 22.32
+        },
+        {
+          "text": "dans",
+          "start": 22.32,
+          "end": 22.48
+        },
+        {
+          "text": "la",
+          "start": 22.48,
+          "end": 22.56
+        },
+        {
+          "text": "rue",
+          "start": 22.56,
+          "end": 22.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Surtout,",
+          "translations": {
+            "zh": "最重要的是，",
+            "en": "Above all,",
+            "es": "Sobre todo,"
+          },
+          "start": 20.88,
+          "end": 21.44
+        },
+        {
+          "text": "qu'il ne coure pas",
+          "translations": {
+            "zh": "他不要跑",
+            "en": "he must not run",
+            "es": "que no corra"
+          },
+          "start": 21.68,
+          "end": 22.32
+        },
+        {
+          "text": "dans la rue.",
+          "translations": {
+            "zh": "在街上。",
+            "en": "in the street.",
+            "es": "por la calle."
+          },
+          "start": 22.32,
+          "end": 22.88
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "J'aimerais vraiment qu'il me dise la vérité.",
+      "translations": {
+        "zh": "我真的很想他告诉我真相。",
+        "en": "I would really like him to tell me the truth.",
+        "es": "Me gustaría realmente que me diga la verdad."
+      },
+      "start": 26.4,
+      "end": 28.24,
+      "words": [
+        {
+          "text": "J'aimerais",
+          "start": 26.4,
+          "end": 26.72
+        },
+        {
+          "text": "vraiment",
+          "start": 26.72,
+          "end": 27.12
+        },
+        {
+          "text": "qu'il",
+          "start": 27.12,
+          "end": 27.36
+        },
+        {
+          "text": "me",
+          "start": 27.36,
+          "end": 27.44
+        },
+        {
+          "text": "dise",
+          "start": 27.44,
+          "end": 27.68
+        },
+        {
+          "text": "la",
+          "start": 27.68,
+          "end": 27.76
+        },
+        {
+          "text": "vérité",
+          "start": 27.76,
+          "end": 28.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'aimerais vraiment",
+          "translations": {
+            "zh": "我真的很想",
+            "en": "I would really like",
+            "es": "Me gustaría realmente"
+          },
+          "start": 26.4,
+          "end": 27.12
+        },
+        {
+          "text": "qu'il me dise la vérité.",
+          "translations": {
+            "zh": "他告诉我真相。",
+            "en": "him to tell me the truth.",
+            "es": "que me diga la verdad."
+          },
+          "start": 27.12,
+          "end": 28.24
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Il est très important que tu saches attraper le ballon.",
+      "translations": {
+        "zh": "你会接球是非常重要的。",
+        "en": "It is very important that you know how to catch the ball.",
+        "es": "Es muy importante que sepas atrapar la pelota."
+      },
+      "start": 31.36,
+      "end": 33.76,
+      "words": [
+        {
+          "text": "Il",
+          "start": 31.36,
+          "end": 31.52
+        },
+        {
+          "text": "est",
+          "start": 31.52,
+          "end": 31.6
+        },
+        {
+          "text": "très",
+          "start": 31.6,
+          "end": 31.92
+        },
+        {
+          "text": "important",
+          "start": 31.92,
+          "end": 32.32
+        },
+        {
+          "text": "que",
+          "start": 32.32,
+          "end": 32.48
+        },
+        {
+          "text": "tu",
+          "start": 32.48,
+          "end": 32.64
+        },
+        {
+          "text": "saches",
+          "start": 32.64,
+          "end": 32.96
+        },
+        {
+          "text": "attraper",
+          "start": 33.04,
+          "end": 33.36
+        },
+        {
+          "text": "le",
+          "start": 33.36,
+          "end": 33.44
+        },
+        {
+          "text": "ballon",
+          "start": 33.44,
+          "end": 33.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il est très important",
+          "translations": {
+            "zh": "非常重要的是",
+            "en": "It is very important",
+            "es": "Es muy importante"
+          },
+          "start": 31.36,
+          "end": 32.32
+        },
+        {
+          "text": "que tu saches attraper le ballon.",
+          "translations": {
+            "zh": "你会接球。",
+            "en": "that you know how to catch the ball.",
+            "es": "que sepas atrapar la pelota."
+          },
+          "start": 32.32,
+          "end": 33.76
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Est-ce que tu regrettes qu'elle soit partie ?",
+      "translations": {
+        "zh": "你后悔她离开了吗？",
+        "en": "Do you regret that she left?",
+        "es": "¿Lamentas que ella se haya ido?"
+      },
+      "start": 36.0,
+      "end": 38.8,
+      "words": [
+        {
+          "text": "Est",
+          "start": 36.0,
+          "end": 36.24
+        },
+        {
+          "text": "ce",
+          "start": 36.24,
+          "end": 36.56
+        },
+        {
+          "text": "que",
+          "start": 37.52,
+          "end": 37.6
+        },
+        {
+          "text": "tu",
+          "start": 37.6,
+          "end": 37.68
+        },
+        {
+          "text": "regrettes",
+          "start": 37.68,
+          "end": 38.08
+        },
+        {
+          "text": "qu'elle",
+          "start": 38.08,
+          "end": 38.24
+        },
+        {
+          "text": "soit",
+          "start": 38.24,
+          "end": 38.4
+        },
+        {
+          "text": "partie",
+          "start": 38.4,
+          "end": 38.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que tu regrettes",
+          "translations": {
+            "zh": "你后悔",
+            "en": "Do you regret",
+            "es": "¿Lamentas"
+          },
+          "start": 36.0,
+          "end": 38.08
+        },
+        {
+          "text": "qu'elle soit partie ?",
+          "translations": {
+            "zh": "她离开了吗？",
+            "en": "that she left?",
+            "es": "que ella se haya ido?"
+          },
+          "start": 38.08,
+          "end": 38.8
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "ÉPISODE 20 - Bilan",
+      "translations": {
+        "zh": "第20集 - 总结",
+        "en": "EPISODE 20 - Review",
+        "es": "EPISODIO 20 - Balance"
+      },
+      "start": 38.8,
+      "end": 40.32,
+      "words": [
+        {
+          "text": "ÉPISODE",
+          "start": 38.8,
+          "end": 38.8
+        },
+        {
+          "text": "20",
+          "start": 39.68,
+          "end": 39.68
+        },
+        {
+          "text": "Bilan",
+          "start": 40.32,
+          "end": 40.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "ÉPISODE 20",
+          "translations": {
+            "zh": "第20集",
+            "en": "EPISODE 20",
+            "es": "EPISODIO 20"
+          },
+          "start": 38.8,
+          "end": 39.68
+        },
+        {
+          "text": "- Bilan",
+          "translations": {
+            "zh": "- 总结",
+            "en": "- Review",
+            "es": "- Balance"
+          },
+          "start": 40.32,
+          "end": 40.32
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP19_P42",
+  "audio_filename": "FLS2_EP19_P42.mp3",
+  "audio_path": "downloads/FLS2_EP19_P42.mp3",
+  "episode": 19,
+  "piste": 42,
+  "page": 149,
+  "cd": "CD2"
+}

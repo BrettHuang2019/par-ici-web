@@ -1,0 +1,531 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 8 Piste 39 Page 66",
+      "translations": {
+        "zh": "第八集 第39轨 第66页",
+        "en": "Episode 8 Track 39 Page 66",
+        "es": "Episodio 8 Pista 39 Página 66"
+      },
+      "start": 0.72,
+      "end": 8.16,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.72,
+          "end": 1.36
+        },
+        {
+          "text": "8",
+          "start": 1.76,
+          "end": 2.0
+        },
+        {
+          "text": "Piste",
+          "start": 3.12,
+          "end": 3.12
+        },
+        {
+          "text": "39",
+          "start": 4.16,
+          "end": 4.8
+        },
+        {
+          "text": "Page",
+          "start": 6.64,
+          "end": 7.04
+        },
+        {
+          "text": "66",
+          "start": 7.12,
+          "end": 8.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 8",
+          "translations": {
+            "zh": "第八集",
+            "en": "Episode 8",
+            "es": "Episodio 8"
+          },
+          "start": 0.72,
+          "end": 2.0
+        },
+        {
+          "text": "Piste 39",
+          "translations": {
+            "zh": "第39轨",
+            "en": "Track 39",
+            "es": "Pista 39"
+          },
+          "start": 3.12,
+          "end": 4.8
+        },
+        {
+          "text": "Page 66",
+          "translations": {
+            "zh": "第66页",
+            "en": "Page 66",
+            "es": "Página 66"
+          },
+          "start": 6.64,
+          "end": 8.16
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "On est allés chez le pédiatre avec Benjamin, hier.",
+      "translations": {
+        "zh": "昨天我们和本杰明一起去了儿科医生那里。",
+        "en": "We went to the pediatrician with Benjamin yesterday.",
+        "es": "Fuimos al pediatra con Benjamin, ayer."
+      },
+      "start": 9.12,
+      "end": 11.92,
+      "words": [
+        {
+          "text": "On",
+          "start": 9.12,
+          "end": 9.2
+        },
+        {
+          "text": "est",
+          "start": 9.84,
+          "end": 10.0
+        },
+        {
+          "text": "allés",
+          "start": 10.0,
+          "end": 10.16
+        },
+        {
+          "text": "chez",
+          "start": 10.16,
+          "end": 10.32
+        },
+        {
+          "text": "le",
+          "start": 10.32,
+          "end": 10.4
+        },
+        {
+          "text": "pédiatre",
+          "start": 10.4,
+          "end": 10.88
+        },
+        {
+          "text": "avec",
+          "start": 10.88,
+          "end": 11.04
+        },
+        {
+          "text": "Benjamin",
+          "start": 11.04,
+          "end": 11.52
+        },
+        {
+          "text": "hier",
+          "start": 11.52,
+          "end": 11.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On est allés",
+          "translations": {
+            "zh": "我们去了",
+            "en": "We went",
+            "es": "Fuimos"
+          },
+          "start": 9.12,
+          "end": 10.16
+        },
+        {
+          "text": "chez le pédiatre",
+          "translations": {
+            "zh": "儿科医生那里",
+            "en": "to the pediatrician",
+            "es": "al pediatra"
+          },
+          "start": 10.16,
+          "end": 10.88
+        },
+        {
+          "text": "avec Benjamin,",
+          "translations": {
+            "zh": "和本杰明一起，",
+            "en": "with Benjamin,",
+            "es": "con Benjamin,"
+          },
+          "start": 10.88,
+          "end": 11.52
+        },
+        {
+          "text": "hier.",
+          "translations": {
+            "zh": "昨天。",
+            "en": "yesterday.",
+            "es": "ayer."
+          },
+          "start": 11.52,
+          "end": 11.92
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Il nous a dit qu'il était probablement asthmatique.",
+      "translations": {
+        "zh": "他告诉我们他可能是哮喘。",
+        "en": "He told us that he was probably asthmatic.",
+        "es": "Nos dijo que probablemente era asmático."
+      },
+      "start": 12.56,
+      "end": 14.72,
+      "words": [
+        {
+          "text": "Il",
+          "start": 12.56,
+          "end": 12.64
+        },
+        {
+          "text": "nous",
+          "start": 12.64,
+          "end": 12.8
+        },
+        {
+          "text": "a",
+          "start": 12.8,
+          "end": 12.88
+        },
+        {
+          "text": "dit",
+          "start": 12.88,
+          "end": 13.04
+        },
+        {
+          "text": "qu'il",
+          "start": 13.04,
+          "end": 13.2
+        },
+        {
+          "text": "était",
+          "start": 13.2,
+          "end": 13.44
+        },
+        {
+          "text": "probablement",
+          "start": 13.44,
+          "end": 14.08
+        },
+        {
+          "text": "asthmatique",
+          "start": 14.08,
+          "end": 14.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il nous a dit",
+          "translations": {
+            "zh": "他告诉我们",
+            "en": "He told us",
+            "es": "Nos dijo"
+          },
+          "start": 12.56,
+          "end": 13.04
+        },
+        {
+          "text": "qu'il était probablement asthmatique.",
+          "translations": {
+            "zh": "他可能是哮喘。",
+            "en": "that he was probably asthmatic.",
+            "es": "que probablemente era asmático."
+          },
+          "start": 13.04,
+          "end": 14.72
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "On va devoir aller voir un spécialiste bientôt.",
+      "translations": {
+        "zh": "我们很快得去看专科医生。",
+        "en": "We're going to have to go see a specialist soon.",
+        "es": "Vamos a tener que ir a ver a un especialista pronto."
+      },
+      "start": 15.52,
+      "end": 17.44,
+      "words": [
+        {
+          "text": "On",
+          "start": 15.52,
+          "end": 15.6
+        },
+        {
+          "text": "va",
+          "start": 15.6,
+          "end": 15.76
+        },
+        {
+          "text": "devoir",
+          "start": 15.76,
+          "end": 16.08
+        },
+        {
+          "text": "aller",
+          "start": 16.08,
+          "end": 16.16
+        },
+        {
+          "text": "voir",
+          "start": 16.16,
+          "end": 16.4
+        },
+        {
+          "text": "un",
+          "start": 16.4,
+          "end": 16.48
+        },
+        {
+          "text": "spécialiste",
+          "start": 16.48,
+          "end": 17.12
+        },
+        {
+          "text": "bientôt",
+          "start": 17.12,
+          "end": 17.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On va devoir",
+          "translations": {
+            "zh": "我们得",
+            "en": "We're going to have to",
+            "es": "Vamos a tener que"
+          },
+          "start": 15.52,
+          "end": 16.08
+        },
+        {
+          "text": "aller voir un spécialiste",
+          "translations": {
+            "zh": "去看专科医生",
+            "en": "go see a specialist",
+            "es": "ir a ver a un especialista"
+          },
+          "start": 16.08,
+          "end": 17.12
+        },
+        {
+          "text": "bientôt.",
+          "translations": {
+            "zh": "很快。",
+            "en": "soon.",
+            "es": "pronto."
+          },
+          "start": 17.12,
+          "end": 17.44
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Ah non, pas vrai...",
+      "translations": {
+        "zh": "啊不，不会吧...",
+        "en": "Oh no, really...",
+        "es": "Ah no, no es verdad..."
+      },
+      "start": 17.92,
+      "end": 19.76,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 17.92,
+          "end": 18.08
+        },
+        {
+          "text": "non",
+          "start": 18.08,
+          "end": 18.72
+        },
+        {
+          "text": "pas",
+          "start": 19.04,
+          "end": 19.12
+        },
+        {
+          "text": "vrai",
+          "start": 19.2,
+          "end": 19.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah non,",
+          "translations": {
+            "zh": "啊不，",
+            "en": "Oh no,",
+            "es": "Ah no,"
+          },
+          "start": 17.92,
+          "end": 18.72
+        },
+        {
+          "text": "pas vrai...",
+          "translations": {
+            "zh": "不会吧...",
+            "en": "really...",
+            "es": "no es verdad..."
+          },
+          "start": 19.04,
+          "end": 19.76
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Ah, les yeux me piquent tellement !",
+      "translations": {
+        "zh": "啊，我的眼睛好刺痒！",
+        "en": "Ah, my eyes are stinging so much!",
+        "es": "Ah, ¡me pican los ojos tanto!"
+      },
+      "start": 22.48,
+      "end": 24.24,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 22.48,
+          "end": 22.88
+        },
+        {
+          "text": "les",
+          "start": 23.12,
+          "end": 23.44
+        },
+        {
+          "text": "yeux",
+          "start": 23.44,
+          "end": 23.52
+        },
+        {
+          "text": "me",
+          "start": 23.52,
+          "end": 23.6
+        },
+        {
+          "text": "piquent",
+          "start": 23.6,
+          "end": 23.84
+        },
+        {
+          "text": "tellement",
+          "start": 23.84,
+          "end": 24.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah,",
+          "translations": {
+            "zh": "啊，",
+            "en": "Ah,",
+            "es": "Ah,"
+          },
+          "start": 22.48,
+          "end": 22.88
+        },
+        {
+          "text": "les yeux me piquent",
+          "translations": {
+            "zh": "我的眼睛刺痒",
+            "en": "my eyes are stinging",
+            "es": "me pican los ojos"
+          },
+          "start": 23.12,
+          "end": 23.84
+        },
+        {
+          "text": "tellement !",
+          "translations": {
+            "zh": "好厉害！",
+            "en": "so much!",
+            "es": "¡tanto!"
+          },
+          "start": 23.84,
+          "end": 24.24
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "As-tu des allergies ?",
+      "translations": {
+        "zh": "你有过敏吗？",
+        "en": "Do you have allergies?",
+        "es": "¿Tienes alergias?"
+      },
+      "start": 24.96,
+      "end": 25.92,
+      "words": [
+        {
+          "text": "As",
+          "start": 24.96,
+          "end": 25.12
+        },
+        {
+          "text": "tu",
+          "start": 25.12,
+          "end": 25.28
+        },
+        {
+          "text": "des",
+          "start": 25.28,
+          "end": 25.44
+        },
+        {
+          "text": "allergies",
+          "start": 25.44,
+          "end": 25.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "As-tu",
+          "translations": {
+            "zh": "你有",
+            "en": "Do you have",
+            "es": "¿Tienes"
+          },
+          "start": 24.96,
+          "end": 25.28
+        },
+        {
+          "text": "des allergies ?",
+          "translations": {
+            "zh": "过敏吗？",
+            "en": "allergies?",
+            "es": "alergias?"
+          },
+          "start": 25.28,
+          "end": 25.92
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP08_P39",
+  "audio_filename": "FLS2_EP08_P39.mp3",
+  "audio_path": "downloads/FLS2_EP08_P39.mp3",
+  "episode": 8,
+  "piste": 39,
+  "page": 66,
+  "cd": "CD1"
+}

@@ -1,0 +1,1031 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 9 Piste 48 Page 75",
+      "translations": {
+        "zh": "第九集 第48轨 第75页",
+        "en": "Episode 9 Track 48 Page 75",
+        "es": "Episodio 9 Pista 48 Página 75"
+      },
+      "start": 0.72,
+      "end": 8.0,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.72,
+          "end": 1.44
+        },
+        {
+          "text": "9",
+          "start": 1.76,
+          "end": 1.92
+        },
+        {
+          "text": "Piste",
+          "start": 2.96,
+          "end": 3.44
+        },
+        {
+          "text": "48",
+          "start": 4.08,
+          "end": 4.72
+        },
+        {
+          "text": "Page",
+          "start": 4.72,
+          "end": 4.72
+        },
+        {
+          "text": "75",
+          "start": 6.48,
+          "end": 8.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 9 Piste 48 Page 75",
+          "translations": {
+            "zh": "第九集 第48轨 第75页",
+            "en": "Episode 9 Track 48 Page 75",
+            "es": "Episodio 9 Pista 48 Página 75"
+          },
+          "start": 0.72,
+          "end": 8.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Mon chat est souffrant.",
+      "translations": {
+        "zh": "我的猫很痛苦。",
+        "en": "My cat is suffering.",
+        "es": "Mi gato está sufriendo."
+      },
+      "start": 10.8,
+      "end": 11.84,
+      "words": [
+        {
+          "text": "Mon",
+          "start": 10.8,
+          "end": 10.96
+        },
+        {
+          "text": "chat",
+          "start": 10.96,
+          "end": 11.28
+        },
+        {
+          "text": "est",
+          "start": 11.28,
+          "end": 11.28
+        },
+        {
+          "text": "souffrant",
+          "start": 11.28,
+          "end": 11.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mon chat",
+          "translations": {
+            "zh": "我的猫",
+            "en": "My cat",
+            "es": "Mi gato"
+          },
+          "start": 10.8,
+          "end": 11.28
+        },
+        {
+          "text": "est souffrant.",
+          "translations": {
+            "zh": "很痛苦。",
+            "en": "is suffering.",
+            "es": "está sufriendo."
+          },
+          "start": 11.28,
+          "end": 11.84
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Il ne peut pas marcher sur ses pattes arrière.",
+      "translations": {
+        "zh": "它不能用后腿行走。",
+        "en": "He cannot walk on his back legs.",
+        "es": "No puede caminar sobre sus patas traseras."
+      },
+      "start": 12.48,
+      "end": 14.24,
+      "words": [
+        {
+          "text": "Il",
+          "start": 12.48,
+          "end": 12.64
+        },
+        {
+          "text": "ne",
+          "start": 12.64,
+          "end": 12.64
+        },
+        {
+          "text": "peut",
+          "start": 12.64,
+          "end": 12.72
+        },
+        {
+          "text": "pas",
+          "start": 12.72,
+          "end": 12.88
+        },
+        {
+          "text": "marcher",
+          "start": 12.88,
+          "end": 13.2
+        },
+        {
+          "text": "sur",
+          "start": 13.2,
+          "end": 13.36
+        },
+        {
+          "text": "ses",
+          "start": 13.36,
+          "end": 13.52
+        },
+        {
+          "text": "pattes",
+          "start": 13.52,
+          "end": 13.76
+        },
+        {
+          "text": "arrière",
+          "start": 13.76,
+          "end": 14.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il ne peut pas marcher",
+          "translations": {
+            "zh": "它不能行走",
+            "en": "He cannot walk",
+            "es": "No puede caminar"
+          },
+          "start": 12.48,
+          "end": 13.2
+        },
+        {
+          "text": "sur ses pattes arrière.",
+          "translations": {
+            "zh": "用它的后腿。",
+            "en": "on his back legs.",
+            "es": "sobre sus patas traseras."
+          },
+          "start": 13.2,
+          "end": 14.24
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Ton chien a l'air malade.",
+      "translations": {
+        "zh": "你的狗看起来生病了。",
+        "en": "Your dog looks sick.",
+        "es": "Tu perro parece enfermo."
+      },
+      "start": 16.08,
+      "end": 18.88,
+      "words": [
+        {
+          "text": "Ton",
+          "start": 16.08,
+          "end": 16.24
+        },
+        {
+          "text": "chien",
+          "start": 17.76,
+          "end": 18.08
+        },
+        {
+          "text": "a",
+          "start": 18.08,
+          "end": 18.16
+        },
+        {
+          "text": "l'air",
+          "start": 18.16,
+          "end": 18.32
+        },
+        {
+          "text": "malade",
+          "start": 18.32,
+          "end": 18.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ton chien",
+          "translations": {
+            "zh": "你的狗",
+            "en": "Your dog",
+            "es": "Tu perro"
+          },
+          "start": 16.08,
+          "end": 18.08
+        },
+        {
+          "text": "a l'air malade.",
+          "translations": {
+            "zh": "看起来生病了。",
+            "en": "looks sick.",
+            "es": "parece enfermo."
+          },
+          "start": 18.08,
+          "end": 18.88
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Il n'a presque plus de poils dans le cou.",
+      "translations": {
+        "zh": "它的脖子上几乎没有毛了。",
+        "en": "He has almost no fur left on his neck.",
+        "es": "Ya casi no tiene pelo en el cuello."
+      },
+      "start": 19.6,
+      "end": 21.28,
+      "words": [
+        {
+          "text": "Il",
+          "start": 19.6,
+          "end": 19.76
+        },
+        {
+          "text": "n'a",
+          "start": 19.76,
+          "end": 19.84
+        },
+        {
+          "text": "presque",
+          "start": 19.84,
+          "end": 20.24
+        },
+        {
+          "text": "plus",
+          "start": 20.24,
+          "end": 20.4
+        },
+        {
+          "text": "de",
+          "start": 20.4,
+          "end": 20.48
+        },
+        {
+          "text": "poils",
+          "start": 20.48,
+          "end": 20.8
+        },
+        {
+          "text": "dans",
+          "start": 20.8,
+          "end": 20.96
+        },
+        {
+          "text": "le",
+          "start": 20.96,
+          "end": 20.96
+        },
+        {
+          "text": "cou",
+          "start": 20.96,
+          "end": 21.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il n'a presque plus de poils",
+          "translations": {
+            "zh": "它几乎没有毛了",
+            "en": "He has almost no fur left",
+            "es": "Ya casi no tiene pelo"
+          },
+          "start": 19.6,
+          "end": 20.8
+        },
+        {
+          "text": "dans le cou.",
+          "translations": {
+            "zh": "在脖子上。",
+            "en": "on his neck.",
+            "es": "en el cuello."
+          },
+          "start": 20.8,
+          "end": 21.28
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Le chat s'est sans doute battu.",
+      "translations": {
+        "zh": "这只猫大概是打架了。",
+        "en": "The cat probably got into a fight.",
+        "es": "El gato probablemente se ha peleado."
+      },
+      "start": 24.4,
+      "end": 25.76,
+      "words": [
+        {
+          "text": "Le",
+          "start": 24.4,
+          "end": 24.56
+        },
+        {
+          "text": "chat",
+          "start": 24.56,
+          "end": 24.56
+        },
+        {
+          "text": "s'est",
+          "start": 24.8,
+          "end": 24.88
+        },
+        {
+          "text": "sans",
+          "start": 24.88,
+          "end": 25.12
+        },
+        {
+          "text": "doute",
+          "start": 25.12,
+          "end": 25.28
+        },
+        {
+          "text": "battu",
+          "start": 25.28,
+          "end": 25.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le chat",
+          "translations": {
+            "zh": "这只猫",
+            "en": "The cat",
+            "es": "El gato"
+          },
+          "start": 24.4,
+          "end": 24.56
+        },
+        {
+          "text": "s'est sans doute battu.",
+          "translations": {
+            "zh": "大概是打架了。",
+            "en": "probably got into a fight.",
+            "es": "probablemente se ha peleado."
+          },
+          "start": 24.8,
+          "end": 25.76
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Il a perdu deux griffes.",
+      "translations": {
+        "zh": "它掉了两颗爪子。",
+        "en": "He lost two claws.",
+        "es": "Ha perdido dos garras."
+      },
+      "start": 26.24,
+      "end": 27.36,
+      "words": [
+        {
+          "text": "Il",
+          "start": 26.24,
+          "end": 26.4
+        },
+        {
+          "text": "a",
+          "start": 26.4,
+          "end": 26.4
+        },
+        {
+          "text": "perdu",
+          "start": 26.4,
+          "end": 26.72
+        },
+        {
+          "text": "deux",
+          "start": 26.72,
+          "end": 26.88
+        },
+        {
+          "text": "griffes",
+          "start": 26.88,
+          "end": 27.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il a perdu",
+          "translations": {
+            "zh": "它掉了",
+            "en": "He lost",
+            "es": "Ha perdido"
+          },
+          "start": 26.24,
+          "end": 26.72
+        },
+        {
+          "text": "deux griffes.",
+          "translations": {
+            "zh": "两颗爪子。",
+            "en": "two claws.",
+            "es": "dos garras."
+          },
+          "start": 26.72,
+          "end": 27.36
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Mon chien ne va pas bien.",
+      "translations": {
+        "zh": "我的狗不太舒服。",
+        "en": "My dog is not doing well.",
+        "es": "Mi perro no está bien."
+      },
+      "start": 30.8,
+      "end": 31.92,
+      "words": [
+        {
+          "text": "Mon",
+          "start": 30.8,
+          "end": 31.04
+        },
+        {
+          "text": "chien",
+          "start": 31.04,
+          "end": 31.36
+        },
+        {
+          "text": "ne",
+          "start": 31.36,
+          "end": 31.36
+        },
+        {
+          "text": "va",
+          "start": 31.36,
+          "end": 31.52
+        },
+        {
+          "text": "pas",
+          "start": 31.52,
+          "end": 31.6
+        },
+        {
+          "text": "bien",
+          "start": 31.6,
+          "end": 31.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mon chien",
+          "translations": {
+            "zh": "我的狗",
+            "en": "My dog",
+            "es": "Mi perro"
+          },
+          "start": 30.8,
+          "end": 31.36
+        },
+        {
+          "text": "ne va pas bien.",
+          "translations": {
+            "zh": "不太舒服。",
+            "en": "is not doing well.",
+            "es": "no está bien."
+          },
+          "start": 31.36,
+          "end": 31.92
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Son museau est tout sec.",
+      "translations": {
+        "zh": "它的鼻子很干燥。",
+        "en": "His snout is all dry.",
+        "es": "Su hocico está muy seco."
+      },
+      "start": 32.64,
+      "end": 33.76,
+      "words": [
+        {
+          "text": "Son",
+          "start": 32.64,
+          "end": 32.8
+        },
+        {
+          "text": "museau",
+          "start": 32.8,
+          "end": 33.12
+        },
+        {
+          "text": "est",
+          "start": 33.12,
+          "end": 33.12
+        },
+        {
+          "text": "tout",
+          "start": 33.12,
+          "end": 33.28
+        },
+        {
+          "text": "sec",
+          "start": 33.28,
+          "end": 33.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Son museau",
+          "translations": {
+            "zh": "它的鼻子",
+            "en": "His snout",
+            "es": "Su hocico"
+          },
+          "start": 32.64,
+          "end": 33.12
+        },
+        {
+          "text": "est tout sec.",
+          "translations": {
+            "zh": "很干燥。",
+            "en": "is all dry.",
+            "es": "está muy seco."
+          },
+          "start": 33.12,
+          "end": 33.76
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Regarde le petit oiseau.",
+      "translations": {
+        "zh": "看那只小鸟。",
+        "en": "Look at the little bird.",
+        "es": "Mira el pajarito."
+      },
+      "start": 37.68,
+      "end": 38.72,
+      "words": [
+        {
+          "text": "Regarde",
+          "start": 37.68,
+          "end": 37.68
+        },
+        {
+          "text": "le",
+          "start": 38.0,
+          "end": 38.08
+        },
+        {
+          "text": "petit",
+          "start": 38.08,
+          "end": 38.24
+        },
+        {
+          "text": "oiseau",
+          "start": 38.32,
+          "end": 38.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Regarde",
+          "translations": {
+            "zh": "看",
+            "en": "Look at",
+            "es": "Mira"
+          },
+          "start": 37.68,
+          "end": 37.68
+        },
+        {
+          "text": "le petit oiseau.",
+          "translations": {
+            "zh": "那只小鸟。",
+            "en": "the little bird.",
+            "es": "el pajarito."
+          },
+          "start": 38.0,
+          "end": 38.72
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "On dirait qu'il a du mal à ouvrir son bec.",
+      "translations": {
+        "zh": "看起来它很难张开嘴。",
+        "en": "It seems like he is having trouble opening his beak.",
+        "es": "Parece que le cuesta abrir el pico."
+      },
+      "start": 39.44,
+      "end": 41.28,
+      "words": [
+        {
+          "text": "On",
+          "start": 39.44,
+          "end": 39.52
+        },
+        {
+          "text": "dirait",
+          "start": 39.52,
+          "end": 39.76
+        },
+        {
+          "text": "qu'il",
+          "start": 39.76,
+          "end": 40.0
+        },
+        {
+          "text": "a",
+          "start": 40.0,
+          "end": 40.0
+        },
+        {
+          "text": "du",
+          "start": 40.0,
+          "end": 40.16
+        },
+        {
+          "text": "mal",
+          "start": 40.16,
+          "end": 40.32
+        },
+        {
+          "text": "à",
+          "start": 40.32,
+          "end": 40.4
+        },
+        {
+          "text": "ouvrir",
+          "start": 40.4,
+          "end": 40.72
+        },
+        {
+          "text": "son",
+          "start": 40.72,
+          "end": 40.88
+        },
+        {
+          "text": "bec",
+          "start": 40.88,
+          "end": 41.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On dirait",
+          "translations": {
+            "zh": "看起来",
+            "en": "It seems",
+            "es": "Parece"
+          },
+          "start": 39.44,
+          "end": 39.76
+        },
+        {
+          "text": "qu'il a du mal",
+          "translations": {
+            "zh": "它很费劲",
+            "en": "like he is having trouble",
+            "es": "que le cuesta"
+          },
+          "start": 39.76,
+          "end": 40.32
+        },
+        {
+          "text": "à ouvrir son bec.",
+          "translations": {
+            "zh": "张开它的嘴。",
+            "en": "opening his beak.",
+            "es": "abrir el pico."
+          },
+          "start": 40.32,
+          "end": 41.28
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Mon chat n'est pas en forme.",
+      "translations": {
+        "zh": "我的猫状态不好。",
+        "en": "My cat is not in good shape.",
+        "es": "Mi gato no está en forma."
+      },
+      "start": 45.28,
+      "end": 46.56,
+      "words": [
+        {
+          "text": "Mon",
+          "start": 45.28,
+          "end": 45.44
+        },
+        {
+          "text": "chat",
+          "start": 45.44,
+          "end": 45.68
+        },
+        {
+          "text": "n'est",
+          "start": 45.68,
+          "end": 45.76
+        },
+        {
+          "text": "pas",
+          "start": 45.76,
+          "end": 46.0
+        },
+        {
+          "text": "en",
+          "start": 46.0,
+          "end": 46.08
+        },
+        {
+          "text": "forme",
+          "start": 46.08,
+          "end": 46.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mon chat",
+          "translations": {
+            "zh": "我的猫",
+            "en": "My cat",
+            "es": "Mi gato"
+          },
+          "start": 45.28,
+          "end": 45.68
+        },
+        {
+          "text": "n'est pas en forme.",
+          "translations": {
+            "zh": "状态不好。",
+            "en": "is not in good shape.",
+            "es": "no está en forma."
+          },
+          "start": 45.68,
+          "end": 46.56
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "J'ai l'impression qu'il a quelque chose dans la gueule.",
+      "translations": {
+        "zh": "我觉得它嘴里有什么东西。",
+        "en": "I have the feeling that he has something in his mouth.",
+        "es": "Tengo la impresión de que tiene algo en la boca."
+      },
+      "start": 47.36,
+      "end": 49.36,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 47.36,
+          "end": 47.52
+        },
+        {
+          "text": "l'impression",
+          "start": 47.52,
+          "end": 48.0
+        },
+        {
+          "text": "qu'il",
+          "start": 48.0,
+          "end": 48.16
+        },
+        {
+          "text": "a",
+          "start": 48.16,
+          "end": 48.24
+        },
+        {
+          "text": "quelque",
+          "start": 48.24,
+          "end": 48.56
+        },
+        {
+          "text": "chose",
+          "start": 48.56,
+          "end": 48.8
+        },
+        {
+          "text": "dans",
+          "start": 48.8,
+          "end": 48.96
+        },
+        {
+          "text": "la",
+          "start": 48.96,
+          "end": 49.04
+        },
+        {
+          "text": "gueule",
+          "start": 49.04,
+          "end": 49.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai l'impression",
+          "translations": {
+            "zh": "我觉得",
+            "en": "I have the feeling",
+            "es": "Tengo la impresión"
+          },
+          "start": 47.36,
+          "end": 48.0
+        },
+        {
+          "text": "qu'il a quelque chose",
+          "translations": {
+            "zh": "它有什么东西",
+            "en": "that he has something",
+            "es": "de que tiene algo"
+          },
+          "start": 48.0,
+          "end": 48.8
+        },
+        {
+          "text": "dans la gueule.",
+          "translations": {
+            "zh": "在嘴里。",
+            "en": "in his mouth.",
+            "es": "en la boca."
+          },
+          "start": 48.8,
+          "end": 49.36
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Ma perruche n'a presque plus de plumes sur l'aile droite.",
+      "translations": {
+        "zh": "我的虎皮鹦鹉右翅膀上几乎没有羽毛了。",
+        "en": "My parakeet has almost no feathers left on its right wing.",
+        "es": "Mi periquita ya casi no tiene plumas en el ala derecha."
+      },
+      "start": 54.16,
+      "end": 56.96,
+      "words": [
+        {
+          "text": "Ma",
+          "start": 54.16,
+          "end": 54.32
+        },
+        {
+          "text": "perruche",
+          "start": 54.4,
+          "end": 54.88
+        },
+        {
+          "text": "n'a",
+          "start": 54.88,
+          "end": 54.96
+        },
+        {
+          "text": "presque",
+          "start": 54.96,
+          "end": 55.44
+        },
+        {
+          "text": "plus",
+          "start": 55.44,
+          "end": 55.68
+        },
+        {
+          "text": "de",
+          "start": 55.68,
+          "end": 55.76
+        },
+        {
+          "text": "plumes",
+          "start": 55.76,
+          "end": 56.08
+        },
+        {
+          "text": "sur",
+          "start": 56.08,
+          "end": 56.32
+        },
+        {
+          "text": "l'aile",
+          "start": 56.32,
+          "end": 56.48
+        },
+        {
+          "text": "droite",
+          "start": 56.48,
+          "end": 56.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ma perruche",
+          "translations": {
+            "zh": "我的虎皮鹦鹉",
+            "en": "My parakeet",
+            "es": "Mi periquita"
+          },
+          "start": 54.16,
+          "end": 54.88
+        },
+        {
+          "text": "n'a presque plus de plumes",
+          "translations": {
+            "zh": "几乎没有羽毛了",
+            "en": "has almost no feathers left",
+            "es": "ya casi no tiene plumas"
+          },
+          "start": 54.88,
+          "end": 56.08
+        },
+        {
+          "text": "sur l'aile droite.",
+          "translations": {
+            "zh": "在右翅膀上。",
+            "en": "on its right wing.",
+            "es": "en el ala derecha."
+          },
+          "start": 56.08,
+          "end": 56.96
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "ÉPISODE 10 - Bilan",
+      "translations": {
+        "zh": "第十集 - 总结",
+        "en": "EPISODE 10 - Review",
+        "es": "EPISODIO 10 - Balance"
+      },
+      "start": 56.96,
+      "end": 56.96,
+      "words": [
+        {
+          "text": "ÉPISODE",
+          "start": 56.96,
+          "end": 56.96
+        },
+        {
+          "text": "10",
+          "start": 56.96,
+          "end": 56.96
+        },
+        {
+          "text": "Bilan",
+          "start": 56.96,
+          "end": 56.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "ÉPISODE 10 - Bilan",
+          "translations": {
+            "zh": "第十集 - 总结",
+            "en": "EPISODE 10 - Review",
+            "es": "EPISODIO 10 - Balance"
+          },
+          "start": 56.96,
+          "end": 56.96
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP09_P48",
+  "audio_filename": "FLS2_EP09_P48.mp3",
+  "audio_path": "downloads/FLS2_EP09_P48.mp3",
+  "episode": 9,
+  "piste": 48,
+  "page": 75,
+  "cd": "CD1"
+}

@@ -1,0 +1,1681 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 18 Piste 38 Page 136",
+      "translations": {
+        "zh": "第18集 第38课 第136页",
+        "en": "Episode 18 Track 38 Page 136",
+        "es": "Episodio 18 Pista 38 Página 136"
+      },
+      "start": 0.88,
+      "end": 8.16,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.88,
+          "end": 1.52
+        },
+        {
+          "text": "18",
+          "start": 1.92,
+          "end": 2.4
+        },
+        {
+          "text": "Piste",
+          "start": 3.28,
+          "end": 3.68
+        },
+        {
+          "text": "38",
+          "start": 4.0,
+          "end": 4.64
+        },
+        {
+          "text": "Page",
+          "start": 6.48,
+          "end": 6.48
+        },
+        {
+          "text": "136",
+          "start": 6.48,
+          "end": 8.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 18",
+          "translations": {
+            "zh": "第18集",
+            "en": "Episode 18",
+            "es": "Episodio 18"
+          },
+          "start": 0.88,
+          "end": 2.4
+        },
+        {
+          "text": "Piste 38",
+          "translations": {
+            "zh": "第38课",
+            "en": "Track 38",
+            "es": "Pista 38"
+          },
+          "start": 3.28,
+          "end": 4.64
+        },
+        {
+          "text": "Page 136",
+          "translations": {
+            "zh": "第136页",
+            "en": "Page 136",
+            "es": "Página 136"
+          },
+          "start": 6.48,
+          "end": 8.16
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Excusez-moi monsieur, est-ce que cette place est prise ?",
+      "translations": {
+        "zh": "打扰一下先生，这个座位有人吗？",
+        "en": "Excuse me sir, is this seat taken?",
+        "es": "Disculpe señor, ¿este asiento está ocupado?"
+      },
+      "start": 10.16,
+      "end": 12.88,
+      "words": [
+        {
+          "text": "Excusez",
+          "start": 10.16,
+          "end": 10.64
+        },
+        {
+          "text": "moi",
+          "start": 10.64,
+          "end": 10.8
+        },
+        {
+          "text": "monsieur",
+          "start": 10.8,
+          "end": 11.28
+        },
+        {
+          "text": "est",
+          "start": 11.68,
+          "end": 11.76
+        },
+        {
+          "text": "ce",
+          "start": 11.76,
+          "end": 11.84
+        },
+        {
+          "text": "que",
+          "start": 11.84,
+          "end": 11.92
+        },
+        {
+          "text": "cette",
+          "start": 11.92,
+          "end": 12.08
+        },
+        {
+          "text": "place",
+          "start": 12.08,
+          "end": 12.32
+        },
+        {
+          "text": "est",
+          "start": 12.32,
+          "end": 12.4
+        },
+        {
+          "text": "prise",
+          "start": 12.4,
+          "end": 12.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Excusez-moi monsieur,",
+          "translations": {
+            "zh": "打扰一下先生，",
+            "en": "Excuse me sir,",
+            "es": "Disculpe señor,"
+          },
+          "start": 10.16,
+          "end": 11.28
+        },
+        {
+          "text": "est-ce que cette place est prise ?",
+          "translations": {
+            "zh": "这个座位有人吗？",
+            "en": "is this seat taken?",
+            "es": "¿este asiento está ocupado?"
+          },
+          "start": 11.68,
+          "end": 12.88
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Non, non, je vous en prie.",
+      "translations": {
+        "zh": "没有，没有，请坐。",
+        "en": "No, no, please go ahead.",
+        "es": "No, no, por favor."
+      },
+      "start": 13.44,
+      "end": 14.56,
+      "words": [
+        {
+          "text": "Non",
+          "start": 13.44,
+          "end": 13.84
+        },
+        {
+          "text": "non",
+          "start": 13.84,
+          "end": 13.84
+        },
+        {
+          "text": "je",
+          "start": 14.0,
+          "end": 14.16
+        },
+        {
+          "text": "vous",
+          "start": 14.16,
+          "end": 14.24
+        },
+        {
+          "text": "en",
+          "start": 14.32,
+          "end": 14.32
+        },
+        {
+          "text": "prie",
+          "start": 14.32,
+          "end": 14.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Non, non,",
+          "translations": {
+            "zh": "没有，没有，",
+            "en": "No, no,",
+            "es": "No, no,"
+          },
+          "start": 13.44,
+          "end": 13.84
+        },
+        {
+          "text": "je vous en prie.",
+          "translations": {
+            "zh": "请坐。",
+            "en": "please go ahead.",
+            "es": "por favor."
+          },
+          "start": 14.0,
+          "end": 14.56
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Merci.",
+      "translations": {
+        "zh": "谢谢。",
+        "en": "Thank you.",
+        "es": "Gracias."
+      },
+      "start": 15.2,
+      "end": 15.68,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 15.2,
+          "end": 15.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci.",
+          "translations": {
+            "zh": "谢谢。",
+            "en": "Thank you.",
+            "es": "Gracias."
+          },
+          "start": 15.2,
+          "end": 15.68
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Est-ce que c'est à vous, ce magazine ?",
+      "translations": {
+        "zh": "这本杂志是您的吗？",
+        "en": "Is this magazine yours?",
+        "es": "¿Es suya, esta revista?"
+      },
+      "start": 18.0,
+      "end": 19.52,
+      "words": [
+        {
+          "text": "Est",
+          "start": 18.0,
+          "end": 18.08
+        },
+        {
+          "text": "ce",
+          "start": 18.08,
+          "end": 18.16
+        },
+        {
+          "text": "que",
+          "start": 18.16,
+          "end": 18.24
+        },
+        {
+          "text": "c'est",
+          "start": 18.24,
+          "end": 18.48
+        },
+        {
+          "text": "à",
+          "start": 18.56,
+          "end": 18.72
+        },
+        {
+          "text": "vous",
+          "start": 18.72,
+          "end": 18.96
+        },
+        {
+          "text": "ce",
+          "start": 18.96,
+          "end": 19.12
+        },
+        {
+          "text": "magazine",
+          "start": 19.12,
+          "end": 19.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que c'est à vous,",
+          "translations": {
+            "zh": "是您的吗，",
+            "en": "Is it yours,",
+            "es": "¿Es suya,"
+          },
+          "start": 18.0,
+          "end": 18.96
+        },
+        {
+          "text": "ce magazine ?",
+          "translations": {
+            "zh": "这本杂志？",
+            "en": "this magazine?",
+            "es": "esta revista?"
+          },
+          "start": 18.96,
+          "end": 19.52
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Non, vous pouvez le prendre, je viens juste de le lire.",
+      "translations": {
+        "zh": "不是的，您可以拿走，我刚读完。",
+        "en": "No, you can take it, I just finished reading it.",
+        "es": "No, puede tomarlo, acabo de leerlo."
+      },
+      "start": 20.16,
+      "end": 22.88,
+      "words": [
+        {
+          "text": "Non",
+          "start": 20.16,
+          "end": 20.64
+        },
+        {
+          "text": "vous",
+          "start": 20.8,
+          "end": 20.96
+        },
+        {
+          "text": "pouvez",
+          "start": 20.96,
+          "end": 21.12
+        },
+        {
+          "text": "le",
+          "start": 21.12,
+          "end": 21.2
+        },
+        {
+          "text": "prendre",
+          "start": 21.2,
+          "end": 21.6
+        },
+        {
+          "text": "je",
+          "start": 22.08,
+          "end": 22.24
+        },
+        {
+          "text": "viens",
+          "start": 22.24,
+          "end": 22.24
+        },
+        {
+          "text": "juste",
+          "start": 22.24,
+          "end": 22.48
+        },
+        {
+          "text": "de",
+          "start": 22.48,
+          "end": 22.56
+        },
+        {
+          "text": "le",
+          "start": 22.56,
+          "end": 22.64
+        },
+        {
+          "text": "lire",
+          "start": 22.64,
+          "end": 22.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Non,",
+          "translations": {
+            "zh": "不是的，",
+            "en": "No,",
+            "es": "No,"
+          },
+          "start": 20.16,
+          "end": 20.64
+        },
+        {
+          "text": "vous pouvez le prendre,",
+          "translations": {
+            "zh": "您可以拿走，",
+            "en": "you can take it,",
+            "es": "puede tomarlo,"
+          },
+          "start": 20.8,
+          "end": 21.6
+        },
+        {
+          "text": "je viens juste de le lire.",
+          "translations": {
+            "zh": "我刚读完。",
+            "en": "I just finished reading it.",
+            "es": "acabo de leerlo."
+          },
+          "start": 22.08,
+          "end": 22.88
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Ah bon, vous avez eu le temps de tout lire ?",
+      "translations": {
+        "zh": "是吗，您有时间全读完了吗？",
+        "en": "Oh really, you had time to read everything?",
+        "es": "Ah, ¿de verdad ha tenido tiempo de leerlo todo?"
+      },
+      "start": 23.44,
+      "end": 25.44,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 23.44,
+          "end": 23.6
+        },
+        {
+          "text": "bon",
+          "start": 23.6,
+          "end": 23.84
+        },
+        {
+          "text": "vous",
+          "start": 24.4,
+          "end": 24.64
+        },
+        {
+          "text": "avez",
+          "start": 24.64,
+          "end": 24.88
+        },
+        {
+          "text": "eu",
+          "start": 24.88,
+          "end": 24.96
+        },
+        {
+          "text": "le",
+          "start": 24.96,
+          "end": 24.96
+        },
+        {
+          "text": "temps",
+          "start": 24.96,
+          "end": 25.2
+        },
+        {
+          "text": "de",
+          "start": 25.2,
+          "end": 25.2
+        },
+        {
+          "text": "tout",
+          "start": 25.2,
+          "end": 25.36
+        },
+        {
+          "text": "lire",
+          "start": 25.36,
+          "end": 25.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah bon,",
+          "translations": {
+            "zh": "是吗，",
+            "en": "Oh really,",
+            "es": "Ah, ¿de verdad,"
+          },
+          "start": 23.44,
+          "end": 23.84
+        },
+        {
+          "text": "vous avez eu le temps de tout lire ?",
+          "translations": {
+            "zh": "您有时间全读完了吗？",
+            "en": "you had time to read everything?",
+            "es": "ha tenido tiempo de leerlo todo?"
+          },
+          "start": 24.4,
+          "end": 25.44
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Ça fait longtemps que vous attendez ?",
+      "translations": {
+        "zh": "您等了很久了吗？",
+        "en": "Have you been waiting long?",
+        "es": "¿Hace mucho tiempo que espera?"
+      },
+      "start": 26.24,
+      "end": 27.36,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 26.24,
+          "end": 26.4
+        },
+        {
+          "text": "fait",
+          "start": 26.4,
+          "end": 26.48
+        },
+        {
+          "text": "longtemps",
+          "start": 26.48,
+          "end": 26.72
+        },
+        {
+          "text": "que",
+          "start": 26.8,
+          "end": 26.8
+        },
+        {
+          "text": "vous",
+          "start": 26.8,
+          "end": 26.96
+        },
+        {
+          "text": "attendez",
+          "start": 26.96,
+          "end": 27.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça fait longtemps",
+          "translations": {
+            "zh": "很长时间了",
+            "en": "Has it been a long time",
+            "es": "¿Hace mucho tiempo"
+          },
+          "start": 26.24,
+          "end": 26.72
+        },
+        {
+          "text": "que vous attendez ?",
+          "translations": {
+            "zh": "您在等吗？",
+            "en": "that you've been waiting?",
+            "es": "que espera?"
+          },
+          "start": 26.8,
+          "end": 27.36
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Ben, ça fait déjà une vingtaine de minutes.",
+      "translations": {
+        "zh": "嗯，大概已经二十来分钟了。",
+        "en": "Well, it's already been about twenty minutes.",
+        "es": "Bueno, ya hace unas veinte minutos."
+      },
+      "start": 27.52,
+      "end": 29.76,
+      "words": [
+        {
+          "text": "Ben",
+          "start": 27.52,
+          "end": 28.24
+        },
+        {
+          "text": "ça",
+          "start": 28.32,
+          "end": 28.48
+        },
+        {
+          "text": "fait",
+          "start": 28.48,
+          "end": 28.64
+        },
+        {
+          "text": "déjà",
+          "start": 28.64,
+          "end": 28.88
+        },
+        {
+          "text": "une",
+          "start": 28.88,
+          "end": 28.96
+        },
+        {
+          "text": "vingtaine",
+          "start": 28.96,
+          "end": 29.28
+        },
+        {
+          "text": "de",
+          "start": 29.28,
+          "end": 29.36
+        },
+        {
+          "text": "minutes",
+          "start": 29.36,
+          "end": 29.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ben,",
+          "translations": {
+            "zh": "嗯，",
+            "en": "Well,",
+            "es": "Bueno,"
+          },
+          "start": 27.52,
+          "end": 28.24
+        },
+        {
+          "text": "ça fait déjà une vingtaine de minutes.",
+          "translations": {
+            "zh": "大概已经二十来分钟了。",
+            "en": "it's already been about twenty minutes.",
+            "es": "ya hace unas veinte minutos."
+          },
+          "start": 28.32,
+          "end": 29.76
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "D'après ce que j'ai vu, ça ne devrait pas être très long ; mais je suis sûr que vous avez le temps de lire au moins deux ou trois articles !",
+      "translations": {
+        "zh": "据我观察，应该不会太久；但我确定您至少有时间读两三篇文章！",
+        "en": "From what I've seen, it shouldn't be very long; but I'm sure you have time to read at least two or three articles!",
+        "es": "Por lo que he visto, no debería ser muy largo; pero estoy seguro de que tiene tiempo de leer al menos dos o tres artículos."
+      },
+      "start": 30.56,
+      "end": 36.16,
+      "words": [
+        {
+          "text": "D'après",
+          "start": 30.56,
+          "end": 31.04
+        },
+        {
+          "text": "ce",
+          "start": 31.04,
+          "end": 31.04
+        },
+        {
+          "text": "que",
+          "start": 31.04,
+          "end": 31.12
+        },
+        {
+          "text": "j'ai",
+          "start": 31.12,
+          "end": 31.28
+        },
+        {
+          "text": "vu",
+          "start": 31.28,
+          "end": 31.6
+        },
+        {
+          "text": "ça",
+          "start": 31.6,
+          "end": 31.76
+        },
+        {
+          "text": "ne",
+          "start": 31.76,
+          "end": 31.84
+        },
+        {
+          "text": "devrait",
+          "start": 31.84,
+          "end": 32.0
+        },
+        {
+          "text": "pas",
+          "start": 32.0,
+          "end": 32.16
+        },
+        {
+          "text": "être",
+          "start": 32.16,
+          "end": 32.24
+        },
+        {
+          "text": "très",
+          "start": 32.24,
+          "end": 32.48
+        },
+        {
+          "text": "long",
+          "start": 32.48,
+          "end": 32.72
+        },
+        {
+          "text": "mais",
+          "start": 32.72,
+          "end": 33.04
+        },
+        {
+          "text": "je",
+          "start": 33.6,
+          "end": 33.6
+        },
+        {
+          "text": "suis",
+          "start": 33.6,
+          "end": 33.76
+        },
+        {
+          "text": "sûr",
+          "start": 33.76,
+          "end": 33.92
+        },
+        {
+          "text": "que",
+          "start": 33.92,
+          "end": 34.08
+        },
+        {
+          "text": "vous",
+          "start": 34.08,
+          "end": 34.24
+        },
+        {
+          "text": "avez",
+          "start": 34.24,
+          "end": 34.32
+        },
+        {
+          "text": "le",
+          "start": 34.32,
+          "end": 34.4
+        },
+        {
+          "text": "temps",
+          "start": 34.4,
+          "end": 34.56
+        },
+        {
+          "text": "de",
+          "start": 34.56,
+          "end": 34.64
+        },
+        {
+          "text": "lire",
+          "start": 34.64,
+          "end": 34.72
+        },
+        {
+          "text": "au",
+          "start": 34.72,
+          "end": 34.8
+        },
+        {
+          "text": "moins",
+          "start": 34.8,
+          "end": 35.2
+        },
+        {
+          "text": "deux",
+          "start": 35.28,
+          "end": 35.36
+        },
+        {
+          "text": "ou",
+          "start": 35.36,
+          "end": 35.52
+        },
+        {
+          "text": "trois",
+          "start": 35.52,
+          "end": 35.76
+        },
+        {
+          "text": "articles",
+          "start": 35.76,
+          "end": 36.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'après ce que j'ai vu,",
+          "translations": {
+            "zh": "据我观察，",
+            "en": "From what I've seen,",
+            "es": "Por lo que he visto,"
+          },
+          "start": 30.56,
+          "end": 31.6
+        },
+        {
+          "text": "ça ne devrait pas être très long ;",
+          "translations": {
+            "zh": "应该不会太久；",
+            "en": "it shouldn't be very long;",
+            "es": "no debería ser muy largo;"
+          },
+          "start": 31.6,
+          "end": 32.72
+        },
+        {
+          "text": "mais je suis sûr",
+          "translations": {
+            "zh": "但我确定",
+            "en": "but I'm sure",
+            "es": "pero estoy seguro"
+          },
+          "start": 32.72,
+          "end": 33.92
+        },
+        {
+          "text": "que vous avez le temps de lire au moins deux ou trois articles !",
+          "translations": {
+            "zh": "您至少有时间读两三篇文章！",
+            "en": "that you have time to read at least two or three articles!",
+            "es": "de que tiene tiempo de leer al menos dos o tres artículos."
+          },
+          "start": 33.92,
+          "end": 36.16
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Ah, merci.",
+      "translations": {
+        "zh": "啊，谢谢。",
+        "en": "Oh, thank you.",
+        "es": "Ah, gracias."
+      },
+      "start": 36.72,
+      "end": 37.44,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 36.72,
+          "end": 36.88
+        },
+        {
+          "text": "merci",
+          "start": 36.88,
+          "end": 37.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah,",
+          "translations": {
+            "zh": "啊，",
+            "en": "Oh,",
+            "es": "Ah,"
+          },
+          "start": 36.72,
+          "end": 36.88
+        },
+        {
+          "text": "merci.",
+          "translations": {
+            "zh": "谢谢。",
+            "en": "thank you.",
+            "es": "gracias."
+          },
+          "start": 36.88,
+          "end": 37.44
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Avez-vous lu quelque chose d'intéressant ?",
+      "translations": {
+        "zh": "您读了什么有趣的内容吗？",
+        "en": "Did you read anything interesting?",
+        "es": "¿Ha leído algo interesante?"
+      },
+      "start": 37.92,
+      "end": 39.36,
+      "words": [
+        {
+          "text": "Avez",
+          "start": 37.92,
+          "end": 38.16
+        },
+        {
+          "text": "vous",
+          "start": 38.16,
+          "end": 38.24
+        },
+        {
+          "text": "lu",
+          "start": 38.24,
+          "end": 38.4
+        },
+        {
+          "text": "quelque",
+          "start": 38.4,
+          "end": 38.56
+        },
+        {
+          "text": "chose",
+          "start": 38.56,
+          "end": 38.8
+        },
+        {
+          "text": "d'intéressant",
+          "start": 38.8,
+          "end": 39.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Avez-vous lu",
+          "translations": {
+            "zh": "您读了",
+            "en": "Did you read",
+            "es": "¿Ha leído"
+          },
+          "start": 37.92,
+          "end": 38.4
+        },
+        {
+          "text": "quelque chose d'intéressant ?",
+          "translations": {
+            "zh": "什么有趣的内容吗？",
+            "en": "anything interesting?",
+            "es": "algo interesante?"
+          },
+          "start": 38.4,
+          "end": 39.36
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Oui, il y a un article sur Ariane Moffatt.",
+      "translations": {
+        "zh": "是的，有一篇关于Ariane Moffatt的文章。",
+        "en": "Yes, there's an article about Ariane Moffatt.",
+        "es": "Sí, hay un artículo sobre Ariane Moffatt."
+      },
+      "start": 39.84,
+      "end": 42.16,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 39.84,
+          "end": 40.0
+        },
+        {
+          "text": "il",
+          "start": 40.0,
+          "end": 40.08
+        },
+        {
+          "text": "y",
+          "start": 40.08,
+          "end": 40.24
+        },
+        {
+          "text": "a",
+          "start": 40.24,
+          "end": 40.24
+        },
+        {
+          "text": "un",
+          "start": 40.24,
+          "end": 40.32
+        },
+        {
+          "text": "article",
+          "start": 40.32,
+          "end": 40.88
+        },
+        {
+          "text": "sur",
+          "start": 40.88,
+          "end": 41.2
+        },
+        {
+          "text": "Ariane",
+          "start": 41.2,
+          "end": 41.6
+        },
+        {
+          "text": "Moffatt",
+          "start": 41.6,
+          "end": 42.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 39.84,
+          "end": 40.0
+        },
+        {
+          "text": "il y a un article sur Ariane Moffatt.",
+          "translations": {
+            "zh": "有一篇关于Ariane Moffatt的文章。",
+            "en": "there's an article about Ariane Moffatt.",
+            "es": "hay un artículo sobre Ariane Moffatt."
+          },
+          "start": 40.0,
+          "end": 42.16
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Vous la connaissez ?",
+      "translations": {
+        "zh": "您认识她吗？",
+        "en": "Do you know her?",
+        "es": "¿La conoce?"
+      },
+      "start": 42.48,
+      "end": 43.04,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 42.48,
+          "end": 42.56
+        },
+        {
+          "text": "la",
+          "start": 42.56,
+          "end": 42.64
+        },
+        {
+          "text": "connaissez",
+          "start": 42.64,
+          "end": 43.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous la connaissez ?",
+          "translations": {
+            "zh": "您认识她吗？",
+            "en": "Do you know her?",
+            "es": "¿La conoce?"
+          },
+          "start": 42.48,
+          "end": 43.04
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Oui, j'aime bien cette chanteuse, mais je ne l'ai jamais vue en concert.",
+      "translations": {
+        "zh": "是的，我很喜欢这位歌手，但我从来没看过她的演唱会。",
+        "en": "Yes, I quite like this singer, but I've never seen her in concert.",
+        "es": "Sí, me gusta esta cantante, pero nunca la he visto en concierto."
+      },
+      "start": 43.68,
+      "end": 46.8,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 43.68,
+          "end": 44.08
+        },
+        {
+          "text": "j'aime",
+          "start": 44.08,
+          "end": 44.32
+        },
+        {
+          "text": "bien",
+          "start": 44.32,
+          "end": 44.48
+        },
+        {
+          "text": "cette",
+          "start": 44.48,
+          "end": 44.72
+        },
+        {
+          "text": "chanteuse",
+          "start": 44.72,
+          "end": 45.28
+        },
+        {
+          "text": "mais",
+          "start": 45.28,
+          "end": 45.52
+        },
+        {
+          "text": "je",
+          "start": 45.52,
+          "end": 45.6
+        },
+        {
+          "text": "ne",
+          "start": 45.6,
+          "end": 45.76
+        },
+        {
+          "text": "l'ai",
+          "start": 45.76,
+          "end": 45.76
+        },
+        {
+          "text": "jamais",
+          "start": 45.76,
+          "end": 46.0
+        },
+        {
+          "text": "vue",
+          "start": 46.0,
+          "end": 46.08
+        },
+        {
+          "text": "en",
+          "start": 46.08,
+          "end": 46.24
+        },
+        {
+          "text": "concert",
+          "start": 46.24,
+          "end": 46.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 43.68,
+          "end": 44.08
+        },
+        {
+          "text": "j'aime bien cette chanteuse,",
+          "translations": {
+            "zh": "我很喜欢这位歌手，",
+            "en": "I quite like this singer,",
+            "es": "me gusta esta cantante,"
+          },
+          "start": 44.08,
+          "end": 45.28
+        },
+        {
+          "text": "mais je ne l'ai jamais vue en concert.",
+          "translations": {
+            "zh": "但我从来没看过她的演唱会。",
+            "en": "but I've never seen her in concert.",
+            "es": "pero nunca la he visto en concierto."
+          },
+          "start": 45.28,
+          "end": 46.8
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Vous ?",
+      "translations": {
+        "zh": "您呢？",
+        "en": "You?",
+        "es": "¿Usted?"
+      },
+      "start": 46.96,
+      "end": 47.2,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 46.96,
+          "end": 47.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous ?",
+          "translations": {
+            "zh": "您呢？",
+            "en": "You?",
+            "es": "¿Usted?"
+          },
+          "start": 46.96,
+          "end": 47.2
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Moi non plus.",
+      "translations": {
+        "zh": "我也没看过。",
+        "en": "Me neither.",
+        "es": "Yo tampoco."
+      },
+      "start": 47.84,
+      "end": 48.48,
+      "words": [
+        {
+          "text": "Moi",
+          "start": 47.84,
+          "end": 48.08
+        },
+        {
+          "text": "non",
+          "start": 48.08,
+          "end": 48.16
+        },
+        {
+          "text": "plus",
+          "start": 48.16,
+          "end": 48.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Moi non plus.",
+          "translations": {
+            "zh": "我也没看过。",
+            "en": "Me neither.",
+            "es": "Yo tampoco."
+          },
+          "start": 47.84,
+          "end": 48.48
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Mais, maintenant que j'ai lu l'article et que je connais un peu plus son parcours, j'ai bien envie d'y aller.",
+      "translations": {
+        "zh": "但是，既然我已经读了那篇文章，又多了解了一些她的经历，我很想去看看。",
+        "en": "But, now that I've read the article and I know a bit more about her background, I really feel like going.",
+        "es": "Pero, ahora que he leído el artículo y que conozco un poco más su trayectoria, tengo muchas ganas de ir."
+      },
+      "start": 48.96,
+      "end": 53.76,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 48.96,
+          "end": 49.12
+        },
+        {
+          "text": "maintenant",
+          "start": 49.12,
+          "end": 49.44
+        },
+        {
+          "text": "que",
+          "start": 49.52,
+          "end": 49.6
+        },
+        {
+          "text": "j'ai",
+          "start": 49.6,
+          "end": 49.68
+        },
+        {
+          "text": "lu",
+          "start": 49.68,
+          "end": 49.76
+        },
+        {
+          "text": "l'article",
+          "start": 49.76,
+          "end": 50.4
+        },
+        {
+          "text": "et",
+          "start": 50.4,
+          "end": 50.4
+        },
+        {
+          "text": "que",
+          "start": 50.4,
+          "end": 50.72
+        },
+        {
+          "text": "je",
+          "start": 50.72,
+          "end": 50.88
+        },
+        {
+          "text": "connais",
+          "start": 50.88,
+          "end": 51.12
+        },
+        {
+          "text": "un",
+          "start": 51.12,
+          "end": 51.2
+        },
+        {
+          "text": "peu",
+          "start": 51.2,
+          "end": 51.36
+        },
+        {
+          "text": "plus",
+          "start": 51.36,
+          "end": 51.52
+        },
+        {
+          "text": "son",
+          "start": 51.52,
+          "end": 51.76
+        },
+        {
+          "text": "parcours",
+          "start": 51.76,
+          "end": 52.24
+        },
+        {
+          "text": "j'ai",
+          "start": 52.88,
+          "end": 53.04
+        },
+        {
+          "text": "bien",
+          "start": 53.04,
+          "end": 53.2
+        },
+        {
+          "text": "envie",
+          "start": 53.2,
+          "end": 53.36
+        },
+        {
+          "text": "d'y",
+          "start": 53.36,
+          "end": 53.52
+        },
+        {
+          "text": "aller",
+          "start": 53.52,
+          "end": 53.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais,",
+          "translations": {
+            "zh": "但是，",
+            "en": "But,",
+            "es": "Pero,"
+          },
+          "start": 48.96,
+          "end": 49.12
+        },
+        {
+          "text": "maintenant que j'ai lu l'article",
+          "translations": {
+            "zh": "既然我已经读了那篇文章",
+            "en": "now that I've read the article",
+            "es": "ahora que he leído el artículo"
+          },
+          "start": 49.12,
+          "end": 50.4
+        },
+        {
+          "text": "et que je connais un peu plus son parcours,",
+          "translations": {
+            "zh": "又多了解了一些她的经历，",
+            "en": "and I know a bit more about her background,",
+            "es": "y que conozco un poco más su trayectoria,"
+          },
+          "start": 50.4,
+          "end": 52.24
+        },
+        {
+          "text": "j'ai bien envie d'y aller.",
+          "translations": {
+            "zh": "我很想去看看。",
+            "en": "I really feel like going.",
+            "es": "tengo muchas ganas de ir."
+          },
+          "start": 52.88,
+          "end": 53.76
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Vraiment ?",
+      "translations": {
+        "zh": "真的吗？",
+        "en": "Really?",
+        "es": "¿De verdad?"
+      },
+      "start": 54.08,
+      "end": 54.56,
+      "words": [
+        {
+          "text": "Vraiment",
+          "start": 54.08,
+          "end": 54.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vraiment ?",
+          "translations": {
+            "zh": "真的吗？",
+            "en": "Really?",
+            "es": "¿De verdad?"
+          },
+          "start": 54.08,
+          "end": 54.56
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Alors je vais le lire !",
+      "translations": {
+        "zh": "那我要读一读！",
+        "en": "Then I'm going to read it!",
+        "es": "¡Entonces voy a leerlo!"
+      },
+      "start": 55.12,
+      "end": 55.84,
+      "words": [
+        {
+          "text": "Alors",
+          "start": 55.12,
+          "end": 55.28
+        },
+        {
+          "text": "je",
+          "start": 55.28,
+          "end": 55.36
+        },
+        {
+          "text": "vais",
+          "start": 55.36,
+          "end": 55.52
+        },
+        {
+          "text": "le",
+          "start": 55.52,
+          "end": 55.6
+        },
+        {
+          "text": "lire",
+          "start": 55.6,
+          "end": 55.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Alors",
+          "translations": {
+            "zh": "那",
+            "en": "Then",
+            "es": "¡Entonces"
+          },
+          "start": 55.12,
+          "end": 55.28
+        },
+        {
+          "text": "je vais le lire !",
+          "translations": {
+            "zh": "我要读一读！",
+            "en": "I'm going to read it!",
+            "es": "voy a leerlo!"
+          },
+          "start": 55.28,
+          "end": 55.84
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Monsieur Tremblay !",
+      "translations": {
+        "zh": "Tremblay先生！",
+        "en": "Mr. Tremblay!",
+        "es": "¡Señor Tremblay!"
+      },
+      "start": 56.56,
+      "end": 57.92,
+      "words": [
+        {
+          "text": "Monsieur",
+          "start": 56.56,
+          "end": 57.28
+        },
+        {
+          "text": "Tremblay",
+          "start": 57.28,
+          "end": 57.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Monsieur Tremblay !",
+          "translations": {
+            "zh": "Tremblay先生！",
+            "en": "Mr. Tremblay!",
+            "es": "¡Señor Tremblay!"
+          },
+          "start": 56.56,
+          "end": 57.92
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Oh, c'est à mon tour.",
+      "translations": {
+        "zh": "哦，轮到我了。",
+        "en": "Oh, it's my turn.",
+        "es": "Oh, me toca a mí."
+      },
+      "start": 59.04,
+      "end": 60.0,
+      "words": [
+        {
+          "text": "Oh",
+          "start": 59.04,
+          "end": 59.12
+        },
+        {
+          "text": "c'est",
+          "start": 59.28,
+          "end": 59.44
+        },
+        {
+          "text": "à",
+          "start": 59.44,
+          "end": 59.52
+        },
+        {
+          "text": "mon",
+          "start": 59.52,
+          "end": 59.68
+        },
+        {
+          "text": "tour",
+          "start": 59.68,
+          "end": 60.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oh,",
+          "translations": {
+            "zh": "哦，",
+            "en": "Oh,",
+            "es": "Oh,"
+          },
+          "start": 59.04,
+          "end": 59.12
+        },
+        {
+          "text": "c'est à mon tour.",
+          "translations": {
+            "zh": "轮到我了。",
+            "en": "it's my turn.",
+            "es": "me toca a mí."
+          },
+          "start": 59.28,
+          "end": 60.0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Bonne lecture !",
+      "translations": {
+        "zh": "祝您阅读愉快！",
+        "en": "Enjoy your reading!",
+        "es": "¡Buena lectura!"
+      },
+      "start": 60.32,
+      "end": 60.8,
+      "words": [
+        {
+          "text": "Bonne",
+          "start": 60.32,
+          "end": 60.48
+        },
+        {
+          "text": "lecture",
+          "start": 60.48,
+          "end": 60.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonne lecture !",
+          "translations": {
+            "zh": "祝您阅读愉快！",
+            "en": "Enjoy your reading!",
+            "es": "¡Buena lectura!"
+          },
+          "start": 60.32,
+          "end": 60.8
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Merci !",
+      "translations": {
+        "zh": "谢谢！",
+        "en": "Thank you!",
+        "es": "¡Gracias!"
+      },
+      "start": 61.28,
+      "end": 61.76,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 61.28,
+          "end": 61.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci !",
+          "translations": {
+            "zh": "谢谢！",
+            "en": "Thank you!",
+            "es": "¡Gracias!"
+          },
+          "start": 61.28,
+          "end": 61.76
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP18_P38",
+  "audio_filename": "FLS2_EP18_P38.mp3",
+  "audio_path": "downloads/FLS2_EP18_P38.mp3",
+  "episode": 18,
+  "piste": 38,
+  "page": 136,
+  "cd": "CD2"
+}

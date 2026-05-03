@@ -1,0 +1,1961 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 16 Piste 34 Page 127",
+      "translations": {
+        "zh": "第16集 第34轨 第127页",
+        "en": "Episode 16 Track 34 Page 127",
+        "es": "Episodio 16 Pista 34 Página 127"
+      },
+      "start": 0.72,
+      "end": 8.32,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.72,
+          "end": 1.44
+        },
+        {
+          "text": "16",
+          "start": 1.68,
+          "end": 2.32
+        },
+        {
+          "text": "Piste",
+          "start": 3.28,
+          "end": 3.68
+        },
+        {
+          "text": "34",
+          "start": 4.0,
+          "end": 4.88
+        },
+        {
+          "text": "Page",
+          "start": 4.88,
+          "end": 4.88
+        },
+        {
+          "text": "127",
+          "start": 6.56,
+          "end": 8.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 16",
+          "translations": {
+            "zh": "第16集",
+            "en": "Episode 16",
+            "es": "Episodio 16"
+          },
+          "start": 0.72,
+          "end": 2.32
+        },
+        {
+          "text": "Piste 34",
+          "translations": {
+            "zh": "第34轨",
+            "en": "Track 34",
+            "es": "Pista 34"
+          },
+          "start": 3.28,
+          "end": 4.88
+        },
+        {
+          "text": "Page 127",
+          "translations": {
+            "zh": "第127页",
+            "en": "Page 127",
+            "es": "Página 127"
+          },
+          "start": 4.88,
+          "end": 8.32
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Touriste 1 : C'est la première fois que vous venez dans la région ?",
+      "translations": {
+        "zh": "游客1：您是第一次来这个地区吗？",
+        "en": "Tourist 1: Is this the first time you've come to the region?",
+        "es": "Turista 1: ¿Es la primera vez que viene a la región?"
+      },
+      "start": 8.32,
+      "end": 11.44,
+      "words": [
+        {
+          "text": "Touriste",
+          "start": 8.32,
+          "end": 8.32
+        },
+        {
+          "text": "1",
+          "start": 9.84,
+          "end": 9.84
+        },
+        {
+          "text": "C'est",
+          "start": 9.84,
+          "end": 9.92
+        },
+        {
+          "text": "la",
+          "start": 10.0,
+          "end": 10.08
+        },
+        {
+          "text": "première",
+          "start": 10.08,
+          "end": 10.4
+        },
+        {
+          "text": "fois",
+          "start": 10.4,
+          "end": 10.56
+        },
+        {
+          "text": "que",
+          "start": 10.56,
+          "end": 10.64
+        },
+        {
+          "text": "vous",
+          "start": 10.64,
+          "end": 10.72
+        },
+        {
+          "text": "venez",
+          "start": 10.72,
+          "end": 10.88
+        },
+        {
+          "text": "dans",
+          "start": 10.88,
+          "end": 11.04
+        },
+        {
+          "text": "la",
+          "start": 11.04,
+          "end": 11.12
+        },
+        {
+          "text": "région",
+          "start": 11.12,
+          "end": 11.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Touriste 1 :",
+          "translations": {
+            "zh": "游客1：",
+            "en": "Tourist 1:",
+            "es": "Turista 1:"
+          },
+          "start": 8.32,
+          "end": 9.84
+        },
+        {
+          "text": "C'est la première fois",
+          "translations": {
+            "zh": "这是第一次",
+            "en": "It's the first time",
+            "es": "Es la primera vez"
+          },
+          "start": 9.84,
+          "end": 10.56
+        },
+        {
+          "text": "que vous venez dans la région ?",
+          "translations": {
+            "zh": "您来这个地区的吗？",
+            "en": "that you've come to the region?",
+            "es": "que viene a la región?"
+          },
+          "start": 10.56,
+          "end": 11.44
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Oui.",
+      "translations": {
+        "zh": "是的。",
+        "en": "Yes.",
+        "es": "Sí."
+      },
+      "start": 12.0,
+      "end": 12.24,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 12.0,
+          "end": 12.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui.",
+          "translations": {
+            "zh": "是的。",
+            "en": "Yes.",
+            "es": "Sí."
+          },
+          "start": 12.0,
+          "end": 12.24
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Touriste 1 : Puis, comment vous trouvez ça ?",
+      "translations": {
+        "zh": "游客1：那么，您觉得怎么样？",
+        "en": "Tourist 1: So, how do you find it?",
+        "es": "Turista 1: Entonces, ¿qué le parece?"
+      },
+      "start": 12.64,
+      "end": 14.08,
+      "words": [
+        {
+          "text": "Touriste",
+          "start": 12.64,
+          "end": 13.04
+        },
+        {
+          "text": "1",
+          "start": 13.28,
+          "end": 13.28
+        },
+        {
+          "text": "Puis",
+          "start": 13.28,
+          "end": 13.28
+        },
+        {
+          "text": "comment",
+          "start": 13.28,
+          "end": 13.44
+        },
+        {
+          "text": "vous",
+          "start": 13.44,
+          "end": 13.6
+        },
+        {
+          "text": "trouvez",
+          "start": 13.6,
+          "end": 13.76
+        },
+        {
+          "text": "ça",
+          "start": 13.76,
+          "end": 14.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Touriste 1 :",
+          "translations": {
+            "zh": "游客1：",
+            "en": "Tourist 1:",
+            "es": "Turista 1:"
+          },
+          "start": 12.64,
+          "end": 13.28
+        },
+        {
+          "text": "Puis,",
+          "translations": {
+            "zh": "那么，",
+            "en": "So,",
+            "es": "Entonces,"
+          },
+          "start": 13.28,
+          "end": 13.28
+        },
+        {
+          "text": "comment vous trouvez ça ?",
+          "translations": {
+            "zh": "您觉得怎么样？",
+            "en": "how do you find it?",
+            "es": "¿qué le parece?"
+          },
+          "start": 13.28,
+          "end": 14.08
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "J'adore ça !",
+      "translations": {
+        "zh": "我太喜欢了！",
+        "en": "I love it!",
+        "es": "¡Me encanta!"
+      },
+      "start": 14.32,
+      "end": 15.12,
+      "words": [
+        {
+          "text": "J'adore",
+          "start": 14.32,
+          "end": 14.8
+        },
+        {
+          "text": "ça",
+          "start": 14.8,
+          "end": 15.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'adore ça !",
+          "translations": {
+            "zh": "我太喜欢了！",
+            "en": "I love it!",
+            "es": "¡Me encanta!"
+          },
+          "start": 14.32,
+          "end": 15.12
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Les paysages sont fabuleux et les gens sont super sympathiques.",
+      "translations": {
+        "zh": "风景美极了，人们也超级友善。",
+        "en": "The landscapes are fabulous and the people are super friendly.",
+        "es": "Los paisajes son fabulosos y la gente es muy amable."
+      },
+      "start": 15.76,
+      "end": 18.88,
+      "words": [
+        {
+          "text": "Les",
+          "start": 15.76,
+          "end": 15.92
+        },
+        {
+          "text": "paysages",
+          "start": 15.92,
+          "end": 16.48
+        },
+        {
+          "text": "sont",
+          "start": 16.48,
+          "end": 16.64
+        },
+        {
+          "text": "fabuleux",
+          "start": 16.64,
+          "end": 17.28
+        },
+        {
+          "text": "et",
+          "start": 17.28,
+          "end": 17.44
+        },
+        {
+          "text": "les",
+          "start": 17.44,
+          "end": 17.52
+        },
+        {
+          "text": "gens",
+          "start": 17.52,
+          "end": 17.68
+        },
+        {
+          "text": "sont",
+          "start": 17.68,
+          "end": 17.84
+        },
+        {
+          "text": "super",
+          "start": 17.84,
+          "end": 18.24
+        },
+        {
+          "text": "sympathiques",
+          "start": 18.24,
+          "end": 18.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les paysages sont fabuleux",
+          "translations": {
+            "zh": "风景美极了",
+            "en": "The landscapes are fabulous",
+            "es": "Los paisajes son fabulosos"
+          },
+          "start": 15.76,
+          "end": 17.28
+        },
+        {
+          "text": "et les gens sont super sympathiques.",
+          "translations": {
+            "zh": "人们也超级友善。",
+            "en": "and the people are super friendly.",
+            "es": "y la gente es muy amable."
+          },
+          "start": 17.28,
+          "end": 18.88
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Touriste 1 : Où est-ce que vous êtes allée ?",
+      "translations": {
+        "zh": "游客1：您去了哪里？",
+        "en": "Tourist 1: Where did you go?",
+        "es": "Turista 1: ¿A dónde ha ido?"
+      },
+      "start": 19.52,
+      "end": 20.32,
+      "words": [
+        {
+          "text": "Touriste",
+          "start": 19.52,
+          "end": 19.68
+        },
+        {
+          "text": "1",
+          "start": 19.68,
+          "end": 19.68
+        },
+        {
+          "text": "Où",
+          "start": 19.76,
+          "end": 19.76
+        },
+        {
+          "text": "est",
+          "start": 19.76,
+          "end": 19.76
+        },
+        {
+          "text": "ce",
+          "start": 19.76,
+          "end": 19.76
+        },
+        {
+          "text": "que",
+          "start": 19.76,
+          "end": 19.76
+        },
+        {
+          "text": "vous",
+          "start": 19.76,
+          "end": 19.92
+        },
+        {
+          "text": "êtes",
+          "start": 19.92,
+          "end": 20.08
+        },
+        {
+          "text": "allée",
+          "start": 20.08,
+          "end": 20.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Touriste 1 :",
+          "translations": {
+            "zh": "游客1：",
+            "en": "Tourist 1:",
+            "es": "Turista 1:"
+          },
+          "start": 19.52,
+          "end": 19.68
+        },
+        {
+          "text": "Où est-ce que vous êtes allée ?",
+          "translations": {
+            "zh": "您去了哪里？",
+            "en": "Where did you go?",
+            "es": "¿A dónde ha ido?"
+          },
+          "start": 19.76,
+          "end": 20.32
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Je suis allée à la côte magnétique, au parc Tidal Bore...",
+      "translations": {
+        "zh": "我去了磁力海岸、潮汐波公园……",
+        "en": "I went to the magnetic coast, to Tidal Bore park...",
+        "es": "Fui a la costa magnética, al parque Tidal Bore..."
+      },
+      "start": 20.72,
+      "end": 24.08,
+      "words": [
+        {
+          "text": "Je",
+          "start": 20.72,
+          "end": 20.8
+        },
+        {
+          "text": "suis",
+          "start": 20.8,
+          "end": 21.04
+        },
+        {
+          "text": "allée",
+          "start": 21.04,
+          "end": 21.2
+        },
+        {
+          "text": "à",
+          "start": 21.2,
+          "end": 21.28
+        },
+        {
+          "text": "la",
+          "start": 21.28,
+          "end": 21.36
+        },
+        {
+          "text": "côte",
+          "start": 21.36,
+          "end": 21.6
+        },
+        {
+          "text": "magnétique",
+          "start": 21.6,
+          "end": 22.48
+        },
+        {
+          "text": "au",
+          "start": 22.88,
+          "end": 23.04
+        },
+        {
+          "text": "parc",
+          "start": 23.04,
+          "end": 23.36
+        },
+        {
+          "text": "Tidal",
+          "start": 23.36,
+          "end": 23.76
+        },
+        {
+          "text": "Bore",
+          "start": 23.76,
+          "end": 24.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis allée à la côte magnétique,",
+          "translations": {
+            "zh": "我去了磁力海岸，",
+            "en": "I went to the magnetic coast,",
+            "es": "Fui a la costa magnética,"
+          },
+          "start": 20.72,
+          "end": 22.48
+        },
+        {
+          "text": "au parc Tidal Bore...",
+          "translations": {
+            "zh": "潮汐波公园……",
+            "en": "to Tidal Bore park...",
+            "es": "al parque Tidal Bore..."
+          },
+          "start": 22.88,
+          "end": 24.08
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Touriste 2 : Avez-vous été au parc des rochers Hopewell Rocks ?",
+      "translations": {
+        "zh": "游客2：您去过霍普韦尔岩石公园吗？",
+        "en": "Tourist 2: Have you been to Hopewell Rocks park?",
+        "es": "Turista 2: ¿Ha ido al parque de las rocas Hopewell Rocks?"
+      },
+      "start": 24.64,
+      "end": 27.12,
+      "words": [
+        {
+          "text": "Touriste",
+          "start": 24.64,
+          "end": 24.672
+        },
+        {
+          "text": "2",
+          "start": 24.704,
+          "end": 24.736
+        },
+        {
+          "text": "Avez",
+          "start": 24.768,
+          "end": 24.8
+        },
+        {
+          "text": "vous",
+          "start": 24.8,
+          "end": 25.04
+        },
+        {
+          "text": "été",
+          "start": 25.04,
+          "end": 25.12
+        },
+        {
+          "text": "au",
+          "start": 25.12,
+          "end": 25.28
+        },
+        {
+          "text": "parc",
+          "start": 25.28,
+          "end": 25.6
+        },
+        {
+          "text": "des",
+          "start": 25.6,
+          "end": 25.76
+        },
+        {
+          "text": "rochers",
+          "start": 25.76,
+          "end": 26.08
+        },
+        {
+          "text": "Hopewell",
+          "start": 26.16,
+          "end": 26.56
+        },
+        {
+          "text": "Rocks",
+          "start": 26.56,
+          "end": 27.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Touriste 2 :",
+          "translations": {
+            "zh": "游客2：",
+            "en": "Tourist 2:",
+            "es": "Turista 2:"
+          },
+          "start": 24.64,
+          "end": 24.736
+        },
+        {
+          "text": "Avez-vous été au parc des rochers Hopewell Rocks ?",
+          "translations": {
+            "zh": "您去过霍普韦尔岩石公园吗？",
+            "en": "Have you been to Hopewell Rocks park?",
+            "es": "¿Ha ido al parque de las rocas Hopewell Rocks?"
+          },
+          "start": 24.768,
+          "end": 27.12
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Oui, après être allée au phare du cap Enragé.",
+      "translations": {
+        "zh": "是的，在去了愤怒角灯塔之后。",
+        "en": "Yes, after going to Cape Enrage lighthouse.",
+        "es": "Sí, después de haber ido al faro del cabo Enragé."
+      },
+      "start": 27.44,
+      "end": 29.92,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 27.44,
+          "end": 28.0
+        },
+        {
+          "text": "après",
+          "start": 28.0,
+          "end": 28.32
+        },
+        {
+          "text": "être",
+          "start": 28.32,
+          "end": 28.4
+        },
+        {
+          "text": "allée",
+          "start": 28.4,
+          "end": 28.56
+        },
+        {
+          "text": "au",
+          "start": 28.56,
+          "end": 28.72
+        },
+        {
+          "text": "phare",
+          "start": 28.72,
+          "end": 29.04
+        },
+        {
+          "text": "du",
+          "start": 29.04,
+          "end": 29.2
+        },
+        {
+          "text": "cap",
+          "start": 29.2,
+          "end": 29.36
+        },
+        {
+          "text": "Enragé",
+          "start": 29.36,
+          "end": 29.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 27.44,
+          "end": 28.0
+        },
+        {
+          "text": "après être allée au phare du cap Enragé.",
+          "translations": {
+            "zh": "在去了愤怒角灯塔之后。",
+            "en": "after going to Cape Enrage lighthouse.",
+            "es": "después de haber ido al faro del cabo Enragé."
+          },
+          "start": 28.0,
+          "end": 29.92
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Touriste 2 : Quels beaux paysages, hein ?",
+      "translations": {
+        "zh": "游客2：多美的风景啊，是不是？",
+        "en": "Tourist 2: What beautiful landscapes, huh?",
+        "es": "Turista 2: ¡Qué paisajes tan bonitos, eh!"
+      },
+      "start": 30.56,
+      "end": 32.0,
+      "words": [
+        {
+          "text": "Touriste",
+          "start": 30.56,
+          "end": 30.8
+        },
+        {
+          "text": "2",
+          "start": 30.88,
+          "end": 31.04
+        },
+        {
+          "text": "Quels",
+          "start": 31.04,
+          "end": 31.04
+        },
+        {
+          "text": "beaux",
+          "start": 31.04,
+          "end": 31.04
+        },
+        {
+          "text": "paysages",
+          "start": 31.04,
+          "end": 31.84
+        },
+        {
+          "text": "hein",
+          "start": 31.84,
+          "end": 32.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Touriste 2 :",
+          "translations": {
+            "zh": "游客2：",
+            "en": "Tourist 2:",
+            "es": "Turista 2:"
+          },
+          "start": 30.56,
+          "end": 31.04
+        },
+        {
+          "text": "Quels beaux paysages, hein ?",
+          "translations": {
+            "zh": "多美的风景啊，是不是？",
+            "en": "What beautiful landscapes, huh?",
+            "es": "¡Qué paisajes tan bonitos, eh!"
+          },
+          "start": 31.04,
+          "end": 32.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Incroyables !",
+      "translations": {
+        "zh": "太不可思议了！",
+        "en": "Incredible!",
+        "es": "¡Increíbles!"
+      },
+      "start": 32.48,
+      "end": 33.28,
+      "words": [
+        {
+          "text": "Incroyables",
+          "start": 32.48,
+          "end": 33.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Incroyables !",
+          "translations": {
+            "zh": "太不可思议了！",
+            "en": "Incredible!",
+            "es": "¡Increíbles!"
+          },
+          "start": 32.48,
+          "end": 33.28
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Je regrette de ne pas avoir pris ma caméra.",
+      "translations": {
+        "zh": "我后悔没有带我的相机。",
+        "en": "I regret not having brought my camera.",
+        "es": "Lamento no haber traído mi cámara."
+      },
+      "start": 33.92,
+      "end": 35.76,
+      "words": [
+        {
+          "text": "Je",
+          "start": 33.92,
+          "end": 34.0
+        },
+        {
+          "text": "regrette",
+          "start": 34.0,
+          "end": 34.4
+        },
+        {
+          "text": "de",
+          "start": 34.4,
+          "end": 34.48
+        },
+        {
+          "text": "ne",
+          "start": 34.56,
+          "end": 34.64
+        },
+        {
+          "text": "pas",
+          "start": 34.64,
+          "end": 34.8
+        },
+        {
+          "text": "avoir",
+          "start": 34.8,
+          "end": 35.04
+        },
+        {
+          "text": "pris",
+          "start": 35.04,
+          "end": 35.2
+        },
+        {
+          "text": "ma",
+          "start": 35.2,
+          "end": 35.28
+        },
+        {
+          "text": "caméra",
+          "start": 35.28,
+          "end": 35.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je regrette",
+          "translations": {
+            "zh": "我后悔",
+            "en": "I regret",
+            "es": "Lamento"
+          },
+          "start": 33.92,
+          "end": 34.4
+        },
+        {
+          "text": "de ne pas avoir pris ma caméra.",
+          "translations": {
+            "zh": "没有带我的相机。",
+            "en": "not having brought my camera.",
+            "es": "no haber traído mi cámara."
+          },
+          "start": 34.4,
+          "end": 35.76
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Et vous, êtes-vous déjà venus dans le coin ?",
+      "translations": {
+        "zh": "你们呢，你们以前来过这附近吗？",
+        "en": "And you, have you already been to the area?",
+        "es": "¿Y ustedes, ya han venido por aquí?"
+      },
+      "start": 36.8,
+      "end": 38.48,
+      "words": [
+        {
+          "text": "Et",
+          "start": 36.8,
+          "end": 36.96
+        },
+        {
+          "text": "vous",
+          "start": 36.96,
+          "end": 37.12
+        },
+        {
+          "text": "êtes",
+          "start": 37.36,
+          "end": 37.52
+        },
+        {
+          "text": "vous",
+          "start": 37.52,
+          "end": 37.68
+        },
+        {
+          "text": "déjà",
+          "start": 37.68,
+          "end": 37.92
+        },
+        {
+          "text": "venus",
+          "start": 37.92,
+          "end": 38.08
+        },
+        {
+          "text": "dans",
+          "start": 38.08,
+          "end": 38.24
+        },
+        {
+          "text": "le",
+          "start": 38.24,
+          "end": 38.32
+        },
+        {
+          "text": "coin",
+          "start": 38.32,
+          "end": 38.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et vous,",
+          "translations": {
+            "zh": "你们呢，",
+            "en": "And you,",
+            "es": "¿Y ustedes,"
+          },
+          "start": 36.8,
+          "end": 37.12
+        },
+        {
+          "text": "êtes-vous déjà venus dans le coin ?",
+          "translations": {
+            "zh": "你们以前来过这附近吗？",
+            "en": "have you already been to the area?",
+            "es": "ya han venido por aquí?"
+          },
+          "start": 37.36,
+          "end": 38.48
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Touriste 1 : Oui, c'est notre deuxième fois cette année.",
+      "translations": {
+        "zh": "游客1：是的，这是我们今年第二次了。",
+        "en": "Tourist 1: Yes, it's our second time this year.",
+        "es": "Turista 1: Sí, es nuestra segunda vez este año."
+      },
+      "start": 39.2,
+      "end": 41.12,
+      "words": [
+        {
+          "text": "Touriste",
+          "start": 39.2,
+          "end": 39.36
+        },
+        {
+          "text": "1",
+          "start": 39.36,
+          "end": 39.76
+        },
+        {
+          "text": "Oui",
+          "start": 39.76,
+          "end": 39.76
+        },
+        {
+          "text": "c'est",
+          "start": 39.84,
+          "end": 40.08
+        },
+        {
+          "text": "notre",
+          "start": 40.08,
+          "end": 40.24
+        },
+        {
+          "text": "deuxième",
+          "start": 40.24,
+          "end": 40.48
+        },
+        {
+          "text": "fois",
+          "start": 40.48,
+          "end": 40.72
+        },
+        {
+          "text": "cette",
+          "start": 40.72,
+          "end": 40.88
+        },
+        {
+          "text": "année",
+          "start": 40.88,
+          "end": 41.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Touriste 1 :",
+          "translations": {
+            "zh": "游客1：",
+            "en": "Tourist 1:",
+            "es": "Turista 1:"
+          },
+          "start": 39.2,
+          "end": 39.76
+        },
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 39.76,
+          "end": 39.76
+        },
+        {
+          "text": "c'est notre deuxième fois cette année.",
+          "translations": {
+            "zh": "这是我们今年第二次了。",
+            "en": "it's our second time this year.",
+            "es": "es nuestra segunda vez este año."
+          },
+          "start": 39.84,
+          "end": 41.12
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Ça fait vraiment du bien de sortir de Montréal !",
+      "translations": {
+        "zh": "离开蒙特利尔出来真的太舒服了！",
+        "en": "It feels really good to get out of Montreal!",
+        "es": "¡De verdad hace bien salir de Montreal!"
+      },
+      "start": 41.76,
+      "end": 43.84,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 41.76,
+          "end": 41.92
+        },
+        {
+          "text": "fait",
+          "start": 41.92,
+          "end": 42.08
+        },
+        {
+          "text": "vraiment",
+          "start": 42.08,
+          "end": 42.56
+        },
+        {
+          "text": "du",
+          "start": 42.56,
+          "end": 42.72
+        },
+        {
+          "text": "bien",
+          "start": 42.72,
+          "end": 42.88
+        },
+        {
+          "text": "de",
+          "start": 42.88,
+          "end": 42.96
+        },
+        {
+          "text": "sortir",
+          "start": 42.96,
+          "end": 43.28
+        },
+        {
+          "text": "de",
+          "start": 43.28,
+          "end": 43.36
+        },
+        {
+          "text": "Montréal",
+          "start": 43.36,
+          "end": 43.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça fait vraiment du bien",
+          "translations": {
+            "zh": "真的让人很舒服",
+            "en": "It feels really good",
+            "es": "De verdad hace bien"
+          },
+          "start": 41.76,
+          "end": 42.88
+        },
+        {
+          "text": "de sortir de Montréal !",
+          "translations": {
+            "zh": "离开蒙特利尔出来！",
+            "en": "to get out of Montreal!",
+            "es": "¡salir de Montreal!"
+          },
+          "start": 42.88,
+          "end": 43.84
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Touriste 2 : Mais, cette fois, on a décidé de passer plus de temps au bord de la mer, dans la baie de Fundy.",
+      "translations": {
+        "zh": "游客2：但是，这一次，我们决定在海边多待些时间，在芬迪湾。",
+        "en": "Tourist 2: But, this time, we decided to spend more time by the sea, in the Bay of Fundy.",
+        "es": "Turista 2: Pero esta vez, hemos decidido pasar más tiempo junto al mar, en la bahía de Fundy."
+      },
+      "start": 44.48,
+      "end": 48.32,
+      "words": [
+        {
+          "text": "Touriste",
+          "start": 44.48,
+          "end": 44.48
+        },
+        {
+          "text": "2",
+          "start": 44.56,
+          "end": 44.6
+        },
+        {
+          "text": "Mais",
+          "start": 44.64,
+          "end": 44.68
+        },
+        {
+          "text": "cette",
+          "start": 44.72,
+          "end": 44.88
+        },
+        {
+          "text": "fois",
+          "start": 44.88,
+          "end": 45.12
+        },
+        {
+          "text": "on",
+          "start": 45.12,
+          "end": 45.12
+        },
+        {
+          "text": "a",
+          "start": 45.12,
+          "end": 45.2
+        },
+        {
+          "text": "décidé",
+          "start": 45.2,
+          "end": 45.6
+        },
+        {
+          "text": "de",
+          "start": 45.6,
+          "end": 45.6
+        },
+        {
+          "text": "passer",
+          "start": 45.6,
+          "end": 46.0
+        },
+        {
+          "text": "plus",
+          "start": 46.0,
+          "end": 46.24
+        },
+        {
+          "text": "de",
+          "start": 46.24,
+          "end": 46.24
+        },
+        {
+          "text": "temps",
+          "start": 46.24,
+          "end": 46.56
+        },
+        {
+          "text": "au",
+          "start": 46.56,
+          "end": 46.64
+        },
+        {
+          "text": "bord",
+          "start": 46.64,
+          "end": 46.8
+        },
+        {
+          "text": "de",
+          "start": 46.8,
+          "end": 46.88
+        },
+        {
+          "text": "la",
+          "start": 46.88,
+          "end": 46.96
+        },
+        {
+          "text": "mer",
+          "start": 46.96,
+          "end": 47.36
+        },
+        {
+          "text": "dans",
+          "start": 47.36,
+          "end": 47.52
+        },
+        {
+          "text": "la",
+          "start": 47.52,
+          "end": 47.68
+        },
+        {
+          "text": "baie",
+          "start": 47.68,
+          "end": 47.84
+        },
+        {
+          "text": "de",
+          "start": 47.84,
+          "end": 47.84
+        },
+        {
+          "text": "Fundy",
+          "start": 47.84,
+          "end": 48.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Touriste 2 :",
+          "translations": {
+            "zh": "游客2：",
+            "en": "Tourist 2:",
+            "es": "Turista 2:"
+          },
+          "start": 44.48,
+          "end": 44.6
+        },
+        {
+          "text": "Mais, cette fois,",
+          "translations": {
+            "zh": "但是，这一次，",
+            "en": "But, this time,",
+            "es": "Pero esta vez,"
+          },
+          "start": 44.64,
+          "end": 45.12
+        },
+        {
+          "text": "on a décidé de passer plus de temps au bord de la mer,",
+          "translations": {
+            "zh": "我们决定在海边多待些时间，",
+            "en": "we decided to spend more time by the sea,",
+            "es": "hemos decidido pasar más tiempo junto al mar,"
+          },
+          "start": 45.12,
+          "end": 47.36
+        },
+        {
+          "text": "dans la baie de Fundy.",
+          "translations": {
+            "zh": "在芬迪湾。",
+            "en": "in the Bay of Fundy.",
+            "es": "en la bahía de Fundy."
+          },
+          "start": 47.36,
+          "end": 48.32
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Qu'est-ce que vous aimez le plus, ici ?",
+      "translations": {
+        "zh": "您在这里最喜欢什么？",
+        "en": "What do you like the most, here?",
+        "es": "¿Qué es lo que más le gusta de aquí?"
+      },
+      "start": 48.96,
+      "end": 50.4,
+      "words": [
+        {
+          "text": "Qu'est",
+          "start": 48.96,
+          "end": 49.12
+        },
+        {
+          "text": "ce",
+          "start": 49.12,
+          "end": 49.2
+        },
+        {
+          "text": "que",
+          "start": 49.2,
+          "end": 49.28
+        },
+        {
+          "text": "vous",
+          "start": 49.28,
+          "end": 49.44
+        },
+        {
+          "text": "aimez",
+          "start": 49.44,
+          "end": 49.6
+        },
+        {
+          "text": "le",
+          "start": 49.6,
+          "end": 49.68
+        },
+        {
+          "text": "plus",
+          "start": 49.68,
+          "end": 50.0
+        },
+        {
+          "text": "ici",
+          "start": 50.0,
+          "end": 50.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Qu'est-ce que vous aimez le plus,",
+          "translations": {
+            "zh": "您最喜欢什么，",
+            "en": "What do you like the most,",
+            "es": "¿Qué es lo que más le gusta,"
+          },
+          "start": 48.96,
+          "end": 50.0
+        },
+        {
+          "text": "ici ?",
+          "translations": {
+            "zh": "在这里？",
+            "en": "here?",
+            "es": "de aquí?"
+          },
+          "start": 50.0,
+          "end": 50.4
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Touriste 2 : La beauté des paysages, la tranquillité, l'hospitalité des gens...",
+      "translations": {
+        "zh": "游客2：风景的美丽、宁静、人们的热情好客……",
+        "en": "Tourist 2: The beauty of the landscapes, the tranquility, the hospitality of the people...",
+        "es": "Turista 2: La belleza de los paisajes, la tranquilidad, la hospitalidad de la gente..."
+      },
+      "start": 51.36,
+      "end": 55.6,
+      "words": [
+        {
+          "text": "Touriste",
+          "start": 51.36,
+          "end": 51.36
+        },
+        {
+          "text": "2",
+          "start": 51.44,
+          "end": 51.44
+        },
+        {
+          "text": "La",
+          "start": 51.6,
+          "end": 51.6
+        },
+        {
+          "text": "beauté",
+          "start": 51.6,
+          "end": 51.92
+        },
+        {
+          "text": "des",
+          "start": 51.92,
+          "end": 52.08
+        },
+        {
+          "text": "paysages",
+          "start": 52.08,
+          "end": 53.12
+        },
+        {
+          "text": "la",
+          "start": 53.28,
+          "end": 53.36
+        },
+        {
+          "text": "tranquillité",
+          "start": 53.44,
+          "end": 54.4
+        },
+        {
+          "text": "l'hospitalité",
+          "start": 54.4,
+          "end": 55.12
+        },
+        {
+          "text": "des",
+          "start": 55.12,
+          "end": 55.36
+        },
+        {
+          "text": "gens",
+          "start": 55.36,
+          "end": 55.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Touriste 2 :",
+          "translations": {
+            "zh": "游客2：",
+            "en": "Tourist 2:",
+            "es": "Turista 2:"
+          },
+          "start": 51.36,
+          "end": 51.44
+        },
+        {
+          "text": "La beauté des paysages,",
+          "translations": {
+            "zh": "风景的美丽，",
+            "en": "The beauty of the landscapes,",
+            "es": "La belleza de los paisajes,"
+          },
+          "start": 51.6,
+          "end": 53.12
+        },
+        {
+          "text": "la tranquillité,",
+          "translations": {
+            "zh": "宁静，",
+            "en": "the tranquility,",
+            "es": "la tranquilidad,"
+          },
+          "start": 53.28,
+          "end": 54.4
+        },
+        {
+          "text": "l'hospitalité des gens...",
+          "translations": {
+            "zh": "人们的热情好客……",
+            "en": "the hospitality of the people...",
+            "es": "la hospitalidad de la gente..."
+          },
+          "start": 54.4,
+          "end": 55.6
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Touriste 1 : Puis, bien sûr, la mer.",
+      "translations": {
+        "zh": "游客1：还有，当然，大海。",
+        "en": "Tourist 1: And then, of course, the sea.",
+        "es": "Turista 1: Y luego, por supuesto, el mar."
+      },
+      "start": 56.0,
+      "end": 57.92,
+      "words": [
+        {
+          "text": "Touriste",
+          "start": 56.0,
+          "end": 56.56
+        },
+        {
+          "text": "1",
+          "start": 56.56,
+          "end": 56.56
+        },
+        {
+          "text": "Puis",
+          "start": 56.56,
+          "end": 56.56
+        },
+        {
+          "text": "bien",
+          "start": 56.56,
+          "end": 56.8
+        },
+        {
+          "text": "sûr",
+          "start": 56.8,
+          "end": 57.12
+        },
+        {
+          "text": "la",
+          "start": 57.44,
+          "end": 57.6
+        },
+        {
+          "text": "mer",
+          "start": 57.6,
+          "end": 57.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Touriste 1 :",
+          "translations": {
+            "zh": "游客1：",
+            "en": "Tourist 1:",
+            "es": "Turista 1:"
+          },
+          "start": 56.0,
+          "end": 56.56
+        },
+        {
+          "text": "Puis, bien sûr,",
+          "translations": {
+            "zh": "还有，当然，",
+            "en": "And then, of course,",
+            "es": "Y luego, por supuesto,"
+          },
+          "start": 56.56,
+          "end": 57.12
+        },
+        {
+          "text": "la mer.",
+          "translations": {
+            "zh": "大海。",
+            "en": "the sea.",
+            "es": "el mar."
+          },
+          "start": 57.44,
+          "end": 57.92
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Touriste 2 : Oui, on fait de la plongée sous- marine.",
+      "translations": {
+        "zh": "游客2：是的，我们在潜水。",
+        "en": "Tourist 2: Yes, we do scuba diving.",
+        "es": "Turista 2: Sí, hacemos submarinismo."
+      },
+      "start": 58.4,
+      "end": 60.48,
+      "words": [
+        {
+          "text": "Touriste",
+          "start": 58.4,
+          "end": 58.88
+        },
+        {
+          "text": "2",
+          "start": 59.04,
+          "end": 59.2
+        },
+        {
+          "text": "Oui",
+          "start": 59.2,
+          "end": 59.2
+        },
+        {
+          "text": "on",
+          "start": 59.2,
+          "end": 59.2
+        },
+        {
+          "text": "fait",
+          "start": 59.2,
+          "end": 59.36
+        },
+        {
+          "text": "de",
+          "start": 59.36,
+          "end": 59.44
+        },
+        {
+          "text": "la",
+          "start": 59.44,
+          "end": 59.52
+        },
+        {
+          "text": "plongée",
+          "start": 59.52,
+          "end": 59.84
+        },
+        {
+          "text": "sous",
+          "start": 59.84,
+          "end": 60.0
+        },
+        {
+          "text": "marine",
+          "start": 60.0,
+          "end": 60.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Touriste 2 :",
+          "translations": {
+            "zh": "游客2：",
+            "en": "Tourist 2:",
+            "es": "Turista 2:"
+          },
+          "start": 58.4,
+          "end": 59.2
+        },
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 59.2,
+          "end": 59.2
+        },
+        {
+          "text": "on fait de la plongée sous- marine.",
+          "translations": {
+            "zh": "我们在潜水。",
+            "en": "we do scuba diving.",
+            "es": "hacemos submarinismo."
+          },
+          "start": 59.2,
+          "end": 60.48
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Les fonds marins de la baie de Fundy sont exceptionnels, il faut voir ça !",
+      "translations": {
+        "zh": "芬迪湾的海底非常出色，一定要去看看！",
+        "en": "The seabeds of the Bay of Fundy are exceptional, you have to see it!",
+        "es": "Los fondos marinos de la bahía de Fundy son excepcionales, ¡hay que ver eso!"
+      },
+      "start": 60.96,
+      "end": 64.8,
+      "words": [
+        {
+          "text": "Les",
+          "start": 60.96,
+          "end": 61.04
+        },
+        {
+          "text": "fonds",
+          "start": 61.04,
+          "end": 61.28
+        },
+        {
+          "text": "marins",
+          "start": 61.28,
+          "end": 61.52
+        },
+        {
+          "text": "de",
+          "start": 61.52,
+          "end": 61.6
+        },
+        {
+          "text": "la",
+          "start": 61.6,
+          "end": 61.68
+        },
+        {
+          "text": "baie",
+          "start": 61.68,
+          "end": 61.84
+        },
+        {
+          "text": "de",
+          "start": 61.84,
+          "end": 61.84
+        },
+        {
+          "text": "Fundy",
+          "start": 61.84,
+          "end": 62.4
+        },
+        {
+          "text": "sont",
+          "start": 62.4,
+          "end": 62.64
+        },
+        {
+          "text": "exceptionnels",
+          "start": 62.72,
+          "end": 63.6
+        },
+        {
+          "text": "il",
+          "start": 63.92,
+          "end": 64.0
+        },
+        {
+          "text": "faut",
+          "start": 64.08,
+          "end": 64.24
+        },
+        {
+          "text": "voir",
+          "start": 64.24,
+          "end": 64.56
+        },
+        {
+          "text": "ça",
+          "start": 64.56,
+          "end": 64.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les fonds marins de la baie de Fundy sont exceptionnels,",
+          "translations": {
+            "zh": "芬迪湾的海底非常出色，",
+            "en": "The seabeds of the Bay of Fundy are exceptional,",
+            "es": "Los fondos marinos de la bahía de Fundy son excepcionales,"
+          },
+          "start": 60.96,
+          "end": 63.6
+        },
+        {
+          "text": "il faut voir ça !",
+          "translations": {
+            "zh": "一定要去看看！",
+            "en": "you have to see it!",
+            "es": "¡hay que ver eso!"
+          },
+          "start": 63.92,
+          "end": 64.8
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "C'est vrai ?",
+      "translations": {
+        "zh": "真的吗？",
+        "en": "Really?",
+        "es": "¿De verdad?"
+      },
+      "start": 64.96,
+      "end": 65.28,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 64.96,
+          "end": 65.12
+        },
+        {
+          "text": "vrai",
+          "start": 65.12,
+          "end": 65.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est vrai ?",
+          "translations": {
+            "zh": "真的吗？",
+            "en": "Really?",
+            "es": "¿De verdad?"
+          },
+          "start": 64.96,
+          "end": 65.28
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Ma chum est partie en faire aujourd'hui.",
+      "translations": {
+        "zh": "我的女朋友今天去潜水了。",
+        "en": "My girlfriend went to do some today.",
+        "es": "Mi novia se fue a hacer eso hoy."
+      },
+      "start": 66.24,
+      "end": 68.0,
+      "words": [
+        {
+          "text": "Ma",
+          "start": 66.24,
+          "end": 66.32
+        },
+        {
+          "text": "chum",
+          "start": 66.32,
+          "end": 66.56
+        },
+        {
+          "text": "est",
+          "start": 66.56,
+          "end": 66.64
+        },
+        {
+          "text": "partie",
+          "start": 66.64,
+          "end": 66.96
+        },
+        {
+          "text": "en",
+          "start": 66.96,
+          "end": 67.04
+        },
+        {
+          "text": "faire",
+          "start": 67.12,
+          "end": 67.36
+        },
+        {
+          "text": "aujourd'hui",
+          "start": 67.36,
+          "end": 68.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ma chum est partie en faire aujourd'hui.",
+          "translations": {
+            "zh": "我的女朋友今天去潜水了。",
+            "en": "My girlfriend went to do some today.",
+            "es": "Mi novia se fue a hacer eso hoy."
+          },
+          "start": 66.24,
+          "end": 68.0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Elle va être contente.",
+      "translations": {
+        "zh": "她一定会很高兴的。",
+        "en": "She'll be happy.",
+        "es": "Va a estar contenta."
+      },
+      "start": 68.16,
+      "end": 68.96,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 68.16,
+          "end": 68.24
+        },
+        {
+          "text": "va",
+          "start": 68.24,
+          "end": 68.32
+        },
+        {
+          "text": "être",
+          "start": 68.32,
+          "end": 68.4
+        },
+        {
+          "text": "contente",
+          "start": 68.4,
+          "end": 68.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle va être contente.",
+          "translations": {
+            "zh": "她一定会很高兴的。",
+            "en": "She'll be happy.",
+            "es": "Va a estar contenta."
+          },
+          "start": 68.16,
+          "end": 68.96
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP16_P34",
+  "audio_filename": "FLS2_EP16_P34.mp3",
+  "audio_path": "downloads/FLS2_EP16_P34.mp3",
+  "episode": 16,
+  "piste": 34,
+  "page": 127,
+  "cd": "CD2"
+}

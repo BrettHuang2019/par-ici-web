@@ -1,0 +1,1526 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 12 Piste 7 Page 91",
+      "translations": {
+        "zh": "第12集 第7轨 第91页",
+        "en": "Episode 12 Track 7 Page 91",
+        "es": "Episodio 12 Pista 7 Página 91"
+      },
+      "start": 0.48,
+      "end": 7.68,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.48,
+          "end": 1.12
+        },
+        {
+          "text": "12",
+          "start": 1.6,
+          "end": 2.16
+        },
+        {
+          "text": "Piste",
+          "start": 3.04,
+          "end": 3.52
+        },
+        {
+          "text": "7",
+          "start": 4.0,
+          "end": 4.16
+        },
+        {
+          "text": "Page",
+          "start": 4.16,
+          "end": 4.24
+        },
+        {
+          "text": "91",
+          "start": 7.44,
+          "end": 7.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 12",
+          "translations": {
+            "zh": "第12集",
+            "en": "Episode 12",
+            "es": "Episodio 12"
+          },
+          "start": 0.48,
+          "end": 2.16
+        },
+        {
+          "text": "Piste 7",
+          "translations": {
+            "zh": "第7轨",
+            "en": "Track 7",
+            "es": "Pista 7"
+          },
+          "start": 3.04,
+          "end": 4.16
+        },
+        {
+          "text": "Page 91",
+          "translations": {
+            "zh": "第91页",
+            "en": "Page 91",
+            "es": "Página 91"
+          },
+          "start": 4.16,
+          "end": 7.68
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bonjour, est-ce que je peux parler à David ?",
+      "translations": {
+        "zh": "你好，请问我可以和David说话吗？",
+        "en": "Hello, may I speak to David?",
+        "es": "Hola, ¿puedo hablar con David?"
+      },
+      "start": 11.28,
+      "end": 13.44,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 11.28,
+          "end": 11.76
+        },
+        {
+          "text": "est",
+          "start": 12.16,
+          "end": 12.24
+        },
+        {
+          "text": "ce",
+          "start": 12.24,
+          "end": 12.32
+        },
+        {
+          "text": "que",
+          "start": 12.32,
+          "end": 12.4
+        },
+        {
+          "text": "je",
+          "start": 12.4,
+          "end": 12.48
+        },
+        {
+          "text": "peux",
+          "start": 12.48,
+          "end": 12.56
+        },
+        {
+          "text": "parler",
+          "start": 12.56,
+          "end": 12.88
+        },
+        {
+          "text": "à",
+          "start": 12.88,
+          "end": 12.88
+        },
+        {
+          "text": "David",
+          "start": 12.88,
+          "end": 13.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "你好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 11.28,
+          "end": 11.76
+        },
+        {
+          "text": "est-ce que je peux parler à David ?",
+          "translations": {
+            "zh": "我可以和David说话吗？",
+            "en": "may I speak to David?",
+            "es": "¿puedo hablar con David?"
+          },
+          "start": 12.16,
+          "end": 13.44
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Désolée, David n'a pas de cours aujourd'hui.",
+      "translations": {
+        "zh": "抱歉，David今天没有课。",
+        "en": "Sorry, David doesn't have class today.",
+        "es": "Lo siento, David no tiene clase hoy."
+      },
+      "start": 13.84,
+      "end": 15.92,
+      "words": [
+        {
+          "text": "Désolée",
+          "start": 13.84,
+          "end": 14.48
+        },
+        {
+          "text": "David",
+          "start": 14.48,
+          "end": 14.88
+        },
+        {
+          "text": "n'a",
+          "start": 14.88,
+          "end": 15.04
+        },
+        {
+          "text": "pas",
+          "start": 15.04,
+          "end": 15.2
+        },
+        {
+          "text": "de",
+          "start": 15.2,
+          "end": 15.2
+        },
+        {
+          "text": "cours",
+          "start": 15.2,
+          "end": 15.44
+        },
+        {
+          "text": "aujourd'hui",
+          "start": 15.44,
+          "end": 15.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Désolée,",
+          "translations": {
+            "zh": "抱歉，",
+            "en": "Sorry,",
+            "es": "Lo siento,"
+          },
+          "start": 13.84,
+          "end": 14.48
+        },
+        {
+          "text": "David n'a pas de cours aujourd'hui.",
+          "translations": {
+            "zh": "David今天没有课。",
+            "en": "David doesn't have class today.",
+            "es": "David no tiene clase hoy."
+          },
+          "start": 14.48,
+          "end": 15.92
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Il sera là demain vers 10 h.",
+      "translations": {
+        "zh": "他明天大约10点会在。",
+        "en": "He will be there tomorrow around 10 a.m.",
+        "es": "Estará ahí mañana alrededor de las 10 h."
+      },
+      "start": 16.48,
+      "end": 17.68,
+      "words": [
+        {
+          "text": "Il",
+          "start": 16.48,
+          "end": 16.56
+        },
+        {
+          "text": "sera",
+          "start": 16.56,
+          "end": 16.8
+        },
+        {
+          "text": "là",
+          "start": 16.8,
+          "end": 16.88
+        },
+        {
+          "text": "demain",
+          "start": 16.88,
+          "end": 17.2
+        },
+        {
+          "text": "vers",
+          "start": 17.2,
+          "end": 17.36
+        },
+        {
+          "text": "10",
+          "start": 17.36,
+          "end": 17.6
+        },
+        {
+          "text": "h",
+          "start": 17.6,
+          "end": 17.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il sera là",
+          "translations": {
+            "zh": "他会在",
+            "en": "He will be there",
+            "es": "Estará ahí"
+          },
+          "start": 16.48,
+          "end": 16.88
+        },
+        {
+          "text": "demain vers 10 h.",
+          "translations": {
+            "zh": "明天大约10点。",
+            "en": "tomorrow around 10 a.m.",
+            "es": "mañana alrededor de las 10 h."
+          },
+          "start": 16.88,
+          "end": 17.68
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "D'accord, je rappellerai demain.",
+      "translations": {
+        "zh": "好的，我明天再打来。",
+        "en": "Alright, I will call back tomorrow.",
+        "es": "De acuerdo, llamaré mañana."
+      },
+      "start": 18.48,
+      "end": 19.84,
+      "words": [
+        {
+          "text": "D'accord",
+          "start": 18.48,
+          "end": 18.88
+        },
+        {
+          "text": "je",
+          "start": 19.2,
+          "end": 19.28
+        },
+        {
+          "text": "rappellerai",
+          "start": 19.28,
+          "end": 19.68
+        },
+        {
+          "text": "demain",
+          "start": 19.68,
+          "end": 19.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'accord,",
+          "translations": {
+            "zh": "好的，",
+            "en": "Alright,",
+            "es": "De acuerdo,"
+          },
+          "start": 18.48,
+          "end": 18.88
+        },
+        {
+          "text": "je rappellerai demain.",
+          "translations": {
+            "zh": "我明天再打来。",
+            "en": "I will call back tomorrow.",
+            "es": "llamaré mañana."
+          },
+          "start": 19.2,
+          "end": 19.84
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Allo Fatima, c'est moi.",
+      "translations": {
+        "zh": "喂，Fatima，是我。",
+        "en": "Hi Fatima, it's me.",
+        "es": "Hola Fatima, soy yo."
+      },
+      "start": 25.92,
+      "end": 26.96,
+      "words": [
+        {
+          "text": "Allo",
+          "start": 25.92,
+          "end": 26.08
+        },
+        {
+          "text": "Fatima",
+          "start": 26.08,
+          "end": 26.56
+        },
+        {
+          "text": "c'est",
+          "start": 26.56,
+          "end": 26.72
+        },
+        {
+          "text": "moi",
+          "start": 26.72,
+          "end": 26.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Allo Fatima,",
+          "translations": {
+            "zh": "喂，Fatima，",
+            "en": "Hi Fatima,",
+            "es": "Hola Fatima,"
+          },
+          "start": 25.92,
+          "end": 26.56
+        },
+        {
+          "text": "c'est moi.",
+          "translations": {
+            "zh": "是我。",
+            "en": "it's me.",
+            "es": "soy yo."
+          },
+          "start": 26.56,
+          "end": 26.96
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Je teste mon nouveau téléphone.",
+      "translations": {
+        "zh": "我在测试我的新手机。",
+        "en": "I'm testing my new phone.",
+        "es": "Estoy probando mi nuevo teléfono."
+      },
+      "start": 27.92,
+      "end": 29.36,
+      "words": [
+        {
+          "text": "Je",
+          "start": 27.92,
+          "end": 28.08
+        },
+        {
+          "text": "teste",
+          "start": 28.08,
+          "end": 28.4
+        },
+        {
+          "text": "mon",
+          "start": 28.4,
+          "end": 28.48
+        },
+        {
+          "text": "nouveau",
+          "start": 28.48,
+          "end": 28.72
+        },
+        {
+          "text": "téléphone",
+          "start": 28.72,
+          "end": 29.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je teste mon nouveau téléphone.",
+          "translations": {
+            "zh": "我在测试我的新手机。",
+            "en": "I'm testing my new phone.",
+            "es": "Estoy probando mi nuevo teléfono."
+          },
+          "start": 27.92,
+          "end": 29.36
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Tu m'entends bien ?",
+      "translations": {
+        "zh": "你听得到我说话吗？",
+        "en": "Can you hear me well?",
+        "es": "¿Me oyes bien?"
+      },
+      "start": 29.6,
+      "end": 30.16,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 29.6,
+          "end": 29.68
+        },
+        {
+          "text": "m'entends",
+          "start": 29.68,
+          "end": 29.92
+        },
+        {
+          "text": "bien",
+          "start": 29.92,
+          "end": 30.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu m'entends bien ?",
+          "translations": {
+            "zh": "你听得到我说话吗？",
+            "en": "Can you hear me well?",
+            "es": "¿Me oyes bien?"
+          },
+          "start": 29.6,
+          "end": 30.16
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Ben, oui.",
+      "translations": {
+        "zh": "嗯，听得到。",
+        "en": "Well, yes.",
+        "es": "Pues, sí."
+      },
+      "start": 31.12,
+      "end": 31.6,
+      "words": [
+        {
+          "text": "Ben",
+          "start": 31.12,
+          "end": 31.36
+        },
+        {
+          "text": "oui",
+          "start": 31.36,
+          "end": 31.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ben,",
+          "translations": {
+            "zh": "嗯，",
+            "en": "Well,",
+            "es": "Pues,"
+          },
+          "start": 31.12,
+          "end": 31.36
+        },
+        {
+          "text": "oui.",
+          "translations": {
+            "zh": "听得到。",
+            "en": "yes.",
+            "es": "sí."
+          },
+          "start": 31.36,
+          "end": 31.6
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Je te rappelle plus tard, il y a du monde au magasin.",
+      "translations": {
+        "zh": "我晚点再打给你，店里人多。",
+        "en": "I'll call you back later, there are people at the store.",
+        "es": "Te llamo más tarde, hay gente en la tienda."
+      },
+      "start": 32.08,
+      "end": 33.76,
+      "words": [
+        {
+          "text": "Je",
+          "start": 32.08,
+          "end": 32.16
+        },
+        {
+          "text": "te",
+          "start": 32.16,
+          "end": 32.24
+        },
+        {
+          "text": "rappelle",
+          "start": 32.24,
+          "end": 32.56
+        },
+        {
+          "text": "plus",
+          "start": 32.56,
+          "end": 32.72
+        },
+        {
+          "text": "tard",
+          "start": 32.72,
+          "end": 32.88
+        },
+        {
+          "text": "il",
+          "start": 32.88,
+          "end": 32.96
+        },
+        {
+          "text": "y",
+          "start": 32.96,
+          "end": 32.96
+        },
+        {
+          "text": "a",
+          "start": 32.96,
+          "end": 33.04
+        },
+        {
+          "text": "du",
+          "start": 33.04,
+          "end": 33.12
+        },
+        {
+          "text": "monde",
+          "start": 33.12,
+          "end": 33.36
+        },
+        {
+          "text": "au",
+          "start": 33.36,
+          "end": 33.36
+        },
+        {
+          "text": "magasin",
+          "start": 33.36,
+          "end": 33.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je te rappelle plus tard,",
+          "translations": {
+            "zh": "我晚点再打给你，",
+            "en": "I'll call you back later,",
+            "es": "Te llamo más tarde,"
+          },
+          "start": 32.08,
+          "end": 32.88
+        },
+        {
+          "text": "il y a du monde au magasin.",
+          "translations": {
+            "zh": "店里人多。",
+            "en": "there are people at the store.",
+            "es": "hay gente en la tienda."
+          },
+          "start": 32.88,
+          "end": 33.76
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Allo Thomas !",
+      "translations": {
+        "zh": "喂，Thomas！",
+        "en": "Hi Thomas!",
+        "es": "¡Hola Thomas!"
+      },
+      "start": 38.8,
+      "end": 39.36,
+      "words": [
+        {
+          "text": "Allo",
+          "start": 38.8,
+          "end": 38.96
+        },
+        {
+          "text": "Thomas",
+          "start": 39.04,
+          "end": 39.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Allo Thomas !",
+          "translations": {
+            "zh": "喂，Thomas！",
+            "en": "Hi Thomas!",
+            "es": "¡Hola Thomas!"
+          },
+          "start": 38.8,
+          "end": 39.36
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Est-ce que tu peux m'aider à organiser les applications de mon téléphone s'il te plait ?",
+      "translations": {
+        "zh": "请问你能帮我整理一下我手机上的应用程序吗？",
+        "en": "Can you help me organize the apps on my phone, please?",
+        "es": "¿Puedes ayudarme a organizar las aplicaciones de mi teléfono por favor?"
+      },
+      "start": 40.16,
+      "end": 43.12,
+      "words": [
+        {
+          "text": "Est",
+          "start": 40.16,
+          "end": 40.24
+        },
+        {
+          "text": "ce",
+          "start": 40.24,
+          "end": 40.32
+        },
+        {
+          "text": "que",
+          "start": 40.32,
+          "end": 40.4
+        },
+        {
+          "text": "tu",
+          "start": 40.4,
+          "end": 40.48
+        },
+        {
+          "text": "peux",
+          "start": 40.48,
+          "end": 40.64
+        },
+        {
+          "text": "m'aider",
+          "start": 40.64,
+          "end": 40.88
+        },
+        {
+          "text": "à",
+          "start": 40.88,
+          "end": 40.96
+        },
+        {
+          "text": "organiser",
+          "start": 40.96,
+          "end": 41.36
+        },
+        {
+          "text": "les",
+          "start": 41.36,
+          "end": 41.52
+        },
+        {
+          "text": "applications",
+          "start": 41.52,
+          "end": 42.0
+        },
+        {
+          "text": "de",
+          "start": 42.0,
+          "end": 42.08
+        },
+        {
+          "text": "mon",
+          "start": 42.08,
+          "end": 42.08
+        },
+        {
+          "text": "téléphone",
+          "start": 42.08,
+          "end": 42.56
+        },
+        {
+          "text": "s'il",
+          "start": 42.56,
+          "end": 42.72
+        },
+        {
+          "text": "te",
+          "start": 42.72,
+          "end": 42.88
+        },
+        {
+          "text": "plait",
+          "start": 42.88,
+          "end": 43.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que tu peux m'aider",
+          "translations": {
+            "zh": "你能帮我",
+            "en": "Can you help me",
+            "es": "¿Puedes ayudarme"
+          },
+          "start": 40.16,
+          "end": 40.88
+        },
+        {
+          "text": "à organiser les applications de mon téléphone",
+          "translations": {
+            "zh": "整理一下我手机上的应用程序",
+            "en": "organize the apps on my phone",
+            "es": "a organizar las aplicaciones de mi teléfono"
+          },
+          "start": 40.88,
+          "end": 42.56
+        },
+        {
+          "text": "s'il te plait ?",
+          "translations": {
+            "zh": "请问好吗？",
+            "en": "please?",
+            "es": "por favor?"
+          },
+          "start": 42.56,
+          "end": 43.12
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Oui, on peut se voir en fin de journée.",
+      "translations": {
+        "zh": "好的，我们可以傍晚见。",
+        "en": "Yes, we can meet at the end of the day.",
+        "es": "Sí, podemos vernos al final del día."
+      },
+      "start": 43.68,
+      "end": 45.52,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 43.68,
+          "end": 44.08
+        },
+        {
+          "text": "on",
+          "start": 44.08,
+          "end": 44.32
+        },
+        {
+          "text": "peut",
+          "start": 44.32,
+          "end": 44.48
+        },
+        {
+          "text": "se",
+          "start": 44.48,
+          "end": 44.56
+        },
+        {
+          "text": "voir",
+          "start": 44.56,
+          "end": 44.8
+        },
+        {
+          "text": "en",
+          "start": 44.8,
+          "end": 44.88
+        },
+        {
+          "text": "fin",
+          "start": 44.88,
+          "end": 45.04
+        },
+        {
+          "text": "de",
+          "start": 45.04,
+          "end": 45.12
+        },
+        {
+          "text": "journée",
+          "start": 45.12,
+          "end": 45.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "好的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 43.68,
+          "end": 44.08
+        },
+        {
+          "text": "on peut se voir en fin de journée.",
+          "translations": {
+            "zh": "我们可以傍晚见。",
+            "en": "we can meet at the end of the day.",
+            "es": "podemos vernos al final del día."
+          },
+          "start": 44.08,
+          "end": 45.52
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "OK, à plus tard !",
+      "translations": {
+        "zh": "好的，回头见！",
+        "en": "OK, see you later!",
+        "es": "OK, ¡hasta luego!"
+      },
+      "start": 45.84,
+      "end": 47.12,
+      "words": [
+        {
+          "text": "OK",
+          "start": 45.84,
+          "end": 46.24
+        },
+        {
+          "text": "à",
+          "start": 46.24,
+          "end": 46.32
+        },
+        {
+          "text": "plus",
+          "start": 46.8,
+          "end": 46.88
+        },
+        {
+          "text": "tard",
+          "start": 46.88,
+          "end": 47.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "OK,",
+          "translations": {
+            "zh": "好的，",
+            "en": "OK,",
+            "es": "OK,"
+          },
+          "start": 45.84,
+          "end": 46.24
+        },
+        {
+          "text": "à plus tard !",
+          "translations": {
+            "zh": "回头见！",
+            "en": "see you later!",
+            "es": "¡hasta luego!"
+          },
+          "start": 46.24,
+          "end": 47.12
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Bonjour, je suis bien au service à la clientèle ?",
+      "translations": {
+        "zh": "你好，请问是客服部吗？",
+        "en": "Hello, am I through to customer service?",
+        "es": "Hola, ¿estoy en el servicio de atención al cliente?"
+      },
+      "start": 52.8,
+      "end": 55.36,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 52.8,
+          "end": 53.28
+        },
+        {
+          "text": "je",
+          "start": 53.92,
+          "end": 54.0
+        },
+        {
+          "text": "suis",
+          "start": 54.0,
+          "end": 54.16
+        },
+        {
+          "text": "bien",
+          "start": 54.16,
+          "end": 54.32
+        },
+        {
+          "text": "au",
+          "start": 54.32,
+          "end": 54.4
+        },
+        {
+          "text": "service",
+          "start": 54.4,
+          "end": 54.72
+        },
+        {
+          "text": "à",
+          "start": 54.72,
+          "end": 54.8
+        },
+        {
+          "text": "la",
+          "start": 54.8,
+          "end": 54.88
+        },
+        {
+          "text": "clientèle",
+          "start": 54.88,
+          "end": 55.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "你好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 52.8,
+          "end": 53.28
+        },
+        {
+          "text": "je suis bien au service à la clientèle ?",
+          "translations": {
+            "zh": "请问是客服部吗？",
+            "en": "am I through to customer service?",
+            "es": "¿estoy en el servicio de atención al cliente?"
+          },
+          "start": 53.92,
+          "end": 55.36
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Oui, comment puis-je vous aider ?",
+      "translations": {
+        "zh": "是的，请问有什么可以帮您的？",
+        "en": "Yes, how can I help you?",
+        "es": "Sí, ¿cómo puedo ayudarle?"
+      },
+      "start": 55.92,
+      "end": 57.12,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 55.92,
+          "end": 56.16
+        },
+        {
+          "text": "comment",
+          "start": 56.16,
+          "end": 56.4
+        },
+        {
+          "text": "puis",
+          "start": 56.4,
+          "end": 56.64
+        },
+        {
+          "text": "je",
+          "start": 56.64,
+          "end": 56.64
+        },
+        {
+          "text": "vous",
+          "start": 56.64,
+          "end": 56.88
+        },
+        {
+          "text": "aider",
+          "start": 56.88,
+          "end": 57.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 55.92,
+          "end": 56.16
+        },
+        {
+          "text": "comment puis-je vous aider ?",
+          "translations": {
+            "zh": "请问有什么可以帮您的？",
+            "en": "how can I help you?",
+            "es": "¿cómo puedo ayudarle?"
+          },
+          "start": 56.16,
+          "end": 57.12
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "J'aimerais changer mon forfait téléphonique.",
+      "translations": {
+        "zh": "我想更换我的手机套餐。",
+        "en": "I would like to change my phone plan.",
+        "es": "Me gustaría cambiar mi plan telefónico."
+      },
+      "start": 57.76,
+      "end": 59.6,
+      "words": [
+        {
+          "text": "J'aimerais",
+          "start": 57.76,
+          "end": 58.16
+        },
+        {
+          "text": "changer",
+          "start": 58.16,
+          "end": 58.48
+        },
+        {
+          "text": "mon",
+          "start": 58.48,
+          "end": 58.56
+        },
+        {
+          "text": "forfait",
+          "start": 58.56,
+          "end": 58.88
+        },
+        {
+          "text": "téléphonique",
+          "start": 58.88,
+          "end": 59.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'aimerais changer mon forfait téléphonique.",
+          "translations": {
+            "zh": "我想更换我的手机套餐。",
+            "en": "I would like to change my phone plan.",
+            "es": "Me gustaría cambiar mi plan telefónico."
+          },
+          "start": 57.76,
+          "end": 59.6
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Très bien, je vais accéder à votre dossier.",
+      "translations": {
+        "zh": "好的，我来查看您的档案。",
+        "en": "Very well, I will access your file.",
+        "es": "Muy bien, voy a acceder a su expediente."
+      },
+      "start": 60.24,
+      "end": 62.08,
+      "words": [
+        {
+          "text": "Très",
+          "start": 60.24,
+          "end": 60.4
+        },
+        {
+          "text": "bien",
+          "start": 60.4,
+          "end": 60.64
+        },
+        {
+          "text": "je",
+          "start": 60.88,
+          "end": 61.04
+        },
+        {
+          "text": "vais",
+          "start": 61.04,
+          "end": 61.12
+        },
+        {
+          "text": "accéder",
+          "start": 61.12,
+          "end": 61.52
+        },
+        {
+          "text": "à",
+          "start": 61.52,
+          "end": 61.52
+        },
+        {
+          "text": "votre",
+          "start": 61.52,
+          "end": 61.68
+        },
+        {
+          "text": "dossier",
+          "start": 61.68,
+          "end": 62.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Très bien,",
+          "translations": {
+            "zh": "好的，",
+            "en": "Very well,",
+            "es": "Muy bien,"
+          },
+          "start": 60.24,
+          "end": 60.64
+        },
+        {
+          "text": "je vais accéder à votre dossier.",
+          "translations": {
+            "zh": "我来查看您的档案。",
+            "en": "I will access your file.",
+            "es": "voy a acceder a su expediente."
+          },
+          "start": 60.88,
+          "end": 62.08
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Bonsoir Jean, c'est Christian.",
+      "translations": {
+        "zh": "晚上好，Jean，我是Christian。",
+        "en": "Good evening Jean, it's Christian.",
+        "es": "Buenas noches Jean, es Christian."
+      },
+      "start": 68.16,
+      "end": 69.92,
+      "words": [
+        {
+          "text": "Bonsoir",
+          "start": 68.16,
+          "end": 68.56
+        },
+        {
+          "text": "Jean",
+          "start": 68.56,
+          "end": 68.88
+        },
+        {
+          "text": "c'est",
+          "start": 69.28,
+          "end": 69.52
+        },
+        {
+          "text": "Christian",
+          "start": 69.52,
+          "end": 69.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonsoir Jean,",
+          "translations": {
+            "zh": "晚上好，Jean，",
+            "en": "Good evening Jean,",
+            "es": "Buenas noches Jean,"
+          },
+          "start": 68.16,
+          "end": 68.88
+        },
+        {
+          "text": "c'est Christian.",
+          "translations": {
+            "zh": "我是Christian。",
+            "en": "it's Christian.",
+            "es": "es Christian."
+          },
+          "start": 69.28,
+          "end": 69.92
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "La semaine prochaine, on fait un 5 à 7 à la maison.",
+      "translations": {
+        "zh": "下周，我们在家办一个五到七点的聚会。",
+        "en": "Next week, we're having a happy hour at our place.",
+        "es": "La semana que viene, hacemos un 5 a 7 en casa."
+      },
+      "start": 70.64,
+      "end": 72.56,
+      "words": [
+        {
+          "text": "La",
+          "start": 70.64,
+          "end": 70.72
+        },
+        {
+          "text": "semaine",
+          "start": 70.72,
+          "end": 70.96
+        },
+        {
+          "text": "prochaine",
+          "start": 70.96,
+          "end": 71.28
+        },
+        {
+          "text": "on",
+          "start": 71.28,
+          "end": 71.36
+        },
+        {
+          "text": "fait",
+          "start": 71.36,
+          "end": 71.52
+        },
+        {
+          "text": "un",
+          "start": 71.52,
+          "end": 71.6
+        },
+        {
+          "text": "5",
+          "start": 71.6,
+          "end": 72.08
+        },
+        {
+          "text": "à",
+          "start": 72.08,
+          "end": 72.08
+        },
+        {
+          "text": "7",
+          "start": 72.08,
+          "end": 72.08
+        },
+        {
+          "text": "à",
+          "start": 72.08,
+          "end": 72.16
+        },
+        {
+          "text": "la",
+          "start": 72.16,
+          "end": 72.24
+        },
+        {
+          "text": "maison",
+          "start": 72.24,
+          "end": 72.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La semaine prochaine,",
+          "translations": {
+            "zh": "下周，",
+            "en": "Next week,",
+            "es": "La semana que viene,"
+          },
+          "start": 70.64,
+          "end": 71.28
+        },
+        {
+          "text": "on fait un 5 à 7 à la maison.",
+          "translations": {
+            "zh": "我们在家办一个五到七点的聚会。",
+            "en": "we're having a happy hour at our place.",
+            "es": "hacemos un 5 a 7 en casa."
+          },
+          "start": 71.28,
+          "end": 72.56
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "J'espère que Danielle et toi pourrez venir.",
+      "translations": {
+        "zh": "我希望你和Danielle能来。",
+        "en": "I hope that you and Danielle will be able to come.",
+        "es": "Espero que Danielle y tú puedan venir."
+      },
+      "start": 73.36,
+      "end": 74.88,
+      "words": [
+        {
+          "text": "J'espère",
+          "start": 73.36,
+          "end": 73.76
+        },
+        {
+          "text": "que",
+          "start": 73.76,
+          "end": 73.84
+        },
+        {
+          "text": "Danielle",
+          "start": 73.84,
+          "end": 74.16
+        },
+        {
+          "text": "et",
+          "start": 74.16,
+          "end": 74.24
+        },
+        {
+          "text": "toi",
+          "start": 74.24,
+          "end": 74.4
+        },
+        {
+          "text": "pourrez",
+          "start": 74.4,
+          "end": 74.56
+        },
+        {
+          "text": "venir",
+          "start": 74.56,
+          "end": 74.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'espère",
+          "translations": {
+            "zh": "我希望",
+            "en": "I hope",
+            "es": "Espero"
+          },
+          "start": 73.36,
+          "end": 73.76
+        },
+        {
+          "text": "que Danielle et toi pourrez venir.",
+          "translations": {
+            "zh": "你和Danielle能来。",
+            "en": "that you and Danielle will be able to come.",
+            "es": "que Danielle y tú puedan venir."
+          },
+          "start": 73.76,
+          "end": 74.88
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Rappelle-moi en fin de journée !",
+      "translations": {
+        "zh": "傍晚给我回电话！",
+        "en": "Call me back at the end of the day!",
+        "es": "¡Llámame al final del día!"
+      },
+      "start": 75.84,
+      "end": 76.72,
+      "words": [
+        {
+          "text": "Rappelle",
+          "start": 75.84,
+          "end": 76.08
+        },
+        {
+          "text": "moi",
+          "start": 76.08,
+          "end": 76.24
+        },
+        {
+          "text": "en",
+          "start": 76.24,
+          "end": 76.24
+        },
+        {
+          "text": "fin",
+          "start": 76.24,
+          "end": 76.4
+        },
+        {
+          "text": "de",
+          "start": 76.4,
+          "end": 76.4
+        },
+        {
+          "text": "journée",
+          "start": 76.4,
+          "end": 76.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Rappelle-moi",
+          "translations": {
+            "zh": "给我回电话",
+            "en": "Call me back",
+            "es": "¡Llámame"
+          },
+          "start": 75.84,
+          "end": 76.24
+        },
+        {
+          "text": "en fin de journée !",
+          "translations": {
+            "zh": "傍晚！",
+            "en": "at the end of the day!",
+            "es": "al final del día!"
+          },
+          "start": 76.24,
+          "end": 76.72
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Bye.",
+      "translations": {
+        "zh": "再见。",
+        "en": "Bye.",
+        "es": "Adiós."
+      },
+      "start": 77.2,
+      "end": 77.6,
+      "words": [
+        {
+          "text": "Bye",
+          "start": 77.2,
+          "end": 77.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bye.",
+          "translations": {
+            "zh": "再见。",
+            "en": "Bye.",
+            "es": "Adiós."
+          },
+          "start": 77.2,
+          "end": 77.6
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP12_P07",
+  "audio_filename": "FLS2_EP12_P07.mp3",
+  "audio_path": "downloads/FLS2_EP12_P07.mp3",
+  "episode": 12,
+  "piste": 7,
+  "page": 91,
+  "cd": "CD2"
+}

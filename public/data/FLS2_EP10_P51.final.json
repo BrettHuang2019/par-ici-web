@@ -1,0 +1,1221 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 10 Piste 51 Page 77",
+      "translations": {
+        "zh": "第10集 第51轨 第77页",
+        "en": "Episode 10 Track 51 Page 77",
+        "es": "Episodio 10 Pista 51 Página 77"
+      },
+      "start": 0.56,
+      "end": 6.24,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.56,
+          "end": 1.2
+        },
+        {
+          "text": "10",
+          "start": 1.6,
+          "end": 2.0
+        },
+        {
+          "text": "Piste",
+          "start": 2.8,
+          "end": 2.8
+        },
+        {
+          "text": "51",
+          "start": 3.92,
+          "end": 4.72
+        },
+        {
+          "text": "Page",
+          "start": 4.72,
+          "end": 4.72
+        },
+        {
+          "text": "77",
+          "start": 6.24,
+          "end": 6.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 10",
+          "translations": {
+            "zh": "第10集",
+            "en": "Episode 10",
+            "es": "Episodio 10"
+          },
+          "start": 0.56,
+          "end": 2.0
+        },
+        {
+          "text": "Piste 51",
+          "translations": {
+            "zh": "第51轨",
+            "en": "Track 51",
+            "es": "Pista 51"
+          },
+          "start": 2.8,
+          "end": 4.72
+        },
+        {
+          "text": "Page 77",
+          "translations": {
+            "zh": "第77页",
+            "en": "Page 77",
+            "es": "Página 77"
+          },
+          "start": 4.72,
+          "end": 6.24
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Pis, comment ça va ?",
+      "translations": {
+        "zh": "那么，你怎么样？",
+        "en": "So, how's it going?",
+        "es": "Entonces, ¿cómo va eso?"
+      },
+      "start": 11.28,
+      "end": 12.16,
+      "words": [
+        {
+          "text": "Pis",
+          "start": 11.28,
+          "end": 11.44
+        },
+        {
+          "text": "comment",
+          "start": 11.52,
+          "end": 11.68
+        },
+        {
+          "text": "ça",
+          "start": 11.76,
+          "end": 11.92
+        },
+        {
+          "text": "va",
+          "start": 11.92,
+          "end": 12.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pis,",
+          "translations": {
+            "zh": "那么，",
+            "en": "So,",
+            "es": "Entonces,"
+          },
+          "start": 11.28,
+          "end": 11.44
+        },
+        {
+          "text": "comment ça va ?",
+          "translations": {
+            "zh": "你怎么样？",
+            "en": "how's it going?",
+            "es": "¿cómo va eso?"
+          },
+          "start": 11.52,
+          "end": 12.16
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Le médecin est passé tout à l'heure.",
+      "translations": {
+        "zh": "医生刚才来过了。",
+        "en": "The doctor came by earlier.",
+        "es": "El médico pasó hace un rato."
+      },
+      "start": 12.72,
+      "end": 14.24,
+      "words": [
+        {
+          "text": "Le",
+          "start": 12.72,
+          "end": 12.88
+        },
+        {
+          "text": "médecin",
+          "start": 12.88,
+          "end": 13.12
+        },
+        {
+          "text": "est",
+          "start": 13.12,
+          "end": 13.28
+        },
+        {
+          "text": "passé",
+          "start": 13.28,
+          "end": 13.6
+        },
+        {
+          "text": "tout",
+          "start": 13.68,
+          "end": 13.76
+        },
+        {
+          "text": "à",
+          "start": 13.76,
+          "end": 13.92
+        },
+        {
+          "text": "l'heure",
+          "start": 13.92,
+          "end": 14.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le médecin est passé",
+          "translations": {
+            "zh": "医生来过了",
+            "en": "The doctor came by",
+            "es": "El médico pasó"
+          },
+          "start": 12.72,
+          "end": 13.6
+        },
+        {
+          "text": "tout à l'heure.",
+          "translations": {
+            "zh": "刚才。",
+            "en": "earlier.",
+            "es": "hace un rato."
+          },
+          "start": 13.68,
+          "end": 14.24
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Il dit que mon état s'améliore tranquillement.",
+      "translations": {
+        "zh": "他说我的状况在慢慢好转。",
+        "en": "He says that my condition is improving gradually.",
+        "es": "Dice que mi estado mejora poco a poco."
+      },
+      "start": 14.56,
+      "end": 16.4,
+      "words": [
+        {
+          "text": "Il",
+          "start": 14.56,
+          "end": 14.72
+        },
+        {
+          "text": "dit",
+          "start": 14.72,
+          "end": 14.88
+        },
+        {
+          "text": "que",
+          "start": 14.88,
+          "end": 14.96
+        },
+        {
+          "text": "mon",
+          "start": 14.96,
+          "end": 15.04
+        },
+        {
+          "text": "état",
+          "start": 15.04,
+          "end": 15.36
+        },
+        {
+          "text": "s'améliore",
+          "start": 15.36,
+          "end": 15.84
+        },
+        {
+          "text": "tranquillement",
+          "start": 15.84,
+          "end": 16.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il dit que",
+          "translations": {
+            "zh": "他说",
+            "en": "He says that",
+            "es": "Dice que"
+          },
+          "start": 14.56,
+          "end": 14.96
+        },
+        {
+          "text": "mon état s'améliore tranquillement.",
+          "translations": {
+            "zh": "我的状况在慢慢好转。",
+            "en": "my condition is improving gradually.",
+            "es": "mi estado mejora poco a poco."
+          },
+          "start": 14.96,
+          "end": 16.4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "J'ai encore mal, mais moins qu'hier.",
+      "translations": {
+        "zh": "我还是疼，但比昨天轻了。",
+        "en": "I'm still in pain, but less than yesterday.",
+        "es": "Todavía me duele, pero menos que ayer."
+      },
+      "start": 16.64,
+      "end": 18.48,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 16.64,
+          "end": 16.88
+        },
+        {
+          "text": "encore",
+          "start": 16.88,
+          "end": 17.12
+        },
+        {
+          "text": "mal",
+          "start": 17.12,
+          "end": 17.44
+        },
+        {
+          "text": "mais",
+          "start": 17.44,
+          "end": 17.76
+        },
+        {
+          "text": "moins",
+          "start": 17.76,
+          "end": 17.92
+        },
+        {
+          "text": "qu'hier",
+          "start": 17.92,
+          "end": 18.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai encore mal,",
+          "translations": {
+            "zh": "我还是疼，",
+            "en": "I'm still in pain,",
+            "es": "Todavía me duele,"
+          },
+          "start": 16.64,
+          "end": 17.44
+        },
+        {
+          "text": "mais moins qu'hier.",
+          "translations": {
+            "zh": "但比昨天轻了。",
+            "en": "but less than yesterday.",
+            "es": "pero menos que ayer."
+          },
+          "start": 17.44,
+          "end": 18.48
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Comment tu te sens ?",
+      "translations": {
+        "zh": "你感觉怎么样？",
+        "en": "How are you feeling?",
+        "es": "¿Cómo te sientes?"
+      },
+      "start": 19.92,
+      "end": 21.92,
+      "words": [
+        {
+          "text": "Comment",
+          "start": 19.92,
+          "end": 21.44
+        },
+        {
+          "text": "tu",
+          "start": 21.44,
+          "end": 21.6
+        },
+        {
+          "text": "te",
+          "start": 21.6,
+          "end": 21.6
+        },
+        {
+          "text": "sens",
+          "start": 21.6,
+          "end": 21.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Comment tu te sens ?",
+          "translations": {
+            "zh": "你感觉怎么样？",
+            "en": "How are you feeling?",
+            "es": "¿Cómo te sientes?"
+          },
+          "start": 19.92,
+          "end": 21.92
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Ah, je ne suis vraiment pas au sommet de ma forme.",
+      "translations": {
+        "zh": "啊，我真的不在最佳状态。",
+        "en": "Ah, I'm really not at the top of my form.",
+        "es": "Ah, realmente no estoy en mi mejor forma."
+      },
+      "start": 22.56,
+      "end": 24.56,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 22.56,
+          "end": 22.72
+        },
+        {
+          "text": "je",
+          "start": 23.04,
+          "end": 23.04
+        },
+        {
+          "text": "ne",
+          "start": 23.04,
+          "end": 23.2
+        },
+        {
+          "text": "suis",
+          "start": 23.2,
+          "end": 23.2
+        },
+        {
+          "text": "vraiment",
+          "start": 23.2,
+          "end": 23.6
+        },
+        {
+          "text": "pas",
+          "start": 23.6,
+          "end": 23.76
+        },
+        {
+          "text": "au",
+          "start": 23.76,
+          "end": 23.84
+        },
+        {
+          "text": "sommet",
+          "start": 23.84,
+          "end": 24.08
+        },
+        {
+          "text": "de",
+          "start": 24.08,
+          "end": 24.16
+        },
+        {
+          "text": "ma",
+          "start": 24.16,
+          "end": 24.24
+        },
+        {
+          "text": "forme",
+          "start": 24.24,
+          "end": 24.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah,",
+          "translations": {
+            "zh": "啊，",
+            "en": "Ah,",
+            "es": "Ah,"
+          },
+          "start": 22.56,
+          "end": 22.72
+        },
+        {
+          "text": "je ne suis vraiment pas",
+          "translations": {
+            "zh": "我真的不是",
+            "en": "I'm really not",
+            "es": "realmente no estoy"
+          },
+          "start": 23.04,
+          "end": 23.76
+        },
+        {
+          "text": "au sommet de ma forme.",
+          "translations": {
+            "zh": "处于最佳状态。",
+            "en": "at the top of my form.",
+            "es": "en mi mejor forma."
+          },
+          "start": 23.76,
+          "end": 24.56
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "J'ai tellement mal au dos...",
+      "translations": {
+        "zh": "我的背好疼……",
+        "en": "I have so much pain in my back...",
+        "es": "Me duele tanto la espalda..."
+      },
+      "start": 24.88,
+      "end": 26.08,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 24.88,
+          "end": 25.12
+        },
+        {
+          "text": "tellement",
+          "start": 25.12,
+          "end": 25.52
+        },
+        {
+          "text": "mal",
+          "start": 25.52,
+          "end": 25.68
+        },
+        {
+          "text": "au",
+          "start": 25.68,
+          "end": 25.84
+        },
+        {
+          "text": "dos",
+          "start": 25.84,
+          "end": 26.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai tellement mal",
+          "translations": {
+            "zh": "我好疼，",
+            "en": "I have so much pain",
+            "es": "Me duele tanto"
+          },
+          "start": 24.88,
+          "end": 25.68
+        },
+        {
+          "text": "au dos...",
+          "translations": {
+            "zh": "是背……",
+            "en": "in my back...",
+            "es": "la espalda..."
+          },
+          "start": 25.68,
+          "end": 26.08
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "C'est pire qu'hier.",
+      "translations": {
+        "zh": "比昨天更严重了。",
+        "en": "It's worse than yesterday.",
+        "es": "Es peor que ayer."
+      },
+      "start": 26.48,
+      "end": 27.44,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 26.48,
+          "end": 26.72
+        },
+        {
+          "text": "pire",
+          "start": 26.72,
+          "end": 26.96
+        },
+        {
+          "text": "qu'hier",
+          "start": 26.96,
+          "end": 27.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est pire qu'hier.",
+          "translations": {
+            "zh": "比昨天更严重了。",
+            "en": "It's worse than yesterday.",
+            "es": "Es peor que ayer."
+          },
+          "start": 26.48,
+          "end": 27.44
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Je me sens en pleine forme ce matin.",
+      "translations": {
+        "zh": "我今天早上感觉精力充沛。",
+        "en": "I feel in great shape this morning.",
+        "es": "Me siento en plena forma esta mañana."
+      },
+      "start": 30.16,
+      "end": 31.6,
+      "words": [
+        {
+          "text": "Je",
+          "start": 30.16,
+          "end": 30.24
+        },
+        {
+          "text": "me",
+          "start": 30.24,
+          "end": 30.4
+        },
+        {
+          "text": "sens",
+          "start": 30.4,
+          "end": 30.64
+        },
+        {
+          "text": "en",
+          "start": 30.64,
+          "end": 30.64
+        },
+        {
+          "text": "pleine",
+          "start": 30.64,
+          "end": 30.88
+        },
+        {
+          "text": "forme",
+          "start": 30.88,
+          "end": 31.2
+        },
+        {
+          "text": "ce",
+          "start": 31.2,
+          "end": 31.28
+        },
+        {
+          "text": "matin",
+          "start": 31.28,
+          "end": 31.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je me sens",
+          "translations": {
+            "zh": "我感觉",
+            "en": "I feel",
+            "es": "Me siento"
+          },
+          "start": 30.16,
+          "end": 30.64
+        },
+        {
+          "text": "en pleine forme",
+          "translations": {
+            "zh": "精力充沛",
+            "en": "in great shape",
+            "es": "en plena forma"
+          },
+          "start": 30.64,
+          "end": 31.2
+        },
+        {
+          "text": "ce matin.",
+          "translations": {
+            "zh": "今天早上。",
+            "en": "this morning.",
+            "es": "esta mañana."
+          },
+          "start": 31.2,
+          "end": 31.6
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "J'ai l'impression que les médicaments commencent à agir.",
+      "translations": {
+        "zh": "我觉得药物开始起效了。",
+        "en": "I have the impression that the medications are starting to work.",
+        "es": "Tengo la impresión de que los medicamentos empiezan a hacer efecto."
+      },
+      "start": 31.84,
+      "end": 34.24,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 31.84,
+          "end": 32.0
+        },
+        {
+          "text": "l'impression",
+          "start": 32.0,
+          "end": 32.48
+        },
+        {
+          "text": "que",
+          "start": 32.48,
+          "end": 32.56
+        },
+        {
+          "text": "les",
+          "start": 32.56,
+          "end": 32.64
+        },
+        {
+          "text": "médicaments",
+          "start": 32.64,
+          "end": 33.2
+        },
+        {
+          "text": "commencent",
+          "start": 33.2,
+          "end": 33.6
+        },
+        {
+          "text": "à",
+          "start": 33.6,
+          "end": 33.68
+        },
+        {
+          "text": "agir",
+          "start": 33.68,
+          "end": 34.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai l'impression que",
+          "translations": {
+            "zh": "我觉得",
+            "en": "I have the impression that",
+            "es": "Tengo la impresión de que"
+          },
+          "start": 31.84,
+          "end": 32.56
+        },
+        {
+          "text": "les médicaments commencent à agir.",
+          "translations": {
+            "zh": "药物开始起效了。",
+            "en": "the medications are starting to work.",
+            "es": "los medicamentos empiezan a hacer efecto."
+          },
+          "start": 32.56,
+          "end": 34.24
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Super !",
+      "translations": {
+        "zh": "太好了！",
+        "en": "Great!",
+        "es": "¡Genial!"
+      },
+      "start": 34.48,
+      "end": 35.2,
+      "words": [
+        {
+          "text": "Super",
+          "start": 34.48,
+          "end": 35.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Super !",
+          "translations": {
+            "zh": "太好了！",
+            "en": "Great!",
+            "es": "¡Genial!"
+          },
+          "start": 34.48,
+          "end": 35.2
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Et puis, comment tu te sens ?",
+      "translations": {
+        "zh": "还有，你感觉怎么样？",
+        "en": "And then, how are you feeling?",
+        "es": "Y entonces, ¿cómo te sientes?"
+      },
+      "start": 38.8,
+      "end": 39.76,
+      "words": [
+        {
+          "text": "Et",
+          "start": 38.8,
+          "end": 38.88
+        },
+        {
+          "text": "puis",
+          "start": 38.88,
+          "end": 39.2
+        },
+        {
+          "text": "comment",
+          "start": 39.2,
+          "end": 39.44
+        },
+        {
+          "text": "tu",
+          "start": 39.44,
+          "end": 39.52
+        },
+        {
+          "text": "te",
+          "start": 39.52,
+          "end": 39.6
+        },
+        {
+          "text": "sens",
+          "start": 39.6,
+          "end": 39.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et puis,",
+          "translations": {
+            "zh": "还有，",
+            "en": "And then,",
+            "es": "Y entonces,"
+          },
+          "start": 38.8,
+          "end": 39.2
+        },
+        {
+          "text": "comment tu te sens ?",
+          "translations": {
+            "zh": "你感觉怎么样？",
+            "en": "how are you feeling?",
+            "es": "¿cómo te sientes?"
+          },
+          "start": 39.2,
+          "end": 39.76
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Pas pire, mais j'ai hâte que le médicament fasse effet.",
+      "translations": {
+        "zh": "不算糟，但我急着等药起效。",
+        "en": "Not worse, but I can't wait for the medication to take effect.",
+        "es": "No peor, pero tengo ansia de que el medicamento haga efecto."
+      },
+      "start": 40.56,
+      "end": 43.28,
+      "words": [
+        {
+          "text": "Pas",
+          "start": 40.56,
+          "end": 40.72
+        },
+        {
+          "text": "pire",
+          "start": 40.72,
+          "end": 41.12
+        },
+        {
+          "text": "mais",
+          "start": 41.6,
+          "end": 41.76
+        },
+        {
+          "text": "j'ai",
+          "start": 41.76,
+          "end": 41.92
+        },
+        {
+          "text": "hâte",
+          "start": 41.92,
+          "end": 42.16
+        },
+        {
+          "text": "que",
+          "start": 42.16,
+          "end": 42.24
+        },
+        {
+          "text": "le",
+          "start": 42.24,
+          "end": 42.24
+        },
+        {
+          "text": "médicament",
+          "start": 42.24,
+          "end": 42.72
+        },
+        {
+          "text": "fasse",
+          "start": 42.72,
+          "end": 42.96
+        },
+        {
+          "text": "effet",
+          "start": 42.96,
+          "end": 43.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pas pire,",
+          "translations": {
+            "zh": "不算糟，",
+            "en": "Not worse,",
+            "es": "No peor,"
+          },
+          "start": 40.56,
+          "end": 41.12
+        },
+        {
+          "text": "mais j'ai hâte",
+          "translations": {
+            "zh": "但我急着",
+            "en": "but I can't wait",
+            "es": "pero tengo ansia"
+          },
+          "start": 41.6,
+          "end": 42.16
+        },
+        {
+          "text": "que le médicament fasse effet.",
+          "translations": {
+            "zh": "药起效。",
+            "en": "for the medication to take effect.",
+            "es": "de que el medicamento haga efecto."
+          },
+          "start": 42.16,
+          "end": 43.28
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Tu as l'air mieux ce matin.",
+      "translations": {
+        "zh": "你今天早上看起来好多了。",
+        "en": "You look better this morning.",
+        "es": "Tienes mejor aspecto esta mañana."
+      },
+      "start": 46.24,
+      "end": 48.4,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 46.24,
+          "end": 46.32
+        },
+        {
+          "text": "as",
+          "start": 46.48,
+          "end": 46.72
+        },
+        {
+          "text": "l'air",
+          "start": 47.6,
+          "end": 47.84
+        },
+        {
+          "text": "mieux",
+          "start": 47.84,
+          "end": 48.0
+        },
+        {
+          "text": "ce",
+          "start": 48.0,
+          "end": 48.16
+        },
+        {
+          "text": "matin",
+          "start": 48.16,
+          "end": 48.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu as l'air mieux",
+          "translations": {
+            "zh": "你看起来好多了",
+            "en": "You look better",
+            "es": "Tienes mejor aspecto"
+          },
+          "start": 46.24,
+          "end": 48.0
+        },
+        {
+          "text": "ce matin.",
+          "translations": {
+            "zh": "今天早上。",
+            "en": "this morning.",
+            "es": "esta mañana."
+          },
+          "start": 48.0,
+          "end": 48.4
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Les antidouleurs me font beaucoup de bien.",
+      "translations": {
+        "zh": "止痛药对我很有帮助。",
+        "en": "The painkillers are doing me a lot of good.",
+        "es": "Los analgésicos me hacen mucho bien."
+      },
+      "start": 49.04,
+      "end": 50.48,
+      "words": [
+        {
+          "text": "Les",
+          "start": 49.04,
+          "end": 49.2
+        },
+        {
+          "text": "antidouleurs",
+          "start": 49.2,
+          "end": 49.76
+        },
+        {
+          "text": "me",
+          "start": 49.76,
+          "end": 49.76
+        },
+        {
+          "text": "font",
+          "start": 49.76,
+          "end": 50.0
+        },
+        {
+          "text": "beaucoup",
+          "start": 50.0,
+          "end": 50.24
+        },
+        {
+          "text": "de",
+          "start": 50.24,
+          "end": 50.24
+        },
+        {
+          "text": "bien",
+          "start": 50.24,
+          "end": 50.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les antidouleurs",
+          "translations": {
+            "zh": "止痛药",
+            "en": "The painkillers",
+            "es": "Los analgésicos"
+          },
+          "start": 49.04,
+          "end": 49.76
+        },
+        {
+          "text": "me font beaucoup de bien.",
+          "translations": {
+            "zh": "对我很有帮助。",
+            "en": "are doing me a lot of good.",
+            "es": "me hacen mucho bien."
+          },
+          "start": 49.76,
+          "end": 50.48
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "À vrai dire, je n'ai plus mal du tout, c'est comme si la douleur n'avait jamais été là.",
+      "translations": {
+        "zh": "说实话，我一点也不疼了，就好像从来没有疼过一样。",
+        "en": "To tell the truth, I don't hurt at all anymore, it's as if the pain had never been there.",
+        "es": "A decir verdad, ya no me duele nada, es como si el dolor nunca hubiera estado ahí."
+      },
+      "start": 50.88,
+      "end": 53.92,
+      "words": [
+        {
+          "text": "À",
+          "start": 50.88,
+          "end": 51.04
+        },
+        {
+          "text": "vrai",
+          "start": 51.04,
+          "end": 51.2
+        },
+        {
+          "text": "dire",
+          "start": 51.2,
+          "end": 51.36
+        },
+        {
+          "text": "je",
+          "start": 51.36,
+          "end": 51.52
+        },
+        {
+          "text": "n'ai",
+          "start": 51.52,
+          "end": 51.52
+        },
+        {
+          "text": "plus",
+          "start": 51.52,
+          "end": 51.68
+        },
+        {
+          "text": "mal",
+          "start": 51.68,
+          "end": 51.84
+        },
+        {
+          "text": "du",
+          "start": 51.84,
+          "end": 52.0
+        },
+        {
+          "text": "tout",
+          "start": 52.0,
+          "end": 52.16
+        },
+        {
+          "text": "c'est",
+          "start": 52.32,
+          "end": 52.48
+        },
+        {
+          "text": "comme",
+          "start": 52.48,
+          "end": 52.64
+        },
+        {
+          "text": "si",
+          "start": 52.64,
+          "end": 52.8
+        },
+        {
+          "text": "la",
+          "start": 52.8,
+          "end": 52.96
+        },
+        {
+          "text": "douleur",
+          "start": 52.96,
+          "end": 53.2
+        },
+        {
+          "text": "n'avait",
+          "start": 53.2,
+          "end": 53.36
+        },
+        {
+          "text": "jamais",
+          "start": 53.36,
+          "end": 53.6
+        },
+        {
+          "text": "été",
+          "start": 53.6,
+          "end": 53.76
+        },
+        {
+          "text": "là",
+          "start": 53.76,
+          "end": 53.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "À vrai dire,",
+          "translations": {
+            "zh": "说实话，",
+            "en": "To tell the truth,",
+            "es": "A decir verdad,"
+          },
+          "start": 50.88,
+          "end": 51.36
+        },
+        {
+          "text": "je n'ai plus mal du tout,",
+          "translations": {
+            "zh": "我一点也不疼了，",
+            "en": "I don't hurt at all anymore,",
+            "es": "ya no me duele nada,"
+          },
+          "start": 51.36,
+          "end": 52.16
+        },
+        {
+          "text": "c'est comme si",
+          "translations": {
+            "zh": "就好像",
+            "en": "it's as if",
+            "es": "es como si"
+          },
+          "start": 52.32,
+          "end": 52.8
+        },
+        {
+          "text": "la douleur n'avait jamais été là.",
+          "translations": {
+            "zh": "从来没有疼过一样。",
+            "en": "the pain had never been there.",
+            "es": "el dolor nunca hubiera estado ahí."
+          },
+          "start": 52.8,
+          "end": 53.92
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP10_P51",
+  "audio_filename": "FLS2_EP10_P51.mp3",
+  "audio_path": "downloads/FLS2_EP10_P51.mp3",
+  "episode": 10,
+  "piste": 51,
+  "page": 77,
+  "cd": "CD1"
+}

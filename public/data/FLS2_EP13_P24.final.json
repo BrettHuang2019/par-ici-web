@@ -1,0 +1,1986 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 13 Piste 24 Page 103",
+      "translations": {
+        "zh": "第13集 第24轨 第103页",
+        "en": "Episode 13 Track 24 Page 103",
+        "es": "Episodio 13 Pista 24 Página 103"
+      },
+      "start": 0.72,
+      "end": 7.76,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.72,
+          "end": 1.44
+        },
+        {
+          "text": "13",
+          "start": 1.92,
+          "end": 2.48
+        },
+        {
+          "text": "Piste",
+          "start": 3.28,
+          "end": 3.76
+        },
+        {
+          "text": "24",
+          "start": 4.08,
+          "end": 4.96
+        },
+        {
+          "text": "Page",
+          "start": 4.96,
+          "end": 4.96
+        },
+        {
+          "text": "103",
+          "start": 6.56,
+          "end": 7.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 13",
+          "translations": {
+            "zh": "第13集",
+            "en": "Episode 13",
+            "es": "Episodio 13"
+          },
+          "start": 0.72,
+          "end": 2.48
+        },
+        {
+          "text": "Piste 24",
+          "translations": {
+            "zh": "第24轨",
+            "en": "Track 24",
+            "es": "Pista 24"
+          },
+          "start": 3.28,
+          "end": 4.96
+        },
+        {
+          "text": "Page 103",
+          "translations": {
+            "zh": "第103页",
+            "en": "Page 103",
+            "es": "Página 103"
+          },
+          "start": 4.96,
+          "end": 7.76
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "On y va chaque été depuis trois ans.",
+      "translations": {
+        "zh": "我们每年夏天都去那里，已经三年了。",
+        "en": "We've been going there every summer for three years.",
+        "es": "Vamos allí cada verano desde hace tres años."
+      },
+      "start": 8.72,
+      "end": 10.88,
+      "words": [
+        {
+          "text": "On",
+          "start": 8.72,
+          "end": 8.8
+        },
+        {
+          "text": "y",
+          "start": 9.44,
+          "end": 9.44
+        },
+        {
+          "text": "va",
+          "start": 9.6,
+          "end": 9.68
+        },
+        {
+          "text": "chaque",
+          "start": 9.68,
+          "end": 9.92
+        },
+        {
+          "text": "été",
+          "start": 9.92,
+          "end": 10.16
+        },
+        {
+          "text": "depuis",
+          "start": 10.16,
+          "end": 10.4
+        },
+        {
+          "text": "trois",
+          "start": 10.4,
+          "end": 10.8
+        },
+        {
+          "text": "ans",
+          "start": 10.8,
+          "end": 10.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On y va chaque été",
+          "translations": {
+            "zh": "我们每年夏天都去那里，",
+            "en": "We go there every summer",
+            "es": "Vamos allí cada verano"
+          },
+          "start": 8.72,
+          "end": 10.16
+        },
+        {
+          "text": "depuis trois ans.",
+          "translations": {
+            "zh": "已经三年了。",
+            "en": "for three years.",
+            "es": "desde hace tres años."
+          },
+          "start": 10.16,
+          "end": 10.88
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "C'est loin de Montréal, c'est vrai, mais c'est magnifique.",
+      "translations": {
+        "zh": "离蒙特利尔很远，这是真的，但那里很美。",
+        "en": "It's far from Montreal, it's true, but it's magnificent.",
+        "es": "Está lejos de Montreal, es verdad, pero es magnífico."
+      },
+      "start": 11.68,
+      "end": 15.04,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 11.68,
+          "end": 11.84
+        },
+        {
+          "text": "loin",
+          "start": 11.84,
+          "end": 11.92
+        },
+        {
+          "text": "de",
+          "start": 11.92,
+          "end": 12.0
+        },
+        {
+          "text": "Montréal",
+          "start": 12.0,
+          "end": 12.48
+        },
+        {
+          "text": "c'est",
+          "start": 12.48,
+          "end": 12.64
+        },
+        {
+          "text": "vrai",
+          "start": 12.64,
+          "end": 12.96
+        },
+        {
+          "text": "mais",
+          "start": 12.96,
+          "end": 13.28
+        },
+        {
+          "text": "c'est",
+          "start": 13.76,
+          "end": 14.0
+        },
+        {
+          "text": "magnifique",
+          "start": 14.0,
+          "end": 15.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est loin de Montréal,",
+          "translations": {
+            "zh": "离蒙特利尔很远，",
+            "en": "It's far from Montreal,",
+            "es": "Está lejos de Montreal,"
+          },
+          "start": 11.68,
+          "end": 12.48
+        },
+        {
+          "text": "c'est vrai,",
+          "translations": {
+            "zh": "这是真的，",
+            "en": "it's true,",
+            "es": "es verdad,"
+          },
+          "start": 12.48,
+          "end": 12.96
+        },
+        {
+          "text": "mais c'est magnifique.",
+          "translations": {
+            "zh": "但那里很美。",
+            "en": "but it's magnificent.",
+            "es": "pero es magnífico."
+          },
+          "start": 12.96,
+          "end": 15.04
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Et les Madelinots sont tellement sympathiques !",
+      "translations": {
+        "zh": "而且马德兰人非常友善！",
+        "en": "And the Madelinots are so friendly!",
+        "es": "¡Y los de las Islas de la Magdalena son tan simpáticos!"
+      },
+      "start": 15.44,
+      "end": 17.6,
+      "words": [
+        {
+          "text": "Et",
+          "start": 15.44,
+          "end": 15.52
+        },
+        {
+          "text": "les",
+          "start": 15.52,
+          "end": 15.6
+        },
+        {
+          "text": "Madelinots",
+          "start": 15.6,
+          "end": 16.08
+        },
+        {
+          "text": "sont",
+          "start": 16.08,
+          "end": 16.32
+        },
+        {
+          "text": "tellement",
+          "start": 16.56,
+          "end": 16.88
+        },
+        {
+          "text": "sympathiques",
+          "start": 16.88,
+          "end": 17.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et les Madelinots",
+          "translations": {
+            "zh": "而且马德兰人",
+            "en": "And the Madelinots",
+            "es": "Y los de las Islas de la Magdalena"
+          },
+          "start": 15.44,
+          "end": 16.08
+        },
+        {
+          "text": "sont tellement sympathiques !",
+          "translations": {
+            "zh": "非常友善！",
+            "en": "are so friendly!",
+            "es": "¡son tan simpáticos!"
+          },
+          "start": 16.08,
+          "end": 17.6
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Ils sont allés à Drummondville, au festival de la poutine.",
+      "translations": {
+        "zh": "他们去了德拉蒙德维尔，参加普丁节。",
+        "en": "They went to Drummondville, to the poutine festival.",
+        "es": "Fueron a Drummondville, al festival de la poutine."
+      },
+      "start": 19.28,
+      "end": 23.52,
+      "words": [
+        {
+          "text": "Ils",
+          "start": 19.28,
+          "end": 19.52
+        },
+        {
+          "text": "sont",
+          "start": 20.64,
+          "end": 20.88
+        },
+        {
+          "text": "allés",
+          "start": 20.88,
+          "end": 21.12
+        },
+        {
+          "text": "à",
+          "start": 21.12,
+          "end": 21.2
+        },
+        {
+          "text": "Drummondville",
+          "start": 21.2,
+          "end": 22.0
+        },
+        {
+          "text": "au",
+          "start": 22.16,
+          "end": 22.24
+        },
+        {
+          "text": "festival",
+          "start": 22.24,
+          "end": 22.88
+        },
+        {
+          "text": "de",
+          "start": 22.88,
+          "end": 22.88
+        },
+        {
+          "text": "la",
+          "start": 22.88,
+          "end": 23.04
+        },
+        {
+          "text": "poutine",
+          "start": 23.04,
+          "end": 23.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ils sont allés à Drummondville,",
+          "translations": {
+            "zh": "他们去了德拉蒙德维尔，",
+            "en": "They went to Drummondville,",
+            "es": "Fueron a Drummondville,"
+          },
+          "start": 19.28,
+          "end": 22.0
+        },
+        {
+          "text": "au festival de la poutine.",
+          "translations": {
+            "zh": "参加普丁节。",
+            "en": "to the poutine festival.",
+            "es": "al festival de la poutine."
+          },
+          "start": 22.16,
+          "end": 23.52
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Ils y sont allés juste pour manger de la poutine !",
+      "translations": {
+        "zh": "他们去那里只是为了吃普丁！",
+        "en": "They went there just to eat poutine!",
+        "es": "¡Fueron allí solo para comer poutine!"
+      },
+      "start": 23.92,
+      "end": 26.24,
+      "words": [
+        {
+          "text": "Ils",
+          "start": 23.92,
+          "end": 24.08
+        },
+        {
+          "text": "y",
+          "start": 24.16,
+          "end": 24.24
+        },
+        {
+          "text": "sont",
+          "start": 24.24,
+          "end": 24.48
+        },
+        {
+          "text": "allés",
+          "start": 24.48,
+          "end": 24.72
+        },
+        {
+          "text": "juste",
+          "start": 24.72,
+          "end": 25.12
+        },
+        {
+          "text": "pour",
+          "start": 25.12,
+          "end": 25.28
+        },
+        {
+          "text": "manger",
+          "start": 25.28,
+          "end": 25.6
+        },
+        {
+          "text": "de",
+          "start": 25.6,
+          "end": 25.68
+        },
+        {
+          "text": "la",
+          "start": 25.68,
+          "end": 25.76
+        },
+        {
+          "text": "poutine",
+          "start": 25.76,
+          "end": 26.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ils y sont allés",
+          "translations": {
+            "zh": "他们去那里",
+            "en": "They went there",
+            "es": "Fueron allí"
+          },
+          "start": 23.92,
+          "end": 24.72
+        },
+        {
+          "text": "juste pour manger de la poutine !",
+          "translations": {
+            "zh": "只是为了吃普丁！",
+            "en": "just to eat poutine!",
+            "es": "¡solo para comer poutine!"
+          },
+          "start": 24.72,
+          "end": 26.24
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "S'ils prennent le train de 9 h pour se rendre à Québec, ils y arriveront à midi trente.",
+      "translations": {
+        "zh": "如果他们乘坐九点的火车去魁北克，他们将在中午十二点半到达那里。",
+        "en": "If they take the 9 a.m. train to get to Quebec City, they will arrive there at twelve thirty.",
+        "es": "Si toman el tren de las 9 h para ir a Quebec, llegarán allí a las doce y media."
+      },
+      "start": 28.0,
+      "end": 33.44,
+      "words": [
+        {
+          "text": "S'ils",
+          "start": 28.0,
+          "end": 28.0
+        },
+        {
+          "text": "prennent",
+          "start": 29.36,
+          "end": 29.6
+        },
+        {
+          "text": "le",
+          "start": 29.6,
+          "end": 29.68
+        },
+        {
+          "text": "train",
+          "start": 29.68,
+          "end": 29.92
+        },
+        {
+          "text": "de",
+          "start": 29.92,
+          "end": 30.0
+        },
+        {
+          "text": "9",
+          "start": 30.08,
+          "end": 30.08
+        },
+        {
+          "text": "h",
+          "start": 30.48,
+          "end": 30.48
+        },
+        {
+          "text": "pour",
+          "start": 30.56,
+          "end": 30.64
+        },
+        {
+          "text": "se",
+          "start": 30.64,
+          "end": 30.72
+        },
+        {
+          "text": "rendre",
+          "start": 30.72,
+          "end": 30.88
+        },
+        {
+          "text": "à",
+          "start": 30.88,
+          "end": 30.96
+        },
+        {
+          "text": "Québec",
+          "start": 30.96,
+          "end": 31.44
+        },
+        {
+          "text": "ils",
+          "start": 31.92,
+          "end": 32.08
+        },
+        {
+          "text": "y",
+          "start": 32.08,
+          "end": 32.16
+        },
+        {
+          "text": "arriveront",
+          "start": 32.16,
+          "end": 32.56
+        },
+        {
+          "text": "à",
+          "start": 32.56,
+          "end": 32.64
+        },
+        {
+          "text": "midi",
+          "start": 32.64,
+          "end": 32.88
+        },
+        {
+          "text": "trente",
+          "start": 32.88,
+          "end": 33.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "S'ils prennent le train de 9 h",
+          "translations": {
+            "zh": "如果他们乘坐九点的火车",
+            "en": "If they take the 9 a.m. train",
+            "es": "Si toman el tren de las 9 h"
+          },
+          "start": 28.0,
+          "end": 30.48
+        },
+        {
+          "text": "pour se rendre à Québec,",
+          "translations": {
+            "zh": "去魁北克，",
+            "en": "to get to Quebec City,",
+            "es": "para ir a Quebec,"
+          },
+          "start": 30.56,
+          "end": 31.44
+        },
+        {
+          "text": "ils y arriveront à midi trente.",
+          "translations": {
+            "zh": "他们将在中午十二点半到达那里。",
+            "en": "they will arrive there at twelve thirty.",
+            "es": "llegarán allí a las doce y media."
+          },
+          "start": 31.92,
+          "end": 33.44
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Ils vont pouvoir marcher jusqu'à leur hôtel, qui se trouve presque en face de la gare, sur la rue Saint-Paul.",
+      "translations": {
+        "zh": "他们可以步行到酒店，酒店就在火车站正对面，在圣保罗街上。",
+        "en": "They will be able to walk to their hotel, which is located almost across from the station, on Saint-Paul Street.",
+        "es": "Podrán caminar hasta su hotel, que se encuentra casi frente a la estación, en la calle Saint-Paul."
+      },
+      "start": 33.84,
+      "end": 38.56,
+      "words": [
+        {
+          "text": "Ils",
+          "start": 33.84,
+          "end": 33.92
+        },
+        {
+          "text": "vont",
+          "start": 33.92,
+          "end": 34.08
+        },
+        {
+          "text": "pouvoir",
+          "start": 34.08,
+          "end": 34.32
+        },
+        {
+          "text": "marcher",
+          "start": 34.32,
+          "end": 34.56
+        },
+        {
+          "text": "jusqu'à",
+          "start": 34.56,
+          "end": 34.88
+        },
+        {
+          "text": "leur",
+          "start": 34.88,
+          "end": 35.04
+        },
+        {
+          "text": "hôtel",
+          "start": 35.04,
+          "end": 35.44
+        },
+        {
+          "text": "qui",
+          "start": 35.76,
+          "end": 35.84
+        },
+        {
+          "text": "se",
+          "start": 35.84,
+          "end": 36.0
+        },
+        {
+          "text": "trouve",
+          "start": 36.0,
+          "end": 36.24
+        },
+        {
+          "text": "presque",
+          "start": 36.32,
+          "end": 36.56
+        },
+        {
+          "text": "en",
+          "start": 36.56,
+          "end": 36.64
+        },
+        {
+          "text": "face",
+          "start": 36.64,
+          "end": 37.04
+        },
+        {
+          "text": "de",
+          "start": 37.04,
+          "end": 37.12
+        },
+        {
+          "text": "la",
+          "start": 37.12,
+          "end": 37.28
+        },
+        {
+          "text": "gare",
+          "start": 37.28,
+          "end": 37.76
+        },
+        {
+          "text": "sur",
+          "start": 37.76,
+          "end": 37.92
+        },
+        {
+          "text": "la",
+          "start": 37.92,
+          "end": 38.0
+        },
+        {
+          "text": "rue",
+          "start": 38.0,
+          "end": 38.08
+        },
+        {
+          "text": "Saint",
+          "start": 38.08,
+          "end": 38.32
+        },
+        {
+          "text": "Paul",
+          "start": 38.32,
+          "end": 38.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ils vont pouvoir marcher",
+          "translations": {
+            "zh": "他们可以步行",
+            "en": "They will be able to walk",
+            "es": "Podrán caminar"
+          },
+          "start": 33.84,
+          "end": 34.56
+        },
+        {
+          "text": "jusqu'à leur hôtel,",
+          "translations": {
+            "zh": "到他们的酒店，",
+            "en": "to their hotel,",
+            "es": "hasta su hotel,"
+          },
+          "start": 34.56,
+          "end": 35.44
+        },
+        {
+          "text": "qui se trouve presque en face de la gare,",
+          "translations": {
+            "zh": "就在火车站正对面，",
+            "en": "which is located almost across from the station,",
+            "es": "que se encuentra casi frente a la estación,"
+          },
+          "start": 35.76,
+          "end": 37.76
+        },
+        {
+          "text": "sur la rue Saint-Paul.",
+          "translations": {
+            "zh": "在圣保罗街上。",
+            "en": "on Saint-Paul Street.",
+            "es": "en la calle Saint-Paul."
+          },
+          "start": 37.76,
+          "end": 38.56
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Mon amie Myra a fait la traversée de la Gaspésie en ski de fond l'année passée.",
+      "translations": {
+        "zh": "我的朋友迈拉去年越野滑雪穿越了加斯佩半岛。",
+        "en": "My friend Myra crossed the Gaspé Peninsula on cross-country skis last year.",
+        "es": "Mi amiga Myra hizo la travesía de la Gaspesia en esquí de fondo el año pasado."
+      },
+      "start": 41.76,
+      "end": 45.84,
+      "words": [
+        {
+          "text": "Mon",
+          "start": 41.76,
+          "end": 42.0
+        },
+        {
+          "text": "amie",
+          "start": 42.0,
+          "end": 42.24
+        },
+        {
+          "text": "Myra",
+          "start": 42.24,
+          "end": 42.56
+        },
+        {
+          "text": "a",
+          "start": 42.56,
+          "end": 42.72
+        },
+        {
+          "text": "fait",
+          "start": 42.72,
+          "end": 42.88
+        },
+        {
+          "text": "la",
+          "start": 42.88,
+          "end": 43.04
+        },
+        {
+          "text": "traversée",
+          "start": 43.04,
+          "end": 43.6
+        },
+        {
+          "text": "de",
+          "start": 43.6,
+          "end": 43.6
+        },
+        {
+          "text": "la",
+          "start": 43.68,
+          "end": 43.76
+        },
+        {
+          "text": "Gaspésie",
+          "start": 43.76,
+          "end": 44.48
+        },
+        {
+          "text": "en",
+          "start": 44.48,
+          "end": 44.56
+        },
+        {
+          "text": "ski",
+          "start": 44.56,
+          "end": 44.8
+        },
+        {
+          "text": "de",
+          "start": 44.8,
+          "end": 44.8
+        },
+        {
+          "text": "fond",
+          "start": 44.8,
+          "end": 45.12
+        },
+        {
+          "text": "l'année",
+          "start": 45.12,
+          "end": 45.36
+        },
+        {
+          "text": "passée",
+          "start": 45.36,
+          "end": 45.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mon amie Myra",
+          "translations": {
+            "zh": "我的朋友迈拉",
+            "en": "My friend Myra",
+            "es": "Mi amiga Myra"
+          },
+          "start": 41.76,
+          "end": 42.56
+        },
+        {
+          "text": "a fait la traversée de la Gaspésie",
+          "translations": {
+            "zh": "穿越了加斯佩半岛",
+            "en": "crossed the Gaspé Peninsula",
+            "es": "hizo la travesía de la Gaspesia"
+          },
+          "start": 42.56,
+          "end": 44.48
+        },
+        {
+          "text": "en ski de fond",
+          "translations": {
+            "zh": "越野滑雪",
+            "en": "on cross-country skis",
+            "es": "en esquí de fondo"
+          },
+          "start": 44.48,
+          "end": 45.12
+        },
+        {
+          "text": "l'année passée.",
+          "translations": {
+            "zh": "去年。",
+            "en": "last year.",
+            "es": "el año pasado."
+          },
+          "start": 45.12,
+          "end": 45.84
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Elle a adoré ça !",
+      "translations": {
+        "zh": "她非常喜欢！",
+        "en": "She loved it!",
+        "es": "¡Le encantó!"
+      },
+      "start": 46.24,
+      "end": 47.36,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 46.24,
+          "end": 46.4
+        },
+        {
+          "text": "a",
+          "start": 46.4,
+          "end": 46.56
+        },
+        {
+          "text": "adoré",
+          "start": 46.56,
+          "end": 47.04
+        },
+        {
+          "text": "ça",
+          "start": 47.04,
+          "end": 47.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle a adoré ça !",
+          "translations": {
+            "zh": "她非常喜欢！",
+            "en": "She loved it!",
+            "es": "¡Le encantó!"
+          },
+          "start": 46.24,
+          "end": 47.36
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Elle nous suggère d'y aller en février.",
+      "translations": {
+        "zh": "她建议我们二月份去那里。",
+        "en": "She suggests to us to go there in February.",
+        "es": "Ella nos sugiere ir allí en febrero."
+      },
+      "start": 47.68,
+      "end": 49.36,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 47.68,
+          "end": 47.84
+        },
+        {
+          "text": "nous",
+          "start": 47.84,
+          "end": 47.92
+        },
+        {
+          "text": "suggère",
+          "start": 47.92,
+          "end": 48.4
+        },
+        {
+          "text": "d'y",
+          "start": 48.4,
+          "end": 48.48
+        },
+        {
+          "text": "aller",
+          "start": 48.48,
+          "end": 48.72
+        },
+        {
+          "text": "en",
+          "start": 48.72,
+          "end": 48.8
+        },
+        {
+          "text": "février",
+          "start": 48.8,
+          "end": 49.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle nous suggère",
+          "translations": {
+            "zh": "她建议我们",
+            "en": "She suggests to us",
+            "es": "Ella nos sugiere"
+          },
+          "start": 47.68,
+          "end": 48.4
+        },
+        {
+          "text": "d'y aller en février.",
+          "translations": {
+            "zh": "二月份去那里。",
+            "en": "to go there in February.",
+            "es": "ir allí en febrero."
+          },
+          "start": 48.4,
+          "end": 49.36
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Qu'est-ce que tu dirais d'emmener notre neveu au parc du Mont-Mégantic pour sa fête ?",
+      "translations": {
+        "zh": "你觉得带我们的侄子去梅冈蒂克山公园过生日怎么样？",
+        "en": "What would you say to taking our nephew to Mont-Mégantic Park for his birthday?",
+        "es": "¿Qué dirías de llevar a nuestro sobrino al parque del Mont-Mégantic para su cumpleaños?"
+      },
+      "start": 51.12,
+      "end": 56.16,
+      "words": [
+        {
+          "text": "Qu'est",
+          "start": 51.12,
+          "end": 51.6
+        },
+        {
+          "text": "ce",
+          "start": 52.8,
+          "end": 52.96
+        },
+        {
+          "text": "que",
+          "start": 52.96,
+          "end": 53.12
+        },
+        {
+          "text": "tu",
+          "start": 53.12,
+          "end": 53.28
+        },
+        {
+          "text": "dirais",
+          "start": 53.28,
+          "end": 53.44
+        },
+        {
+          "text": "d'emmener",
+          "start": 53.44,
+          "end": 53.76
+        },
+        {
+          "text": "notre",
+          "start": 53.76,
+          "end": 54.0
+        },
+        {
+          "text": "neveu",
+          "start": 54.0,
+          "end": 54.24
+        },
+        {
+          "text": "au",
+          "start": 54.24,
+          "end": 54.4
+        },
+        {
+          "text": "parc",
+          "start": 54.4,
+          "end": 54.64
+        },
+        {
+          "text": "du",
+          "start": 54.64,
+          "end": 54.72
+        },
+        {
+          "text": "Mont",
+          "start": 54.72,
+          "end": 54.88
+        },
+        {
+          "text": "Mégantic",
+          "start": 54.88,
+          "end": 55.44
+        },
+        {
+          "text": "pour",
+          "start": 55.44,
+          "end": 55.52
+        },
+        {
+          "text": "sa",
+          "start": 55.52,
+          "end": 55.68
+        },
+        {
+          "text": "fête",
+          "start": 55.68,
+          "end": 56.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Qu'est-ce que tu dirais",
+          "translations": {
+            "zh": "你觉得怎么样",
+            "en": "What would you say",
+            "es": "¿Qué dirías"
+          },
+          "start": 51.12,
+          "end": 53.44
+        },
+        {
+          "text": "d'emmener notre neveu",
+          "translations": {
+            "zh": "带我们的侄子",
+            "en": "to taking our nephew",
+            "es": "de llevar a nuestro sobrino"
+          },
+          "start": 53.44,
+          "end": 54.24
+        },
+        {
+          "text": "au parc du Mont-Mégantic",
+          "translations": {
+            "zh": "去梅冈蒂克山公园",
+            "en": "to Mont-Mégantic Park",
+            "es": "al parque del Mont-Mégantic"
+          },
+          "start": 54.24,
+          "end": 55.44
+        },
+        {
+          "text": "pour sa fête ?",
+          "translations": {
+            "zh": "过他的生日？",
+            "en": "for his birthday?",
+            "es": "¿para su cumpleaños?"
+          },
+          "start": 55.44,
+          "end": 56.16
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Passionné d'astronomie comme il est, il pourrait y observer les étoiles à son gout.",
+      "translations": {
+        "zh": "他那么热爱天文学，可以在那里尽情地观察星星。",
+        "en": "As passionate about astronomy as he is, he could observe the stars there to his heart's content.",
+        "es": "Apasionado de la astronomía como es, podría observar las estrellas allí a su gusto."
+      },
+      "start": 56.72,
+      "end": 60.32,
+      "words": [
+        {
+          "text": "Passionné",
+          "start": 56.72,
+          "end": 57.12
+        },
+        {
+          "text": "d'astronomie",
+          "start": 57.12,
+          "end": 57.6
+        },
+        {
+          "text": "comme",
+          "start": 57.6,
+          "end": 57.76
+        },
+        {
+          "text": "il",
+          "start": 57.76,
+          "end": 57.84
+        },
+        {
+          "text": "est",
+          "start": 57.84,
+          "end": 58.08
+        },
+        {
+          "text": "il",
+          "start": 58.64,
+          "end": 58.72
+        },
+        {
+          "text": "pourrait",
+          "start": 58.72,
+          "end": 58.96
+        },
+        {
+          "text": "y",
+          "start": 58.96,
+          "end": 59.12
+        },
+        {
+          "text": "observer",
+          "start": 59.12,
+          "end": 59.44
+        },
+        {
+          "text": "les",
+          "start": 59.44,
+          "end": 59.6
+        },
+        {
+          "text": "étoiles",
+          "start": 59.6,
+          "end": 59.84
+        },
+        {
+          "text": "à",
+          "start": 59.84,
+          "end": 59.92
+        },
+        {
+          "text": "son",
+          "start": 59.92,
+          "end": 60.16
+        },
+        {
+          "text": "gout",
+          "start": 60.16,
+          "end": 60.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Passionné d'astronomie comme il est,",
+          "translations": {
+            "zh": "他那么热爱天文学，",
+            "en": "As passionate about astronomy as he is,",
+            "es": "Apasionado de la astronomía como es,"
+          },
+          "start": 56.72,
+          "end": 58.08
+        },
+        {
+          "text": "il pourrait y observer les étoiles",
+          "translations": {
+            "zh": "可以在那里观察星星",
+            "en": "he could observe the stars there",
+            "es": "podría observar las estrellas allí"
+          },
+          "start": 58.64,
+          "end": 59.84
+        },
+        {
+          "text": "à son gout.",
+          "translations": {
+            "zh": "尽情地。",
+            "en": "to his heart's content.",
+            "es": "a su gusto."
+          },
+          "start": 59.84,
+          "end": 60.32
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Je connais une bonne cabane à sucre pas trop loin de Montréal, au Mont-Saint- Grégoire, en Montérégie.",
+      "translations": {
+        "zh": "我知道一家不错的糖棚，离蒙特利尔不太远，在蒙特雷吉的圣格雷瓜尔山。",
+        "en": "I know a good sugar shack not too far from Montreal, at Mont-Saint-Grégoire, in Montérégie.",
+        "es": "Conozco una buena cabaña de azúcar no muy lejos de Montreal, en el Mont-Saint-Grégoire, en Montérégie."
+      },
+      "start": 62.72,
+      "end": 68.8,
+      "words": [
+        {
+          "text": "Je",
+          "start": 62.72,
+          "end": 63.04
+        },
+        {
+          "text": "connais",
+          "start": 64.16,
+          "end": 64.48
+        },
+        {
+          "text": "une",
+          "start": 64.48,
+          "end": 64.64
+        },
+        {
+          "text": "bonne",
+          "start": 64.64,
+          "end": 64.88
+        },
+        {
+          "text": "cabane",
+          "start": 64.88,
+          "end": 65.2
+        },
+        {
+          "text": "à",
+          "start": 65.2,
+          "end": 65.28
+        },
+        {
+          "text": "sucre",
+          "start": 65.28,
+          "end": 65.76
+        },
+        {
+          "text": "pas",
+          "start": 65.84,
+          "end": 66.0
+        },
+        {
+          "text": "trop",
+          "start": 66.0,
+          "end": 66.16
+        },
+        {
+          "text": "loin",
+          "start": 66.16,
+          "end": 66.32
+        },
+        {
+          "text": "de",
+          "start": 66.32,
+          "end": 66.4
+        },
+        {
+          "text": "Montréal",
+          "start": 66.4,
+          "end": 66.88
+        },
+        {
+          "text": "au",
+          "start": 66.96,
+          "end": 67.12
+        },
+        {
+          "text": "Mont",
+          "start": 67.12,
+          "end": 67.28
+        },
+        {
+          "text": "Saint",
+          "start": 67.28,
+          "end": 67.52
+        },
+        {
+          "text": "Grégoire",
+          "start": 67.52,
+          "end": 68.08
+        },
+        {
+          "text": "en",
+          "start": 68.08,
+          "end": 68.16
+        },
+        {
+          "text": "Montérégie",
+          "start": 68.16,
+          "end": 68.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je connais une bonne cabane à sucre",
+          "translations": {
+            "zh": "我知道一家不错的糖棚，",
+            "en": "I know a good sugar shack",
+            "es": "Conozco una buena cabaña de azúcar"
+          },
+          "start": 62.72,
+          "end": 65.76
+        },
+        {
+          "text": "pas trop loin de Montréal,",
+          "translations": {
+            "zh": "离蒙特利尔不太远，",
+            "en": "not too far from Montreal,",
+            "es": "no muy lejos de Montreal,"
+          },
+          "start": 65.84,
+          "end": 66.88
+        },
+        {
+          "text": "au Mont-Saint- Grégoire,",
+          "translations": {
+            "zh": "在圣格雷瓜尔山，",
+            "en": "at Mont-Saint-Grégoire,",
+            "es": "en el Mont-Saint-Grégoire,"
+          },
+          "start": 66.96,
+          "end": 68.08
+        },
+        {
+          "text": "en Montérégie.",
+          "translations": {
+            "zh": "在蒙特雷吉。",
+            "en": "in Montérégie.",
+            "es": "en Montérégie."
+          },
+          "start": 68.08,
+          "end": 68.8
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Tu veux y aller ?",
+      "translations": {
+        "zh": "你想去那里吗？",
+        "en": "Do you want to go there?",
+        "es": "¿Quieres ir allí?"
+      },
+      "start": 69.12,
+      "end": 69.68,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 69.12,
+          "end": 69.28
+        },
+        {
+          "text": "veux",
+          "start": 69.28,
+          "end": 69.44
+        },
+        {
+          "text": "y",
+          "start": 69.44,
+          "end": 69.52
+        },
+        {
+          "text": "aller",
+          "start": 69.52,
+          "end": 69.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu veux y aller ?",
+          "translations": {
+            "zh": "你想去那里吗？",
+            "en": "Do you want to go there?",
+            "es": "¿Quieres ir allí?"
+          },
+          "start": 69.12,
+          "end": 69.68
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "On a fait toute la Côte-Nord jusqu'aux iles de Mingan.",
+      "translations": {
+        "zh": "我们走遍了整个北岸，一直到明甘群岛。",
+        "en": "We traveled the whole North Shore as far as the Mingan Islands.",
+        "es": "Recorrimos toda la Côte-Nord hasta las islas de Mingan."
+      },
+      "start": 73.52,
+      "end": 75.76,
+      "words": [
+        {
+          "text": "On",
+          "start": 73.52,
+          "end": 73.6
+        },
+        {
+          "text": "a",
+          "start": 73.6,
+          "end": 73.68
+        },
+        {
+          "text": "fait",
+          "start": 73.68,
+          "end": 73.84
+        },
+        {
+          "text": "toute",
+          "start": 73.84,
+          "end": 74.0
+        },
+        {
+          "text": "la",
+          "start": 74.0,
+          "end": 74.08
+        },
+        {
+          "text": "Côte",
+          "start": 74.08,
+          "end": 74.4
+        },
+        {
+          "text": "Nord",
+          "start": 74.4,
+          "end": 74.72
+        },
+        {
+          "text": "jusqu'aux",
+          "start": 74.72,
+          "end": 75.04
+        },
+        {
+          "text": "iles",
+          "start": 75.04,
+          "end": 75.28
+        },
+        {
+          "text": "de",
+          "start": 75.28,
+          "end": 75.36
+        },
+        {
+          "text": "Mingan",
+          "start": 75.36,
+          "end": 75.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On a fait toute la Côte-Nord",
+          "translations": {
+            "zh": "我们走遍了整个北岸，",
+            "en": "We traveled the whole North Shore",
+            "es": "Recorrimos toda la Côte-Nord"
+          },
+          "start": 73.52,
+          "end": 74.72
+        },
+        {
+          "text": "jusqu'aux iles de Mingan.",
+          "translations": {
+            "zh": "一直到明甘群岛。",
+            "en": "as far as the Mingan Islands.",
+            "es": "hasta las islas de Mingan."
+          },
+          "start": 74.72,
+          "end": 75.76
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "On y a passé cinq jours, à l'auberge de jeunesse, à attendre que le brouillard se lève pour visiter les iles en kayak.",
+      "translations": {
+        "zh": "我们在那里待了五天，在青年旅舍里，等雾散去再划皮划艇游览岛屿。",
+        "en": "We spent five days there, at the youth hostel, waiting for the fog to lift to visit the islands by kayak.",
+        "es": "Pasamos allí cinco días, en el albergue juvenil, esperando a que se levantara la niebla para visitar las islas en kayak."
+      },
+      "start": 76.48,
+      "end": 83.44,
+      "words": [
+        {
+          "text": "On",
+          "start": 76.48,
+          "end": 76.64
+        },
+        {
+          "text": "y",
+          "start": 76.64,
+          "end": 76.72
+        },
+        {
+          "text": "a",
+          "start": 76.72,
+          "end": 76.8
+        },
+        {
+          "text": "passé",
+          "start": 76.8,
+          "end": 77.12
+        },
+        {
+          "text": "cinq",
+          "start": 77.12,
+          "end": 77.36
+        },
+        {
+          "text": "jours",
+          "start": 77.36,
+          "end": 77.76
+        },
+        {
+          "text": "à",
+          "start": 77.92,
+          "end": 78.0
+        },
+        {
+          "text": "l'auberge",
+          "start": 78.0,
+          "end": 78.32
+        },
+        {
+          "text": "de",
+          "start": 78.32,
+          "end": 78.4
+        },
+        {
+          "text": "jeunesse",
+          "start": 78.4,
+          "end": 78.88
+        },
+        {
+          "text": "à",
+          "start": 79.36,
+          "end": 79.52
+        },
+        {
+          "text": "attendre",
+          "start": 79.52,
+          "end": 80.0
+        },
+        {
+          "text": "que",
+          "start": 80.0,
+          "end": 80.08
+        },
+        {
+          "text": "le",
+          "start": 80.08,
+          "end": 80.24
+        },
+        {
+          "text": "brouillard",
+          "start": 80.24,
+          "end": 80.64
+        },
+        {
+          "text": "se",
+          "start": 80.64,
+          "end": 80.8
+        },
+        {
+          "text": "lève",
+          "start": 80.8,
+          "end": 81.2
+        },
+        {
+          "text": "pour",
+          "start": 81.6,
+          "end": 81.76
+        },
+        {
+          "text": "visiter",
+          "start": 81.76,
+          "end": 82.16
+        },
+        {
+          "text": "les",
+          "start": 82.16,
+          "end": 82.48
+        },
+        {
+          "text": "iles",
+          "start": 82.48,
+          "end": 82.72
+        },
+        {
+          "text": "en",
+          "start": 82.8,
+          "end": 82.88
+        },
+        {
+          "text": "kayak",
+          "start": 82.88,
+          "end": 83.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On y a passé cinq jours,",
+          "translations": {
+            "zh": "我们在那里待了五天，",
+            "en": "We spent five days there,",
+            "es": "Pasamos allí cinco días,"
+          },
+          "start": 76.48,
+          "end": 77.76
+        },
+        {
+          "text": "à l'auberge de jeunesse,",
+          "translations": {
+            "zh": "在青年旅舍里，",
+            "en": "at the youth hostel,",
+            "es": "en el albergue juvenil,"
+          },
+          "start": 77.92,
+          "end": 78.88
+        },
+        {
+          "text": "à attendre que le brouillard se lève",
+          "translations": {
+            "zh": "等雾散去，",
+            "en": "waiting for the fog to lift",
+            "es": "esperando a que se levantara la niebla"
+          },
+          "start": 79.36,
+          "end": 81.2
+        },
+        {
+          "text": "pour visiter les iles en kayak.",
+          "translations": {
+            "zh": "划皮划艇游览岛屿。",
+            "en": "to visit the islands by kayak.",
+            "es": "para visitar las islas en kayak."
+          },
+          "start": 81.6,
+          "end": 83.44
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "J'aimerais beaucoup visiter Saint-Élie- de-Caxton, le village de Fred Pellerin.",
+      "translations": {
+        "zh": "我非常想去参观圣埃利-德卡克斯顿，弗雷德·佩兰的村庄。",
+        "en": "I would really like to visit Saint-Élie-de-Caxton, Fred Pellerin's village.",
+        "es": "Me gustaría mucho visitar Saint-Élie-de-Caxton, el pueblo de Fred Pellerin."
+      },
+      "start": 85.76,
+      "end": 91.2,
+      "words": [
+        {
+          "text": "J'aimerais",
+          "start": 85.76,
+          "end": 88.0
+        },
+        {
+          "text": "beaucoup",
+          "start": 88.0,
+          "end": 88.24
+        },
+        {
+          "text": "visiter",
+          "start": 88.24,
+          "end": 88.72
+        },
+        {
+          "text": "Saint",
+          "start": 88.72,
+          "end": 88.96
+        },
+        {
+          "text": "Élie",
+          "start": 88.96,
+          "end": 89.2
+        },
+        {
+          "text": "de",
+          "start": 89.2,
+          "end": 89.2
+        },
+        {
+          "text": "Caxton",
+          "start": 89.2,
+          "end": 89.76
+        },
+        {
+          "text": "le",
+          "start": 89.76,
+          "end": 89.84
+        },
+        {
+          "text": "village",
+          "start": 90.16,
+          "end": 90.48
+        },
+        {
+          "text": "de",
+          "start": 90.48,
+          "end": 90.56
+        },
+        {
+          "text": "Fred",
+          "start": 90.56,
+          "end": 90.88
+        },
+        {
+          "text": "Pellerin",
+          "start": 90.88,
+          "end": 91.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'aimerais beaucoup visiter",
+          "translations": {
+            "zh": "我非常想去参观",
+            "en": "I would really like to visit",
+            "es": "Me gustaría mucho visitar"
+          },
+          "start": 85.76,
+          "end": 88.72
+        },
+        {
+          "text": "Saint-Élie- de-Caxton,",
+          "translations": {
+            "zh": "圣埃利-德卡克斯顿，",
+            "en": "Saint-Élie-de-Caxton,",
+            "es": "Saint-Élie-de-Caxton,"
+          },
+          "start": 88.72,
+          "end": 89.76
+        },
+        {
+          "text": "le village de Fred Pellerin.",
+          "translations": {
+            "zh": "弗雷德·佩兰的村庄。",
+            "en": "Fred Pellerin's village.",
+            "es": "el pueblo de Fred Pellerin."
+          },
+          "start": 89.76,
+          "end": 91.2
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Si on y allait pendant les vacances cet été, on pourrait aussi faire du camping dans le parc de la Mauricie.",
+      "translations": {
+        "zh": "如果我们今年夏天放假时去那里，还可以在莫里西公园露营。",
+        "en": "If we went there during the holidays this summer, we could also go camping in La Mauricie Park.",
+        "es": "Si fuéramos allí durante las vacaciones este verano, también podríamos acampar en el parque de la Mauricie."
+      },
+      "start": 91.52,
+      "end": 96.32,
+      "words": [
+        {
+          "text": "Si",
+          "start": 91.52,
+          "end": 91.76
+        },
+        {
+          "text": "on",
+          "start": 91.76,
+          "end": 91.84
+        },
+        {
+          "text": "y",
+          "start": 91.84,
+          "end": 91.92
+        },
+        {
+          "text": "allait",
+          "start": 91.92,
+          "end": 92.08
+        },
+        {
+          "text": "pendant",
+          "start": 92.08,
+          "end": 92.32
+        },
+        {
+          "text": "les",
+          "start": 92.32,
+          "end": 92.48
+        },
+        {
+          "text": "vacances",
+          "start": 92.48,
+          "end": 92.88
+        },
+        {
+          "text": "cet",
+          "start": 92.88,
+          "end": 93.04
+        },
+        {
+          "text": "été",
+          "start": 93.04,
+          "end": 93.36
+        },
+        {
+          "text": "on",
+          "start": 93.68,
+          "end": 93.76
+        },
+        {
+          "text": "pourrait",
+          "start": 93.76,
+          "end": 94.0
+        },
+        {
+          "text": "aussi",
+          "start": 94.0,
+          "end": 94.24
+        },
+        {
+          "text": "faire",
+          "start": 94.24,
+          "end": 94.4
+        },
+        {
+          "text": "du",
+          "start": 94.4,
+          "end": 94.56
+        },
+        {
+          "text": "camping",
+          "start": 94.56,
+          "end": 95.04
+        },
+        {
+          "text": "dans",
+          "start": 95.04,
+          "end": 95.12
+        },
+        {
+          "text": "le",
+          "start": 95.12,
+          "end": 95.28
+        },
+        {
+          "text": "parc",
+          "start": 95.28,
+          "end": 95.6
+        },
+        {
+          "text": "de",
+          "start": 95.6,
+          "end": 95.68
+        },
+        {
+          "text": "la",
+          "start": 95.68,
+          "end": 95.84
+        },
+        {
+          "text": "Mauricie",
+          "start": 95.84,
+          "end": 96.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Si on y allait pendant les vacances cet été,",
+          "translations": {
+            "zh": "如果我们今年夏天放假时去那里，",
+            "en": "If we went there during the holidays this summer,",
+            "es": "Si fuéramos allí durante las vacaciones este verano,"
+          },
+          "start": 91.52,
+          "end": 93.36
+        },
+        {
+          "text": "on pourrait aussi faire du camping",
+          "translations": {
+            "zh": "还可以去露营",
+            "en": "we could also go camping",
+            "es": "también podríamos acampar"
+          },
+          "start": 93.68,
+          "end": 95.04
+        },
+        {
+          "text": "dans le parc de la Mauricie.",
+          "translations": {
+            "zh": "在莫里西公园。",
+            "en": "in La Mauricie Park.",
+            "es": "en el parque de la Mauricie."
+          },
+          "start": 95.04,
+          "end": 96.32
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP13_P24",
+  "audio_filename": "FLS2_EP13_P24.mp3",
+  "audio_path": "downloads/FLS2_EP13_P24.mp3",
+  "episode": 13,
+  "piste": 24,
+  "page": 103,
+  "cd": "CD2"
+}

@@ -1,0 +1,1911 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 13 Piste 26 Page 105",
+      "translations": {
+        "zh": "第13集 第26音轨 第105页",
+        "en": "Episode 13 Track 26 Page 105",
+        "es": "Episodio 13 Pista 26 Página 105"
+      },
+      "start": 0.8,
+      "end": 8.96,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.8,
+          "end": 1.52
+        },
+        {
+          "text": "13",
+          "start": 2.08,
+          "end": 2.64
+        },
+        {
+          "text": "Piste",
+          "start": 3.36,
+          "end": 3.84
+        },
+        {
+          "text": "26",
+          "start": 4.24,
+          "end": 5.12
+        },
+        {
+          "text": "Page",
+          "start": 6.64,
+          "end": 7.04
+        },
+        {
+          "text": "105",
+          "start": 8.96,
+          "end": 8.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 13",
+          "translations": {
+            "zh": "第13集",
+            "en": "Episode 13",
+            "es": "Episodio 13"
+          },
+          "start": 0.8,
+          "end": 2.64
+        },
+        {
+          "text": "Piste 26",
+          "translations": {
+            "zh": "第26音轨",
+            "en": "Track 26",
+            "es": "Pista 26"
+          },
+          "start": 3.36,
+          "end": 5.12
+        },
+        {
+          "text": "Page 105",
+          "translations": {
+            "zh": "第105页",
+            "en": "Page 105",
+            "es": "Página 105"
+          },
+          "start": 6.64,
+          "end": 8.96
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bon début de vacances de la construction !",
+      "translations": {
+        "zh": "祝建筑业假期开端顺利！",
+        "en": "Happy start of the construction holidays!",
+        "es": "¡Buen inicio de las vacaciones de la construcción!"
+      },
+      "start": 10.72,
+      "end": 12.4,
+      "words": [
+        {
+          "text": "Bon",
+          "start": 10.72,
+          "end": 10.96
+        },
+        {
+          "text": "début",
+          "start": 10.96,
+          "end": 11.2
+        },
+        {
+          "text": "de",
+          "start": 11.2,
+          "end": 11.28
+        },
+        {
+          "text": "vacances",
+          "start": 11.28,
+          "end": 11.6
+        },
+        {
+          "text": "de",
+          "start": 11.6,
+          "end": 11.68
+        },
+        {
+          "text": "la",
+          "start": 11.68,
+          "end": 11.76
+        },
+        {
+          "text": "construction",
+          "start": 11.76,
+          "end": 12.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bon début de vacances de la construction !",
+          "translations": {
+            "zh": "祝建筑业假期开端顺利！",
+            "en": "Happy start of the construction holidays!",
+            "es": "¡Buen inicio de las vacaciones de la construcción!"
+          },
+          "start": 10.72,
+          "end": 12.4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Le soleil brille en ce 14 juillet, mais attention, vacanciers qui prenez la route, car plusieurs chantiers routiers restent actifs.",
+      "translations": {
+        "zh": "在这个7月14日阳光灿烂，但请注意，驾车上路的度假者们，因为多个道路施工工地仍在运作。",
+        "en": "The sun is shining this July 14th, but beware, holiday-makers hitting the road, as several road construction sites remain active.",
+        "es": "El sol brilla en este 14 de julio, pero atención, vacacionistas que toman la carretera, pues varios sitios de construcción vial siguen activos."
+      },
+      "start": 13.12,
+      "end": 19.68,
+      "words": [
+        {
+          "text": "Le",
+          "start": 13.12,
+          "end": 13.2
+        },
+        {
+          "text": "soleil",
+          "start": 13.2,
+          "end": 13.44
+        },
+        {
+          "text": "brille",
+          "start": 13.44,
+          "end": 13.84
+        },
+        {
+          "text": "en",
+          "start": 13.84,
+          "end": 13.92
+        },
+        {
+          "text": "ce",
+          "start": 13.92,
+          "end": 14.0
+        },
+        {
+          "text": "14",
+          "start": 14.0,
+          "end": 14.4
+        },
+        {
+          "text": "juillet",
+          "start": 14.4,
+          "end": 14.8
+        },
+        {
+          "text": "mais",
+          "start": 14.8,
+          "end": 14.96
+        },
+        {
+          "text": "attention",
+          "start": 14.96,
+          "end": 15.68
+        },
+        {
+          "text": "vacanciers",
+          "start": 16.16,
+          "end": 16.64
+        },
+        {
+          "text": "qui",
+          "start": 16.64,
+          "end": 16.72
+        },
+        {
+          "text": "prenez",
+          "start": 16.72,
+          "end": 16.96
+        },
+        {
+          "text": "la",
+          "start": 16.96,
+          "end": 17.12
+        },
+        {
+          "text": "route",
+          "start": 17.12,
+          "end": 17.36
+        },
+        {
+          "text": "car",
+          "start": 17.6,
+          "end": 17.76
+        },
+        {
+          "text": "plusieurs",
+          "start": 17.76,
+          "end": 18.16
+        },
+        {
+          "text": "chantiers",
+          "start": 18.16,
+          "end": 18.56
+        },
+        {
+          "text": "routiers",
+          "start": 18.56,
+          "end": 18.96
+        },
+        {
+          "text": "restent",
+          "start": 18.96,
+          "end": 19.2
+        },
+        {
+          "text": "actifs",
+          "start": 19.2,
+          "end": 19.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le soleil brille en ce 14 juillet,",
+          "translations": {
+            "zh": "在这个7月14日阳光灿烂，",
+            "en": "The sun is shining this July 14th,",
+            "es": "El sol brilla en este 14 de julio,"
+          },
+          "start": 13.12,
+          "end": 14.8
+        },
+        {
+          "text": "mais attention,",
+          "translations": {
+            "zh": "但请注意，",
+            "en": "but beware,",
+            "es": "pero atención,"
+          },
+          "start": 14.8,
+          "end": 15.68
+        },
+        {
+          "text": "vacanciers qui prenez la route,",
+          "translations": {
+            "zh": "驾车上路的度假者们，",
+            "en": "holiday-makers hitting the road,",
+            "es": "vacacionistas que toman la carretera,"
+          },
+          "start": 16.16,
+          "end": 17.36
+        },
+        {
+          "text": "car plusieurs chantiers routiers restent actifs.",
+          "translations": {
+            "zh": "因为多个道路施工工地仍在运作。",
+            "en": "as several road construction sites remain active.",
+            "es": "pues varios sitios de construcción vial siguen activos."
+          },
+          "start": 17.6,
+          "end": 19.68
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Sur les grands axes vers les Laurentides, les Cantons- de-l'Est et les États-Unis, il n'y a que quelques travaux.",
+      "translations": {
+        "zh": "在通往洛朗蒂德、东部镇区和美国的主要干道上，只有少量施工工程。",
+        "en": "On the main routes towards the Laurentians, the Eastern Townships and the United States, there are only a few work sites.",
+        "es": "En las grandes arterias hacia los Laurentides, los Cantones del Este y los Estados Unidos, solo hay algunas obras."
+      },
+      "start": 20.08,
+      "end": 25.28,
+      "words": [
+        {
+          "text": "Sur",
+          "start": 20.08,
+          "end": 20.4
+        },
+        {
+          "text": "les",
+          "start": 20.4,
+          "end": 20.48
+        },
+        {
+          "text": "grands",
+          "start": 20.48,
+          "end": 20.8
+        },
+        {
+          "text": "axes",
+          "start": 20.8,
+          "end": 21.12
+        },
+        {
+          "text": "vers",
+          "start": 21.12,
+          "end": 21.28
+        },
+        {
+          "text": "les",
+          "start": 21.28,
+          "end": 21.36
+        },
+        {
+          "text": "Laurentides",
+          "start": 21.36,
+          "end": 22.0
+        },
+        {
+          "text": "les",
+          "start": 22.0,
+          "end": 22.08
+        },
+        {
+          "text": "Cantons",
+          "start": 22.08,
+          "end": 22.48
+        },
+        {
+          "text": "de",
+          "start": 22.48,
+          "end": 22.56
+        },
+        {
+          "text": "l'Est",
+          "start": 22.56,
+          "end": 22.96
+        },
+        {
+          "text": "et",
+          "start": 23.04,
+          "end": 23.04
+        },
+        {
+          "text": "les",
+          "start": 23.04,
+          "end": 23.2
+        },
+        {
+          "text": "États",
+          "start": 23.2,
+          "end": 23.36
+        },
+        {
+          "text": "Unis",
+          "start": 23.36,
+          "end": 23.76
+        },
+        {
+          "text": "il",
+          "start": 24.16,
+          "end": 24.32
+        },
+        {
+          "text": "n'y",
+          "start": 24.32,
+          "end": 24.4
+        },
+        {
+          "text": "a",
+          "start": 24.4,
+          "end": 24.48
+        },
+        {
+          "text": "que",
+          "start": 24.48,
+          "end": 24.56
+        },
+        {
+          "text": "quelques",
+          "start": 24.56,
+          "end": 24.88
+        },
+        {
+          "text": "travaux",
+          "start": 24.88,
+          "end": 25.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Sur les grands axes vers les Laurentides,",
+          "translations": {
+            "zh": "在通往洛朗蒂德的主要干道上，",
+            "en": "On the main routes towards the Laurentians,",
+            "es": "En las grandes arterias hacia los Laurentides,"
+          },
+          "start": 20.08,
+          "end": 22.0
+        },
+        {
+          "text": "les Cantons- de-l'Est et les États-Unis,",
+          "translations": {
+            "zh": "东部镇区和美国，",
+            "en": "the Eastern Townships and the United States,",
+            "es": "los Cantones del Este y los Estados Unidos,"
+          },
+          "start": 22.0,
+          "end": 23.76
+        },
+        {
+          "text": "il n'y a que quelques travaux.",
+          "translations": {
+            "zh": "只有少量施工工程。",
+            "en": "there are only a few work sites.",
+            "es": "solo hay algunas obras."
+          },
+          "start": 24.16,
+          "end": 25.28
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "On constate quand même de la congestion sur l'autoroute 10, puisque de nombreux Montréalais se dirigent vers la frontière américaine.",
+      "translations": {
+        "zh": "10号高速公路上仍然出现了拥堵，因为许多蒙特利尔人正前往美国边境。",
+        "en": "There is nonetheless congestion on Highway 10, since many Montrealers are heading towards the American border.",
+        "es": "Se observa de todos modos congestión en la autopista 10, ya que numerosos montrealeses se dirigen hacia la frontera estadounidense."
+      },
+      "start": 25.76,
+      "end": 31.2,
+      "words": [
+        {
+          "text": "On",
+          "start": 25.76,
+          "end": 25.84
+        },
+        {
+          "text": "constate",
+          "start": 25.84,
+          "end": 26.24
+        },
+        {
+          "text": "quand",
+          "start": 26.24,
+          "end": 26.48
+        },
+        {
+          "text": "même",
+          "start": 26.48,
+          "end": 26.72
+        },
+        {
+          "text": "de",
+          "start": 26.72,
+          "end": 26.72
+        },
+        {
+          "text": "la",
+          "start": 26.72,
+          "end": 26.8
+        },
+        {
+          "text": "congestion",
+          "start": 26.8,
+          "end": 27.36
+        },
+        {
+          "text": "sur",
+          "start": 27.36,
+          "end": 27.52
+        },
+        {
+          "text": "l'autoroute",
+          "start": 27.52,
+          "end": 27.92
+        },
+        {
+          "text": "10",
+          "start": 27.92,
+          "end": 28.32
+        },
+        {
+          "text": "puisque",
+          "start": 28.4,
+          "end": 28.72
+        },
+        {
+          "text": "de",
+          "start": 28.72,
+          "end": 28.88
+        },
+        {
+          "text": "nombreux",
+          "start": 28.88,
+          "end": 29.2
+        },
+        {
+          "text": "Montréalais",
+          "start": 29.2,
+          "end": 29.68
+        },
+        {
+          "text": "se",
+          "start": 29.68,
+          "end": 29.84
+        },
+        {
+          "text": "dirigent",
+          "start": 29.84,
+          "end": 30.24
+        },
+        {
+          "text": "vers",
+          "start": 30.24,
+          "end": 30.32
+        },
+        {
+          "text": "la",
+          "start": 30.32,
+          "end": 30.4
+        },
+        {
+          "text": "frontière",
+          "start": 30.4,
+          "end": 30.8
+        },
+        {
+          "text": "américaine",
+          "start": 30.8,
+          "end": 31.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On constate quand même de la congestion sur l'autoroute 10,",
+          "translations": {
+            "zh": "10号高速公路上仍然出现了拥堵，",
+            "en": "There is nonetheless congestion on Highway 10,",
+            "es": "Se observa de todos modos congestión en la autopista 10,"
+          },
+          "start": 25.76,
+          "end": 28.32
+        },
+        {
+          "text": "puisque de nombreux Montréalais se dirigent vers la frontière américaine.",
+          "translations": {
+            "zh": "因为许多蒙特利尔人正前往美国边境。",
+            "en": "since many Montrealers are heading towards the American border.",
+            "es": "ya que numerosos montrealeses se dirigen hacia la frontera estadounidense."
+          },
+          "start": 28.4,
+          "end": 31.2
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Pour les Québécois qui ont opté pour des vacances dans l'est du Québec, la circulation sur les autoroutes Jean- Lesage et Félix-Leclerc est fluide.",
+      "translations": {
+        "zh": "对于选择在魁北克东部度假的魁北克人来说，让-莱萨日和费利克斯-勒克莱尔高速公路上的交通很顺畅。",
+        "en": "For Quebecers who opted for a holiday in eastern Quebec, traffic on the Jean-Lesage and Félix-Leclerc highways is flowing smoothly.",
+        "es": "Para los quebequenses que han optado por unas vacaciones en el este de Quebec, la circulación en las autopistas Jean-Lesage y Félix-Leclerc es fluida."
+      },
+      "start": 32.08,
+      "end": 39.44,
+      "words": [
+        {
+          "text": "Pour",
+          "start": 32.08,
+          "end": 32.16
+        },
+        {
+          "text": "les",
+          "start": 32.16,
+          "end": 32.32
+        },
+        {
+          "text": "Québécois",
+          "start": 32.32,
+          "end": 32.64
+        },
+        {
+          "text": "qui",
+          "start": 32.64,
+          "end": 32.8
+        },
+        {
+          "text": "ont",
+          "start": 32.8,
+          "end": 32.88
+        },
+        {
+          "text": "opté",
+          "start": 32.88,
+          "end": 33.2
+        },
+        {
+          "text": "pour",
+          "start": 33.2,
+          "end": 33.36
+        },
+        {
+          "text": "des",
+          "start": 33.36,
+          "end": 33.44
+        },
+        {
+          "text": "vacances",
+          "start": 33.44,
+          "end": 33.84
+        },
+        {
+          "text": "dans",
+          "start": 33.84,
+          "end": 33.92
+        },
+        {
+          "text": "l'est",
+          "start": 34.0,
+          "end": 34.16
+        },
+        {
+          "text": "du",
+          "start": 34.32,
+          "end": 34.48
+        },
+        {
+          "text": "Québec",
+          "start": 34.48,
+          "end": 34.88
+        },
+        {
+          "text": "la",
+          "start": 35.2,
+          "end": 35.28
+        },
+        {
+          "text": "circulation",
+          "start": 35.28,
+          "end": 36.08
+        },
+        {
+          "text": "sur",
+          "start": 36.08,
+          "end": 36.24
+        },
+        {
+          "text": "les",
+          "start": 36.24,
+          "end": 36.4
+        },
+        {
+          "text": "autoroutes",
+          "start": 36.4,
+          "end": 36.88
+        },
+        {
+          "text": "Jean",
+          "start": 36.96,
+          "end": 37.2
+        },
+        {
+          "text": "Lesage",
+          "start": 37.2,
+          "end": 37.76
+        },
+        {
+          "text": "et",
+          "start": 37.76,
+          "end": 37.84
+        },
+        {
+          "text": "Félix",
+          "start": 37.84,
+          "end": 38.16
+        },
+        {
+          "text": "Leclerc",
+          "start": 38.16,
+          "end": 38.64
+        },
+        {
+          "text": "est",
+          "start": 38.8,
+          "end": 38.88
+        },
+        {
+          "text": "fluide",
+          "start": 38.88,
+          "end": 39.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pour les Québécois qui ont opté pour des vacances dans l'est du Québec,",
+          "translations": {
+            "zh": "对于选择在魁北克东部度假的魁北克人来说，",
+            "en": "For Quebecers who opted for a holiday in eastern Quebec,",
+            "es": "Para los quebequenses que han optado por unas vacaciones en el este de Quebec,"
+          },
+          "start": 32.08,
+          "end": 34.88
+        },
+        {
+          "text": "la circulation sur les autoroutes Jean- Lesage et Félix-Leclerc est fluide.",
+          "translations": {
+            "zh": "让-莱萨日和费利克斯-勒克莱尔高速公路上的交通很顺畅。",
+            "en": "traffic on the Jean-Lesage and Félix-Leclerc highways is flowing smoothly.",
+            "es": "la circulación en las autopistas Jean-Lesage y Félix-Leclerc es fluida."
+          },
+          "start": 35.2,
+          "end": 39.44
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "J'envie ceux qui roulent présentement sur la route panoramique qui fait le tour de la Gaspésie !",
+      "translations": {
+        "zh": "我羡慕那些此刻正行驶在环绕加斯佩西半岛的风景公路上的人！",
+        "en": "I envy those who are currently driving on the scenic road that goes around the Gaspé Peninsula!",
+        "es": "¡Envidio a aquellos que circulan actualmente por la ruta panorámica que da la vuelta a la Gaspesia!"
+      },
+      "start": 40.08,
+      "end": 43.92,
+      "words": [
+        {
+          "text": "J'envie",
+          "start": 40.08,
+          "end": 40.56
+        },
+        {
+          "text": "ceux",
+          "start": 40.56,
+          "end": 40.72
+        },
+        {
+          "text": "qui",
+          "start": 40.72,
+          "end": 40.88
+        },
+        {
+          "text": "roulent",
+          "start": 40.88,
+          "end": 41.04
+        },
+        {
+          "text": "présentement",
+          "start": 41.04,
+          "end": 41.44
+        },
+        {
+          "text": "sur",
+          "start": 41.44,
+          "end": 41.6
+        },
+        {
+          "text": "la",
+          "start": 41.68,
+          "end": 41.76
+        },
+        {
+          "text": "route",
+          "start": 41.76,
+          "end": 41.92
+        },
+        {
+          "text": "panoramique",
+          "start": 41.92,
+          "end": 42.64
+        },
+        {
+          "text": "qui",
+          "start": 42.8,
+          "end": 42.88
+        },
+        {
+          "text": "fait",
+          "start": 42.88,
+          "end": 43.04
+        },
+        {
+          "text": "le",
+          "start": 43.04,
+          "end": 43.12
+        },
+        {
+          "text": "tour",
+          "start": 43.12,
+          "end": 43.2
+        },
+        {
+          "text": "de",
+          "start": 43.2,
+          "end": 43.28
+        },
+        {
+          "text": "la",
+          "start": 43.28,
+          "end": 43.36
+        },
+        {
+          "text": "Gaspésie",
+          "start": 43.36,
+          "end": 43.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'envie ceux",
+          "translations": {
+            "zh": "我羡慕那些人",
+            "en": "I envy those",
+            "es": "Envidio a aquellos"
+          },
+          "start": 40.08,
+          "end": 40.72
+        },
+        {
+          "text": "qui roulent présentement sur la route panoramique",
+          "translations": {
+            "zh": "此刻正行驶在风景公路上",
+            "en": "who are currently driving on the scenic road",
+            "es": "que circulan actualmente por la ruta panorámica"
+          },
+          "start": 40.72,
+          "end": 42.64
+        },
+        {
+          "text": "qui fait le tour de la Gaspésie !",
+          "translations": {
+            "zh": "环绕加斯佩西半岛的！",
+            "en": "that goes around the Gaspé Peninsula!",
+            "es": "¡que da la vuelta a la Gaspesia!"
+          },
+          "start": 42.8,
+          "end": 43.92
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Le mauvais temps rend l'heure de pointe très difficile ce matin.",
+      "translations": {
+        "zh": "今天早上恶劣的天气让高峰时段变得非常困难。",
+        "en": "The bad weather is making rush hour very difficult this morning.",
+        "es": "El mal tiempo hace que la hora punta sea muy difícil esta mañana."
+      },
+      "start": 45.76,
+      "end": 51.52,
+      "words": [
+        {
+          "text": "Le",
+          "start": 45.76,
+          "end": 45.92
+        },
+        {
+          "text": "mauvais",
+          "start": 48.64,
+          "end": 49.2
+        },
+        {
+          "text": "temps",
+          "start": 49.2,
+          "end": 49.28
+        },
+        {
+          "text": "rend",
+          "start": 49.28,
+          "end": 49.44
+        },
+        {
+          "text": "l'heure",
+          "start": 49.44,
+          "end": 49.6
+        },
+        {
+          "text": "de",
+          "start": 49.6,
+          "end": 49.76
+        },
+        {
+          "text": "pointe",
+          "start": 49.76,
+          "end": 50.24
+        },
+        {
+          "text": "très",
+          "start": 50.24,
+          "end": 50.48
+        },
+        {
+          "text": "difficile",
+          "start": 50.48,
+          "end": 50.96
+        },
+        {
+          "text": "ce",
+          "start": 50.96,
+          "end": 51.12
+        },
+        {
+          "text": "matin",
+          "start": 51.12,
+          "end": 51.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le mauvais temps rend l'heure de pointe très difficile ce matin.",
+          "translations": {
+            "zh": "今天早上恶劣的天气让高峰时段变得非常困难。",
+            "en": "The bad weather is making rush hour very difficult this morning.",
+            "es": "El mal tiempo hace que la hora punta sea muy difícil esta mañana."
+          },
+          "start": 45.76,
+          "end": 51.52
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Dans l'ouest de Montréal, 70 mm de pluie sont tombés en très peu de temps, ce qui rend les conditions routières dangereuses.",
+      "translations": {
+        "zh": "在蒙特利尔西部，短时间内降下了70毫米的雨水，这使得道路状况变得危险。",
+        "en": "In the west of Montreal, 70 mm of rain fell in a very short time, which makes road conditions dangerous.",
+        "es": "En el oeste de Montreal, 70 mm de lluvia han caído en muy poco tiempo, lo que hace que las condiciones viales sean peligrosas."
+      },
+      "start": 51.68,
+      "end": 57.92,
+      "words": [
+        {
+          "text": "Dans",
+          "start": 51.68,
+          "end": 51.84
+        },
+        {
+          "text": "l'ouest",
+          "start": 51.84,
+          "end": 52.08
+        },
+        {
+          "text": "de",
+          "start": 52.08,
+          "end": 52.16
+        },
+        {
+          "text": "Montréal",
+          "start": 52.16,
+          "end": 52.64
+        },
+        {
+          "text": "70",
+          "start": 52.64,
+          "end": 52.64
+        },
+        {
+          "text": "mm",
+          "start": 53.44,
+          "end": 53.6
+        },
+        {
+          "text": "de",
+          "start": 53.6,
+          "end": 53.76
+        },
+        {
+          "text": "pluie",
+          "start": 53.76,
+          "end": 54.08
+        },
+        {
+          "text": "sont",
+          "start": 54.08,
+          "end": 54.24
+        },
+        {
+          "text": "tombés",
+          "start": 54.24,
+          "end": 54.72
+        },
+        {
+          "text": "en",
+          "start": 54.72,
+          "end": 54.8
+        },
+        {
+          "text": "très",
+          "start": 54.8,
+          "end": 55.04
+        },
+        {
+          "text": "peu",
+          "start": 55.04,
+          "end": 55.2
+        },
+        {
+          "text": "de",
+          "start": 55.2,
+          "end": 55.2
+        },
+        {
+          "text": "temps",
+          "start": 55.2,
+          "end": 55.52
+        },
+        {
+          "text": "ce",
+          "start": 55.84,
+          "end": 56.0
+        },
+        {
+          "text": "qui",
+          "start": 56.0,
+          "end": 56.16
+        },
+        {
+          "text": "rend",
+          "start": 56.16,
+          "end": 56.32
+        },
+        {
+          "text": "les",
+          "start": 56.32,
+          "end": 56.4
+        },
+        {
+          "text": "conditions",
+          "start": 56.4,
+          "end": 56.96
+        },
+        {
+          "text": "routières",
+          "start": 56.96,
+          "end": 57.28
+        },
+        {
+          "text": "dangereuses",
+          "start": 57.28,
+          "end": 57.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Dans l'ouest de Montréal,",
+          "translations": {
+            "zh": "在蒙特利尔西部，",
+            "en": "In the west of Montreal,",
+            "es": "En el oeste de Montreal,"
+          },
+          "start": 51.68,
+          "end": 52.64
+        },
+        {
+          "text": "70 mm de pluie sont tombés en très peu de temps,",
+          "translations": {
+            "zh": "短时间内降下了70毫米的雨水，",
+            "en": "70 mm of rain fell in a very short time,",
+            "es": "70 mm de lluvia han caído en muy poco tiempo,"
+          },
+          "start": 52.64,
+          "end": 55.52
+        },
+        {
+          "text": "ce qui rend les conditions routières dangereuses.",
+          "translations": {
+            "zh": "这使得道路状况变得危险。",
+            "en": "which makes road conditions dangerous.",
+            "es": "lo que hace que las condiciones viales sean peligrosas."
+          },
+          "start": 55.84,
+          "end": 57.92
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Les artères principales sont généralement dégagées, mais plusieurs rues secondaires se sont transformées en piscines.",
+      "translations": {
+        "zh": "主要干道基本已经畅通，但多条次要街道变成了游泳池。",
+        "en": "The main arteries are generally clear, but several secondary streets have turned into swimming pools.",
+        "es": "Las arterias principales están generalmente despejadas, pero varias calles secundarias se han transformado en piscinas."
+      },
+      "start": 58.24,
+      "end": 63.84,
+      "words": [
+        {
+          "text": "Les",
+          "start": 58.24,
+          "end": 58.48
+        },
+        {
+          "text": "artères",
+          "start": 58.48,
+          "end": 58.8
+        },
+        {
+          "text": "principales",
+          "start": 58.8,
+          "end": 59.44
+        },
+        {
+          "text": "sont",
+          "start": 59.44,
+          "end": 59.6
+        },
+        {
+          "text": "généralement",
+          "start": 59.6,
+          "end": 60.16
+        },
+        {
+          "text": "dégagées",
+          "start": 60.16,
+          "end": 60.64
+        },
+        {
+          "text": "mais",
+          "start": 60.96,
+          "end": 61.28
+        },
+        {
+          "text": "plusieurs",
+          "start": 61.28,
+          "end": 61.68
+        },
+        {
+          "text": "rues",
+          "start": 61.68,
+          "end": 61.84
+        },
+        {
+          "text": "secondaires",
+          "start": 61.84,
+          "end": 62.32
+        },
+        {
+          "text": "se",
+          "start": 62.32,
+          "end": 62.48
+        },
+        {
+          "text": "sont",
+          "start": 62.48,
+          "end": 62.64
+        },
+        {
+          "text": "transformées",
+          "start": 62.64,
+          "end": 63.2
+        },
+        {
+          "text": "en",
+          "start": 63.2,
+          "end": 63.28
+        },
+        {
+          "text": "piscines",
+          "start": 63.28,
+          "end": 63.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les artères principales sont généralement dégagées,",
+          "translations": {
+            "zh": "主要干道基本已经畅通，",
+            "en": "The main arteries are generally clear,",
+            "es": "Las arterias principales están generalmente despejadas,"
+          },
+          "start": 58.24,
+          "end": 60.64
+        },
+        {
+          "text": "mais plusieurs rues secondaires se sont transformées en piscines.",
+          "translations": {
+            "zh": "但多条次要街道变成了游泳池。",
+            "en": "but several secondary streets have turned into swimming pools.",
+            "es": "pero varias calles secundarias se han transformado en piscinas."
+          },
+          "start": 60.96,
+          "end": 63.84
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Il y a quelques embouteillages.",
+      "translations": {
+        "zh": "有一些交通堵塞。",
+        "en": "There are a few traffic jams.",
+        "es": "Hay algunos embotellamientos."
+      },
+      "start": 64.24,
+      "end": 65.6,
+      "words": [
+        {
+          "text": "Il",
+          "start": 64.24,
+          "end": 64.32
+        },
+        {
+          "text": "y",
+          "start": 64.32,
+          "end": 64.4
+        },
+        {
+          "text": "a",
+          "start": 64.4,
+          "end": 64.48
+        },
+        {
+          "text": "quelques",
+          "start": 64.48,
+          "end": 64.8
+        },
+        {
+          "text": "embouteillages",
+          "start": 64.8,
+          "end": 65.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il y a quelques embouteillages.",
+          "translations": {
+            "zh": "有一些交通堵塞。",
+            "en": "There are a few traffic jams.",
+            "es": "Hay algunos embotellamientos."
+          },
+          "start": 64.24,
+          "end": 65.6
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Si vous habitez sur l'ile de Montréal, un conseil : prenez le métro.",
+      "translations": {
+        "zh": "如果您住在蒙特利尔岛上，一个建议：乘坐地铁。",
+        "en": "If you live on the Island of Montreal, a piece of advice: take the metro.",
+        "es": "Si viven en la isla de Montreal, un consejo: tomen el metro."
+      },
+      "start": 65.84,
+      "end": 69.6,
+      "words": [
+        {
+          "text": "Si",
+          "start": 65.84,
+          "end": 66.0
+        },
+        {
+          "text": "vous",
+          "start": 66.0,
+          "end": 66.24
+        },
+        {
+          "text": "habitez",
+          "start": 66.24,
+          "end": 66.56
+        },
+        {
+          "text": "sur",
+          "start": 66.56,
+          "end": 66.72
+        },
+        {
+          "text": "l'ile",
+          "start": 66.72,
+          "end": 66.96
+        },
+        {
+          "text": "de",
+          "start": 66.96,
+          "end": 67.04
+        },
+        {
+          "text": "Montréal",
+          "start": 67.04,
+          "end": 67.68
+        },
+        {
+          "text": "un",
+          "start": 67.84,
+          "end": 68.0
+        },
+        {
+          "text": "conseil",
+          "start": 68.0,
+          "end": 68.56
+        },
+        {
+          "text": "prenez",
+          "start": 68.88,
+          "end": 69.12
+        },
+        {
+          "text": "le",
+          "start": 69.12,
+          "end": 69.2
+        },
+        {
+          "text": "métro",
+          "start": 69.2,
+          "end": 69.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Si vous habitez sur l'ile de Montréal,",
+          "translations": {
+            "zh": "如果您住在蒙特利尔岛上，",
+            "en": "If you live on the Island of Montreal,",
+            "es": "Si viven en la isla de Montreal,"
+          },
+          "start": 65.84,
+          "end": 67.68
+        },
+        {
+          "text": "un conseil : prenez le métro.",
+          "translations": {
+            "zh": "一个建议：乘坐地铁。",
+            "en": "a piece of advice: take the metro.",
+            "es": "un consejo: tomen el metro."
+          },
+          "start": 67.84,
+          "end": 69.6
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "La circulation est très lente sur le pont Champlain en raison du brouillard printanier et des travaux en cours.",
+      "translations": {
+        "zh": "由于春季大雾和正在进行的施工，尚普兰大桥上的交通非常缓慢。",
+        "en": "Traffic is very slow on the Champlain Bridge due to spring fog and ongoing construction work.",
+        "es": "La circulación es muy lenta en el puente Champlain debido a la niebla primaveral y a las obras en curso."
+      },
+      "start": 72.56,
+      "end": 79.68,
+      "words": [
+        {
+          "text": "La",
+          "start": 72.56,
+          "end": 72.88
+        },
+        {
+          "text": "circulation",
+          "start": 74.56,
+          "end": 75.2
+        },
+        {
+          "text": "est",
+          "start": 75.2,
+          "end": 75.28
+        },
+        {
+          "text": "très",
+          "start": 75.28,
+          "end": 75.52
+        },
+        {
+          "text": "lente",
+          "start": 75.52,
+          "end": 75.76
+        },
+        {
+          "text": "sur",
+          "start": 75.76,
+          "end": 75.92
+        },
+        {
+          "text": "le",
+          "start": 75.92,
+          "end": 76.0
+        },
+        {
+          "text": "pont",
+          "start": 76.0,
+          "end": 76.24
+        },
+        {
+          "text": "Champlain",
+          "start": 76.24,
+          "end": 76.8
+        },
+        {
+          "text": "en",
+          "start": 76.8,
+          "end": 76.8
+        },
+        {
+          "text": "raison",
+          "start": 76.88,
+          "end": 77.12
+        },
+        {
+          "text": "du",
+          "start": 77.12,
+          "end": 77.2
+        },
+        {
+          "text": "brouillard",
+          "start": 77.2,
+          "end": 77.68
+        },
+        {
+          "text": "printanier",
+          "start": 77.68,
+          "end": 78.32
+        },
+        {
+          "text": "et",
+          "start": 78.56,
+          "end": 78.64
+        },
+        {
+          "text": "des",
+          "start": 78.64,
+          "end": 78.8
+        },
+        {
+          "text": "travaux",
+          "start": 78.8,
+          "end": 79.12
+        },
+        {
+          "text": "en",
+          "start": 79.12,
+          "end": 79.28
+        },
+        {
+          "text": "cours",
+          "start": 79.28,
+          "end": 79.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La circulation est très lente sur le pont Champlain",
+          "translations": {
+            "zh": "尚普兰大桥上的交通非常缓慢",
+            "en": "Traffic is very slow on the Champlain Bridge",
+            "es": "La circulación es muy lenta en el puente Champlain"
+          },
+          "start": 72.56,
+          "end": 76.8
+        },
+        {
+          "text": "en raison du brouillard printanier et des travaux en cours.",
+          "translations": {
+            "zh": "原因是春季大雾和正在进行的施工。",
+            "en": "due to spring fog and ongoing construction work.",
+            "es": "debido a la niebla primaveral y a las obras en curso."
+          },
+          "start": 76.8,
+          "end": 79.68
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "La sortie 60 vers l'autoroute Bonaventure est fermée, ce qui risque de causer des bouchons.",
+      "translations": {
+        "zh": "通往博纳旺蒂尔高速公路的60号出口已关闭，这可能会造成交通堵塞。",
+        "en": "Exit 60 towards the Bonaventure Expressway is closed, which risks causing bottlenecks.",
+        "es": "La salida 60 hacia la autopista Bonaventure está cerrada, lo que corre el riesgo de causar tapones."
+      },
+      "start": 80.32,
+      "end": 84.56,
+      "words": [
+        {
+          "text": "La",
+          "start": 80.32,
+          "end": 80.48
+        },
+        {
+          "text": "sortie",
+          "start": 80.48,
+          "end": 80.8
+        },
+        {
+          "text": "60",
+          "start": 80.8,
+          "end": 81.28
+        },
+        {
+          "text": "vers",
+          "start": 81.36,
+          "end": 81.52
+        },
+        {
+          "text": "l'autoroute",
+          "start": 81.52,
+          "end": 81.84
+        },
+        {
+          "text": "Bonaventure",
+          "start": 81.84,
+          "end": 82.32
+        },
+        {
+          "text": "est",
+          "start": 82.32,
+          "end": 82.4
+        },
+        {
+          "text": "fermée",
+          "start": 82.4,
+          "end": 82.88
+        },
+        {
+          "text": "ce",
+          "start": 83.2,
+          "end": 83.28
+        },
+        {
+          "text": "qui",
+          "start": 83.28,
+          "end": 83.44
+        },
+        {
+          "text": "risque",
+          "start": 83.44,
+          "end": 83.68
+        },
+        {
+          "text": "de",
+          "start": 83.68,
+          "end": 83.84
+        },
+        {
+          "text": "causer",
+          "start": 83.84,
+          "end": 84.08
+        },
+        {
+          "text": "des",
+          "start": 84.08,
+          "end": 84.16
+        },
+        {
+          "text": "bouchons",
+          "start": 84.16,
+          "end": 84.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La sortie 60 vers l'autoroute Bonaventure est fermée,",
+          "translations": {
+            "zh": "通往博纳旺蒂尔高速公路的60号出口已关闭，",
+            "en": "Exit 60 towards the Bonaventure Expressway is closed,",
+            "es": "La salida 60 hacia la autopista Bonaventure está cerrada,"
+          },
+          "start": 80.32,
+          "end": 82.88
+        },
+        {
+          "text": "ce qui risque de causer des bouchons.",
+          "translations": {
+            "zh": "这可能会造成交通堵塞。",
+            "en": "which risks causing bottlenecks.",
+            "es": "lo que corre el riesgo de causar tapones."
+          },
+          "start": 83.2,
+          "end": 84.56
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Les usagers de la route sont donc invités à éviter le pont Champlain et à emprunter les ponts Jacques-Cartier, Victoria ou Honoré- Mercier, ou encore le pont-tunnel Louis- Hippolyte-La Fontaine, pour accéder à l'ile de Montréal ou en sortir.",
+      "translations": {
+        "zh": "因此建议道路使用者避开尚普兰大桥，改走雅克-卡蒂埃桥、维多利亚桥或奥诺雷-梅西耶桥，或者路易-伊波利特-拉方丹桥隧，以便进出蒙特利尔岛。",
+        "en": "Road users are therefore advised to avoid the Champlain Bridge and to take the Jacques-Cartier, Victoria or Honoré-Mercier bridges, or the Louis-Hippolyte-La Fontaine bridge-tunnel, to access or leave the Island of Montreal.",
+        "es": "Por lo tanto, se invita a los usuarios de la carretera a evitar el puente Champlain y a tomar los puentes Jacques-Cartier, Victoria u Honoré-Mercier, o bien el puente-túnel Louis-Hippolyte-La Fontaine, para acceder a la isla de Montreal o salir de ella."
+      },
+      "start": 85.28,
+      "end": 97.28,
+      "words": [
+        {
+          "text": "Les",
+          "start": 85.28,
+          "end": 85.52
+        },
+        {
+          "text": "usagers",
+          "start": 85.52,
+          "end": 85.84
+        },
+        {
+          "text": "de",
+          "start": 85.84,
+          "end": 85.92
+        },
+        {
+          "text": "la",
+          "start": 85.92,
+          "end": 86.0
+        },
+        {
+          "text": "route",
+          "start": 86.0,
+          "end": 86.16
+        },
+        {
+          "text": "sont",
+          "start": 86.16,
+          "end": 86.32
+        },
+        {
+          "text": "donc",
+          "start": 86.32,
+          "end": 86.56
+        },
+        {
+          "text": "invités",
+          "start": 86.56,
+          "end": 86.96
+        },
+        {
+          "text": "à",
+          "start": 86.96,
+          "end": 87.04
+        },
+        {
+          "text": "éviter",
+          "start": 87.04,
+          "end": 87.6
+        },
+        {
+          "text": "le",
+          "start": 87.6,
+          "end": 87.68
+        },
+        {
+          "text": "pont",
+          "start": 87.68,
+          "end": 87.92
+        },
+        {
+          "text": "Champlain",
+          "start": 87.92,
+          "end": 88.4
+        },
+        {
+          "text": "et",
+          "start": 88.88,
+          "end": 88.96
+        },
+        {
+          "text": "à",
+          "start": 88.96,
+          "end": 89.12
+        },
+        {
+          "text": "emprunter",
+          "start": 89.12,
+          "end": 89.6
+        },
+        {
+          "text": "les",
+          "start": 89.6,
+          "end": 89.68
+        },
+        {
+          "text": "ponts",
+          "start": 89.68,
+          "end": 89.84
+        },
+        {
+          "text": "Jacques",
+          "start": 89.84,
+          "end": 90.08
+        },
+        {
+          "text": "Cartier",
+          "start": 90.08,
+          "end": 90.64
+        },
+        {
+          "text": "Victoria",
+          "start": 90.64,
+          "end": 91.28
+        },
+        {
+          "text": "ou",
+          "start": 91.28,
+          "end": 91.44
+        },
+        {
+          "text": "Honoré",
+          "start": 91.44,
+          "end": 91.68
+        },
+        {
+          "text": "Mercier",
+          "start": 91.68,
+          "end": 92.32
+        },
+        {
+          "text": "ou",
+          "start": 92.56,
+          "end": 92.72
+        },
+        {
+          "text": "encore",
+          "start": 92.72,
+          "end": 92.96
+        },
+        {
+          "text": "le",
+          "start": 92.96,
+          "end": 93.04
+        },
+        {
+          "text": "pont",
+          "start": 93.04,
+          "end": 93.28
+        },
+        {
+          "text": "tunnel",
+          "start": 93.28,
+          "end": 93.6
+        },
+        {
+          "text": "Louis",
+          "start": 93.6,
+          "end": 93.76
+        },
+        {
+          "text": "Hippolyte",
+          "start": 93.76,
+          "end": 94.08
+        },
+        {
+          "text": "La",
+          "start": 94.08,
+          "end": 94.16
+        },
+        {
+          "text": "Fontaine",
+          "start": 94.16,
+          "end": 94.64
+        },
+        {
+          "text": "pour",
+          "start": 94.72,
+          "end": 94.88
+        },
+        {
+          "text": "accéder",
+          "start": 94.88,
+          "end": 95.28
+        },
+        {
+          "text": "à",
+          "start": 95.28,
+          "end": 95.28
+        },
+        {
+          "text": "l'ile",
+          "start": 95.36,
+          "end": 95.44
+        },
+        {
+          "text": "de",
+          "start": 95.44,
+          "end": 95.52
+        },
+        {
+          "text": "Montréal",
+          "start": 95.52,
+          "end": 96.08
+        },
+        {
+          "text": "ou",
+          "start": 96.4,
+          "end": 96.56
+        },
+        {
+          "text": "en",
+          "start": 96.56,
+          "end": 96.56
+        },
+        {
+          "text": "sortir",
+          "start": 96.56,
+          "end": 97.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les usagers de la route sont donc invités",
+          "translations": {
+            "zh": "因此建议道路使用者",
+            "en": "Road users are therefore advised",
+            "es": "Por lo tanto, se invita a los usuarios de la carretera"
+          },
+          "start": 85.28,
+          "end": 86.96
+        },
+        {
+          "text": "à éviter le pont Champlain",
+          "translations": {
+            "zh": "避开尚普兰大桥",
+            "en": "to avoid the Champlain Bridge",
+            "es": "a evitar el puente Champlain"
+          },
+          "start": 86.96,
+          "end": 88.4
+        },
+        {
+          "text": "et à emprunter les ponts Jacques-Cartier, Victoria ou Honoré- Mercier,",
+          "translations": {
+            "zh": "改走雅克-卡蒂埃桥、维多利亚桥或奥诺雷-梅西耶桥，",
+            "en": "and to take the Jacques-Cartier, Victoria or Honoré-Mercier bridges,",
+            "es": "y a tomar los puentes Jacques-Cartier, Victoria u Honoré-Mercier,"
+          },
+          "start": 88.88,
+          "end": 92.32
+        },
+        {
+          "text": "ou encore le pont-tunnel Louis- Hippolyte-La Fontaine,",
+          "translations": {
+            "zh": "或者路易-伊波利特-拉方丹桥隧，",
+            "en": "or the Louis-Hippolyte-La Fontaine bridge-tunnel,",
+            "es": "o bien el puente-túnel Louis-Hippolyte-La Fontaine,"
+          },
+          "start": 92.56,
+          "end": 94.64
+        },
+        {
+          "text": "pour accéder à l'ile de Montréal ou en sortir.",
+          "translations": {
+            "zh": "以便进出蒙特利尔岛。",
+            "en": "to access or leave the Island of Montreal.",
+            "es": "para acceder a la isla de Montreal o salir de ella."
+          },
+          "start": 94.72,
+          "end": 97.28
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "ÉPISODE 14",
+      "translations": {
+        "zh": "第14集",
+        "en": "EPISODE 14",
+        "es": "EPISODIO 14"
+      },
+      "start": 99.6,
+      "end": 100.16,
+      "words": [
+        {
+          "text": "ÉPISODE",
+          "start": 99.6,
+          "end": 99.6
+        },
+        {
+          "text": "14",
+          "start": 100.16,
+          "end": 100.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "ÉPISODE 14",
+          "translations": {
+            "zh": "第14集",
+            "en": "EPISODE 14",
+            "es": "EPISODIO 14"
+          },
+          "start": 99.6,
+          "end": 100.16
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP13_P26",
+  "audio_filename": "FLS2_EP13_P26.mp3",
+  "audio_path": "downloads/FLS2_EP13_P26.mp3",
+  "episode": 13,
+  "piste": 26,
+  "page": 105,
+  "cd": "CD2"
+}

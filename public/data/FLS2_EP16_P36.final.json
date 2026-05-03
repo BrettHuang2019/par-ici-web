@@ -1,0 +1,321 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 16 Piste 36 Page 128",
+      "translations": {
+        "zh": "第16集 第36轨 第128页",
+        "en": "Episode 16 Track 36 Page 128",
+        "es": "Episodio 16 Pista 36 Página 128"
+      },
+      "start": 0.16,
+      "end": 7.6,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.16,
+          "end": 0.88
+        },
+        {
+          "text": "16",
+          "start": 1.12,
+          "end": 1.76
+        },
+        {
+          "text": "Piste",
+          "start": 2.72,
+          "end": 3.2
+        },
+        {
+          "text": "36",
+          "start": 3.52,
+          "end": 4.08
+        },
+        {
+          "text": "Page",
+          "start": 6.08,
+          "end": 6.48
+        },
+        {
+          "text": "128",
+          "start": 6.64,
+          "end": 7.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 16",
+          "translations": {
+            "zh": "第16集",
+            "en": "Episode 16",
+            "es": "Episodio 16"
+          },
+          "start": 0.16,
+          "end": 1.76
+        },
+        {
+          "text": "Piste 36",
+          "translations": {
+            "zh": "第36轨",
+            "en": "Track 36",
+            "es": "Pista 36"
+          },
+          "start": 2.72,
+          "end": 4.08
+        },
+        {
+          "text": "Page 128",
+          "translations": {
+            "zh": "第128页",
+            "en": "Page 128",
+            "es": "Página 128"
+          },
+          "start": 6.08,
+          "end": 7.6
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Que c'est impressionnant !",
+      "translations": {
+        "zh": "多么令人印象深刻啊！",
+        "en": "How impressive it is!",
+        "es": "¡Qué impresionante!"
+      },
+      "start": 10.0,
+      "end": 11.2,
+      "words": [
+        {
+          "text": "Que",
+          "start": 10.0,
+          "end": 10.08
+        },
+        {
+          "text": "c'est",
+          "start": 10.08,
+          "end": 10.4
+        },
+        {
+          "text": "impressionnant",
+          "start": 10.4,
+          "end": 11.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Que c'est",
+          "translations": {
+            "zh": "多么",
+            "en": "How it is",
+            "es": "¡Qué"
+          },
+          "start": 10.0,
+          "end": 10.4
+        },
+        {
+          "text": "impressionnant !",
+          "translations": {
+            "zh": "令人印象深刻啊！",
+            "en": "impressive!",
+            "es": "impresionante!"
+          },
+          "start": 10.4,
+          "end": 11.2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Comme c'est savoureux !",
+      "translations": {
+        "zh": "多么美味啊！",
+        "en": "How delicious it is!",
+        "es": "¡Qué sabroso!"
+      },
+      "start": 14.56,
+      "end": 16.0,
+      "words": [
+        {
+          "text": "Comme",
+          "start": 14.56,
+          "end": 14.72
+        },
+        {
+          "text": "c'est",
+          "start": 14.8,
+          "end": 15.04
+        },
+        {
+          "text": "savoureux",
+          "start": 15.04,
+          "end": 16.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Comme c'est",
+          "translations": {
+            "zh": "多么",
+            "en": "How it is",
+            "es": "¡Qué"
+          },
+          "start": 14.56,
+          "end": 15.04
+        },
+        {
+          "text": "savoureux !",
+          "translations": {
+            "zh": "美味啊！",
+            "en": "delicious!",
+            "es": "sabroso!"
+          },
+          "start": 15.04,
+          "end": 16.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Qu'il est mignon !",
+      "translations": {
+        "zh": "他多么可爱啊！",
+        "en": "How cute he is!",
+        "es": "¡Qué lindo es!"
+      },
+      "start": 18.32,
+      "end": 21.12,
+      "words": [
+        {
+          "text": "Qu'il",
+          "start": 18.32,
+          "end": 20.48
+        },
+        {
+          "text": "est",
+          "start": 20.48,
+          "end": 20.56
+        },
+        {
+          "text": "mignon",
+          "start": 20.56,
+          "end": 21.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Qu'il est",
+          "translations": {
+            "zh": "他多么",
+            "en": "How he is",
+            "es": "¡Qué"
+          },
+          "start": 18.32,
+          "end": 20.56
+        },
+        {
+          "text": "mignon !",
+          "translations": {
+            "zh": "可爱啊！",
+            "en": "cute!",
+            "es": "lindo es!"
+          },
+          "start": 20.56,
+          "end": 21.12
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Qu'elles sont grandes !",
+      "translations": {
+        "zh": "她们多么高大啊！",
+        "en": "How big they are!",
+        "es": "¡Qué grandes son!"
+      },
+      "start": 23.28,
+      "end": 25.92,
+      "words": [
+        {
+          "text": "Qu'elles",
+          "start": 23.28,
+          "end": 25.12
+        },
+        {
+          "text": "sont",
+          "start": 25.12,
+          "end": 25.36
+        },
+        {
+          "text": "grandes",
+          "start": 25.36,
+          "end": 25.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Qu'elles sont",
+          "translations": {
+            "zh": "她们多么",
+            "en": "How they are",
+            "es": "¡Qué"
+          },
+          "start": 23.28,
+          "end": 25.36
+        },
+        {
+          "text": "grandes !",
+          "translations": {
+            "zh": "高大啊！",
+            "en": "big!",
+            "es": "grandes son!"
+          },
+          "start": 25.36,
+          "end": 25.92
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "ÉPISODE 17",
+      "translations": {
+        "zh": "第17集",
+        "en": "EPISODE 17",
+        "es": "EPISODIO 17"
+      },
+      "start": 25.98,
+      "end": 26.16,
+      "words": [
+        {
+          "text": "ÉPISODE",
+          "start": 25.98,
+          "end": 26.04
+        },
+        {
+          "text": "17",
+          "start": 26.1,
+          "end": 26.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "ÉPISODE 17",
+          "translations": {
+            "zh": "第17集",
+            "en": "EPISODE 17",
+            "es": "EPISODIO 17"
+          },
+          "start": 25.98,
+          "end": 26.16
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP16_P36",
+  "audio_filename": "FLS2_EP16_P36.mp3",
+  "audio_path": "downloads/FLS2_EP16_P36.mp3",
+  "episode": 16,
+  "piste": 36,
+  "page": 128,
+  "cd": "CD2"
+}

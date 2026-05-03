@@ -1,0 +1,2361 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 9 Piste 44 Page 73",
+      "translations": {
+        "zh": "第9集 第44条音轨 第73页",
+        "en": "Episode 9 Track 44 Page 73",
+        "es": "Episodio 9 Pista 44 Página 73"
+      },
+      "start": 0.88,
+      "end": 8.4,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.88,
+          "end": 1.6
+        },
+        {
+          "text": "9",
+          "start": 1.92,
+          "end": 2.08
+        },
+        {
+          "text": "Piste",
+          "start": 3.2,
+          "end": 3.6
+        },
+        {
+          "text": "44",
+          "start": 4.24,
+          "end": 5.28
+        },
+        {
+          "text": "Page",
+          "start": 5.28,
+          "end": 5.28
+        },
+        {
+          "text": "73",
+          "start": 6.64,
+          "end": 8.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 9",
+          "translations": {
+            "zh": "第9集",
+            "en": "Episode 9",
+            "es": "Episodio 9"
+          },
+          "start": 0.88,
+          "end": 2.08
+        },
+        {
+          "text": "Piste 44",
+          "translations": {
+            "zh": "第44条音轨",
+            "en": "Track 44",
+            "es": "Pista 44"
+          },
+          "start": 3.2,
+          "end": 5.28
+        },
+        {
+          "text": "Page 73",
+          "translations": {
+            "zh": "第73页",
+            "en": "Page 73",
+            "es": "Página 73"
+          },
+          "start": 5.28,
+          "end": 8.4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Allo ?",
+      "translations": {
+        "zh": "喂？",
+        "en": "Hello?",
+        "es": "¿Hola?"
+      },
+      "start": 10.24,
+      "end": 10.56,
+      "words": [
+        {
+          "text": "Allo",
+          "start": 10.24,
+          "end": 10.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Allo ?",
+          "translations": {
+            "zh": "喂？",
+            "en": "Hello?",
+            "es": "¿Hola?"
+          },
+          "start": 10.24,
+          "end": 10.56
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Salut, c'est Hélène.",
+      "translations": {
+        "zh": "嗨，我是海伦。",
+        "en": "Hi, it's Hélène.",
+        "es": "Hola, soy Hélène."
+      },
+      "start": 10.96,
+      "end": 12.16,
+      "words": [
+        {
+          "text": "Salut",
+          "start": 10.96,
+          "end": 11.44
+        },
+        {
+          "text": "c'est",
+          "start": 11.6,
+          "end": 11.84
+        },
+        {
+          "text": "Hélène",
+          "start": 11.84,
+          "end": 12.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Salut,",
+          "translations": {
+            "zh": "嗨，",
+            "en": "Hi,",
+            "es": "Hola,"
+          },
+          "start": 10.96,
+          "end": 11.44
+        },
+        {
+          "text": "c'est Hélène.",
+          "translations": {
+            "zh": "我是海伦。",
+            "en": "it's Hélène.",
+            "es": "soy Hélène."
+          },
+          "start": 11.6,
+          "end": 12.16
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Salut, ça va ?",
+      "translations": {
+        "zh": "嗨，你好吗？",
+        "en": "Hi, how are you?",
+        "es": "Hola, ¿qué tal?"
+      },
+      "start": 12.48,
+      "end": 13.6,
+      "words": [
+        {
+          "text": "Salut",
+          "start": 12.48,
+          "end": 12.88
+        },
+        {
+          "text": "ça",
+          "start": 13.28,
+          "end": 13.44
+        },
+        {
+          "text": "va",
+          "start": 13.44,
+          "end": 13.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Salut,",
+          "translations": {
+            "zh": "嗨，",
+            "en": "Hi,",
+            "es": "Hola,"
+          },
+          "start": 12.48,
+          "end": 12.88
+        },
+        {
+          "text": "ça va ?",
+          "translations": {
+            "zh": "你好吗？",
+            "en": "how are you?",
+            "es": "¿qué tal?"
+          },
+          "start": 13.28,
+          "end": 13.6
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Oui, et toi ?",
+      "translations": {
+        "zh": "还好，你呢？",
+        "en": "Yes, and you?",
+        "es": "Sí, ¿y tú?"
+      },
+      "start": 13.84,
+      "end": 14.48,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 13.84,
+          "end": 14.0
+        },
+        {
+          "text": "et",
+          "start": 14.16,
+          "end": 14.24
+        },
+        {
+          "text": "toi",
+          "start": 14.24,
+          "end": 14.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "还好，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 13.84,
+          "end": 14.0
+        },
+        {
+          "text": "et toi ?",
+          "translations": {
+            "zh": "你呢？",
+            "en": "and you?",
+            "es": "¿y tú?"
+          },
+          "start": 14.16,
+          "end": 14.48
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Je voulais prendre des nouvelles de ta mère.",
+      "translations": {
+        "zh": "我想问问你妈妈的情况。",
+        "en": "I wanted to check on your mother.",
+        "es": "Quería tener noticias de tu madre."
+      },
+      "start": 15.04,
+      "end": 16.64,
+      "words": [
+        {
+          "text": "Je",
+          "start": 15.04,
+          "end": 15.12
+        },
+        {
+          "text": "voulais",
+          "start": 15.12,
+          "end": 15.28
+        },
+        {
+          "text": "prendre",
+          "start": 15.28,
+          "end": 15.52
+        },
+        {
+          "text": "des",
+          "start": 15.52,
+          "end": 15.6
+        },
+        {
+          "text": "nouvelles",
+          "start": 15.6,
+          "end": 15.84
+        },
+        {
+          "text": "de",
+          "start": 15.92,
+          "end": 16.0
+        },
+        {
+          "text": "ta",
+          "start": 16.0,
+          "end": 16.16
+        },
+        {
+          "text": "mère",
+          "start": 16.16,
+          "end": 16.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je voulais prendre des nouvelles",
+          "translations": {
+            "zh": "我想问问情况",
+            "en": "I wanted to check",
+            "es": "Quería tener noticias"
+          },
+          "start": 15.04,
+          "end": 15.84
+        },
+        {
+          "text": "de ta mère.",
+          "translations": {
+            "zh": "你妈妈的。",
+            "en": "on your mother.",
+            "es": "de tu madre."
+          },
+          "start": 15.92,
+          "end": 16.64
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Ah, tu es gentille.",
+      "translations": {
+        "zh": "啊，你真贴心。",
+        "en": "Ah, that's kind of you.",
+        "es": "Ah, eres amable."
+      },
+      "start": 16.88,
+      "end": 17.92,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 16.88,
+          "end": 17.04
+        },
+        {
+          "text": "tu",
+          "start": 17.28,
+          "end": 17.36
+        },
+        {
+          "text": "es",
+          "start": 17.36,
+          "end": 17.44
+        },
+        {
+          "text": "gentille",
+          "start": 17.44,
+          "end": 17.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah,",
+          "translations": {
+            "zh": "啊，",
+            "en": "Ah,",
+            "es": "Ah,"
+          },
+          "start": 16.88,
+          "end": 17.04
+        },
+        {
+          "text": "tu es gentille.",
+          "translations": {
+            "zh": "你真贴心。",
+            "en": "that's kind of you.",
+            "es": "eres amable."
+          },
+          "start": 17.28,
+          "end": 17.92
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Je viens juste de parler au médecin.",
+      "translations": {
+        "zh": "我刚和医生谈过。",
+        "en": "I just spoke to the doctor.",
+        "es": "Acabo de hablar con el médico."
+      },
+      "start": 18.8,
+      "end": 20.0,
+      "words": [
+        {
+          "text": "Je",
+          "start": 18.8,
+          "end": 18.96
+        },
+        {
+          "text": "viens",
+          "start": 18.96,
+          "end": 19.04
+        },
+        {
+          "text": "juste",
+          "start": 19.04,
+          "end": 19.2
+        },
+        {
+          "text": "de",
+          "start": 19.2,
+          "end": 19.28
+        },
+        {
+          "text": "parler",
+          "start": 19.28,
+          "end": 19.6
+        },
+        {
+          "text": "au",
+          "start": 19.6,
+          "end": 19.68
+        },
+        {
+          "text": "médecin",
+          "start": 19.68,
+          "end": 20.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je viens juste de parler",
+          "translations": {
+            "zh": "我刚谈过",
+            "en": "I just spoke",
+            "es": "Acabo de hablar"
+          },
+          "start": 18.8,
+          "end": 19.6
+        },
+        {
+          "text": "au médecin.",
+          "translations": {
+            "zh": "和医生。",
+            "en": "to the doctor.",
+            "es": "con el médico."
+          },
+          "start": 19.6,
+          "end": 20.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Il m'a dit qu'elle allait passer la nuit en observation, il veut la stabiliser.",
+      "translations": {
+        "zh": "他告诉我她要在医院观察一整夜，他想让她的情况稳定下来。",
+        "en": "He told me she was going to spend the night under observation, he wants to stabilize her.",
+        "es": "Me dijo que iba a pasar la noche en observación, quiere estabilizarla."
+      },
+      "start": 21.36,
+      "end": 24.88,
+      "words": [
+        {
+          "text": "Il",
+          "start": 21.36,
+          "end": 21.44
+        },
+        {
+          "text": "m'a",
+          "start": 21.44,
+          "end": 21.6
+        },
+        {
+          "text": "dit",
+          "start": 21.6,
+          "end": 21.76
+        },
+        {
+          "text": "qu'elle",
+          "start": 21.76,
+          "end": 22.0
+        },
+        {
+          "text": "allait",
+          "start": 22.0,
+          "end": 22.16
+        },
+        {
+          "text": "passer",
+          "start": 22.16,
+          "end": 22.48
+        },
+        {
+          "text": "la",
+          "start": 22.48,
+          "end": 22.64
+        },
+        {
+          "text": "nuit",
+          "start": 22.64,
+          "end": 22.72
+        },
+        {
+          "text": "en",
+          "start": 22.72,
+          "end": 22.88
+        },
+        {
+          "text": "observation",
+          "start": 22.88,
+          "end": 23.52
+        },
+        {
+          "text": "il",
+          "start": 23.76,
+          "end": 24.0
+        },
+        {
+          "text": "veut",
+          "start": 24.0,
+          "end": 24.08
+        },
+        {
+          "text": "la",
+          "start": 24.08,
+          "end": 24.24
+        },
+        {
+          "text": "stabiliser",
+          "start": 24.24,
+          "end": 24.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il m'a dit",
+          "translations": {
+            "zh": "他告诉我",
+            "en": "He told me",
+            "es": "Me dijo"
+          },
+          "start": 21.36,
+          "end": 21.76
+        },
+        {
+          "text": "qu'elle allait passer la nuit en observation,",
+          "translations": {
+            "zh": "她要在医院观察一整夜，",
+            "en": "she was going to spend the night under observation,",
+            "es": "que iba a pasar la noche en observación,"
+          },
+          "start": 21.76,
+          "end": 23.52
+        },
+        {
+          "text": "il veut la stabiliser.",
+          "translations": {
+            "zh": "他想让她的情况稳定下来。",
+            "en": "he wants to stabilize her.",
+            "es": "quiere estabilizarla."
+          },
+          "start": 23.76,
+          "end": 24.88
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Il va changer ses médicaments pour l'hypertension.",
+      "translations": {
+        "zh": "他要更换她的高血压药物。",
+        "en": "He's going to change her blood pressure medication.",
+        "es": "Va a cambiar sus medicamentos para la hipertensión."
+      },
+      "start": 25.28,
+      "end": 27.2,
+      "words": [
+        {
+          "text": "Il",
+          "start": 25.28,
+          "end": 25.36
+        },
+        {
+          "text": "va",
+          "start": 25.36,
+          "end": 25.44
+        },
+        {
+          "text": "changer",
+          "start": 25.44,
+          "end": 25.76
+        },
+        {
+          "text": "ses",
+          "start": 25.76,
+          "end": 25.92
+        },
+        {
+          "text": "médicaments",
+          "start": 25.92,
+          "end": 26.4
+        },
+        {
+          "text": "pour",
+          "start": 26.4,
+          "end": 26.56
+        },
+        {
+          "text": "l'hypertension",
+          "start": 26.56,
+          "end": 27.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il va changer ses médicaments",
+          "translations": {
+            "zh": "他要更换她的药物",
+            "en": "He's going to change her medication",
+            "es": "Va a cambiar sus medicamentos"
+          },
+          "start": 25.28,
+          "end": 26.4
+        },
+        {
+          "text": "pour l'hypertension.",
+          "translations": {
+            "zh": "治疗高血压的。",
+            "en": "for high blood pressure.",
+            "es": "para la hipertensión."
+          },
+          "start": 26.4,
+          "end": 27.2
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Pauvre maman, elle hait tellement ça, l'hôpital pis les pilules.",
+      "translations": {
+        "zh": "可怜的妈妈，她太讨厌这些了，医院和药片。",
+        "en": "Poor Mom, she hates it so much, the hospital and the pills.",
+        "es": "Pobre mamá, odia tanto eso, el hospital y las pastillas."
+      },
+      "start": 28.0,
+      "end": 30.8,
+      "words": [
+        {
+          "text": "Pauvre",
+          "start": 28.0,
+          "end": 28.24
+        },
+        {
+          "text": "maman",
+          "start": 28.24,
+          "end": 28.48
+        },
+        {
+          "text": "elle",
+          "start": 28.88,
+          "end": 29.04
+        },
+        {
+          "text": "hait",
+          "start": 29.04,
+          "end": 29.12
+        },
+        {
+          "text": "tellement",
+          "start": 29.2,
+          "end": 29.6
+        },
+        {
+          "text": "ça",
+          "start": 29.6,
+          "end": 29.76
+        },
+        {
+          "text": "l'hôpital",
+          "start": 29.76,
+          "end": 30.24
+        },
+        {
+          "text": "pis",
+          "start": 30.24,
+          "end": 30.32
+        },
+        {
+          "text": "les",
+          "start": 30.32,
+          "end": 30.48
+        },
+        {
+          "text": "pilules",
+          "start": 30.48,
+          "end": 30.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pauvre maman,",
+          "translations": {
+            "zh": "可怜的妈妈，",
+            "en": "Poor Mom,",
+            "es": "Pobre mamá,"
+          },
+          "start": 28.0,
+          "end": 28.48
+        },
+        {
+          "text": "elle hait tellement ça,",
+          "translations": {
+            "zh": "她太讨厌这些了，",
+            "en": "she hates it so much,",
+            "es": "odia tanto eso,"
+          },
+          "start": 28.88,
+          "end": 29.76
+        },
+        {
+          "text": "l'hôpital pis les pilules.",
+          "translations": {
+            "zh": "医院和药片。",
+            "en": "the hospital and the pills.",
+            "es": "el hospital y las pastillas."
+          },
+          "start": 29.76,
+          "end": 30.8
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Elle va sortir bientôt, si je comprends bien.",
+      "translations": {
+        "zh": "她很快就能出院，如果我没理解错的话。",
+        "en": "She's going to be discharged soon, if I understand correctly.",
+        "es": "Va a salir pronto, si entiendo bien."
+      },
+      "start": 31.28,
+      "end": 33.04,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 31.28,
+          "end": 31.44
+        },
+        {
+          "text": "va",
+          "start": 31.44,
+          "end": 31.52
+        },
+        {
+          "text": "sortir",
+          "start": 31.52,
+          "end": 31.92
+        },
+        {
+          "text": "bientôt",
+          "start": 31.92,
+          "end": 32.32
+        },
+        {
+          "text": "si",
+          "start": 32.32,
+          "end": 32.48
+        },
+        {
+          "text": "je",
+          "start": 32.48,
+          "end": 32.56
+        },
+        {
+          "text": "comprends",
+          "start": 32.56,
+          "end": 32.88
+        },
+        {
+          "text": "bien",
+          "start": 32.88,
+          "end": 33.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle va sortir bientôt,",
+          "translations": {
+            "zh": "她很快就能出院，",
+            "en": "She's going to be discharged soon,",
+            "es": "Va a salir pronto,"
+          },
+          "start": 31.28,
+          "end": 32.32
+        },
+        {
+          "text": "si je comprends bien.",
+          "translations": {
+            "zh": "如果我没理解错的话。",
+            "en": "if I understand correctly.",
+            "es": "si entiendo bien."
+          },
+          "start": 32.32,
+          "end": 33.04
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Oui, demain, je pense bien.",
+      "translations": {
+        "zh": "是的，明天，应该没问题。",
+        "en": "Yes, tomorrow, I think so.",
+        "es": "Sí, mañana, creo que sí."
+      },
+      "start": 33.6,
+      "end": 34.48,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 33.6,
+          "end": 33.76
+        },
+        {
+          "text": "demain",
+          "start": 33.76,
+          "end": 34.08
+        },
+        {
+          "text": "je",
+          "start": 34.08,
+          "end": 34.16
+        },
+        {
+          "text": "pense",
+          "start": 34.16,
+          "end": 34.32
+        },
+        {
+          "text": "bien",
+          "start": 34.32,
+          "end": 34.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 33.6,
+          "end": 33.76
+        },
+        {
+          "text": "demain,",
+          "translations": {
+            "zh": "明天，",
+            "en": "tomorrow,",
+            "es": "mañana,"
+          },
+          "start": 33.76,
+          "end": 34.08
+        },
+        {
+          "text": "je pense bien.",
+          "translations": {
+            "zh": "应该没问题。",
+            "en": "I think so.",
+            "es": "creo que sí."
+          },
+          "start": 34.08,
+          "end": 34.48
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Le médecin veut qu'elle consulte un psychologue.",
+      "translations": {
+        "zh": "医生希望她去看心理医生。",
+        "en": "The doctor wants her to see a psychologist.",
+        "es": "El médico quiere que consulte a un psicólogo."
+      },
+      "start": 35.6,
+      "end": 37.52,
+      "words": [
+        {
+          "text": "Le",
+          "start": 35.6,
+          "end": 35.76
+        },
+        {
+          "text": "médecin",
+          "start": 35.76,
+          "end": 36.16
+        },
+        {
+          "text": "veut",
+          "start": 36.16,
+          "end": 36.24
+        },
+        {
+          "text": "qu'elle",
+          "start": 36.24,
+          "end": 36.48
+        },
+        {
+          "text": "consulte",
+          "start": 36.48,
+          "end": 36.88
+        },
+        {
+          "text": "un",
+          "start": 36.88,
+          "end": 36.96
+        },
+        {
+          "text": "psychologue",
+          "start": 36.96,
+          "end": 37.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le médecin veut",
+          "translations": {
+            "zh": "医生希望",
+            "en": "The doctor wants",
+            "es": "El médico quiere"
+          },
+          "start": 35.6,
+          "end": 36.24
+        },
+        {
+          "text": "qu'elle consulte un psychologue.",
+          "translations": {
+            "zh": "她去看心理医生。",
+            "en": "her to see a psychologist.",
+            "es": "que consulte a un psicólogo."
+          },
+          "start": 36.24,
+          "end": 37.52
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Il m'a dit qu'elle avait probablement eu une attaque de panique.",
+      "translations": {
+        "zh": "他告诉我她可能经历了一次恐慌发作。",
+        "en": "He told me she had probably had a panic attack.",
+        "es": "Me dijo que probablemente había tenido un ataque de pánico."
+      },
+      "start": 38.64,
+      "end": 41.12,
+      "words": [
+        {
+          "text": "Il",
+          "start": 38.64,
+          "end": 38.8
+        },
+        {
+          "text": "m'a",
+          "start": 38.8,
+          "end": 38.88
+        },
+        {
+          "text": "dit",
+          "start": 38.88,
+          "end": 39.04
+        },
+        {
+          "text": "qu'elle",
+          "start": 39.04,
+          "end": 39.2
+        },
+        {
+          "text": "avait",
+          "start": 39.2,
+          "end": 39.36
+        },
+        {
+          "text": "probablement",
+          "start": 39.36,
+          "end": 40.0
+        },
+        {
+          "text": "eu",
+          "start": 40.0,
+          "end": 40.16
+        },
+        {
+          "text": "une",
+          "start": 40.16,
+          "end": 40.24
+        },
+        {
+          "text": "attaque",
+          "start": 40.24,
+          "end": 40.56
+        },
+        {
+          "text": "de",
+          "start": 40.56,
+          "end": 40.64
+        },
+        {
+          "text": "panique",
+          "start": 40.64,
+          "end": 41.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il m'a dit",
+          "translations": {
+            "zh": "他告诉我",
+            "en": "He told me",
+            "es": "Me dijo"
+          },
+          "start": 38.64,
+          "end": 39.04
+        },
+        {
+          "text": "qu'elle avait probablement eu",
+          "translations": {
+            "zh": "她可能经历了",
+            "en": "she had probably had",
+            "es": "que probablemente había tenido"
+          },
+          "start": 39.04,
+          "end": 40.16
+        },
+        {
+          "text": "une attaque de panique.",
+          "translations": {
+            "zh": "一次恐慌发作。",
+            "en": "a panic attack.",
+            "es": "un ataque de pánico."
+          },
+          "start": 40.16,
+          "end": 41.12
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Ma mère aurait un problème d'anxiété.",
+      "translations": {
+        "zh": "我妈妈可能有焦虑问题。",
+        "en": "My mother might have an anxiety problem.",
+        "es": "Mi madre tendría un problema de ansiedad."
+      },
+      "start": 41.84,
+      "end": 43.76,
+      "words": [
+        {
+          "text": "Ma",
+          "start": 41.84,
+          "end": 42.0
+        },
+        {
+          "text": "mère",
+          "start": 42.0,
+          "end": 42.32
+        },
+        {
+          "text": "aurait",
+          "start": 42.32,
+          "end": 42.48
+        },
+        {
+          "text": "un",
+          "start": 42.48,
+          "end": 42.64
+        },
+        {
+          "text": "problème",
+          "start": 42.64,
+          "end": 43.12
+        },
+        {
+          "text": "d'anxiété",
+          "start": 43.12,
+          "end": 43.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ma mère aurait",
+          "translations": {
+            "zh": "我妈妈可能有",
+            "en": "My mother might have",
+            "es": "Mi madre tendría"
+          },
+          "start": 41.84,
+          "end": 42.48
+        },
+        {
+          "text": "un problème d'anxiété.",
+          "translations": {
+            "zh": "焦虑问题。",
+            "en": "an anxiety problem.",
+            "es": "un problema de ansiedad."
+          },
+          "start": 42.48,
+          "end": 43.76
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Pourtant, il n'y a aucun changement dans sa vie...",
+      "translations": {
+        "zh": "然而，她的生活没有任何变化……",
+        "en": "Yet, there's no change in her life...",
+        "es": "Sin embargo, no hay ningún cambio en su vida..."
+      },
+      "start": 44.96,
+      "end": 46.72,
+      "words": [
+        {
+          "text": "Pourtant",
+          "start": 44.96,
+          "end": 45.28
+        },
+        {
+          "text": "il",
+          "start": 45.28,
+          "end": 45.36
+        },
+        {
+          "text": "n'y",
+          "start": 45.36,
+          "end": 45.52
+        },
+        {
+          "text": "a",
+          "start": 45.52,
+          "end": 45.6
+        },
+        {
+          "text": "aucun",
+          "start": 45.68,
+          "end": 45.92
+        },
+        {
+          "text": "changement",
+          "start": 45.92,
+          "end": 46.32
+        },
+        {
+          "text": "dans",
+          "start": 46.32,
+          "end": 46.4
+        },
+        {
+          "text": "sa",
+          "start": 46.4,
+          "end": 46.56
+        },
+        {
+          "text": "vie",
+          "start": 46.56,
+          "end": 46.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pourtant,",
+          "translations": {
+            "zh": "然而，",
+            "en": "Yet,",
+            "es": "Sin embargo,"
+          },
+          "start": 44.96,
+          "end": 45.28
+        },
+        {
+          "text": "il n'y a aucun changement",
+          "translations": {
+            "zh": "没有任何变化",
+            "en": "there's no change",
+            "es": "no hay ningún cambio"
+          },
+          "start": 45.28,
+          "end": 46.32
+        },
+        {
+          "text": "dans sa vie...",
+          "translations": {
+            "zh": "在她的生活中……",
+            "en": "in her life...",
+            "es": "en su vida..."
+          },
+          "start": 46.32,
+          "end": 46.72
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Ah oui !",
+      "translations": {
+        "zh": "啊，对！",
+        "en": "Oh yes!",
+        "es": "¡Ah sí!"
+      },
+      "start": 47.2,
+      "end": 47.6,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 47.2,
+          "end": 47.36
+        },
+        {
+          "text": "oui",
+          "start": 47.36,
+          "end": 47.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah oui !",
+          "translations": {
+            "zh": "啊，对！",
+            "en": "Oh yes!",
+            "es": "¡Ah sí!"
+          },
+          "start": 47.2,
+          "end": 47.6
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "J'ai justement lu un article sur ça l'autre jour : l'anxiété chez les personnes âgées.",
+      "translations": {
+        "zh": "前几天我正好读到一篇关于这个的文章：老年人的焦虑问题。",
+        "en": "I actually read an article about that the other day: anxiety in older people.",
+        "es": "Precisamente leí un artículo sobre eso el otro día: la ansiedad en las personas mayores."
+      },
+      "start": 48.32,
+      "end": 53.12,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 48.32,
+          "end": 48.56
+        },
+        {
+          "text": "justement",
+          "start": 48.56,
+          "end": 48.96
+        },
+        {
+          "text": "lu",
+          "start": 49.2,
+          "end": 49.28
+        },
+        {
+          "text": "un",
+          "start": 49.28,
+          "end": 49.36
+        },
+        {
+          "text": "article",
+          "start": 49.44,
+          "end": 49.84
+        },
+        {
+          "text": "sur",
+          "start": 49.84,
+          "end": 50.08
+        },
+        {
+          "text": "ça",
+          "start": 50.08,
+          "end": 50.24
+        },
+        {
+          "text": "l'autre",
+          "start": 50.24,
+          "end": 50.4
+        },
+        {
+          "text": "jour",
+          "start": 50.4,
+          "end": 50.72
+        },
+        {
+          "text": "l'anxiété",
+          "start": 51.2,
+          "end": 52.0
+        },
+        {
+          "text": "chez",
+          "start": 52.0,
+          "end": 52.16
+        },
+        {
+          "text": "les",
+          "start": 52.16,
+          "end": 52.24
+        },
+        {
+          "text": "personnes",
+          "start": 52.24,
+          "end": 52.64
+        },
+        {
+          "text": "âgées",
+          "start": 52.72,
+          "end": 53.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai justement lu un article sur ça",
+          "translations": {
+            "zh": "我正好读到一篇关于这个的文章",
+            "en": "I actually read an article about that",
+            "es": "Precisamente leí un artículo sobre eso"
+          },
+          "start": 48.32,
+          "end": 50.24
+        },
+        {
+          "text": "l'autre jour :",
+          "translations": {
+            "zh": "前几天：",
+            "en": "the other day:",
+            "es": "el otro día:"
+          },
+          "start": 50.24,
+          "end": 50.72
+        },
+        {
+          "text": "l'anxiété chez les personnes âgées.",
+          "translations": {
+            "zh": "老年人的焦虑问题。",
+            "en": "anxiety in older people.",
+            "es": "la ansiedad en las personas mayores."
+          },
+          "start": 51.2,
+          "end": 53.12
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Il parait que c'est très fréquent.",
+      "translations": {
+        "zh": "据说这很常见。",
+        "en": "Apparently it's very common.",
+        "es": "Parece que es muy frecuente."
+      },
+      "start": 53.6,
+      "end": 54.8,
+      "words": [
+        {
+          "text": "Il",
+          "start": 53.6,
+          "end": 53.76
+        },
+        {
+          "text": "parait",
+          "start": 53.76,
+          "end": 54.0
+        },
+        {
+          "text": "que",
+          "start": 54.0,
+          "end": 54.08
+        },
+        {
+          "text": "c'est",
+          "start": 54.08,
+          "end": 54.24
+        },
+        {
+          "text": "très",
+          "start": 54.24,
+          "end": 54.4
+        },
+        {
+          "text": "fréquent",
+          "start": 54.4,
+          "end": 54.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il parait",
+          "translations": {
+            "zh": "据说",
+            "en": "Apparently",
+            "es": "Parece"
+          },
+          "start": 53.6,
+          "end": 54.0
+        },
+        {
+          "text": "que c'est très fréquent.",
+          "translations": {
+            "zh": "这很常见。",
+            "en": "it's very common.",
+            "es": "que es muy frecuente."
+          },
+          "start": 54.0,
+          "end": 54.8
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Quelques rencontres avec un psychologue, c'est peut-être juste ça que ça lui prend.",
+      "translations": {
+        "zh": "和心理医生见几次面，也许她需要的就只是这个。",
+        "en": "A few sessions with a psychologist, maybe that's just what she needs.",
+        "es": "Unas cuantas consultas con un psicólogo, tal vez es justo eso lo que necesita."
+      },
+      "start": 55.52,
+      "end": 58.32,
+      "words": [
+        {
+          "text": "Quelques",
+          "start": 55.52,
+          "end": 55.76
+        },
+        {
+          "text": "rencontres",
+          "start": 55.76,
+          "end": 56.08
+        },
+        {
+          "text": "avec",
+          "start": 56.08,
+          "end": 56.32
+        },
+        {
+          "text": "un",
+          "start": 56.32,
+          "end": 56.4
+        },
+        {
+          "text": "psychologue",
+          "start": 56.4,
+          "end": 56.96
+        },
+        {
+          "text": "c'est",
+          "start": 56.96,
+          "end": 57.2
+        },
+        {
+          "text": "peut",
+          "start": 57.2,
+          "end": 57.36
+        },
+        {
+          "text": "être",
+          "start": 57.36,
+          "end": 57.44
+        },
+        {
+          "text": "juste",
+          "start": 57.44,
+          "end": 57.68
+        },
+        {
+          "text": "ça",
+          "start": 57.68,
+          "end": 57.76
+        },
+        {
+          "text": "que",
+          "start": 57.76,
+          "end": 57.84
+        },
+        {
+          "text": "ça",
+          "start": 57.84,
+          "end": 58.0
+        },
+        {
+          "text": "lui",
+          "start": 58.0,
+          "end": 58.08
+        },
+        {
+          "text": "prend",
+          "start": 58.08,
+          "end": 58.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quelques rencontres avec un psychologue,",
+          "translations": {
+            "zh": "和心理医生见几次面，",
+            "en": "A few sessions with a psychologist,",
+            "es": "Unas cuantas consultas con un psicólogo,"
+          },
+          "start": 55.52,
+          "end": 56.96
+        },
+        {
+          "text": "c'est peut-être juste ça",
+          "translations": {
+            "zh": "也许就只是这个",
+            "en": "maybe that's just what",
+            "es": "tal vez es justo eso"
+          },
+          "start": 56.96,
+          "end": 57.76
+        },
+        {
+          "text": "que ça lui prend.",
+          "translations": {
+            "zh": "她所需要的。",
+            "en": "she needs.",
+            "es": "lo que necesita."
+          },
+          "start": 57.76,
+          "end": 58.32
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Oui, j'espère pour elle.",
+      "translations": {
+        "zh": "是的，希望如此，为了她。",
+        "en": "Yes, I hope so for her.",
+        "es": "Sí, espero por ella."
+      },
+      "start": 59.12,
+      "end": 60.48,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 59.12,
+          "end": 59.28
+        },
+        {
+          "text": "j'espère",
+          "start": 59.6,
+          "end": 60.0
+        },
+        {
+          "text": "pour",
+          "start": 60.0,
+          "end": 60.24
+        },
+        {
+          "text": "elle",
+          "start": 60.24,
+          "end": 60.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 59.12,
+          "end": 59.28
+        },
+        {
+          "text": "j'espère pour elle.",
+          "translations": {
+            "zh": "希望如此，为了她。",
+            "en": "I hope so for her.",
+            "es": "espero por ella."
+          },
+          "start": 59.6,
+          "end": 60.48
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Quand je suis parti, elle avait l'air beaucoup plus détendue.",
+      "translations": {
+        "zh": "当我离开的时候，她看起来放松多了。",
+        "en": "When I left, she looked much more relaxed.",
+        "es": "Cuando me fui, parecía mucho más relajada."
+      },
+      "start": 61.2,
+      "end": 63.28,
+      "words": [
+        {
+          "text": "Quand",
+          "start": 61.2,
+          "end": 61.36
+        },
+        {
+          "text": "je",
+          "start": 61.36,
+          "end": 61.44
+        },
+        {
+          "text": "suis",
+          "start": 61.44,
+          "end": 61.52
+        },
+        {
+          "text": "parti",
+          "start": 61.52,
+          "end": 61.92
+        },
+        {
+          "text": "elle",
+          "start": 61.92,
+          "end": 62.0
+        },
+        {
+          "text": "avait",
+          "start": 62.0,
+          "end": 62.16
+        },
+        {
+          "text": "l'air",
+          "start": 62.16,
+          "end": 62.32
+        },
+        {
+          "text": "beaucoup",
+          "start": 62.32,
+          "end": 62.64
+        },
+        {
+          "text": "plus",
+          "start": 62.64,
+          "end": 62.8
+        },
+        {
+          "text": "détendue",
+          "start": 62.8,
+          "end": 63.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quand je suis parti,",
+          "translations": {
+            "zh": "当我离开的时候，",
+            "en": "When I left,",
+            "es": "Cuando me fui,"
+          },
+          "start": 61.2,
+          "end": 61.92
+        },
+        {
+          "text": "elle avait l'air beaucoup plus détendue.",
+          "translations": {
+            "zh": "她看起来放松多了。",
+            "en": "she looked much more relaxed.",
+            "es": "parecía mucho más relajada."
+          },
+          "start": 61.92,
+          "end": 63.28
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Le médecin m'a dit qu'on lui avait donné un calmant.",
+      "translations": {
+        "zh": "医生告诉我他们给她打了镇静剂。",
+        "en": "The doctor told me they had given her a sedative.",
+        "es": "El médico me dijo que le habían dado un calmante."
+      },
+      "start": 64.08,
+      "end": 65.76,
+      "words": [
+        {
+          "text": "Le",
+          "start": 64.08,
+          "end": 64.16
+        },
+        {
+          "text": "médecin",
+          "start": 64.16,
+          "end": 64.48
+        },
+        {
+          "text": "m'a",
+          "start": 64.48,
+          "end": 64.56
+        },
+        {
+          "text": "dit",
+          "start": 64.56,
+          "end": 64.72
+        },
+        {
+          "text": "qu'on",
+          "start": 64.72,
+          "end": 64.8
+        },
+        {
+          "text": "lui",
+          "start": 64.8,
+          "end": 64.96
+        },
+        {
+          "text": "avait",
+          "start": 64.96,
+          "end": 65.12
+        },
+        {
+          "text": "donné",
+          "start": 65.12,
+          "end": 65.28
+        },
+        {
+          "text": "un",
+          "start": 65.28,
+          "end": 65.36
+        },
+        {
+          "text": "calmant",
+          "start": 65.36,
+          "end": 65.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le médecin m'a dit",
+          "translations": {
+            "zh": "医生告诉我",
+            "en": "The doctor told me",
+            "es": "El médico me dijo"
+          },
+          "start": 64.08,
+          "end": 64.72
+        },
+        {
+          "text": "qu'on lui avait donné un calmant.",
+          "translations": {
+            "zh": "他们给她打了镇静剂。",
+            "en": "they had given her a sedative.",
+            "es": "que le habían dado un calmante."
+          },
+          "start": 64.72,
+          "end": 65.76
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Je vais retourner la voir demain à 8 h.",
+      "translations": {
+        "zh": "我明天八点会回去看她。",
+        "en": "I'm going back to see her tomorrow at 8 o'clock.",
+        "es": "Voy a volver a verla mañana a las 8 h."
+      },
+      "start": 66.48,
+      "end": 68.32,
+      "words": [
+        {
+          "text": "Je",
+          "start": 66.48,
+          "end": 66.64
+        },
+        {
+          "text": "vais",
+          "start": 66.64,
+          "end": 66.72
+        },
+        {
+          "text": "retourner",
+          "start": 66.72,
+          "end": 66.96
+        },
+        {
+          "text": "la",
+          "start": 66.96,
+          "end": 67.04
+        },
+        {
+          "text": "voir",
+          "start": 67.04,
+          "end": 67.28
+        },
+        {
+          "text": "demain",
+          "start": 67.28,
+          "end": 67.52
+        },
+        {
+          "text": "à",
+          "start": 67.52,
+          "end": 67.52
+        },
+        {
+          "text": "8",
+          "start": 67.52,
+          "end": 68.32
+        },
+        {
+          "text": "h",
+          "start": 68.32,
+          "end": 68.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais retourner la voir",
+          "translations": {
+            "zh": "我会回去看她",
+            "en": "I'm going back to see her",
+            "es": "Voy a volver a verla"
+          },
+          "start": 66.48,
+          "end": 67.28
+        },
+        {
+          "text": "demain à 8 h.",
+          "translations": {
+            "zh": "明天八点。",
+            "en": "tomorrow at 8 o'clock.",
+            "es": "mañana a las 8 h."
+          },
+          "start": 67.28,
+          "end": 68.32
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Ah, pauvre Marc.",
+      "translations": {
+        "zh": "啊，可怜的马克。",
+        "en": "Ah, poor Marc.",
+        "es": "Ah, pobre Marc."
+      },
+      "start": 68.32,
+      "end": 69.6,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 68.32,
+          "end": 68.64
+        },
+        {
+          "text": "pauvre",
+          "start": 68.72,
+          "end": 69.12
+        },
+        {
+          "text": "Marc",
+          "start": 69.12,
+          "end": 69.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah,",
+          "translations": {
+            "zh": "啊，",
+            "en": "Ah,",
+            "es": "Ah,"
+          },
+          "start": 68.32,
+          "end": 68.64
+        },
+        {
+          "text": "pauvre Marc.",
+          "translations": {
+            "zh": "可怜的马克。",
+            "en": "poor Marc.",
+            "es": "pobre Marc."
+          },
+          "start": 68.72,
+          "end": 69.6
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Ce n'est pas facile de voir ses parents vieillir.",
+      "translations": {
+        "zh": "看着父母老去并不容易。",
+        "en": "It's not easy to see your parents grow old.",
+        "es": "No es fácil ver envejecer a los padres."
+      },
+      "start": 69.6,
+      "end": 71.68,
+      "words": [
+        {
+          "text": "Ce",
+          "start": 69.6,
+          "end": 69.76
+        },
+        {
+          "text": "n'est",
+          "start": 69.76,
+          "end": 69.84
+        },
+        {
+          "text": "pas",
+          "start": 69.84,
+          "end": 69.92
+        },
+        {
+          "text": "facile",
+          "start": 69.92,
+          "end": 70.4
+        },
+        {
+          "text": "de",
+          "start": 70.4,
+          "end": 70.48
+        },
+        {
+          "text": "voir",
+          "start": 70.48,
+          "end": 70.64
+        },
+        {
+          "text": "ses",
+          "start": 70.72,
+          "end": 70.8
+        },
+        {
+          "text": "parents",
+          "start": 70.8,
+          "end": 71.12
+        },
+        {
+          "text": "vieillir",
+          "start": 71.12,
+          "end": 71.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ce n'est pas facile",
+          "translations": {
+            "zh": "并不容易",
+            "en": "It's not easy",
+            "es": "No es fácil"
+          },
+          "start": 69.6,
+          "end": 70.4
+        },
+        {
+          "text": "de voir ses parents vieillir.",
+          "translations": {
+            "zh": "看着父母老去。",
+            "en": "to see your parents grow old.",
+            "es": "ver envejecer a los padres."
+          },
+          "start": 70.4,
+          "end": 71.68
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Non, en effet.",
+      "translations": {
+        "zh": "是的，确实不容易。",
+        "en": "No, indeed.",
+        "es": "No, en efecto."
+      },
+      "start": 72.08,
+      "end": 73.12,
+      "words": [
+        {
+          "text": "Non",
+          "start": 72.08,
+          "end": 72.32
+        },
+        {
+          "text": "en",
+          "start": 72.56,
+          "end": 72.56
+        },
+        {
+          "text": "effet",
+          "start": 72.72,
+          "end": 73.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Non,",
+          "translations": {
+            "zh": "是的，",
+            "en": "No,",
+            "es": "No,"
+          },
+          "start": 72.08,
+          "end": 72.32
+        },
+        {
+          "text": "en effet.",
+          "translations": {
+            "zh": "确实不容易。",
+            "en": "indeed.",
+            "es": "en efecto."
+          },
+          "start": 72.56,
+          "end": 73.12
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Bon, je vais aller prendre une douche et me coucher.",
+      "translations": {
+        "zh": "好了，我去洗个澡然后睡觉。",
+        "en": "Well, I'm going to go take a shower and go to bed.",
+        "es": "Bueno, voy a ir a tomar una ducha y acostarme."
+      },
+      "start": 74.08,
+      "end": 75.92,
+      "words": [
+        {
+          "text": "Bon",
+          "start": 74.08,
+          "end": 74.24
+        },
+        {
+          "text": "je",
+          "start": 74.48,
+          "end": 74.56
+        },
+        {
+          "text": "vais",
+          "start": 74.56,
+          "end": 74.64
+        },
+        {
+          "text": "aller",
+          "start": 74.64,
+          "end": 74.72
+        },
+        {
+          "text": "prendre",
+          "start": 74.72,
+          "end": 75.04
+        },
+        {
+          "text": "une",
+          "start": 75.04,
+          "end": 75.12
+        },
+        {
+          "text": "douche",
+          "start": 75.12,
+          "end": 75.44
+        },
+        {
+          "text": "et",
+          "start": 75.44,
+          "end": 75.52
+        },
+        {
+          "text": "me",
+          "start": 75.52,
+          "end": 75.6
+        },
+        {
+          "text": "coucher",
+          "start": 75.6,
+          "end": 75.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bon,",
+          "translations": {
+            "zh": "好了，",
+            "en": "Well,",
+            "es": "Bueno,"
+          },
+          "start": 74.08,
+          "end": 74.24
+        },
+        {
+          "text": "je vais aller prendre une douche",
+          "translations": {
+            "zh": "我去洗个澡",
+            "en": "I'm going to go take a shower",
+            "es": "voy a ir a tomar una ducha"
+          },
+          "start": 74.48,
+          "end": 75.44
+        },
+        {
+          "text": "et me coucher.",
+          "translations": {
+            "zh": "然后睡觉。",
+            "en": "and go to bed.",
+            "es": "y acostarme."
+          },
+          "start": 75.44,
+          "end": 75.92
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Je suis épuisé.",
+      "translations": {
+        "zh": "我精疲力尽了。",
+        "en": "I'm exhausted.",
+        "es": "Estoy agotado."
+      },
+      "start": 76.24,
+      "end": 76.88,
+      "words": [
+        {
+          "text": "Je",
+          "start": 76.24,
+          "end": 76.4
+        },
+        {
+          "text": "suis",
+          "start": 76.4,
+          "end": 76.4
+        },
+        {
+          "text": "épuisé",
+          "start": 76.4,
+          "end": 76.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis épuisé.",
+          "translations": {
+            "zh": "我精疲力尽了。",
+            "en": "I'm exhausted.",
+            "es": "Estoy agotado."
+          },
+          "start": 76.24,
+          "end": 76.88
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "OK, je te laisse.",
+      "translations": {
+        "zh": "好的，不打扰你了。",
+        "en": "OK, I'll let you go.",
+        "es": "OK, te dejo."
+      },
+      "start": 77.28,
+      "end": 78.32,
+      "words": [
+        {
+          "text": "OK",
+          "start": 77.28,
+          "end": 77.36
+        },
+        {
+          "text": "je",
+          "start": 77.44,
+          "end": 77.6
+        },
+        {
+          "text": "te",
+          "start": 77.68,
+          "end": 77.84
+        },
+        {
+          "text": "laisse",
+          "start": 77.84,
+          "end": 78.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "OK,",
+          "translations": {
+            "zh": "好的，",
+            "en": "OK,",
+            "es": "OK,"
+          },
+          "start": 77.28,
+          "end": 77.36
+        },
+        {
+          "text": "je te laisse.",
+          "translations": {
+            "zh": "不打扰你了。",
+            "en": "I'll let you go.",
+            "es": "te dejo."
+          },
+          "start": 77.44,
+          "end": 78.32
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "Tiens-moi au courant, hein ?",
+      "translations": {
+        "zh": "随时告诉我情况，好吗？",
+        "en": "Keep me updated, okay?",
+        "es": "Manténme informado, ¿eh?"
+      },
+      "start": 78.48,
+      "end": 79.6,
+      "words": [
+        {
+          "text": "Tiens",
+          "start": 78.48,
+          "end": 78.72
+        },
+        {
+          "text": "moi",
+          "start": 78.72,
+          "end": 78.88
+        },
+        {
+          "text": "au",
+          "start": 78.88,
+          "end": 78.96
+        },
+        {
+          "text": "courant",
+          "start": 78.96,
+          "end": 79.52
+        },
+        {
+          "text": "hein",
+          "start": 79.52,
+          "end": 79.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tiens-moi au courant,",
+          "translations": {
+            "zh": "随时告诉我情况，",
+            "en": "Keep me updated,",
+            "es": "Manténme informado,"
+          },
+          "start": 78.48,
+          "end": 79.52
+        },
+        {
+          "text": "hein ?",
+          "translations": {
+            "zh": "好吗？",
+            "en": "okay?",
+            "es": "¿eh?"
+          },
+          "start": 79.52,
+          "end": 79.6
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "Oui, c'est sûr.",
+      "translations": {
+        "zh": "是的，一定的。",
+        "en": "Yes, for sure.",
+        "es": "Sí, seguro."
+      },
+      "start": 79.76,
+      "end": 80.56,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 79.76,
+          "end": 79.92
+        },
+        {
+          "text": "c'est",
+          "start": 80.08,
+          "end": 80.24
+        },
+        {
+          "text": "sûr",
+          "start": 80.24,
+          "end": 80.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 79.76,
+          "end": 79.92
+        },
+        {
+          "text": "c'est sûr.",
+          "translations": {
+            "zh": "一定的。",
+            "en": "for sure.",
+            "es": "seguro."
+          },
+          "start": 80.08,
+          "end": 80.56
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "text": "Bye !",
+      "translations": {
+        "zh": "再见！",
+        "en": "Bye!",
+        "es": "¡Adiós!"
+      },
+      "start": 80.8,
+      "end": 81.12,
+      "words": [
+        {
+          "text": "Bye",
+          "start": 80.8,
+          "end": 81.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bye !",
+          "translations": {
+            "zh": "再见！",
+            "en": "Bye!",
+            "es": "¡Adiós!"
+          },
+          "start": 80.8,
+          "end": 81.12
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP09_P44",
+  "audio_filename": "FLS2_EP09_P44.mp3",
+  "audio_path": "downloads/FLS2_EP09_P44.mp3",
+  "episode": 9,
+  "piste": 44,
+  "page": 73,
+  "cd": "CD1"
+}

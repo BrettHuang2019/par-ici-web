@@ -1,0 +1,1066 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 12 Piste 20 Page 97",
+      "translations": {
+        "zh": "第12集 第20音轨 第97页",
+        "en": "Episode 12 Track 20 Page 97",
+        "es": "Episodio 12 Pista 20 Página 97"
+      },
+      "start": 0.72,
+      "end": 8.16,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.72,
+          "end": 1.44
+        },
+        {
+          "text": "12",
+          "start": 1.92,
+          "end": 2.48
+        },
+        {
+          "text": "Piste",
+          "start": 3.36,
+          "end": 3.76
+        },
+        {
+          "text": "20",
+          "start": 4.16,
+          "end": 4.48
+        },
+        {
+          "text": "Page",
+          "start": 4.56,
+          "end": 4.56
+        },
+        {
+          "text": "97",
+          "start": 7.04,
+          "end": 8.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 12",
+          "translations": {
+            "zh": "第12集",
+            "en": "Episode 12",
+            "es": "Episodio 12"
+          },
+          "start": 0.72,
+          "end": 2.48
+        },
+        {
+          "text": "Piste 20",
+          "translations": {
+            "zh": "第20音轨",
+            "en": "Track 20",
+            "es": "Pista 20"
+          },
+          "start": 3.36,
+          "end": 4.48
+        },
+        {
+          "text": "Page 97",
+          "translations": {
+            "zh": "第97页",
+            "en": "Page 97",
+            "es": "Página 97"
+          },
+          "start": 4.56,
+          "end": 8.16
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Je suis en vacances pour quelques jours.",
+      "translations": {
+        "zh": "我在休假几天。",
+        "en": "I am on vacation for a few days.",
+        "es": "Estoy de vacaciones por algunos días."
+      },
+      "start": 9.2,
+      "end": 12.24,
+      "words": [
+        {
+          "text": "Je",
+          "start": 9.2,
+          "end": 9.44
+        },
+        {
+          "text": "suis",
+          "start": 10.56,
+          "end": 10.88
+        },
+        {
+          "text": "en",
+          "start": 10.88,
+          "end": 10.96
+        },
+        {
+          "text": "vacances",
+          "start": 10.96,
+          "end": 11.36
+        },
+        {
+          "text": "pour",
+          "start": 11.36,
+          "end": 11.52
+        },
+        {
+          "text": "quelques",
+          "start": 11.52,
+          "end": 11.84
+        },
+        {
+          "text": "jours",
+          "start": 11.84,
+          "end": 12.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis en vacances",
+          "translations": {
+            "zh": "我在休假",
+            "en": "I am on vacation",
+            "es": "Estoy de vacaciones"
+          },
+          "start": 9.2,
+          "end": 11.36
+        },
+        {
+          "text": "pour quelques jours.",
+          "translations": {
+            "zh": "几天。",
+            "en": "for a few days.",
+            "es": "por algunos días."
+          },
+          "start": 11.36,
+          "end": 12.24
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Je reviens le 12 mai.",
+      "translations": {
+        "zh": "我5月12日回来。",
+        "en": "I am coming back on May 12th.",
+        "es": "Vuelvo el 12 de mayo."
+      },
+      "start": 12.32,
+      "end": 13.36,
+      "words": [
+        {
+          "text": "Je",
+          "start": 12.32,
+          "end": 12.48
+        },
+        {
+          "text": "reviens",
+          "start": 12.48,
+          "end": 12.8
+        },
+        {
+          "text": "le",
+          "start": 12.8,
+          "end": 12.96
+        },
+        {
+          "text": "12",
+          "start": 12.96,
+          "end": 13.2
+        },
+        {
+          "text": "mai",
+          "start": 13.2,
+          "end": 13.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je reviens",
+          "translations": {
+            "zh": "我回来",
+            "en": "I am coming back",
+            "es": "Vuelvo"
+          },
+          "start": 12.32,
+          "end": 12.8
+        },
+        {
+          "text": "le 12 mai.",
+          "translations": {
+            "zh": "5月12日。",
+            "en": "on May 12th.",
+            "es": "el 12 de mayo."
+          },
+          "start": 12.8,
+          "end": 13.36
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Merci.",
+      "translations": {
+        "zh": "谢谢。",
+        "en": "Thank you.",
+        "es": "Gracias."
+      },
+      "start": 13.6,
+      "end": 14.08,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 13.6,
+          "end": 14.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci.",
+          "translations": {
+            "zh": "谢谢。",
+            "en": "Thank you.",
+            "es": "Gracias."
+          },
+          "start": 13.6,
+          "end": 14.08
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Allo, c'est Christian.",
+      "translations": {
+        "zh": "喂，我是Christian。",
+        "en": "Hello, this is Christian.",
+        "es": "Hola, es Christian."
+      },
+      "start": 17.68,
+      "end": 18.8,
+      "words": [
+        {
+          "text": "Allo",
+          "start": 17.68,
+          "end": 18.16
+        },
+        {
+          "text": "c'est",
+          "start": 18.16,
+          "end": 18.32
+        },
+        {
+          "text": "Christian",
+          "start": 18.32,
+          "end": 18.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Allo,",
+          "translations": {
+            "zh": "喂，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 17.68,
+          "end": 18.16
+        },
+        {
+          "text": "c'est Christian.",
+          "translations": {
+            "zh": "我是Christian。",
+            "en": "this is Christian.",
+            "es": "es Christian."
+          },
+          "start": 18.16,
+          "end": 18.8
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Je veux connaitre ton horaire pour organiser notre fin de semaine.",
+      "translations": {
+        "zh": "我想知道你的时间安排，以便安排我们的周末。",
+        "en": "I want to know your schedule to organize our weekend.",
+        "es": "Quiero conocer tu horario para organizar nuestro fin de semana."
+      },
+      "start": 19.52,
+      "end": 22.4,
+      "words": [
+        {
+          "text": "Je",
+          "start": 19.52,
+          "end": 19.6
+        },
+        {
+          "text": "veux",
+          "start": 19.6,
+          "end": 19.68
+        },
+        {
+          "text": "connaitre",
+          "start": 19.68,
+          "end": 20.16
+        },
+        {
+          "text": "ton",
+          "start": 20.16,
+          "end": 20.4
+        },
+        {
+          "text": "horaire",
+          "start": 20.4,
+          "end": 20.88
+        },
+        {
+          "text": "pour",
+          "start": 20.96,
+          "end": 21.12
+        },
+        {
+          "text": "organiser",
+          "start": 21.12,
+          "end": 21.6
+        },
+        {
+          "text": "notre",
+          "start": 21.6,
+          "end": 21.84
+        },
+        {
+          "text": "fin",
+          "start": 21.84,
+          "end": 22.0
+        },
+        {
+          "text": "de",
+          "start": 22.0,
+          "end": 22.0
+        },
+        {
+          "text": "semaine",
+          "start": 22.0,
+          "end": 22.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je veux connaitre ton horaire",
+          "translations": {
+            "zh": "我想知道你的时间安排",
+            "en": "I want to know your schedule",
+            "es": "Quiero conocer tu horario"
+          },
+          "start": 19.52,
+          "end": 20.88
+        },
+        {
+          "text": "pour organiser notre fin de semaine.",
+          "translations": {
+            "zh": "以便安排我们的周末。",
+            "en": "to organize our weekend.",
+            "es": "para organizar nuestro fin de semana."
+          },
+          "start": 20.96,
+          "end": 22.4
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Bonjour, c'est Fatima.",
+      "translations": {
+        "zh": "你好，我是Fatima。",
+        "en": "Hello, this is Fatima.",
+        "es": "Hola, es Fatima."
+      },
+      "start": 26.08,
+      "end": 27.36,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 26.08,
+          "end": 26.64
+        },
+        {
+          "text": "c'est",
+          "start": 26.64,
+          "end": 26.8
+        },
+        {
+          "text": "Fatima",
+          "start": 26.8,
+          "end": 27.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "你好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 26.08,
+          "end": 26.64
+        },
+        {
+          "text": "c'est Fatima.",
+          "translations": {
+            "zh": "我是Fatima。",
+            "en": "this is Fatima.",
+            "es": "es Fatima."
+          },
+          "start": 26.64,
+          "end": 27.36
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Vous n'êtes pas là ?",
+      "translations": {
+        "zh": "您不在吗？",
+        "en": "You're not there?",
+        "es": "¿No está usted ahí?"
+      },
+      "start": 28.56,
+      "end": 29.04,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 28.56,
+          "end": 28.72
+        },
+        {
+          "text": "n'êtes",
+          "start": 28.72,
+          "end": 28.8
+        },
+        {
+          "text": "pas",
+          "start": 28.8,
+          "end": 28.96
+        },
+        {
+          "text": "là",
+          "start": 28.96,
+          "end": 29.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous n'êtes pas là ?",
+          "translations": {
+            "zh": "您不在吗？",
+            "en": "You're not there?",
+            "es": "¿No está usted ahí?"
+          },
+          "start": 28.56,
+          "end": 29.04
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Je vais vous rappeler dans la soirée.",
+      "translations": {
+        "zh": "我会在晚上给您回电话。",
+        "en": "I will call you back in the evening.",
+        "es": "Voy a llamarle de nuevo por la noche."
+      },
+      "start": 30.8,
+      "end": 32.08,
+      "words": [
+        {
+          "text": "Je",
+          "start": 30.8,
+          "end": 30.88
+        },
+        {
+          "text": "vais",
+          "start": 30.88,
+          "end": 30.96
+        },
+        {
+          "text": "vous",
+          "start": 30.96,
+          "end": 31.12
+        },
+        {
+          "text": "rappeler",
+          "start": 31.12,
+          "end": 31.36
+        },
+        {
+          "text": "dans",
+          "start": 31.36,
+          "end": 31.52
+        },
+        {
+          "text": "la",
+          "start": 31.52,
+          "end": 31.6
+        },
+        {
+          "text": "soirée",
+          "start": 31.6,
+          "end": 32.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais vous rappeler",
+          "translations": {
+            "zh": "我会给您回电话",
+            "en": "I will call you back",
+            "es": "Voy a llamarle de nuevo"
+          },
+          "start": 30.8,
+          "end": 31.36
+        },
+        {
+          "text": "dans la soirée.",
+          "translations": {
+            "zh": "在晚上。",
+            "en": "in the evening.",
+            "es": "por la noche."
+          },
+          "start": 31.36,
+          "end": 32.08
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "J'ai des choses à vous expliquer.",
+      "translations": {
+        "zh": "我有些事情要向您解释。",
+        "en": "I have things to explain to you.",
+        "es": "Tengo cosas que explicarle."
+      },
+      "start": 32.4,
+      "end": 33.68,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 32.4,
+          "end": 32.56
+        },
+        {
+          "text": "des",
+          "start": 32.56,
+          "end": 32.64
+        },
+        {
+          "text": "choses",
+          "start": 32.64,
+          "end": 32.96
+        },
+        {
+          "text": "à",
+          "start": 32.96,
+          "end": 32.96
+        },
+        {
+          "text": "vous",
+          "start": 32.96,
+          "end": 33.12
+        },
+        {
+          "text": "expliquer",
+          "start": 33.2,
+          "end": 33.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai des choses",
+          "translations": {
+            "zh": "我有些事情",
+            "en": "I have things",
+            "es": "Tengo cosas"
+          },
+          "start": 32.4,
+          "end": 32.96
+        },
+        {
+          "text": "à vous expliquer.",
+          "translations": {
+            "zh": "要向您解释。",
+            "en": "to explain to you.",
+            "es": "que explicarle."
+          },
+          "start": 32.96,
+          "end": 33.68
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Bonjour.",
+      "translations": {
+        "zh": "你好。",
+        "en": "Hello.",
+        "es": "Hola."
+      },
+      "start": 38.08,
+      "end": 38.72,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 38.08,
+          "end": 38.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour.",
+          "translations": {
+            "zh": "你好。",
+            "en": "Hello.",
+            "es": "Hola."
+          },
+          "start": 38.08,
+          "end": 38.72
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Ici le docteur Fortin.",
+      "translations": {
+        "zh": "这里是Fortin医生。",
+        "en": "This is Doctor Fortin.",
+        "es": "Aquí el doctor Fortin."
+      },
+      "start": 39.28,
+      "end": 40.56,
+      "words": [
+        {
+          "text": "Ici",
+          "start": 39.28,
+          "end": 39.68
+        },
+        {
+          "text": "le",
+          "start": 39.68,
+          "end": 39.76
+        },
+        {
+          "text": "docteur",
+          "start": 39.76,
+          "end": 40.08
+        },
+        {
+          "text": "Fortin",
+          "start": 40.08,
+          "end": 40.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ici le docteur Fortin.",
+          "translations": {
+            "zh": "这里是Fortin医生。",
+            "en": "This is Doctor Fortin.",
+            "es": "Aquí el doctor Fortin."
+          },
+          "start": 39.28,
+          "end": 40.56
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Je confirme la date et l'heure de votre rendez-vous : mardi 6 juin à 15 h.",
+      "translations": {
+        "zh": "我确认您的预约日期和时间：6月6日星期二15点。",
+        "en": "I am confirming the date and time of your appointment: Tuesday, June 6 at 3 p.m.",
+        "es": "Confirmo la fecha y la hora de su cita: martes 6 de junio a las 15 h."
+      },
+      "start": 41.2,
+      "end": 45.76,
+      "words": [
+        {
+          "text": "Je",
+          "start": 41.2,
+          "end": 41.28
+        },
+        {
+          "text": "confirme",
+          "start": 41.28,
+          "end": 41.6
+        },
+        {
+          "text": "la",
+          "start": 41.6,
+          "end": 41.76
+        },
+        {
+          "text": "date",
+          "start": 41.76,
+          "end": 42.08
+        },
+        {
+          "text": "et",
+          "start": 42.08,
+          "end": 42.16
+        },
+        {
+          "text": "l'heure",
+          "start": 42.16,
+          "end": 42.32
+        },
+        {
+          "text": "de",
+          "start": 42.32,
+          "end": 42.4
+        },
+        {
+          "text": "votre",
+          "start": 42.4,
+          "end": 42.56
+        },
+        {
+          "text": "rendez",
+          "start": 42.56,
+          "end": 42.8
+        },
+        {
+          "text": "vous",
+          "start": 42.8,
+          "end": 43.04
+        },
+        {
+          "text": "mardi",
+          "start": 43.52,
+          "end": 44.4
+        },
+        {
+          "text": "6",
+          "start": 44.4,
+          "end": 45.12
+        },
+        {
+          "text": "juin",
+          "start": 45.12,
+          "end": 45.2
+        },
+        {
+          "text": "à",
+          "start": 45.28,
+          "end": 45.44
+        },
+        {
+          "text": "15",
+          "start": 45.44,
+          "end": 45.76
+        },
+        {
+          "text": "h",
+          "start": 45.76,
+          "end": 45.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je confirme la date et l'heure",
+          "translations": {
+            "zh": "我确认日期和时间",
+            "en": "I am confirming the date and time",
+            "es": "Confirmo la fecha y la hora"
+          },
+          "start": 41.2,
+          "end": 42.32
+        },
+        {
+          "text": "de votre rendez-vous :",
+          "translations": {
+            "zh": "您的预约：",
+            "en": "of your appointment:",
+            "es": "de su cita:"
+          },
+          "start": 42.32,
+          "end": 43.04
+        },
+        {
+          "text": "mardi 6 juin à 15 h.",
+          "translations": {
+            "zh": "6月6日星期二15点。",
+            "en": "Tuesday, June 6 at 3 p.m.",
+            "es": "martes 6 de junio a las 15 h."
+          },
+          "start": 43.52,
+          "end": 45.76
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Bonsoir tout le monde !",
+      "translations": {
+        "zh": "大家晚上好！",
+        "en": "Good evening everyone!",
+        "es": "¡Buenas noches a todos!"
+      },
+      "start": 49.84,
+      "end": 50.8,
+      "words": [
+        {
+          "text": "Bonsoir",
+          "start": 49.84,
+          "end": 50.24
+        },
+        {
+          "text": "tout",
+          "start": 50.24,
+          "end": 50.32
+        },
+        {
+          "text": "le",
+          "start": 50.32,
+          "end": 50.4
+        },
+        {
+          "text": "monde",
+          "start": 50.4,
+          "end": 50.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonsoir tout le monde !",
+          "translations": {
+            "zh": "大家晚上好！",
+            "en": "Good evening everyone!",
+            "es": "¡Buenas noches a todos!"
+          },
+          "start": 49.84,
+          "end": 50.8
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Nous venons d'arriver au Nouveau-Brunswick.",
+      "translations": {
+        "zh": "我们刚到新不伦瑞克。",
+        "en": "We have just arrived in New Brunswick.",
+        "es": "Acabamos de llegar a Nuevo Brunswick."
+      },
+      "start": 50.96,
+      "end": 52.48,
+      "words": [
+        {
+          "text": "Nous",
+          "start": 50.96,
+          "end": 51.12
+        },
+        {
+          "text": "venons",
+          "start": 51.12,
+          "end": 51.2
+        },
+        {
+          "text": "d'arriver",
+          "start": 51.2,
+          "end": 51.6
+        },
+        {
+          "text": "au",
+          "start": 51.6,
+          "end": 51.68
+        },
+        {
+          "text": "Nouveau",
+          "start": 51.68,
+          "end": 51.92
+        },
+        {
+          "text": "Brunswick",
+          "start": 51.92,
+          "end": 52.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Nous venons d'arriver",
+          "translations": {
+            "zh": "我们刚到达",
+            "en": "We have just arrived",
+            "es": "Acabamos de llegar"
+          },
+          "start": 50.96,
+          "end": 51.6
+        },
+        {
+          "text": "au Nouveau-Brunswick.",
+          "translations": {
+            "zh": "新不伦瑞克。",
+            "en": "in New Brunswick.",
+            "es": "a Nuevo Brunswick."
+          },
+          "start": 51.6,
+          "end": 52.48
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Toute la famille va bien, on a hâte de visiter la baie de Fundy.",
+      "translations": {
+        "zh": "全家人都很好，我们迫不及待想参观芬迪湾。",
+        "en": "The whole family is doing well, we can't wait to visit the Bay of Fundy.",
+        "es": "Toda la familia está bien, tenemos muchas ganas de visitar la bahía de Fundy."
+      },
+      "start": 52.8,
+      "end": 56.0,
+      "words": [
+        {
+          "text": "Toute",
+          "start": 52.8,
+          "end": 53.04
+        },
+        {
+          "text": "la",
+          "start": 53.04,
+          "end": 53.12
+        },
+        {
+          "text": "famille",
+          "start": 53.12,
+          "end": 53.44
+        },
+        {
+          "text": "va",
+          "start": 53.44,
+          "end": 53.6
+        },
+        {
+          "text": "bien",
+          "start": 53.6,
+          "end": 54.0
+        },
+        {
+          "text": "on",
+          "start": 54.32,
+          "end": 54.48
+        },
+        {
+          "text": "a",
+          "start": 54.48,
+          "end": 54.64
+        },
+        {
+          "text": "hâte",
+          "start": 54.64,
+          "end": 54.72
+        },
+        {
+          "text": "de",
+          "start": 54.72,
+          "end": 54.8
+        },
+        {
+          "text": "visiter",
+          "start": 54.8,
+          "end": 55.28
+        },
+        {
+          "text": "la",
+          "start": 55.28,
+          "end": 55.44
+        },
+        {
+          "text": "baie",
+          "start": 55.44,
+          "end": 55.52
+        },
+        {
+          "text": "de",
+          "start": 55.52,
+          "end": 55.6
+        },
+        {
+          "text": "Fundy",
+          "start": 55.6,
+          "end": 56.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Toute la famille va bien,",
+          "translations": {
+            "zh": "全家人都很好，",
+            "en": "The whole family is doing well,",
+            "es": "Toda la familia está bien,"
+          },
+          "start": 52.8,
+          "end": 54.0
+        },
+        {
+          "text": "on a hâte de visiter la baie de Fundy.",
+          "translations": {
+            "zh": "我们迫不及待想参观芬迪湾。",
+            "en": "we can't wait to visit the Bay of Fundy.",
+            "es": "tenemos muchas ganas de visitar la bahía de Fundy."
+          },
+          "start": 54.32,
+          "end": 56.0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "ÉPISODE 13",
+      "translations": {
+        "zh": "第13集",
+        "en": "EPISODE 13",
+        "es": "EPISODIO 13"
+      },
+      "start": 56.0,
+      "end": 56.0,
+      "words": [
+        {
+          "text": "ÉPISODE",
+          "start": 56.0,
+          "end": 56.0
+        },
+        {
+          "text": "13",
+          "start": 56.0,
+          "end": 56.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "ÉPISODE 13",
+          "translations": {
+            "zh": "第13集",
+            "en": "EPISODE 13",
+            "es": "EPISODIO 13"
+          },
+          "start": 56.0,
+          "end": 56.0
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP12_P20",
+  "audio_filename": "FLS2_EP12_P20.mp3",
+  "audio_path": "downloads/FLS2_EP12_P20.mp3",
+  "episode": 12,
+  "piste": 20,
+  "page": 97,
+  "cd": "CD2"
+}

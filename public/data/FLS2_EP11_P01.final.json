@@ -1,0 +1,1796 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Épisode 11 Piste 1 Page 84",
+      "translations": {
+        "zh": "第11集 第1轨 第84页",
+        "en": "Episode 11 Track 1 Page 84",
+        "es": "Episodio 11 Pista 1 Página 84"
+      },
+      "start": 0.64,
+      "end": 9.44,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 0.64,
+          "end": 1.28
+        },
+        {
+          "text": "11",
+          "start": 1.68,
+          "end": 2.16
+        },
+        {
+          "text": "Piste",
+          "start": 2.88,
+          "end": 3.36
+        },
+        {
+          "text": "1",
+          "start": 4.08,
+          "end": 4.24
+        },
+        {
+          "text": "Page",
+          "start": 7.36,
+          "end": 7.92
+        },
+        {
+          "text": "84",
+          "start": 9.44,
+          "end": 9.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 11",
+          "translations": {
+            "zh": "第11集",
+            "en": "Episode 11",
+            "es": "Episodio 11"
+          },
+          "start": 0.64,
+          "end": 2.16
+        },
+        {
+          "text": "Piste 1",
+          "translations": {
+            "zh": "第1轨",
+            "en": "Track 1",
+            "es": "Pista 1"
+          },
+          "start": 2.88,
+          "end": 4.24
+        },
+        {
+          "text": "Page 84",
+          "translations": {
+            "zh": "第84页",
+            "en": "Page 84",
+            "es": "Página 84"
+          },
+          "start": 7.36,
+          "end": 9.44
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Jean !",
+      "translations": {
+        "zh": "让！",
+        "en": "Jean!",
+        "es": "¡Jean!"
+      },
+      "start": 9.44,
+      "end": 9.76,
+      "words": [
+        {
+          "text": "Jean",
+          "start": 9.44,
+          "end": 9.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Jean !",
+          "translations": {
+            "zh": "让！",
+            "en": "Jean!",
+            "es": "¡Jean!"
+          },
+          "start": 9.44,
+          "end": 9.76
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Danielle !",
+      "translations": {
+        "zh": "丹妮尔！",
+        "en": "Danielle!",
+        "es": "¡Danielle!"
+      },
+      "start": 10.0,
+      "end": 10.4,
+      "words": [
+        {
+          "text": "Danielle",
+          "start": 10.0,
+          "end": 10.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Danielle !",
+          "translations": {
+            "zh": "丹妮尔！",
+            "en": "Danielle!",
+            "es": "¡Danielle!"
+          },
+          "start": 10.0,
+          "end": 10.4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Heille, c'est tout un orage qu'on a eu, hein !",
+      "translations": {
+        "zh": "嘿，我们刚才经历的那场暴风雨可真不小啊！",
+        "en": "Hey, that was quite a storm we had, huh!",
+        "es": "¡Oye, es toda una tormenta la que tuvimos, eh!"
+      },
+      "start": 11.52,
+      "end": 14.24,
+      "words": [
+        {
+          "text": "Heille",
+          "start": 11.52,
+          "end": 11.68
+        },
+        {
+          "text": "c'est",
+          "start": 11.68,
+          "end": 11.84
+        },
+        {
+          "text": "tout",
+          "start": 11.84,
+          "end": 12.0
+        },
+        {
+          "text": "un",
+          "start": 12.08,
+          "end": 12.16
+        },
+        {
+          "text": "orage",
+          "start": 12.16,
+          "end": 12.56
+        },
+        {
+          "text": "qu'on",
+          "start": 12.56,
+          "end": 12.8
+        },
+        {
+          "text": "a",
+          "start": 12.8,
+          "end": 12.8
+        },
+        {
+          "text": "eu",
+          "start": 12.8,
+          "end": 13.04
+        },
+        {
+          "text": "hein",
+          "start": 14.08,
+          "end": 14.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Heille,",
+          "translations": {
+            "zh": "嘿，",
+            "en": "Hey,",
+            "es": "Oye,"
+          },
+          "start": 11.52,
+          "end": 11.68
+        },
+        {
+          "text": "c'est tout un orage",
+          "translations": {
+            "zh": "那可真是一场暴风雨",
+            "en": "that was quite a storm",
+            "es": "es toda una tormenta"
+          },
+          "start": 11.68,
+          "end": 12.56
+        },
+        {
+          "text": "qu'on a eu,",
+          "translations": {
+            "zh": "我们刚才经历的，",
+            "en": "we had,",
+            "es": "la que tuvimos,"
+          },
+          "start": 12.56,
+          "end": 13.04
+        },
+        {
+          "text": "hein !",
+          "translations": {
+            "zh": "啊！",
+            "en": "huh!",
+            "es": "¡eh!"
+          },
+          "start": 14.08,
+          "end": 14.24
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Oui, quel vent !",
+      "translations": {
+        "zh": "是啊，多大的风啊！",
+        "en": "Yes, what wind!",
+        "es": "¡Sí, qué viento!"
+      },
+      "start": 14.24,
+      "end": 15.28,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 14.24,
+          "end": 14.48
+        },
+        {
+          "text": "quel",
+          "start": 14.56,
+          "end": 14.96
+        },
+        {
+          "text": "vent",
+          "start": 14.96,
+          "end": 15.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是啊，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 14.24,
+          "end": 14.48
+        },
+        {
+          "text": "quel vent !",
+          "translations": {
+            "zh": "多大的风啊！",
+            "en": "what wind!",
+            "es": "¡qué viento!"
+          },
+          "start": 14.56,
+          "end": 15.28
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "C'est pour ça que le contenu des publisacs s'est retrouvé sur le trottoir...",
+      "translations": {
+        "zh": "正因如此，广告袋里的东西才散落到了人行道上……",
+        "en": "That's why the contents of the ad bags ended up on the sidewalk...",
+        "es": "Es por eso que el contenido de los publisacs terminó en la acera..."
+      },
+      "start": 15.6,
+      "end": 18.72,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 15.6,
+          "end": 15.84
+        },
+        {
+          "text": "pour",
+          "start": 15.84,
+          "end": 16.0
+        },
+        {
+          "text": "ça",
+          "start": 16.0,
+          "end": 16.16
+        },
+        {
+          "text": "que",
+          "start": 16.16,
+          "end": 16.16
+        },
+        {
+          "text": "le",
+          "start": 16.16,
+          "end": 16.24
+        },
+        {
+          "text": "contenu",
+          "start": 16.24,
+          "end": 16.64
+        },
+        {
+          "text": "des",
+          "start": 16.64,
+          "end": 16.8
+        },
+        {
+          "text": "publisacs",
+          "start": 16.8,
+          "end": 17.36
+        },
+        {
+          "text": "s'est",
+          "start": 17.36,
+          "end": 17.52
+        },
+        {
+          "text": "retrouvé",
+          "start": 17.52,
+          "end": 17.84
+        },
+        {
+          "text": "sur",
+          "start": 17.84,
+          "end": 18.0
+        },
+        {
+          "text": "le",
+          "start": 18.0,
+          "end": 18.08
+        },
+        {
+          "text": "trottoir",
+          "start": 18.08,
+          "end": 18.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est pour ça",
+          "translations": {
+            "zh": "正因如此",
+            "en": "That's why",
+            "es": "Es por eso"
+          },
+          "start": 15.6,
+          "end": 16.16
+        },
+        {
+          "text": "que le contenu des publisacs",
+          "translations": {
+            "zh": "广告袋里的东西",
+            "en": "the contents of the ad bags",
+            "es": "que el contenido de los publisacs"
+          },
+          "start": 16.16,
+          "end": 17.36
+        },
+        {
+          "text": "s'est retrouvé sur le trottoir...",
+          "translations": {
+            "zh": "才散落到了人行道上……",
+            "en": "ended up on the sidewalk...",
+            "es": "terminó en la acera..."
+          },
+          "start": 17.36,
+          "end": 18.72
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Je te remercie de les avoir ramassés...",
+      "translations": {
+        "zh": "谢谢你把它们捡起来……",
+        "en": "Thank you for picking them up...",
+        "es": "Te agradezco que los hayas recogido..."
+      },
+      "start": 18.8,
+      "end": 20.72,
+      "words": [
+        {
+          "text": "Je",
+          "start": 18.8,
+          "end": 18.96
+        },
+        {
+          "text": "te",
+          "start": 19.04,
+          "end": 19.12
+        },
+        {
+          "text": "remercie",
+          "start": 19.12,
+          "end": 19.6
+        },
+        {
+          "text": "de",
+          "start": 19.6,
+          "end": 19.68
+        },
+        {
+          "text": "les",
+          "start": 19.68,
+          "end": 19.84
+        },
+        {
+          "text": "avoir",
+          "start": 19.84,
+          "end": 20.08
+        },
+        {
+          "text": "ramassés",
+          "start": 20.08,
+          "end": 20.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je te remercie",
+          "translations": {
+            "zh": "谢谢你",
+            "en": "Thank you",
+            "es": "Te agradezco"
+          },
+          "start": 18.8,
+          "end": 19.6
+        },
+        {
+          "text": "de les avoir ramassés...",
+          "translations": {
+            "zh": "把它们捡起来……",
+            "en": "for picking them up...",
+            "es": "que los hayas recogido..."
+          },
+          "start": 19.6,
+          "end": 20.72
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Pis, avez-vous fini de vous installer dans votre nouvel appartement ?",
+      "translations": {
+        "zh": "对了，你们在新公寓里安顿好了吗？",
+        "en": "So, have you finished settling into your new apartment?",
+        "es": "¿Entonces, han terminado de instalarse en su nuevo apartamento?"
+      },
+      "start": 21.44,
+      "end": 23.84,
+      "words": [
+        {
+          "text": "Pis",
+          "start": 21.44,
+          "end": 21.68
+        },
+        {
+          "text": "avez",
+          "start": 21.68,
+          "end": 21.92
+        },
+        {
+          "text": "vous",
+          "start": 21.92,
+          "end": 22.0
+        },
+        {
+          "text": "fini",
+          "start": 22.0,
+          "end": 22.24
+        },
+        {
+          "text": "de",
+          "start": 22.24,
+          "end": 22.32
+        },
+        {
+          "text": "vous",
+          "start": 22.32,
+          "end": 22.48
+        },
+        {
+          "text": "installer",
+          "start": 22.48,
+          "end": 22.88
+        },
+        {
+          "text": "dans",
+          "start": 22.88,
+          "end": 22.96
+        },
+        {
+          "text": "votre",
+          "start": 23.04,
+          "end": 23.2
+        },
+        {
+          "text": "nouvel",
+          "start": 23.2,
+          "end": 23.36
+        },
+        {
+          "text": "appartement",
+          "start": 23.36,
+          "end": 23.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pis,",
+          "translations": {
+            "zh": "对了，",
+            "en": "So,",
+            "es": "Entonces,"
+          },
+          "start": 21.44,
+          "end": 21.68
+        },
+        {
+          "text": "avez-vous fini",
+          "translations": {
+            "zh": "你们有没有完成",
+            "en": "have you finished",
+            "es": "han terminado"
+          },
+          "start": 21.68,
+          "end": 22.24
+        },
+        {
+          "text": "de vous installer",
+          "translations": {
+            "zh": "安顿下来",
+            "en": "settling in",
+            "es": "de instalarse"
+          },
+          "start": 22.24,
+          "end": 22.88
+        },
+        {
+          "text": "dans votre nouvel appartement ?",
+          "translations": {
+            "zh": "在你们的新公寓里？",
+            "en": "to your new apartment?",
+            "es": "en su nuevo apartamento?"
+          },
+          "start": 22.88,
+          "end": 23.84
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Oui, on est super contents.",
+      "translations": {
+        "zh": "是的，我们非常满意。",
+        "en": "Yes, we're really happy.",
+        "es": "Sí, estamos súper contentos."
+      },
+      "start": 24.48,
+      "end": 26.72,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 24.48,
+          "end": 25.04
+        },
+        {
+          "text": "on",
+          "start": 25.12,
+          "end": 25.44
+        },
+        {
+          "text": "est",
+          "start": 25.44,
+          "end": 25.6
+        },
+        {
+          "text": "super",
+          "start": 25.6,
+          "end": 26.24
+        },
+        {
+          "text": "contents",
+          "start": 26.24,
+          "end": 26.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 24.48,
+          "end": 25.04
+        },
+        {
+          "text": "on est super contents.",
+          "translations": {
+            "zh": "我们非常满意。",
+            "en": "we're really happy.",
+            "es": "estamos súper contentos."
+          },
+          "start": 25.12,
+          "end": 26.72
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "On ne s'ennuie pas du tout de la banlieue, ni des embouteillages pour aller au centre-ville...",
+      "translations": {
+        "zh": "我们一点也不想念郊区，也不想念去市中心路上的堵车……",
+        "en": "We don't miss the suburbs at all, or the traffic jams going downtown...",
+        "es": "No extrañamos en absoluto las afueras, ni los atascos para ir al centro..."
+      },
+      "start": 27.12,
+      "end": 31.84,
+      "words": [
+        {
+          "text": "On",
+          "start": 27.12,
+          "end": 27.28
+        },
+        {
+          "text": "ne",
+          "start": 27.28,
+          "end": 27.76
+        },
+        {
+          "text": "s'ennuie",
+          "start": 27.76,
+          "end": 27.76
+        },
+        {
+          "text": "pas",
+          "start": 27.76,
+          "end": 28.0
+        },
+        {
+          "text": "du",
+          "start": 28.0,
+          "end": 28.32
+        },
+        {
+          "text": "tout",
+          "start": 28.32,
+          "end": 28.48
+        },
+        {
+          "text": "de",
+          "start": 28.48,
+          "end": 28.56
+        },
+        {
+          "text": "la",
+          "start": 28.56,
+          "end": 28.64
+        },
+        {
+          "text": "banlieue",
+          "start": 28.64,
+          "end": 29.36
+        },
+        {
+          "text": "ni",
+          "start": 29.36,
+          "end": 29.76
+        },
+        {
+          "text": "des",
+          "start": 29.84,
+          "end": 30.08
+        },
+        {
+          "text": "embouteillages",
+          "start": 30.08,
+          "end": 30.72
+        },
+        {
+          "text": "pour",
+          "start": 30.72,
+          "end": 30.88
+        },
+        {
+          "text": "aller",
+          "start": 30.88,
+          "end": 31.04
+        },
+        {
+          "text": "au",
+          "start": 31.04,
+          "end": 31.12
+        },
+        {
+          "text": "centre",
+          "start": 31.12,
+          "end": 31.44
+        },
+        {
+          "text": "ville",
+          "start": 31.44,
+          "end": 31.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On ne s'ennuie pas du tout",
+          "translations": {
+            "zh": "我们一点也不想念",
+            "en": "We don't miss at all",
+            "es": "No extrañamos en absoluto"
+          },
+          "start": 27.12,
+          "end": 28.48
+        },
+        {
+          "text": "de la banlieue,",
+          "translations": {
+            "zh": "郊区，",
+            "en": "the suburbs,",
+            "es": "las afueras,"
+          },
+          "start": 28.48,
+          "end": 29.36
+        },
+        {
+          "text": "ni des embouteillages",
+          "translations": {
+            "zh": "也不想念那些堵车",
+            "en": "or the traffic jams",
+            "es": "ni los atascos"
+          },
+          "start": 29.36,
+          "end": 30.72
+        },
+        {
+          "text": "pour aller au centre-ville...",
+          "translations": {
+            "zh": "在去市中心的路上……",
+            "en": "going downtown...",
+            "es": "para ir al centro..."
+          },
+          "start": 30.72,
+          "end": 31.84
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Je n'en doute pas !",
+      "translations": {
+        "zh": "这我毫不怀疑！",
+        "en": "I don't doubt it!",
+        "es": "¡No lo dudo!"
+      },
+      "start": 33.2,
+      "end": 34.08,
+      "words": [
+        {
+          "text": "Je",
+          "start": 33.2,
+          "end": 33.28
+        },
+        {
+          "text": "n'en",
+          "start": 33.28,
+          "end": 33.44
+        },
+        {
+          "text": "doute",
+          "start": 33.44,
+          "end": 33.68
+        },
+        {
+          "text": "pas",
+          "start": 33.76,
+          "end": 34.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je n'en doute pas !",
+          "translations": {
+            "zh": "这我毫不怀疑！",
+            "en": "I don't doubt it!",
+            "es": "¡No lo dudo!"
+          },
+          "start": 33.2,
+          "end": 34.08
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Mais j'y pense...",
+      "translations": {
+        "zh": "不过我想到了……",
+        "en": "But that reminds me...",
+        "es": "Pero pienso en ello..."
+      },
+      "start": 35.28,
+      "end": 36.24,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 35.28,
+          "end": 35.36
+        },
+        {
+          "text": "j'y",
+          "start": 35.36,
+          "end": 35.6
+        },
+        {
+          "text": "pense",
+          "start": 35.6,
+          "end": 36.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais j'y pense...",
+          "translations": {
+            "zh": "不过我想到了……",
+            "en": "But that reminds me...",
+            "es": "Pero pienso en ello..."
+          },
+          "start": 35.28,
+          "end": 36.24
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Voulez-vous participer à notre corvée annuelle du printemps ?",
+      "translations": {
+        "zh": "你们想参加我们一年一度的春季义务劳动吗？",
+        "en": "Would you like to take part in our annual spring cleanup?",
+        "es": "¿Quieren participar en nuestra faena anual de la primavera?"
+      },
+      "start": 36.8,
+      "end": 39.52,
+      "words": [
+        {
+          "text": "Voulez",
+          "start": 36.8,
+          "end": 37.04
+        },
+        {
+          "text": "vous",
+          "start": 37.04,
+          "end": 37.12
+        },
+        {
+          "text": "participer",
+          "start": 37.2,
+          "end": 37.84
+        },
+        {
+          "text": "à",
+          "start": 37.84,
+          "end": 37.92
+        },
+        {
+          "text": "notre",
+          "start": 37.92,
+          "end": 38.24
+        },
+        {
+          "text": "corvée",
+          "start": 38.24,
+          "end": 38.56
+        },
+        {
+          "text": "annuelle",
+          "start": 38.56,
+          "end": 39.04
+        },
+        {
+          "text": "du",
+          "start": 39.04,
+          "end": 39.12
+        },
+        {
+          "text": "printemps",
+          "start": 39.12,
+          "end": 39.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Voulez-vous participer",
+          "translations": {
+            "zh": "你们想参加",
+            "en": "Would you like to take part",
+            "es": "Quieren participar"
+          },
+          "start": 36.8,
+          "end": 37.84
+        },
+        {
+          "text": "à notre corvée annuelle du printemps ?",
+          "translations": {
+            "zh": "我们一年一度的春季义务劳动吗？",
+            "en": "in our annual spring cleanup?",
+            "es": "en nuestra faena anual de la primavera?"
+          },
+          "start": 37.84,
+          "end": 39.52
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Une corvée ?",
+      "translations": {
+        "zh": "义务劳动？",
+        "en": "A cleanup?",
+        "es": "¿Una faena?"
+      },
+      "start": 40.0,
+      "end": 40.8,
+      "words": [
+        {
+          "text": "Une",
+          "start": 40.0,
+          "end": 40.16
+        },
+        {
+          "text": "corvée",
+          "start": 40.16,
+          "end": 40.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Une corvée ?",
+          "translations": {
+            "zh": "义务劳动？",
+            "en": "A cleanup?",
+            "es": "¿Una faena?"
+          },
+          "start": 40.0,
+          "end": 40.8
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Oui, avec quelques voisins, on a décidé d'embellir la ruelle, de faire un grand ménage communautaire...",
+      "translations": {
+        "zh": "是的，和几位邻居一起，我们决定美化小巷，做一次社区大扫除……",
+        "en": "Yes, with a few neighbors, we decided to beautify the alley, to do a big community cleanup...",
+        "es": "Sí, con algunos vecinos, hemos decidido embellecer el callejón, hacer una gran limpieza comunitaria..."
+      },
+      "start": 41.44,
+      "end": 47.04,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 41.44,
+          "end": 41.84
+        },
+        {
+          "text": "avec",
+          "start": 41.84,
+          "end": 42.08
+        },
+        {
+          "text": "quelques",
+          "start": 42.08,
+          "end": 42.32
+        },
+        {
+          "text": "voisins",
+          "start": 42.32,
+          "end": 42.72
+        },
+        {
+          "text": "on",
+          "start": 42.88,
+          "end": 43.04
+        },
+        {
+          "text": "a",
+          "start": 43.04,
+          "end": 43.2
+        },
+        {
+          "text": "décidé",
+          "start": 43.2,
+          "end": 43.6
+        },
+        {
+          "text": "d'embellir",
+          "start": 43.6,
+          "end": 44.0
+        },
+        {
+          "text": "la",
+          "start": 44.0,
+          "end": 44.16
+        },
+        {
+          "text": "ruelle",
+          "start": 44.16,
+          "end": 44.72
+        },
+        {
+          "text": "de",
+          "start": 45.12,
+          "end": 45.28
+        },
+        {
+          "text": "faire",
+          "start": 45.28,
+          "end": 45.52
+        },
+        {
+          "text": "un",
+          "start": 45.52,
+          "end": 45.68
+        },
+        {
+          "text": "grand",
+          "start": 45.68,
+          "end": 45.92
+        },
+        {
+          "text": "ménage",
+          "start": 45.92,
+          "end": 46.24
+        },
+        {
+          "text": "communautaire",
+          "start": 46.24,
+          "end": 47.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 41.44,
+          "end": 41.84
+        },
+        {
+          "text": "avec quelques voisins,",
+          "translations": {
+            "zh": "和几位邻居一起，",
+            "en": "with a few neighbors,",
+            "es": "con algunos vecinos,"
+          },
+          "start": 41.84,
+          "end": 42.72
+        },
+        {
+          "text": "on a décidé",
+          "translations": {
+            "zh": "我们决定",
+            "en": "we decided",
+            "es": "hemos decidido"
+          },
+          "start": 42.88,
+          "end": 43.6
+        },
+        {
+          "text": "d'embellir la ruelle,",
+          "translations": {
+            "zh": "美化小巷，",
+            "en": "to beautify the alley,",
+            "es": "embellecer el callejón,"
+          },
+          "start": 43.6,
+          "end": 44.72
+        },
+        {
+          "text": "de faire un grand ménage communautaire...",
+          "translations": {
+            "zh": "做一次社区大扫除……",
+            "en": "to do a big community cleanup...",
+            "es": "hacer una gran limpieza comunitaria..."
+          },
+          "start": 45.12,
+          "end": 47.04
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Est-ce que ça vous tenterait de vous joindre à nous ?",
+      "translations": {
+        "zh": "你们有兴趣加入我们吗？",
+        "en": "Would you be interested in joining us?",
+        "es": "¿Les tentaría unirse a nosotros?"
+      },
+      "start": 47.04,
+      "end": 49.12,
+      "words": [
+        {
+          "text": "Est",
+          "start": 47.04,
+          "end": 47.76
+        },
+        {
+          "text": "ce",
+          "start": 47.76,
+          "end": 47.84
+        },
+        {
+          "text": "que",
+          "start": 47.84,
+          "end": 47.92
+        },
+        {
+          "text": "ça",
+          "start": 47.92,
+          "end": 48.08
+        },
+        {
+          "text": "vous",
+          "start": 48.08,
+          "end": 48.16
+        },
+        {
+          "text": "tenterait",
+          "start": 48.16,
+          "end": 48.48
+        },
+        {
+          "text": "de",
+          "start": 48.48,
+          "end": 48.56
+        },
+        {
+          "text": "vous",
+          "start": 48.56,
+          "end": 48.64
+        },
+        {
+          "text": "joindre",
+          "start": 48.64,
+          "end": 48.96
+        },
+        {
+          "text": "à",
+          "start": 48.96,
+          "end": 49.04
+        },
+        {
+          "text": "nous",
+          "start": 49.04,
+          "end": 49.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que ça vous tenterait",
+          "translations": {
+            "zh": "你们有兴趣吗",
+            "en": "Would you be interested",
+            "es": "Les tentaría"
+          },
+          "start": 47.04,
+          "end": 48.48
+        },
+        {
+          "text": "de vous joindre à nous ?",
+          "translations": {
+            "zh": "加入我们？",
+            "en": "in joining us?",
+            "es": "unirse a nosotros?"
+          },
+          "start": 48.48,
+          "end": 49.12
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Quand est-ce que ça va avoir lieu ?",
+      "translations": {
+        "zh": "什么时候举行？",
+        "en": "When is it going to take place?",
+        "es": "¿Cuándo va a tener lugar?"
+      },
+      "start": 49.84,
+      "end": 51.12,
+      "words": [
+        {
+          "text": "Quand",
+          "start": 49.84,
+          "end": 50.08
+        },
+        {
+          "text": "est",
+          "start": 50.08,
+          "end": 50.16
+        },
+        {
+          "text": "ce",
+          "start": 50.16,
+          "end": 50.24
+        },
+        {
+          "text": "que",
+          "start": 50.24,
+          "end": 50.32
+        },
+        {
+          "text": "ça",
+          "start": 50.32,
+          "end": 50.48
+        },
+        {
+          "text": "va",
+          "start": 50.48,
+          "end": 50.64
+        },
+        {
+          "text": "avoir",
+          "start": 50.64,
+          "end": 50.88
+        },
+        {
+          "text": "lieu",
+          "start": 50.88,
+          "end": 51.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Quand est-ce que",
+          "translations": {
+            "zh": "什么时候",
+            "en": "When is it",
+            "es": "Cuándo"
+          },
+          "start": 49.84,
+          "end": 50.32
+        },
+        {
+          "text": "ça va avoir lieu ?",
+          "translations": {
+            "zh": "举行？",
+            "en": "going to take place?",
+            "es": "va a tener lugar?"
+          },
+          "start": 50.32,
+          "end": 51.12
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "La fin de semaine de la fête des Patriotes, mais on ne sait pas encore si ça va être le samedi, le dimanche ou le lundi...",
+      "translations": {
+        "zh": "爱国者日那个周末，但我们还不知道是星期六、星期日还是星期一……",
+        "en": "The Patriots' Day weekend, but we don't know yet if it'll be Saturday, Sunday or Monday...",
+        "es": "El fin de semana de la fiesta de los Patriotas, pero aún no sabemos si será el sábado, el domingo o el lunes..."
+      },
+      "start": 51.84,
+      "end": 57.44,
+      "words": [
+        {
+          "text": "La",
+          "start": 51.84,
+          "end": 52.0
+        },
+        {
+          "text": "fin",
+          "start": 52.0,
+          "end": 52.16
+        },
+        {
+          "text": "de",
+          "start": 52.16,
+          "end": 52.24
+        },
+        {
+          "text": "semaine",
+          "start": 52.24,
+          "end": 52.64
+        },
+        {
+          "text": "de",
+          "start": 52.64,
+          "end": 52.64
+        },
+        {
+          "text": "la",
+          "start": 52.64,
+          "end": 52.72
+        },
+        {
+          "text": "fête",
+          "start": 52.72,
+          "end": 52.96
+        },
+        {
+          "text": "des",
+          "start": 52.96,
+          "end": 53.12
+        },
+        {
+          "text": "Patriotes",
+          "start": 53.12,
+          "end": 53.76
+        },
+        {
+          "text": "mais",
+          "start": 53.76,
+          "end": 54.08
+        },
+        {
+          "text": "on",
+          "start": 54.08,
+          "end": 54.24
+        },
+        {
+          "text": "ne",
+          "start": 54.24,
+          "end": 54.24
+        },
+        {
+          "text": "sait",
+          "start": 54.24,
+          "end": 54.4
+        },
+        {
+          "text": "pas",
+          "start": 54.4,
+          "end": 54.56
+        },
+        {
+          "text": "encore",
+          "start": 54.56,
+          "end": 54.88
+        },
+        {
+          "text": "si",
+          "start": 54.88,
+          "end": 55.04
+        },
+        {
+          "text": "ça",
+          "start": 55.04,
+          "end": 55.12
+        },
+        {
+          "text": "va",
+          "start": 55.12,
+          "end": 55.28
+        },
+        {
+          "text": "être",
+          "start": 55.28,
+          "end": 55.36
+        },
+        {
+          "text": "le",
+          "start": 55.36,
+          "end": 55.52
+        },
+        {
+          "text": "samedi",
+          "start": 55.52,
+          "end": 56.16
+        },
+        {
+          "text": "le",
+          "start": 56.16,
+          "end": 56.24
+        },
+        {
+          "text": "dimanche",
+          "start": 56.24,
+          "end": 56.72
+        },
+        {
+          "text": "ou",
+          "start": 56.72,
+          "end": 56.8
+        },
+        {
+          "text": "le",
+          "start": 56.8,
+          "end": 56.96
+        },
+        {
+          "text": "lundi",
+          "start": 56.96,
+          "end": 57.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La fin de semaine de la fête des Patriotes,",
+          "translations": {
+            "zh": "爱国者日那个周末，",
+            "en": "The Patriots' Day weekend,",
+            "es": "El fin de semana de la fiesta de los Patriotas,"
+          },
+          "start": 51.84,
+          "end": 53.76
+        },
+        {
+          "text": "mais on ne sait pas encore",
+          "translations": {
+            "zh": "但我们还不知道",
+            "en": "but we don't know yet",
+            "es": "pero aún no sabemos"
+          },
+          "start": 53.76,
+          "end": 54.88
+        },
+        {
+          "text": "si ça va être",
+          "translations": {
+            "zh": "会是",
+            "en": "if it'll be",
+            "es": "si será"
+          },
+          "start": 54.88,
+          "end": 55.36
+        },
+        {
+          "text": "le samedi, le dimanche ou le lundi...",
+          "translations": {
+            "zh": "星期六、星期日还是星期一……",
+            "en": "Saturday, Sunday or Monday...",
+            "es": "el sábado, el domingo o el lunes..."
+          },
+          "start": 55.36,
+          "end": 57.44
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Ça va dépendre de la météo.",
+      "translations": {
+        "zh": "这要看天气情况。",
+        "en": "It will depend on the weather.",
+        "es": "Va a depender del clima."
+      },
+      "start": 58.08,
+      "end": 59.12,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 58.08,
+          "end": 58.24
+        },
+        {
+          "text": "va",
+          "start": 58.24,
+          "end": 58.32
+        },
+        {
+          "text": "dépendre",
+          "start": 58.32,
+          "end": 58.64
+        },
+        {
+          "text": "de",
+          "start": 58.64,
+          "end": 58.64
+        },
+        {
+          "text": "la",
+          "start": 58.64,
+          "end": 58.72
+        },
+        {
+          "text": "météo",
+          "start": 58.72,
+          "end": 59.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça va dépendre",
+          "translations": {
+            "zh": "这要看",
+            "en": "It will depend",
+            "es": "Va a depender"
+          },
+          "start": 58.08,
+          "end": 58.64
+        },
+        {
+          "text": "de la météo.",
+          "translations": {
+            "zh": "天气情况。",
+            "en": "on the weather.",
+            "es": "del clima."
+          },
+          "start": 58.64,
+          "end": 59.12
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Qu'est-ce que tu en penses, Danielle ?",
+      "translations": {
+        "zh": "丹妮尔，你怎么看？",
+        "en": "What do you think, Danielle?",
+        "es": "¿Qué opinas de esto, Danielle?"
+      },
+      "start": 59.92,
+      "end": 61.04,
+      "words": [
+        {
+          "text": "Qu'est",
+          "start": 59.92,
+          "end": 60.08
+        },
+        {
+          "text": "ce",
+          "start": 60.08,
+          "end": 60.16
+        },
+        {
+          "text": "que",
+          "start": 60.16,
+          "end": 60.16
+        },
+        {
+          "text": "tu",
+          "start": 60.16,
+          "end": 60.32
+        },
+        {
+          "text": "en",
+          "start": 60.32,
+          "end": 60.4
+        },
+        {
+          "text": "penses",
+          "start": 60.4,
+          "end": 60.64
+        },
+        {
+          "text": "Danielle",
+          "start": 60.64,
+          "end": 61.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Qu'est-ce que tu en penses,",
+          "translations": {
+            "zh": "你怎么看，",
+            "en": "What do you think,",
+            "es": "Qué opinas de esto,"
+          },
+          "start": 59.92,
+          "end": 60.64
+        },
+        {
+          "text": "Danielle ?",
+          "translations": {
+            "zh": "丹妮尔？",
+            "en": "Danielle?",
+            "es": "Danielle?"
+          },
+          "start": 60.64,
+          "end": 61.04
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Je trouve que c'est une excellente idée.",
+      "translations": {
+        "zh": "我觉得这是个极好的主意。",
+        "en": "I think it's an excellent idea.",
+        "es": "Me parece que es una excelente idea."
+      },
+      "start": 61.92,
+      "end": 63.52,
+      "words": [
+        {
+          "text": "Je",
+          "start": 61.92,
+          "end": 62.0
+        },
+        {
+          "text": "trouve",
+          "start": 62.0,
+          "end": 62.24
+        },
+        {
+          "text": "que",
+          "start": 62.24,
+          "end": 62.4
+        },
+        {
+          "text": "c'est",
+          "start": 62.4,
+          "end": 62.56
+        },
+        {
+          "text": "une",
+          "start": 62.56,
+          "end": 62.72
+        },
+        {
+          "text": "excellente",
+          "start": 62.72,
+          "end": 63.2
+        },
+        {
+          "text": "idée",
+          "start": 63.2,
+          "end": 63.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je trouve que",
+          "translations": {
+            "zh": "我觉得",
+            "en": "I think",
+            "es": "Me parece que"
+          },
+          "start": 61.92,
+          "end": 62.4
+        },
+        {
+          "text": "c'est une excellente idée.",
+          "translations": {
+            "zh": "这是个极好的主意。",
+            "en": "it's an excellent idea.",
+            "es": "es una excelente idea."
+          },
+          "start": 62.4,
+          "end": 63.52
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "En plus, ça va nous permettre de mieux connaitre les gens du voisinage.",
+      "translations": {
+        "zh": "而且，这还能让我们更好地认识街坊邻居。",
+        "en": "Besides, it'll give us a chance to get to know the people in the neighborhood better.",
+        "es": "Además, nos va a permitir conocer mejor a la gente del vecindario."
+      },
+      "start": 64.0,
+      "end": 66.96,
+      "words": [
+        {
+          "text": "En",
+          "start": 64.0,
+          "end": 64.08
+        },
+        {
+          "text": "plus",
+          "start": 64.08,
+          "end": 64.24
+        },
+        {
+          "text": "ça",
+          "start": 64.24,
+          "end": 64.48
+        },
+        {
+          "text": "va",
+          "start": 64.48,
+          "end": 64.56
+        },
+        {
+          "text": "nous",
+          "start": 64.56,
+          "end": 64.72
+        },
+        {
+          "text": "permettre",
+          "start": 64.72,
+          "end": 65.12
+        },
+        {
+          "text": "de",
+          "start": 65.12,
+          "end": 65.28
+        },
+        {
+          "text": "mieux",
+          "start": 65.28,
+          "end": 65.44
+        },
+        {
+          "text": "connaitre",
+          "start": 65.44,
+          "end": 65.84
+        },
+        {
+          "text": "les",
+          "start": 65.84,
+          "end": 66.0
+        },
+        {
+          "text": "gens",
+          "start": 66.0,
+          "end": 66.16
+        },
+        {
+          "text": "du",
+          "start": 66.16,
+          "end": 66.24
+        },
+        {
+          "text": "voisinage",
+          "start": 66.24,
+          "end": 66.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "En plus,",
+          "translations": {
+            "zh": "而且，",
+            "en": "Besides,",
+            "es": "Además,"
+          },
+          "start": 64.0,
+          "end": 64.24
+        },
+        {
+          "text": "ça va nous permettre",
+          "translations": {
+            "zh": "这能让我们",
+            "en": "it'll give us a chance",
+            "es": "nos va a permitir"
+          },
+          "start": 64.24,
+          "end": 65.12
+        },
+        {
+          "text": "de mieux connaitre les gens du voisinage.",
+          "translations": {
+            "zh": "更好地认识街坊邻居。",
+            "en": "to get to know the people in the neighborhood better.",
+            "es": "conocer mejor a la gente del vecindario."
+          },
+          "start": 65.12,
+          "end": 66.96
+        }
+      ]
+    }
+  ],
+  "id": "FLS2_EP11_P01",
+  "audio_filename": "FLS2_EP11_P01.mp3",
+  "audio_path": "downloads/FLS2_EP11_P01.mp3",
+  "episode": 11,
+  "piste": 1,
+  "page": 84,
+  "cd": "CD2"
+}
