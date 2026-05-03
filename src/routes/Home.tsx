@@ -38,7 +38,7 @@ export function Home() {
   return (
     <div className="min-h-screen bg-gray-950 text-white p-4 max-w-4xl mx-auto">
       <div className="flex items-center justify-between mb-6 pt-4">
-        <h1 className="text-2xl font-bold">Par Ici</h1>
+        <h1 className="text-2xl font-bold">Par ici B1</h1>
         <div className="flex items-center gap-2">
           <select
             value={translationLanguage}

@@ -21,14 +21,12 @@ function getLessonColor(
   let anyTouched = false;
   let allPass = true;
   let anyRed = false;
-  let anyFail = false;
 
   for (const s of sentences) {
     const key = sentenceKey(piste.episode, piste.piste, s.id);
     const prog = progressData[key] ?? { status: 'none', revealed: false };
     if (prog.status !== 'none') anyTouched = true;
     if (prog.status !== 'pass') allPass = false;
-    if (prog.status === 'fail') anyFail = true;
     const hasRed = Object.values(redWordData).some(entry =>
       entry.refs.some(
         ref => ref.ep === piste.episode && ref.piste === piste.piste && ref.sentenceId === s.id
@@ -38,7 +36,7 @@ function getLessonColor(
   }
 
   if (!anyTouched && !anyRed) return 'grey';
-  if (allPass && !anyRed && !anyFail) return 'green';
+  if (allPass) return 'green';
   return 'yellow';
 }
 
