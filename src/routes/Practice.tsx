@@ -19,6 +19,7 @@ const PAGE_SIZE = 20;
 
 export function Practice() {
   const [loadedPistes, setLoadedPistes] = useState<LoadedPiste[]>([]);
+  const [sessionItemKeys, setSessionItemKeys] = useState<Set<string> | null>(null);
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const [activePracticeKey, setActivePracticeKey] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
@@ -28,7 +29,7 @@ export function Practice() {
   const enginesRef = useRef<Map<string, AudioEngine>>(new Map());
   const scrollRef = useRef<HTMLDivElement>(null);
 
-  const items = useMemo(() => {
+  const candidateItemKeys = useMemo(() => {
     const redSentenceKeys = new Set<string>();
     for (const entry of Object.values(redWordsData)) {
       for (const ref of entry.refs) {
@@ -36,22 +37,38 @@ export function Practice() {
       }
     }
 
-    return loadedPistes.flatMap((p) =>
+    return new Set(loadedPistes.flatMap((p) =>
       p.sentences.flatMap((s) => {
         const key = sentenceKey(p.ep, p.piste, s.id);
         const prog = progressData[key];
         const hasRed = redSentenceKeys.has(key);
-        return prog?.status === 'fail' || hasRed
+        return prog?.status === 'fail' || hasRed ? [key] : [];
+      })
+    ));
+  }, [loadedPistes, progressData, redWordsData]);
+
+  const items = useMemo(() => {
+    const itemKeys = sessionItemKeys ?? candidateItemKeys;
+    return loadedPistes.flatMap((p) =>
+      p.sentences.flatMap((s) => {
+        const key = sentenceKey(p.ep, p.piste, s.id);
+        return itemKeys.has(key)
           ? [{ sentence: s, ep: p.ep, piste: p.piste, audioSrc: p.audioSrc }]
           : [];
       })
     );
-  }, [loadedPistes, progressData, redWordsData]);
+  }, [candidateItemKeys, loadedPistes, sessionItemKeys]);
 
   const visibleItems = useMemo(
     () => items.slice(0, visibleCount),
     [items, visibleCount]
   );
+
+  useEffect(() => {
+    if (!loading && sessionItemKeys === null) {
+      setSessionItemKeys(new Set(candidateItemKeys));
+    }
+  }, [candidateItemKeys, loading, sessionItemKeys]);
 
   useEffect(() => {
     setVisibleCount(count => Math.min(Math.max(count, PAGE_SIZE), items.length || PAGE_SIZE));
