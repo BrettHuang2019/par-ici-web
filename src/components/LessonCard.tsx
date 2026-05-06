@@ -8,49 +8,53 @@ type Props = {
   sentences: Sentence[] | null;
 };
 
-type LessonColor = 'grey' | 'green' | 'yellow';
+type LessonStats = {
+  total: number;
+  passed: number;
+  hasActivity: boolean;
+  passRate: number;
+};
 
-function getLessonColor(
+function getLessonStats(
   piste: PisteInfo,
   sentences: Sentence[] | null,
   progressData: Record<SentenceKey, SentenceProgress>,
   redWordData: Record<string, RedWordEntry>
-): LessonColor {
-  if (!sentences || sentences.length === 0) return 'grey';
+): LessonStats {
+  if (!sentences || sentences.length === 0) {
+    return { total: 0, passed: 0, hasActivity: false, passRate: 0 };
+  }
 
-  let anyTouched = false;
-  let allPass = true;
-  let anyRed = false;
+  let passed = 0;
+  let hasActivity = false;
 
   for (const s of sentences) {
     const key = sentenceKey(piste.episode, piste.piste, s.id);
     const prog = progressData[key] ?? { status: 'none', revealed: false };
-    if (prog.status !== 'none') anyTouched = true;
-    if (prog.status !== 'pass') allPass = false;
+    if (prog.status !== 'none' || prog.revealed) hasActivity = true;
+    if (prog.status === 'pass') passed += 1;
     const hasRed = Object.values(redWordData).some(entry =>
       entry.refs.some(
         ref => ref.ep === piste.episode && ref.piste === piste.piste && ref.sentenceId === s.id
       )
     );
-    if (hasRed) anyRed = true;
+    if (hasRed) hasActivity = true;
   }
 
-  if (!anyTouched && !anyRed) return 'grey';
-  if (allPass) return 'green';
-  return 'yellow';
+  return {
+    total: sentences.length,
+    passed,
+    hasActivity,
+    passRate: passed / sentences.length,
+  };
 }
 
-const colorClasses: Record<LessonColor, string> = {
-  grey: 'border-gray-700 bg-gray-900 text-gray-200',
-  green: 'border-green-500/60 bg-green-950/70 text-green-100',
-  yellow: 'border-yellow-500/60 bg-yellow-950/60 text-yellow-100',
-};
+const greyClasses = 'border-gray-700 bg-gray-900 text-gray-200';
+const activeBaseClasses = 'text-yellow-50';
 
-const fillClasses: Record<LessonColor, string> = {
-  grey: 'bg-gray-400/70',
-  green: 'bg-green-400',
-  yellow: 'bg-yellow-400',
-};
+function passHue(passRate: number): number {
+  return 48 + (142 - 48) * passRate;
+}
 
 function compactTitle(title: string, pisteNumber: number): string {
   const exactPrefix = new RegExp(`^piste\\s*${pisteNumber}\\s*[-:—]?\\s*`, 'i');
@@ -61,26 +65,34 @@ function compactTitle(title: string, pisteNumber: number): string {
 export function LessonCard({ piste, sentences }: Props) {
   const progressData = useProgressStore(s => s.data);
   const redWordData = useRedWordsStore(s => s.data);
-  const color = getLessonColor(piste, sentences, progressData, redWordData);
-  const totalSentences = sentences?.length ?? 0;
-  const processedSentences = sentences?.filter(sentence => {
-    const progress = progressData[sentenceKey(piste.episode, piste.piste, sentence.id)];
-    return progress && (progress.status !== 'none' || progress.revealed);
-  }).length ?? 0;
-  const progressPercent = totalSentences > 0 ? (processedSentences / totalSentences) * 100 : 0;
+  const stats = getLessonStats(piste, sentences, progressData, redWordData);
+  const progressPercent = stats.passRate * 100;
+  const hue = passHue(stats.passRate);
+  const activeStyle = stats.hasActivity
+    ? {
+        borderColor: `hsl(${hue} 88% 54% / 0.62)`,
+        backgroundColor: `hsl(${hue} 76% 17% / 0.66)`,
+        color: `hsl(${hue} 78% 90%)`,
+      }
+    : undefined;
+  const fillStyle = {
+    width: `${progressPercent}%`,
+    backgroundColor: stats.hasActivity ? `hsl(${hue} 88% 58%)` : undefined,
+  };
   const title = compactTitle(piste.title, piste.piste);
 
   return (
     <Link
       to={`/player/${piste.episode}/${piste.piste}`}
-      className={`relative flex aspect-square min-h-12 flex-col justify-between overflow-hidden rounded-lg border px-2 py-1.5 transition-all hover:-translate-y-0.5 hover:brightness-110 ${colorClasses[color]}`}
+      className={`relative flex aspect-square min-h-12 flex-col justify-between overflow-hidden rounded-lg border px-2 py-1.5 transition-all hover:-translate-y-0.5 hover:brightness-110 ${stats.hasActivity ? activeBaseClasses : greyClasses}`}
+      style={activeStyle}
     >
       <div
         className="absolute inset-x-0 bottom-0 h-0.5 bg-black/25"
       />
       <div
-        className={`absolute bottom-0 left-0 h-0.5 transition-all ${fillClasses[color]}`}
-        style={{ width: `${progressPercent}%` }}
+        className={`absolute bottom-0 left-0 h-0.5 transition-all ${stats.hasActivity ? '' : 'bg-gray-400/70'}`}
+        style={fillStyle}
       />
       <div className="relative z-10 flex h-full flex-col justify-between">
         <div className="flex items-start justify-between gap-2">
@@ -88,13 +100,13 @@ export function LessonCard({ piste, sentences }: Props) {
             Piste {piste.piste}
           </div>
           <div className="text-[9px] font-semibold opacity-75">
-            {processedSentences}/{totalSentences || '--'}
+            {stats.passed}/{stats.total || '--'}
           </div>
         </div>
         <div>
           <div className="text-[11px] font-semibold leading-tight">{title}</div>
           <div className="mt-0.5 text-[9px] opacity-70">
-            {Math.round(progressPercent)}% complete
+            {Math.round(progressPercent)}% pass
           </div>
         </div>
       </div>
