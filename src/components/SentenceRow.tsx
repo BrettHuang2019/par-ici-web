@@ -55,7 +55,8 @@ export function SentenceRow({
     : practiceMode && wordStates.some(s => s === 'red')
       ? 'fail'
       : progress.status;
-  const effectiveRevealed = (practiceMode && !practiceInteracted) ? false : progress.revealed;
+  const hasLocalReveal = wordStates.some(s => s !== 'hidden');
+  const effectiveRevealed = (practiceMode && !practiceInteracted) ? hasLocalReveal : progress.revealed;
 
   useEffect(() => {
     if (isActive && rowRef.current) {
@@ -109,17 +110,26 @@ export function SentenceRow({
   };
 
   const handleReveal = () => {
-    setWordStates(sentence.words.map((w) => isRed(w.text, ep, piste, sentence.id) ? 'red' : 'revealed'));
+    setWordStates(sentence.words.map((w) =>
+      practiceMode && !practiceInteracted
+        ? 'revealed'
+        : isRed(w.text, ep, piste, sentence.id) ? 'red' : 'revealed'
+    ));
+    if (practiceMode && !practiceInteracted) return;
     setRevealed(key, true);
   };
 
   const handleUnreveal = () => {
-    setWordStates(sentence.words.map((w) => isRed(w.text, ep, piste, sentence.id) ? 'red' : 'hidden'));
+    setWordStates(sentence.words.map((w) =>
+      practiceMode && !practiceInteracted
+        ? 'hidden'
+        : isRed(w.text, ep, piste, sentence.id) ? 'red' : 'hidden'
+    ));
+    if (practiceMode && !practiceInteracted) return;
     setRevealed(key, false);
   };
 
   const handleRevealToggle = () => {
-    if (practiceMode) setPracticeInteracted(true);
     if (effectiveRevealed) handleUnreveal();
     else handleReveal();
   };
