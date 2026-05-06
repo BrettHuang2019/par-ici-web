@@ -53,7 +53,12 @@ const greyClasses = 'border-gray-700 bg-gray-900 text-gray-200';
 const activeBaseClasses = 'text-yellow-50';
 
 function passHue(passRate: number): number {
-  return 48 + (142 - 48) * passRate;
+  const clampedRate = Math.min(Math.max(passRate, 0), 1);
+  if (clampedRate <= 0.95) {
+    return 48 + (66 - 48) * (clampedRate / 0.95);
+  }
+
+  return 66 + (142 - 66) * ((clampedRate - 0.95) / 0.05);
 }
 
 function compactTitle(title: string, pisteNumber: number): string {
