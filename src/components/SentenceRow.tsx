@@ -117,6 +117,7 @@ export function SentenceRow({
     ));
     if (practiceMode && !practiceInteracted) return;
     setRevealed(key, true);
+    if (!practiceMode) setStatus(key, 'fail');
   };
 
   const handleUnreveal = () => {
