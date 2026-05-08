@@ -101,16 +101,16 @@ export function LessonCard({ piste, sentences }: Props) {
       />
       <div className="relative z-10 flex h-full flex-col justify-between">
         <div className="flex items-start justify-between gap-2">
-          <div className="text-[9px] font-medium uppercase tracking-[0.18em] opacity-70">
+          <div className="text-[11px] font-medium uppercase tracking-[0.18em] opacity-70">
             Piste {piste.piste}
           </div>
-          <div className="text-[9px] font-semibold opacity-75">
+          <div className="text-[11px] font-semibold opacity-75">
             {stats.passed}/{stats.total || '--'}
           </div>
         </div>
         <div>
-          <div className="text-[11px] font-semibold leading-tight">{title}</div>
-          <div className="mt-0.5 text-[9px] opacity-70">
+          <div className="text-[13px] font-semibold leading-tight">{title}</div>
+          <div className="mt-0.5 text-[11px] opacity-70">
             {Math.round(progressPercent)}% pass
           </div>
         </div>

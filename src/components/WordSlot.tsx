@@ -17,8 +17,8 @@ type Props = {
   sentenceId: number;
 };
 
-const CHAR_WIDTH = 10;
-const MIN_WIDTH = 24;
+const CHAR_WIDTH = 12;
+const MIN_WIDTH = 28;
 const DOUBLE_CLICK_DELAY_MS = 220;
 
 export function WordSlot({
@@ -80,7 +80,7 @@ export function WordSlot({
       onDoubleClick={handleDoubleClick}
       className={`inline-flex items-center justify-center rounded border cursor-pointer select-none
         text-sm font-mono px-1 py-0.5 transition-all ${stateClass} ${activeClass}`}
-      style={{ minWidth: width, height: 28 }}
+      style={{ minWidth: width, height: 32 }}
       title={effectiveState !== 'hidden' ? word.text : ''}
     >
       {effectiveState !== 'hidden' ? word.text : ' '.repeat(Math.max(1, word.text.length))}
