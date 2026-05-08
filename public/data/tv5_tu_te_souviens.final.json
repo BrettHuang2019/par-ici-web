@@ -1,0 +1,8214 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Je me souviens.",
+      "translations": {
+        "zh": "我记得。",
+        "en": "I remember.",
+        "es": "Me acuerdo."
+      },
+      "start": 1.2,
+      "end": 6.8,
+      "words": [
+        {
+          "text": "Je",
+          "start": 1.2,
+          "end": 1.28
+        },
+        {
+          "text": "me",
+          "start": 6.24,
+          "end": 6.4
+        },
+        {
+          "text": "souviens",
+          "start": 6.4,
+          "end": 6.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je me souviens.",
+          "translations": {
+            "zh": "我记得。",
+            "en": "I remember.",
+            "es": "Me acuerdo."
+          },
+          "start": 1.2,
+          "end": 6.8
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "C'était il y a dix ans.",
+      "translations": {
+        "zh": "那是十年前。",
+        "en": "It was ten years ago.",
+        "es": "Era hace diez años."
+      },
+      "start": 7.28,
+      "end": 8.56,
+      "words": [
+        {
+          "text": "C'était",
+          "start": 7.28,
+          "end": 7.76
+        },
+        {
+          "text": "il",
+          "start": 7.84,
+          "end": 7.92
+        },
+        {
+          "text": "y",
+          "start": 7.92,
+          "end": 8
+        },
+        {
+          "text": "a",
+          "start": 8,
+          "end": 8.08
+        },
+        {
+          "text": "dix",
+          "start": 8.08,
+          "end": 8.4
+        },
+        {
+          "text": "ans",
+          "start": 8.4,
+          "end": 8.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'était il y a dix ans.",
+          "translations": {
+            "zh": "那是十年前。",
+            "en": "It was ten years ago.",
+            "es": "Era hace diez años."
+          },
+          "start": 7.28,
+          "end": 8.56
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "On était au début du mois de septembre.",
+      "translations": {
+        "zh": "那是九月初。",
+        "en": "It was the beginning of September.",
+        "es": "Estábamos a principios del mes de septiembre."
+      },
+      "start": 9.12,
+      "end": 10.72,
+      "words": [
+        {
+          "text": "On",
+          "start": 9.12,
+          "end": 9.2
+        },
+        {
+          "text": "était",
+          "start": 9.28,
+          "end": 9.44
+        },
+        {
+          "text": "au",
+          "start": 9.44,
+          "end": 9.52
+        },
+        {
+          "text": "début",
+          "start": 9.52,
+          "end": 9.84
+        },
+        {
+          "text": "du",
+          "start": 9.84,
+          "end": 10
+        },
+        {
+          "text": "mois",
+          "start": 10,
+          "end": 10.16
+        },
+        {
+          "text": "de",
+          "start": 10.16,
+          "end": 10.16
+        },
+        {
+          "text": "septembre",
+          "start": 10.16,
+          "end": 10.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On était au début du mois de septembre.",
+          "translations": {
+            "zh": "那是九月初。",
+            "en": "It was the beginning of September.",
+            "es": "Estábamos a principios del mes de septiembre."
+          },
+          "start": 9.12,
+          "end": 10.72
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "J'étais arrivé au Québec depuis quelques semaines.",
+      "translations": {
+        "zh": "我到魁北克已经几个星期了。",
+        "en": "I had arrived in Quebec a few weeks before.",
+        "es": "Había llegado a Quebec desde hacía algunas semanas."
+      },
+      "start": 11.04,
+      "end": 12.96,
+      "words": [
+        {
+          "text": "J'étais",
+          "start": 11.04,
+          "end": 11.28
+        },
+        {
+          "text": "arrivé",
+          "start": 11.28,
+          "end": 11.6
+        },
+        {
+          "text": "au",
+          "start": 11.6,
+          "end": 11.68
+        },
+        {
+          "text": "Québec",
+          "start": 11.68,
+          "end": 12.08
+        },
+        {
+          "text": "depuis",
+          "start": 12.08,
+          "end": 12.24
+        },
+        {
+          "text": "quelques",
+          "start": 12.24,
+          "end": 12.56
+        },
+        {
+          "text": "semaines",
+          "start": 12.56,
+          "end": 12.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'étais arrivé au Québec",
+          "translations": {
+            "zh": "我到了魁北克",
+            "en": "I had arrived in Quebec",
+            "es": "Había llegado a Quebec"
+          },
+          "start": 11.04,
+          "end": 12.08
+        },
+        {
+          "text": "depuis quelques semaines.",
+          "translations": {
+            "zh": "已经几个星期了。",
+            "en": "a few weeks before.",
+            "es": "desde hacía algunas semanas."
+          },
+          "start": 12.08,
+          "end": 12.96
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Je voulais travailler dans la comptabilité.",
+      "translations": {
+        "zh": "我想做会计工作。",
+        "en": "I wanted to work in accounting.",
+        "es": "Quería trabajar en la contabilidad."
+      },
+      "start": 13.84,
+      "end": 15.52,
+      "words": [
+        {
+          "text": "Je",
+          "start": 13.84,
+          "end": 13.92
+        },
+        {
+          "text": "voulais",
+          "start": 13.92,
+          "end": 14.24
+        },
+        {
+          "text": "travailler",
+          "start": 14.24,
+          "end": 14.64
+        },
+        {
+          "text": "dans",
+          "start": 14.64,
+          "end": 14.72
+        },
+        {
+          "text": "la",
+          "start": 14.72,
+          "end": 14.88
+        },
+        {
+          "text": "comptabilité",
+          "start": 14.88,
+          "end": 15.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je voulais travailler dans la comptabilité.",
+          "translations": {
+            "zh": "我想做会计工作。",
+            "en": "I wanted to work in accounting.",
+            "es": "Quería trabajar en la contabilidad."
+          },
+          "start": 13.84,
+          "end": 15.52
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "C'était ma profession en Algérie.",
+      "translations": {
+        "zh": "那是我在阿尔及利亚的职业。",
+        "en": "It was my profession in Algeria.",
+        "es": "Era mi profesión en Argelia."
+      },
+      "start": 15.68,
+      "end": 17.12,
+      "words": [
+        {
+          "text": "C'était",
+          "start": 15.68,
+          "end": 15.92
+        },
+        {
+          "text": "ma",
+          "start": 15.92,
+          "end": 16.08
+        },
+        {
+          "text": "profession",
+          "start": 16.08,
+          "end": 16.56
+        },
+        {
+          "text": "en",
+          "start": 16.56,
+          "end": 16.72
+        },
+        {
+          "text": "Algérie",
+          "start": 16.72,
+          "end": 17.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'était ma profession en Algérie.",
+          "translations": {
+            "zh": "那是我在阿尔及利亚的职业。",
+            "en": "It was my profession in Algeria.",
+            "es": "Era mi profesión en Argelia."
+          },
+          "start": 15.68,
+          "end": 17.12
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "J'ai toujours aimé les chiffres.",
+      "translations": {
+        "zh": "我一直喜欢数字。",
+        "en": "I have always liked numbers.",
+        "es": "Siempre me han gustado los números."
+      },
+      "start": 17.84,
+      "end": 18.96,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 17.84,
+          "end": 17.92
+        },
+        {
+          "text": "toujours",
+          "start": 17.92,
+          "end": 18.32
+        },
+        {
+          "text": "aimé",
+          "start": 18.32,
+          "end": 18.48
+        },
+        {
+          "text": "les",
+          "start": 18.48,
+          "end": 18.56
+        },
+        {
+          "text": "chiffres",
+          "start": 18.56,
+          "end": 18.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai toujours aimé les chiffres.",
+          "translations": {
+            "zh": "我一直喜欢数字。",
+            "en": "I have always liked numbers.",
+            "es": "Siempre me han gustado los números."
+          },
+          "start": 17.84,
+          "end": 18.96
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Alors je me suis inscrit à un cours de français spécialisé.",
+      "translations": {
+        "zh": "于是我报名了一个专业法语课程。",
+        "en": "So I enrolled in a specialized French course.",
+        "es": "Entonces me inscribí en un curso de francés especializado."
+      },
+      "start": 19.44,
+      "end": 22,
+      "words": [
+        {
+          "text": "Alors",
+          "start": 19.44,
+          "end": 19.84
+        },
+        {
+          "text": "je",
+          "start": 19.84,
+          "end": 19.92
+        },
+        {
+          "text": "me",
+          "start": 19.92,
+          "end": 20
+        },
+        {
+          "text": "suis",
+          "start": 20,
+          "end": 20.16
+        },
+        {
+          "text": "inscrit",
+          "start": 20.16,
+          "end": 20.48
+        },
+        {
+          "text": "à",
+          "start": 20.48,
+          "end": 20.56
+        },
+        {
+          "text": "un",
+          "start": 20.56,
+          "end": 20.64
+        },
+        {
+          "text": "cours",
+          "start": 20.64,
+          "end": 20.8
+        },
+        {
+          "text": "de",
+          "start": 20.8,
+          "end": 20.88
+        },
+        {
+          "text": "français",
+          "start": 20.88,
+          "end": 21.28
+        },
+        {
+          "text": "spécialisé",
+          "start": 21.28,
+          "end": 22
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Alors je me suis inscrit",
+          "translations": {
+            "zh": "于是我报了名",
+            "en": "So I enrolled",
+            "es": "Entonces me inscribí"
+          },
+          "start": 19.44,
+          "end": 20.48
+        },
+        {
+          "text": "à un cours de français spécialisé.",
+          "translations": {
+            "zh": "参加一个专业法语课程。",
+            "en": "in a specialized French course.",
+            "es": "en un curso de francés especializado."
+          },
+          "start": 20.48,
+          "end": 22
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Je parlais le français couramment, comme l'arabe.",
+      "translations": {
+        "zh": "我法语说得很流利，就像阿拉伯语一样。",
+        "en": "I spoke French fluently, like Arabic.",
+        "es": "Hablaba francés con fluidez, como el árabe."
+      },
+      "start": 22.64,
+      "end": 24.4,
+      "words": [
+        {
+          "text": "Je",
+          "start": 22.64,
+          "end": 22.72
+        },
+        {
+          "text": "parlais",
+          "start": 22.72,
+          "end": 23.04
+        },
+        {
+          "text": "le",
+          "start": 23.04,
+          "end": 23.04
+        },
+        {
+          "text": "français",
+          "start": 23.04,
+          "end": 23.36
+        },
+        {
+          "text": "couramment",
+          "start": 23.36,
+          "end": 23.84
+        },
+        {
+          "text": "comme",
+          "start": 24,
+          "end": 24.16
+        },
+        {
+          "text": "l'arabe",
+          "start": 24.16,
+          "end": 24.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je parlais le français couramment,",
+          "translations": {
+            "zh": "我法语说得很流利，",
+            "en": "I spoke French fluently,",
+            "es": "Hablaba francés con fluidez,"
+          },
+          "start": 22.64,
+          "end": 23.84
+        },
+        {
+          "text": "comme l'arabe.",
+          "translations": {
+            "zh": "就像阿拉伯语一样。",
+            "en": "like Arabic.",
+            "es": "como el árabe."
+          },
+          "start": 24,
+          "end": 24.4
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Mais j'avais besoin de m'améliorer à l'écrit et de connaître plus d'expressions d'ici utilisées dans mon métier.",
+      "translations": {
+        "zh": "但我需要在写作上提高，并了解更多这里用于我这个行业的表达方式。",
+        "en": "But I needed to improve my writing and to learn more local expressions used in my profession.",
+        "es": "Pero necesitaba mejorar en lo escrito y conocer más expresiones de aquí utilizadas en mi oficio."
+      },
+      "start": 24.96,
+      "end": 30.08,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 24.96,
+          "end": 25.04
+        },
+        {
+          "text": "j'avais",
+          "start": 25.04,
+          "end": 25.28
+        },
+        {
+          "text": "besoin",
+          "start": 25.28,
+          "end": 25.6
+        },
+        {
+          "text": "de",
+          "start": 25.6,
+          "end": 25.76
+        },
+        {
+          "text": "m'améliorer",
+          "start": 25.76,
+          "end": 26.32
+        },
+        {
+          "text": "à",
+          "start": 26.4,
+          "end": 26.48
+        },
+        {
+          "text": "l'écrit",
+          "start": 26.48,
+          "end": 26.88
+        },
+        {
+          "text": "et",
+          "start": 27.28,
+          "end": 27.28
+        },
+        {
+          "text": "de",
+          "start": 27.28,
+          "end": 27.36
+        },
+        {
+          "text": "connaître",
+          "start": 27.36,
+          "end": 27.76
+        },
+        {
+          "text": "plus",
+          "start": 27.76,
+          "end": 28.08
+        },
+        {
+          "text": "d'expressions",
+          "start": 28.08,
+          "end": 28.56
+        },
+        {
+          "text": "d'ici",
+          "start": 28.56,
+          "end": 28.96
+        },
+        {
+          "text": "utilisées",
+          "start": 29.04,
+          "end": 29.52
+        },
+        {
+          "text": "dans",
+          "start": 29.52,
+          "end": 29.6
+        },
+        {
+          "text": "mon",
+          "start": 29.6,
+          "end": 29.76
+        },
+        {
+          "text": "métier",
+          "start": 29.76,
+          "end": 30.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais j'avais besoin de m'améliorer à l'écrit",
+          "translations": {
+            "zh": "但我需要在写作上提高",
+            "en": "But I needed to improve my writing",
+            "es": "Pero necesitaba mejorar en lo escrito"
+          },
+          "start": 24.96,
+          "end": 26.88
+        },
+        {
+          "text": "et de connaître plus d'expressions d'ici",
+          "translations": {
+            "zh": "并了解更多这里的表达方式",
+            "en": "and to learn more local expressions",
+            "es": "y conocer más expresiones de aquí"
+          },
+          "start": 27.28,
+          "end": 28.96
+        },
+        {
+          "text": "utilisées dans mon métier.",
+          "translations": {
+            "zh": "用于我这个行业的。",
+            "en": "used in my profession.",
+            "es": "utilizadas en mi oficio."
+          },
+          "start": 29.04,
+          "end": 30.08
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Ce jour-là, je ne trouvais pas ma salle de classe.",
+      "translations": {
+        "zh": "那天，我找不到我的教室。",
+        "en": "That day, I could not find my classroom.",
+        "es": "Ese día, no encontraba mi aula."
+      },
+      "start": 32.88,
+      "end": 35.36,
+      "words": [
+        {
+          "text": "Ce",
+          "start": 32.88,
+          "end": 33.12
+        },
+        {
+          "text": "jour",
+          "start": 33.12,
+          "end": 33.36
+        },
+        {
+          "text": "là",
+          "start": 33.36,
+          "end": 33.52
+        },
+        {
+          "text": "je",
+          "start": 34.08,
+          "end": 34.16
+        },
+        {
+          "text": "ne",
+          "start": 34.16,
+          "end": 34.24
+        },
+        {
+          "text": "trouvais",
+          "start": 34.24,
+          "end": 34.48
+        },
+        {
+          "text": "pas",
+          "start": 34.48,
+          "end": 34.64
+        },
+        {
+          "text": "ma",
+          "start": 34.64,
+          "end": 34.72
+        },
+        {
+          "text": "salle",
+          "start": 34.72,
+          "end": 34.96
+        },
+        {
+          "text": "de",
+          "start": 34.96,
+          "end": 34.96
+        },
+        {
+          "text": "classe",
+          "start": 35.04,
+          "end": 35.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ce jour-là,",
+          "translations": {
+            "zh": "那天，",
+            "en": "That day,",
+            "es": "Ese día,"
+          },
+          "start": 32.88,
+          "end": 33.52
+        },
+        {
+          "text": "je ne trouvais pas ma salle de classe.",
+          "translations": {
+            "zh": "我找不到我的教室。",
+            "en": "I could not find my classroom.",
+            "es": "no encontraba mi aula."
+          },
+          "start": 34.08,
+          "end": 35.36
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Je suis donc allé à l'accueil de l'école pour me renseigner.",
+      "translations": {
+        "zh": "所以我去了学校前台咨询。",
+        "en": "So I went to the school's front desk to ask for information.",
+        "es": "Fui entonces a la recepción de la escuela para informarme."
+      },
+      "start": 35.76,
+      "end": 38.08,
+      "words": [
+        {
+          "text": "Je",
+          "start": 35.76,
+          "end": 35.84
+        },
+        {
+          "text": "suis",
+          "start": 35.84,
+          "end": 36
+        },
+        {
+          "text": "donc",
+          "start": 36,
+          "end": 36.24
+        },
+        {
+          "text": "allé",
+          "start": 36.24,
+          "end": 36.4
+        },
+        {
+          "text": "à",
+          "start": 36.4,
+          "end": 36.48
+        },
+        {
+          "text": "l'accueil",
+          "start": 36.48,
+          "end": 36.8
+        },
+        {
+          "text": "de",
+          "start": 36.8,
+          "end": 36.88
+        },
+        {
+          "text": "l'école",
+          "start": 36.88,
+          "end": 37.28
+        },
+        {
+          "text": "pour",
+          "start": 37.28,
+          "end": 37.44
+        },
+        {
+          "text": "me",
+          "start": 37.44,
+          "end": 37.52
+        },
+        {
+          "text": "renseigner",
+          "start": 37.52,
+          "end": 38.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis donc allé à l'accueil de l'école",
+          "translations": {
+            "zh": "所以我去了学校前台",
+            "en": "So I went to the school's front desk",
+            "es": "Fui entonces a la recepción de la escuela"
+          },
+          "start": 35.76,
+          "end": 37.28
+        },
+        {
+          "text": "pour me renseigner.",
+          "translations": {
+            "zh": "去咨询。",
+            "en": "to ask for information.",
+            "es": "para informarme."
+          },
+          "start": 37.28,
+          "end": 38.08
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "En me voyant approcher, une jeune femme s'est mise à courir vers moi et m'est passée devant brusquement.",
+      "translations": {
+        "zh": "看到我走近，一个年轻女子开始朝我跑来，突然从我面前冲了过去。",
+        "en": "Seeing me approach, a young woman started running toward me and abruptly cut in front of me.",
+        "es": "Al verme acercarse, una joven se puso a correr hacia mí y me pasó por delante bruscamente."
+      },
+      "start": 38.72,
+      "end": 43.44,
+      "words": [
+        {
+          "text": "En",
+          "start": 38.72,
+          "end": 38.88
+        },
+        {
+          "text": "me",
+          "start": 38.88,
+          "end": 38.88
+        },
+        {
+          "text": "voyant",
+          "start": 38.88,
+          "end": 39.2
+        },
+        {
+          "text": "approcher",
+          "start": 39.2,
+          "end": 39.76
+        },
+        {
+          "text": "une",
+          "start": 40.16,
+          "end": 40.32
+        },
+        {
+          "text": "jeune",
+          "start": 40.32,
+          "end": 40.56
+        },
+        {
+          "text": "femme",
+          "start": 40.56,
+          "end": 40.8
+        },
+        {
+          "text": "s'est",
+          "start": 40.8,
+          "end": 40.96
+        },
+        {
+          "text": "mise",
+          "start": 40.96,
+          "end": 41.12
+        },
+        {
+          "text": "à",
+          "start": 41.12,
+          "end": 41.2
+        },
+        {
+          "text": "courir",
+          "start": 41.2,
+          "end": 41.6
+        },
+        {
+          "text": "vers",
+          "start": 41.6,
+          "end": 41.84
+        },
+        {
+          "text": "moi",
+          "start": 41.84,
+          "end": 42.08
+        },
+        {
+          "text": "et",
+          "start": 42.16,
+          "end": 42.24
+        },
+        {
+          "text": "m'est",
+          "start": 42.24,
+          "end": 42.32
+        },
+        {
+          "text": "passée",
+          "start": 42.32,
+          "end": 42.64
+        },
+        {
+          "text": "devant",
+          "start": 42.64,
+          "end": 42.96
+        },
+        {
+          "text": "brusquement",
+          "start": 42.96,
+          "end": 43.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "En me voyant approcher,",
+          "translations": {
+            "zh": "看到我走近，",
+            "en": "Seeing me approach,",
+            "es": "Al verme acercarse,"
+          },
+          "start": 38.72,
+          "end": 39.76
+        },
+        {
+          "text": "une jeune femme s'est mise à courir vers moi",
+          "translations": {
+            "zh": "一个年轻女子开始朝我跑来",
+            "en": "a young woman started running toward me",
+            "es": "una joven se puso a correr hacia mí"
+          },
+          "start": 40.16,
+          "end": 42.08
+        },
+        {
+          "text": "et m'est passée devant brusquement.",
+          "translations": {
+            "zh": "突然从我面前冲了过去。",
+            "en": "and abruptly cut in front of me.",
+            "es": "y me pasó por delante bruscamente."
+          },
+          "start": 42.16,
+          "end": 43.44
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Merci de me laisser passer, je suis très pressée!",
+      "translations": {
+        "zh": "请让我过去，我非常着急！",
+        "en": "Please let me through, I'm in a real hurry!",
+        "es": "Gracias por dejarme pasar, ¡tengo mucha prisa!"
+      },
+      "start": 45.6,
+      "end": 48.72,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 45.6,
+          "end": 46.08
+        },
+        {
+          "text": "de",
+          "start": 46.08,
+          "end": 46.16
+        },
+        {
+          "text": "me",
+          "start": 46.16,
+          "end": 46.32
+        },
+        {
+          "text": "laisser",
+          "start": 46.32,
+          "end": 46.56
+        },
+        {
+          "text": "passer",
+          "start": 46.56,
+          "end": 47.2
+        },
+        {
+          "text": "je",
+          "start": 47.2,
+          "end": 47.36
+        },
+        {
+          "text": "suis",
+          "start": 47.44,
+          "end": 47.6
+        },
+        {
+          "text": "très",
+          "start": 47.6,
+          "end": 48.16
+        },
+        {
+          "text": "pressée",
+          "start": 48.16,
+          "end": 48.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci de me laisser passer,",
+          "translations": {
+            "zh": "请让我过去，",
+            "en": "Please let me through,",
+            "es": "Gracias por dejarme pasar,"
+          },
+          "start": 45.6,
+          "end": 47.2
+        },
+        {
+          "text": "je suis très pressée!",
+          "translations": {
+            "zh": "我非常着急！",
+            "en": "I'm in a real hurry!",
+            "es": "¡tengo mucha prisa!"
+          },
+          "start": 47.2,
+          "end": 48.72
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Et je dois parler à madame tout de suite!",
+      "translations": {
+        "zh": "而且我必须马上跟那位女士说话！",
+        "en": "And I need to speak to the lady right away!",
+        "es": "¡Y tengo que hablar con la señora inmediatamente!"
+      },
+      "start": 48.8,
+      "end": 50.8,
+      "words": [
+        {
+          "text": "Et",
+          "start": 48.8,
+          "end": 48.96
+        },
+        {
+          "text": "je",
+          "start": 48.96,
+          "end": 49.04
+        },
+        {
+          "text": "dois",
+          "start": 49.04,
+          "end": 49.2
+        },
+        {
+          "text": "parler",
+          "start": 49.2,
+          "end": 49.6
+        },
+        {
+          "text": "à",
+          "start": 49.6,
+          "end": 49.6
+        },
+        {
+          "text": "madame",
+          "start": 49.6,
+          "end": 49.92
+        },
+        {
+          "text": "tout",
+          "start": 50,
+          "end": 50.16
+        },
+        {
+          "text": "de",
+          "start": 50.16,
+          "end": 50.24
+        },
+        {
+          "text": "suite",
+          "start": 50.24,
+          "end": 50.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et je dois parler à madame",
+          "translations": {
+            "zh": "而且我必须跟那位女士说话",
+            "en": "And I need to speak to the lady",
+            "es": "Y tengo que hablar con la señora"
+          },
+          "start": 48.8,
+          "end": 49.92
+        },
+        {
+          "text": "tout de suite!",
+          "translations": {
+            "zh": "马上！",
+            "en": "right away!",
+            "es": "¡inmediatamente!"
+          },
+          "start": 50,
+          "end": 50.8
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Hé!",
+      "translations": {
+        "zh": "嘿！",
+        "en": "Hey!",
+        "es": "¡Eh!"
+      },
+      "start": 50.88,
+      "end": 51.12,
+      "words": [
+        {
+          "text": "Hé",
+          "start": 50.88,
+          "end": 51.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Hé!",
+          "translations": {
+            "zh": "嘿！",
+            "en": "Hey!",
+            "es": "¡Eh!"
+          },
+          "start": 50.88,
+          "end": 51.12
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Je suis pressé aussi!",
+      "translations": {
+        "zh": "我也很着急！",
+        "en": "I'm in a hurry too!",
+        "es": "¡Yo también tengo prisa!"
+      },
+      "start": 51.12,
+      "end": 52.16,
+      "words": [
+        {
+          "text": "Je",
+          "start": 51.12,
+          "end": 51.2
+        },
+        {
+          "text": "suis",
+          "start": 51.2,
+          "end": 51.36
+        },
+        {
+          "text": "pressé",
+          "start": 51.36,
+          "end": 51.76
+        },
+        {
+          "text": "aussi",
+          "start": 51.76,
+          "end": 52.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis pressé aussi!",
+          "translations": {
+            "zh": "我也很着急！",
+            "en": "I'm in a hurry too!",
+            "es": "¡Yo también tengo prisa!"
+          },
+          "start": 51.12,
+          "end": 52.16
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Oui, mais vous êtes galant aussi!",
+      "translations": {
+        "zh": "是的，但您也是位绅士啊！",
+        "en": "Yes, but you are also a gentleman!",
+        "es": "Sí, ¡pero usted también es galante!"
+      },
+      "start": 52.4,
+      "end": 54.64,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 52.4,
+          "end": 52.8
+        },
+        {
+          "text": "mais",
+          "start": 52.96,
+          "end": 53.36
+        },
+        {
+          "text": "vous",
+          "start": 53.36,
+          "end": 53.44
+        },
+        {
+          "text": "êtes",
+          "start": 53.52,
+          "end": 53.76
+        },
+        {
+          "text": "galant",
+          "start": 53.76,
+          "end": 54.24
+        },
+        {
+          "text": "aussi",
+          "start": 54.24,
+          "end": 54.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 52.4,
+          "end": 52.8
+        },
+        {
+          "text": "mais vous êtes galant aussi!",
+          "translations": {
+            "zh": "但您也是位绅士啊！",
+            "en": "but you are also a gentleman!",
+            "es": "¡pero usted también es galante!"
+          },
+          "start": 52.96,
+          "end": 54.64
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Bonjour madame.",
+      "translations": {
+        "zh": "您好，女士。",
+        "en": "Good morning, ma'am.",
+        "es": "Buenos días, señora."
+      },
+      "start": 55.92,
+      "end": 56.88,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 55.92,
+          "end": 56.24
+        },
+        {
+          "text": "madame",
+          "start": 56.24,
+          "end": 56.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour madame.",
+          "translations": {
+            "zh": "您好，女士。",
+            "en": "Good morning, ma'am.",
+            "es": "Buenos días, señora."
+          },
+          "start": 55.92,
+          "end": 56.88
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Qu'est-ce que je peux faire pour vous?",
+      "translations": {
+        "zh": "我能为您做什么？",
+        "en": "What can I do for you?",
+        "es": "¿Qué puedo hacer por usted?"
+      },
+      "start": 57.12,
+      "end": 58.16,
+      "words": [
+        {
+          "text": "Qu'est",
+          "start": 57.12,
+          "end": 57.28
+        },
+        {
+          "text": "ce",
+          "start": 57.28,
+          "end": 57.28
+        },
+        {
+          "text": "que",
+          "start": 57.28,
+          "end": 57.36
+        },
+        {
+          "text": "je",
+          "start": 57.36,
+          "end": 57.44
+        },
+        {
+          "text": "peux",
+          "start": 57.44,
+          "end": 57.52
+        },
+        {
+          "text": "faire",
+          "start": 57.52,
+          "end": 57.68
+        },
+        {
+          "text": "pour",
+          "start": 57.68,
+          "end": 57.84
+        },
+        {
+          "text": "vous",
+          "start": 57.84,
+          "end": 58.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Qu'est-ce que je peux faire pour vous?",
+          "translations": {
+            "zh": "我能为您做什么？",
+            "en": "What can I do for you?",
+            "es": "¿Qué puedo hacer por usted?"
+          },
+          "start": 57.12,
+          "end": 58.16
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Bonjour madame.",
+      "translations": {
+        "zh": "您好，女士。",
+        "en": "Good morning, ma'am.",
+        "es": "Buenos días, señora."
+      },
+      "start": 58.48,
+      "end": 59.44,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 58.48,
+          "end": 58.88
+        },
+        {
+          "text": "madame",
+          "start": 58.96,
+          "end": 59.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour madame.",
+          "translations": {
+            "zh": "您好，女士。",
+            "en": "Good morning, ma'am.",
+            "es": "Buenos días, señora."
+          },
+          "start": 58.48,
+          "end": 59.44
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Je souhaite annuler mon inscription à un cours.",
+      "translations": {
+        "zh": "我想取消一门课程的注册。",
+        "en": "I would like to cancel my registration for a course.",
+        "es": "Deseo cancelar mi inscripción a un curso."
+      },
+      "start": 59.92,
+      "end": 62.48,
+      "words": [
+        {
+          "text": "Je",
+          "start": 59.92,
+          "end": 60.08
+        },
+        {
+          "text": "souhaite",
+          "start": 60.08,
+          "end": 60.48
+        },
+        {
+          "text": "annuler",
+          "start": 60.56,
+          "end": 60.96
+        },
+        {
+          "text": "mon",
+          "start": 60.96,
+          "end": 61.12
+        },
+        {
+          "text": "inscription",
+          "start": 61.12,
+          "end": 62
+        },
+        {
+          "text": "à",
+          "start": 62,
+          "end": 62
+        },
+        {
+          "text": "un",
+          "start": 62,
+          "end": 62
+        },
+        {
+          "text": "cours",
+          "start": 62.16,
+          "end": 62.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je souhaite annuler mon inscription",
+          "translations": {
+            "zh": "我想取消我的注册",
+            "en": "I would like to cancel my registration",
+            "es": "Deseo cancelar mi inscripción"
+          },
+          "start": 59.92,
+          "end": 62
+        },
+        {
+          "text": "à un cours.",
+          "translations": {
+            "zh": "一门课程。",
+            "en": "for a course.",
+            "es": "a un curso."
+          },
+          "start": 62,
+          "end": 62.48
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Ah bon?",
+      "translations": {
+        "zh": "哦，是吗？",
+        "en": "Oh really?",
+        "es": "¿Ah, sí?"
+      },
+      "start": 62.72,
+      "end": 63.04,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 62.72,
+          "end": 62.8
+        },
+        {
+          "text": "bon",
+          "start": 62.8,
+          "end": 63.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah bon?",
+          "translations": {
+            "zh": "哦，是吗？",
+            "en": "Oh really?",
+            "es": "¿Ah, sí?"
+          },
+          "start": 62.72,
+          "end": 63.04
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Est-ce que je peux vous demander pourquoi?",
+      "translations": {
+        "zh": "我可以问一下为什么吗？",
+        "en": "May I ask you why?",
+        "es": "¿Puedo preguntarle por qué?"
+      },
+      "start": 64,
+      "end": 65.28,
+      "words": [
+        {
+          "text": "Est",
+          "start": 64,
+          "end": 64.08
+        },
+        {
+          "text": "ce",
+          "start": 64.08,
+          "end": 64.24
+        },
+        {
+          "text": "que",
+          "start": 64.24,
+          "end": 64.24
+        },
+        {
+          "text": "je",
+          "start": 64.24,
+          "end": 64.32
+        },
+        {
+          "text": "peux",
+          "start": 64.32,
+          "end": 64.4
+        },
+        {
+          "text": "vous",
+          "start": 64.4,
+          "end": 64.48
+        },
+        {
+          "text": "demander",
+          "start": 64.48,
+          "end": 64.88
+        },
+        {
+          "text": "pourquoi",
+          "start": 64.88,
+          "end": 65.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que je peux vous demander pourquoi?",
+          "translations": {
+            "zh": "我可以问一下为什么吗？",
+            "en": "May I ask you why?",
+            "es": "¿Puedo preguntarle por qué?"
+          },
+          "start": 64,
+          "end": 65.28
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "J'ai trouvé un emploi.",
+      "translations": {
+        "zh": "我找到了一份工作。",
+        "en": "I found a job.",
+        "es": "He encontrado un empleo."
+      },
+      "start": 66.4,
+      "end": 67.76,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 66.4,
+          "end": 66.72
+        },
+        {
+          "text": "trouvé",
+          "start": 66.72,
+          "end": 67.12
+        },
+        {
+          "text": "un",
+          "start": 67.12,
+          "end": 67.2
+        },
+        {
+          "text": "emploi",
+          "start": 67.2,
+          "end": 67.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai trouvé un emploi.",
+          "translations": {
+            "zh": "我找到了一份工作。",
+            "en": "I found a job.",
+            "es": "He encontrado un empleo."
+          },
+          "start": 66.4,
+          "end": 67.76
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Je commence à travailler la semaine prochaine.",
+      "translations": {
+        "zh": "我下周开始上班。",
+        "en": "I start working next week.",
+        "es": "Empiezo a trabajar la semana que viene."
+      },
+      "start": 68.32,
+      "end": 70.8,
+      "words": [
+        {
+          "text": "Je",
+          "start": 68.32,
+          "end": 68.56
+        },
+        {
+          "text": "commence",
+          "start": 68.56,
+          "end": 69.04
+        },
+        {
+          "text": "à",
+          "start": 69.04,
+          "end": 69.12
+        },
+        {
+          "text": "travailler",
+          "start": 69.12,
+          "end": 69.6
+        },
+        {
+          "text": "la",
+          "start": 69.6,
+          "end": 69.76
+        },
+        {
+          "text": "semaine",
+          "start": 69.76,
+          "end": 70.16
+        },
+        {
+          "text": "prochaine",
+          "start": 70.16,
+          "end": 70.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je commence à travailler",
+          "translations": {
+            "zh": "我开始上班",
+            "en": "I start working",
+            "es": "Empiezo a trabajar"
+          },
+          "start": 68.32,
+          "end": 69.6
+        },
+        {
+          "text": "la semaine prochaine.",
+          "translations": {
+            "zh": "下周。",
+            "en": "next week.",
+            "es": "la semana que viene."
+          },
+          "start": 69.6,
+          "end": 70.8
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "C'est le soir, à la même heure que le cours.",
+      "translations": {
+        "zh": "是在晚上，和课程同一时间。",
+        "en": "It's in the evening, at the same time as the course.",
+        "es": "Es por la tarde, a la misma hora que el curso."
+      },
+      "start": 71.36,
+      "end": 73.76,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 71.36,
+          "end": 71.52
+        },
+        {
+          "text": "le",
+          "start": 71.52,
+          "end": 71.68
+        },
+        {
+          "text": "soir",
+          "start": 71.68,
+          "end": 72.08
+        },
+        {
+          "text": "à",
+          "start": 72.32,
+          "end": 72.4
+        },
+        {
+          "text": "la",
+          "start": 72.4,
+          "end": 72.48
+        },
+        {
+          "text": "même",
+          "start": 72.48,
+          "end": 73.2
+        },
+        {
+          "text": "heure",
+          "start": 73.2,
+          "end": 73.2
+        },
+        {
+          "text": "que",
+          "start": 73.2,
+          "end": 73.28
+        },
+        {
+          "text": "le",
+          "start": 73.28,
+          "end": 73.44
+        },
+        {
+          "text": "cours",
+          "start": 73.44,
+          "end": 73.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est le soir,",
+          "translations": {
+            "zh": "是在晚上，",
+            "en": "It's in the evening,",
+            "es": "Es por la tarde,"
+          },
+          "start": 71.36,
+          "end": 72.08
+        },
+        {
+          "text": "à la même heure que le cours.",
+          "translations": {
+            "zh": "和课程同一时间。",
+            "en": "at the same time as the course.",
+            "es": "a la misma hora que el curso."
+          },
+          "start": 72.32,
+          "end": 73.76
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Je viens de l'apprendre.",
+      "translations": {
+        "zh": "我刚知道的。",
+        "en": "I just found out.",
+        "es": "Acabo de enterarme."
+      },
+      "start": 74.24,
+      "end": 75.36,
+      "words": [
+        {
+          "text": "Je",
+          "start": 74.24,
+          "end": 74.4
+        },
+        {
+          "text": "viens",
+          "start": 74.4,
+          "end": 74.64
+        },
+        {
+          "text": "de",
+          "start": 74.64,
+          "end": 74.8
+        },
+        {
+          "text": "l'apprendre",
+          "start": 74.8,
+          "end": 75.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je viens de l'apprendre.",
+          "translations": {
+            "zh": "我刚知道的。",
+            "en": "I just found out.",
+            "es": "Acabo de enterarme."
+          },
+          "start": 74.24,
+          "end": 75.36
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "La formation m'intéresse, mais je dois travailler.",
+      "translations": {
+        "zh": "这个培训让我很感兴趣，但我必须工作。",
+        "en": "The training interests me, but I have to work.",
+        "es": "La formación me interesa, pero tengo que trabajar."
+      },
+      "start": 76.88,
+      "end": 80.16,
+      "words": [
+        {
+          "text": "La",
+          "start": 76.88,
+          "end": 77.12
+        },
+        {
+          "text": "formation",
+          "start": 77.12,
+          "end": 77.6
+        },
+        {
+          "text": "m'intéresse",
+          "start": 77.6,
+          "end": 78.24
+        },
+        {
+          "text": "mais",
+          "start": 78.64,
+          "end": 79.04
+        },
+        {
+          "text": "je",
+          "start": 79.04,
+          "end": 79.2
+        },
+        {
+          "text": "dois",
+          "start": 79.2,
+          "end": 79.36
+        },
+        {
+          "text": "travailler",
+          "start": 79.44,
+          "end": 80.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La formation m'intéresse,",
+          "translations": {
+            "zh": "这个培训让我很感兴趣，",
+            "en": "The training interests me,",
+            "es": "La formación me interesa,"
+          },
+          "start": 76.88,
+          "end": 78.24
+        },
+        {
+          "text": "mais je dois travailler.",
+          "translations": {
+            "zh": "但我必须工作。",
+            "en": "but I have to work.",
+            "es": "pero tengo que trabajar."
+          },
+          "start": 78.64,
+          "end": 80.16
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Vous comprenez?",
+      "translations": {
+        "zh": "您能理解吗？",
+        "en": "You understand?",
+        "es": "¿Comprende?"
+      },
+      "start": 80.88,
+      "end": 81.6,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 80.88,
+          "end": 80.96
+        },
+        {
+          "text": "comprenez",
+          "start": 80.96,
+          "end": 81.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous comprenez?",
+          "translations": {
+            "zh": "您能理解吗？",
+            "en": "You understand?",
+            "es": "¿Comprende?"
+          },
+          "start": 80.88,
+          "end": 81.6
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "Oui, bien sûr.",
+      "translations": {
+        "zh": "是的，当然。",
+        "en": "Yes, of course.",
+        "es": "Sí, por supuesto."
+      },
+      "start": 81.92,
+      "end": 82.8,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 81.92,
+          "end": 82.24
+        },
+        {
+          "text": "bien",
+          "start": 82.24,
+          "end": 82.48
+        },
+        {
+          "text": "sûr",
+          "start": 82.48,
+          "end": 82.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 81.92,
+          "end": 82.24
+        },
+        {
+          "text": "bien sûr.",
+          "translations": {
+            "zh": "当然。",
+            "en": "of course.",
+            "es": "por supuesto."
+          },
+          "start": 82.24,
+          "end": 82.8
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "C'est une bonne nouvelle pour vous.",
+      "translations": {
+        "zh": "这对您来说是个好消息。",
+        "en": "That's good news for you.",
+        "es": "Es una buena noticia para usted."
+      },
+      "start": 83.04,
+      "end": 84.24,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 83.04,
+          "end": 83.2
+        },
+        {
+          "text": "une",
+          "start": 83.2,
+          "end": 83.28
+        },
+        {
+          "text": "bonne",
+          "start": 83.28,
+          "end": 83.52
+        },
+        {
+          "text": "nouvelle",
+          "start": 83.52,
+          "end": 83.84
+        },
+        {
+          "text": "pour",
+          "start": 83.84,
+          "end": 84
+        },
+        {
+          "text": "vous",
+          "start": 84,
+          "end": 84.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est une bonne nouvelle pour vous.",
+          "translations": {
+            "zh": "这对您来说是个好消息。",
+            "en": "That's good news for you.",
+            "es": "Es una buena noticia para usted."
+          },
+          "start": 83.04,
+          "end": 84.24
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "Mais vous auriez pu nous envoyer un courriel, vous savez?",
+      "translations": {
+        "zh": "但您本可以给我们发封电子邮件的，您知道吗？",
+        "en": "But you could have sent us an email, you know?",
+        "es": "Pero podría habernos enviado un correo electrónico, ¿sabe?"
+      },
+      "start": 84.8,
+      "end": 86.88,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 84.8,
+          "end": 84.96
+        },
+        {
+          "text": "vous",
+          "start": 84.96,
+          "end": 85.2
+        },
+        {
+          "text": "auriez",
+          "start": 85.2,
+          "end": 85.36
+        },
+        {
+          "text": "pu",
+          "start": 85.36,
+          "end": 85.52
+        },
+        {
+          "text": "nous",
+          "start": 85.52,
+          "end": 85.68
+        },
+        {
+          "text": "envoyer",
+          "start": 85.68,
+          "end": 86
+        },
+        {
+          "text": "un",
+          "start": 86,
+          "end": 86
+        },
+        {
+          "text": "courriel",
+          "start": 86,
+          "end": 86.4
+        },
+        {
+          "text": "vous",
+          "start": 86.4,
+          "end": 86.48
+        },
+        {
+          "text": "savez",
+          "start": 86.48,
+          "end": 86.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais vous auriez pu nous envoyer un courriel,",
+          "translations": {
+            "zh": "但您本可以给我们发封电子邮件，",
+            "en": "But you could have sent us an email,",
+            "es": "Pero podría habernos enviado un correo electrónico,"
+          },
+          "start": 84.8,
+          "end": 86.4
+        },
+        {
+          "text": "vous savez?",
+          "translations": {
+            "zh": "您知道吗？",
+            "en": "you know?",
+            "es": "¿sabe?"
+          },
+          "start": 86.4,
+          "end": 86.88
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "text": "Oui, c'est vrai.",
+      "translations": {
+        "zh": "是的，确实。",
+        "en": "Yes, that's true.",
+        "es": "Sí, es verdad."
+      },
+      "start": 87.2,
+      "end": 88.16,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 87.2,
+          "end": 87.52
+        },
+        {
+          "text": "c'est",
+          "start": 87.52,
+          "end": 87.68
+        },
+        {
+          "text": "vrai",
+          "start": 87.68,
+          "end": 88.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 87.2,
+          "end": 87.52
+        },
+        {
+          "text": "c'est vrai.",
+          "translations": {
+            "zh": "确实。",
+            "en": "that's true.",
+            "es": "es verdad."
+          },
+          "start": 87.52,
+          "end": 88.16
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "text": "Je n'y ai pas pensé...",
+      "translations": {
+        "zh": "我没考虑到这点……",
+        "en": "I didn't think of it...",
+        "es": "No lo he pensado..."
+      },
+      "start": 88.16,
+      "end": 89.12,
+      "words": [
+        {
+          "text": "Je",
+          "start": 88.16,
+          "end": 88.16
+        },
+        {
+          "text": "n'y",
+          "start": 88.32,
+          "end": 88.48
+        },
+        {
+          "text": "ai",
+          "start": 88.48,
+          "end": 88.56
+        },
+        {
+          "text": "pas",
+          "start": 88.56,
+          "end": 88.72
+        },
+        {
+          "text": "pensé",
+          "start": 88.72,
+          "end": 89.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je n'y ai pas pensé...",
+          "translations": {
+            "zh": "我没考虑到这点……",
+            "en": "I didn't think of it...",
+            "es": "No lo he pensado..."
+          },
+          "start": 88.16,
+          "end": 89.12
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "text": "D'accord.",
+      "translations": {
+        "zh": "好的。",
+        "en": "All right.",
+        "es": "De acuerdo."
+      },
+      "start": 89.6,
+      "end": 89.92,
+      "words": [
+        {
+          "text": "D'accord",
+          "start": 89.6,
+          "end": 89.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'accord.",
+          "translations": {
+            "zh": "好的。",
+            "en": "All right.",
+            "es": "De acuerdo."
+          },
+          "start": 89.6,
+          "end": 89.92
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "text": "Pouvez-vous me donner votre nom?",
+      "translations": {
+        "zh": "您能把您的名字告诉我吗？",
+        "en": "Can you give me your name?",
+        "es": "¿Puede darme su nombre?"
+      },
+      "start": 90.32,
+      "end": 91.36,
+      "words": [
+        {
+          "text": "Pouvez",
+          "start": 90.32,
+          "end": 90.56
+        },
+        {
+          "text": "vous",
+          "start": 90.56,
+          "end": 90.64
+        },
+        {
+          "text": "me",
+          "start": 90.64,
+          "end": 90.72
+        },
+        {
+          "text": "donner",
+          "start": 90.72,
+          "end": 90.88
+        },
+        {
+          "text": "votre",
+          "start": 90.88,
+          "end": 91.12
+        },
+        {
+          "text": "nom",
+          "start": 91.12,
+          "end": 91.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pouvez-vous me donner votre nom?",
+          "translations": {
+            "zh": "您能把您的名字告诉我吗？",
+            "en": "Can you give me your name?",
+            "es": "¿Puede darme su nombre?"
+          },
+          "start": 90.32,
+          "end": 91.36
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "text": "Épisode 1 : La première rencontre Maia Flores.",
+      "translations": {
+        "zh": "第一集：第一次相遇 Maia Flores。",
+        "en": "Episode 1: The first encounter Maia Flores.",
+        "es": "Episodio 1: El primer encuentro Maia Flores."
+      },
+      "start": 92.16,
+      "end": 93.592,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 92.16,
+          "end": 92.4
+        },
+        {
+          "text": "1",
+          "start": 92.4,
+          "end": 92.4
+        },
+        {
+          "text": "La",
+          "start": 93.12,
+          "end": 93.12
+        },
+        {
+          "text": "première",
+          "start": 93.44,
+          "end": 93.461
+        },
+        {
+          "text": "rencontre",
+          "start": 93.483,
+          "end": 93.505
+        },
+        {
+          "text": "Maia",
+          "start": 93.527,
+          "end": 93.549
+        },
+        {
+          "text": "Flores",
+          "start": 93.57,
+          "end": 93.592
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 1 : La première rencontre",
+          "translations": {
+            "zh": "第一集：第一次相遇",
+            "en": "Episode 1: The first encounter",
+            "es": "Episodio 1: El primer encuentro"
+          },
+          "start": 92.16,
+          "end": 93.505
+        },
+        {
+          "text": "Maia Flores.",
+          "translations": {
+            "zh": "Maia Flores。",
+            "en": "Maia Flores.",
+            "es": "Maia Flores."
+          },
+          "start": 93.527,
+          "end": 93.592
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "text": "Et c'était pour quelle formation, s'il vous plaît?",
+      "translations": {
+        "zh": "请问是哪个培训项目？",
+        "en": "And which training program was it for, please?",
+        "es": "¿Y era para qué formación, por favor?"
+      },
+      "start": 93.614,
+      "end": 95.04,
+      "words": [
+        {
+          "text": "Et",
+          "start": 93.614,
+          "end": 93.636
+        },
+        {
+          "text": "c'était",
+          "start": 93.658,
+          "end": 93.68
+        },
+        {
+          "text": "pour",
+          "start": 93.68,
+          "end": 93.84
+        },
+        {
+          "text": "quelle",
+          "start": 93.84,
+          "end": 94
+        },
+        {
+          "text": "formation",
+          "start": 94,
+          "end": 94.56
+        },
+        {
+          "text": "s'il",
+          "start": 94.56,
+          "end": 94.72
+        },
+        {
+          "text": "vous",
+          "start": 94.72,
+          "end": 94.88
+        },
+        {
+          "text": "plaît",
+          "start": 94.88,
+          "end": 95.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et c'était pour quelle formation,",
+          "translations": {
+            "zh": "是哪个培训项目，",
+            "en": "And which training program was it for,",
+            "es": "¿Y era para qué formación,"
+          },
+          "start": 93.614,
+          "end": 94.56
+        },
+        {
+          "text": "s'il vous plaît?",
+          "translations": {
+            "zh": "请问？",
+            "en": "please?",
+            "es": "por favor?"
+          },
+          "start": 94.56,
+          "end": 95.04
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "text": "La francisation, niveau avancé.",
+      "translations": {
+        "zh": "法语融入课程，高级水平。",
+        "en": "French language training, advanced level.",
+        "es": "La francofonización, nivel avanzado."
+      },
+      "start": 95.44,
+      "end": 97.36,
+      "words": [
+        {
+          "text": "La",
+          "start": 95.44,
+          "end": 95.68
+        },
+        {
+          "text": "francisation",
+          "start": 95.68,
+          "end": 96.56
+        },
+        {
+          "text": "niveau",
+          "start": 96.64,
+          "end": 96.88
+        },
+        {
+          "text": "avancé",
+          "start": 96.88,
+          "end": 97.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La francisation,",
+          "translations": {
+            "zh": "法语融入课程，",
+            "en": "French language training,",
+            "es": "La francofonización,"
+          },
+          "start": 95.44,
+          "end": 96.56
+        },
+        {
+          "text": "niveau avancé.",
+          "translations": {
+            "zh": "高级水平。",
+            "en": "advanced level.",
+            "es": "nivel avanzado."
+          },
+          "start": 96.64,
+          "end": 97.36
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "text": "Le cours de demain soir.",
+      "translations": {
+        "zh": "明晚的课程。",
+        "en": "Tomorrow evening's class.",
+        "es": "El curso de mañana por la tarde."
+      },
+      "start": 97.92,
+      "end": 99.04,
+      "words": [
+        {
+          "text": "Le",
+          "start": 97.92,
+          "end": 97.92
+        },
+        {
+          "text": "cours",
+          "start": 98.08,
+          "end": 98.32
+        },
+        {
+          "text": "de",
+          "start": 98.32,
+          "end": 98.48
+        },
+        {
+          "text": "demain",
+          "start": 98.48,
+          "end": 98.72
+        },
+        {
+          "text": "soir",
+          "start": 98.72,
+          "end": 99.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le cours de demain soir.",
+          "translations": {
+            "zh": "明晚的课程。",
+            "en": "Tomorrow evening's class.",
+            "es": "El curso de mañana por la tarde."
+          },
+          "start": 97.92,
+          "end": 99.04
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "text": "Ah, celui de 18 h 30 à 21 h 30?!",
+      "translations": {
+        "zh": "啊，18点30分到21点30分的那门课？！",
+        "en": "Ah, the one from 6:30 to 9:30 PM?!",
+        "es": "¿Ah, el de las 18:30 a las 21:30?!"
+      },
+      "start": 99.6,
+      "end": 102.56,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 99.6,
+          "end": 99.76
+        },
+        {
+          "text": "celui",
+          "start": 100.32,
+          "end": 100.64
+        },
+        {
+          "text": "de",
+          "start": 100.64,
+          "end": 100.72
+        },
+        {
+          "text": "18",
+          "start": 100.72,
+          "end": 101.52
+        },
+        {
+          "text": "h",
+          "start": 101.52,
+          "end": 102.24
+        },
+        {
+          "text": "30",
+          "start": 102.28,
+          "end": 102.32
+        },
+        {
+          "text": "à",
+          "start": 102.36,
+          "end": 102.4
+        },
+        {
+          "text": "21",
+          "start": 102.4,
+          "end": 102.56
+        },
+        {
+          "text": "h",
+          "start": 102.56,
+          "end": 102.56
+        },
+        {
+          "text": "30",
+          "start": 102.56,
+          "end": 102.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah,",
+          "translations": {
+            "zh": "啊，",
+            "en": "Ah,",
+            "es": "Ah,"
+          },
+          "start": 99.6,
+          "end": 99.76
+        },
+        {
+          "text": "celui de 18 h 30 à 21 h 30?!",
+          "translations": {
+            "zh": "18点30分到21点30分的那门课？！",
+            "en": "the one from 6:30 to 9:30 PM?!",
+            "es": "¿el de las 18:30 a las 21:30?!"
+          },
+          "start": 100.32,
+          "end": 102.56
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "text": "Oui, c'est ça.",
+      "translations": {
+        "zh": "是的，没错。",
+        "en": "Yes, that's right.",
+        "es": "Sí, eso es."
+      },
+      "start": 102.56,
+      "end": 103.36,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 102.56,
+          "end": 102.72
+        },
+        {
+          "text": "c'est",
+          "start": 102.8,
+          "end": 102.96
+        },
+        {
+          "text": "ça",
+          "start": 102.96,
+          "end": 103.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 102.56,
+          "end": 102.72
+        },
+        {
+          "text": "c'est ça.",
+          "translations": {
+            "zh": "没错。",
+            "en": "that's right.",
+            "es": "eso es."
+          },
+          "start": 102.8,
+          "end": 103.36
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "text": "Je m'excuse, je préviens tard.",
+      "translations": {
+        "zh": "很抱歉，我通知得太晚了。",
+        "en": "I apologize, I'm giving late notice.",
+        "es": "Le pido disculpas, aviso tarde."
+      },
+      "start": 104,
+      "end": 105.92,
+      "words": [
+        {
+          "text": "Je",
+          "start": 104,
+          "end": 104.16
+        },
+        {
+          "text": "m'excuse",
+          "start": 104.16,
+          "end": 104.6
+        },
+        {
+          "text": "je",
+          "start": 105.04,
+          "end": 105.48
+        },
+        {
+          "text": "préviens",
+          "start": 105.92,
+          "end": 105.92
+        },
+        {
+          "text": "tard",
+          "start": 105.92,
+          "end": 105.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je m'excuse,",
+          "translations": {
+            "zh": "很抱歉，",
+            "en": "I apologize,",
+            "es": "Le pido disculpas,"
+          },
+          "start": 104,
+          "end": 104.6
+        },
+        {
+          "text": "je préviens tard.",
+          "translations": {
+            "zh": "我通知得太晚了。",
+            "en": "I'm giving late notice.",
+            "es": "aviso tarde."
+          },
+          "start": 105.04,
+          "end": 105.92
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "text": "Bon, très bien.",
+      "translations": {
+        "zh": "好，很好。",
+        "en": "Well, very well.",
+        "es": "Bueno, muy bien."
+      },
+      "start": 106.64,
+      "end": 107.28,
+      "words": [
+        {
+          "text": "Bon",
+          "start": 106.64,
+          "end": 106.8
+        },
+        {
+          "text": "très",
+          "start": 106.8,
+          "end": 107.04
+        },
+        {
+          "text": "bien",
+          "start": 107.04,
+          "end": 107.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bon,",
+          "translations": {
+            "zh": "好，",
+            "en": "Well,",
+            "es": "Bueno,"
+          },
+          "start": 106.64,
+          "end": 106.8
+        },
+        {
+          "text": "très bien.",
+          "translations": {
+            "zh": "很好。",
+            "en": "very well.",
+            "es": "muy bien."
+          },
+          "start": 106.8,
+          "end": 107.28
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "text": "C'est noté.",
+      "translations": {
+        "zh": "已经记下了。",
+        "en": "It's noted.",
+        "es": "Está anotado."
+      },
+      "start": 107.36,
+      "end": 107.92,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 107.36,
+          "end": 107.6
+        },
+        {
+          "text": "noté",
+          "start": 107.6,
+          "end": 107.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est noté.",
+          "translations": {
+            "zh": "已经记下了。",
+            "en": "It's noted.",
+            "es": "Está anotado."
+          },
+          "start": 107.36,
+          "end": 107.92
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "text": "Je vais faire l'annulation.",
+      "translations": {
+        "zh": "我来办理取消。",
+        "en": "I will process the cancellation.",
+        "es": "Voy a hacer la cancelación."
+      },
+      "start": 108.4,
+      "end": 109.36,
+      "words": [
+        {
+          "text": "Je",
+          "start": 108.4,
+          "end": 108.56
+        },
+        {
+          "text": "vais",
+          "start": 108.56,
+          "end": 108.56
+        },
+        {
+          "text": "faire",
+          "start": 108.56,
+          "end": 108.72
+        },
+        {
+          "text": "l'annulation",
+          "start": 108.72,
+          "end": 109.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais faire l'annulation.",
+          "translations": {
+            "zh": "我来办理取消。",
+            "en": "I will process the cancellation.",
+            "es": "Voy a hacer la cancelación."
+          },
+          "start": 108.4,
+          "end": 109.36
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "text": "Merci beaucoup!",
+      "translations": {
+        "zh": "非常感谢！",
+        "en": "Thank you very much!",
+        "es": "¡Muchas gracias!"
+      },
+      "start": 109.36,
+      "end": 110.88,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 109.36,
+          "end": 110.48
+        },
+        {
+          "text": "beaucoup",
+          "start": 110.48,
+          "end": 110.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci beaucoup!",
+          "translations": {
+            "zh": "非常感谢！",
+            "en": "Thank you very much!",
+            "es": "¡Muchas gracias!"
+          },
+          "start": 109.36,
+          "end": 110.88
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "text": "Dans quel domaine travaillez-vous?",
+      "translations": {
+        "zh": "您在哪个领域工作？",
+        "en": "What field do you work in?",
+        "es": "¿En qué sector trabaja?"
+      },
+      "start": 112.08,
+      "end": 113.28,
+      "words": [
+        {
+          "text": "Dans",
+          "start": 112.08,
+          "end": 112.24
+        },
+        {
+          "text": "quel",
+          "start": 112.24,
+          "end": 112.4
+        },
+        {
+          "text": "domaine",
+          "start": 112.4,
+          "end": 112.72
+        },
+        {
+          "text": "travaillez",
+          "start": 112.72,
+          "end": 113.12
+        },
+        {
+          "text": "vous",
+          "start": 113.12,
+          "end": 113.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Dans quel domaine",
+          "translations": {
+            "zh": "在哪个领域",
+            "en": "In what field",
+            "es": "¿En qué sector"
+          },
+          "start": 112.08,
+          "end": 112.72
+        },
+        {
+          "text": "travaillez-vous?",
+          "translations": {
+            "zh": "您工作？",
+            "en": "do you work?",
+            "es": "trabaja?"
+          },
+          "start": 112.72,
+          "end": 113.28
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "text": "Dans le commerce.",
+      "translations": {
+        "zh": "商业领域。",
+        "en": "In retail.",
+        "es": "En el comercio."
+      },
+      "start": 113.68,
+      "end": 114.72,
+      "words": [
+        {
+          "text": "Dans",
+          "start": 113.68,
+          "end": 113.92
+        },
+        {
+          "text": "le",
+          "start": 114,
+          "end": 114.08
+        },
+        {
+          "text": "commerce",
+          "start": 114.16,
+          "end": 114.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Dans le commerce.",
+          "translations": {
+            "zh": "商业领域。",
+            "en": "In retail.",
+            "es": "En el comercio."
+          },
+          "start": 113.68,
+          "end": 114.72
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "text": "J'ai trouvé mon premier emploi dans un magasin de meubles, tout près d'ici.",
+      "translations": {
+        "zh": "我在附近的一家家具店找到了我的第一份工作。",
+        "en": "I found my first job in a furniture store, very close to here.",
+        "es": "Encontré mi primer empleo en una tienda de muebles, muy cerca de aquí."
+      },
+      "start": 115.04,
+      "end": 118.48,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 115.04,
+          "end": 115.2
+        },
+        {
+          "text": "trouvé",
+          "start": 115.2,
+          "end": 115.52
+        },
+        {
+          "text": "mon",
+          "start": 115.52,
+          "end": 115.68
+        },
+        {
+          "text": "premier",
+          "start": 115.68,
+          "end": 116
+        },
+        {
+          "text": "emploi",
+          "start": 116,
+          "end": 116.4
+        },
+        {
+          "text": "dans",
+          "start": 116.4,
+          "end": 116.48
+        },
+        {
+          "text": "un",
+          "start": 116.48,
+          "end": 116.8
+        },
+        {
+          "text": "magasin",
+          "start": 116.906,
+          "end": 117.013
+        },
+        {
+          "text": "de",
+          "start": 117.12,
+          "end": 117.226
+        },
+        {
+          "text": "meubles",
+          "start": 117.333,
+          "end": 117.44
+        },
+        {
+          "text": "tout",
+          "start": 117.546,
+          "end": 117.653
+        },
+        {
+          "text": "près",
+          "start": 117.76,
+          "end": 117.76
+        },
+        {
+          "text": "d'ici",
+          "start": 118.48,
+          "end": 118.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai trouvé mon premier emploi",
+          "translations": {
+            "zh": "我找到了我的第一份工作",
+            "en": "I found my first job",
+            "es": "Encontré mi primer empleo"
+          },
+          "start": 115.04,
+          "end": 116.4
+        },
+        {
+          "text": "dans un magasin de meubles,",
+          "translations": {
+            "zh": "在一家家具店，",
+            "en": "in a furniture store,",
+            "es": "en una tienda de muebles,"
+          },
+          "start": 116.4,
+          "end": 117.44
+        },
+        {
+          "text": "tout près d'ici.",
+          "translations": {
+            "zh": "就在这附近。",
+            "en": "very close to here.",
+            "es": "muy cerca de aquí."
+          },
+          "start": 117.546,
+          "end": 118.48
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "text": "C'est près de chez moi aussi, donc c'est facile.",
+      "translations": {
+        "zh": "离我家也很近，所以很方便。",
+        "en": "It's close to my place too, so it's easy.",
+        "es": "Está cerca de mi casa también, así que es fácil."
+      },
+      "start": 118.96,
+      "end": 121.12,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 118.96,
+          "end": 119.12
+        },
+        {
+          "text": "près",
+          "start": 119.12,
+          "end": 119.28
+        },
+        {
+          "text": "de",
+          "start": 119.28,
+          "end": 119.36
+        },
+        {
+          "text": "chez",
+          "start": 119.36,
+          "end": 119.6
+        },
+        {
+          "text": "moi",
+          "start": 119.6,
+          "end": 119.84
+        },
+        {
+          "text": "aussi",
+          "start": 119.84,
+          "end": 120.16
+        },
+        {
+          "text": "donc",
+          "start": 120.16,
+          "end": 120.48
+        },
+        {
+          "text": "c'est",
+          "start": 120.48,
+          "end": 120.64
+        },
+        {
+          "text": "facile",
+          "start": 120.64,
+          "end": 121.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est près de chez moi aussi,",
+          "translations": {
+            "zh": "离我家也很近，",
+            "en": "It's close to my place too,",
+            "es": "Está cerca de mi casa también,"
+          },
+          "start": 118.96,
+          "end": 120.16
+        },
+        {
+          "text": "donc c'est facile.",
+          "translations": {
+            "zh": "所以很方便。",
+            "en": "so it's easy.",
+            "es": "así que es fácil."
+          },
+          "start": 120.16,
+          "end": 121.12
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "text": "Oh, le magasin au coin de la rue?",
+      "translations": {
+        "zh": "哦，街角那家店吗？",
+        "en": "Oh, the store on the corner of the street?",
+        "es": "Oh, ¿la tienda en la esquina de la calle?"
+      },
+      "start": 121.36,
+      "end": 122.8,
+      "words": [
+        {
+          "text": "Oh",
+          "start": 121.36,
+          "end": 121.76
+        },
+        {
+          "text": "le",
+          "start": 121.76,
+          "end": 121.84
+        },
+        {
+          "text": "magasin",
+          "start": 121.84,
+          "end": 122.32
+        },
+        {
+          "text": "au",
+          "start": 122.32,
+          "end": 122.32
+        },
+        {
+          "text": "coin",
+          "start": 122.32,
+          "end": 122.48
+        },
+        {
+          "text": "de",
+          "start": 122.48,
+          "end": 122.48
+        },
+        {
+          "text": "la",
+          "start": 122.48,
+          "end": 122.72
+        },
+        {
+          "text": "rue",
+          "start": 122.72,
+          "end": 122.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oh,",
+          "translations": {
+            "zh": "哦，",
+            "en": "Oh,",
+            "es": "Oh,"
+          },
+          "start": 121.36,
+          "end": 121.76
+        },
+        {
+          "text": "le magasin au coin de la rue?",
+          "translations": {
+            "zh": "街角那家店吗？",
+            "en": "the store on the corner of the street?",
+            "es": "¿la tienda en la esquina de la calle?"
+          },
+          "start": 121.76,
+          "end": 122.8
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "text": "J'adore aller magasiner là!",
+      "translations": {
+        "zh": "我很喜欢去那里购物！",
+        "en": "I love shopping there!",
+        "es": "¡Me encanta ir de compras allí!"
+      },
+      "start": 123.68,
+      "end": 125.36,
+      "words": [
+        {
+          "text": "J'adore",
+          "start": 123.68,
+          "end": 124.24
+        },
+        {
+          "text": "aller",
+          "start": 124.24,
+          "end": 124.48
+        },
+        {
+          "text": "magasiner",
+          "start": 124.48,
+          "end": 125.04
+        },
+        {
+          "text": "là",
+          "start": 125.04,
+          "end": 125.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'adore aller magasiner là!",
+          "translations": {
+            "zh": "我很喜欢去那里购物！",
+            "en": "I love shopping there!",
+            "es": "¡Me encanta ir de compras allí!"
+          },
+          "start": 123.68,
+          "end": 125.36
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "text": "Il y a toujours des belles choses.",
+      "translations": {
+        "zh": "那里总是有些漂亮的东西。",
+        "en": "There are always beautiful things.",
+        "es": "Siempre hay cosas bonitas."
+      },
+      "start": 125.76,
+      "end": 127.36,
+      "words": [
+        {
+          "text": "Il",
+          "start": 125.76,
+          "end": 125.84
+        },
+        {
+          "text": "y",
+          "start": 125.84,
+          "end": 125.84
+        },
+        {
+          "text": "a",
+          "start": 125.84,
+          "end": 125.92
+        },
+        {
+          "text": "toujours",
+          "start": 125.92,
+          "end": 126.4
+        },
+        {
+          "text": "des",
+          "start": 126.4,
+          "end": 126.48
+        },
+        {
+          "text": "belles",
+          "start": 126.48,
+          "end": 126.72
+        },
+        {
+          "text": "choses",
+          "start": 126.72,
+          "end": 127.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il y a toujours des belles choses.",
+          "translations": {
+            "zh": "那里总是有些漂亮的东西。",
+            "en": "There are always beautiful things.",
+            "es": "Siempre hay cosas bonitas."
+          },
+          "start": 125.76,
+          "end": 127.36
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "text": "C'est là que j'ai acheté mon sofa.",
+      "translations": {
+        "zh": "我的沙发就是在那里买的。",
+        "en": "That's where I bought my sofa.",
+        "es": "Es allí donde compré mi sofá."
+      },
+      "start": 127.76,
+      "end": 129.12,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 127.76,
+          "end": 128
+        },
+        {
+          "text": "là",
+          "start": 128,
+          "end": 128.08
+        },
+        {
+          "text": "que",
+          "start": 128.08,
+          "end": 128.16
+        },
+        {
+          "text": "j'ai",
+          "start": 128.16,
+          "end": 128.32
+        },
+        {
+          "text": "acheté",
+          "start": 128.32,
+          "end": 128.48
+        },
+        {
+          "text": "mon",
+          "start": 128.48,
+          "end": 128.64
+        },
+        {
+          "text": "sofa",
+          "start": 128.64,
+          "end": 129.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est là que j'ai acheté mon sofa.",
+          "translations": {
+            "zh": "我的沙发就是在那里买的。",
+            "en": "That's where I bought my sofa.",
+            "es": "Es allí donde compré mi sofá."
+          },
+          "start": 127.76,
+          "end": 129.12
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "text": "Magnifique!",
+      "translations": {
+        "zh": "太漂亮了！",
+        "en": "Magnificent!",
+        "es": "¡Magnífico!"
+      },
+      "start": 129.52,
+      "end": 130.64,
+      "words": [
+        {
+          "text": "Magnifique",
+          "start": 129.52,
+          "end": 130.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Magnifique!",
+          "translations": {
+            "zh": "太漂亮了！",
+            "en": "Magnificent!",
+            "es": "¡Magnífico!"
+          },
+          "start": 129.52,
+          "end": 130.64
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "text": "Ça donne du style à mon salon.",
+      "translations": {
+        "zh": "它让我的客厅很有格调。",
+        "en": "It gives style to my living room.",
+        "es": "Le da estilo a mi salón."
+      },
+      "start": 131.36,
+      "end": 132.8,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 131.36,
+          "end": 131.52
+        },
+        {
+          "text": "donne",
+          "start": 131.52,
+          "end": 131.68
+        },
+        {
+          "text": "du",
+          "start": 131.68,
+          "end": 131.76
+        },
+        {
+          "text": "style",
+          "start": 131.76,
+          "end": 132.16
+        },
+        {
+          "text": "à",
+          "start": 132.16,
+          "end": 132.16
+        },
+        {
+          "text": "mon",
+          "start": 132.16,
+          "end": 132.4
+        },
+        {
+          "text": "salon",
+          "start": 132.4,
+          "end": 132.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça donne du style à mon salon.",
+          "translations": {
+            "zh": "它让我的客厅很有格调。",
+            "en": "It gives style to my living room.",
+            "es": "Le da estilo a mi salón."
+          },
+          "start": 131.36,
+          "end": 132.8
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "text": "En plus, mon mari l'adore!",
+      "translations": {
+        "zh": "而且，我丈夫也很喜欢它！",
+        "en": "Besides, my husband loves it!",
+        "es": "Además, ¡a mi marido le encanta!"
+      },
+      "start": 133.04,
+      "end": 134.32,
+      "words": [
+        {
+          "text": "En",
+          "start": 133.04,
+          "end": 133.2
+        },
+        {
+          "text": "plus",
+          "start": 133.2,
+          "end": 133.36
+        },
+        {
+          "text": "mon",
+          "start": 133.44,
+          "end": 133.52
+        },
+        {
+          "text": "mari",
+          "start": 133.52,
+          "end": 133.84
+        },
+        {
+          "text": "l'adore",
+          "start": 133.84,
+          "end": 134.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "En plus,",
+          "translations": {
+            "zh": "而且，",
+            "en": "Besides,",
+            "es": "Además,"
+          },
+          "start": 133.04,
+          "end": 133.36
+        },
+        {
+          "text": "mon mari l'adore!",
+          "translations": {
+            "zh": "我丈夫也很喜欢它！",
+            "en": "my husband loves it!",
+            "es": "¡a mi marido le encanta!"
+          },
+          "start": 133.44,
+          "end": 134.32
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "text": "Ça fait longtemps que vous êtes arrivée au Québec?",
+      "translations": {
+        "zh": "您来魁北克很久了吗？",
+        "en": "Have you been in Quebec for a long time?",
+        "es": "¿Hace mucho tiempo que llegó a Quebec?"
+      },
+      "start": 135.2,
+      "end": 136.8,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 135.2,
+          "end": 135.36
+        },
+        {
+          "text": "fait",
+          "start": 135.36,
+          "end": 135.52
+        },
+        {
+          "text": "longtemps",
+          "start": 135.52,
+          "end": 135.76
+        },
+        {
+          "text": "que",
+          "start": 135.84,
+          "end": 135.92
+        },
+        {
+          "text": "vous",
+          "start": 135.92,
+          "end": 136.08
+        },
+        {
+          "text": "êtes",
+          "start": 136.08,
+          "end": 136.24
+        },
+        {
+          "text": "arrivée",
+          "start": 136.24,
+          "end": 136.4
+        },
+        {
+          "text": "au",
+          "start": 136.4,
+          "end": 136.56
+        },
+        {
+          "text": "Québec",
+          "start": 136.56,
+          "end": 136.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça fait longtemps",
+          "translations": {
+            "zh": "很久了吗",
+            "en": "Has it been a long time",
+            "es": "¿Hace mucho tiempo"
+          },
+          "start": 135.2,
+          "end": 135.76
+        },
+        {
+          "text": "que vous êtes arrivée au Québec?",
+          "translations": {
+            "zh": "您来魁北克？",
+            "en": "since you arrived in Quebec?",
+            "es": "que llegó a Quebec?"
+          },
+          "start": 135.84,
+          "end": 136.8
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "text": "Ça fait un mois.",
+      "translations": {
+        "zh": "一个月了。",
+        "en": "It's been a month.",
+        "es": "Hace un mes."
+      },
+      "start": 137.28,
+      "end": 138.32,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 137.28,
+          "end": 137.52
+        },
+        {
+          "text": "fait",
+          "start": 137.52,
+          "end": 137.76
+        },
+        {
+          "text": "un",
+          "start": 137.84,
+          "end": 138
+        },
+        {
+          "text": "mois",
+          "start": 138,
+          "end": 138.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça fait un mois.",
+          "translations": {
+            "zh": "一个月了。",
+            "en": "It's been a month.",
+            "es": "Hace un mes."
+          },
+          "start": 137.28,
+          "end": 138.32
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "text": "Ah oui, seulement?",
+      "translations": {
+        "zh": "啊，才一个月？",
+        "en": "Oh really, only?",
+        "es": "¿Ah, sí, nada más?"
+      },
+      "start": 138.64,
+      "end": 139.6,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 138.64,
+          "end": 138.8
+        },
+        {
+          "text": "oui",
+          "start": 138.8,
+          "end": 139.12
+        },
+        {
+          "text": "seulement",
+          "start": 139.12,
+          "end": 139.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah oui,",
+          "translations": {
+            "zh": "啊，是吗，",
+            "en": "Oh really,",
+            "es": "¿Ah, sí,"
+          },
+          "start": 138.64,
+          "end": 139.12
+        },
+        {
+          "text": "seulement?",
+          "translations": {
+            "zh": "才一个月？",
+            "en": "only?",
+            "es": "nada más?"
+          },
+          "start": 139.12,
+          "end": 139.6
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "text": "Vous avez un bon français!",
+      "translations": {
+        "zh": "您法语说得很好！",
+        "en": "You have good French!",
+        "es": "¡Tiene un buen francés!"
+      },
+      "start": 140.24,
+      "end": 141.36,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 140.24,
+          "end": 140.4
+        },
+        {
+          "text": "avez",
+          "start": 140.4,
+          "end": 140.48
+        },
+        {
+          "text": "un",
+          "start": 140.56,
+          "end": 140.64
+        },
+        {
+          "text": "bon",
+          "start": 140.64,
+          "end": 140.8
+        },
+        {
+          "text": "français",
+          "start": 140.8,
+          "end": 141.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous avez un bon français!",
+          "translations": {
+            "zh": "您法语说得很好！",
+            "en": "You have good French!",
+            "es": "¡Tiene un buen francés!"
+          },
+          "start": 140.24,
+          "end": 141.36
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "text": "Vous avez pris des cours avant d'arriver?",
+      "translations": {
+        "zh": "您来之前上过课吗？",
+        "en": "Did you take classes before arriving?",
+        "es": "¿Tomó clases antes de llegar?"
+      },
+      "start": 142.24,
+      "end": 143.76,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 142.24,
+          "end": 142.4
+        },
+        {
+          "text": "avez",
+          "start": 142.4,
+          "end": 142.48
+        },
+        {
+          "text": "pris",
+          "start": 142.64,
+          "end": 142.72
+        },
+        {
+          "text": "des",
+          "start": 142.72,
+          "end": 142.88
+        },
+        {
+          "text": "cours",
+          "start": 142.88,
+          "end": 143.04
+        },
+        {
+          "text": "avant",
+          "start": 143.04,
+          "end": 143.2
+        },
+        {
+          "text": "d'arriver",
+          "start": 143.2,
+          "end": 143.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous avez pris des cours",
+          "translations": {
+            "zh": "您上过课",
+            "en": "Did you take classes",
+            "es": "¿Tomó clases"
+          },
+          "start": 142.24,
+          "end": 143.04
+        },
+        {
+          "text": "avant d'arriver?",
+          "translations": {
+            "zh": "在来之前吗？",
+            "en": "before arriving?",
+            "es": "antes de llegar?"
+          },
+          "start": 143.04,
+          "end": 143.76
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "text": "Oui, à l'Alliance française de ma ville.",
+      "translations": {
+        "zh": "是的，在我城市的法语联盟。",
+        "en": "Yes, at the Alliance Française in my city.",
+        "es": "Sí, en la Alianza Francesa de mi ciudad."
+      },
+      "start": 143.92,
+      "end": 146.64,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 143.92,
+          "end": 144.4
+        },
+        {
+          "text": "à",
+          "start": 144.8,
+          "end": 144.88
+        },
+        {
+          "text": "l'Alliance",
+          "start": 144.88,
+          "end": 145.2
+        },
+        {
+          "text": "française",
+          "start": 145.44,
+          "end": 146
+        },
+        {
+          "text": "de",
+          "start": 146,
+          "end": 146.16
+        },
+        {
+          "text": "ma",
+          "start": 146.16,
+          "end": 146.32
+        },
+        {
+          "text": "ville",
+          "start": 146.32,
+          "end": 146.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 143.92,
+          "end": 144.4
+        },
+        {
+          "text": "à l'Alliance française de ma ville.",
+          "translations": {
+            "zh": "在我城市的法语联盟。",
+            "en": "at the Alliance Française in my city.",
+            "es": "en la Alianza Francesa de mi ciudad."
+          },
+          "start": 144.8,
+          "end": 146.64
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "text": "J'adore le français!",
+      "translations": {
+        "zh": "我很喜欢法语！",
+        "en": "I love French!",
+        "es": "¡Me encanta el francés!"
+      },
+      "start": 146.96,
+      "end": 148.24,
+      "words": [
+        {
+          "text": "J'adore",
+          "start": 146.96,
+          "end": 147.52
+        },
+        {
+          "text": "le",
+          "start": 147.52,
+          "end": 147.68
+        },
+        {
+          "text": "français",
+          "start": 147.76,
+          "end": 148.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'adore le français!",
+          "translations": {
+            "zh": "我很喜欢法语！",
+            "en": "I love French!",
+            "es": "¡Me encanta el francés!"
+          },
+          "start": 146.96,
+          "end": 148.24
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "text": "Mais je dois m'améliorer encore.",
+      "translations": {
+        "zh": "但我还需要继续提高。",
+        "en": "But I still need to improve.",
+        "es": "Pero tengo que mejorar aún."
+      },
+      "start": 148.64,
+      "end": 150.4,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 148.64,
+          "end": 148.88
+        },
+        {
+          "text": "je",
+          "start": 148.96,
+          "end": 148.96
+        },
+        {
+          "text": "dois",
+          "start": 149.04,
+          "end": 149.04
+        },
+        {
+          "text": "m'améliorer",
+          "start": 149.92,
+          "end": 149.92
+        },
+        {
+          "text": "encore",
+          "start": 149.92,
+          "end": 150.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais je dois m'améliorer encore.",
+          "translations": {
+            "zh": "但我还需要继续提高。",
+            "en": "But I still need to improve.",
+            "es": "Pero tengo que mejorar aún."
+          },
+          "start": 148.64,
+          "end": 150.4
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "text": "Surtout à l'écrit.",
+      "translations": {
+        "zh": "尤其是在写作方面。",
+        "en": "Especially in writing.",
+        "es": "Sobre todo en lo escrito."
+      },
+      "start": 150.48,
+      "end": 151.68,
+      "words": [
+        {
+          "text": "Surtout",
+          "start": 150.48,
+          "end": 151.2
+        },
+        {
+          "text": "à",
+          "start": 151.2,
+          "end": 151.28
+        },
+        {
+          "text": "l'écrit",
+          "start": 151.28,
+          "end": 151.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Surtout à l'écrit.",
+          "translations": {
+            "zh": "尤其是在写作方面。",
+            "en": "Especially in writing.",
+            "es": "Sobre todo en lo escrito."
+          },
+          "start": 150.48,
+          "end": 151.68
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "text": "Eh bien, vous pourriez peut-être suivre un autre cours à temps partiel.",
+      "translations": {
+        "zh": "那么，您也许可以再上一个兼职课程。",
+        "en": "Well, you could perhaps take another part-time course.",
+        "es": "Bueno, tal vez podría seguir otro curso a tiempo parcial."
+      },
+      "start": 151.84,
+      "end": 154.72,
+      "words": [
+        {
+          "text": "Eh",
+          "start": 151.84,
+          "end": 152
+        },
+        {
+          "text": "bien",
+          "start": 152,
+          "end": 152.08
+        },
+        {
+          "text": "vous",
+          "start": 152.08,
+          "end": 152.32
+        },
+        {
+          "text": "pourriez",
+          "start": 152.64,
+          "end": 152.96
+        },
+        {
+          "text": "peut",
+          "start": 152.96,
+          "end": 153.12
+        },
+        {
+          "text": "être",
+          "start": 153.12,
+          "end": 153.2
+        },
+        {
+          "text": "suivre",
+          "start": 153.2,
+          "end": 153.52
+        },
+        {
+          "text": "un",
+          "start": 153.52,
+          "end": 153.68
+        },
+        {
+          "text": "autre",
+          "start": 153.68,
+          "end": 153.84
+        },
+        {
+          "text": "cours",
+          "start": 153.84,
+          "end": 154
+        },
+        {
+          "text": "à",
+          "start": 154,
+          "end": 154.08
+        },
+        {
+          "text": "temps",
+          "start": 154.08,
+          "end": 154.24
+        },
+        {
+          "text": "partiel",
+          "start": 154.24,
+          "end": 154.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Eh bien,",
+          "translations": {
+            "zh": "那么，",
+            "en": "Well,",
+            "es": "Bueno,"
+          },
+          "start": 151.84,
+          "end": 152.08
+        },
+        {
+          "text": "vous pourriez peut-être",
+          "translations": {
+            "zh": "您也许可以",
+            "en": "you could perhaps",
+            "es": "tal vez podría"
+          },
+          "start": 152.08,
+          "end": 153.2
+        },
+        {
+          "text": "suivre un autre cours à temps partiel.",
+          "translations": {
+            "zh": "再上一个兼职课程。",
+            "en": "take another part-time course.",
+            "es": "seguir otro curso a tiempo parcial."
+          },
+          "start": 153.2,
+          "end": 154.72
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "text": "Il y a des cours le matin, l'après-midi, ou le soir.",
+      "translations": {
+        "zh": "有上午、下午或晚上的课程。",
+        "en": "There are classes in the morning, the afternoon, or the evening.",
+        "es": "Hay clases por la mañana, por la tarde o por la noche."
+      },
+      "start": 155.44,
+      "end": 157.68,
+      "words": [
+        {
+          "text": "Il",
+          "start": 155.44,
+          "end": 155.52
+        },
+        {
+          "text": "y",
+          "start": 155.52,
+          "end": 155.52
+        },
+        {
+          "text": "a",
+          "start": 155.52,
+          "end": 155.52
+        },
+        {
+          "text": "des",
+          "start": 155.52,
+          "end": 155.68
+        },
+        {
+          "text": "cours",
+          "start": 155.68,
+          "end": 155.84
+        },
+        {
+          "text": "le",
+          "start": 155.84,
+          "end": 155.92
+        },
+        {
+          "text": "matin",
+          "start": 155.92,
+          "end": 156.32
+        },
+        {
+          "text": "l'après",
+          "start": 156.4,
+          "end": 156.64
+        },
+        {
+          "text": "midi",
+          "start": 156.64,
+          "end": 156.96
+        },
+        {
+          "text": "ou",
+          "start": 157.04,
+          "end": 157.12
+        },
+        {
+          "text": "le",
+          "start": 157.12,
+          "end": 157.12
+        },
+        {
+          "text": "soir",
+          "start": 157.12,
+          "end": 157.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il y a des cours le matin,",
+          "translations": {
+            "zh": "有上午的课程，",
+            "en": "There are classes in the morning,",
+            "es": "Hay clases por la mañana,"
+          },
+          "start": 155.44,
+          "end": 156.32
+        },
+        {
+          "text": "l'après-midi, ou le soir.",
+          "translations": {
+            "zh": "下午或晚上的。",
+            "en": "the afternoon, or the evening.",
+            "es": "por la tarde o por la noche."
+          },
+          "start": 156.4,
+          "end": 157.68
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "text": "Vous pouvez sûrement trouver un horaire qui vous convient.",
+      "translations": {
+        "zh": "您一定能找到适合您的时间安排。",
+        "en": "You can surely find a schedule that suits you.",
+        "es": "Seguramente puede encontrar un horario que le convenga."
+      },
+      "start": 158.08,
+      "end": 160.32,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 158.08,
+          "end": 158.08
+        },
+        {
+          "text": "pouvez",
+          "start": 158.08,
+          "end": 158.4
+        },
+        {
+          "text": "sûrement",
+          "start": 158.4,
+          "end": 158.64
+        },
+        {
+          "text": "trouver",
+          "start": 158.72,
+          "end": 159.04
+        },
+        {
+          "text": "un",
+          "start": 159.04,
+          "end": 159.12
+        },
+        {
+          "text": "horaire",
+          "start": 159.2,
+          "end": 159.52
+        },
+        {
+          "text": "qui",
+          "start": 159.52,
+          "end": 159.6
+        },
+        {
+          "text": "vous",
+          "start": 159.6,
+          "end": 159.76
+        },
+        {
+          "text": "convient",
+          "start": 159.76,
+          "end": 160.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous pouvez sûrement trouver un horaire",
+          "translations": {
+            "zh": "您一定能找到一个时间安排",
+            "en": "You can surely find a schedule",
+            "es": "Seguramente puede encontrar un horario"
+          },
+          "start": 158.08,
+          "end": 159.52
+        },
+        {
+          "text": "qui vous convient.",
+          "translations": {
+            "zh": "适合您的。",
+            "en": "that suits you.",
+            "es": "que le convenga."
+          },
+          "start": 159.52,
+          "end": 160.32
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "text": "Épisode 1 : La première rencontre Oui, c'est une bonne idée.",
+      "translations": {
+        "zh": "第一集：第一次相遇 是的，这是个好主意。",
+        "en": "Episode 1: The first encounter Yes, that's a good idea.",
+        "es": "Episodio 1: El primer encuentro Sí, es una buena idea."
+      },
+      "start": 160.32,
+      "end": 163.435,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 160.32,
+          "end": 160.8
+        },
+        {
+          "text": "1",
+          "start": 160.8,
+          "end": 162.16
+        },
+        {
+          "text": "La",
+          "start": 162.16,
+          "end": 162.16
+        },
+        {
+          "text": "première",
+          "start": 162.16,
+          "end": 162.16
+        },
+        {
+          "text": "rencontre",
+          "start": 162.16,
+          "end": 162.88
+        },
+        {
+          "text": "Oui",
+          "start": 162.88,
+          "end": 163.36
+        },
+        {
+          "text": "c'est",
+          "start": 163.369,
+          "end": 163.378
+        },
+        {
+          "text": "une",
+          "start": 163.388,
+          "end": 163.397
+        },
+        {
+          "text": "bonne",
+          "start": 163.407,
+          "end": 163.416
+        },
+        {
+          "text": "idée",
+          "start": 163.425,
+          "end": 163.435
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 1 : La première rencontre",
+          "translations": {
+            "zh": "第一集：第一次相遇",
+            "en": "Episode 1: The first encounter",
+            "es": "Episodio 1: El primer encuentro"
+          },
+          "start": 160.32,
+          "end": 162.88
+        },
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 162.88,
+          "end": 163.36
+        },
+        {
+          "text": "c'est une bonne idée.",
+          "translations": {
+            "zh": "这是个好主意。",
+            "en": "that's a good idea.",
+            "es": "es una buena idea."
+          },
+          "start": 163.369,
+          "end": 163.435
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "text": "Je vais y penser.",
+      "translations": {
+        "zh": "我会考虑的。",
+        "en": "I'll think about it.",
+        "es": "Voy a pensarlo."
+      },
+      "start": 163.444,
+      "end": 163.51,
+      "words": [
+        {
+          "text": "Je",
+          "start": 163.444,
+          "end": 163.454
+        },
+        {
+          "text": "vais",
+          "start": 163.463,
+          "end": 163.472
+        },
+        {
+          "text": "y",
+          "start": 163.482,
+          "end": 163.491
+        },
+        {
+          "text": "penser",
+          "start": 163.501,
+          "end": 163.51
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais y penser.",
+          "translations": {
+            "zh": "我会考虑的。",
+            "en": "I'll think about it.",
+            "es": "Voy a pensarlo."
+          },
+          "start": 163.444,
+          "end": 163.51
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "text": "D'accord.",
+      "translations": {
+        "zh": "好的。",
+        "en": "All right.",
+        "es": "De acuerdo."
+      },
+      "start": 163.52,
+      "end": 164,
+      "words": [
+        {
+          "text": "D'accord",
+          "start": 163.52,
+          "end": 164
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'accord.",
+          "translations": {
+            "zh": "好的。",
+            "en": "All right.",
+            "es": "De acuerdo."
+          },
+          "start": 163.52,
+          "end": 164
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "text": "Communiquez avec nous si vous avez besoin d'information.",
+      "translations": {
+        "zh": "如果您需要信息，请联系我们。",
+        "en": "Contact us if you need information.",
+        "es": "Comuníquese con nosotros si necesita información."
+      },
+      "start": 164.8,
+      "end": 166.8,
+      "words": [
+        {
+          "text": "Communiquez",
+          "start": 164.8,
+          "end": 165.36
+        },
+        {
+          "text": "avec",
+          "start": 165.36,
+          "end": 165.36
+        },
+        {
+          "text": "nous",
+          "start": 165.36,
+          "end": 165.52
+        },
+        {
+          "text": "si",
+          "start": 165.52,
+          "end": 165.6
+        },
+        {
+          "text": "vous",
+          "start": 165.68,
+          "end": 165.76
+        },
+        {
+          "text": "avez",
+          "start": 165.84,
+          "end": 165.84
+        },
+        {
+          "text": "besoin",
+          "start": 165.92,
+          "end": 166.16
+        },
+        {
+          "text": "d'information",
+          "start": 166.16,
+          "end": 166.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Communiquez avec nous",
+          "translations": {
+            "zh": "请联系我们",
+            "en": "Contact us",
+            "es": "Comuníquese con nosotros"
+          },
+          "start": 164.8,
+          "end": 165.52
+        },
+        {
+          "text": "si vous avez besoin d'information.",
+          "translations": {
+            "zh": "如果您需要信息。",
+            "en": "if you need information.",
+            "es": "si necesita información."
+          },
+          "start": 165.52,
+          "end": 166.8
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "text": "Vous trouverez aussi les détails sur notre site internet, dans la section Francisation.",
+      "translations": {
+        "zh": "您也可以在我们的网站上找到详细信息，在法语融入课程部分。",
+        "en": "You will also find the details on our website, in the Francisation section.",
+        "es": "También encontrará los detalles en nuestro sitio web, en la sección Francización."
+      },
+      "start": 167.04,
+      "end": 170.48,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 167.04,
+          "end": 167.12
+        },
+        {
+          "text": "trouverez",
+          "start": 167.12,
+          "end": 167.36
+        },
+        {
+          "text": "aussi",
+          "start": 167.36,
+          "end": 167.6
+        },
+        {
+          "text": "les",
+          "start": 167.6,
+          "end": 167.68
+        },
+        {
+          "text": "détails",
+          "start": 167.68,
+          "end": 168
+        },
+        {
+          "text": "sur",
+          "start": 168,
+          "end": 168.08
+        },
+        {
+          "text": "notre",
+          "start": 168.08,
+          "end": 168.32
+        },
+        {
+          "text": "site",
+          "start": 168.32,
+          "end": 168.4
+        },
+        {
+          "text": "internet",
+          "start": 168.4,
+          "end": 168.88
+        },
+        {
+          "text": "dans",
+          "start": 169.28,
+          "end": 169.36
+        },
+        {
+          "text": "la",
+          "start": 169.36,
+          "end": 169.44
+        },
+        {
+          "text": "section",
+          "start": 169.44,
+          "end": 169.76
+        },
+        {
+          "text": "Francisation",
+          "start": 169.76,
+          "end": 170.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous trouverez aussi les détails sur notre site internet,",
+          "translations": {
+            "zh": "您也可以在我们的网站上找到详细信息，",
+            "en": "You will also find the details on our website,",
+            "es": "También encontrará los detalles en nuestro sitio web,"
+          },
+          "start": 167.04,
+          "end": 168.88
+        },
+        {
+          "text": "dans la section Francisation.",
+          "translations": {
+            "zh": "在法语融入课程部分。",
+            "en": "in the Francisation section.",
+            "es": "en la sección Francización."
+          },
+          "start": 169.28,
+          "end": 170.48
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "text": "Vous venez d'où?",
+      "translations": {
+        "zh": "您从哪里来？",
+        "en": "Where do you come from?",
+        "es": "¿De dónde viene?"
+      },
+      "start": 171.84,
+      "end": 172.4,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 171.84,
+          "end": 171.92
+        },
+        {
+          "text": "venez",
+          "start": 171.92,
+          "end": 172.16
+        },
+        {
+          "text": "d'où",
+          "start": 172.16,
+          "end": 172.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous venez d'où?",
+          "translations": {
+            "zh": "您从哪里来？",
+            "en": "Where do you come from?",
+            "es": "¿De dónde viene?"
+          },
+          "start": 171.84,
+          "end": 172.4
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "text": "Du Mexique.",
+      "translations": {
+        "zh": "从墨西哥。",
+        "en": "From Mexico.",
+        "es": "De México."
+      },
+      "start": 172.88,
+      "end": 173.6,
+      "words": [
+        {
+          "text": "Du",
+          "start": 172.88,
+          "end": 173.04
+        },
+        {
+          "text": "Mexique",
+          "start": 173.04,
+          "end": 173.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Du Mexique.",
+          "translations": {
+            "zh": "从墨西哥。",
+            "en": "From Mexico.",
+            "es": "De México."
+          },
+          "start": 172.88,
+          "end": 173.6
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "text": "Ah oui?",
+      "translations": {
+        "zh": "哦，是吗？",
+        "en": "Oh really?",
+        "es": "¿Ah, sí?"
+      },
+      "start": 173.6,
+      "end": 174.32,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 173.6,
+          "end": 173.76
+        },
+        {
+          "text": "oui",
+          "start": 173.76,
+          "end": 174.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah oui?",
+          "translations": {
+            "zh": "哦，是吗？",
+            "en": "Oh really?",
+            "es": "¿Ah, sí?"
+          },
+          "start": 173.6,
+          "end": 174.32
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "text": "Moi, je ne connais pas le Mexique, mais ma belle-sœur y est allée l'hiver dernier.",
+      "translations": {
+        "zh": "我呢，我不了解墨西哥，但我嫂子去年冬天去过那里。",
+        "en": "Me, I don't know Mexico, but my sister-in-law went there last winter.",
+        "es": "Yo no conozco México, pero mi cuñada fue allí el invierno pasado."
+      },
+      "start": 174.64,
+      "end": 177.84,
+      "words": [
+        {
+          "text": "Moi",
+          "start": 174.64,
+          "end": 174.88
+        },
+        {
+          "text": "je",
+          "start": 174.88,
+          "end": 174.96
+        },
+        {
+          "text": "ne",
+          "start": 174.96,
+          "end": 174.96
+        },
+        {
+          "text": "connais",
+          "start": 174.96,
+          "end": 175.12
+        },
+        {
+          "text": "pas",
+          "start": 175.12,
+          "end": 175.2
+        },
+        {
+          "text": "le",
+          "start": 175.2,
+          "end": 175.28
+        },
+        {
+          "text": "Mexique",
+          "start": 175.28,
+          "end": 175.84
+        },
+        {
+          "text": "mais",
+          "start": 176,
+          "end": 176.16
+        },
+        {
+          "text": "ma",
+          "start": 176.16,
+          "end": 176.24
+        },
+        {
+          "text": "belle",
+          "start": 176.24,
+          "end": 176.48
+        },
+        {
+          "text": "sœur",
+          "start": 176.48,
+          "end": 176.72
+        },
+        {
+          "text": "y",
+          "start": 176.72,
+          "end": 176.8
+        },
+        {
+          "text": "est",
+          "start": 176.8,
+          "end": 176.88
+        },
+        {
+          "text": "allée",
+          "start": 176.88,
+          "end": 177.12
+        },
+        {
+          "text": "l'hiver",
+          "start": 177.12,
+          "end": 177.44
+        },
+        {
+          "text": "dernier",
+          "start": 177.44,
+          "end": 177.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Moi,",
+          "translations": {
+            "zh": "我呢，",
+            "en": "Me,",
+            "es": "Yo,"
+          },
+          "start": 174.64,
+          "end": 174.88
+        },
+        {
+          "text": "je ne connais pas le Mexique,",
+          "translations": {
+            "zh": "我不了解墨西哥，",
+            "en": "I don't know Mexico,",
+            "es": "no conozco México,"
+          },
+          "start": 174.88,
+          "end": 175.84
+        },
+        {
+          "text": "mais ma belle-sœur y est allée l'hiver dernier.",
+          "translations": {
+            "zh": "但我嫂子去年冬天去过那里。",
+            "en": "but my sister-in-law went there last winter.",
+            "es": "pero mi cuñada fue allí el invierno pasado."
+          },
+          "start": 176,
+          "end": 177.84
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "text": "Elle a adoré!",
+      "translations": {
+        "zh": "她非常喜欢！",
+        "en": "She loved it!",
+        "es": "¡Le encantó!"
+      },
+      "start": 178,
+      "end": 179.28,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 178,
+          "end": 178.16
+        },
+        {
+          "text": "a",
+          "start": 178.16,
+          "end": 178.4
+        },
+        {
+          "text": "adoré",
+          "start": 178.64,
+          "end": 179.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle a adoré!",
+          "translations": {
+            "zh": "她非常喜欢！",
+            "en": "She loved it!",
+            "es": "¡Le encantó!"
+          },
+          "start": 178,
+          "end": 179.28
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "text": "Faut dire que ça fait une pause dans l'hiver.",
+      "translations": {
+        "zh": "不得不说，那确实是冬天中的一个喘息。",
+        "en": "I have to say it makes a nice break in the winter.",
+        "es": "Hay que decir que hace un descanso en el invierno."
+      },
+      "start": 179.52,
+      "end": 181.2,
+      "words": [
+        {
+          "text": "Faut",
+          "start": 179.52,
+          "end": 179.6
+        },
+        {
+          "text": "dire",
+          "start": 179.68,
+          "end": 179.76
+        },
+        {
+          "text": "que",
+          "start": 179.76,
+          "end": 179.92
+        },
+        {
+          "text": "ça",
+          "start": 179.92,
+          "end": 180
+        },
+        {
+          "text": "fait",
+          "start": 180,
+          "end": 180.16
+        },
+        {
+          "text": "une",
+          "start": 180.16,
+          "end": 180.24
+        },
+        {
+          "text": "pause",
+          "start": 180.32,
+          "end": 180.56
+        },
+        {
+          "text": "dans",
+          "start": 180.56,
+          "end": 180.64
+        },
+        {
+          "text": "l'hiver",
+          "start": 180.64,
+          "end": 181.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Faut dire",
+          "translations": {
+            "zh": "不得不说",
+            "en": "I have to say",
+            "es": "Hay que decir"
+          },
+          "start": 179.52,
+          "end": 179.76
+        },
+        {
+          "text": "que ça fait une pause dans l'hiver.",
+          "translations": {
+            "zh": "那确实是冬天中的一个喘息。",
+            "en": "it makes a nice break in the winter.",
+            "es": "que hace un descanso en el invierno."
+          },
+          "start": 179.76,
+          "end": 181.2
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "text": "Y'a plein de Québécois qui vont là en vacances.",
+      "translations": {
+        "zh": "有很多魁北克人去那里度假。",
+        "en": "There are lots of Quebecers who go there on vacation.",
+        "es": "Hay un montón de quebequenses que van allí de vacaciones."
+      },
+      "start": 181.36,
+      "end": 183.92,
+      "words": [
+        {
+          "text": "Y'a",
+          "start": 181.36,
+          "end": 181.6
+        },
+        {
+          "text": "plein",
+          "start": 182.16,
+          "end": 182.32
+        },
+        {
+          "text": "de",
+          "start": 182.46,
+          "end": 182.6
+        },
+        {
+          "text": "Québécois",
+          "start": 182.74,
+          "end": 182.88
+        },
+        {
+          "text": "qui",
+          "start": 182.88,
+          "end": 183.04
+        },
+        {
+          "text": "vont",
+          "start": 183.04,
+          "end": 183.2
+        },
+        {
+          "text": "là",
+          "start": 183.2,
+          "end": 183.28
+        },
+        {
+          "text": "en",
+          "start": 183.28,
+          "end": 183.36
+        },
+        {
+          "text": "vacances",
+          "start": 183.36,
+          "end": 183.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Y'a plein de Québécois",
+          "translations": {
+            "zh": "有很多魁北克人",
+            "en": "There are lots of Quebecers",
+            "es": "Hay un montón de quebequenses"
+          },
+          "start": 181.36,
+          "end": 182.88
+        },
+        {
+          "text": "qui vont là en vacances.",
+          "translations": {
+            "zh": "去那里度假。",
+            "en": "who go there on vacation.",
+            "es": "que van allí de vacaciones."
+          },
+          "start": 182.88,
+          "end": 183.92
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "text": "Oui, je me rappelle quand je...",
+      "translations": {
+        "zh": "是的，我记得当我……",
+        "en": "Yes, I remember when I...",
+        "es": "Sí, recuerdo cuando yo..."
+      },
+      "start": 184.16,
+      "end": 186.186,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 184.16,
+          "end": 184.64
+        },
+        {
+          "text": "je",
+          "start": 184.96,
+          "end": 185.12
+        },
+        {
+          "text": "me",
+          "start": 185.2,
+          "end": 185.44
+        },
+        {
+          "text": "rappelle",
+          "start": 185.44,
+          "end": 185.92
+        },
+        {
+          "text": "quand",
+          "start": 185.92,
+          "end": 186.08
+        },
+        {
+          "text": "je",
+          "start": 186.133,
+          "end": 186.186
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 184.16,
+          "end": 184.64
+        },
+        {
+          "text": "je me rappelle quand je...",
+          "translations": {
+            "zh": "我记得当我……",
+            "en": "I remember when I...",
+            "es": "recuerdo cuando yo..."
+          },
+          "start": 184.96,
+          "end": 186.186
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "text": "En tout cas, ma belle-sœur était à Cancún.",
+      "translations": {
+        "zh": "总之，我嫂子去了坎昆。",
+        "en": "In any case, my sister-in-law was in Cancún.",
+        "es": "En todo caso, mi cuñada estaba en Cancún."
+      },
+      "start": 186.24,
+      "end": 187.76,
+      "words": [
+        {
+          "text": "En",
+          "start": 186.24,
+          "end": 186.293
+        },
+        {
+          "text": "tout",
+          "start": 186.346,
+          "end": 186.4
+        },
+        {
+          "text": "cas",
+          "start": 186.4,
+          "end": 186.44
+        },
+        {
+          "text": "ma",
+          "start": 186.48,
+          "end": 186.52
+        },
+        {
+          "text": "belle",
+          "start": 186.56,
+          "end": 186.6
+        },
+        {
+          "text": "sœur",
+          "start": 186.64,
+          "end": 186.68
+        },
+        {
+          "text": "était",
+          "start": 186.72,
+          "end": 186.76
+        },
+        {
+          "text": "à",
+          "start": 186.8,
+          "end": 186.96
+        },
+        {
+          "text": "Cancún",
+          "start": 186.96,
+          "end": 187.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "En tout cas,",
+          "translations": {
+            "zh": "总之，",
+            "en": "In any case,",
+            "es": "En todo caso,"
+          },
+          "start": 186.24,
+          "end": 186.44
+        },
+        {
+          "text": "ma belle-sœur était à Cancún.",
+          "translations": {
+            "zh": "我嫂子去了坎昆。",
+            "en": "my sister-in-law was in Cancún.",
+            "es": "mi cuñada estaba en Cancún."
+          },
+          "start": 186.48,
+          "end": 187.76
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "text": "Elle est revenue bien bronzée.",
+      "translations": {
+        "zh": "她回来时晒得很黑。",
+        "en": "She came back nicely tanned.",
+        "es": "Volvió bien bronceada."
+      },
+      "start": 188.08,
+      "end": 189.28,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 188.08,
+          "end": 188.16
+        },
+        {
+          "text": "est",
+          "start": 188.24,
+          "end": 188.32
+        },
+        {
+          "text": "revenue",
+          "start": 188.4,
+          "end": 188.48
+        },
+        {
+          "text": "bien",
+          "start": 188.48,
+          "end": 188.8
+        },
+        {
+          "text": "bronzée",
+          "start": 188.8,
+          "end": 189.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle est revenue bien bronzée.",
+          "translations": {
+            "zh": "她回来时晒得很黑。",
+            "en": "She came back nicely tanned.",
+            "es": "Volvió bien bronceada."
+          },
+          "start": 188.08,
+          "end": 189.28
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "text": "En trois semaines, elle a eu l'temps d'en profiter.",
+      "translations": {
+        "zh": "三周的时间，她好好享受了一番。",
+        "en": "In three weeks, she had time to enjoy it.",
+        "es": "En tres semanas, tuvo tiempo de aprovecharlo."
+      },
+      "start": 189.44,
+      "end": 191.52,
+      "words": [
+        {
+          "text": "En",
+          "start": 189.44,
+          "end": 189.6
+        },
+        {
+          "text": "trois",
+          "start": 189.6,
+          "end": 189.92
+        },
+        {
+          "text": "semaines",
+          "start": 189.92,
+          "end": 190.32
+        },
+        {
+          "text": "elle",
+          "start": 190.4,
+          "end": 190.64
+        },
+        {
+          "text": "a",
+          "start": 190.64,
+          "end": 190.88
+        },
+        {
+          "text": "eu",
+          "start": 190.88,
+          "end": 190.88
+        },
+        {
+          "text": "l'temps",
+          "start": 190.88,
+          "end": 190.88
+        },
+        {
+          "text": "d'en",
+          "start": 190.88,
+          "end": 190.88
+        },
+        {
+          "text": "profiter",
+          "start": 190.96,
+          "end": 191.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "En trois semaines,",
+          "translations": {
+            "zh": "三周的时间里，",
+            "en": "In three weeks,",
+            "es": "En tres semanas,"
+          },
+          "start": 189.44,
+          "end": 190.32
+        },
+        {
+          "text": "elle a eu l'temps d'en profiter.",
+          "translations": {
+            "zh": "她好好享受了一番。",
+            "en": "she had time to enjoy it.",
+            "es": "tuvo tiempo de aprovecharlo."
+          },
+          "start": 190.4,
+          "end": 191.52
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "text": "Elle a trouvé ça magnifique!",
+      "translations": {
+        "zh": "她觉得那里太棒了！",
+        "en": "She found it magnificent!",
+        "es": "¡Le pareció magnífico!"
+      },
+      "start": 191.92,
+      "end": 193.36,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 191.92,
+          "end": 191.92
+        },
+        {
+          "text": "a",
+          "start": 192.32,
+          "end": 192.32
+        },
+        {
+          "text": "trouvé",
+          "start": 192.32,
+          "end": 192.4
+        },
+        {
+          "text": "ça",
+          "start": 192.4,
+          "end": 192.56
+        },
+        {
+          "text": "magnifique",
+          "start": 192.56,
+          "end": 193.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle a trouvé ça magnifique!",
+          "translations": {
+            "zh": "她觉得那里太棒了！",
+            "en": "She found it magnificent!",
+            "es": "¡Le pareció magnífico!"
+          },
+          "start": 191.92,
+          "end": 193.36
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "text": "J'ai reçu une belle carte postale.",
+      "translations": {
+        "zh": "我收到了一张漂亮的明信片。",
+        "en": "I received a beautiful postcard.",
+        "es": "Recibí una bonita postal."
+      },
+      "start": 193.6,
+      "end": 195.52,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 193.6,
+          "end": 193.84
+        },
+        {
+          "text": "reçu",
+          "start": 194.08,
+          "end": 194.32
+        },
+        {
+          "text": "une",
+          "start": 194.32,
+          "end": 194.32
+        },
+        {
+          "text": "belle",
+          "start": 194.32,
+          "end": 194.56
+        },
+        {
+          "text": "carte",
+          "start": 194.56,
+          "end": 194.72
+        },
+        {
+          "text": "postale",
+          "start": 194.8,
+          "end": 195.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai reçu une belle carte postale.",
+          "translations": {
+            "zh": "我收到了一张漂亮的明信片。",
+            "en": "I received a beautiful postcard.",
+            "es": "Recibí una bonita postal."
+          },
+          "start": 193.6,
+          "end": 195.52
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "text": "Ah ben voyez, elle est accrochée là, d'ailleurs.",
+      "translations": {
+        "zh": "啊你看，它就挂在那里呢。",
+        "en": "Oh well see, it's hanging right there, as a matter of fact.",
+        "es": "Ah, pues mire, está colgada allí, de hecho."
+      },
+      "start": 196,
+      "end": 197.44,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 196,
+          "end": 196.08
+        },
+        {
+          "text": "ben",
+          "start": 196.08,
+          "end": 196.16
+        },
+        {
+          "text": "voyez",
+          "start": 196.24,
+          "end": 196.48
+        },
+        {
+          "text": "elle",
+          "start": 196.48,
+          "end": 196.48
+        },
+        {
+          "text": "est",
+          "start": 196.48,
+          "end": 196.64
+        },
+        {
+          "text": "accrochée",
+          "start": 196.64,
+          "end": 196.88
+        },
+        {
+          "text": "là",
+          "start": 196.88,
+          "end": 197.04
+        },
+        {
+          "text": "d'ailleurs",
+          "start": 197.04,
+          "end": 197.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah ben voyez,",
+          "translations": {
+            "zh": "啊你看，",
+            "en": "Oh well see,",
+            "es": "Ah, pues mire,"
+          },
+          "start": 196,
+          "end": 196.48
+        },
+        {
+          "text": "elle est accrochée là,",
+          "translations": {
+            "zh": "它就挂在那里，",
+            "en": "it's hanging right there,",
+            "es": "está colgada allí,"
+          },
+          "start": 196.48,
+          "end": 197.04
+        },
+        {
+          "text": "d'ailleurs.",
+          "translations": {
+            "zh": "对了。",
+            "en": "as a matter of fact.",
+            "es": "de hecho."
+          },
+          "start": 197.04,
+          "end": 197.44
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "text": "Vous reconnaissez?",
+      "translations": {
+        "zh": "您认出来了吗？",
+        "en": "Do you recognize it?",
+        "es": "¿Reconoce?"
+      },
+      "start": 197.76,
+      "end": 198.32,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 197.76,
+          "end": 197.76
+        },
+        {
+          "text": "reconnaissez",
+          "start": 197.76,
+          "end": 198.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous reconnaissez?",
+          "translations": {
+            "zh": "您认出来了吗？",
+            "en": "Do you recognize it?",
+            "es": "¿Reconoce?"
+          },
+          "start": 197.76,
+          "end": 198.32
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "text": "Bon, aujourd'hui, les gens n'écrivent plus de cartes, ils envoient des courriels...",
+      "translations": {
+        "zh": "好吧，现在人们不再写明信片了，都发电子邮件……",
+        "en": "Well, nowadays, people don't write postcards anymore, they send emails...",
+        "es": "Bueno, hoy en día, la gente ya no escribe tarjetas, envían correos electrónicos..."
+      },
+      "start": 199.36,
+      "end": 202.4,
+      "words": [
+        {
+          "text": "Bon",
+          "start": 199.36,
+          "end": 199.52
+        },
+        {
+          "text": "aujourd'hui",
+          "start": 199.52,
+          "end": 200.08
+        },
+        {
+          "text": "les",
+          "start": 200.08,
+          "end": 200.24
+        },
+        {
+          "text": "gens",
+          "start": 200.24,
+          "end": 200.4
+        },
+        {
+          "text": "n'écrivent",
+          "start": 200.4,
+          "end": 200.4
+        },
+        {
+          "text": "plus",
+          "start": 201.12,
+          "end": 201.44
+        },
+        {
+          "text": "de",
+          "start": 201.44,
+          "end": 202.24
+        },
+        {
+          "text": "cartes",
+          "start": 202.24,
+          "end": 202.24
+        },
+        {
+          "text": "ils",
+          "start": 202.24,
+          "end": 202.24
+        },
+        {
+          "text": "envoient",
+          "start": 202.24,
+          "end": 202.24
+        },
+        {
+          "text": "des",
+          "start": 202.24,
+          "end": 202.4
+        },
+        {
+          "text": "courriels",
+          "start": 202.4,
+          "end": 202.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bon, aujourd'hui,",
+          "translations": {
+            "zh": "好吧，现在，",
+            "en": "Well, nowadays,",
+            "es": "Bueno, hoy en día,"
+          },
+          "start": 199.36,
+          "end": 200.08
+        },
+        {
+          "text": "les gens n'écrivent plus de cartes,",
+          "translations": {
+            "zh": "人们不再写明信片了，",
+            "en": "people don't write postcards anymore,",
+            "es": "la gente ya no escribe tarjetas,"
+          },
+          "start": 200.08,
+          "end": 202.24
+        },
+        {
+          "text": "ils envoient des courriels...",
+          "translations": {
+            "zh": "都发电子邮件……",
+            "en": "they send emails...",
+            "es": "envían correos electrónicos..."
+          },
+          "start": 202.24,
+          "end": 202.4
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "text": "La dame à l'accueil était sympathique, mais elle parlait beaucoup!",
+      "translations": {
+        "zh": "前台的那位女士很友善，但她话很多！",
+        "en": "The lady at the front desk was nice, but she talked a lot!",
+        "es": "La señora de la recepción era amable, ¡pero hablaba mucho!"
+      },
+      "start": 202.4,
+      "end": 203.2,
+      "words": [
+        {
+          "text": "La",
+          "start": 202.4,
+          "end": 202.4
+        },
+        {
+          "text": "dame",
+          "start": 202.4,
+          "end": 202.4
+        },
+        {
+          "text": "à",
+          "start": 202.4,
+          "end": 202.4
+        },
+        {
+          "text": "l'accueil",
+          "start": 202.4,
+          "end": 202.4
+        },
+        {
+          "text": "était",
+          "start": 202.4,
+          "end": 202.4
+        },
+        {
+          "text": "sympathique",
+          "start": 202.4,
+          "end": 202.4
+        },
+        {
+          "text": "mais",
+          "start": 202.4,
+          "end": 202.44
+        },
+        {
+          "text": "elle",
+          "start": 202.48,
+          "end": 202.52
+        },
+        {
+          "text": "parlait",
+          "start": 202.56,
+          "end": 202.8
+        },
+        {
+          "text": "beaucoup",
+          "start": 202.8,
+          "end": 203.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La dame à l'accueil était sympathique,",
+          "translations": {
+            "zh": "前台的那位女士很友善，",
+            "en": "The lady at the front desk was nice,",
+            "es": "La señora de la recepción era amable,"
+          },
+          "start": 202.4,
+          "end": 202.4
+        },
+        {
+          "text": "mais elle parlait beaucoup!",
+          "translations": {
+            "zh": "但她话很多！",
+            "en": "but she talked a lot!",
+            "es": "¡pero hablaba mucho!"
+          },
+          "start": 202.4,
+          "end": 203.2
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "text": "Là, j'étais vraiment en retard à mon cours, et tu sais que je n'aime pas être en retard.",
+      "translations": {
+        "zh": "那时候，我上课真的迟到了，你知道我不喜欢迟到。",
+        "en": "There, I was really late for my class, and you know I don't like being late.",
+        "es": "En ese momento, estaba realmente tarde para mi clase, y sabes que no me gusta llegar tarde."
+      },
+      "start": 203.68,
+      "end": 207.2,
+      "words": [
+        {
+          "text": "Là",
+          "start": 203.68,
+          "end": 203.92
+        },
+        {
+          "text": "j'étais",
+          "start": 203.92,
+          "end": 204.16
+        },
+        {
+          "text": "vraiment",
+          "start": 204.16,
+          "end": 204.56
+        },
+        {
+          "text": "en",
+          "start": 204.56,
+          "end": 204.56
+        },
+        {
+          "text": "retard",
+          "start": 204.56,
+          "end": 204.88
+        },
+        {
+          "text": "à",
+          "start": 204.88,
+          "end": 204.96
+        },
+        {
+          "text": "mon",
+          "start": 204.96,
+          "end": 205.04
+        },
+        {
+          "text": "cours",
+          "start": 205.04,
+          "end": 205.44
+        },
+        {
+          "text": "et",
+          "start": 205.68,
+          "end": 205.84
+        },
+        {
+          "text": "tu",
+          "start": 205.84,
+          "end": 205.92
+        },
+        {
+          "text": "sais",
+          "start": 205.92,
+          "end": 206.16
+        },
+        {
+          "text": "que",
+          "start": 206.16,
+          "end": 206.24
+        },
+        {
+          "text": "je",
+          "start": 206.24,
+          "end": 206.4
+        },
+        {
+          "text": "n'aime",
+          "start": 206.4,
+          "end": 206.48
+        },
+        {
+          "text": "pas",
+          "start": 206.48,
+          "end": 206.72
+        },
+        {
+          "text": "être",
+          "start": 206.72,
+          "end": 206.8
+        },
+        {
+          "text": "en",
+          "start": 206.8,
+          "end": 206.8
+        },
+        {
+          "text": "retard",
+          "start": 206.88,
+          "end": 207.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Là,",
+          "translations": {
+            "zh": "那时候，",
+            "en": "There,",
+            "es": "En ese momento,"
+          },
+          "start": 203.68,
+          "end": 203.92
+        },
+        {
+          "text": "j'étais vraiment en retard à mon cours,",
+          "translations": {
+            "zh": "我上课真的迟到了，",
+            "en": "I was really late for my class,",
+            "es": "estaba realmente tarde para mi clase,"
+          },
+          "start": 203.92,
+          "end": 205.44
+        },
+        {
+          "text": "et tu sais que je n'aime pas être en retard.",
+          "translations": {
+            "zh": "你知道我不喜欢迟到。",
+            "en": "and you know I don't like being late.",
+            "es": "y sabes que no me gusta llegar tarde."
+          },
+          "start": 205.68,
+          "end": 207.2
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "text": "Je me disais \" Yacine, ne stresse pas, cette conversation va bien finir par s'arrêter!",
+      "translations": {
+        "zh": "我对自己说\" Yacine，别紧张，这段对话迟早会结束的！",
+        "en": "I was telling myself \" Yacine, don't stress, this conversation is going to eventually stop!",
+        "es": "Me decía \" Yacine, no te estreses, ¡esta conversación tiene que terminar de una vez!"
+      },
+      "start": 207.44,
+      "end": 211.68,
+      "words": [
+        {
+          "text": "Je",
+          "start": 207.44,
+          "end": 207.52
+        },
+        {
+          "text": "me",
+          "start": 207.52,
+          "end": 207.6
+        },
+        {
+          "text": "disais",
+          "start": 207.6,
+          "end": 208.08
+        },
+        {
+          "text": "Yacine",
+          "start": 208.48,
+          "end": 208.62
+        },
+        {
+          "text": "ne",
+          "start": 208.76,
+          "end": 208.9
+        },
+        {
+          "text": "stresse",
+          "start": 209.04,
+          "end": 209.44
+        },
+        {
+          "text": "pas",
+          "start": 209.44,
+          "end": 209.68
+        },
+        {
+          "text": "cette",
+          "start": 209.68,
+          "end": 209.84
+        },
+        {
+          "text": "conversation",
+          "start": 209.84,
+          "end": 210.4
+        },
+        {
+          "text": "va",
+          "start": 210.4,
+          "end": 210.56
+        },
+        {
+          "text": "bien",
+          "start": 210.56,
+          "end": 210.8
+        },
+        {
+          "text": "finir",
+          "start": 210.8,
+          "end": 211.12
+        },
+        {
+          "text": "par",
+          "start": 211.12,
+          "end": 211.28
+        },
+        {
+          "text": "s'arrêter",
+          "start": 211.28,
+          "end": 211.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je me disais \"",
+          "translations": {
+            "zh": "我对自己说\"",
+            "en": "I was telling myself \"",
+            "es": "Me decía \""
+          },
+          "start": 207.44,
+          "end": 208.08
+        },
+        {
+          "text": "Yacine, ne stresse pas,",
+          "translations": {
+            "zh": "Yacine，别紧张，",
+            "en": "Yacine, don't stress,",
+            "es": "Yacine, no te estreses,"
+          },
+          "start": 208.48,
+          "end": 209.68
+        },
+        {
+          "text": "cette conversation va bien finir par s'arrêter!",
+          "translations": {
+            "zh": "这段对话迟早会结束的！",
+            "en": "this conversation is going to eventually stop!",
+            "es": "¡esta conversación tiene que terminar de una vez!"
+          },
+          "start": 209.68,
+          "end": 211.68
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "text": "En tout cas ma belle sœur était bien contente de son voyage",
+      "translations": {
+        "zh": "总之我嫂子对她的旅行非常满意",
+        "en": "In any case my sister-in-law was really happy with her trip",
+        "es": "En todo caso mi cuñada estaba muy contenta con su viaje"
+      },
+      "start": 214.08,
+      "end": 216.72,
+      "words": [
+        {
+          "text": "En",
+          "start": 214.08,
+          "end": 214.24
+        },
+        {
+          "text": "tout",
+          "start": 214.24,
+          "end": 214.48
+        },
+        {
+          "text": "cas",
+          "start": 214.48,
+          "end": 214.48
+        },
+        {
+          "text": "ma",
+          "start": 215.2,
+          "end": 215.28
+        },
+        {
+          "text": "belle",
+          "start": 215.28,
+          "end": 215.44
+        },
+        {
+          "text": "sœur",
+          "start": 215.44,
+          "end": 215.68
+        },
+        {
+          "text": "était",
+          "start": 215.68,
+          "end": 215.92
+        },
+        {
+          "text": "bien",
+          "start": 215.92,
+          "end": 216.08
+        },
+        {
+          "text": "contente",
+          "start": 216.08,
+          "end": 216.48
+        },
+        {
+          "text": "de",
+          "start": 216.48,
+          "end": 216.64
+        },
+        {
+          "text": "son",
+          "start": 216.64,
+          "end": 216.72
+        },
+        {
+          "text": "voyage",
+          "start": 216.72,
+          "end": 216.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "En tout cas",
+          "translations": {
+            "zh": "总之",
+            "en": "In any case",
+            "es": "En todo caso"
+          },
+          "start": 214.08,
+          "end": 214.48
+        },
+        {
+          "text": "ma belle sœur était bien contente de son voyage",
+          "translations": {
+            "zh": "我嫂子对她的旅行非常满意",
+            "en": "my sister-in-law was really happy with her trip",
+            "es": "mi cuñada estaba muy contenta con su viaje"
+          },
+          "start": 215.2,
+          "end": 216.72
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "text": "Vous venez d'un beau pays madame",
+      "translations": {
+        "zh": "您来自一个美丽的国家，女士",
+        "en": "You come from a beautiful country ma'am",
+        "es": "Viene de un país hermoso, señora"
+      },
+      "start": 218.08,
+      "end": 219.76,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 218.08,
+          "end": 218.08
+        },
+        {
+          "text": "venez",
+          "start": 218.08,
+          "end": 218.32
+        },
+        {
+          "text": "d'un",
+          "start": 218.4,
+          "end": 218.64
+        },
+        {
+          "text": "beau",
+          "start": 218.64,
+          "end": 218.88
+        },
+        {
+          "text": "pays",
+          "start": 218.88,
+          "end": 219.28
+        },
+        {
+          "text": "madame",
+          "start": 219.28,
+          "end": 219.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous venez d'un beau pays",
+          "translations": {
+            "zh": "您来自一个美丽的国家",
+            "en": "You come from a beautiful country",
+            "es": "Viene de un país hermoso,"
+          },
+          "start": 218.08,
+          "end": 219.28
+        },
+        {
+          "text": "madame",
+          "translations": {
+            "zh": "女士",
+            "en": "ma'am",
+            "es": "señora"
+          },
+          "start": 219.28,
+          "end": 219.76
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "text": "Oui c'est vrai",
+      "translations": {
+        "zh": "是的，确实",
+        "en": "Yes it's true",
+        "es": "Sí, es verdad"
+      },
+      "start": 219.84,
+      "end": 220.48,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 219.84,
+          "end": 220.24
+        },
+        {
+          "text": "c'est",
+          "start": 220.32,
+          "end": 220.48
+        },
+        {
+          "text": "vrai",
+          "start": 220.48,
+          "end": 220.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui c'est vrai",
+          "translations": {
+            "zh": "是的，确实",
+            "en": "Yes it's true",
+            "es": "Sí, es verdad"
+          },
+          "start": 219.84,
+          "end": 220.48
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "text": "Est ce que c'est bon pour mon annulation",
+      "translations": {
+        "zh": "我的取消手续办好了吗",
+        "en": "Is everything good for my cancellation",
+        "es": "¿Está bien para mi cancelación"
+      },
+      "start": 220.8,
+      "end": 224.16,
+      "words": [
+        {
+          "text": "Est",
+          "start": 220.8,
+          "end": 221.44
+        },
+        {
+          "text": "ce",
+          "start": 221.44,
+          "end": 222.4
+        },
+        {
+          "text": "que",
+          "start": 222.4,
+          "end": 222.56
+        },
+        {
+          "text": "c'est",
+          "start": 222.56,
+          "end": 222.72
+        },
+        {
+          "text": "bon",
+          "start": 222.72,
+          "end": 223.04
+        },
+        {
+          "text": "pour",
+          "start": 223.2,
+          "end": 223.28
+        },
+        {
+          "text": "mon",
+          "start": 223.36,
+          "end": 223.44
+        },
+        {
+          "text": "annulation",
+          "start": 223.44,
+          "end": 224.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est ce que c'est bon",
+          "translations": {
+            "zh": "办好了吗",
+            "en": "Is everything good",
+            "es": "¿Está bien"
+          },
+          "start": 220.8,
+          "end": 223.04
+        },
+        {
+          "text": "pour mon annulation",
+          "translations": {
+            "zh": "我的取消手续",
+            "en": "for my cancellation",
+            "es": "para mi cancelación"
+          },
+          "start": 223.2,
+          "end": 224.16
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "text": "Oui tout est beau",
+      "translations": {
+        "zh": "是的，都办好了",
+        "en": "Yes everything is fine",
+        "es": "Sí, todo está bien"
+      },
+      "start": 224.32,
+      "end": 225.6,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 224.32,
+          "end": 224.56
+        },
+        {
+          "text": "tout",
+          "start": 224.96,
+          "end": 225.12
+        },
+        {
+          "text": "est",
+          "start": 225.12,
+          "end": 225.36
+        },
+        {
+          "text": "beau",
+          "start": 225.36,
+          "end": 225.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui tout est beau",
+          "translations": {
+            "zh": "是的，都办好了",
+            "en": "Yes everything is fine",
+            "es": "Sí, todo está bien"
+          },
+          "start": 224.32,
+          "end": 225.6
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "text": "Parfait",
+      "translations": {
+        "zh": "完美",
+        "en": "Perfect",
+        "es": "Perfecto"
+      },
+      "start": 225.84,
+      "end": 226.24,
+      "words": [
+        {
+          "text": "Parfait",
+          "start": 225.84,
+          "end": 226.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Parfait",
+          "translations": {
+            "zh": "完美",
+            "en": "Perfect",
+            "es": "Perfecto"
+          },
+          "start": 225.84,
+          "end": 226.24
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "text": "Je vous remercie",
+      "translations": {
+        "zh": "谢谢您",
+        "en": "Thank you",
+        "es": "Le doy las gracias"
+      },
+      "start": 226.8,
+      "end": 227.6,
+      "words": [
+        {
+          "text": "Je",
+          "start": 226.8,
+          "end": 226.8
+        },
+        {
+          "text": "vous",
+          "start": 226.8,
+          "end": 226.8
+        },
+        {
+          "text": "remercie",
+          "start": 226.96,
+          "end": 227.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vous remercie",
+          "translations": {
+            "zh": "谢谢您",
+            "en": "Thank you",
+            "es": "Le doy las gracias"
+          },
+          "start": 226.8,
+          "end": 227.6
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "text": "Bonne soirée madame",
+      "translations": {
+        "zh": "祝您晚安，女士",
+        "en": "Have a good evening ma'am",
+        "es": "Buena tarde, señora"
+      },
+      "start": 228.48,
+      "end": 229.44,
+      "words": [
+        {
+          "text": "Bonne",
+          "start": 228.48,
+          "end": 228.64
+        },
+        {
+          "text": "soirée",
+          "start": 228.64,
+          "end": 229.04
+        },
+        {
+          "text": "madame",
+          "start": 229.04,
+          "end": 229.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonne soirée",
+          "translations": {
+            "zh": "祝您晚安",
+            "en": "Have a good evening",
+            "es": "Buena tarde,"
+          },
+          "start": 228.48,
+          "end": 229.04
+        },
+        {
+          "text": "madame",
+          "translations": {
+            "zh": "女士",
+            "en": "ma'am",
+            "es": "señora"
+          },
+          "start": 229.04,
+          "end": 229.44
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "text": "Bonne soirée",
+      "translations": {
+        "zh": "晚安",
+        "en": "Have a good evening",
+        "es": "Buena tarde"
+      },
+      "start": 229.44,
+      "end": 230.96,
+      "words": [
+        {
+          "text": "Bonne",
+          "start": 229.44,
+          "end": 229.44
+        },
+        {
+          "text": "soirée",
+          "start": 230.32,
+          "end": 230.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonne soirée",
+          "translations": {
+            "zh": "晚安",
+            "en": "Have a good evening",
+            "es": "Buena tarde"
+          },
+          "start": 229.44,
+          "end": 230.96
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "text": "Et bonne chance",
+      "translations": {
+        "zh": "祝好运",
+        "en": "And good luck",
+        "es": "Y buena suerte"
+      },
+      "start": 231.36,
+      "end": 232.4,
+      "words": [
+        {
+          "text": "Et",
+          "start": 231.36,
+          "end": 231.52
+        },
+        {
+          "text": "bonne",
+          "start": 231.52,
+          "end": 231.76
+        },
+        {
+          "text": "chance",
+          "start": 231.76,
+          "end": 232.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et bonne chance",
+          "translations": {
+            "zh": "祝好运",
+            "en": "And good luck",
+            "es": "Y buena suerte"
+          },
+          "start": 231.36,
+          "end": 232.4
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "text": "Merci",
+      "translations": {
+        "zh": "谢谢",
+        "en": "Thank you",
+        "es": "Gracias"
+      },
+      "start": 232.72,
+      "end": 233.36,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 232.72,
+          "end": 233.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci",
+          "translations": {
+            "zh": "谢谢",
+            "en": "Thank you",
+            "es": "Gracias"
+          },
+          "start": 232.72,
+          "end": 233.36
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "text": "Épisode 1 La première rencontre Elle s'est approchée de moi avec son sourire agaçant",
+      "translations": {
+        "zh": "第一集 第一次相遇 她带着令人生气的笑容向我走来",
+        "en": "Episode 1 The first encounter She approached me with her annoying smile",
+        "es": "Episodio 1 El primer encuentro Se acercó a mí con su sonrisa molesta"
+      },
+      "start": 233.36,
+      "end": 237.04,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 233.36,
+          "end": 233.36
+        },
+        {
+          "text": "1",
+          "start": 233.36,
+          "end": 233.36
+        },
+        {
+          "text": "La",
+          "start": 233.36,
+          "end": 233.36
+        },
+        {
+          "text": "première",
+          "start": 233.36,
+          "end": 233.36
+        },
+        {
+          "text": "rencontre",
+          "start": 233.36,
+          "end": 233.36
+        },
+        {
+          "text": "Elle",
+          "start": 233.36,
+          "end": 233.36
+        },
+        {
+          "text": "s'est",
+          "start": 233.36,
+          "end": 233.36
+        },
+        {
+          "text": "approchée",
+          "start": 235.12,
+          "end": 235.52
+        },
+        {
+          "text": "de",
+          "start": 235.6,
+          "end": 235.6
+        },
+        {
+          "text": "moi",
+          "start": 235.6,
+          "end": 235.76
+        },
+        {
+          "text": "avec",
+          "start": 235.76,
+          "end": 235.92
+        },
+        {
+          "text": "son",
+          "start": 235.92,
+          "end": 235.92
+        },
+        {
+          "text": "sourire",
+          "start": 236.16,
+          "end": 236.56
+        },
+        {
+          "text": "agaçant",
+          "start": 236.64,
+          "end": 237.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 1 La première rencontre",
+          "translations": {
+            "zh": "第一集 第一次相遇",
+            "en": "Episode 1 The first encounter",
+            "es": "Episodio 1 El primer encuentro"
+          },
+          "start": 233.36,
+          "end": 233.36
+        },
+        {
+          "text": "Elle s'est approchée de moi",
+          "translations": {
+            "zh": "她向我走来",
+            "en": "She approached me",
+            "es": "Se acercó a mí"
+          },
+          "start": 233.36,
+          "end": 235.76
+        },
+        {
+          "text": "avec son sourire agaçant",
+          "translations": {
+            "zh": "带着令人生气的笑容",
+            "en": "with her annoying smile",
+            "es": "con su sonrisa molesta"
+          },
+          "start": 235.76,
+          "end": 237.04
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "text": "Je l'ai regardée et je lui ai dit tout bas L'avantage d'un courriel c'est que c'est simple",
+      "translations": {
+        "zh": "我看着她，低声对她说 电子邮件的好处就是简单",
+        "en": "I looked at her and I said to her quietly The advantage of an email is that it's simple",
+        "es": "La miré y le dije en voz baja La ventaja de un correo electrónico es que es simple"
+      },
+      "start": 237.68,
+      "end": 242.4,
+      "words": [
+        {
+          "text": "Je",
+          "start": 237.68,
+          "end": 237.68
+        },
+        {
+          "text": "l'ai",
+          "start": 237.68,
+          "end": 237.76
+        },
+        {
+          "text": "regardée",
+          "start": 237.84,
+          "end": 238.4
+        },
+        {
+          "text": "et",
+          "start": 238.96,
+          "end": 239.04
+        },
+        {
+          "text": "je",
+          "start": 239.04,
+          "end": 239.2
+        },
+        {
+          "text": "lui",
+          "start": 239.2,
+          "end": 239.36
+        },
+        {
+          "text": "ai",
+          "start": 239.36,
+          "end": 239.36
+        },
+        {
+          "text": "dit",
+          "start": 239.36,
+          "end": 239.52
+        },
+        {
+          "text": "tout",
+          "start": 239.52,
+          "end": 239.68
+        },
+        {
+          "text": "bas",
+          "start": 239.68,
+          "end": 239.92
+        },
+        {
+          "text": "L'avantage",
+          "start": 240.56,
+          "end": 241.12
+        },
+        {
+          "text": "d'un",
+          "start": 241.12,
+          "end": 241.2
+        },
+        {
+          "text": "courriel",
+          "start": 241.2,
+          "end": 241.68
+        },
+        {
+          "text": "c'est",
+          "start": 241.68,
+          "end": 241.92
+        },
+        {
+          "text": "que",
+          "start": 241.92,
+          "end": 241.92
+        },
+        {
+          "text": "c'est",
+          "start": 241.92,
+          "end": 242
+        },
+        {
+          "text": "simple",
+          "start": 242,
+          "end": 242.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je l'ai regardée",
+          "translations": {
+            "zh": "我看着她",
+            "en": "I looked at her",
+            "es": "La miré"
+          },
+          "start": 237.68,
+          "end": 238.4
+        },
+        {
+          "text": "et je lui ai dit tout bas",
+          "translations": {
+            "zh": "低声对她说",
+            "en": "and I said to her quietly",
+            "es": "y le dije en voz baja"
+          },
+          "start": 238.96,
+          "end": 239.92
+        },
+        {
+          "text": "L'avantage d'un courriel",
+          "translations": {
+            "zh": "电子邮件的好处",
+            "en": "The advantage of an email",
+            "es": "La ventaja de un correo electrónico"
+          },
+          "start": 240.56,
+          "end": 241.68
+        },
+        {
+          "text": "c'est que c'est simple",
+          "translations": {
+            "zh": "就是简单",
+            "en": "is that it's simple",
+            "es": "es que es simple"
+          },
+          "start": 241.68,
+          "end": 242.4
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "text": "et très rapide",
+      "translations": {
+        "zh": "而且非常快",
+        "en": "and very fast",
+        "es": "y muy rápido"
+      },
+      "start": 242.64,
+      "end": 243.52,
+      "words": [
+        {
+          "text": "et",
+          "start": 242.64,
+          "end": 242.8
+        },
+        {
+          "text": "très",
+          "start": 242.8,
+          "end": 243.12
+        },
+        {
+          "text": "rapide",
+          "start": 243.12,
+          "end": 243.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "et très rapide",
+          "translations": {
+            "zh": "而且非常快",
+            "en": "and very fast",
+            "es": "y muy rápido"
+          },
+          "start": 242.64,
+          "end": 243.52
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "text": "Monsieur",
+      "translations": {
+        "zh": "先生",
+        "en": "Sir",
+        "es": "Señor"
+      },
+      "start": 243.52,
+      "end": 247.2,
+      "words": [
+        {
+          "text": "Monsieur",
+          "start": 243.52,
+          "end": 247.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Monsieur",
+          "translations": {
+            "zh": "先生",
+            "en": "Sir",
+            "es": "Señor"
+          },
+          "start": 243.52,
+          "end": 247.2
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "text": "Je peux vous aider",
+      "translations": {
+        "zh": "我能帮您吗",
+        "en": "I can help you",
+        "es": "Puedo ayudarle"
+      },
+      "start": 247.2,
+      "end": 248.8,
+      "words": [
+        {
+          "text": "Je",
+          "start": 247.2,
+          "end": 248.16
+        },
+        {
+          "text": "peux",
+          "start": 248.16,
+          "end": 248.32
+        },
+        {
+          "text": "vous",
+          "start": 248.32,
+          "end": 248.48
+        },
+        {
+          "text": "aider",
+          "start": 248.48,
+          "end": 248.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je peux vous aider",
+          "translations": {
+            "zh": "我能帮您吗",
+            "en": "I can help you",
+            "es": "Puedo ayudarle"
+          },
+          "start": 247.2,
+          "end": 248.8
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "text": "Euh",
+      "translations": {
+        "zh": "呃",
+        "en": "Uh",
+        "es": "Eh"
+      },
+      "start": 249.36,
+      "end": 249.6,
+      "words": [
+        {
+          "text": "Euh",
+          "start": 249.36,
+          "end": 249.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Euh",
+          "translations": {
+            "zh": "呃",
+            "en": "Uh",
+            "es": "Eh"
+          },
+          "start": 249.36,
+          "end": 249.6
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "text": "Oui excusez moi",
+      "translations": {
+        "zh": "是的，对不起",
+        "en": "Yes excuse me",
+        "es": "Sí, discúlpeme"
+      },
+      "start": 250.16,
+      "end": 251.36,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 250.16,
+          "end": 250.4
+        },
+        {
+          "text": "excusez",
+          "start": 250.8,
+          "end": 250.8
+        },
+        {
+          "text": "moi",
+          "start": 251.2,
+          "end": 251.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui",
+          "translations": {
+            "zh": "是的",
+            "en": "Yes",
+            "es": "Sí,"
+          },
+          "start": 250.16,
+          "end": 250.4
+        },
+        {
+          "text": "excusez moi",
+          "translations": {
+            "zh": "对不起",
+            "en": "excuse me",
+            "es": "discúlpeme"
+          },
+          "start": 250.8,
+          "end": 251.36
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "text": "La salle pour le cours de français spécialisé s'il vous plaît",
+      "translations": {
+        "zh": "请问专业法语课程的教室在哪",
+        "en": "The room for the specialized French course please",
+        "es": "El aula para el curso de francés especializado, por favor"
+      },
+      "start": 252.08,
+      "end": 254.32,
+      "words": [
+        {
+          "text": "La",
+          "start": 252.08,
+          "end": 252.32
+        },
+        {
+          "text": "salle",
+          "start": 252.32,
+          "end": 252.4
+        },
+        {
+          "text": "pour",
+          "start": 252.4,
+          "end": 252.56
+        },
+        {
+          "text": "le",
+          "start": 252.56,
+          "end": 252.64
+        },
+        {
+          "text": "cours",
+          "start": 252.64,
+          "end": 252.8
+        },
+        {
+          "text": "de",
+          "start": 252.8,
+          "end": 252.88
+        },
+        {
+          "text": "français",
+          "start": 252.88,
+          "end": 253.2
+        },
+        {
+          "text": "spécialisé",
+          "start": 253.28,
+          "end": 253.84
+        },
+        {
+          "text": "s'il",
+          "start": 253.84,
+          "end": 254
+        },
+        {
+          "text": "vous",
+          "start": 254,
+          "end": 254.16
+        },
+        {
+          "text": "plaît",
+          "start": 254.16,
+          "end": 254.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La salle pour le cours de français spécialisé",
+          "translations": {
+            "zh": "专业法语课程的教室",
+            "en": "The room for the specialized French course",
+            "es": "El aula para el curso de francés especializado,"
+          },
+          "start": 252.08,
+          "end": 253.84
+        },
+        {
+          "text": "s'il vous plaît",
+          "translations": {
+            "zh": "请问",
+            "en": "please",
+            "es": "por favor"
+          },
+          "start": 253.84,
+          "end": 254.32
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "text": "C'est écrit A102 mais je ne la trouve pas",
+      "translations": {
+        "zh": "上面写着A102，但我找不到",
+        "en": "It says A102 but I can't find it",
+        "es": "Está escrito A102 pero no la encuentro"
+      },
+      "start": 254.96,
+      "end": 257.52,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 254.96,
+          "end": 254.96
+        },
+        {
+          "text": "écrit",
+          "start": 255.12,
+          "end": 255.6
+        },
+        {
+          "text": "A102",
+          "start": 255.84,
+          "end": 256.72
+        },
+        {
+          "text": "mais",
+          "start": 256.72,
+          "end": 256.96
+        },
+        {
+          "text": "je",
+          "start": 256.96,
+          "end": 256.986
+        },
+        {
+          "text": "ne",
+          "start": 257.013,
+          "end": 257.04
+        },
+        {
+          "text": "la",
+          "start": 257.066,
+          "end": 257.093
+        },
+        {
+          "text": "trouve",
+          "start": 257.12,
+          "end": 257.36
+        },
+        {
+          "text": "pas",
+          "start": 257.36,
+          "end": 257.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est écrit A102",
+          "translations": {
+            "zh": "上面写着A102",
+            "en": "It says A102",
+            "es": "Está escrito A102"
+          },
+          "start": 254.96,
+          "end": 256.72
+        },
+        {
+          "text": "mais je ne la trouve pas",
+          "translations": {
+            "zh": "但我找不到",
+            "en": "but I can't find it",
+            "es": "pero no la encuentro"
+          },
+          "start": 256.72,
+          "end": 257.52
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "text": "Eh bien vous montez l'escalier à droite jusqu'au premier étage",
+      "translations": {
+        "zh": "那您走右边的楼梯上去，一直到二楼",
+        "en": "Well you go up the stairs on the right up to the first floor",
+        "es": "Bueno, sube las escaleras a la derecha hasta el primer piso"
+      },
+      "start": 258.08,
+      "end": 260.56,
+      "words": [
+        {
+          "text": "Eh",
+          "start": 258.08,
+          "end": 258.16
+        },
+        {
+          "text": "bien",
+          "start": 258.16,
+          "end": 258.32
+        },
+        {
+          "text": "vous",
+          "start": 258.32,
+          "end": 258.32
+        },
+        {
+          "text": "montez",
+          "start": 258.4,
+          "end": 258.72
+        },
+        {
+          "text": "l'escalier",
+          "start": 258.72,
+          "end": 259.28
+        },
+        {
+          "text": "à",
+          "start": 259.28,
+          "end": 259.36
+        },
+        {
+          "text": "droite",
+          "start": 259.36,
+          "end": 259.76
+        },
+        {
+          "text": "jusqu'au",
+          "start": 260,
+          "end": 260.32
+        },
+        {
+          "text": "premier",
+          "start": 260.32,
+          "end": 260.32
+        },
+        {
+          "text": "étage",
+          "start": 260.56,
+          "end": 260.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Eh bien vous montez l'escalier à droite",
+          "translations": {
+            "zh": "那您走右边的楼梯上去",
+            "en": "Well you go up the stairs on the right",
+            "es": "Bueno, sube las escaleras a la derecha"
+          },
+          "start": 258.08,
+          "end": 259.76
+        },
+        {
+          "text": "jusqu'au premier étage",
+          "translations": {
+            "zh": "一直到二楼",
+            "en": "up to the first floor",
+            "es": "hasta el primer piso"
+          },
+          "start": 260,
+          "end": 260.56
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "text": "Ensuite prenez le corridor à gauche puis continuez tout droit jusqu'au bout",
+      "translations": {
+        "zh": "然后走左边的走廊，一直走到尽头",
+        "en": "Then take the corridor on the left then continue straight ahead to the end",
+        "es": "Luego toma el pasillo a la izquierda y luego sigue todo recto hasta el final"
+      },
+      "start": 261.44,
+      "end": 265.14,
+      "words": [
+        {
+          "text": "Ensuite",
+          "start": 261.44,
+          "end": 261.6
+        },
+        {
+          "text": "prenez",
+          "start": 261.76,
+          "end": 261.92
+        },
+        {
+          "text": "le",
+          "start": 262.08,
+          "end": 262.24
+        },
+        {
+          "text": "corridor",
+          "start": 262.4,
+          "end": 262.56
+        },
+        {
+          "text": "à",
+          "start": 262.72,
+          "end": 262.88
+        },
+        {
+          "text": "gauche",
+          "start": 262.88,
+          "end": 263.36
+        },
+        {
+          "text": "puis",
+          "start": 263.36,
+          "end": 263.44
+        },
+        {
+          "text": "continuez",
+          "start": 263.44,
+          "end": 263.84
+        },
+        {
+          "text": "tout",
+          "start": 263.84,
+          "end": 263.94
+        },
+        {
+          "text": "droit",
+          "start": 264.04,
+          "end": 264.14
+        },
+        {
+          "text": "jusqu'au",
+          "start": 264.24,
+          "end": 264.54
+        },
+        {
+          "text": "bout",
+          "start": 264.84,
+          "end": 265.14
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ensuite prenez le corridor à gauche",
+          "translations": {
+            "zh": "然后走左边的走廊",
+            "en": "Then take the corridor on the left",
+            "es": "Luego toma el pasillo a la izquierda"
+          },
+          "start": 261.44,
+          "end": 263.36
+        },
+        {
+          "text": "puis continuez tout droit jusqu'au bout",
+          "translations": {
+            "zh": "一直走到尽头",
+            "en": "then continue straight ahead to the end",
+            "es": "y luego sigue todo recto hasta el final"
+          },
+          "start": 263.36,
+          "end": 265.14
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "text": "Vous verrez c'est indiqué",
+      "translations": {
+        "zh": "您会看到的，有指示标志",
+        "en": "You'll see it's indicated",
+        "es": "Verá, está indicado"
+      },
+      "start": 265.44,
+      "end": 266.4,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 265.44,
+          "end": 265.52
+        },
+        {
+          "text": "verrez",
+          "start": 265.52,
+          "end": 265.64
+        },
+        {
+          "text": "c'est",
+          "start": 265.76,
+          "end": 265.88
+        },
+        {
+          "text": "indiqué",
+          "start": 266,
+          "end": 266.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous verrez",
+          "translations": {
+            "zh": "您会看到",
+            "en": "You'll see",
+            "es": "Verá,"
+          },
+          "start": 265.44,
+          "end": 265.64
+        },
+        {
+          "text": "c'est indiqué",
+          "translations": {
+            "zh": "有指示标志",
+            "en": "it's indicated",
+            "es": "está indicado"
+          },
+          "start": 265.76,
+          "end": 266.4
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "text": "Ah c'est au premier étage",
+      "translations": {
+        "zh": "啊，是在二楼",
+        "en": "Oh it's on the first floor",
+        "es": "Ah, está en el primer piso"
+      },
+      "start": 266.4,
+      "end": 268.453,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 266.4,
+          "end": 267.2
+        },
+        {
+          "text": "c'est",
+          "start": 267.2,
+          "end": 267.52
+        },
+        {
+          "text": "au",
+          "start": 267.52,
+          "end": 267.706
+        },
+        {
+          "text": "premier",
+          "start": 267.893,
+          "end": 268.08
+        },
+        {
+          "text": "étage",
+          "start": 268.266,
+          "end": 268.453
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah c'est au premier étage",
+          "translations": {
+            "zh": "啊，是在二楼",
+            "en": "Oh it's on the first floor",
+            "es": "Ah, está en el primer piso"
+          },
+          "start": 266.4,
+          "end": 268.453
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "text": "Je croyais que c'était au rez de chaussée",
+      "translations": {
+        "zh": "我以为是在一楼",
+        "en": "I thought it was on the ground floor",
+        "es": "Creía que estaba en la planta baja"
+      },
+      "start": 268.64,
+      "end": 269.92,
+      "words": [
+        {
+          "text": "Je",
+          "start": 268.64,
+          "end": 268.826
+        },
+        {
+          "text": "croyais",
+          "start": 269.013,
+          "end": 269.2
+        },
+        {
+          "text": "que",
+          "start": 269.2,
+          "end": 269.2
+        },
+        {
+          "text": "c'était",
+          "start": 269.2,
+          "end": 269.2
+        },
+        {
+          "text": "au",
+          "start": 269.52,
+          "end": 269.52
+        },
+        {
+          "text": "rez",
+          "start": 269.52,
+          "end": 269.68
+        },
+        {
+          "text": "de",
+          "start": 269.68,
+          "end": 269.68
+        },
+        {
+          "text": "chaussée",
+          "start": 269.68,
+          "end": 269.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je croyais que c'était",
+          "translations": {
+            "zh": "我以为是在",
+            "en": "I thought it was",
+            "es": "Creía que estaba"
+          },
+          "start": 268.64,
+          "end": 269.2
+        },
+        {
+          "text": "au rez de chaussée",
+          "translations": {
+            "zh": "一楼",
+            "en": "on the ground floor",
+            "es": "en la planta baja"
+          },
+          "start": 269.52,
+          "end": 269.92
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "text": "Est ce que ce sera toujours dans cette salle",
+      "translations": {
+        "zh": "会一直在那间教室吗",
+        "en": "Will it always be in this room",
+        "es": "¿Será siempre en esta aula"
+      },
+      "start": 270.16,
+      "end": 272.08,
+      "words": [
+        {
+          "text": "Est",
+          "start": 270.16,
+          "end": 270.4
+        },
+        {
+          "text": "ce",
+          "start": 270.64,
+          "end": 271.04
+        },
+        {
+          "text": "que",
+          "start": 271.04,
+          "end": 271.04
+        },
+        {
+          "text": "ce",
+          "start": 271.04,
+          "end": 271.04
+        },
+        {
+          "text": "sera",
+          "start": 271.04,
+          "end": 271.155
+        },
+        {
+          "text": "toujours",
+          "start": 271.271,
+          "end": 271.386
+        },
+        {
+          "text": "dans",
+          "start": 271.502,
+          "end": 271.617
+        },
+        {
+          "text": "cette",
+          "start": 271.733,
+          "end": 271.848
+        },
+        {
+          "text": "salle",
+          "start": 271.964,
+          "end": 272.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est ce que ce sera toujours",
+          "translations": {
+            "zh": "会一直在",
+            "en": "Will it always be",
+            "es": "¿Será siempre"
+          },
+          "start": 270.16,
+          "end": 271.386
+        },
+        {
+          "text": "dans cette salle",
+          "translations": {
+            "zh": "那间教室吗",
+            "en": "in this room",
+            "es": "en esta aula"
+          },
+          "start": 271.502,
+          "end": 272.08
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "text": "Normalement oui",
+      "translations": {
+        "zh": "正常情况下是的",
+        "en": "Normally yes",
+        "es": "Normalmente sí"
+      },
+      "start": 272.36,
+      "end": 273.2,
+      "words": [
+        {
+          "text": "Normalement",
+          "start": 272.36,
+          "end": 272.64
+        },
+        {
+          "text": "oui",
+          "start": 272.92,
+          "end": 273.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Normalement oui",
+          "translations": {
+            "zh": "正常情况下是的",
+            "en": "Normally yes",
+            "es": "Normalmente sí"
+          },
+          "start": 272.36,
+          "end": 273.2
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "text": "S'il y a des changements vous serez avisé par courriel",
+      "translations": {
+        "zh": "如果有变动，您会通过电子邮件收到通知",
+        "en": "If there are any changes you will be notified by email",
+        "es": "Si hay cambios, será avisado por correo electrónico"
+      },
+      "start": 273.313,
+      "end": 275.74,
+      "words": [
+        {
+          "text": "S'il",
+          "start": 273.313,
+          "end": 273.427
+        },
+        {
+          "text": "y",
+          "start": 273.541,
+          "end": 273.654
+        },
+        {
+          "text": "a",
+          "start": 273.768,
+          "end": 273.882
+        },
+        {
+          "text": "des",
+          "start": 273.995,
+          "end": 274.109
+        },
+        {
+          "text": "changements",
+          "start": 274.223,
+          "end": 274.336
+        },
+        {
+          "text": "vous",
+          "start": 274.45,
+          "end": 274.564
+        },
+        {
+          "text": "serez",
+          "start": 274.677,
+          "end": 274.791
+        },
+        {
+          "text": "avisé",
+          "start": 274.905,
+          "end": 275.018
+        },
+        {
+          "text": "par",
+          "start": 275.132,
+          "end": 275.246
+        },
+        {
+          "text": "courriel",
+          "start": 275.36,
+          "end": 275.74
+        }
+      ],
+      "chunks": [
+        {
+          "text": "S'il y a des changements",
+          "translations": {
+            "zh": "如果有变动",
+            "en": "If there are any changes",
+            "es": "Si hay cambios,"
+          },
+          "start": 273.313,
+          "end": 274.336
+        },
+        {
+          "text": "vous serez avisé par courriel",
+          "translations": {
+            "zh": "您会通过电子邮件收到通知",
+            "en": "you will be notified by email",
+            "es": "será avisado por correo electrónico"
+          },
+          "start": 274.45,
+          "end": 275.74
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "text": "Mais vous êtes en retard",
+      "translations": {
+        "zh": "不过您迟到了",
+        "en": "But you are late",
+        "es": "Pero llega tarde"
+      },
+      "start": 276.12,
+      "end": 277.776,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 276.12,
+          "end": 276.5
+        },
+        {
+          "text": "vous",
+          "start": 276.88,
+          "end": 277.008
+        },
+        {
+          "text": "êtes",
+          "start": 277.136,
+          "end": 277.264
+        },
+        {
+          "text": "en",
+          "start": 277.392,
+          "end": 277.52
+        },
+        {
+          "text": "retard",
+          "start": 277.648,
+          "end": 277.776
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais vous êtes en retard",
+          "translations": {
+            "zh": "不过您迟到了",
+            "en": "But you are late",
+            "es": "Pero llega tarde"
+          },
+          "start": 276.12,
+          "end": 277.776
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "text": "La prochaine fois essayez d'arriver un peu en avance",
+      "translations": {
+        "zh": "下次试着提前一点到",
+        "en": "Next time try to arrive a little early",
+        "es": "La próxima vez intente llegar un poco antes"
+      },
+      "start": 277.904,
+      "end": 278.16,
+      "words": [
+        {
+          "text": "La",
+          "start": 277.904,
+          "end": 278.032
+        },
+        {
+          "text": "prochaine",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "fois",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "essayez",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "d'arriver",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "un",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "peu",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "en",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "avance",
+          "start": 278.16,
+          "end": 278.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "La prochaine fois",
+          "translations": {
+            "zh": "下次",
+            "en": "Next time",
+            "es": "La próxima vez"
+          },
+          "start": 277.904,
+          "end": 278.16
+        },
+        {
+          "text": "essayez d'arriver un peu en avance",
+          "translations": {
+            "zh": "试着提前一点到",
+            "en": "try to arrive a little early",
+            "es": "intente llegar un poco antes"
+          },
+          "start": 278.16,
+          "end": 278.16
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "text": "Euh oui oui",
+      "translations": {
+        "zh": "呃，是的，是的",
+        "en": "Uh yes yes",
+        "es": "Eh, sí, sí"
+      },
+      "start": 278.16,
+      "end": 278.16,
+      "words": [
+        {
+          "text": "Euh",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "oui",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "oui",
+          "start": 278.16,
+          "end": 278.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Euh",
+          "translations": {
+            "zh": "呃",
+            "en": "Uh",
+            "es": "Eh,"
+          },
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "oui oui",
+          "translations": {
+            "zh": "是的，是的",
+            "en": "yes yes",
+            "es": "sí, sí"
+          },
+          "start": 278.16,
+          "end": 278.16
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "text": "J'essaierai",
+      "translations": {
+        "zh": "我会试试的",
+        "en": "I'll try",
+        "es": "Lo intentaré"
+      },
+      "start": 278.16,
+      "end": 278.16,
+      "words": [
+        {
+          "text": "J'essaierai",
+          "start": 278.16,
+          "end": 278.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'essaierai",
+          "translations": {
+            "zh": "我会试试的",
+            "en": "I'll try",
+            "es": "Lo intentaré"
+          },
+          "start": 278.16,
+          "end": 278.16
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "text": "Ah moi qui déteste tellement être en retard",
+      "translations": {
+        "zh": "啊，我是那么讨厌迟到",
+        "en": "Oh me who hates being late so much",
+        "es": "Ah, yo que odio tanto llegar tarde"
+      },
+      "start": 278.16,
+      "end": 278.16,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "moi",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "qui",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "déteste",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "tellement",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "être",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "en",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "retard",
+          "start": 278.16,
+          "end": 278.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah moi",
+          "translations": {
+            "zh": "啊，我",
+            "en": "Oh me",
+            "es": "Ah, yo"
+          },
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "qui déteste tellement être en retard",
+          "translations": {
+            "zh": "那么讨厌迟到",
+            "en": "who hates being late so much",
+            "es": "que odio tanto llegar tarde"
+          },
+          "start": 278.16,
+          "end": 278.16
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "text": "FIN",
+      "translations": {
+        "zh": "完",
+        "en": "THE END",
+        "es": "FIN"
+      },
+      "start": 278.16,
+      "end": 278.16,
+      "words": [
+        {
+          "text": "FIN",
+          "start": 278.16,
+          "end": 278.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "FIN",
+          "translations": {
+            "zh": "完",
+            "en": "THE END",
+            "es": "FIN"
+          },
+          "start": 278.16,
+          "end": 278.16
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "text": "Épisode 1 La première rencontre",
+      "translations": {
+        "zh": "第一集 第一次相遇",
+        "en": "Episode 1 The first encounter",
+        "es": "Episodio 1 El primer encuentro"
+      },
+      "start": 278.16,
+      "end": 278.16,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "1",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "La",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "première",
+          "start": 278.16,
+          "end": 278.16
+        },
+        {
+          "text": "rencontre",
+          "start": 278.16,
+          "end": 278.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 1 La première rencontre",
+          "translations": {
+            "zh": "第一集 第一次相遇",
+            "en": "Episode 1 The first encounter",
+            "es": "Episodio 1 El primer encuentro"
+          },
+          "start": 278.16,
+          "end": 278.16
+        }
+      ]
+    }
+  ],
+  "id": "tv5_tu_te_souviens",
+  "audio_filename": "tv5_tu_te_souviens.mp3",
+  "audio_path": "public/audio/tv5_tu_te_souviens.mp3",
+  "episode": 21,
+  "piste": 1
+}

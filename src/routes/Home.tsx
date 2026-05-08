@@ -64,7 +64,7 @@ export function Home() {
       {manifest.episodes.map(ep => (
         <div key={ep.id} className="mb-6">
           <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-3">
-            Épisode {ep.id}
+            {ep.title ?? `Épisode ${ep.id}`}
           </h2>
           <div className="grid grid-cols-3 gap-2 sm:grid-cols-4 lg:grid-cols-6">
             {ep.pistes.map(p => (

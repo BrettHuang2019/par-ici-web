@@ -14,6 +14,7 @@ export function Player() {
   const pisteNum = Number(piste);
 
   const [pisteInfo, setPisteInfo] = useState<PisteInfo | null>(null);
+  const [episodeTitle, setEpisodeTitle] = useState('');
   const [sentences, setSentences] = useState<Sentence[]>([]);
   const [activeSentenceIdx, setActiveSentenceIdx] = useState(0);
   const [engine, setEngine] = useState<AudioEngine | null>(null);
@@ -35,6 +36,7 @@ export function Player() {
         const ep_ = m.episodes.find(e => e.id === epNum);
         const p = ep_?.pistes.find(p => p.piste === pisteNum);
         if (!p) return;
+        setEpisodeTitle(ep_?.title ?? `Épisode ${epNum}`);
         setPisteInfo(p);
         return fetch(p.data).then(r => r.json()).then((d: { sentences: Sentence[] }) => {
           setSentences(d.sentences);
@@ -54,6 +56,7 @@ export function Player() {
       engineRef.current?.destroy();
       engineRef.current = null;
       setEngine(null);
+      setEpisodeTitle('');
       setCurrentTime(0);
       setDuration(0);
       setPlaying(false);
@@ -87,7 +90,7 @@ export function Player() {
             ← Home
           </Link>
           <span className="text-gray-500">|</span>
-          <span className="min-w-0 flex-1 truncate text-sm font-medium">Épisode {epNum} — {pisteInfo.title}</span>
+          <span className="min-w-0 flex-1 truncate text-sm font-medium">{episodeTitle} — {pisteInfo.title}</span>
           <span className="rounded border border-gray-700 bg-gray-800 px-2 py-1 text-xs font-semibold text-gray-200">
             {progressPercent}%
           </span>

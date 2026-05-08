@@ -757,6 +757,68 @@
           "data": "/data/FLS2_EP20_P43.final.json"
         }
       ]
+    },
+    {
+      "id": 21,
+      "title": "tv5_tu_te_souviens",
+      "pistes": [
+        {
+          "episode": 21,
+          "piste": 1,
+          "title": "La première rencontre",
+          "audio": "/audio/tv5_tu_te_souviens.mp3",
+          "data": "/data/tv5_tu_te_souviens.final.json"
+        },
+        {
+          "episode": 21,
+          "piste": 2,
+          "title": "La touriste perdue",
+          "audio": "/audio/tv5_tu_te_souviens_2.mp3",
+          "data": "/data/tv5_tu_te_souviens_2.final.json"
+        },
+        {
+          "episode": 21,
+          "piste": 3,
+          "title": "La visite",
+          "audio": "/audio/tv5_tu_te_souviens_3.mp3",
+          "data": "/data/tv5_tu_te_souviens_3.final.json"
+        },
+        {
+          "episode": 21,
+          "piste": 4,
+          "title": "Le magasin de meubles",
+          "audio": "/audio/tv5_tu_te_souviens_4.mp3",
+          "data": "/data/tv5_tu_te_souviens_4.final.json"
+        },
+        {
+          "episode": 21,
+          "piste": 5,
+          "title": "La tempête",
+          "audio": "/audio/tv5_tu_te_souviens_5.mp3",
+          "data": "/data/tv5_tu_te_souviens_5.final.json"
+        },
+        {
+          "episode": 21,
+          "piste": 6,
+          "title": "L'invitation",
+          "audio": "/audio/tv5_tu_te_souviens_6.mp3",
+          "data": "/data/tv5_tu_te_souviens_6.final.json"
+        },
+        {
+          "episode": 21,
+          "piste": 7,
+          "title": "La grippe",
+          "audio": "/audio/tv5_tu_te_souviens_7.mp3",
+          "data": "/data/tv5_tu_te_souviens_7.final.json"
+        },
+        {
+          "episode": 21,
+          "piste": 8,
+          "title": "La fête",
+          "audio": "/audio/tv5_tu_te_souviens_8.mp3",
+          "data": "/data/tv5_tu_te_souviens_8.final.json"
+        }
+      ]
     }
   ]
 }

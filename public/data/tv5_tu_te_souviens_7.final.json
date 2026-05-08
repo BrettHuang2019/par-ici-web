@@ -1,0 +1,7609 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "AVERTISSEMENT Les informations fournies dans cet épisode ne peuvent en aucun cas remplacer l'avis d'un professionnel de la santé.",
+      "translations": {
+        "zh": "警告 本集中提供的信息绝不能替代医疗专业人员的意见。",
+        "en": "WARNING The information provided in this episode can in no way replace the advice of a healthcare professional.",
+        "es": "AVISO La información proporcionada en este episodio no puede en ningún caso sustituir la opinión de un profesional de la salud."
+      },
+      "start": 4.08,
+      "end": 17.52,
+      "words": [
+        {
+          "text": "AVERTISSEMENT",
+          "start": 4.08,
+          "end": 4.08
+        },
+        {
+          "text": "Les",
+          "start": 4.24,
+          "end": 4.24
+        },
+        {
+          "text": "informations",
+          "start": 4.24,
+          "end": 5.12
+        },
+        {
+          "text": "fournies",
+          "start": 6.88,
+          "end": 6.88
+        },
+        {
+          "text": "dans",
+          "start": 6.88,
+          "end": 6.88
+        },
+        {
+          "text": "cet",
+          "start": 6.88,
+          "end": 6.96
+        },
+        {
+          "text": "épisode",
+          "start": 8.72,
+          "end": 8.72
+        },
+        {
+          "text": "ne",
+          "start": 9.2,
+          "end": 9.2
+        },
+        {
+          "text": "peuvent",
+          "start": 9.2,
+          "end": 15.28
+        },
+        {
+          "text": "en",
+          "start": 15.28,
+          "end": 15.28
+        },
+        {
+          "text": "aucun",
+          "start": 15.68,
+          "end": 15.68
+        },
+        {
+          "text": "cas",
+          "start": 15.68,
+          "end": 15.68
+        },
+        {
+          "text": "remplacer",
+          "start": 15.68,
+          "end": 15.68
+        },
+        {
+          "text": "l'avis",
+          "start": 15.68,
+          "end": 15.68
+        },
+        {
+          "text": "d'un",
+          "start": 15.68,
+          "end": 15.68
+        },
+        {
+          "text": "professionnel",
+          "start": 15.68,
+          "end": 15.68
+        },
+        {
+          "text": "de",
+          "start": 15.68,
+          "end": 15.68
+        },
+        {
+          "text": "la",
+          "start": 15.68,
+          "end": 15.68
+        },
+        {
+          "text": "santé",
+          "start": 17.52,
+          "end": 17.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "AVERTISSEMENT",
+          "translations": {
+            "zh": "警告",
+            "en": "WARNING",
+            "es": "AVISO"
+          },
+          "start": 4.08,
+          "end": 4.08
+        },
+        {
+          "text": "Les informations fournies dans cet épisode",
+          "translations": {
+            "zh": "本集中提供的信息",
+            "en": "The information provided in this episode",
+            "es": "La información proporcionada en este episodio"
+          },
+          "start": 4.24,
+          "end": 8.72
+        },
+        {
+          "text": "ne peuvent en aucun cas remplacer l'avis d'un professionnel de la santé.",
+          "translations": {
+            "zh": "绝不能替代医疗专业人员的意见。",
+            "en": "can in no way replace the advice of a healthcare professional.",
+            "es": "no puede en ningún caso sustituir la opinión de un profesional de la salud."
+          },
+          "start": 9.2,
+          "end": 17.52
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Les questions et les conseils du personnage de l'infirmière dans la capsule relèvent de la fiction et n'ont aucun lien direct avec l'avis que pourraient donner les spécialistes du service Info-Santé .",
+      "translations": {
+        "zh": "短片中护士角色所提出的问题和建议属于虚构，与Info-Santé服务热线专家可能给出的意见没有任何直接关联。",
+        "en": "The questions and advice from the nurse character in the capsule are fictional and have no direct connection to the advice that the specialists at the Info-Santé service could give.",
+        "es": "Las preguntas y los consejos del personaje de la enfermera en la cápsula son ficticios y no tienen ningún vínculo directo con la opinión que podrían dar los especialistas del servicio Info-Santé."
+      },
+      "start": 17.6,
+      "end": 27.173,
+      "words": [
+        {
+          "text": "Les",
+          "start": 17.6,
+          "end": 18.72
+        },
+        {
+          "text": "questions",
+          "start": 18.72,
+          "end": 18.96
+        },
+        {
+          "text": "et",
+          "start": 18.96,
+          "end": 19.12
+        },
+        {
+          "text": "les",
+          "start": 19.12,
+          "end": 19.12
+        },
+        {
+          "text": "conseils",
+          "start": 19.12,
+          "end": 19.12
+        },
+        {
+          "text": "du",
+          "start": 19.12,
+          "end": 19.12
+        },
+        {
+          "text": "personnage",
+          "start": 19.12,
+          "end": 19.12
+        },
+        {
+          "text": "de",
+          "start": 19.12,
+          "end": 19.256
+        },
+        {
+          "text": "l'infirmière",
+          "start": 19.393,
+          "end": 19.53
+        },
+        {
+          "text": "dans",
+          "start": 19.666,
+          "end": 19.803
+        },
+        {
+          "text": "la",
+          "start": 19.94,
+          "end": 20.076
+        },
+        {
+          "text": "capsule",
+          "start": 20.213,
+          "end": 20.35
+        },
+        {
+          "text": "relèvent",
+          "start": 20.486,
+          "end": 20.623
+        },
+        {
+          "text": "de",
+          "start": 20.76,
+          "end": 20.896
+        },
+        {
+          "text": "la",
+          "start": 21.033,
+          "end": 21.17
+        },
+        {
+          "text": "fiction",
+          "start": 21.306,
+          "end": 21.443
+        },
+        {
+          "text": "et",
+          "start": 21.58,
+          "end": 21.716
+        },
+        {
+          "text": "n'ont",
+          "start": 21.853,
+          "end": 21.99
+        },
+        {
+          "text": "aucun",
+          "start": 22.126,
+          "end": 22.263
+        },
+        {
+          "text": "lien",
+          "start": 22.4,
+          "end": 22.411
+        },
+        {
+          "text": "direct",
+          "start": 22.422,
+          "end": 22.434
+        },
+        {
+          "text": "avec",
+          "start": 22.445,
+          "end": 22.457
+        },
+        {
+          "text": "l'avis",
+          "start": 22.468,
+          "end": 22.48
+        },
+        {
+          "text": "que",
+          "start": 22.491,
+          "end": 22.502
+        },
+        {
+          "text": "pourraient",
+          "start": 22.514,
+          "end": 22.525
+        },
+        {
+          "text": "donner",
+          "start": 22.537,
+          "end": 22.548
+        },
+        {
+          "text": "les",
+          "start": 22.56,
+          "end": 23.173
+        },
+        {
+          "text": "spécialistes",
+          "start": 23.786,
+          "end": 24.4
+        },
+        {
+          "text": "du",
+          "start": 25.013,
+          "end": 25.626
+        },
+        {
+          "text": "service",
+          "start": 26.24,
+          "end": 26.426
+        },
+        {
+          "text": "Info",
+          "start": 26.613,
+          "end": 26.8
+        },
+        {
+          "text": "Santé",
+          "start": 26.986,
+          "end": 27.173
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les questions et les conseils du personnage de l'infirmière dans la capsule",
+          "translations": {
+            "zh": "短片中护士角色所提出的问题和建议",
+            "en": "The questions and advice from the nurse character in the capsule",
+            "es": "Las preguntas y los consejos del personaje de la enfermera en la cápsula"
+          },
+          "start": 17.6,
+          "end": 20.35
+        },
+        {
+          "text": "relèvent de la fiction",
+          "translations": {
+            "zh": "属于虚构",
+            "en": "are fictional",
+            "es": "son ficticios"
+          },
+          "start": 20.486,
+          "end": 21.443
+        },
+        {
+          "text": "et n'ont aucun lien direct avec l'avis que pourraient donner les spécialistes du service Info-Santé .",
+          "translations": {
+            "zh": "与Info-Santé服务热线专家可能给出的意见没有任何直接关联。",
+            "en": "and have no direct connection to the advice that the specialists at the Info-Santé service could give.",
+            "es": "y no tienen ningún vínculo directo con la opinión que podrían dar los especialistas del servicio Info-Santé."
+          },
+          "start": 21.58,
+          "end": 27.173
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "En cas de doute sur son état de santé, il faut appeler le service Info-Santé ou consulter un professionnel de la santé.",
+      "translations": {
+        "zh": "如果对自己的健康状况有疑虑，请拨打Info-Santé服务热线或咨询医疗专业人员。",
+        "en": "In case of doubt about one's health, one should call the Info-Santé service or consult a healthcare professional.",
+        "es": "En caso de duda sobre su estado de salud, hay que llamar al servicio Info-Santé o consultar a un profesional de la salud."
+      },
+      "start": 27.36,
+      "end": 40.4,
+      "words": [
+        {
+          "text": "En",
+          "start": 27.36,
+          "end": 27.546
+        },
+        {
+          "text": "cas",
+          "start": 27.733,
+          "end": 27.92
+        },
+        {
+          "text": "de",
+          "start": 28.106,
+          "end": 28.293
+        },
+        {
+          "text": "doute",
+          "start": 28.48,
+          "end": 28.666
+        },
+        {
+          "text": "sur",
+          "start": 28.853,
+          "end": 29.04
+        },
+        {
+          "text": "son",
+          "start": 29.226,
+          "end": 29.413
+        },
+        {
+          "text": "état",
+          "start": 29.6,
+          "end": 29.64
+        },
+        {
+          "text": "de",
+          "start": 29.68,
+          "end": 29.72
+        },
+        {
+          "text": "santé",
+          "start": 29.76,
+          "end": 29.76
+        },
+        {
+          "text": "il",
+          "start": 29.76,
+          "end": 30.96
+        },
+        {
+          "text": "faut",
+          "start": 32.16,
+          "end": 33.36
+        },
+        {
+          "text": "appeler",
+          "start": 34.56,
+          "end": 34.82
+        },
+        {
+          "text": "le",
+          "start": 35.08,
+          "end": 35.34
+        },
+        {
+          "text": "service",
+          "start": 35.6,
+          "end": 35.86
+        },
+        {
+          "text": "Info",
+          "start": 36.12,
+          "end": 36.38
+        },
+        {
+          "text": "Santé",
+          "start": 36.64,
+          "end": 36.9
+        },
+        {
+          "text": "ou",
+          "start": 37.16,
+          "end": 37.42
+        },
+        {
+          "text": "consulter",
+          "start": 37.68,
+          "end": 38
+        },
+        {
+          "text": "un",
+          "start": 38.18,
+          "end": 38.36
+        },
+        {
+          "text": "professionnel",
+          "start": 38.54,
+          "end": 38.72
+        },
+        {
+          "text": "de",
+          "start": 38.9,
+          "end": 39.08
+        },
+        {
+          "text": "la",
+          "start": 39.26,
+          "end": 39.44
+        },
+        {
+          "text": "santé",
+          "start": 39.44,
+          "end": 40.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "En cas de doute sur son état de santé,",
+          "translations": {
+            "zh": "如果对自己的健康状况有疑虑，",
+            "en": "In case of doubt about one's health,",
+            "es": "En caso de duda sobre su estado de salud,"
+          },
+          "start": 27.36,
+          "end": 29.76
+        },
+        {
+          "text": "il faut appeler le service Info-Santé",
+          "translations": {
+            "zh": "请拨打Info-Santé服务热线",
+            "en": "one should call the Info-Santé service",
+            "es": "hay que llamar al servicio Info-Santé"
+          },
+          "start": 29.76,
+          "end": 36.9
+        },
+        {
+          "text": "ou consulter un professionnel de la santé.",
+          "translations": {
+            "zh": "或咨询医疗专业人员。",
+            "en": "or consult a healthcare professional.",
+            "es": "o consultar a un profesional de la salud."
+          },
+          "start": 37.16,
+          "end": 40.4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Je crois que je ne me suis jamais sentie si mal de toute ma vie!",
+      "translations": {
+        "zh": "我觉得我这辈子从来没有这么难受过！",
+        "en": "I think I have never felt so bad in my entire life!",
+        "es": "¡Creo que nunca me he sentido tan mal en toda mi vida!"
+      },
+      "start": 40.4,
+      "end": 44,
+      "words": [
+        {
+          "text": "Je",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "text": "crois",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "text": "que",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "text": "je",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "text": "ne",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "text": "me",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "text": "suis",
+          "start": 40.4,
+          "end": 40.464
+        },
+        {
+          "text": "jamais",
+          "start": 40.528,
+          "end": 40.592
+        },
+        {
+          "text": "sentie",
+          "start": 40.656,
+          "end": 40.72
+        },
+        {
+          "text": "si",
+          "start": 40.72,
+          "end": 40.72
+        },
+        {
+          "text": "mal",
+          "start": 40.9,
+          "end": 41.08
+        },
+        {
+          "text": "de",
+          "start": 41.26,
+          "end": 41.44
+        },
+        {
+          "text": "toute",
+          "start": 43.84,
+          "end": 43.84
+        },
+        {
+          "text": "ma",
+          "start": 43.84,
+          "end": 44
+        },
+        {
+          "text": "vie",
+          "start": 44,
+          "end": 44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je crois que",
+          "translations": {
+            "zh": "我觉得",
+            "en": "I think that",
+            "es": "Creo que"
+          },
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "text": "je ne me suis jamais sentie si mal",
+          "translations": {
+            "zh": "我从来没有这么难受过",
+            "en": "I have never felt so bad",
+            "es": "nunca me he sentido tan mal"
+          },
+          "start": 40.4,
+          "end": 41.08
+        },
+        {
+          "text": "de toute ma vie!",
+          "translations": {
+            "zh": "我这辈子！",
+            "en": "in my entire life!",
+            "es": "en toda mi vida!"
+          },
+          "start": 41.26,
+          "end": 44
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "J'avais de la fièvre, des douleurs partout, plus d'énergie...",
+      "translations": {
+        "zh": "我发烧了，浑身疼，一点力气都没有了……",
+        "en": "I had a fever, aches everywhere, no more energy...",
+        "es": "Tenía fiebre, dolores por todas partes, sin energía..."
+      },
+      "start": 44.08,
+      "end": 47.52,
+      "words": [
+        {
+          "text": "J'avais",
+          "start": 44.08,
+          "end": 44.08
+        },
+        {
+          "text": "de",
+          "start": 44.08,
+          "end": 44.08
+        },
+        {
+          "text": "la",
+          "start": 44.08,
+          "end": 44.08
+        },
+        {
+          "text": "fièvre",
+          "start": 44.64,
+          "end": 44.64
+        },
+        {
+          "text": "des",
+          "start": 44.64,
+          "end": 46.24
+        },
+        {
+          "text": "douleurs",
+          "start": 46.24,
+          "end": 46.28
+        },
+        {
+          "text": "partout",
+          "start": 46.32,
+          "end": 46.36
+        },
+        {
+          "text": "plus",
+          "start": 46.4,
+          "end": 46.72
+        },
+        {
+          "text": "d'énergie",
+          "start": 47.52,
+          "end": 47.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'avais de la fièvre,",
+          "translations": {
+            "zh": "我发烧了，",
+            "en": "I had a fever,",
+            "es": "Tenía fiebre,"
+          },
+          "start": 44.08,
+          "end": 44.64
+        },
+        {
+          "text": "des douleurs partout,",
+          "translations": {
+            "zh": "浑身疼，",
+            "en": "aches everywhere,",
+            "es": "dolores por todas partes,"
+          },
+          "start": 44.64,
+          "end": 46.36
+        },
+        {
+          "text": "plus d'énergie...",
+          "translations": {
+            "zh": "一点力气都没有了……",
+            "en": "no more energy...",
+            "es": "sin energía..."
+          },
+          "start": 46.4,
+          "end": 47.52
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Je te jure, cette journée-là, je me demandais même si je ne devais pas aller aux urgences!",
+      "translations": {
+        "zh": "我发誓，那天我甚至在想是不是该去急诊！",
+        "en": "I swear to you, that day, I was even wondering if I shouldn't go to the emergency room!",
+        "es": "¡Te lo juro, ese día, me preguntaba incluso si no debía ir a urgencias!"
+      },
+      "start": 49.28,
+      "end": 54.92,
+      "words": [
+        {
+          "text": "Je",
+          "start": 49.28,
+          "end": 51.28
+        },
+        {
+          "text": "te",
+          "start": 51.28,
+          "end": 51.28
+        },
+        {
+          "text": "jure",
+          "start": 51.382,
+          "end": 51.485
+        },
+        {
+          "text": "cette",
+          "start": 51.588,
+          "end": 51.691
+        },
+        {
+          "text": "journée",
+          "start": 51.794,
+          "end": 51.897
+        },
+        {
+          "text": "là",
+          "start": 52,
+          "end": 52
+        },
+        {
+          "text": "je",
+          "start": 52.48,
+          "end": 52.48
+        },
+        {
+          "text": "me",
+          "start": 52.48,
+          "end": 52.48
+        },
+        {
+          "text": "demandais",
+          "start": 52.48,
+          "end": 52.8
+        },
+        {
+          "text": "même",
+          "start": 52.8,
+          "end": 52.928
+        },
+        {
+          "text": "si",
+          "start": 53.056,
+          "end": 53.184
+        },
+        {
+          "text": "je",
+          "start": 53.312,
+          "end": 53.44
+        },
+        {
+          "text": "ne",
+          "start": 53.44,
+          "end": 53.44
+        },
+        {
+          "text": "devais",
+          "start": 53.44,
+          "end": 53.44
+        },
+        {
+          "text": "pas",
+          "start": 53.44,
+          "end": 53.44
+        },
+        {
+          "text": "aller",
+          "start": 53.44,
+          "end": 53.44
+        },
+        {
+          "text": "aux",
+          "start": 54.56,
+          "end": 54.56
+        },
+        {
+          "text": "urgences",
+          "start": 54.56,
+          "end": 54.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je te jure,",
+          "translations": {
+            "zh": "我发誓，",
+            "en": "I swear to you,",
+            "es": "Te lo juro,"
+          },
+          "start": 49.28,
+          "end": 51.485
+        },
+        {
+          "text": "cette journée-là,",
+          "translations": {
+            "zh": "那天，",
+            "en": "that day,",
+            "es": "ese día,"
+          },
+          "start": 51.588,
+          "end": 52
+        },
+        {
+          "text": "je me demandais même",
+          "translations": {
+            "zh": "我甚至在想",
+            "en": "I was even wondering",
+            "es": "me preguntaba incluso"
+          },
+          "start": 52.48,
+          "end": 52.928
+        },
+        {
+          "text": "si je ne devais pas aller aux urgences!",
+          "translations": {
+            "zh": "是不是该去急诊！",
+            "en": "if I shouldn't go to the emergency room!",
+            "es": "si no debía ir a urgencias!"
+          },
+          "start": 53.056,
+          "end": 54.92
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "J'ai appelé un numéro spécial pour avoir les conseils d'une infirmière.",
+      "translations": {
+        "zh": "我拨打了一个专门的号码，向护士咨询建议。",
+        "en": "I called a special number to get advice from a nurse.",
+        "es": "Llamé a un número especial para obtener los consejos de una enfermera."
+      },
+      "start": 55.28,
+      "end": 61.991,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 55.28,
+          "end": 55.64
+        },
+        {
+          "text": "appelé",
+          "start": 56,
+          "end": 56.36
+        },
+        {
+          "text": "un",
+          "start": 56.72,
+          "end": 57.08
+        },
+        {
+          "text": "numéro",
+          "start": 57.44,
+          "end": 57.8
+        },
+        {
+          "text": "spécial",
+          "start": 58.16,
+          "end": 58.454
+        },
+        {
+          "text": "pour",
+          "start": 58.749,
+          "end": 59.044
+        },
+        {
+          "text": "avoir",
+          "start": 59.338,
+          "end": 59.633
+        },
+        {
+          "text": "les",
+          "start": 59.928,
+          "end": 60.223
+        },
+        {
+          "text": "conseils",
+          "start": 60.517,
+          "end": 60.812
+        },
+        {
+          "text": "d'une",
+          "start": 61.107,
+          "end": 61.402
+        },
+        {
+          "text": "infirmière",
+          "start": 61.696,
+          "end": 61.991
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai appelé un numéro spécial",
+          "translations": {
+            "zh": "我拨打了一个专门的号码",
+            "en": "I called a special number",
+            "es": "Llamé a un número especial"
+          },
+          "start": 55.28,
+          "end": 58.454
+        },
+        {
+          "text": "pour avoir les conseils d'une infirmière.",
+          "translations": {
+            "zh": "向护士咨询建议。",
+            "en": "to get advice from a nurse.",
+            "es": "para obtener los consejos de una enfermera."
+          },
+          "start": 58.749,
+          "end": 61.991
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Oui, bonjour, qu'est-ce que je peux faire pour vous?",
+      "translations": {
+        "zh": "您好，请问有什么可以帮您的？",
+        "en": "Yes, hello, what can I do for you?",
+        "es": "Sí, buenos días, ¿qué puedo hacer por usted?"
+      },
+      "start": 62.286,
+      "end": 65.952,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 62.286,
+          "end": 62.581
+        },
+        {
+          "text": "bonjour",
+          "start": 62.875,
+          "end": 63.17
+        },
+        {
+          "text": "qu'est",
+          "start": 63.465,
+          "end": 63.76
+        },
+        {
+          "text": "ce",
+          "start": 65.04,
+          "end": 65.04
+        },
+        {
+          "text": "que",
+          "start": 65.04,
+          "end": 65.04
+        },
+        {
+          "text": "je",
+          "start": 65.04,
+          "end": 65.04
+        },
+        {
+          "text": "peux",
+          "start": 65.44,
+          "end": 65.488
+        },
+        {
+          "text": "faire",
+          "start": 65.536,
+          "end": 65.584
+        },
+        {
+          "text": "pour",
+          "start": 65.632,
+          "end": 65.68
+        },
+        {
+          "text": "vous",
+          "start": 65.816,
+          "end": 65.952
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui, bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Yes, hello,",
+            "es": "Sí, buenos días,"
+          },
+          "start": 62.286,
+          "end": 63.17
+        },
+        {
+          "text": "qu'est-ce que je peux faire pour vous?",
+          "translations": {
+            "zh": "请问有什么可以帮您的？",
+            "en": "what can I do for you?",
+            "es": "¿qué puedo hacer por usted?"
+          },
+          "start": 63.465,
+          "end": 65.952
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Ah, bonjour, madame.",
+      "translations": {
+        "zh": "啊，您好，女士。",
+        "en": "Ah, hello, ma'am.",
+        "es": "Ah, buenos días, señora."
+      },
+      "start": 66.088,
+      "end": 66.768,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 66.088,
+          "end": 66.224
+        },
+        {
+          "text": "bonjour",
+          "start": 66.36,
+          "end": 66.496
+        },
+        {
+          "text": "madame",
+          "start": 66.632,
+          "end": 66.768
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah, bonjour, madame.",
+          "translations": {
+            "zh": "啊，您好，女士。",
+            "en": "Ah, hello, ma'am.",
+            "es": "Ah, buenos días, señora."
+          },
+          "start": 66.088,
+          "end": 66.768
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Je vous appelle parce que je suis vraiment très malade.",
+      "translations": {
+        "zh": "我打电话来是因为我真的病得很重。",
+        "en": "I'm calling you because I'm really very sick.",
+        "es": "Le llamo porque estoy realmente muy enferma."
+      },
+      "start": 66.904,
+      "end": 71.76,
+      "words": [
+        {
+          "text": "Je",
+          "start": 66.904,
+          "end": 67.04
+        },
+        {
+          "text": "vous",
+          "start": 68,
+          "end": 68.16
+        },
+        {
+          "text": "appelle",
+          "start": 68.16,
+          "end": 68.8
+        },
+        {
+          "text": "parce",
+          "start": 68.8,
+          "end": 69.6
+        },
+        {
+          "text": "que",
+          "start": 69.6,
+          "end": 70.4
+        },
+        {
+          "text": "je",
+          "start": 70.4,
+          "end": 70.4
+        },
+        {
+          "text": "suis",
+          "start": 70.512,
+          "end": 70.624
+        },
+        {
+          "text": "vraiment",
+          "start": 70.736,
+          "end": 70.848
+        },
+        {
+          "text": "très",
+          "start": 70.96,
+          "end": 70.96
+        },
+        {
+          "text": "malade",
+          "start": 71.68,
+          "end": 71.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vous appelle",
+          "translations": {
+            "zh": "我打电话来",
+            "en": "I'm calling you",
+            "es": "Le llamo"
+          },
+          "start": 66.904,
+          "end": 68.8
+        },
+        {
+          "text": "parce que je suis vraiment très malade.",
+          "translations": {
+            "zh": "因为我真的病得很重。",
+            "en": "because I'm really very sick.",
+            "es": "porque estoy realmente muy enferma."
+          },
+          "start": 68.8,
+          "end": 71.76
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Je me demande si je dois aller à l'hôpital.",
+      "translations": {
+        "zh": "我在想我是不是应该去医院。",
+        "en": "I'm wondering if I should go to the hospital.",
+        "es": "Me pregunto si debo ir al hospital."
+      },
+      "start": 72.4,
+      "end": 73.677,
+      "words": [
+        {
+          "text": "Je",
+          "start": 72.4,
+          "end": 72.48
+        },
+        {
+          "text": "me",
+          "start": 72.48,
+          "end": 72.8
+        },
+        {
+          "text": "demande",
+          "start": 72.85,
+          "end": 72.9
+        },
+        {
+          "text": "si",
+          "start": 72.95,
+          "end": 73
+        },
+        {
+          "text": "je",
+          "start": 73.05,
+          "end": 73.1
+        },
+        {
+          "text": "dois",
+          "start": 73.15,
+          "end": 73.2
+        },
+        {
+          "text": "aller",
+          "start": 73.2,
+          "end": 73.2
+        },
+        {
+          "text": "à",
+          "start": 73.2,
+          "end": 73.359
+        },
+        {
+          "text": "l'hôpital",
+          "start": 73.518,
+          "end": 73.677
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je me demande",
+          "translations": {
+            "zh": "我在想",
+            "en": "I'm wondering",
+            "es": "Me pregunto"
+          },
+          "start": 72.4,
+          "end": 72.9
+        },
+        {
+          "text": "si je dois aller à l'hôpital.",
+          "translations": {
+            "zh": "我是不是应该去医院。",
+            "en": "if I should go to the hospital.",
+            "es": "si debo ir al hospital."
+          },
+          "start": 72.95,
+          "end": 73.677
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "D'accord.",
+      "translations": {
+        "zh": "好的。",
+        "en": "All right.",
+        "es": "De acuerdo."
+      },
+      "start": 73.836,
+      "end": 73.995,
+      "words": [
+        {
+          "text": "D'accord",
+          "start": 73.836,
+          "end": 73.995
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'accord.",
+          "translations": {
+            "zh": "好的。",
+            "en": "All right.",
+            "es": "De acuerdo."
+          },
+          "start": 73.836,
+          "end": 73.995
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Je vais d'abord vous poser quelques questions sur vous, et ensuite, vous allez tout m'expliquer.",
+      "translations": {
+        "zh": "我先问您几个关于您的问题，然后，您把一切都告诉我。",
+        "en": "I'm first going to ask you a few questions about yourself, and then, you'll explain everything to me.",
+        "es": "Primero le voy a hacer algunas preguntas sobre usted, y después, usted me va a explicarlo todo."
+      },
+      "start": 74.154,
+      "end": 78.765,
+      "words": [
+        {
+          "text": "Je",
+          "start": 74.154,
+          "end": 74.313
+        },
+        {
+          "text": "vais",
+          "start": 74.472,
+          "end": 74.631
+        },
+        {
+          "text": "d'abord",
+          "start": 74.79,
+          "end": 74.949
+        },
+        {
+          "text": "vous",
+          "start": 75.108,
+          "end": 75.267
+        },
+        {
+          "text": "poser",
+          "start": 75.426,
+          "end": 75.585
+        },
+        {
+          "text": "quelques",
+          "start": 75.744,
+          "end": 75.903
+        },
+        {
+          "text": "questions",
+          "start": 76.062,
+          "end": 76.221
+        },
+        {
+          "text": "sur",
+          "start": 76.38,
+          "end": 76.539
+        },
+        {
+          "text": "vous",
+          "start": 76.698,
+          "end": 76.857
+        },
+        {
+          "text": "et",
+          "start": 77.016,
+          "end": 77.175
+        },
+        {
+          "text": "ensuite",
+          "start": 77.334,
+          "end": 77.493
+        },
+        {
+          "text": "vous",
+          "start": 77.652,
+          "end": 77.811
+        },
+        {
+          "text": "allez",
+          "start": 77.97,
+          "end": 78.129
+        },
+        {
+          "text": "tout",
+          "start": 78.288,
+          "end": 78.447
+        },
+        {
+          "text": "m'expliquer",
+          "start": 78.606,
+          "end": 78.765
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je vais d'abord vous poser quelques questions sur vous,",
+          "translations": {
+            "zh": "我先问您几个关于您的问题，",
+            "en": "I'm first going to ask you a few questions about yourself,",
+            "es": "Primero le voy a hacer algunas preguntas sobre usted,"
+          },
+          "start": 74.154,
+          "end": 76.857
+        },
+        {
+          "text": "et ensuite,",
+          "translations": {
+            "zh": "然后，",
+            "en": "and then,",
+            "es": "y después,"
+          },
+          "start": 77.016,
+          "end": 77.493
+        },
+        {
+          "text": "vous allez tout m'expliquer.",
+          "translations": {
+            "zh": "您把一切都告诉我。",
+            "en": "you'll explain everything to me.",
+            "es": "usted me va a explicarlo todo."
+          },
+          "start": 77.652,
+          "end": 78.765
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Elle m'a demandé mon nom, ma date de naissance et mon numéro de téléphone, puis elle m'a dit de lui décrire mon état.",
+      "translations": {
+        "zh": "她问了我的姓名、出生日期和电话号码，然后她让我描述一下我的身体状况。",
+        "en": "She asked me for my name, my date of birth and my phone number, then she told me to describe my condition to her.",
+        "es": "Me pidió mi nombre, mi fecha de nacimiento y mi número de teléfono, luego me dijo que le describiera mi estado."
+      },
+      "start": 78.924,
+      "end": 86.08,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 78.924,
+          "end": 79.083
+        },
+        {
+          "text": "m'a",
+          "start": 79.242,
+          "end": 79.401
+        },
+        {
+          "text": "demandé",
+          "start": 79.56,
+          "end": 79.72
+        },
+        {
+          "text": "mon",
+          "start": 79.879,
+          "end": 80.038
+        },
+        {
+          "text": "nom",
+          "start": 80.197,
+          "end": 80.356
+        },
+        {
+          "text": "ma",
+          "start": 80.515,
+          "end": 80.674
+        },
+        {
+          "text": "date",
+          "start": 80.833,
+          "end": 80.992
+        },
+        {
+          "text": "de",
+          "start": 81.151,
+          "end": 81.31
+        },
+        {
+          "text": "naissance",
+          "start": 81.469,
+          "end": 81.628
+        },
+        {
+          "text": "et",
+          "start": 81.787,
+          "end": 81.946
+        },
+        {
+          "text": "mon",
+          "start": 82.105,
+          "end": 82.264
+        },
+        {
+          "text": "numéro",
+          "start": 82.423,
+          "end": 82.582
+        },
+        {
+          "text": "de",
+          "start": 82.741,
+          "end": 82.9
+        },
+        {
+          "text": "téléphone",
+          "start": 83.059,
+          "end": 83.218
+        },
+        {
+          "text": "puis",
+          "start": 83.377,
+          "end": 83.536
+        },
+        {
+          "text": "elle",
+          "start": 83.695,
+          "end": 83.854
+        },
+        {
+          "text": "m'a",
+          "start": 84.013,
+          "end": 84.172
+        },
+        {
+          "text": "dit",
+          "start": 84.331,
+          "end": 84.49
+        },
+        {
+          "text": "de",
+          "start": 84.649,
+          "end": 84.808
+        },
+        {
+          "text": "lui",
+          "start": 84.967,
+          "end": 85.126
+        },
+        {
+          "text": "décrire",
+          "start": 85.285,
+          "end": 85.444
+        },
+        {
+          "text": "mon",
+          "start": 85.603,
+          "end": 85.762
+        },
+        {
+          "text": "état",
+          "start": 85.921,
+          "end": 86.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Elle m'a demandé mon nom, ma date de naissance et mon numéro de téléphone,",
+          "translations": {
+            "zh": "她问了我的姓名、出生日期和电话号码，",
+            "en": "She asked me for my name, my date of birth and my phone number,",
+            "es": "Me pidió mi nombre, mi fecha de nacimiento y mi número de teléfono,"
+          },
+          "start": 78.924,
+          "end": 83.218
+        },
+        {
+          "text": "puis elle m'a dit de lui décrire mon état.",
+          "translations": {
+            "zh": "然后她让我描述一下我的身体状况。",
+            "en": "then she told me to describe my condition to her.",
+            "es": "luego me dijo que le describiera mi estado."
+          },
+          "start": 83.377,
+          "end": 86.08
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "J'ai mal partout, surtout dans le bas du dos.",
+      "translations": {
+        "zh": "我浑身都疼，尤其是后腰。",
+        "en": "I hurt everywhere, especially in my lower back.",
+        "es": "Me duele por todas partes, sobre todo en la parte baja de la espalda."
+      },
+      "start": 86.24,
+      "end": 89.84,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 86.24,
+          "end": 86.48
+        },
+        {
+          "text": "mal",
+          "start": 86.81,
+          "end": 87.14
+        },
+        {
+          "text": "partout",
+          "start": 87.47,
+          "end": 87.8
+        },
+        {
+          "text": "surtout",
+          "start": 88.13,
+          "end": 88.46
+        },
+        {
+          "text": "dans",
+          "start": 88.79,
+          "end": 89.12
+        },
+        {
+          "text": "le",
+          "start": 89.12,
+          "end": 89.12
+        },
+        {
+          "text": "bas",
+          "start": 89.28,
+          "end": 89.44
+        },
+        {
+          "text": "du",
+          "start": 89.6,
+          "end": 89.76
+        },
+        {
+          "text": "dos",
+          "start": 89.76,
+          "end": 89.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai mal partout,",
+          "translations": {
+            "zh": "我浑身都疼，",
+            "en": "I hurt everywhere,",
+            "es": "Me duele por todas partes,"
+          },
+          "start": 86.24,
+          "end": 87.8
+        },
+        {
+          "text": "surtout dans le bas du dos.",
+          "translations": {
+            "zh": "尤其是后腰。",
+            "en": "especially in my lower back.",
+            "es": "sobre todo en la parte baja de la espalda."
+          },
+          "start": 88.13,
+          "end": 89.84
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Et je suis très faible.",
+      "translations": {
+        "zh": "而且我非常虚弱。",
+        "en": "And I'm very weak.",
+        "es": "Y estoy muy débil."
+      },
+      "start": 89.84,
+      "end": 91.24,
+      "words": [
+        {
+          "text": "Et",
+          "start": 89.84,
+          "end": 90
+        },
+        {
+          "text": "je",
+          "start": 90,
+          "end": 90.24
+        },
+        {
+          "text": "suis",
+          "start": 90.48,
+          "end": 90.72
+        },
+        {
+          "text": "très",
+          "start": 90.96,
+          "end": 91.053
+        },
+        {
+          "text": "faible",
+          "start": 91.146,
+          "end": 91.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et je suis très faible.",
+          "translations": {
+            "zh": "而且我非常虚弱。",
+            "en": "And I'm very weak.",
+            "es": "Y estoy muy débil."
+          },
+          "start": 89.84,
+          "end": 91.24
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Je crois que c'est une grosse grippe.",
+      "translations": {
+        "zh": "我觉得这是一场严重的流感。",
+        "en": "I think it's a bad case of the flu.",
+        "es": "Creo que es una fuerte gripe."
+      },
+      "start": 91.333,
+      "end": 91.52,
+      "words": [
+        {
+          "text": "Je",
+          "start": 91.333,
+          "end": 91.426
+        },
+        {
+          "text": "crois",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "que",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "c'est",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "une",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "grosse",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "grippe",
+          "start": 91.52,
+          "end": 91.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je crois que",
+          "translations": {
+            "zh": "我觉得",
+            "en": "I think that",
+            "es": "Creo que"
+          },
+          "start": 91.333,
+          "end": 91.52
+        },
+        {
+          "text": "c'est une grosse grippe.",
+          "translations": {
+            "zh": "这是一场严重的流感。",
+            "en": "it's a bad case of the flu.",
+            "es": "es una fuerte gripe."
+          },
+          "start": 91.52,
+          "end": 91.52
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Mais je n'en ai jamais attrapé une comme ça!",
+      "translations": {
+        "zh": "但是我从来没有得过这么严重的！",
+        "en": "But I've never caught one like this!",
+        "es": "¡Pero nunca había agarrado una así!"
+      },
+      "start": 91.52,
+      "end": 91.52,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "je",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "n'en",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "ai",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "jamais",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "attrapé",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "une",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "comme",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "ça",
+          "start": 91.52,
+          "end": 91.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais",
+          "translations": {
+            "zh": "但是",
+            "en": "But",
+            "es": "Pero"
+          },
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "je n'en ai jamais attrapé une comme ça!",
+          "translations": {
+            "zh": "我从来没有得过这么严重的！",
+            "en": "I've never caught one like this!",
+            "es": "nunca había agarrado una así!"
+          },
+          "start": 91.52,
+          "end": 91.52
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "En fait, je ne suis jamais malade, d'habitude!",
+      "translations": {
+        "zh": "其实，我平时从来不生病的！",
+        "en": "Actually, I'm never sick, usually!",
+        "es": "¡De hecho, nunca estoy enferma, normalmente!"
+      },
+      "start": 91.52,
+      "end": 91.52,
+      "words": [
+        {
+          "text": "En",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "fait",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "je",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "ne",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "suis",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "jamais",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "malade",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "d'habitude",
+          "start": 91.52,
+          "end": 91.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "En fait,",
+          "translations": {
+            "zh": "其实，",
+            "en": "Actually,",
+            "es": "De hecho,"
+          },
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "je ne suis jamais malade,",
+          "translations": {
+            "zh": "我从来不生病，",
+            "en": "I'm never sick,",
+            "es": "nunca estoy enferma,"
+          },
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "d'habitude!",
+          "translations": {
+            "zh": "平时！",
+            "en": "usually!",
+            "es": "normalmente!"
+          },
+          "start": 91.52,
+          "end": 91.52
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Et on est en été, en plus!",
+      "translations": {
+        "zh": "而且现在还是夏天呢！",
+        "en": "And it's summer, on top of that!",
+        "es": "¡Y además estamos en verano!"
+      },
+      "start": 91.52,
+      "end": 91.52,
+      "words": [
+        {
+          "text": "Et",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "on",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "est",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "en",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "été",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "en",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "plus",
+          "start": 91.52,
+          "end": 91.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et on est en été,",
+          "translations": {
+            "zh": "而且现在还是夏天，",
+            "en": "And it's summer,",
+            "es": "Y estamos en verano,"
+          },
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "en plus!",
+          "translations": {
+            "zh": "更何况！",
+            "en": "on top of that!",
+            "es": "además!"
+          },
+          "start": 91.52,
+          "end": 91.52
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Épisode 7 : La grippe Avez-vous pris votre température?",
+      "translations": {
+        "zh": "第七集：流感 您量过体温了吗？",
+        "en": "Episode 7: The Flu Have you taken your temperature?",
+        "es": "Episodio 7: La gripe ¿Ha tomado su temperatura?"
+      },
+      "start": 91.52,
+      "end": 91.52,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "7",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "La",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "grippe",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "Avez",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "vous",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "pris",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "votre",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "température",
+          "start": 91.52,
+          "end": 91.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 7 : La grippe",
+          "translations": {
+            "zh": "第七集：流感",
+            "en": "Episode 7: The Flu",
+            "es": "Episodio 7: La gripe"
+          },
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "Avez-vous pris votre température?",
+          "translations": {
+            "zh": "您量过体温了吗？",
+            "en": "Have you taken your temperature?",
+            "es": "¿Ha tomado su temperatura?"
+          },
+          "start": 91.52,
+          "end": 91.52
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Oui.",
+      "translations": {
+        "zh": "是的。",
+        "en": "Yes.",
+        "es": "Sí."
+      },
+      "start": 91.52,
+      "end": 91.52,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 91.52,
+          "end": 91.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui.",
+          "translations": {
+            "zh": "是的。",
+            "en": "Yes.",
+            "es": "Sí."
+          },
+          "start": 91.52,
+          "end": 91.52
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "J'ai 39,2.",
+      "translations": {
+        "zh": "39.2度。",
+        "en": "I have 39.2.",
+        "es": "Tengo 39,2."
+      },
+      "start": 91.52,
+      "end": 91.52,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "39",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "2",
+          "start": 91.52,
+          "end": 91.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai 39,2.",
+          "translations": {
+            "zh": "39.2度。",
+            "en": "I have 39.2.",
+            "es": "Tengo 39,2."
+          },
+          "start": 91.52,
+          "end": 91.52
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Est-ce que vous prenez des analgésiques?",
+      "translations": {
+        "zh": "您在吃止痛药吗？",
+        "en": "Are you taking any painkillers?",
+        "es": "¿Toma analgésicos?"
+      },
+      "start": 91.52,
+      "end": 91.52,
+      "words": [
+        {
+          "text": "Est",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "ce",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "que",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "vous",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "prenez",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "des",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "analgésiques",
+          "start": 91.52,
+          "end": 91.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que vous prenez des analgésiques?",
+          "translations": {
+            "zh": "您在吃止痛药吗？",
+            "en": "Are you taking any painkillers?",
+            "es": "¿Toma analgésicos?"
+          },
+          "start": 91.52,
+          "end": 91.52
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Des comprimés d'acétaminophène, par exemple ?",
+      "translations": {
+        "zh": "比如对乙酰氨基酚片？",
+        "en": "Acetaminophen tablets, for example?",
+        "es": "¿Pastillas de acetaminofén, por ejemplo?"
+      },
+      "start": 91.52,
+      "end": 91.52,
+      "words": [
+        {
+          "text": "Des",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "comprimés",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "d'acétaminophène",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "par",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "exemple",
+          "start": 91.52,
+          "end": 91.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Des comprimés d'acétaminophène,",
+          "translations": {
+            "zh": "比如对乙酰氨基酚片，",
+            "en": "Acetaminophen tablets,",
+            "es": "Pastillas de acetaminofén,"
+          },
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "par exemple ?",
+          "translations": {
+            "zh": "比如说？",
+            "en": "for example?",
+            "es": "por ejemplo ?"
+          },
+          "start": 91.52,
+          "end": 91.52
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Oh, non, non!",
+      "translations": {
+        "zh": "哦，不，不！",
+        "en": "Oh, no, no!",
+        "es": "¡Oh, no, no!"
+      },
+      "start": 91.52,
+      "end": 91.52,
+      "words": [
+        {
+          "text": "Oh",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "non",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "non",
+          "start": 91.52,
+          "end": 91.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oh, non, non!",
+          "translations": {
+            "zh": "哦，不，不！",
+            "en": "Oh, no, no!",
+            "es": "¡Oh, no, no!"
+          },
+          "start": 91.52,
+          "end": 91.52
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Surtout pas!",
+      "translations": {
+        "zh": "绝对不行！",
+        "en": "Absolutely not!",
+        "es": "¡En absoluto!"
+      },
+      "start": 91.52,
+      "end": 91.52,
+      "words": [
+        {
+          "text": "Surtout",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "pas",
+          "start": 91.52,
+          "end": 91.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Surtout pas!",
+          "translations": {
+            "zh": "绝对不行！",
+            "en": "Absolutely not!",
+            "es": "¡En absoluto!"
+          },
+          "start": 91.52,
+          "end": 91.52
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Je préfère éviter les médicaments, sauf si je suis obligée.",
+      "translations": {
+        "zh": "我宁愿不吃药，除非万不得已。",
+        "en": "I prefer to avoid medications, unless I have to.",
+        "es": "Prefiero evitar los medicamentos, a menos que esté obligada."
+      },
+      "start": 91.52,
+      "end": 91.52,
+      "words": [
+        {
+          "text": "Je",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "préfère",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "éviter",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "les",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "médicaments",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "sauf",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "si",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "je",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "suis",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "obligée",
+          "start": 91.52,
+          "end": 91.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je préfère éviter les médicaments,",
+          "translations": {
+            "zh": "我宁愿不吃药，",
+            "en": "I prefer to avoid medications,",
+            "es": "Prefiero evitar los medicamentos,"
+          },
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "sauf si je suis obligée.",
+          "translations": {
+            "zh": "除非万不得已。",
+            "en": "unless I have to.",
+            "es": "a menos que esté obligada."
+          },
+          "start": 91.52,
+          "end": 91.52
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Eh bien, pourtant, ça pourrait faire baisser votre température et soulager la douleur.",
+      "translations": {
+        "zh": "嗯，不过，这可以降低您的体温并缓解疼痛。",
+        "en": "Well, however, it could bring down your temperature and relieve the pain.",
+        "es": "Bueno, sin embargo, podría bajar su temperatura y aliviar el dolor."
+      },
+      "start": 91.52,
+      "end": 94.4,
+      "words": [
+        {
+          "text": "Eh",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "bien",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "pourtant",
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "ça",
+          "start": 91.6,
+          "end": 91.68
+        },
+        {
+          "text": "pourrait",
+          "start": 91.68,
+          "end": 92
+        },
+        {
+          "text": "faire",
+          "start": 92,
+          "end": 92.24
+        },
+        {
+          "text": "baisser",
+          "start": 92.24,
+          "end": 92.48
+        },
+        {
+          "text": "votre",
+          "start": 92.48,
+          "end": 92.64
+        },
+        {
+          "text": "température",
+          "start": 92.64,
+          "end": 93.2
+        },
+        {
+          "text": "et",
+          "start": 93.2,
+          "end": 93.36
+        },
+        {
+          "text": "soulager",
+          "start": 93.36,
+          "end": 93.76
+        },
+        {
+          "text": "la",
+          "start": 93.76,
+          "end": 93.76
+        },
+        {
+          "text": "douleur",
+          "start": 93.84,
+          "end": 94.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Eh bien, pourtant,",
+          "translations": {
+            "zh": "嗯，不过，",
+            "en": "Well, however,",
+            "es": "Bueno, sin embargo,"
+          },
+          "start": 91.52,
+          "end": 91.52
+        },
+        {
+          "text": "ça pourrait faire baisser votre température",
+          "translations": {
+            "zh": "这可以降低您的体温",
+            "en": "it could bring down your temperature",
+            "es": "podría bajar su temperatura"
+          },
+          "start": 91.6,
+          "end": 93.2
+        },
+        {
+          "text": "et soulager la douleur.",
+          "translations": {
+            "zh": "并缓解疼痛。",
+            "en": "and relieve the pain.",
+            "es": "y aliviar el dolor."
+          },
+          "start": 93.2,
+          "end": 94.4
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Depuis quand faites-vous de la fièvre?",
+      "translations": {
+        "zh": "您从什么时候开始发烧的？",
+        "en": "Since when have you had a fever?",
+        "es": "¿Desde cuándo tiene fiebre?"
+      },
+      "start": 95.28,
+      "end": 97.48,
+      "words": [
+        {
+          "text": "Depuis",
+          "start": 95.28,
+          "end": 95.28
+        },
+        {
+          "text": "quand",
+          "start": 95.52,
+          "end": 95.68
+        },
+        {
+          "text": "faites",
+          "start": 95.86,
+          "end": 96.04
+        },
+        {
+          "text": "vous",
+          "start": 96.22,
+          "end": 96.4
+        },
+        {
+          "text": "de",
+          "start": 96.58,
+          "end": 96.76
+        },
+        {
+          "text": "la",
+          "start": 96.94,
+          "end": 97.12
+        },
+        {
+          "text": "fièvre",
+          "start": 97.3,
+          "end": 97.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Depuis quand faites-vous de la fièvre?",
+          "translations": {
+            "zh": "您从什么时候开始发烧的？",
+            "en": "Since when have you had a fever?",
+            "es": "¿Desde cuándo tiene fiebre?"
+          },
+          "start": 95.28,
+          "end": 97.48
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "Depuis hier matin.",
+      "translations": {
+        "zh": "从昨天早上开始。",
+        "en": "Since yesterday morning.",
+        "es": "Desde ayer por la mañana."
+      },
+      "start": 97.66,
+      "end": 98.56,
+      "words": [
+        {
+          "text": "Depuis",
+          "start": 97.66,
+          "end": 97.84
+        },
+        {
+          "text": "hier",
+          "start": 98.02,
+          "end": 98.2
+        },
+        {
+          "text": "matin",
+          "start": 98.38,
+          "end": 98.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Depuis hier matin.",
+          "translations": {
+            "zh": "从昨天早上开始。",
+            "en": "Since yesterday morning.",
+            "es": "Desde ayer por la mañana."
+          },
+          "start": 97.66,
+          "end": 98.56
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "Avez-vous du mal à respirer?",
+      "translations": {
+        "zh": "您呼吸困难吗？",
+        "en": "Do you have difficulty breathing?",
+        "es": "¿Tiene dificultad para respirar?"
+      },
+      "start": 98.683,
+      "end": 100.297,
+      "words": [
+        {
+          "text": "Avez",
+          "start": 98.683,
+          "end": 98.807
+        },
+        {
+          "text": "vous",
+          "start": 98.93,
+          "end": 99.054
+        },
+        {
+          "text": "du",
+          "start": 99.178,
+          "end": 99.301
+        },
+        {
+          "text": "mal",
+          "start": 99.425,
+          "end": 99.549
+        },
+        {
+          "text": "à",
+          "start": 99.672,
+          "end": 99.796
+        },
+        {
+          "text": "respirer",
+          "start": 99.92,
+          "end": 100.297
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Avez-vous du mal à respirer?",
+          "translations": {
+            "zh": "您呼吸困难吗？",
+            "en": "Do you have difficulty breathing?",
+            "es": "¿Tiene dificultad para respirar?"
+          },
+          "start": 98.683,
+          "end": 100.297
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "Non.",
+      "translations": {
+        "zh": "没有。",
+        "en": "No.",
+        "es": "No."
+      },
+      "start": 100.674,
+      "end": 101.051,
+      "words": [
+        {
+          "text": "Non",
+          "start": 100.674,
+          "end": 101.051
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Non.",
+          "translations": {
+            "zh": "没有。",
+            "en": "No.",
+            "es": "No."
+          },
+          "start": 100.674,
+          "end": 101.051
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "text": "Des douleurs très fortes à la tête ou dans la poitrine et qui s'intensifient?",
+      "translations": {
+        "zh": "头部或胸部有剧烈疼痛并且越来越严重吗？",
+        "en": "Very severe pain in the head or in the chest that is getting worse?",
+        "es": "¿Dolores muy fuertes en la cabeza o en el pecho y que se intensifican?"
+      },
+      "start": 101.428,
+      "end": 105.6,
+      "words": [
+        {
+          "text": "Des",
+          "start": 101.428,
+          "end": 101.805
+        },
+        {
+          "text": "douleurs",
+          "start": 102.182,
+          "end": 102.56
+        },
+        {
+          "text": "très",
+          "start": 102.56,
+          "end": 102.72
+        },
+        {
+          "text": "fortes",
+          "start": 102.72,
+          "end": 102.96
+        },
+        {
+          "text": "à",
+          "start": 102.96,
+          "end": 103.04
+        },
+        {
+          "text": "la",
+          "start": 103.04,
+          "end": 103.2
+        },
+        {
+          "text": "tête",
+          "start": 103.2,
+          "end": 103.6
+        },
+        {
+          "text": "ou",
+          "start": 103.68,
+          "end": 103.92
+        },
+        {
+          "text": "dans",
+          "start": 103.92,
+          "end": 104.08
+        },
+        {
+          "text": "la",
+          "start": 104.08,
+          "end": 104.16
+        },
+        {
+          "text": "poitrine",
+          "start": 104.16,
+          "end": 104.64
+        },
+        {
+          "text": "et",
+          "start": 104.64,
+          "end": 104.8
+        },
+        {
+          "text": "qui",
+          "start": 104.8,
+          "end": 104.88
+        },
+        {
+          "text": "s'intensifient",
+          "start": 104.96,
+          "end": 105.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Des douleurs très fortes à la tête ou dans la poitrine",
+          "translations": {
+            "zh": "头部或胸部有剧烈疼痛",
+            "en": "Very severe pain in the head or in the chest",
+            "es": "Dolores muy fuertes en la cabeza o en el pecho"
+          },
+          "start": 101.428,
+          "end": 104.64
+        },
+        {
+          "text": "et qui s'intensifient?",
+          "translations": {
+            "zh": "并且越来越严重吗？",
+            "en": "that is getting worse?",
+            "es": "y que se intensifican?"
+          },
+          "start": 104.64,
+          "end": 105.6
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "text": "Non.",
+      "translations": {
+        "zh": "没有。",
+        "en": "No.",
+        "es": "No."
+      },
+      "start": 106.24,
+      "end": 106.64,
+      "words": [
+        {
+          "text": "Non",
+          "start": 106.24,
+          "end": 106.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Non.",
+          "translations": {
+            "zh": "没有。",
+            "en": "No.",
+            "es": "No."
+          },
+          "start": 106.24,
+          "end": 106.64
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "text": "Vous sentez-vous désorientée, avez-vous fait des convulsions ou perdu connaissance?",
+      "translations": {
+        "zh": "您感觉神志不清吗，有过抽搐或失去知觉吗？",
+        "en": "Do you feel disoriented, have you had convulsions or lost consciousness?",
+        "es": "¿Se siente desorientada, ha tenido convulsiones o ha perdido el conocimiento?"
+      },
+      "start": 107.12,
+      "end": 110.72,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 107.12,
+          "end": 107.28
+        },
+        {
+          "text": "sentez",
+          "start": 107.28,
+          "end": 107.6
+        },
+        {
+          "text": "vous",
+          "start": 107.6,
+          "end": 107.68
+        },
+        {
+          "text": "désorientée",
+          "start": 107.68,
+          "end": 108.4
+        },
+        {
+          "text": "avez",
+          "start": 108.4,
+          "end": 108.56
+        },
+        {
+          "text": "vous",
+          "start": 108.56,
+          "end": 108.72
+        },
+        {
+          "text": "fait",
+          "start": 108.72,
+          "end": 108.88
+        },
+        {
+          "text": "des",
+          "start": 108.88,
+          "end": 109.04
+        },
+        {
+          "text": "convulsions",
+          "start": 109.04,
+          "end": 109.68
+        },
+        {
+          "text": "ou",
+          "start": 109.76,
+          "end": 109.84
+        },
+        {
+          "text": "perdu",
+          "start": 109.84,
+          "end": 110.24
+        },
+        {
+          "text": "connaissance",
+          "start": 110.24,
+          "end": 110.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous sentez-vous désorientée,",
+          "translations": {
+            "zh": "您感觉神志不清吗，",
+            "en": "Do you feel disoriented,",
+            "es": "Se siente desorientada,"
+          },
+          "start": 107.12,
+          "end": 108.4
+        },
+        {
+          "text": "avez-vous fait des convulsions",
+          "translations": {
+            "zh": "有过抽搐",
+            "en": "have you had convulsions",
+            "es": "ha tenido convulsiones"
+          },
+          "start": 108.4,
+          "end": 109.68
+        },
+        {
+          "text": "ou perdu connaissance?",
+          "translations": {
+            "zh": "或失去知觉吗？",
+            "en": "or lost consciousness?",
+            "es": "o ha perdido el conocimiento?"
+          },
+          "start": 109.76,
+          "end": 110.72
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "text": "Non plus...",
+      "translations": {
+        "zh": "也没有……",
+        "en": "No, neither...",
+        "es": "Tampoco..."
+      },
+      "start": 111.52,
+      "end": 112.08,
+      "words": [
+        {
+          "text": "Non",
+          "start": 111.52,
+          "end": 111.84
+        },
+        {
+          "text": "plus",
+          "start": 111.84,
+          "end": 112.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Non plus...",
+          "translations": {
+            "zh": "也没有……",
+            "en": "No, neither...",
+            "es": "Tampoco..."
+          },
+          "start": 111.52,
+          "end": 112.08
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "text": "Des vomissements?",
+      "translations": {
+        "zh": "有呕吐吗？",
+        "en": "Any vomiting?",
+        "es": "¿Vómitos?"
+      },
+      "start": 112.88,
+      "end": 113.52,
+      "words": [
+        {
+          "text": "Des",
+          "start": 112.88,
+          "end": 112.88
+        },
+        {
+          "text": "vomissements",
+          "start": 113.52,
+          "end": 113.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Des vomissements?",
+          "translations": {
+            "zh": "有呕吐吗？",
+            "en": "Any vomiting?",
+            "es": "¿Vómitos?"
+          },
+          "start": 112.88,
+          "end": 113.52
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "text": "Non...",
+      "translations": {
+        "zh": "没有……",
+        "en": "No...",
+        "es": "No..."
+      },
+      "start": 113.92,
+      "end": 114.48,
+      "words": [
+        {
+          "text": "Non",
+          "start": 113.92,
+          "end": 114.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Non...",
+          "translations": {
+            "zh": "没有……",
+            "en": "No...",
+            "es": "No..."
+          },
+          "start": 113.92,
+          "end": 114.48
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "text": "Épisode 7 : La grippe Parfait.",
+      "translations": {
+        "zh": "第七集：流感 很好。",
+        "en": "Episode 7: The Flu Perfect.",
+        "es": "Episodio 7: La gripe Perfecto."
+      },
+      "start": 114.913,
+      "end": 118.813,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 114.913,
+          "end": 115.346
+        },
+        {
+          "text": "7",
+          "start": 115.78,
+          "end": 116.213
+        },
+        {
+          "text": "La",
+          "start": 116.646,
+          "end": 117.08
+        },
+        {
+          "text": "grippe",
+          "start": 117.513,
+          "end": 117.946
+        },
+        {
+          "text": "Parfait",
+          "start": 118.38,
+          "end": 118.813
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 7 : La grippe",
+          "translations": {
+            "zh": "第七集：流感",
+            "en": "Episode 7: The Flu",
+            "es": "Episodio 7: La gripe"
+          },
+          "start": 114.913,
+          "end": 117.946
+        },
+        {
+          "text": "Parfait.",
+          "translations": {
+            "zh": "很好。",
+            "en": "Perfect.",
+            "es": "Perfecto."
+          },
+          "start": 118.38,
+          "end": 118.813
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "text": "Votre état de santé ne me semble pas inquiétant.",
+      "translations": {
+        "zh": "您的健康状况看起来并不令人担忧。",
+        "en": "Your health condition does not seem concerning to me.",
+        "es": "Su estado de salud no me parece preocupante."
+      },
+      "start": 119.246,
+      "end": 119.76,
+      "words": [
+        {
+          "text": "Votre",
+          "start": 119.246,
+          "end": 119.68
+        },
+        {
+          "text": "état",
+          "start": 119.68,
+          "end": 119.693
+        },
+        {
+          "text": "de",
+          "start": 119.706,
+          "end": 119.72
+        },
+        {
+          "text": "santé",
+          "start": 119.733,
+          "end": 119.746
+        },
+        {
+          "text": "ne",
+          "start": 119.76,
+          "end": 119.76
+        },
+        {
+          "text": "me",
+          "start": 119.76,
+          "end": 119.76
+        },
+        {
+          "text": "semble",
+          "start": 119.76,
+          "end": 119.76
+        },
+        {
+          "text": "pas",
+          "start": 119.76,
+          "end": 119.76
+        },
+        {
+          "text": "inquiétant",
+          "start": 119.76,
+          "end": 119.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Votre état de santé",
+          "translations": {
+            "zh": "您的健康状况",
+            "en": "Your health condition",
+            "es": "Su estado de salud"
+          },
+          "start": 119.246,
+          "end": 119.746
+        },
+        {
+          "text": "ne me semble pas inquiétant.",
+          "translations": {
+            "zh": "看起来并不令人担忧。",
+            "en": "does not seem concerning to me.",
+            "es": "no me parece preocupante."
+          },
+          "start": 119.76,
+          "end": 119.76
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "text": "Ce n'est pas nécessaire de consulter pour le moment.",
+      "translations": {
+        "zh": "目前没有必要去就医。",
+        "en": "It's not necessary to see a doctor for the moment.",
+        "es": "No es necesario consultar por el momento."
+      },
+      "start": 119.76,
+      "end": 121.36,
+      "words": [
+        {
+          "text": "Ce",
+          "start": 119.76,
+          "end": 119.76
+        },
+        {
+          "text": "n'est",
+          "start": 119.76,
+          "end": 119.76
+        },
+        {
+          "text": "pas",
+          "start": 119.76,
+          "end": 119.76
+        },
+        {
+          "text": "nécessaire",
+          "start": 119.92,
+          "end": 120.32
+        },
+        {
+          "text": "de",
+          "start": 120.32,
+          "end": 120.32
+        },
+        {
+          "text": "consulter",
+          "start": 120.4,
+          "end": 120.8
+        },
+        {
+          "text": "pour",
+          "start": 120.8,
+          "end": 120.96
+        },
+        {
+          "text": "le",
+          "start": 120.96,
+          "end": 121.04
+        },
+        {
+          "text": "moment",
+          "start": 121.04,
+          "end": 121.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ce n'est pas nécessaire de consulter",
+          "translations": {
+            "zh": "没有必要去就医",
+            "en": "It's not necessary to see a doctor",
+            "es": "No es necesario consultar"
+          },
+          "start": 119.76,
+          "end": 120.8
+        },
+        {
+          "text": "pour le moment.",
+          "translations": {
+            "zh": "暂时。",
+            "en": "for the moment.",
+            "es": "por el momento."
+          },
+          "start": 120.8,
+          "end": 121.36
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "text": "Par contre, si vous avez l'un des symptômes que je viens de vous énumérer, il vaut mieux voir un médecin rapidement.",
+      "translations": {
+        "zh": "不过，如果您出现我刚才列举的任何症状，最好尽快去看医生。",
+        "en": "On the other hand, if you have any of the symptoms I just listed for you, it's better to see a doctor quickly.",
+        "es": "Por otro lado, si tiene uno de los síntomas que acabo de enumerarle, es mejor ver a un médico rápidamente."
+      },
+      "start": 121.6,
+      "end": 127.28,
+      "words": [
+        {
+          "text": "Par",
+          "start": 121.6,
+          "end": 121.76
+        },
+        {
+          "text": "contre",
+          "start": 121.76,
+          "end": 122.16
+        },
+        {
+          "text": "si",
+          "start": 122.4,
+          "end": 122.48
+        },
+        {
+          "text": "vous",
+          "start": 122.48,
+          "end": 122.48
+        },
+        {
+          "text": "avez",
+          "start": 122.56,
+          "end": 122.96
+        },
+        {
+          "text": "l'un",
+          "start": 122.96,
+          "end": 123.52
+        },
+        {
+          "text": "des",
+          "start": 123.52,
+          "end": 123.6
+        },
+        {
+          "text": "symptômes",
+          "start": 123.6,
+          "end": 124
+        },
+        {
+          "text": "que",
+          "start": 124,
+          "end": 124.16
+        },
+        {
+          "text": "je",
+          "start": 124.16,
+          "end": 124.16
+        },
+        {
+          "text": "viens",
+          "start": 124.24,
+          "end": 124.388
+        },
+        {
+          "text": "de",
+          "start": 124.537,
+          "end": 124.685
+        },
+        {
+          "text": "vous",
+          "start": 124.834,
+          "end": 124.982
+        },
+        {
+          "text": "énumérer",
+          "start": 125.131,
+          "end": 125.28
+        },
+        {
+          "text": "il",
+          "start": 125.28,
+          "end": 125.68
+        },
+        {
+          "text": "vaut",
+          "start": 125.68,
+          "end": 125.84
+        },
+        {
+          "text": "mieux",
+          "start": 125.84,
+          "end": 126.08
+        },
+        {
+          "text": "voir",
+          "start": 126.08,
+          "end": 126.32
+        },
+        {
+          "text": "un",
+          "start": 126.32,
+          "end": 126.32
+        },
+        {
+          "text": "médecin",
+          "start": 126.32,
+          "end": 126.64
+        },
+        {
+          "text": "rapidement",
+          "start": 126.8,
+          "end": 127.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Par contre,",
+          "translations": {
+            "zh": "不过，",
+            "en": "On the other hand,",
+            "es": "Por otro lado,"
+          },
+          "start": 121.6,
+          "end": 122.16
+        },
+        {
+          "text": "si vous avez l'un des symptômes que je viens de vous énumérer,",
+          "translations": {
+            "zh": "如果您出现我刚才列举的任何症状，",
+            "en": "if you have any of the symptoms I just listed for you,",
+            "es": "si tiene uno de los síntomas que acabo de enumerarle,"
+          },
+          "start": 122.4,
+          "end": 125.28
+        },
+        {
+          "text": "il vaut mieux voir un médecin rapidement.",
+          "translations": {
+            "zh": "最好尽快去看医生。",
+            "en": "it's better to see a doctor quickly.",
+            "es": "es mejor ver a un médico rápidamente."
+          },
+          "start": 125.28,
+          "end": 127.28
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "text": "Avez-vous un médecin de famille?",
+      "translations": {
+        "zh": "您有家庭医生吗？",
+        "en": "Do you have a family doctor?",
+        "es": "¿Tiene un médico de familia?"
+      },
+      "start": 127.44,
+      "end": 129.12,
+      "words": [
+        {
+          "text": "Avez",
+          "start": 127.44,
+          "end": 128.08
+        },
+        {
+          "text": "vous",
+          "start": 128.08,
+          "end": 128.08
+        },
+        {
+          "text": "un",
+          "start": 128.08,
+          "end": 128.08
+        },
+        {
+          "text": "médecin",
+          "start": 128.48,
+          "end": 128.56
+        },
+        {
+          "text": "de",
+          "start": 128.64,
+          "end": 128.72
+        },
+        {
+          "text": "famille",
+          "start": 128.8,
+          "end": 129.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Avez-vous un médecin de famille?",
+          "translations": {
+            "zh": "您有家庭医生吗？",
+            "en": "Do you have a family doctor?",
+            "es": "¿Tiene un médico de familia?"
+          },
+          "start": 127.44,
+          "end": 129.12
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "text": "Non.",
+      "translations": {
+        "zh": "没有。",
+        "en": "No.",
+        "es": "No."
+      },
+      "start": 129.6,
+      "end": 130,
+      "words": [
+        {
+          "text": "Non",
+          "start": 129.6,
+          "end": 130
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Non.",
+          "translations": {
+            "zh": "没有。",
+            "en": "No.",
+            "es": "No."
+          },
+          "start": 129.6,
+          "end": 130
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "text": "C'est la première fois que je suis malade depuis mon arrivée au Québec.",
+      "translations": {
+        "zh": "这是我来到魁北克以来第一次生病。",
+        "en": "It's the first time I've been sick since my arrival in Quebec.",
+        "es": "Es la primera vez que estoy enferma desde mi llegada a Quebec."
+      },
+      "start": 130.96,
+      "end": 135.04,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 130.96,
+          "end": 131.36
+        },
+        {
+          "text": "la",
+          "start": 131.36,
+          "end": 131.52
+        },
+        {
+          "text": "première",
+          "start": 131.52,
+          "end": 131.92
+        },
+        {
+          "text": "fois",
+          "start": 132,
+          "end": 132.4
+        },
+        {
+          "text": "que",
+          "start": 132.4,
+          "end": 132.56
+        },
+        {
+          "text": "je",
+          "start": 132.56,
+          "end": 132.72
+        },
+        {
+          "text": "suis",
+          "start": 132.72,
+          "end": 132.72
+        },
+        {
+          "text": "malade",
+          "start": 132.96,
+          "end": 133.44
+        },
+        {
+          "text": "depuis",
+          "start": 133.44,
+          "end": 133.76
+        },
+        {
+          "text": "mon",
+          "start": 133.76,
+          "end": 133.92
+        },
+        {
+          "text": "arrivée",
+          "start": 133.92,
+          "end": 133.92
+        },
+        {
+          "text": "au",
+          "start": 134.48,
+          "end": 134.56
+        },
+        {
+          "text": "Québec",
+          "start": 134.56,
+          "end": 135.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est la première fois que je suis malade",
+          "translations": {
+            "zh": "这是我第一次生病",
+            "en": "It's the first time I've been sick",
+            "es": "Es la primera vez que estoy enferma"
+          },
+          "start": 130.96,
+          "end": 133.44
+        },
+        {
+          "text": "depuis mon arrivée au Québec.",
+          "translations": {
+            "zh": "自从我来到魁北克以来。",
+            "en": "since my arrival in Quebec.",
+            "es": "desde mi llegada a Quebec."
+          },
+          "start": 133.44,
+          "end": 135.04
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "text": "Je ne suis jamais malade, d'ailleurs!",
+      "translations": {
+        "zh": "我从来不生病的！",
+        "en": "I'm never sick, as a matter of fact!",
+        "es": "¡Nunca estoy enferma, además!"
+      },
+      "start": 135.92,
+      "end": 138.32,
+      "words": [
+        {
+          "text": "Je",
+          "start": 135.92,
+          "end": 136
+        },
+        {
+          "text": "ne",
+          "start": 136,
+          "end": 136.48
+        },
+        {
+          "text": "suis",
+          "start": 136.8,
+          "end": 136.8
+        },
+        {
+          "text": "jamais",
+          "start": 136.8,
+          "end": 136.8
+        },
+        {
+          "text": "malade",
+          "start": 137.36,
+          "end": 137.36
+        },
+        {
+          "text": "d'ailleurs",
+          "start": 137.92,
+          "end": 138.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je ne suis jamais malade,",
+          "translations": {
+            "zh": "我从来不生病，",
+            "en": "I'm never sick,",
+            "es": "Nunca estoy enferma,"
+          },
+          "start": 135.92,
+          "end": 137.36
+        },
+        {
+          "text": "d'ailleurs!",
+          "translations": {
+            "zh": "真的！",
+            "en": "as a matter of fact!",
+            "es": "además!"
+          },
+          "start": 137.92,
+          "end": 138.32
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "text": "Qu'est-ce que je dois faire si je veux voir un médecin?",
+      "translations": {
+        "zh": "如果我想看医生，我该怎么做？",
+        "en": "What should I do if I want to see a doctor?",
+        "es": "¿Qué debo hacer si quiero ver a un médico?"
+      },
+      "start": 138.32,
+      "end": 142.56,
+      "words": [
+        {
+          "text": "Qu'est",
+          "start": 138.32,
+          "end": 139.84
+        },
+        {
+          "text": "ce",
+          "start": 140,
+          "end": 140.32
+        },
+        {
+          "text": "que",
+          "start": 140.32,
+          "end": 140.48
+        },
+        {
+          "text": "je",
+          "start": 140.48,
+          "end": 140.64
+        },
+        {
+          "text": "dois",
+          "start": 140.64,
+          "end": 140.8
+        },
+        {
+          "text": "faire",
+          "start": 140.88,
+          "end": 140.96
+        },
+        {
+          "text": "si",
+          "start": 141.12,
+          "end": 141.44
+        },
+        {
+          "text": "je",
+          "start": 141.44,
+          "end": 141.44
+        },
+        {
+          "text": "veux",
+          "start": 141.44,
+          "end": 141.6
+        },
+        {
+          "text": "voir",
+          "start": 141.6,
+          "end": 141.92
+        },
+        {
+          "text": "un",
+          "start": 141.92,
+          "end": 142.08
+        },
+        {
+          "text": "médecin",
+          "start": 142.08,
+          "end": 142.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Qu'est-ce que je dois faire",
+          "translations": {
+            "zh": "我该怎么做",
+            "en": "What should I do",
+            "es": "Qué debo hacer"
+          },
+          "start": 138.32,
+          "end": 140.96
+        },
+        {
+          "text": "si je veux voir un médecin?",
+          "translations": {
+            "zh": "如果我想看医生？",
+            "en": "if I want to see a doctor?",
+            "es": "si quiero ver a un médico?"
+          },
+          "start": 141.12,
+          "end": 142.56
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "text": "Si vous avez pas de médecin de famille, vous pouvez aller dans une clinique sans rendez-vous.",
+      "translations": {
+        "zh": "如果您没有家庭医生，您可以去免预约诊所。",
+        "en": "If you don't have a family doctor, you can go to a walk-in clinic.",
+        "es": "Si no tiene médico de familia, puede ir a una clínica sin cita."
+      },
+      "start": 142.8,
+      "end": 147.04,
+      "words": [
+        {
+          "text": "Si",
+          "start": 142.8,
+          "end": 142.8
+        },
+        {
+          "text": "vous",
+          "start": 143.12,
+          "end": 143.12
+        },
+        {
+          "text": "avez",
+          "start": 143.12,
+          "end": 143.28
+        },
+        {
+          "text": "pas",
+          "start": 144.4,
+          "end": 144.48
+        },
+        {
+          "text": "de",
+          "start": 144.56,
+          "end": 144.64
+        },
+        {
+          "text": "médecin",
+          "start": 144.64,
+          "end": 144.88
+        },
+        {
+          "text": "de",
+          "start": 144.88,
+          "end": 144.88
+        },
+        {
+          "text": "famille",
+          "start": 144.88,
+          "end": 145.28
+        },
+        {
+          "text": "vous",
+          "start": 145.28,
+          "end": 145.44
+        },
+        {
+          "text": "pouvez",
+          "start": 145.44,
+          "end": 145.68
+        },
+        {
+          "text": "aller",
+          "start": 145.68,
+          "end": 145.84
+        },
+        {
+          "text": "dans",
+          "start": 145.84,
+          "end": 146
+        },
+        {
+          "text": "une",
+          "start": 146,
+          "end": 146.16
+        },
+        {
+          "text": "clinique",
+          "start": 146.16,
+          "end": 146.48
+        },
+        {
+          "text": "sans",
+          "start": 146.48,
+          "end": 146.64
+        },
+        {
+          "text": "rendez",
+          "start": 146.64,
+          "end": 146.88
+        },
+        {
+          "text": "vous",
+          "start": 146.88,
+          "end": 147.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Si vous avez pas de médecin de famille,",
+          "translations": {
+            "zh": "如果您没有家庭医生，",
+            "en": "If you don't have a family doctor,",
+            "es": "Si no tiene médico de familia,"
+          },
+          "start": 142.8,
+          "end": 145.28
+        },
+        {
+          "text": "vous pouvez aller dans une clinique sans rendez-vous.",
+          "translations": {
+            "zh": "您可以去免预约诊所。",
+            "en": "you can go to a walk-in clinic.",
+            "es": "puede ir a una clínica sin cita."
+          },
+          "start": 145.28,
+          "end": 147.04
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "text": "Mais ne vous inquiétez pas pour le moment.",
+      "translations": {
+        "zh": "不过暂时不用担心。",
+        "en": "But don't worry for the moment.",
+        "es": "Pero no se preocupe por el momento."
+      },
+      "start": 147.92,
+      "end": 149.36,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 147.92,
+          "end": 148.08
+        },
+        {
+          "text": "ne",
+          "start": 148.08,
+          "end": 148.16
+        },
+        {
+          "text": "vous",
+          "start": 148.16,
+          "end": 148.32
+        },
+        {
+          "text": "inquiétez",
+          "start": 148.32,
+          "end": 148.64
+        },
+        {
+          "text": "pas",
+          "start": 148.64,
+          "end": 148.8
+        },
+        {
+          "text": "pour",
+          "start": 148.8,
+          "end": 149.04
+        },
+        {
+          "text": "le",
+          "start": 149.04,
+          "end": 149.04
+        },
+        {
+          "text": "moment",
+          "start": 149.04,
+          "end": 149.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais ne vous inquiétez pas",
+          "translations": {
+            "zh": "不过不用担心",
+            "en": "But don't worry",
+            "es": "Pero no se preocupe"
+          },
+          "start": 147.92,
+          "end": 148.8
+        },
+        {
+          "text": "pour le moment.",
+          "translations": {
+            "zh": "暂时。",
+            "en": "for the moment.",
+            "es": "por el momento."
+          },
+          "start": 148.8,
+          "end": 149.36
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "text": "Dans votre cas, le mieux est de rester tranquillement chez vous et de vous reposer.",
+      "translations": {
+        "zh": "就您的情况而言，最好安安静静地待在家里休息。",
+        "en": "In your case, the best thing is to stay quietly at home and rest.",
+        "es": "En su caso, lo mejor es quedarse tranquilamente en casa y descansar."
+      },
+      "start": 149.92,
+      "end": 153.6,
+      "words": [
+        {
+          "text": "Dans",
+          "start": 149.92,
+          "end": 150.08
+        },
+        {
+          "text": "votre",
+          "start": 150.08,
+          "end": 150.32
+        },
+        {
+          "text": "cas",
+          "start": 150.32,
+          "end": 150.64
+        },
+        {
+          "text": "le",
+          "start": 151.04,
+          "end": 151.28
+        },
+        {
+          "text": "mieux",
+          "start": 151.28,
+          "end": 151.52
+        },
+        {
+          "text": "est",
+          "start": 151.52,
+          "end": 151.52
+        },
+        {
+          "text": "de",
+          "start": 151.52,
+          "end": 151.6
+        },
+        {
+          "text": "rester",
+          "start": 151.6,
+          "end": 151.84
+        },
+        {
+          "text": "tranquillement",
+          "start": 151.92,
+          "end": 152.4
+        },
+        {
+          "text": "chez",
+          "start": 152.4,
+          "end": 152.64
+        },
+        {
+          "text": "vous",
+          "start": 152.64,
+          "end": 152.72
+        },
+        {
+          "text": "et",
+          "start": 152.72,
+          "end": 152.8
+        },
+        {
+          "text": "de",
+          "start": 152.8,
+          "end": 152.96
+        },
+        {
+          "text": "vous",
+          "start": 152.96,
+          "end": 153.04
+        },
+        {
+          "text": "reposer",
+          "start": 153.04,
+          "end": 153.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Dans votre cas,",
+          "translations": {
+            "zh": "就您的情况而言，",
+            "en": "In your case,",
+            "es": "En su caso,"
+          },
+          "start": 149.92,
+          "end": 150.64
+        },
+        {
+          "text": "le mieux est de rester tranquillement chez vous",
+          "translations": {
+            "zh": "最好安安静静地待在家里",
+            "en": "the best thing is to stay quietly at home",
+            "es": "lo mejor es quedarse tranquilamente en casa"
+          },
+          "start": 151.04,
+          "end": 152.72
+        },
+        {
+          "text": "et de vous reposer.",
+          "translations": {
+            "zh": "并休息。",
+            "en": "and rest.",
+            "es": "y descansar."
+          },
+          "start": 152.72,
+          "end": 153.6
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "text": "Et surtout, il faut boire beaucoup d'eau.",
+      "translations": {
+        "zh": "最重要的是，要喝大量的水。",
+        "en": "And above all, you need to drink a lot of water.",
+        "es": "Y sobre todo, hay que beber mucha agua."
+      },
+      "start": 153.84,
+      "end": 155.44,
+      "words": [
+        {
+          "text": "Et",
+          "start": 153.84,
+          "end": 154
+        },
+        {
+          "text": "surtout",
+          "start": 154,
+          "end": 154.32
+        },
+        {
+          "text": "il",
+          "start": 154.56,
+          "end": 154.72
+        },
+        {
+          "text": "faut",
+          "start": 154.72,
+          "end": 154.8
+        },
+        {
+          "text": "boire",
+          "start": 154.8,
+          "end": 155.04
+        },
+        {
+          "text": "beaucoup",
+          "start": 155.04,
+          "end": 155.28
+        },
+        {
+          "text": "d'eau",
+          "start": 155.28,
+          "end": 155.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et surtout,",
+          "translations": {
+            "zh": "最重要的是，",
+            "en": "And above all,",
+            "es": "Y sobre todo,"
+          },
+          "start": 153.84,
+          "end": 154.32
+        },
+        {
+          "text": "il faut boire beaucoup d'eau.",
+          "translations": {
+            "zh": "要喝大量的水。",
+            "en": "you need to drink a lot of water.",
+            "es": "hay que beber mucha agua."
+          },
+          "start": 154.56,
+          "end": 155.44
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "text": "Est-ce que je vais rester comme ça longtemps?",
+      "translations": {
+        "zh": "我会这样持续很久吗？",
+        "en": "Am I going to stay like this for long?",
+        "es": "¿Voy a estar así mucho tiempo?"
+      },
+      "start": 156.56,
+      "end": 159.36,
+      "words": [
+        {
+          "text": "Est",
+          "start": 156.56,
+          "end": 156.56
+        },
+        {
+          "text": "ce",
+          "start": 156.56,
+          "end": 156.88
+        },
+        {
+          "text": "que",
+          "start": 156.88,
+          "end": 157.28
+        },
+        {
+          "text": "je",
+          "start": 157.28,
+          "end": 157.44
+        },
+        {
+          "text": "vais",
+          "start": 157.44,
+          "end": 157.68
+        },
+        {
+          "text": "rester",
+          "start": 157.68,
+          "end": 158.08
+        },
+        {
+          "text": "comme",
+          "start": 158.08,
+          "end": 158.32
+        },
+        {
+          "text": "ça",
+          "start": 158.32,
+          "end": 158.72
+        },
+        {
+          "text": "longtemps",
+          "start": 158.72,
+          "end": 159.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce que je vais rester comme ça longtemps?",
+          "translations": {
+            "zh": "我会这样持续很久吗？",
+            "en": "Am I going to stay like this for long?",
+            "es": "¿Voy a estar así mucho tiempo?"
+          },
+          "start": 156.56,
+          "end": 159.36
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "text": "Eh bien, si c'est une grippe, les symptômes peuvent durer de cinq à sept jours.",
+      "translations": {
+        "zh": "嗯，如果是流感的话，症状可能持续五到七天。",
+        "en": "Well, if it's the flu, the symptoms can last from five to seven days.",
+        "es": "Bueno, si es una gripe, los síntomas pueden durar de cinco a siete días."
+      },
+      "start": 160.24,
+      "end": 164.64,
+      "words": [
+        {
+          "text": "Eh",
+          "start": 160.24,
+          "end": 160.32
+        },
+        {
+          "text": "bien",
+          "start": 160.32,
+          "end": 160.48
+        },
+        {
+          "text": "si",
+          "start": 161.28,
+          "end": 161.36
+        },
+        {
+          "text": "c'est",
+          "start": 161.36,
+          "end": 161.52
+        },
+        {
+          "text": "une",
+          "start": 161.52,
+          "end": 161.68
+        },
+        {
+          "text": "grippe",
+          "start": 161.68,
+          "end": 162.08
+        },
+        {
+          "text": "les",
+          "start": 162.56,
+          "end": 162.72
+        },
+        {
+          "text": "symptômes",
+          "start": 162.72,
+          "end": 163.12
+        },
+        {
+          "text": "peuvent",
+          "start": 163.12,
+          "end": 163.28
+        },
+        {
+          "text": "durer",
+          "start": 163.44,
+          "end": 163.68
+        },
+        {
+          "text": "de",
+          "start": 163.68,
+          "end": 163.84
+        },
+        {
+          "text": "cinq",
+          "start": 163.84,
+          "end": 164
+        },
+        {
+          "text": "à",
+          "start": 164.1,
+          "end": 164.2
+        },
+        {
+          "text": "sept",
+          "start": 164.3,
+          "end": 164.4
+        },
+        {
+          "text": "jours",
+          "start": 164.4,
+          "end": 164.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Eh bien,",
+          "translations": {
+            "zh": "嗯，",
+            "en": "Well,",
+            "es": "Bueno,"
+          },
+          "start": 160.24,
+          "end": 160.48
+        },
+        {
+          "text": "si c'est une grippe,",
+          "translations": {
+            "zh": "如果是流感的话，",
+            "en": "if it's the flu,",
+            "es": "si es una gripe,"
+          },
+          "start": 161.28,
+          "end": 162.08
+        },
+        {
+          "text": "les symptômes peuvent durer de cinq à sept jours.",
+          "translations": {
+            "zh": "症状可能持续五到七天。",
+            "en": "the symptoms can last from five to seven days.",
+            "es": "los síntomas pueden durar de cinco a siete días."
+          },
+          "start": 162.56,
+          "end": 164.64
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "text": "Impossible!",
+      "translations": {
+        "zh": "不可能！",
+        "en": "Impossible!",
+        "es": "¡Imposible!"
+      },
+      "start": 164.8,
+      "end": 165.76,
+      "words": [
+        {
+          "text": "Impossible",
+          "start": 164.8,
+          "end": 165.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Impossible!",
+          "translations": {
+            "zh": "不可能！",
+            "en": "Impossible!",
+            "es": "¡Imposible!"
+          },
+          "start": 164.8,
+          "end": 165.76
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "text": "J'ai une soirée importante dans cinq jours, le 26 juin!",
+      "translations": {
+        "zh": "我五天后有一场重要的晚会，六月二十六号！",
+        "en": "I have an important party in five days, on June 26!",
+        "es": "¡Tengo una fiesta importante dentro de cinco días, el 26 de junio!"
+      },
+      "start": 165.76,
+      "end": 170.4,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 165.76,
+          "end": 166.64
+        },
+        {
+          "text": "une",
+          "start": 166.64,
+          "end": 166.8
+        },
+        {
+          "text": "soirée",
+          "start": 166.8,
+          "end": 166.8
+        },
+        {
+          "text": "importante",
+          "start": 168,
+          "end": 168
+        },
+        {
+          "text": "dans",
+          "start": 168,
+          "end": 168.24
+        },
+        {
+          "text": "cinq",
+          "start": 168.24,
+          "end": 168.72
+        },
+        {
+          "text": "jours",
+          "start": 168.72,
+          "end": 169.04
+        },
+        {
+          "text": "le",
+          "start": 169.28,
+          "end": 169.28
+        },
+        {
+          "text": "26",
+          "start": 169.92,
+          "end": 169.92
+        },
+        {
+          "text": "juin",
+          "start": 170.4,
+          "end": 170.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai une soirée importante dans cinq jours,",
+          "translations": {
+            "zh": "我五天后有一场重要的晚会，",
+            "en": "I have an important party in five days,",
+            "es": "Tengo una fiesta importante dentro de cinco días,"
+          },
+          "start": 165.76,
+          "end": 169.04
+        },
+        {
+          "text": "le 26 juin!",
+          "translations": {
+            "zh": "六月二十六号！",
+            "en": "on June 26!",
+            "es": "el 26 de junio!"
+          },
+          "start": 169.28,
+          "end": 170.4
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "text": "Je peux pas la rater!",
+      "translations": {
+        "zh": "我不能错过它！",
+        "en": "I can't miss it!",
+        "es": "¡No puedo perdérmela!"
+      },
+      "start": 170.72,
+      "end": 172.08,
+      "words": [
+        {
+          "text": "Je",
+          "start": 170.72,
+          "end": 170.96
+        },
+        {
+          "text": "peux",
+          "start": 170.96,
+          "end": 171.12
+        },
+        {
+          "text": "pas",
+          "start": 171.12,
+          "end": 171.44
+        },
+        {
+          "text": "la",
+          "start": 171.44,
+          "end": 171.52
+        },
+        {
+          "text": "rater",
+          "start": 171.52,
+          "end": 172.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je peux pas la rater!",
+          "translations": {
+            "zh": "我不能错过它！",
+            "en": "I can't miss it!",
+            "es": "¡No puedo perdérmela!"
+          },
+          "start": 170.72,
+          "end": 172.08
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "text": "Euh...",
+      "translations": {
+        "zh": "呃……",
+        "en": "Uh...",
+        "es": "Eh..."
+      },
+      "start": 172.88,
+      "end": 173.52,
+      "words": [
+        {
+          "text": "Euh",
+          "start": 172.88,
+          "end": 173.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Euh...",
+          "translations": {
+            "zh": "呃……",
+            "en": "Uh...",
+            "es": "Eh..."
+          },
+          "start": 172.88,
+          "end": 173.52
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "text": "Vous connaissez pas des trucs naturels pour guérir plus vite?",
+      "translations": {
+        "zh": "您不知道一些能更快康复的天然方法吗？",
+        "en": "Don't you know any natural remedies to heal faster?",
+        "es": "¿No conoce trucos naturales para curarse más rápido?"
+      },
+      "start": 173.52,
+      "end": 177.04,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 173.52,
+          "end": 174.4
+        },
+        {
+          "text": "connaissez",
+          "start": 174.4,
+          "end": 174.88
+        },
+        {
+          "text": "pas",
+          "start": 174.88,
+          "end": 175.04
+        },
+        {
+          "text": "des",
+          "start": 175.04,
+          "end": 175.12
+        },
+        {
+          "text": "trucs",
+          "start": 175.12,
+          "end": 175.36
+        },
+        {
+          "text": "naturels",
+          "start": 175.36,
+          "end": 176
+        },
+        {
+          "text": "pour",
+          "start": 176,
+          "end": 176.24
+        },
+        {
+          "text": "guérir",
+          "start": 176.24,
+          "end": 176.56
+        },
+        {
+          "text": "plus",
+          "start": 176.56,
+          "end": 177.04
+        },
+        {
+          "text": "vite",
+          "start": 177.04,
+          "end": 177.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous connaissez pas des trucs naturels",
+          "translations": {
+            "zh": "您不知道一些天然的方法",
+            "en": "Don't you know any natural remedies",
+            "es": "No conoce trucos naturales"
+          },
+          "start": 173.52,
+          "end": 176
+        },
+        {
+          "text": "pour guérir plus vite?",
+          "translations": {
+            "zh": "能更快康复吗？",
+            "en": "to heal faster?",
+            "es": "para curarse más rápido?"
+          },
+          "start": 176,
+          "end": 177.04
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "text": "Comme je vous dis, il faut...",
+      "translations": {
+        "zh": "就像我跟您说的，需要……",
+        "en": "As I'm telling you, you need to...",
+        "es": "Como le digo, hay que..."
+      },
+      "start": 178.64,
+      "end": 180,
+      "words": [
+        {
+          "text": "Comme",
+          "start": 178.64,
+          "end": 178.8
+        },
+        {
+          "text": "je",
+          "start": 178.88,
+          "end": 178.88
+        },
+        {
+          "text": "vous",
+          "start": 178.88,
+          "end": 178.88
+        },
+        {
+          "text": "dis",
+          "start": 179.52,
+          "end": 179.52
+        },
+        {
+          "text": "il",
+          "start": 179.52,
+          "end": 179.92
+        },
+        {
+          "text": "faut",
+          "start": 179.92,
+          "end": 180
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Comme je vous dis,",
+          "translations": {
+            "zh": "就像我跟您说的，",
+            "en": "As I'm telling you,",
+            "es": "Como le digo,"
+          },
+          "start": 178.64,
+          "end": 179.52
+        },
+        {
+          "text": "il faut...",
+          "translations": {
+            "zh": "需要……",
+            "en": "you need to...",
+            "es": "hay que..."
+          },
+          "start": 179.52,
+          "end": 180
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "text": "Je sais que la cannelle, le citron et le gingembre peuvent aider.",
+      "translations": {
+        "zh": "我知道肉桂、柠檬和生姜可能有帮助。",
+        "en": "I know that cinnamon, lemon and ginger can help.",
+        "es": "Sé que la canela, el limón y el jengibre pueden ayudar."
+      },
+      "start": 180,
+      "end": 183.68,
+      "words": [
+        {
+          "text": "Je",
+          "start": 180,
+          "end": 180.24
+        },
+        {
+          "text": "sais",
+          "start": 180.72,
+          "end": 180.88
+        },
+        {
+          "text": "que",
+          "start": 180.88,
+          "end": 180.96
+        },
+        {
+          "text": "la",
+          "start": 180.96,
+          "end": 181.12
+        },
+        {
+          "text": "cannelle",
+          "start": 181.12,
+          "end": 181.68
+        },
+        {
+          "text": "le",
+          "start": 181.68,
+          "end": 181.76
+        },
+        {
+          "text": "citron",
+          "start": 181.76,
+          "end": 182.32
+        },
+        {
+          "text": "et",
+          "start": 182.32,
+          "end": 182.4
+        },
+        {
+          "text": "le",
+          "start": 182.4,
+          "end": 182.48
+        },
+        {
+          "text": "gingembre",
+          "start": 182.48,
+          "end": 183.04
+        },
+        {
+          "text": "peuvent",
+          "start": 183.12,
+          "end": 183.28
+        },
+        {
+          "text": "aider",
+          "start": 183.36,
+          "end": 183.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je sais que la cannelle, le citron et le gingembre",
+          "translations": {
+            "zh": "我知道肉桂、柠檬和生姜",
+            "en": "I know that cinnamon, lemon and ginger",
+            "es": "Sé que la canela, el limón y el jengibre"
+          },
+          "start": 180,
+          "end": 183.04
+        },
+        {
+          "text": "peuvent aider.",
+          "translations": {
+            "zh": "可能有帮助。",
+            "en": "can help.",
+            "es": "pueden ayudar."
+          },
+          "start": 183.12,
+          "end": 183.68
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "text": "Le sirop d'érable, c'est peut-être un bon remède aussi, non?",
+      "translations": {
+        "zh": "枫糖浆，也许也是一种好药，对吧？",
+        "en": "Maple syrup is maybe a good remedy too, right?",
+        "es": "El jarabe de arce, quizás sea un buen remedio también, ¿no?"
+      },
+      "start": 184.24,
+      "end": 187.52,
+      "words": [
+        {
+          "text": "Le",
+          "start": 184.24,
+          "end": 184.4
+        },
+        {
+          "text": "sirop",
+          "start": 184.4,
+          "end": 184.72
+        },
+        {
+          "text": "d'érable",
+          "start": 184.72,
+          "end": 185.28
+        },
+        {
+          "text": "c'est",
+          "start": 185.52,
+          "end": 185.68
+        },
+        {
+          "text": "peut",
+          "start": 185.68,
+          "end": 185.76
+        },
+        {
+          "text": "être",
+          "start": 185.84,
+          "end": 185.92
+        },
+        {
+          "text": "un",
+          "start": 185.92,
+          "end": 186.16
+        },
+        {
+          "text": "bon",
+          "start": 186.16,
+          "end": 186.4
+        },
+        {
+          "text": "remède",
+          "start": 186.4,
+          "end": 186.56
+        },
+        {
+          "text": "aussi",
+          "start": 186.88,
+          "end": 186.88
+        },
+        {
+          "text": "non",
+          "start": 187.28,
+          "end": 187.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le sirop d'érable,",
+          "translations": {
+            "zh": "枫糖浆，",
+            "en": "Maple syrup,",
+            "es": "El jarabe de arce,"
+          },
+          "start": 184.24,
+          "end": 185.28
+        },
+        {
+          "text": "c'est peut-être un bon remède aussi,",
+          "translations": {
+            "zh": "也许也是一种好药，",
+            "en": "is maybe a good remedy too,",
+            "es": "quizás sea un buen remedio también,"
+          },
+          "start": 185.52,
+          "end": 186.88
+        },
+        {
+          "text": "non?",
+          "translations": {
+            "zh": "对吧？",
+            "en": "right?",
+            "es": "¿no?"
+          },
+          "start": 187.28,
+          "end": 187.52
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "text": "En infusion, ou même dans un verre!",
+      "translations": {
+        "zh": "泡茶喝，甚至直接倒在杯子里喝！",
+        "en": "As an herbal tea, or even in a glass!",
+        "es": "¡En infusión, o incluso en un vaso!"
+      },
+      "start": 188.4,
+      "end": 190,
+      "words": [
+        {
+          "text": "En",
+          "start": 188.4,
+          "end": 188.56
+        },
+        {
+          "text": "infusion",
+          "start": 188.56,
+          "end": 189.36
+        },
+        {
+          "text": "ou",
+          "start": 189.36,
+          "end": 189.44
+        },
+        {
+          "text": "même",
+          "start": 189.44,
+          "end": 189.68
+        },
+        {
+          "text": "dans",
+          "start": 189.68,
+          "end": 189.76
+        },
+        {
+          "text": "un",
+          "start": 189.76,
+          "end": 189.84
+        },
+        {
+          "text": "verre",
+          "start": 190,
+          "end": 190
+        }
+      ],
+      "chunks": [
+        {
+          "text": "En infusion,",
+          "translations": {
+            "zh": "泡茶喝，",
+            "en": "As an herbal tea,",
+            "es": "En infusión,"
+          },
+          "start": 188.4,
+          "end": 189.36
+        },
+        {
+          "text": "ou même dans un verre!",
+          "translations": {
+            "zh": "甚至直接倒在杯子里喝！",
+            "en": "or even in a glass!",
+            "es": "o incluso en un vaso!"
+          },
+          "start": 189.36,
+          "end": 190
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "text": "Ça peut peut-être marcher, non?",
+      "translations": {
+        "zh": "这可能管用吧，对不对？",
+        "en": "That could maybe work, right?",
+        "es": "Puede que funcione, ¿no?"
+      },
+      "start": 190.8,
+      "end": 192.72,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 190.8,
+          "end": 190.8
+        },
+        {
+          "text": "peut",
+          "start": 191.12,
+          "end": 191.28
+        },
+        {
+          "text": "peut",
+          "start": 191.28,
+          "end": 191.44
+        },
+        {
+          "text": "être",
+          "start": 191.44,
+          "end": 191.52
+        },
+        {
+          "text": "marcher",
+          "start": 191.68,
+          "end": 192.24
+        },
+        {
+          "text": "non",
+          "start": 192.48,
+          "end": 192.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça peut peut-être marcher,",
+          "translations": {
+            "zh": "这可能管用吧，",
+            "en": "That could maybe work,",
+            "es": "Puede que funcione,"
+          },
+          "start": 190.8,
+          "end": 192.24
+        },
+        {
+          "text": "non?",
+          "translations": {
+            "zh": "对不对？",
+            "en": "right?",
+            "es": "¿no?"
+          },
+          "start": 192.48,
+          "end": 192.72
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "text": "En fait, je...",
+      "translations": {
+        "zh": "其实，我……",
+        "en": "Actually, I...",
+        "es": "De hecho, yo..."
+      },
+      "start": 193.84,
+      "end": 194.88,
+      "words": [
+        {
+          "text": "En",
+          "start": 193.84,
+          "end": 194
+        },
+        {
+          "text": "fait",
+          "start": 194,
+          "end": 194.24
+        },
+        {
+          "text": "je",
+          "start": 194.4,
+          "end": 194.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "En fait, je...",
+          "translations": {
+            "zh": "其实，我……",
+            "en": "Actually, I...",
+            "es": "De hecho, yo..."
+          },
+          "start": 193.84,
+          "end": 194.88
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "text": "Ou l'acupuncture?",
+      "translations": {
+        "zh": "或者针灸呢？",
+        "en": "Or acupuncture?",
+        "es": "¿O la acupuntura?"
+      },
+      "start": 194.96,
+      "end": 196,
+      "words": [
+        {
+          "text": "Ou",
+          "start": 194.96,
+          "end": 195.2
+        },
+        {
+          "text": "l'acupuncture",
+          "start": 195.2,
+          "end": 196
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ou l'acupuncture?",
+          "translations": {
+            "zh": "或者针灸呢？",
+            "en": "Or acupuncture?",
+            "es": "¿O la acupuntura?"
+          },
+          "start": 194.96,
+          "end": 196
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "text": "Je connais une amie qui a essayé.",
+      "translations": {
+        "zh": "我有一个朋友试过。",
+        "en": "I know a friend who tried it.",
+        "es": "Conozco a una amiga que lo ha probado."
+      },
+      "start": 196.48,
+      "end": 197.92,
+      "words": [
+        {
+          "text": "Je",
+          "start": 196.48,
+          "end": 196.48
+        },
+        {
+          "text": "connais",
+          "start": 196.56,
+          "end": 196.8
+        },
+        {
+          "text": "une",
+          "start": 196.8,
+          "end": 197.84
+        },
+        {
+          "text": "amie",
+          "start": 197.85,
+          "end": 197.86
+        },
+        {
+          "text": "qui",
+          "start": 197.87,
+          "end": 197.88
+        },
+        {
+          "text": "a",
+          "start": 197.89,
+          "end": 197.9
+        },
+        {
+          "text": "essayé",
+          "start": 197.91,
+          "end": 197.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je connais une amie",
+          "translations": {
+            "zh": "我有一个朋友",
+            "en": "I know a friend",
+            "es": "Conozco a una amiga"
+          },
+          "start": 196.48,
+          "end": 197.86
+        },
+        {
+          "text": "qui a essayé.",
+          "translations": {
+            "zh": "试过。",
+            "en": "who tried it.",
+            "es": "que lo ha probado."
+          },
+          "start": 197.87,
+          "end": 197.92
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "text": "Il paraît que ça peut tout guérir.",
+      "translations": {
+        "zh": "听说它能治百病。",
+        "en": "Apparently it can cure everything.",
+        "es": "Parece que puede curarlo todo."
+      },
+      "start": 198.16,
+      "end": 199.76,
+      "words": [
+        {
+          "text": "Il",
+          "start": 198.16,
+          "end": 198.16
+        },
+        {
+          "text": "paraît",
+          "start": 198.32,
+          "end": 198.56
+        },
+        {
+          "text": "que",
+          "start": 198.56,
+          "end": 198.72
+        },
+        {
+          "text": "ça",
+          "start": 198.72,
+          "end": 198.88
+        },
+        {
+          "text": "peut",
+          "start": 198.88,
+          "end": 199.12
+        },
+        {
+          "text": "tout",
+          "start": 199.12,
+          "end": 199.12
+        },
+        {
+          "text": "guérir",
+          "start": 199.28,
+          "end": 199.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il paraît que",
+          "translations": {
+            "zh": "听说",
+            "en": "Apparently",
+            "es": "Parece que"
+          },
+          "start": 198.16,
+          "end": 198.72
+        },
+        {
+          "text": "ça peut tout guérir.",
+          "translations": {
+            "zh": "它能治百病。",
+            "en": "it can cure everything.",
+            "es": "puede curarlo todo."
+          },
+          "start": 198.72,
+          "end": 199.76
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "text": "Qu'est-ce que vous en pensez?",
+      "translations": {
+        "zh": "您觉得呢？",
+        "en": "What do you think of it?",
+        "es": "¿Qué opina de eso?"
+      },
+      "start": 199.76,
+      "end": 202.24,
+      "words": [
+        {
+          "text": "Qu'est",
+          "start": 199.76,
+          "end": 201.28
+        },
+        {
+          "text": "ce",
+          "start": 201.28,
+          "end": 201.52
+        },
+        {
+          "text": "que",
+          "start": 201.76,
+          "end": 202
+        },
+        {
+          "text": "vous",
+          "start": 202.24,
+          "end": 202.24
+        },
+        {
+          "text": "en",
+          "start": 202.24,
+          "end": 202.24
+        },
+        {
+          "text": "pensez",
+          "start": 202.24,
+          "end": 202.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Qu'est-ce que vous en pensez?",
+          "translations": {
+            "zh": "您觉得呢？",
+            "en": "What do you think of it?",
+            "es": "¿Qué opina de eso?"
+          },
+          "start": 199.76,
+          "end": 202.24
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "text": "Eh bien, c'est une médecine douce, et je pense...",
+      "translations": {
+        "zh": "嗯，这是一种替代疗法，我觉得……",
+        "en": "Well, it's alternative medicine, and I think...",
+        "es": "Bueno, es una medicina suave, y yo pienso..."
+      },
+      "start": 202.24,
+      "end": 204.186,
+      "words": [
+        {
+          "text": "Eh",
+          "start": 202.24,
+          "end": 202.24
+        },
+        {
+          "text": "bien",
+          "start": 202.24,
+          "end": 202.24
+        },
+        {
+          "text": "c'est",
+          "start": 202.24,
+          "end": 202.24
+        },
+        {
+          "text": "une",
+          "start": 202.24,
+          "end": 202.24
+        },
+        {
+          "text": "médecine",
+          "start": 202.24,
+          "end": 202.24
+        },
+        {
+          "text": "douce",
+          "start": 202.56,
+          "end": 202.8
+        },
+        {
+          "text": "et",
+          "start": 202.8,
+          "end": 203.2
+        },
+        {
+          "text": "je",
+          "start": 203.2,
+          "end": 203.528
+        },
+        {
+          "text": "pense",
+          "start": 203.857,
+          "end": 204.186
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Eh bien,",
+          "translations": {
+            "zh": "嗯，",
+            "en": "Well,",
+            "es": "Bueno,"
+          },
+          "start": 202.24,
+          "end": 202.24
+        },
+        {
+          "text": "c'est une médecine douce,",
+          "translations": {
+            "zh": "这是一种替代疗法，",
+            "en": "it's alternative medicine,",
+            "es": "es una medicina suave,"
+          },
+          "start": 202.24,
+          "end": 202.8
+        },
+        {
+          "text": "et je pense...",
+          "translations": {
+            "zh": "我觉得……",
+            "en": "and I think...",
+            "es": "y yo pienso..."
+          },
+          "start": 202.8,
+          "end": 204.186
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "text": "Épisode 7 : La grippe Oh!",
+      "translations": {
+        "zh": "第七集：流感 哦！",
+        "en": "Episode 7: The Flu Oh!",
+        "es": "Episodio 7: La gripe ¡Oh!"
+      },
+      "start": 204.515,
+      "end": 206.16,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 204.515,
+          "end": 204.844
+        },
+        {
+          "text": "7",
+          "start": 205.173,
+          "end": 205.502
+        },
+        {
+          "text": "La",
+          "start": 205.831,
+          "end": 206.16
+        },
+        {
+          "text": "grippe",
+          "start": 206.16,
+          "end": 206.16
+        },
+        {
+          "text": "Oh",
+          "start": 206.16,
+          "end": 206.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 7 : La grippe",
+          "translations": {
+            "zh": "第七集：流感",
+            "en": "Episode 7: The Flu",
+            "es": "Episodio 7: La gripe"
+          },
+          "start": 204.515,
+          "end": 206.16
+        },
+        {
+          "text": "Oh!",
+          "translations": {
+            "zh": "哦！",
+            "en": "Oh!",
+            "es": "¡Oh!"
+          },
+          "start": 206.16,
+          "end": 206.16
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "text": "Sinon, je me rappelle que ma grand-mère mangeait de l'ail frais quand elle était malade.",
+      "translations": {
+        "zh": "另外，我记得我奶奶生病的时候会吃生大蒜。",
+        "en": "Otherwise, I remember that my grandmother used to eat fresh garlic when she was sick.",
+        "es": "Si no, recuerdo que mi abuela comía ajo fresco cuando estaba enferma."
+      },
+      "start": 206.16,
+      "end": 208.96,
+      "words": [
+        {
+          "text": "Sinon",
+          "start": 206.16,
+          "end": 206.16
+        },
+        {
+          "text": "je",
+          "start": 206.16,
+          "end": 206.16
+        },
+        {
+          "text": "me",
+          "start": 206.16,
+          "end": 206.16
+        },
+        {
+          "text": "rappelle",
+          "start": 206.16,
+          "end": 206.16
+        },
+        {
+          "text": "que",
+          "start": 206.16,
+          "end": 206.16
+        },
+        {
+          "text": "ma",
+          "start": 206.16,
+          "end": 206.16
+        },
+        {
+          "text": "grand",
+          "start": 206.16,
+          "end": 206.4
+        },
+        {
+          "text": "mère",
+          "start": 206.4,
+          "end": 206.4
+        },
+        {
+          "text": "mangeait",
+          "start": 206.96,
+          "end": 207.36
+        },
+        {
+          "text": "de",
+          "start": 207.36,
+          "end": 207.44
+        },
+        {
+          "text": "l'ail",
+          "start": 207.44,
+          "end": 207.68
+        },
+        {
+          "text": "frais",
+          "start": 207.68,
+          "end": 208.16
+        },
+        {
+          "text": "quand",
+          "start": 208.16,
+          "end": 208.32
+        },
+        {
+          "text": "elle",
+          "start": 208.32,
+          "end": 208.4
+        },
+        {
+          "text": "était",
+          "start": 208.4,
+          "end": 208.56
+        },
+        {
+          "text": "malade",
+          "start": 208.56,
+          "end": 208.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Sinon,",
+          "translations": {
+            "zh": "另外，",
+            "en": "Otherwise,",
+            "es": "Si no,"
+          },
+          "start": 206.16,
+          "end": 206.16
+        },
+        {
+          "text": "je me rappelle que ma grand-mère mangeait de l'ail frais",
+          "translations": {
+            "zh": "我记得我奶奶会吃生大蒜",
+            "en": "I remember that my grandmother used to eat fresh garlic",
+            "es": "recuerdo que mi abuela comía ajo fresco"
+          },
+          "start": 206.16,
+          "end": 208.16
+        },
+        {
+          "text": "quand elle était malade.",
+          "translations": {
+            "zh": "她生病的时候。",
+            "en": "when she was sick.",
+            "es": "cuando estaba enferma."
+          },
+          "start": 208.16,
+          "end": 208.96
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "text": "Vous pensez que ça pourrait me soigner plus vite?",
+      "translations": {
+        "zh": "您觉得这能让我好得更快吗？",
+        "en": "Do you think that could cure me faster?",
+        "es": "¿Cree que podría curarme más rápido?"
+      },
+      "start": 209.28,
+      "end": 211.04,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 209.28,
+          "end": 209.44
+        },
+        {
+          "text": "pensez",
+          "start": 209.44,
+          "end": 209.76
+        },
+        {
+          "text": "que",
+          "start": 209.76,
+          "end": 209.84
+        },
+        {
+          "text": "ça",
+          "start": 209.84,
+          "end": 210
+        },
+        {
+          "text": "pourrait",
+          "start": 210,
+          "end": 210.16
+        },
+        {
+          "text": "me",
+          "start": 210.16,
+          "end": 210.32
+        },
+        {
+          "text": "soigner",
+          "start": 210.32,
+          "end": 210.72
+        },
+        {
+          "text": "plus",
+          "start": 210.72,
+          "end": 210.8
+        },
+        {
+          "text": "vite",
+          "start": 210.88,
+          "end": 211.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous pensez que",
+          "translations": {
+            "zh": "您觉得",
+            "en": "Do you think that",
+            "es": "Cree que"
+          },
+          "start": 209.28,
+          "end": 209.84
+        },
+        {
+          "text": "ça pourrait me soigner plus vite?",
+          "translations": {
+            "zh": "这能让我好得更快吗？",
+            "en": "that could cure me faster?",
+            "es": "podría curarme más rápido?"
+          },
+          "start": 209.84,
+          "end": 211.04
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "text": "Écoutez, vous pouvez essayer autant de méthodes ou de traitements naturels que vous le souhaitez.",
+      "translations": {
+        "zh": "听着，您想尝试多少天然方法或疗法都可以。",
+        "en": "Listen, you can try as many natural methods or treatments as you wish.",
+        "es": "Escuche, puede probar tantos métodos o tratamientos naturales como desee."
+      },
+      "start": 211.6,
+      "end": 215.6,
+      "words": [
+        {
+          "text": "Écoutez",
+          "start": 211.6,
+          "end": 212.08
+        },
+        {
+          "text": "vous",
+          "start": 212.56,
+          "end": 212.64
+        },
+        {
+          "text": "pouvez",
+          "start": 212.72,
+          "end": 212.96
+        },
+        {
+          "text": "essayer",
+          "start": 212.96,
+          "end": 213.2
+        },
+        {
+          "text": "autant",
+          "start": 213.28,
+          "end": 213.44
+        },
+        {
+          "text": "de",
+          "start": 213.44,
+          "end": 213.52
+        },
+        {
+          "text": "méthodes",
+          "start": 213.6,
+          "end": 213.84
+        },
+        {
+          "text": "ou",
+          "start": 213.84,
+          "end": 213.92
+        },
+        {
+          "text": "de",
+          "start": 213.92,
+          "end": 214.08
+        },
+        {
+          "text": "traitements",
+          "start": 214.08,
+          "end": 214.4
+        },
+        {
+          "text": "naturels",
+          "start": 214.4,
+          "end": 214.88
+        },
+        {
+          "text": "que",
+          "start": 214.88,
+          "end": 214.88
+        },
+        {
+          "text": "vous",
+          "start": 214.88,
+          "end": 214.96
+        },
+        {
+          "text": "le",
+          "start": 215.04,
+          "end": 215.12
+        },
+        {
+          "text": "souhaitez",
+          "start": 215.2,
+          "end": 215.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Écoutez,",
+          "translations": {
+            "zh": "听着，",
+            "en": "Listen,",
+            "es": "Escuche,"
+          },
+          "start": 211.6,
+          "end": 212.08
+        },
+        {
+          "text": "vous pouvez essayer autant de méthodes ou de traitements naturels",
+          "translations": {
+            "zh": "您想尝试多少天然方法或疗法",
+            "en": "you can try as many natural methods or treatments",
+            "es": "puede probar tantos métodos o tratamientos naturales"
+          },
+          "start": 212.56,
+          "end": 214.88
+        },
+        {
+          "text": "que vous le souhaitez.",
+          "translations": {
+            "zh": "都可以。",
+            "en": "as you wish.",
+            "es": "como desee."
+          },
+          "start": 214.88,
+          "end": 215.6
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "text": "Ça peut pas faire de mal.",
+      "translations": {
+        "zh": "这不会有什么坏处。",
+        "en": "It can't hurt.",
+        "es": "No puede hacer daño."
+      },
+      "start": 215.92,
+      "end": 216.8,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 215.92,
+          "end": 216
+        },
+        {
+          "text": "peut",
+          "start": 216,
+          "end": 216.08
+        },
+        {
+          "text": "pas",
+          "start": 216.08,
+          "end": 216.24
+        },
+        {
+          "text": "faire",
+          "start": 216.24,
+          "end": 216.4
+        },
+        {
+          "text": "de",
+          "start": 216.4,
+          "end": 216.56
+        },
+        {
+          "text": "mal",
+          "start": 216.56,
+          "end": 216.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça peut pas faire de mal.",
+          "translations": {
+            "zh": "这不会有什么坏处。",
+            "en": "It can't hurt.",
+            "es": "No puede hacer daño."
+          },
+          "start": 215.92,
+          "end": 216.8
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "text": "Enfin, attention quand même à l'ail cru en trop grande quantité.",
+      "translations": {
+        "zh": "不过，生大蒜吃太多还是要当心的。",
+        "en": "Still, be careful all the same with raw garlic in too large a quantity.",
+        "es": "En fin, tenga cuidado de todos modos con el ajo crudo en demasiada cantidad."
+      },
+      "start": 217.36,
+      "end": 219.6,
+      "words": [
+        {
+          "text": "Enfin",
+          "start": 217.36,
+          "end": 217.76
+        },
+        {
+          "text": "attention",
+          "start": 217.76,
+          "end": 217.76
+        },
+        {
+          "text": "quand",
+          "start": 217.76,
+          "end": 217.92
+        },
+        {
+          "text": "même",
+          "start": 217.92,
+          "end": 218.08
+        },
+        {
+          "text": "à",
+          "start": 218.08,
+          "end": 218.16
+        },
+        {
+          "text": "l'ail",
+          "start": 218.16,
+          "end": 218.32
+        },
+        {
+          "text": "cru",
+          "start": 218.32,
+          "end": 218.64
+        },
+        {
+          "text": "en",
+          "start": 218.64,
+          "end": 218.72
+        },
+        {
+          "text": "trop",
+          "start": 218.72,
+          "end": 218.96
+        },
+        {
+          "text": "grande",
+          "start": 218.96,
+          "end": 219.12
+        },
+        {
+          "text": "quantité",
+          "start": 219.12,
+          "end": 219.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Enfin,",
+          "translations": {
+            "zh": "不过，",
+            "en": "Still,",
+            "es": "En fin,"
+          },
+          "start": 217.36,
+          "end": 217.76
+        },
+        {
+          "text": "attention quand même à l'ail cru",
+          "translations": {
+            "zh": "生大蒜吃太多",
+            "en": "be careful all the same with raw garlic",
+            "es": "tenga cuidado de todos modos con el ajo crudo"
+          },
+          "start": 217.76,
+          "end": 218.64
+        },
+        {
+          "text": "en trop grande quantité.",
+          "translations": {
+            "zh": "还是要当心的。",
+            "en": "in too large a quantity.",
+            "es": "en demasiada cantidad."
+          },
+          "start": 218.64,
+          "end": 219.6
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "text": "Ça peut avoir des effets secondaires.",
+      "translations": {
+        "zh": "可能会有副作用。",
+        "en": "It can have side effects.",
+        "es": "Puede tener efectos secundarios."
+      },
+      "start": 220,
+      "end": 221.44,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 220,
+          "end": 220.08
+        },
+        {
+          "text": "peut",
+          "start": 220.08,
+          "end": 220.16
+        },
+        {
+          "text": "avoir",
+          "start": 220.16,
+          "end": 220.48
+        },
+        {
+          "text": "des",
+          "start": 220.48,
+          "end": 220.64
+        },
+        {
+          "text": "effets",
+          "start": 220.64,
+          "end": 220.8
+        },
+        {
+          "text": "secondaires",
+          "start": 220.88,
+          "end": 221.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça peut avoir des effets secondaires.",
+          "translations": {
+            "zh": "可能会有副作用。",
+            "en": "It can have side effects.",
+            "es": "Puede tener efectos secundarios."
+          },
+          "start": 220,
+          "end": 221.44
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "text": "Mais je vous conseille surtout du repos.",
+      "translations": {
+        "zh": "但我主要建议您多休息。",
+        "en": "But I especially advise you to rest.",
+        "es": "Pero le aconsejo sobre todo descanso."
+      },
+      "start": 221.84,
+      "end": 223.68,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 221.84,
+          "end": 222.08
+        },
+        {
+          "text": "je",
+          "start": 222.08,
+          "end": 222.24
+        },
+        {
+          "text": "vous",
+          "start": 222.24,
+          "end": 222.32
+        },
+        {
+          "text": "conseille",
+          "start": 222.32,
+          "end": 222.64
+        },
+        {
+          "text": "surtout",
+          "start": 222.72,
+          "end": 223.04
+        },
+        {
+          "text": "du",
+          "start": 223.2,
+          "end": 223.28
+        },
+        {
+          "text": "repos",
+          "start": 223.28,
+          "end": 223.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais je vous conseille surtout du repos.",
+          "translations": {
+            "zh": "但我主要建议您多休息。",
+            "en": "But I especially advise you to rest.",
+            "es": "Pero le aconsejo sobre todo descanso."
+          },
+          "start": 221.84,
+          "end": 223.68
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "text": "Et pensez à bien vous hydrater.",
+      "translations": {
+        "zh": "还有记得多补充水分。",
+        "en": "And remember to stay well hydrated.",
+        "es": "Y recuerde hidratarse bien."
+      },
+      "start": 224,
+      "end": 225.36,
+      "words": [
+        {
+          "text": "Et",
+          "start": 224,
+          "end": 224.08
+        },
+        {
+          "text": "pensez",
+          "start": 224.08,
+          "end": 224.48
+        },
+        {
+          "text": "à",
+          "start": 224.48,
+          "end": 224.56
+        },
+        {
+          "text": "bien",
+          "start": 224.64,
+          "end": 224.88
+        },
+        {
+          "text": "vous",
+          "start": 224.88,
+          "end": 225.04
+        },
+        {
+          "text": "hydrater",
+          "start": 225.04,
+          "end": 225.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et pensez à bien vous hydrater.",
+          "translations": {
+            "zh": "还有记得多补充水分。",
+            "en": "And remember to stay well hydrated.",
+            "es": "Y recuerde hidratarse bien."
+          },
+          "start": 224,
+          "end": 225.36
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "text": "D'accord.",
+      "translations": {
+        "zh": "好的。",
+        "en": "All right.",
+        "es": "De acuerdo."
+      },
+      "start": 235.12,
+      "end": 235.92,
+      "words": [
+        {
+          "text": "D'accord",
+          "start": 235.12,
+          "end": 235.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'accord.",
+          "translations": {
+            "zh": "好的。",
+            "en": "All right.",
+            "es": "De acuerdo."
+          },
+          "start": 235.12,
+          "end": 235.92
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "text": "Merci beaucoup.",
+      "translations": {
+        "zh": "非常感谢。",
+        "en": "Thank you very much.",
+        "es": "Muchas gracias."
+      },
+      "start": 236.4,
+      "end": 237.36,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 236.4,
+          "end": 236.4
+        },
+        {
+          "text": "beaucoup",
+          "start": 236.88,
+          "end": 237.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci beaucoup.",
+          "translations": {
+            "zh": "非常感谢。",
+            "en": "Thank you very much.",
+            "es": "Muchas gracias."
+          },
+          "start": 236.4,
+          "end": 237.36
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "text": "Bienvenue.",
+      "translations": {
+        "zh": "不客气。",
+        "en": "You're welcome.",
+        "es": "De nada."
+      },
+      "start": 238,
+      "end": 238.48,
+      "words": [
+        {
+          "text": "Bienvenue",
+          "start": 238,
+          "end": 238.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bienvenue.",
+          "translations": {
+            "zh": "不客气。",
+            "en": "You're welcome.",
+            "es": "De nada."
+          },
+          "start": 238,
+          "end": 238.48
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "text": "Hésitez pas à nous rappeler si vous avez d'autres questions.",
+      "translations": {
+        "zh": "如果您有其他问题，随时再打给我们。",
+        "en": "Don't hesitate to call us back if you have other questions.",
+        "es": "No dude en llamarnos si tiene otras preguntas."
+      },
+      "start": 238.96,
+      "end": 241.04,
+      "words": [
+        {
+          "text": "Hésitez",
+          "start": 238.96,
+          "end": 239.44
+        },
+        {
+          "text": "pas",
+          "start": 239.44,
+          "end": 239.6
+        },
+        {
+          "text": "à",
+          "start": 239.6,
+          "end": 239.6
+        },
+        {
+          "text": "nous",
+          "start": 239.6,
+          "end": 239.76
+        },
+        {
+          "text": "rappeler",
+          "start": 239.76,
+          "end": 239.84
+        },
+        {
+          "text": "si",
+          "start": 239.94,
+          "end": 240.04
+        },
+        {
+          "text": "vous",
+          "start": 240.14,
+          "end": 240.24
+        },
+        {
+          "text": "avez",
+          "start": 240.34,
+          "end": 240.44
+        },
+        {
+          "text": "d'autres",
+          "start": 240.54,
+          "end": 240.64
+        },
+        {
+          "text": "questions",
+          "start": 240.64,
+          "end": 241.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Hésitez pas à nous rappeler",
+          "translations": {
+            "zh": "随时再打给我们",
+            "en": "Don't hesitate to call us back",
+            "es": "No dude en llamarnos"
+          },
+          "start": 238.96,
+          "end": 239.84
+        },
+        {
+          "text": "si vous avez d'autres questions.",
+          "translations": {
+            "zh": "如果您有其他问题。",
+            "en": "if you have other questions.",
+            "es": "si tiene otras preguntas."
+          },
+          "start": 239.94,
+          "end": 241.04
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "text": "Oui, merci.",
+      "translations": {
+        "zh": "好的，谢谢。",
+        "en": "Yes, thank you.",
+        "es": "Sí, gracias."
+      },
+      "start": 241.44,
+      "end": 242.48,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 241.44,
+          "end": 241.92
+        },
+        {
+          "text": "merci",
+          "start": 242.08,
+          "end": 242.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui, merci.",
+          "translations": {
+            "zh": "好的，谢谢。",
+            "en": "Yes, thank you.",
+            "es": "Sí, gracias."
+          },
+          "start": 241.44,
+          "end": 242.48
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "text": "Bonne journée.",
+      "translations": {
+        "zh": "祝您有美好的一天。",
+        "en": "Have a good day.",
+        "es": "Buen día."
+      },
+      "start": 242.8,
+      "end": 243.36,
+      "words": [
+        {
+          "text": "Bonne",
+          "start": 242.8,
+          "end": 242.8
+        },
+        {
+          "text": "journée",
+          "start": 243.04,
+          "end": 243.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonne journée.",
+          "translations": {
+            "zh": "祝您有美好的一天。",
+            "en": "Have a good day.",
+            "es": "Buen día."
+          },
+          "start": 242.8,
+          "end": 243.36
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "text": "Bonne journée.",
+      "translations": {
+        "zh": "祝您有美好的一天。",
+        "en": "Have a good day.",
+        "es": "Buen día."
+      },
+      "start": 243.36,
+      "end": 244.64,
+      "words": [
+        {
+          "text": "Bonne",
+          "start": 243.36,
+          "end": 244.24
+        },
+        {
+          "text": "journée",
+          "start": 244.24,
+          "end": 244.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonne journée.",
+          "translations": {
+            "zh": "祝您有美好的一天。",
+            "en": "Have a good day.",
+            "es": "Buen día."
+          },
+          "start": 243.36,
+          "end": 244.64
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "text": "Il faut que je prévienne Yacine.",
+      "translations": {
+        "zh": "我得通知Yacine。",
+        "en": "I need to let Yacine know.",
+        "es": "Tengo que avisar a Yacine."
+      },
+      "start": 245.52,
+      "end": 249.6,
+      "words": [
+        {
+          "text": "Il",
+          "start": 245.52,
+          "end": 246.4
+        },
+        {
+          "text": "faut",
+          "start": 247.28,
+          "end": 248.16
+        },
+        {
+          "text": "que",
+          "start": 248.16,
+          "end": 248.32
+        },
+        {
+          "text": "je",
+          "start": 248.32,
+          "end": 248.48
+        },
+        {
+          "text": "prévienne",
+          "start": 248.48,
+          "end": 249.04
+        },
+        {
+          "text": "Yacine",
+          "start": 249.04,
+          "end": 249.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Il faut que je prévienne Yacine.",
+          "translations": {
+            "zh": "我得通知Yacine。",
+            "en": "I need to let Yacine know.",
+            "es": "Tengo que avisar a Yacine."
+          },
+          "start": 245.52,
+          "end": 249.6
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "text": "Bonjour, vous avez composé le numéro de Yacine.",
+      "translations": {
+        "zh": "您好，您拨打的是Yacine的号码。",
+        "en": "Hello, you have dialed Yacine's number.",
+        "es": "Hola, ha marcado el número de Yacine."
+      },
+      "start": 251.6,
+      "end": 265.04,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 251.6,
+          "end": 253.6
+        },
+        {
+          "text": "vous",
+          "start": 255.6,
+          "end": 257.6
+        },
+        {
+          "text": "avez",
+          "start": 259.6,
+          "end": 261.6
+        },
+        {
+          "text": "composé",
+          "start": 263.6,
+          "end": 263.776
+        },
+        {
+          "text": "le",
+          "start": 263.952,
+          "end": 264.128
+        },
+        {
+          "text": "numéro",
+          "start": 264.304,
+          "end": 264.48
+        },
+        {
+          "text": "de",
+          "start": 264.48,
+          "end": 264.48
+        },
+        {
+          "text": "Yacine",
+          "start": 265.04,
+          "end": 265.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour,",
+          "translations": {
+            "zh": "您好，",
+            "en": "Hello,",
+            "es": "Hola,"
+          },
+          "start": 251.6,
+          "end": 253.6
+        },
+        {
+          "text": "vous avez composé le numéro de Yacine.",
+          "translations": {
+            "zh": "您拨打的是Yacine的号码。",
+            "en": "you have dialed Yacine's number.",
+            "es": "ha marcado el número de Yacine."
+          },
+          "start": 255.6,
+          "end": 265.04
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "text": "Je ne peux pas répondre pour le moment, mais laissez-moi un message et je vous rappellerai dès que possible.",
+      "translations": {
+        "zh": "我暂时无法接听，但请给我留言，我会尽快回复您。",
+        "en": "I can't answer right now, but leave me a message and I will call you back as soon as possible.",
+        "es": "No puedo responder por el momento, pero déjenme un mensaje y los llamaré lo antes posible."
+      },
+      "start": 265.16,
+      "end": 270.684,
+      "words": [
+        {
+          "text": "Je",
+          "start": 265.16,
+          "end": 265.28
+        },
+        {
+          "text": "ne",
+          "start": 265.4,
+          "end": 265.52
+        },
+        {
+          "text": "peux",
+          "start": 265.64,
+          "end": 265.76
+        },
+        {
+          "text": "pas",
+          "start": 265.88,
+          "end": 266
+        },
+        {
+          "text": "répondre",
+          "start": 266.12,
+          "end": 266.24
+        },
+        {
+          "text": "pour",
+          "start": 266.24,
+          "end": 266.4
+        },
+        {
+          "text": "le",
+          "start": 266.4,
+          "end": 266.4
+        },
+        {
+          "text": "moment",
+          "start": 266.56,
+          "end": 266.56
+        },
+        {
+          "text": "mais",
+          "start": 267.36,
+          "end": 267.36
+        },
+        {
+          "text": "laissez",
+          "start": 267.36,
+          "end": 267.36
+        },
+        {
+          "text": "moi",
+          "start": 267.76,
+          "end": 267.76
+        },
+        {
+          "text": "un",
+          "start": 267.76,
+          "end": 267.76
+        },
+        {
+          "text": "message",
+          "start": 267.76,
+          "end": 267.76
+        },
+        {
+          "text": "et",
+          "start": 268.4,
+          "end": 268.4
+        },
+        {
+          "text": "je",
+          "start": 268.4,
+          "end": 268.4
+        },
+        {
+          "text": "vous",
+          "start": 268.48,
+          "end": 268.64
+        },
+        {
+          "text": "rappellerai",
+          "start": 268.64,
+          "end": 268.932
+        },
+        {
+          "text": "dès",
+          "start": 269.224,
+          "end": 269.516
+        },
+        {
+          "text": "que",
+          "start": 269.808,
+          "end": 270.1
+        },
+        {
+          "text": "possible",
+          "start": 270.392,
+          "end": 270.684
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je ne peux pas répondre pour le moment,",
+          "translations": {
+            "zh": "我暂时无法接听，",
+            "en": "I can't answer right now,",
+            "es": "No puedo responder por el momento,"
+          },
+          "start": 265.16,
+          "end": 266.56
+        },
+        {
+          "text": "mais laissez-moi un message",
+          "translations": {
+            "zh": "但请给我留言",
+            "en": "but leave me a message",
+            "es": "pero déjenme un mensaje"
+          },
+          "start": 267.36,
+          "end": 267.76
+        },
+        {
+          "text": "et je vous rappellerai dès que possible.",
+          "translations": {
+            "zh": "我会尽快回复您。",
+            "en": "and I will call you back as soon as possible.",
+            "es": "y los llamaré lo antes posible."
+          },
+          "start": 268.4,
+          "end": 270.684
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "text": "Allô, Yacine, c'est Maia.",
+      "translations": {
+        "zh": "喂，Yacine，我是Maia。",
+        "en": "Hi, Yacine, it's Maia.",
+        "es": "Hola, Yacine, es Maia."
+      },
+      "start": 270.976,
+      "end": 273.02,
+      "words": [
+        {
+          "text": "Allô",
+          "start": 270.976,
+          "end": 271.268
+        },
+        {
+          "text": "Yacine",
+          "start": 271.56,
+          "end": 271.852
+        },
+        {
+          "text": "c'est",
+          "start": 272.144,
+          "end": 272.436
+        },
+        {
+          "text": "Maia",
+          "start": 272.728,
+          "end": 273.02
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Allô, Yacine,",
+          "translations": {
+            "zh": "喂，Yacine，",
+            "en": "Hi, Yacine,",
+            "es": "Hola, Yacine,"
+          },
+          "start": 270.976,
+          "end": 271.852
+        },
+        {
+          "text": "c'est Maia.",
+          "translations": {
+            "zh": "我是Maia。",
+            "en": "it's Maia.",
+            "es": "es Maia."
+          },
+          "start": 272.144,
+          "end": 273.02
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "text": "J'ai attrapé une grosse grippe.",
+      "translations": {
+        "zh": "我得了严重的流感。",
+        "en": "I've caught a bad case of the flu.",
+        "es": "He agarrado una fuerte gripe."
+      },
+      "start": 273.312,
+      "end": 275.94,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 273.312,
+          "end": 273.604
+        },
+        {
+          "text": "attrapé",
+          "start": 273.896,
+          "end": 274.188
+        },
+        {
+          "text": "une",
+          "start": 274.48,
+          "end": 274.772
+        },
+        {
+          "text": "grosse",
+          "start": 275.064,
+          "end": 275.356
+        },
+        {
+          "text": "grippe",
+          "start": 275.648,
+          "end": 275.94
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai attrapé une grosse grippe.",
+          "translations": {
+            "zh": "我得了严重的流感。",
+            "en": "I've caught a bad case of the flu.",
+            "es": "He agarrado una fuerte gripe."
+          },
+          "start": 273.312,
+          "end": 275.94
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "text": "Je sais pas si j'irai mieux samedi soir...",
+      "translations": {
+        "zh": "我不知道周六晚上能不能好……",
+        "en": "I don't know if I'll be better on Saturday evening...",
+        "es": "No sé si estaré mejor el sábado por la noche..."
+      },
+      "start": 276.232,
+      "end": 280.32,
+      "words": [
+        {
+          "text": "Je",
+          "start": 276.232,
+          "end": 276.524
+        },
+        {
+          "text": "sais",
+          "start": 276.816,
+          "end": 277.108
+        },
+        {
+          "text": "pas",
+          "start": 277.4,
+          "end": 277.692
+        },
+        {
+          "text": "si",
+          "start": 277.984,
+          "end": 278.276
+        },
+        {
+          "text": "j'irai",
+          "start": 278.568,
+          "end": 278.86
+        },
+        {
+          "text": "mieux",
+          "start": 279.152,
+          "end": 279.444
+        },
+        {
+          "text": "samedi",
+          "start": 279.736,
+          "end": 280.028
+        },
+        {
+          "text": "soir",
+          "start": 280.32,
+          "end": 280.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je sais pas",
+          "translations": {
+            "zh": "我不知道",
+            "en": "I don't know",
+            "es": "No sé"
+          },
+          "start": 276.232,
+          "end": 277.692
+        },
+        {
+          "text": "si j'irai mieux samedi soir...",
+          "translations": {
+            "zh": "周六晚上能不能好……",
+            "en": "if I'll be better on Saturday evening...",
+            "es": "si estaré mejor el sábado por la noche..."
+          },
+          "start": 277.984,
+          "end": 280.32
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "text": "Et puis je serai peut-être encore contagieuse...",
+      "translations": {
+        "zh": "而且我可能还会传染……",
+        "en": "And plus I might still be contagious...",
+        "es": "Y además quizás todavía sea contagiosa..."
+      },
+      "start": 280.32,
+      "end": 280.32,
+      "words": [
+        {
+          "text": "Et",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "puis",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "je",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "serai",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "peut",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "être",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "encore",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "contagieuse",
+          "start": 280.32,
+          "end": 280.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et puis",
+          "translations": {
+            "zh": "而且",
+            "en": "And plus",
+            "es": "Y además"
+          },
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "je serai peut-être encore contagieuse...",
+          "translations": {
+            "zh": "我可能还会传染……",
+            "en": "I might still be contagious...",
+            "es": "quizás todavía sea contagiosa..."
+          },
+          "start": 280.32,
+          "end": 280.32
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "text": "Bon, on se rappelle, je retourne sous la couverture.",
+      "translations": {
+        "zh": "好吧，我们再联系，我回被窝里去了。",
+        "en": "Okay, we'll talk later, I'm going back under the covers.",
+        "es": "Bueno, nos llamamos, vuelvo bajo la manta."
+      },
+      "start": 280.32,
+      "end": 280.32,
+      "words": [
+        {
+          "text": "Bon",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "on",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "se",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "rappelle",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "je",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "retourne",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "sous",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "la",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "couverture",
+          "start": 280.32,
+          "end": 280.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bon, on se rappelle,",
+          "translations": {
+            "zh": "好吧，我们再联系，",
+            "en": "Okay, we'll talk later,",
+            "es": "Bueno, nos llamamos,"
+          },
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "je retourne sous la couverture.",
+          "translations": {
+            "zh": "我回被窝里去了。",
+            "en": "I'm going back under the covers.",
+            "es": "vuelvo bajo la manta."
+          },
+          "start": 280.32,
+          "end": 280.32
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "text": "Allô, c'est Maia!",
+      "translations": {
+        "zh": "喂，我是Maia！",
+        "en": "Hi, it's Maia!",
+        "es": "¡Hola, es Maia!"
+      },
+      "start": 280.32,
+      "end": 280.32,
+      "words": [
+        {
+          "text": "Allô",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "c'est",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "Maia",
+          "start": 280.32,
+          "end": 280.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Allô, c'est Maia!",
+          "translations": {
+            "zh": "喂，我是Maia！",
+            "en": "Hi, it's Maia!",
+            "es": "¡Hola, es Maia!"
+          },
+          "start": 280.32,
+          "end": 280.32
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "text": "Laissez-moi un message après le bip!",
+      "translations": {
+        "zh": "听到嘟声后请给我留言！",
+        "en": "Leave me a message after the beep!",
+        "es": "¡Déjenme un mensaje después del tono!"
+      },
+      "start": 280.32,
+      "end": 280.32,
+      "words": [
+        {
+          "text": "Laissez",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "moi",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "un",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "message",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "après",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "le",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "bip",
+          "start": 280.32,
+          "end": 280.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Laissez-moi un message",
+          "translations": {
+            "zh": "请给我留言",
+            "en": "Leave me a message",
+            "es": "Déjenme un mensaje"
+          },
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "après le bip!",
+          "translations": {
+            "zh": "听到嘟声后！",
+            "en": "after the beep!",
+            "es": "después del tono!"
+          },
+          "start": 280.32,
+          "end": 280.32
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "text": "Maia, c'est impossible que tu rates cette soirée!",
+      "translations": {
+        "zh": "Maia，你绝对不能错过这场晚会！",
+        "en": "Maia, it's impossible for you to miss this party!",
+        "es": "¡Maia, es imposible que te pierdas esa fiesta!"
+      },
+      "start": 280.32,
+      "end": 280.32,
+      "words": [
+        {
+          "text": "Maia",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "c'est",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "impossible",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "que",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "tu",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "rates",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "cette",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "soirée",
+          "start": 280.32,
+          "end": 280.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Maia,",
+          "translations": {
+            "zh": "Maia，",
+            "en": "Maia,",
+            "es": "Maia,"
+          },
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "c'est impossible que tu rates cette soirée!",
+          "translations": {
+            "zh": "你绝对不能错过这场晚会！",
+            "en": "it's impossible for you to miss this party!",
+            "es": "es imposible que te pierdas esa fiesta!"
+          },
+          "start": 280.32,
+          "end": 280.32
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "text": "J'ai eu bien trop de mal à te convaincre de venir!",
+      "translations": {
+        "zh": "我费了太大劲才说服你来！",
+        "en": "I had way too much trouble convincing you to come!",
+        "es": "¡Me costó demasiado convencerte de que vinieras!"
+      },
+      "start": 280.32,
+      "end": 280.32,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "eu",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "bien",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "trop",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "de",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "mal",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "à",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "te",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "convaincre",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "de",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "venir",
+          "start": 280.32,
+          "end": 280.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai eu bien trop de mal",
+          "translations": {
+            "zh": "我费了太大劲",
+            "en": "I had way too much trouble",
+            "es": "Me costó demasiado"
+          },
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "à te convaincre de venir!",
+          "translations": {
+            "zh": "才说服你来！",
+            "en": "convincing you to come!",
+            "es": "convencerte de que vinieras!"
+          },
+          "start": 280.32,
+          "end": 280.32
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "text": "C'est dans cinq jours.",
+      "translations": {
+        "zh": "还有五天呢。",
+        "en": "It's in five days.",
+        "es": "Es dentro de cinco días."
+      },
+      "start": 280.32,
+      "end": 280.32,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "dans",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "cinq",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "jours",
+          "start": 280.32,
+          "end": 280.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est dans cinq jours.",
+          "translations": {
+            "zh": "还有五天呢。",
+            "en": "It's in five days.",
+            "es": "Es dentro de cinco días."
+          },
+          "start": 280.32,
+          "end": 280.32
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "text": "Je suis sûr que tu iras mieux.",
+      "translations": {
+        "zh": "我确信你会好起来的。",
+        "en": "I'm sure you'll be better.",
+        "es": "Estoy seguro de que estarás mejor."
+      },
+      "start": 280.32,
+      "end": 280.32,
+      "words": [
+        {
+          "text": "Je",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "suis",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "sûr",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "que",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "tu",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "iras",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "mieux",
+          "start": 280.32,
+          "end": 280.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je suis sûr que",
+          "translations": {
+            "zh": "我确信",
+            "en": "I'm sure that",
+            "es": "Estoy seguro de que"
+          },
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "tu iras mieux.",
+          "translations": {
+            "zh": "你会好起来的。",
+            "en": "you'll be better.",
+            "es": "estarás mejor."
+          },
+          "start": 280.32,
+          "end": 280.32
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "text": "Repose-toi bien.",
+      "translations": {
+        "zh": "好好休息。",
+        "en": "Rest well.",
+        "es": "Descansa bien."
+      },
+      "start": 280.32,
+      "end": 280.32,
+      "words": [
+        {
+          "text": "Repose",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "toi",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "bien",
+          "start": 280.32,
+          "end": 280.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Repose-toi bien.",
+          "translations": {
+            "zh": "好好休息。",
+            "en": "Rest well.",
+            "es": "Descansa bien."
+          },
+          "start": 280.32,
+          "end": 280.32
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "text": "Et essaie de mâcher de l'ail, il paraît que ça marche...",
+      "translations": {
+        "zh": "还有试试嚼大蒜，听说管用……",
+        "en": "And try chewing garlic, apparently it works...",
+        "es": "Y trata de masticar ajo, parece que funciona..."
+      },
+      "start": 280.32,
+      "end": 280.32,
+      "words": [
+        {
+          "text": "Et",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "essaie",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "de",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "mâcher",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "de",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "l'ail",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "il",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "paraît",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "que",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "ça",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "marche",
+          "start": 280.32,
+          "end": 280.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et essaie de mâcher de l'ail,",
+          "translations": {
+            "zh": "还有试试嚼大蒜，",
+            "en": "And try chewing garlic,",
+            "es": "Y trata de masticar ajo,"
+          },
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "il paraît que ça marche...",
+          "translations": {
+            "zh": "听说管用……",
+            "en": "apparently it works...",
+            "es": "parece que funciona..."
+          },
+          "start": 280.32,
+          "end": 280.32
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "text": "À samedi !",
+      "translations": {
+        "zh": "周六见！",
+        "en": "See you on Saturday!",
+        "es": "¡Hasta el sábado!"
+      },
+      "start": 280.32,
+      "end": 280.32,
+      "words": [
+        {
+          "text": "À",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "samedi",
+          "start": 280.32,
+          "end": 280.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "À samedi !",
+          "translations": {
+            "zh": "周六见！",
+            "en": "See you on Saturday!",
+            "es": "¡Hasta el sábado!"
+          },
+          "start": 280.32,
+          "end": 280.32
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "text": "FIN.",
+      "translations": {
+        "zh": "结束。",
+        "en": "THE END.",
+        "es": "FIN."
+      },
+      "start": 280.32,
+      "end": 280.32,
+      "words": [
+        {
+          "text": "FIN",
+          "start": 280.32,
+          "end": 280.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "FIN.",
+          "translations": {
+            "zh": "结束。",
+            "en": "THE END.",
+            "es": "FIN."
+          },
+          "start": 280.32,
+          "end": 280.32
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "text": "Épisode 7 : La grippe",
+      "translations": {
+        "zh": "第七集：流感",
+        "en": "Episode 7: The Flu",
+        "es": "Episodio 7: La gripe"
+      },
+      "start": 280.32,
+      "end": 280.32,
+      "words": [
+        {
+          "text": "Épisode",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "7",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "La",
+          "start": 280.32,
+          "end": 280.32
+        },
+        {
+          "text": "grippe",
+          "start": 280.32,
+          "end": 280.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Épisode 7 : La grippe",
+          "translations": {
+            "zh": "第七集：流感",
+            "en": "Episode 7: The Flu",
+            "es": "Episodio 7: La gripe"
+          },
+          "start": 280.32,
+          "end": 280.32
+        }
+      ]
+    }
+  ],
+  "id": "tv5_tu_te_souviens_7",
+  "audio_filename": "tv5_tu_te_souviens_7.mp3",
+  "audio_path": "public/audio/tv5_tu_te_souviens_7.mp3",
+  "episode": 21,
+  "piste": 7
+}

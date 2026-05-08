@@ -18,7 +18,7 @@ export type PisteInfo = {
   audio: string;
   data: string;
 };
-export type EpisodeInfo = { id: number; pistes: PisteInfo[] };
+export type EpisodeInfo = { id: number; title?: string; pistes: PisteInfo[] };
 export type ManifestData = { episodes: EpisodeInfo[] };
 
 export type SentenceStatus = 'none' | 'pass' | 'fail';
