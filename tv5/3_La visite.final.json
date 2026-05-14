@@ -14,11 +14,11 @@
         {
           "text": "Depuis",
           "start": 3.76,
-          "end": 4
+          "end": 4.0
         },
         {
           "text": "mon",
-          "start": 4,
+          "start": 4.0,
           "end": 4.24
         },
         {
@@ -49,11 +49,11 @@
         {
           "text": "en",
           "start": 5.92,
-          "end": 6
+          "end": 6.0
         },
         {
           "text": "colocation",
-          "start": 6,
+          "start": 6.0,
           "end": 6.56
         }
       ],
@@ -103,7 +103,7 @@
         },
         {
           "text": "mais",
-          "start": 8,
+          "start": 8.0,
           "end": 8.16
         },
         {
@@ -175,7 +175,7 @@
             "en": "but I wanted to live alone,",
             "es": "pero tenía ganas de vivir solo,"
           },
-          "start": 8,
+          "start": 8.0,
           "end": 9.36
         },
         {
@@ -443,12 +443,12 @@
         "en": "None of them appealed to me.",
         "es": "Ninguno me gustaba."
       },
-      "start": 22,
+      "start": 22.0,
       "end": 22.8,
       "words": [
         {
           "text": "Aucun",
-          "start": 22,
+          "start": 22.0,
           "end": 22.24
         },
         {
@@ -475,7 +475,7 @@
             "en": "None of them appealed to me.",
             "es": "Ninguno me gustaba."
           },
-          "start": 22,
+          "start": 22.0,
           "end": 22.8
         }
       ]
@@ -864,7 +864,7 @@
         {
           "text": "Ce",
           "start": 33.12,
-          "end": 34
+          "end": 34.0
         },
         {
           "text": "jour",
@@ -893,7 +893,7 @@
         },
         {
           "text": "au",
-          "start": 36,
+          "start": 36.0,
           "end": 36.08
         },
         {
@@ -945,7 +945,7 @@
             "en": "on the first floor of a duplex.",
             "es": "en el primer piso de un dúplex."
           },
-          "start": 36,
+          "start": 36.0,
           "end": 37.52
         }
       ]
@@ -1414,11 +1414,11 @@
         {
           "text": "de",
           "start": 59.84,
-          "end": 60
+          "end": 60.0
         },
         {
           "text": "bain",
-          "start": 60,
+          "start": 60.0,
           "end": 60.16
         }
       ],
@@ -2169,7 +2169,7 @@
         "es": "Es muy luminoso."
       },
       "start": 87.36,
-      "end": 88,
+      "end": 88.0,
       "words": [
         {
           "text": "C'est",
@@ -2184,7 +2184,7 @@
         {
           "text": "lumineux",
           "start": 87.6,
-          "end": 88
+          "end": 88.0
         }
       ],
       "chunks": [
@@ -2196,7 +2196,7 @@
             "es": "Es muy luminoso."
           },
           "start": 87.36,
-          "end": 88
+          "end": 88.0
         }
       ]
     },
@@ -2254,11 +2254,11 @@
         {
           "text": "portes",
           "start": 89.76,
-          "end": 90
+          "end": 90.0
         },
         {
           "text": "patio",
-          "start": 90,
+          "start": 90.0,
           "end": 90.56
         }
       ],
@@ -2528,8 +2528,8 @@
         },
         {
           "text": "si",
-          "start": 100,
-          "end": 100
+          "start": 100.0,
+          "end": 100.0
         },
         {
           "text": "t'aimes",
@@ -2560,7 +2560,7 @@
             "en": "if you like.",
             "es": "si te gusta."
           },
-          "start": 100,
+          "start": 100.0,
           "end": 100.48
         }
       ]
@@ -2744,12 +2744,12 @@
         {
           "text": "Tu",
           "start": 105.92,
-          "end": 106
+          "end": 106.0
         },
         {
           "text": "peux",
-          "start": 106,
-          "end": 106
+          "start": 106.0,
+          "end": 106.0
         },
         {
           "text": "mettre",
@@ -3219,7 +3219,7 @@
         "es": "Es realmente genial."
       },
       "start": 120.08,
-      "end": 122,
+      "end": 122.0,
       "words": [
         {
           "text": "C'est",
@@ -3234,7 +3234,7 @@
         {
           "text": "super",
           "start": 121.68,
-          "end": 122
+          "end": 122.0
         }
       ],
       "chunks": [
@@ -3246,7 +3246,7 @@
             "es": "Es realmente genial."
           },
           "start": 120.08,
-          "end": 122
+          "end": 122.0
         }
       ]
     },
@@ -3338,7 +3338,7 @@
         },
         {
           "text": "au",
-          "start": 126,
+          "start": 126.0,
           "end": 126.16
         },
         {
@@ -3419,7 +3419,7 @@
         {
           "text": "un",
           "start": 127.92,
-          "end": 128
+          "end": 128.0
         },
         {
           "text": "demi",
@@ -3749,11 +3749,11 @@
         {
           "text": "mon",
           "start": 137.92,
-          "end": 138
+          "end": 138.0
         },
         {
           "text": "travail",
-          "start": 138,
+          "start": 138.0,
           "end": 138.32
         }
       ],
@@ -3834,11 +3834,11 @@
         {
           "text": "indiqué",
           "start": 141.6,
-          "end": 142
+          "end": 142.0
         },
         {
           "text": "dans",
-          "start": 142,
+          "start": 142.0,
           "end": 142.08
         },
         {
@@ -3999,7 +3999,7 @@
         {
           "text": "contre",
           "start": 147.68,
-          "end": 148
+          "end": 148.0
         },
         {
           "text": "l'eau",
@@ -4034,11 +4034,11 @@
         {
           "text": "inclus",
           "start": 149.84,
-          "end": 150
+          "end": 150.0
         },
         {
           "text": "dans",
-          "start": 150,
+          "start": 150.0,
           "end": 150.16
         },
         {
@@ -4061,7 +4061,7 @@
             "es": "Por contra,"
           },
           "start": 147.52,
-          "end": 148
+          "end": 148.0
         },
         {
           "text": "l'eau chaude, pis l'électricité,",
@@ -4119,11 +4119,11 @@
         {
           "text": "ça",
           "start": 151.84,
-          "end": 152
+          "end": 152.0
         },
         {
           "text": "avec",
-          "start": 152,
+          "start": 152.0,
           "end": 152.16
         },
         {
@@ -4394,11 +4394,11 @@
         {
           "text": "visite",
           "start": 161.68,
-          "end": 162
+          "end": 162.0
         },
         {
           "text": "juste",
-          "start": 162,
+          "start": 162.0,
           "end": 162.24
         },
         {
@@ -4664,11 +4664,11 @@
         {
           "text": "crédit",
           "start": 169.52,
-          "end": 170
+          "end": 170.0
         },
         {
           "text": "pis",
-          "start": 170,
+          "start": 170.0,
           "end": 170.08
         },
         {
@@ -4721,7 +4721,7 @@
             "es": "Hago una investigación de crédito,"
           },
           "start": 168.72,
-          "end": 170
+          "end": 170.0
         },
         {
           "text": "pis si tout va bien,",
@@ -4730,7 +4730,7 @@
             "en": "and if everything goes well,",
             "es": "y si todo va bien,"
           },
-          "start": 170,
+          "start": 170.0,
           "end": 170.88
         },
         {
@@ -4909,11 +4909,11 @@
         {
           "text": "ton",
           "start": 177.76,
-          "end": 178
+          "end": 178.0
         },
         {
           "text": "nom",
-          "start": 178,
+          "start": 178.0,
           "end": 178.24
         },
         {
@@ -5219,7 +5219,7 @@
         "es": "¿Trabajas?"
       },
       "start": 189.28,
-      "end": 190,
+      "end": 190.0,
       "words": [
         {
           "text": "Est",
@@ -5244,7 +5244,7 @@
         {
           "text": "travailles",
           "start": 189.6,
-          "end": 190
+          "end": 190.0
         }
       ],
       "chunks": [
@@ -5256,7 +5256,7 @@
             "es": "¿Trabajas?"
           },
           "start": 189.28,
-          "end": 190
+          "end": 190.0
         }
       ]
     },
@@ -5649,7 +5649,7 @@
         "es": "¿Sabes cómo funciona?"
       },
       "start": 203.04,
-      "end": 204,
+      "end": 204.0,
       "words": [
         {
           "text": "Tu",
@@ -5674,7 +5674,7 @@
         {
           "text": "fonctionne",
           "start": 203.52,
-          "end": 204
+          "end": 204.0
         }
       ],
       "chunks": [
@@ -5686,7 +5686,7 @@
             "es": "¿Sabes cómo funciona?"
           },
           "start": 203.04,
-          "end": 204
+          "end": 204.0
         }
       ]
     },
@@ -5744,11 +5744,11 @@
         {
           "text": "est",
           "start": 205.84,
-          "end": 206
+          "end": 206.0
         },
         {
           "text": "jusqu'au",
-          "start": 206,
+          "start": 206.0,
           "end": 206.4
         },
         {
@@ -5864,11 +5864,11 @@
         {
           "text": "début",
           "start": 209.68,
-          "end": 210
+          "end": 210.0
         },
         {
           "text": "de",
-          "start": 210,
+          "start": 210.0,
           "end": 210.4
         },
         {
@@ -6399,11 +6399,11 @@
         {
           "text": "qu'il",
           "start": 231.92,
-          "end": 232
+          "end": 232.0
         },
         {
           "text": "m'appellerait",
-          "start": 232,
+          "start": 232.0,
           "end": 232.4
         },
         {
@@ -7014,7 +7014,7 @@
         {
           "text": "Je",
           "start": 257.76,
-          "end": 258
+          "end": 258.0
         },
         {
           "text": "me",
@@ -7109,11 +7109,11 @@
         {
           "text": "qu'elle",
           "start": 261.84,
-          "end": 262
+          "end": 262.0
         },
         {
           "text": "prenne",
-          "start": 262,
+          "start": 262.0,
           "end": 262.32
         },
         {
@@ -8596,9 +8596,8 @@
       ]
     }
   ],
-  "id": "tv5_tu_te_souviens_3",
-  "audio_filename": "tv5_tu_te_souviens_3.mp3",
-  "audio_path": "public/audio/tv5_tu_te_souviens_3.mp3",
-  "episode": 21,
-  "piste": 3
+  "id": "3_La visite",
+  "audio_filename": "3_La visite.mp3",
+  "audio_path": "downloads/tv5_tu_te_souviens/3_La visite.mp3",
+  "episode": 3
 }

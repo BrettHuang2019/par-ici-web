@@ -169,11 +169,11 @@
         {
           "text": "plus",
           "start": 11.84,
-          "end": 12
+          "end": 12.0
         },
         {
           "text": "d'énergie",
-          "start": 12,
+          "start": 12.0,
           "end": 12.88
         }
       ],
@@ -259,11 +259,11 @@
         {
           "text": "me",
           "start": 15.84,
-          "end": 16
+          "end": 16.0
         },
         {
           "text": "demandais",
-          "start": 16,
+          "start": 16.0,
           "end": 16.4
         },
         {
@@ -374,11 +374,11 @@
         {
           "text": "appelé",
           "start": 19.68,
-          "end": 20
+          "end": 20.0
         },
         {
           "text": "un",
-          "start": 20,
+          "start": 20.0,
           "end": 20.08
         },
         {
@@ -468,7 +468,7 @@
         },
         {
           "text": "qu'est",
-          "start": 26,
+          "start": 26.0,
           "end": 26.08
         },
         {
@@ -525,7 +525,7 @@
             "en": "what can I do for you?",
             "es": "¿qué puedo hacer por usted?"
           },
-          "start": 26,
+          "start": 26.0,
           "end": 26.96
         }
       ]
@@ -593,7 +593,7 @@
         },
         {
           "text": "appelle",
-          "start": 30,
+          "start": 30.0,
           "end": 30.32
         },
         {
@@ -799,11 +799,11 @@
         {
           "text": "poser",
           "start": 37.68,
-          "end": 38
+          "end": 38.0
         },
         {
           "text": "quelques",
-          "start": 38,
+          "start": 38.0,
           "end": 38.24
         },
         {
@@ -899,11 +899,11 @@
         {
           "text": "Elle",
           "start": 41.84,
-          "end": 42
+          "end": 42.0
         },
         {
           "text": "m'a",
-          "start": 42,
+          "start": 42.0,
           "end": 42.16
         },
         {
@@ -964,7 +964,7 @@
         {
           "text": "téléphone",
           "start": 45.28,
-          "end": 46
+          "end": 46.0
         },
         {
           "text": "puis",
@@ -1041,7 +1041,7 @@
             "es": "y mi número de teléfono,"
           },
           "start": 44.72,
-          "end": 46
+          "end": 46.0
         },
         {
           "text": "puis elle m'a dit",
@@ -1079,11 +1079,11 @@
         {
           "text": "J'ai",
           "start": 49.84,
-          "end": 50
+          "end": 50.0
         },
         {
           "text": "mal",
-          "start": 50,
+          "start": 50.0,
           "end": 50.32
         },
         {
@@ -1099,11 +1099,11 @@
         {
           "text": "dans",
           "start": 51.84,
-          "end": 52
+          "end": 52.0
         },
         {
           "text": "le",
-          "start": 52,
+          "start": 52.0,
           "end": 52.16
         },
         {
@@ -1164,11 +1164,11 @@
         {
           "text": "je",
           "start": 53.84,
-          "end": 54
+          "end": 54.0
         },
         {
           "text": "suis",
-          "start": 54,
+          "start": 54.0,
           "end": 54.32
         },
         {
@@ -1279,11 +1279,11 @@
         {
           "text": "Mais",
           "start": 59.84,
-          "end": 60
+          "end": 60.0
         },
         {
           "text": "je",
-          "start": 60,
+          "start": 60.0,
           "end": 60.16
         },
         {
@@ -1309,11 +1309,11 @@
         {
           "text": "une",
           "start": 61.76,
-          "end": 62
+          "end": 62.0
         },
         {
           "text": "comme",
-          "start": 62,
+          "start": 62.0,
           "end": 62.24
         },
         {
@@ -1331,7 +1331,7 @@
             "es": "Pero"
           },
           "start": 59.84,
-          "end": 60
+          "end": 60.0
         },
         {
           "text": "je n'en ai jamais attrapé une comme ça!",
@@ -1340,7 +1340,7 @@
             "en": "I've never caught one like this!",
             "es": "¡nunca he cogido una así!"
           },
-          "start": 60,
+          "start": 60.0,
           "end": 62.64
         }
       ]
@@ -1914,11 +1914,11 @@
         {
           "text": "Eh",
           "start": 89.84,
-          "end": 90
+          "end": 90.0
         },
         {
           "text": "bien",
-          "start": 90,
+          "start": 90.0,
           "end": 90.64
         },
         {
@@ -1934,11 +1934,11 @@
         {
           "text": "pourrait",
           "start": 91.68,
-          "end": 92
+          "end": 92.0
         },
         {
           "text": "faire",
-          "start": 92,
+          "start": 92.0,
           "end": 92.24
         },
         {
@@ -2043,7 +2043,7 @@
         },
         {
           "text": "de",
-          "start": 96,
+          "start": 96.0,
           "end": 96.48
         },
         {
@@ -2609,11 +2609,11 @@
         {
           "text": "ne",
           "start": 117.84,
-          "end": 118
+          "end": 118.0
         },
         {
           "text": "me",
-          "start": 118,
+          "start": 118.0,
           "end": 118.08
         },
         {
@@ -2784,11 +2784,11 @@
         {
           "text": "symptômes",
           "start": 123.68,
-          "end": 124
+          "end": 124.0
         },
         {
           "text": "que",
-          "start": 124,
+          "start": 124.0,
           "end": 124.16
         },
         {
@@ -2829,11 +2829,11 @@
         {
           "text": "mieux",
           "start": 125.84,
-          "end": 126
+          "end": 126.0
         },
         {
           "text": "voir",
-          "start": 126,
+          "start": 126.0,
           "end": 126.32
         },
         {
@@ -2871,7 +2871,7 @@
             "es": "si tiene uno de los síntomas"
           },
           "start": 122.4,
-          "end": 124
+          "end": 124.0
         },
         {
           "text": "que je viens de vous énumérer,",
@@ -2880,7 +2880,7 @@
             "en": "that I just listed for you,",
             "es": "que acabo de enumerarle,"
           },
-          "start": 124,
+          "start": 124.0,
           "end": 125.28
         },
         {
@@ -2959,12 +2959,12 @@
         "es": "No."
       },
       "start": 129.6,
-      "end": 130,
+      "end": 130.0,
       "words": [
         {
           "text": "Non",
           "start": 129.6,
-          "end": 130
+          "end": 130.0
         }
       ],
       "chunks": [
@@ -2976,7 +2976,7 @@
             "es": "No."
           },
           "start": 129.6,
-          "end": 130
+          "end": 130.0
         }
       ]
     },
@@ -3008,7 +3008,7 @@
         },
         {
           "text": "fois",
-          "start": 132,
+          "start": 132.0,
           "end": 132.4
         },
         {
@@ -3104,11 +3104,11 @@
         {
           "text": "Je",
           "start": 135.92,
-          "end": 136
+          "end": 136.0
         },
         {
           "text": "ne",
-          "start": 136,
+          "start": 136.0,
           "end": 136.48
         },
         {
@@ -3163,17 +3163,17 @@
         "en": "What should I do if I want to see a doctor?",
         "es": "¿Qué debo hacer si quiero ver a un médico?"
       },
-      "start": 140,
+      "start": 140.0,
       "end": 142.56,
       "words": [
         {
           "text": "Qu'est",
-          "start": 140,
-          "end": 140
+          "start": 140.0,
+          "end": 140.0
         },
         {
           "text": "ce",
-          "start": 140,
+          "start": 140.0,
           "end": 140.32
         },
         {
@@ -3235,7 +3235,7 @@
             "en": "What should I do",
             "es": "¿Qué debo hacer"
           },
-          "start": 140,
+          "start": 140.0,
           "end": 141.04
         },
         {
@@ -3319,11 +3319,11 @@
         {
           "text": "dans",
           "start": 145.84,
-          "end": 146
+          "end": 146.0
         },
         {
           "text": "une",
-          "start": 146,
+          "start": 146.0,
           "end": 146.16
         },
         {
@@ -3579,11 +3579,11 @@
         {
           "text": "Et",
           "start": 153.84,
-          "end": 154
+          "end": 154.0
         },
         {
           "text": "surtout",
-          "start": 154,
+          "start": 154.0,
           "end": 154.32
         },
         {
@@ -3774,12 +3774,12 @@
         {
           "text": "cinq",
           "start": 163.76,
-          "end": 164
+          "end": 164.0
         },
         {
           "text": "à",
-          "start": 164,
-          "end": 164
+          "start": 164.0,
+          "end": 164.0
         },
         {
           "text": "sept",
@@ -3883,12 +3883,12 @@
         },
         {
           "text": "importante",
-          "start": 168,
-          "end": 168
+          "start": 168.0,
+          "end": 168.0
         },
         {
           "text": "dans",
-          "start": 168,
+          "start": 168.0,
           "end": 168.24
         },
         {
@@ -4059,11 +4059,11 @@
         {
           "text": "naturels",
           "start": 175.36,
-          "end": 176
+          "end": 176.0
         },
         {
           "text": "pour",
-          "start": 176,
+          "start": 176.0,
           "end": 176.24
         },
         {
@@ -4091,7 +4091,7 @@
             "es": "¿No conoce trucos naturales"
           },
           "start": 174.16,
-          "end": 176
+          "end": 176.0
         },
         {
           "text": "pour guérir plus vite?",
@@ -4100,7 +4100,7 @@
             "en": "to heal faster?",
             "es": "para curarse más rápido?"
           },
-          "start": 176,
+          "start": 176.0,
           "end": 177.04
         }
       ]
@@ -4114,7 +4114,7 @@
         "es": "Como le digo, hay que..."
       },
       "start": 178.64,
-      "end": 180,
+      "end": 180.0,
       "words": [
         {
           "text": "Comme",
@@ -4144,7 +4144,7 @@
         {
           "text": "faut",
           "start": 179.92,
-          "end": 180
+          "end": 180.0
         }
       ],
       "chunks": [
@@ -4166,7 +4166,7 @@
             "es": "hay que..."
           },
           "start": 179.52,
-          "end": 180
+          "end": 180.0
         }
       ]
     },
@@ -4178,12 +4178,12 @@
         "en": "I know that cinnamon, lemon and ginger can help.",
         "es": "Sé que la canela, el limón y el jengibre pueden ayudar."
       },
-      "start": 180,
+      "start": 180.0,
       "end": 183.68,
       "words": [
         {
           "text": "Je",
-          "start": 180,
+          "start": 180.0,
           "end": 180.24
         },
         {
@@ -4250,7 +4250,7 @@
             "en": "I know that",
             "es": "Sé que"
           },
-          "start": 180,
+          "start": 180.0,
           "end": 180.96
         },
         {
@@ -4309,7 +4309,7 @@
         {
           "text": "un",
           "start": 185.92,
-          "end": 186
+          "end": 186.0
         },
         {
           "text": "bon",
@@ -4408,7 +4408,7 @@
         },
         {
           "text": "verre",
-          "start": 190,
+          "start": 190.0,
           "end": 190.32
         }
       ],
@@ -4514,11 +4514,11 @@
         {
           "text": "En",
           "start": 193.84,
-          "end": 194
+          "end": 194.0
         },
         {
           "text": "fait",
-          "start": 194,
+          "start": 194.0,
           "end": 194.24
         },
         {
@@ -4549,7 +4549,7 @@
         "es": "¿O la acupuntura?"
       },
       "start": 194.96,
-      "end": 196,
+      "end": 196.0,
       "words": [
         {
           "text": "Ou",
@@ -4559,7 +4559,7 @@
         {
           "text": "l'acupuncture",
           "start": 195.2,
-          "end": 196
+          "end": 196.0
         }
       ],
       "chunks": [
@@ -4571,7 +4571,7 @@
             "es": "¿O la acupuntura?"
           },
           "start": 194.96,
-          "end": 196
+          "end": 196.0
         }
       ]
     },
@@ -4583,12 +4583,12 @@
         "en": "I know a friend who tried it.",
         "es": "Conozco a una amiga que lo ha probado."
       },
-      "start": 196,
+      "start": 196.0,
       "end": 197.92,
       "words": [
         {
           "text": "Je",
-          "start": 196,
+          "start": 196.0,
           "end": 196.48
         },
         {
@@ -4630,7 +4630,7 @@
             "en": "I know a friend",
             "es": "Conozco a una amiga"
           },
-          "start": 196,
+          "start": 196.0,
           "end": 197.325
         },
         {
@@ -4733,7 +4733,7 @@
         },
         {
           "text": "ce",
-          "start": 200,
+          "start": 200.0,
           "end": 200.08
         },
         {
@@ -5044,11 +5044,11 @@
         {
           "text": "ça",
           "start": 209.84,
-          "end": 210
+          "end": 210.0
         },
         {
           "text": "pourrait",
-          "start": 210,
+          "start": 210.0,
           "end": 210.16
         },
         {
@@ -5144,11 +5144,11 @@
         {
           "text": "ou",
           "start": 213.84,
-          "end": 214
+          "end": 214.0
         },
         {
           "text": "de",
-          "start": 214,
+          "start": 214.0,
           "end": 214.08
         },
         {
@@ -5229,11 +5229,11 @@
         {
           "text": "Ça",
           "start": 215.92,
-          "end": 216
+          "end": 216.0
         },
         {
           "text": "peut",
-          "start": 216,
+          "start": 216.0,
           "end": 216.08
         },
         {
@@ -5378,12 +5378,12 @@
         "en": "It can have side effects.",
         "es": "Puede tener efectos secundarios."
       },
-      "start": 220,
+      "start": 220.0,
       "end": 221.44,
       "words": [
         {
           "text": "Ça",
-          "start": 220,
+          "start": 220.0,
           "end": 220.08
         },
         {
@@ -5420,7 +5420,7 @@
             "en": "It can have side effects.",
             "es": "Puede tener efectos secundarios."
           },
-          "start": 220,
+          "start": 220.0,
           "end": 221.44
         }
       ]
@@ -5493,12 +5493,12 @@
         "en": "And remember to stay well hydrated.",
         "es": "Y recuerde hidratarse bien."
       },
-      "start": 224,
+      "start": 224.0,
       "end": 225.36,
       "words": [
         {
           "text": "Et",
-          "start": 224,
+          "start": 224.0,
           "end": 224.08
         },
         {
@@ -5535,7 +5535,7 @@
             "en": "And remember to stay well hydrated.",
             "es": "Y recuerde hidratarse bien."
           },
-          "start": 224,
+          "start": 224.0,
           "end": 225.36
         }
       ]
@@ -5613,12 +5613,12 @@
         "en": "You're welcome.",
         "es": "De nada."
       },
-      "start": 238,
+      "start": 238.0,
       "end": 238.48,
       "words": [
         {
           "text": "Bienvenue",
-          "start": 238,
+          "start": 238.0,
           "end": 238.48
         }
       ],
@@ -5630,7 +5630,7 @@
             "en": "You're welcome.",
             "es": "De nada."
           },
-          "start": 238,
+          "start": 238.0,
           "end": 238.48
         }
       ]
@@ -5894,7 +5894,7 @@
         {
           "text": "Bonjour",
           "start": 249.68,
-          "end": 252
+          "end": 252.0
         },
         {
           "text": "vous",
@@ -5941,7 +5941,7 @@
             "es": "Hola,"
           },
           "start": 249.68,
-          "end": 252
+          "end": 252.0
         },
         {
           "text": "vous avez composé le numéro de Yacine.",
@@ -6991,9 +6991,8 @@
       ]
     }
   ],
-  "id": "tv5_tu_te_souviens_7",
-  "audio_filename": "tv5_tu_te_souviens_7.mp3",
-  "audio_path": "public/audio/tv5_tu_te_souviens_7.mp3",
-  "episode": 21,
-  "piste": 7
+  "id": "7_La grippe",
+  "audio_filename": "7_La grippe.mp3",
+  "audio_path": "downloads/tv5_tu_te_souviens/7_La grippe.mp3",
+  "episode": 7
 }
