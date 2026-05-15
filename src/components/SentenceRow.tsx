@@ -16,7 +16,7 @@ type Props = {
   piste: number;
   onChunkClick: (chunk: Chunk) => void;
   onSentenceClick: (start: number, end: number) => void;
-  translationMode: 0 | 1 | 2 | 3;
+  translationMode: 0 | 1 | 2 | 3 | 4;
   translationLanguage: LanguageCode;
   practiceMode?: boolean;
 };
@@ -57,6 +57,8 @@ export function SentenceRow({
       : progress.status;
   const hasLocalReveal = wordStates.some(s => s !== 'hidden');
   const effectiveRevealed = (practiceMode && !practiceInteracted) ? hasLocalReveal : progress.revealed;
+  const modeRevealed = translationMode === 4;
+  const displayedRevealed = effectiveRevealed || modeRevealed;
 
   useEffect(() => {
     if (isActive && rowRef.current) {
@@ -182,7 +184,7 @@ export function SentenceRow({
                 wordIndices={chunkWordIndices[ci]}
                 activeWordIdx={activeWordIdx}
                 isActiveChunk={ci === activeChunkIdx}
-                globalRevealed={effectiveRevealed}
+                globalRevealed={displayedRevealed}
                 wordStates={localWordStates}
                 onWordStateChange={handleWordStateChange}
                 onChunkClick={onChunkClick}
@@ -195,7 +197,7 @@ export function SentenceRow({
             );
           })}
         </div>
-        {(translationMode === 1 || translationMode === 2 || effectiveRevealed) && sentenceTranslation && (
+        {(translationMode === 1 || translationMode === 2 || displayedRevealed) && sentenceTranslation && (
           <div className="text-xs text-yellow-300/70 mt-1.5 pl-0.5">{sentenceTranslation}</div>
         )}
       </div>

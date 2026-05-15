@@ -1,6 +1,12 @@
 import { usePlayerStore } from '../store/player';
 
-const TRANSLATION_MODE_LABELS = ['Translations off', 'Sentence translation', 'Sentence and chunk translations', 'Chunk translations'];
+const TRANSLATION_MODE_LABELS = [
+  'Translations off',
+  'Sentence translation',
+  'Sentence and chunk translations',
+  'Chunk translations',
+  'Reveal French and sentence translation',
+];
 const TRANSLATION_MODE_ICONS = [
   <span aria-hidden="true" className="flex gap-0.5">
     <span className="block h-1.5 w-1.5 rounded-full bg-current opacity-35" />
@@ -17,6 +23,10 @@ const TRANSLATION_MODE_ICONS = [
   <span aria-hidden="true" className="flex gap-0.5">
     <span className="block h-1.5 w-1.5 rounded-full bg-current opacity-35" />
     <span className="block h-1.5 w-1.5 rounded-full bg-current" />
+  </span>,
+  <span aria-hidden="true" className="flex flex-col items-center gap-0.5">
+    <span className="block h-1.5 w-3 rounded-sm bg-current" />
+    <span className="block h-1 w-3 rounded-sm bg-current opacity-55" />
   </span>,
 ];
 

@@ -4,7 +4,7 @@ import type { LanguageCode } from '../lib/types';
 const TRANSLATION_LANGUAGE_KEY = 'par-ici/translation-language/v1';
 const TRANSLATION_MODE_KEY = 'par-ici/translation-mode/v1';
 
-type TranslationMode = 0 | 1 | 2 | 3;
+type TranslationMode = 0 | 1 | 2 | 3 | 4;
 
 function readTranslationLanguage(): LanguageCode {
   if (typeof localStorage === 'undefined') return 'zh';
@@ -14,14 +14,14 @@ function readTranslationLanguage(): LanguageCode {
 function readTranslationMode(): TranslationMode {
   if (typeof localStorage === 'undefined') return 0;
   const value = Number(localStorage.getItem(TRANSLATION_MODE_KEY));
-  return value === 1 || value === 2 || value === 3 ? value : 0;
+  return value === 1 || value === 2 || value === 3 || value === 4 ? value : 0;
 }
 
 type PlayerStore = {
   currentTime: number;
   duration: number;
   playing: boolean;
-  translationMode: TranslationMode; // 0=off, 1=sentence, 2=sentence+chunk, 3=chunk only
+  translationMode: TranslationMode; // 0=off, 1=sentence, 2=sentence+chunk, 3=chunk only, 4=reveal FR+sentence
   translationLanguage: LanguageCode;
   setCurrentTime: (t: number) => void;
   setDuration: (d: number) => void;
@@ -44,7 +44,7 @@ export const usePlayerStore = create<PlayerStore>((set) => ({
     set({ translationLanguage: language });
   },
   cycleTranslationMode: () => set((s) => {
-    const translationMode = ((s.translationMode + 1) % 4) as TranslationMode;
+    const translationMode = ((s.translationMode + 1) % 5) as TranslationMode;
     localStorage.setItem(TRANSLATION_MODE_KEY, String(translationMode));
     return { translationMode };
   }),

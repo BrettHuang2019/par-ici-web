@@ -15,7 +15,7 @@ type Props = {
   wordStates: WordState[];
   onWordStateChange: (wordIdx: number, state: WordState) => void;
   onChunkClick: (chunk: Chunk) => void;
-  translationMode: 0 | 1 | 2 | 3;
+  translationMode: 0 | 1 | 2 | 3 | 4;
   translationLanguage: LanguageCode;
   ep: number;
   piste: number;
