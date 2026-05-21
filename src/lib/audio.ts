@@ -19,9 +19,9 @@ export class AudioEngine {
   get paused() { return this.audio.paused; }
   get element() { return this.audio; }
 
-  play() {
+  async play() {
     this.stopAt = null;
-    this.audio.play();
+    await this.audio.play();
     this.startRaf();
   }
 
@@ -35,17 +35,17 @@ export class AudioEngine {
     this.cb(t);
   }
 
-  seekAndPlay(t: number) {
+  async seekAndPlay(t: number) {
     this.stopAt = null;
     this.audio.currentTime = t;
-    this.audio.play();
+    await this.audio.play();
     this.startRaf();
   }
 
-  playRange(start: number, end: number) {
+  async playRange(start: number, end: number) {
     this.stopAt = end;
     this.audio.currentTime = Math.max(0, start - RANGE_PRE_ROLL_SECONDS);
-    this.audio.play();
+    await this.audio.play();
     this.startRaf();
   }
 

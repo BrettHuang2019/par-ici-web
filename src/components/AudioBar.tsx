@@ -16,7 +16,14 @@ export function AudioBar({ engine }: Props) {
   const toggle = () => {
     if (!engine) return;
     if (playing) { engine.pause(); setPlaying(false); }
-    else { engine.play(); setPlaying(true); }
+    else {
+      void engine.play()
+        .then(() => setPlaying(true))
+        .catch((error) => {
+          setPlaying(false);
+          console.error('Unable to play audio', error);
+        });
+    }
   };
 
   const seek = (e: React.ChangeEvent<HTMLInputElement>) => {

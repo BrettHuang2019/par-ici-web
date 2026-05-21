@@ -65,14 +65,22 @@ export function Player() {
 
   const handleChunkClick = (chunk: Chunk) => {
     if (!engineRef.current) return;
-    engineRef.current.playRange(chunk.start, chunk.end);
-    setPlaying(true);
+    void engineRef.current.playRange(chunk.start, chunk.end)
+      .then(() => setPlaying(true))
+      .catch((error) => {
+        setPlaying(false);
+        console.error('Unable to play audio', error);
+      });
   };
 
   const handleSentenceClick = (start: number, end: number) => {
     if (!engineRef.current) return;
-    engineRef.current.playRange(start, end);
-    setPlaying(true);
+    void engineRef.current.playRange(start, end)
+      .then(() => setPlaying(true))
+      .catch((error) => {
+        setPlaying(false);
+        console.error('Unable to play audio', error);
+      });
   };
 
   if (!pisteInfo) {

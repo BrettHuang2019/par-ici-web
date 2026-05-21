@@ -19,6 +19,8 @@ type Props = {
   translationMode: 0 | 1 | 2 | 3 | 4;
   translationLanguage: LanguageCode;
   practiceMode?: boolean;
+  onPracticeInteracted?: () => void;
+  isAudioLoading?: boolean;
 };
 
 export function SentenceRow({
@@ -31,6 +33,8 @@ export function SentenceRow({
   translationMode,
   translationLanguage,
   practiceMode = false,
+  onPracticeInteracted,
+  isAudioLoading = false,
 }: Props) {
   const key = sentenceKey(ep, piste, sentence.id);
   const { getProgress, setStatus, setRevealed } = useProgressStore();
@@ -105,9 +109,14 @@ export function SentenceRow({
         }
       });
       if (practiceMode) setPracticeInteracted(true);
+      if (practiceMode) onPracticeInteracted?.();
       setStatus(key, 'fail');
     } else if (wasRed) {
       removeRed(changedWord.text, ep, piste, sentence.id);
+      if (practiceMode) {
+        setPracticeInteracted(true);
+        onPracticeInteracted?.();
+      }
     }
   };
 
@@ -139,6 +148,7 @@ export function SentenceRow({
 
   const handlePass = () => {
     if (practiceMode) setPracticeInteracted(true);
+    if (practiceMode) onPracticeInteracted?.();
     if (progress.status === 'pass') {
       setStatus(key, 'none');
     } else {
@@ -151,6 +161,7 @@ export function SentenceRow({
 
   const handleFail = () => {
     if (practiceMode) setPracticeInteracted(true);
+    if (practiceMode) onPracticeInteracted?.();
     if (progress.status === 'fail') {
       setStatus(key, 'none');
     } else {
@@ -216,6 +227,13 @@ export function SentenceRow({
           title="Fail"
         >✗</button>
       </div>
+
+      {isAudioLoading && (
+        <div className="absolute bottom-2 left-3 flex items-center gap-2 text-xs text-blue-300">
+          <span className="h-3 w-3 rounded-full border-2 border-blue-400/40 border-t-blue-300 animate-spin" />
+          <span>Loading audio...</span>
+        </div>
+      )}
 
       <div className="absolute bottom-2 right-2">
         <button

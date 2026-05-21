@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import type { Sentence, ManifestData, Chunk } from '../lib/types';
 import { useProgressStore, sentenceKey } from '../store/progress';
 import { useRedWordsStore } from '../store/redWords';
+import { usePracticeQueueStore } from '../store/practiceQueue';
 import { SentenceRow } from '../components/SentenceRow';
 import { AudioEngine } from '../lib/audio';
 import { usePlayerStore } from '../store/player';
@@ -15,21 +16,32 @@ type LoadedPiste = {
   sentences: Sentence[];
 };
 
-const PAGE_SIZE = 20;
+const BATCH_SIZE = 50;
+
+type PracticeItem = {
+  sentence: Sentence;
+  ep: number;
+  piste: number;
+  audioSrc: string;
+  key: string;
+};
 
 export function Practice() {
   const [loadedPistes, setLoadedPistes] = useState<LoadedPiste[]>([]);
-  const [sessionItemKeys, setSessionItemKeys] = useState<Set<string> | null>(null);
-  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
+  const [sessionItemKeys, setSessionItemKeys] = useState<string[] | null>(null);
   const [activePracticeKey, setActivePracticeKey] = useState<string | null>(null);
+  const [loadingAudioKey, setLoadingAudioKey] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
   const progressData = useProgressStore(s => s.data);
   const redWordsData = useRedWordsStore(s => s.data);
+  const practiceQueueData = usePracticeQueueStore(s => s.data);
+  const markPracticed = usePracticeQueueStore(s => s.markPracticed);
+  const prunePracticeQueue = usePracticeQueueStore(s => s.prune);
   const { translationMode, translationLanguage, setCurrentTime, setDuration, setPlaying } = usePlayerStore();
   const enginesRef = useRef<Map<string, AudioEngine>>(new Map());
-  const scrollRef = useRef<HTMLDivElement>(null);
+  const playbackRequestRef = useRef(0);
 
-  const candidateItemKeys = useMemo(() => {
+  const candidateItems = useMemo<PracticeItem[]>(() => {
     const redSentenceKeys = new Set<string>();
     for (const entry of Object.values(redWordsData)) {
       for (const ref of entry.refs) {
@@ -37,47 +49,64 @@ export function Practice() {
       }
     }
 
-    return new Set(loadedPistes.flatMap((p) =>
+    const naturalItems = loadedPistes.flatMap((p) =>
       p.sentences.flatMap((s) => {
         const key = sentenceKey(p.ep, p.piste, s.id);
         const prog = progressData[key];
         const hasRed = redSentenceKeys.has(key);
-        return prog?.status === 'fail' || hasRed ? [key] : [];
-      })
-    ));
-  }, [loadedPistes, progressData, redWordsData]);
-
-  const items = useMemo(() => {
-    const itemKeys = sessionItemKeys ?? candidateItemKeys;
-    return loadedPistes.flatMap((p) =>
-      p.sentences.flatMap((s) => {
-        const key = sentenceKey(p.ep, p.piste, s.id);
-        return itemKeys.has(key)
-          ? [{ sentence: s, ep: p.ep, piste: p.piste, audioSrc: p.audioSrc }]
+        return prog?.status === 'fail' || hasRed
+          ? [{ sentence: s, ep: p.ep, piste: p.piste, audioSrc: p.audioSrc, key }]
           : [];
       })
     );
-  }, [candidateItemKeys, loadedPistes, sessionItemKeys]);
 
-  const visibleItems = useMemo(
-    () => items.slice(0, visibleCount),
-    [items, visibleCount]
+    return naturalItems.sort((a, b) => {
+      const aPracticed = practiceQueueData.practicedAt[a.key] !== undefined;
+      const bPracticed = practiceQueueData.practicedAt[b.key] !== undefined;
+      if (aPracticed === bPracticed) return 0;
+      return aPracticed ? 1 : -1;
+    });
+  }, [loadedPistes, practiceQueueData.practicedAt, progressData, redWordsData]);
+
+  const candidateItemKeys = useMemo(
+    () => new Set(candidateItems.map(item => item.key)),
+    [candidateItems]
   );
+
+  const items = useMemo(() => {
+    const itemKeys = sessionItemKeys ?? candidateItems.slice(0, BATCH_SIZE).map(item => item.key);
+    const itemByKey = new Map(candidateItems.map(item => [item.key, item]));
+    return itemKeys.flatMap(key => {
+      const item = itemByKey.get(key);
+      return item ? [item] : [];
+    });
+  }, [candidateItems, sessionItemKeys]);
+
+  useEffect(() => {
+    if (!loading) {
+      prunePracticeQueue(candidateItems.map(item => item.key));
+    }
+  }, [candidateItems, loading, prunePracticeQueue]);
 
   useEffect(() => {
     if (!loading && sessionItemKeys === null) {
-      setSessionItemKeys(new Set(candidateItemKeys));
+      setSessionItemKeys(candidateItems.slice(0, BATCH_SIZE).map(item => item.key));
+    }
+  }, [candidateItems, loading, sessionItemKeys]);
+
+  useEffect(() => {
+    if (sessionItemKeys === null) return;
+    const validSessionKeys = [...sessionItemKeys].filter(key =>
+      candidateItemKeys.has(key)
+    );
+    if (validSessionKeys.length !== sessionItemKeys.length) {
+      setSessionItemKeys(validSessionKeys);
     }
   }, [candidateItemKeys, loading, sessionItemKeys]);
 
   useEffect(() => {
-    setVisibleCount(count => Math.min(Math.max(count, PAGE_SIZE), items.length || PAGE_SIZE));
-  }, [items.length]);
-
-  useEffect(() => {
     let cancelled = false;
     setLoading(true);
-    setVisibleCount(PAGE_SIZE);
 
     fetch('/data/manifest.json')
       .then(r => r.json())
@@ -132,32 +161,38 @@ export function Practice() {
     return enginesRef.current.get(audioSrc)!;
   };
 
-  const handleChunkClick = (itemKey: string, audioSrc: string, chunk: Chunk) => {
+  const playItemRange = async (itemKey: string, audioSrc: string, start: number, end: number) => {
+    const requestId = playbackRequestRef.current + 1;
+    playbackRequestRef.current = requestId;
     for (const [src, eng] of enginesRef.current.entries()) {
       if (src !== audioSrc) eng.pause();
     }
     setActivePracticeKey(itemKey);
-    getEngine(audioSrc).playRange(chunk.start, chunk.end);
-    setPlaying(true);
+    setLoadingAudioKey(itemKey);
+    try {
+      await getEngine(audioSrc).playRange(start, end);
+      if (playbackRequestRef.current === requestId) {
+        setPlaying(true);
+      }
+    } catch (error) {
+      if (playbackRequestRef.current === requestId) {
+        setActivePracticeKey(null);
+        setPlaying(false);
+      }
+      console.error('Unable to play audio', error);
+    } finally {
+      if (playbackRequestRef.current === requestId) {
+        setLoadingAudioKey(null);
+      }
+    }
+  };
+
+  const handleChunkClick = (itemKey: string, audioSrc: string, chunk: Chunk) => {
+    void playItemRange(itemKey, audioSrc, chunk.start, chunk.end);
   };
 
   const handleSentenceClick = (itemKey: string, audioSrc: string, start: number, end: number) => {
-    for (const [src, eng] of enginesRef.current.entries()) {
-      if (src !== audioSrc) eng.pause();
-    }
-    setActivePracticeKey(itemKey);
-    getEngine(audioSrc).playRange(start, end);
-    setPlaying(true);
-  };
-
-  const handleScroll = () => {
-    const el = scrollRef.current;
-    if (!el || visibleCount >= items.length) return;
-
-    const distanceFromBottom = el.scrollHeight - el.scrollTop - el.clientHeight;
-    if (distanceFromBottom < 400) {
-      setVisibleCount(count => Math.min(count + PAGE_SIZE, items.length));
-    }
+    void playItemRange(itemKey, audioSrc, start, end);
   };
 
   if (loading) return (
@@ -174,12 +209,12 @@ export function Practice() {
           ← Home
         </Link>
         <span className="text-gray-500">|</span>
-        <span className="text-sm font-semibold text-purple-300">Practice ({items.length})</span>
+        <span className="text-sm font-semibold text-purple-300">Practice ({items.length}/{candidateItems.length})</span>
         <div className="ml-auto">
           <TranslationModeButton />
         </div>
       </div>
-      <div ref={scrollRef} onScroll={handleScroll} className="flex-1 overflow-y-auto p-3">
+      <div className="flex-1 overflow-y-auto p-3">
         {items.length === 0 ? (
           <div className="text-center text-gray-500 mt-12">
             <div className="text-4xl mb-3">🎉</div>
@@ -188,8 +223,7 @@ export function Practice() {
           </div>
         ) : (
           <>
-            {visibleItems.map(({ sentence, ep, piste, audioSrc }) => {
-              const itemKey = sentenceKey(ep, piste, sentence.id);
+            {items.map(({ sentence, ep, piste, audioSrc, key: itemKey }) => {
               return (
                 <SentenceRow
                   key={itemKey}
@@ -201,15 +235,12 @@ export function Practice() {
                   onSentenceClick={(start, end) => handleSentenceClick(itemKey, audioSrc, start, end)}
                   translationMode={translationMode}
                   translationLanguage={translationLanguage}
+                  onPracticeInteracted={() => markPracticed(itemKey)}
+                  isAudioLoading={loadingAudioKey === itemKey}
                   practiceMode
                 />
               );
             })}
-            {visibleCount < items.length && (
-              <div className="py-4 text-center text-xs text-gray-500">
-                Loading more...
-              </div>
-            )}
           </>
         )}
       </div>
