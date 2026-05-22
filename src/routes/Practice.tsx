@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
-import type { Sentence, ManifestData, Chunk } from '../lib/types';
+import type { Sentence, ManifestData, Chunk, RedWordEntry, SentenceProgress } from '../lib/types';
 import { useProgressStore, sentenceKey } from '../store/progress';
 import { useRedWordsStore } from '../store/redWords';
 import { usePracticeQueueStore } from '../store/practiceQueue';
@@ -26,9 +26,41 @@ type PracticeItem = {
   key: string;
 };
 
+function getPracticeItems(
+  loadedPistes: LoadedPiste[],
+  progressData: Record<string, SentenceProgress>,
+  redWordsData: Record<string, RedWordEntry>,
+  practicedAt: Record<string, number>
+): PracticeItem[] {
+  const redSentenceKeys = new Set<string>();
+  for (const entry of Object.values(redWordsData)) {
+    for (const ref of entry.refs) {
+      redSentenceKeys.add(sentenceKey(ref.ep, ref.piste, ref.sentenceId));
+    }
+  }
+
+  const naturalItems = loadedPistes.flatMap((p) =>
+    p.sentences.flatMap((s) => {
+      const key = sentenceKey(p.ep, p.piste, s.id);
+      const prog = progressData[key];
+      const hasRed = redSentenceKeys.has(key);
+      return prog?.status === 'fail' || hasRed
+        ? [{ sentence: s, ep: p.ep, piste: p.piste, audioSrc: p.audioSrc, key }]
+        : [];
+    })
+  );
+
+  return naturalItems.sort((a, b) => {
+    const aPracticed = practicedAt[a.key] !== undefined;
+    const bPracticed = practicedAt[b.key] !== undefined;
+    if (aPracticed === bPracticed) return 0;
+    return aPracticed ? 1 : -1;
+  });
+}
+
 export function Practice() {
   const [loadedPistes, setLoadedPistes] = useState<LoadedPiste[]>([]);
-  const [sessionItemKeys, setSessionItemKeys] = useState<string[] | null>(null);
+  const [sessionItems, setSessionItems] = useState<PracticeItem[] | null>(null);
   const [activePracticeKey, setActivePracticeKey] = useState<string | null>(null);
   const [loadingAudioKey, setLoadingAudioKey] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
@@ -40,47 +72,13 @@ export function Practice() {
   const { translationMode, translationLanguage, setCurrentTime, setDuration, setPlaying } = usePlayerStore();
   const enginesRef = useRef<Map<string, AudioEngine>>(new Map());
   const playbackRequestRef = useRef(0);
+  const practicedAt = practiceQueueData.practicedAt;
 
   const candidateItems = useMemo<PracticeItem[]>(() => {
-    const redSentenceKeys = new Set<string>();
-    for (const entry of Object.values(redWordsData)) {
-      for (const ref of entry.refs) {
-        redSentenceKeys.add(sentenceKey(ref.ep, ref.piste, ref.sentenceId));
-      }
-    }
+    return getPracticeItems(loadedPistes, progressData, redWordsData, practicedAt);
+  }, [loadedPistes, practicedAt, progressData, redWordsData]);
 
-    const naturalItems = loadedPistes.flatMap((p) =>
-      p.sentences.flatMap((s) => {
-        const key = sentenceKey(p.ep, p.piste, s.id);
-        const prog = progressData[key];
-        const hasRed = redSentenceKeys.has(key);
-        return prog?.status === 'fail' || hasRed
-          ? [{ sentence: s, ep: p.ep, piste: p.piste, audioSrc: p.audioSrc, key }]
-          : [];
-      })
-    );
-
-    return naturalItems.sort((a, b) => {
-      const aPracticed = practiceQueueData.practicedAt[a.key] !== undefined;
-      const bPracticed = practiceQueueData.practicedAt[b.key] !== undefined;
-      if (aPracticed === bPracticed) return 0;
-      return aPracticed ? 1 : -1;
-    });
-  }, [loadedPistes, practiceQueueData.practicedAt, progressData, redWordsData]);
-
-  const candidateItemKeys = useMemo(
-    () => new Set(candidateItems.map(item => item.key)),
-    [candidateItems]
-  );
-
-  const items = useMemo(() => {
-    const itemKeys = sessionItemKeys ?? candidateItems.slice(0, BATCH_SIZE).map(item => item.key);
-    const itemByKey = new Map(candidateItems.map(item => [item.key, item]));
-    return itemKeys.flatMap(key => {
-      const item = itemByKey.get(key);
-      return item ? [item] : [];
-    });
-  }, [candidateItems, sessionItemKeys]);
+  const items = sessionItems ?? candidateItems.slice(0, BATCH_SIZE);
 
   useEffect(() => {
     if (!loading) {
@@ -89,24 +87,7 @@ export function Practice() {
   }, [candidateItems, loading, prunePracticeQueue]);
 
   useEffect(() => {
-    if (!loading && sessionItemKeys === null) {
-      setSessionItemKeys(candidateItems.slice(0, BATCH_SIZE).map(item => item.key));
-    }
-  }, [candidateItems, loading, sessionItemKeys]);
-
-  useEffect(() => {
-    if (sessionItemKeys === null) return;
-    const validSessionKeys = [...sessionItemKeys].filter(key =>
-      candidateItemKeys.has(key)
-    );
-    if (validSessionKeys.length !== sessionItemKeys.length) {
-      setSessionItemKeys(validSessionKeys);
-    }
-  }, [candidateItemKeys, loading, sessionItemKeys]);
-
-  useEffect(() => {
     let cancelled = false;
-    setLoading(true);
 
     fetch('/data/manifest.json')
       .then(r => r.json())
@@ -120,12 +101,19 @@ export function Practice() {
         );
 
         if (cancelled) return;
-        setLoadedPistes(pisteData.map(({ piste: p, data }) => ({
+        const nextLoadedPistes = pisteData.map(({ piste: p, data }) => ({
           ep: p.episode,
           piste: p.piste,
           audioSrc: p.audio,
           sentences: data.sentences,
-        })));
+        }));
+        setLoadedPistes(nextLoadedPistes);
+        setSessionItems(getPracticeItems(
+          nextLoadedPistes,
+          useProgressStore.getState().data,
+          useRedWordsStore.getState().data,
+          usePracticeQueueStore.getState().data.practicedAt
+        ).slice(0, BATCH_SIZE));
         setLoading(false);
       });
 
