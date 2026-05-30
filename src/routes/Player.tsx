@@ -1,7 +1,8 @@
 import { useEffect, useRef, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import type { Sentence, Chunk, PisteInfo, ManifestData } from '../lib/types';
+import type { Sentence, Chunk, PisteInfo } from '../lib/types';
 import { AudioEngine } from '../lib/audio';
+import { loadManifest, loadPisteData } from '../lib/data';
 import { AudioBar } from '../components/AudioBar';
 import { SentenceRow } from '../components/SentenceRow';
 import { usePlayerStore } from '../store/player';
@@ -30,29 +31,31 @@ export function Player() {
   const progressPercent = totalSentences > 0 ? Math.round((processedSentences / totalSentences) * 100) : 0;
 
   useEffect(() => {
-    fetch('/data/manifest.json')
-      .then(r => r.json())
-      .then((m: ManifestData) => {
+    let cancelled = false;
+    loadManifest()
+      .then(async (m) => {
         const ep_ = m.episodes.find(e => e.id === epNum);
         const p = ep_?.pistes.find(p => p.piste === pisteNum);
         if (!p) return;
+        const { sentences } = await loadPisteData(p.data);
+        if (cancelled) return;
         setEpisodeTitle(ep_?.title ?? `Épisode ${epNum}`);
         setPisteInfo(p);
-        return fetch(p.data).then(r => r.json()).then((d: { sentences: Sentence[] }) => {
-          setSentences(d.sentences);
-          const engine = new AudioEngine(p.audio, (t) => {
-            setCurrentTime(t);
-            setActiveSentenceIdx(findActiveSentence(d.sentences, t));
-          });
-          engine.onLoadedMetadata(() => setDuration(engine.duration));
-          engine.onEnded(() => setPlaying(false));
-          engine.onRangePaused(() => setPlaying(false));
-          engineRef.current = engine;
-          setEngine(engine);
+        setSentences(sentences);
+        const engine = new AudioEngine(p.audio, (t) => {
+          setCurrentTime(t);
+          setActiveSentenceIdx(findActiveSentence(sentences, t));
         });
-      });
+        engine.onLoadedMetadata(() => setDuration(engine.duration));
+        engine.onEnded(() => setPlaying(false));
+        engine.onRangePaused(() => setPlaying(false));
+        engineRef.current = engine;
+        setEngine(engine);
+      })
+      .catch(err => console.error('Failed to load piste', err));
 
     return () => {
+      cancelled = true;
       engineRef.current?.destroy();
       engineRef.current = null;
       setEngine(null);

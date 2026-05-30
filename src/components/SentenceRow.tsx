@@ -1,13 +1,11 @@
 import { useRef, useEffect, useState } from 'react';
-import type { Sentence, Chunk, LanguageCode } from '../lib/types';
+import type { Sentence, Chunk, LanguageCode, TranslationMode, WordState } from '../lib/types';
 import { ChunkBox } from './ChunkBox';
 import { useProgressStore, sentenceKey } from '../store/progress';
 import { useRedWordsStore } from '../store/redWords';
 import { findActiveWord, findActiveChunk, findChunkForWord, normalizeWord } from '../lib/timing';
 import { usePlayerStore } from '../store/player';
-import { getTranslation } from '../lib/translations';
-
-type WordState = 'hidden' | 'revealed' | 'red';
+import { getTranslation, revealsFrench, showsSentenceTranslation } from '../lib/translations';
 
 type Props = {
   sentence: Sentence;
@@ -16,7 +14,7 @@ type Props = {
   piste: number;
   onChunkClick: (chunk: Chunk) => void;
   onSentenceClick: (start: number, end: number) => void;
-  translationMode: 0 | 1 | 2 | 3 | 4;
+  translationMode: TranslationMode;
   translationLanguage: LanguageCode;
   practiceMode?: boolean;
   onPracticeInteracted?: () => void;
@@ -61,7 +59,7 @@ export function SentenceRow({
       : progress.status;
   const hasLocalReveal = wordStates.some(s => s !== 'hidden');
   const effectiveRevealed = (practiceMode && !practiceInteracted) ? hasLocalReveal : progress.revealed;
-  const modeRevealed = translationMode === 4;
+  const modeRevealed = revealsFrench(translationMode);
   const displayedRevealed = effectiveRevealed || modeRevealed;
 
   useEffect(() => {
@@ -208,7 +206,7 @@ export function SentenceRow({
             );
           })}
         </div>
-        {(translationMode === 1 || translationMode === 2 || displayedRevealed) && sentenceTranslation && (
+        {(showsSentenceTranslation(translationMode) || displayedRevealed) && sentenceTranslation && (
           <div className="text-xs text-yellow-300/70 mt-1.5 pl-0.5">{sentenceTranslation}</div>
         )}
       </div>

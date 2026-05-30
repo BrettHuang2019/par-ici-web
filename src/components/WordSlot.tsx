@@ -1,7 +1,5 @@
 import { useEffect, useRef } from 'react';
-import type { Word, Chunk } from '../lib/types';
-
-type WordState = 'hidden' | 'revealed' | 'red';
+import type { Word, Chunk, WordState } from '../lib/types';
 
 type Props = {
   word: Word;

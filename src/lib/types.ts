@@ -24,6 +24,14 @@ export type ManifestData = { episodes: EpisodeInfo[] };
 export type SentenceStatus = 'none' | 'pass' | 'fail';
 export type SentenceKey = string; // `ep${E}_p${P}_s${id}`
 
+// 0=off, 1=sentence, 2=sentence+chunk, 3=chunk only, 4=reveal FR+sentence
+export type TranslationMode = 0 | 1 | 2 | 3 | 4;
+
+// per-word reveal state within a sentence row
+export type WordState = 'hidden' | 'revealed' | 'red';
+
+export type WordRef = { ep: number; piste: number; sentenceId: number; wordIdx: number };
+
 export type SentenceProgress = {
   status: SentenceStatus;
   revealed: boolean;
@@ -31,8 +39,5 @@ export type SentenceProgress = {
 
 export type RedWordEntry = {
   word: string;
-  refs: Array<{ ep: number; piste: number; sentenceId: number; wordIdx: number }>;
+  refs: WordRef[];
 };
-
-// per-word reveal state within a session (not persisted — revealed state comes from progress store)
-export type WordRevealState = 'hidden' | 'revealed' | 'red';

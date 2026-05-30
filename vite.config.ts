@@ -23,11 +23,9 @@ export default defineConfig({
         ],
       },
       workbox: {
+        // Precache app shell only — audio and data are always streamed fresh.
         globPatterns: ['**/*.{js,css,html,ico,svg}'],
         navigateFallback: 'index.html',
-        runtimeCaching: [
-          // exclude audio and data from SW cache — always stream fresh
-        ],
       },
     }),
   ],

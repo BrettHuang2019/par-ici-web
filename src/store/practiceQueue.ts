@@ -1,5 +1,6 @@
 import { create } from 'zustand';
 import type { SentenceKey } from '../lib/types';
+import { loadJSON, saveJSON } from '../lib/storage';
 
 const STORAGE_KEY = 'par-ici/practice-queue/v1';
 
@@ -7,47 +8,32 @@ type PracticeQueueData = {
   practicedAt: Record<SentenceKey, number>;
 };
 
-function load(): PracticeQueueData {
-  try {
-    return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{"practicedAt":{}}');
-  } catch {
-    return { practicedAt: {} };
-  }
-}
-
-function save(data: PracticeQueueData) {
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
-}
-
 type PracticeQueueStore = {
   data: PracticeQueueData;
   markPracticed: (key: SentenceKey) => void;
   prune: (validKeys: SentenceKey[]) => void;
 };
 
-export const usePracticeQueueStore = create<PracticeQueueStore>((set, get) => ({
-  data: load(),
+export const usePracticeQueueStore = create<PracticeQueueStore>((set, get) => {
+  const commit = (data: PracticeQueueData) => {
+    saveJSON(STORAGE_KEY, data);
+    set({ data });
+  };
 
-  markPracticed: (key) => {
-    const next = {
-      practicedAt: {
-        ...get().data.practicedAt,
-        [key]: Date.now(),
-      },
-    };
-    save(next);
-    set({ data: next });
-  },
+  return {
+    data: loadJSON<PracticeQueueData>(STORAGE_KEY, { practicedAt: {} }),
 
-  prune: (validKeys) => {
-    const current = get().data.practicedAt;
-    const valid = new Set(validKeys);
-    const practicedAt = Object.fromEntries(
-      Object.entries(current).filter(([key]) => valid.has(key))
-    );
-    if (Object.keys(practicedAt).length === Object.keys(current).length) return;
-    const next = { practicedAt };
-    save(next);
-    set({ data: next });
-  },
-}));
+    markPracticed: (key) =>
+      commit({ practicedAt: { ...get().data.practicedAt, [key]: Date.now() } }),
+
+    prune: (validKeys) => {
+      const current = get().data.practicedAt;
+      const valid = new Set(validKeys);
+      const practicedAt = Object.fromEntries(
+        Object.entries(current).filter(([key]) => valid.has(key))
+      );
+      if (Object.keys(practicedAt).length === Object.keys(current).length) return;
+      commit({ practicedAt });
+    },
+  };
+});

@@ -4,6 +4,7 @@ import type { LanguageCode, ManifestData, Sentence } from '../lib/types';
 import { LessonCard } from '../components/LessonCard';
 import { usePlayerStore } from '../store/player';
 import { SUPPORTED_LANGUAGES } from '../lib/translations';
+import { loadManifest, loadAllPistes } from '../lib/data';
 
 export function Home() {
   const [manifest, setManifest] = useState<ManifestData | null>(null);
@@ -11,24 +12,22 @@ export function Home() {
   const { translationLanguage, setTranslationLanguage } = usePlayerStore();
 
   useEffect(() => {
-    fetch('/data/manifest.json')
-      .then(r => r.json())
-      .then((m: ManifestData) => {
-        setManifest(m);
-        // load all piste data for color computation
-        const fetches = m.episodes.flatMap(ep =>
-          ep.pistes.map(p =>
-            fetch(p.data)
-              .then(r => r.json())
-              .then((d: { sentences: Sentence[] }) => ({ key: `${p.episode}_${p.piste}`, sentences: d.sentences }))
-          )
-        );
-        Promise.all(fetches).then(results => {
-          const map: Record<string, Sentence[]> = {};
-          for (const { key, sentences } of results) map[key] = sentences;
-          setPisteData(map);
-        });
-      });
+    let cancelled = false;
+    loadManifest()
+      .then(m => { if (!cancelled) setManifest(m); })
+      .catch(err => console.error('Failed to load manifest', err));
+
+    // load all piste data for lesson-card color computation
+    loadAllPistes()
+      .then(loaded => {
+        if (cancelled) return;
+        const map: Record<string, Sentence[]> = {};
+        for (const { piste, sentences } of loaded) map[`${piste.episode}_${piste.piste}`] = sentences;
+        setPisteData(map);
+      })
+      .catch(err => console.error('Failed to load piste data', err));
+
+    return () => { cancelled = true; };
   }, []);
 
   if (!manifest) {

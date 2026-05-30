@@ -10,31 +10,27 @@ export function findActiveSentence(sentences: Sentence[], t: number): number {
   return sentences.length - 1;
 }
 
-export function findActiveWord(words: Word[], t: number): number {
-  for (let i = 0; i < words.length; i++) {
-    const isLast = i === words.length - 1;
-    if (t >= words[i].start && (t < words[i].end || (isLast && t <= words[i].end))) return i;
+// Index of the range containing t — [start, end), with the last range inclusive
+// of its end so the final tick still resolves. Returns -1 if none match.
+function findRangeIndex(ranges: ReadonlyArray<{ start: number; end: number }>, t: number): number {
+  for (let i = 0; i < ranges.length; i++) {
+    const isLast = i === ranges.length - 1;
+    if (t >= ranges[i].start && (t < ranges[i].end || (isLast && t <= ranges[i].end))) return i;
   }
   return -1;
 }
 
-export function findChunkForWord(chunks: Chunk[], wordStart: number): Chunk | null {
-  for (let i = 0; i < chunks.length; i++) {
-    const chunk = chunks[i];
-    const isLast = i === chunks.length - 1;
-    if (wordStart >= chunk.start && (wordStart < chunk.end || (isLast && wordStart <= chunk.end))) {
-      return chunk;
-    }
-  }
-  return null;
+export function findActiveWord(words: Word[], t: number): number {
+  return findRangeIndex(words, t);
 }
 
 export function findActiveChunk(chunks: Chunk[], t: number): number {
-  for (let i = 0; i < chunks.length; i++) {
-    const isLast = i === chunks.length - 1;
-    if (t >= chunks[i].start && (t < chunks[i].end || (isLast && t <= chunks[i].end))) return i;
-  }
-  return -1;
+  return findRangeIndex(chunks, t);
+}
+
+export function findChunkForWord(chunks: Chunk[], wordStart: number): Chunk | null {
+  const i = findRangeIndex(chunks, wordStart);
+  return i === -1 ? null : chunks[i];
 }
 
 export function normalizeWord(text: string): string {

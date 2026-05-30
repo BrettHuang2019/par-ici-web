@@ -1,8 +1,6 @@
-import type { Chunk, LanguageCode, Word } from '../lib/types';
+import type { Chunk, LanguageCode, TranslationMode, Word, WordState } from '../lib/types';
 import { WordSlot } from './WordSlot';
-import { getTranslation } from '../lib/translations';
-
-type WordState = 'hidden' | 'revealed' | 'red';
+import { getTranslation, showsChunkTranslation } from '../lib/translations';
 
 type Props = {
   chunk: Chunk;
@@ -15,7 +13,7 @@ type Props = {
   wordStates: WordState[];
   onWordStateChange: (wordIdx: number, state: WordState) => void;
   onChunkClick: (chunk: Chunk) => void;
-  translationMode: 0 | 1 | 2 | 3 | 4;
+  translationMode: TranslationMode;
   translationLanguage: LanguageCode;
   ep: number;
   piste: number;
@@ -54,7 +52,7 @@ export function ChunkBox({
           />
         ))}
       </div>
-      {(translationMode === 2 || translationMode === 3) && chunkTranslation && (
+      {showsChunkTranslation(translationMode) && chunkTranslation && (
         <span className="text-xs text-yellow-400/80 leading-tight">{chunkTranslation}</span>
       )}
     </div>

@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import type { PisteInfo, Sentence, SentenceProgress, SentenceKey, RedWordEntry } from '../lib/types';
 import { useProgressStore, sentenceKey } from '../store/progress';
-import { useRedWordsStore } from '../store/redWords';
+import { useRedWordsStore, redSentenceKeys } from '../store/redWords';
 
 type Props = {
   piste: PisteInfo;
@@ -27,18 +27,14 @@ function getLessonStats(
 
   let passed = 0;
   let hasActivity = false;
+  const redKeys = redSentenceKeys(redWordData);
 
   for (const s of sentences) {
     const key = sentenceKey(piste.episode, piste.piste, s.id);
     const prog = progressData[key] ?? { status: 'none', revealed: false };
     if (prog.status !== 'none' || prog.revealed) hasActivity = true;
     if (prog.status === 'pass') passed += 1;
-    const hasRed = Object.values(redWordData).some(entry =>
-      entry.refs.some(
-        ref => ref.ep === piste.episode && ref.piste === piste.piste && ref.sentenceId === s.id
-      )
-    );
-    if (hasRed) hasActivity = true;
+    if (redKeys.has(key)) hasActivity = true;
   }
 
   return {

@@ -1,11 +1,12 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
-import type { Sentence, ManifestData, Chunk, RedWordEntry, SentenceProgress } from '../lib/types';
+import type { Sentence, Chunk, RedWordEntry, SentenceProgress } from '../lib/types';
 import { useProgressStore, sentenceKey } from '../store/progress';
-import { useRedWordsStore } from '../store/redWords';
+import { useRedWordsStore, redSentenceKeys } from '../store/redWords';
 import { usePracticeQueueStore } from '../store/practiceQueue';
 import { SentenceRow } from '../components/SentenceRow';
 import { AudioEngine } from '../lib/audio';
+import { loadAllPistes } from '../lib/data';
 import { usePlayerStore } from '../store/player';
 import { TranslationModeButton } from '../components/TranslationModeButton';
 
@@ -32,18 +33,13 @@ function getPracticeItems(
   redWordsData: Record<string, RedWordEntry>,
   practicedAt: Record<string, number>
 ): PracticeItem[] {
-  const redSentenceKeys = new Set<string>();
-  for (const entry of Object.values(redWordsData)) {
-    for (const ref of entry.refs) {
-      redSentenceKeys.add(sentenceKey(ref.ep, ref.piste, ref.sentenceId));
-    }
-  }
+  const redKeys = redSentenceKeys(redWordsData);
 
   const naturalItems = loadedPistes.flatMap((p) =>
     p.sentences.flatMap((s) => {
       const key = sentenceKey(p.ep, p.piste, s.id);
       const prog = progressData[key];
-      const hasRed = redSentenceKeys.has(key);
+      const hasRed = redKeys.has(key);
       return prog?.status === 'fail' || hasRed
         ? [{ sentence: s, ep: p.ep, piste: p.piste, audioSrc: p.audioSrc, key }]
         : [];
@@ -89,23 +85,14 @@ export function Practice() {
   useEffect(() => {
     let cancelled = false;
 
-    fetch('/data/manifest.json')
-      .then(r => r.json())
-      .then(async (m: ManifestData) => {
-        const pistes = m.episodes.flatMap(ep => ep.pistes);
-        const pisteData = await Promise.all(
-          pistes.map(async (p) => ({
-            piste: p,
-            data: await fetch(p.data).then(r => r.json()) as { sentences: Sentence[] },
-          }))
-        );
-
+    loadAllPistes()
+      .then((loaded) => {
         if (cancelled) return;
-        const nextLoadedPistes = pisteData.map(({ piste: p, data }) => ({
-          ep: p.episode,
-          piste: p.piste,
-          audioSrc: p.audio,
-          sentences: data.sentences,
+        const nextLoadedPistes: LoadedPiste[] = loaded.map(({ piste, sentences }) => ({
+          ep: piste.episode,
+          piste: piste.piste,
+          audioSrc: piste.audio,
+          sentences,
         }));
         setLoadedPistes(nextLoadedPistes);
         setSessionItems(getPracticeItems(
@@ -115,7 +102,8 @@ export function Practice() {
           usePracticeQueueStore.getState().data.practicedAt
         ).slice(0, BATCH_SIZE));
         setLoading(false);
-      });
+      })
+      .catch(err => console.error('Failed to load practice data', err));
 
     return () => {
       cancelled = true;

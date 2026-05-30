@@ -1,23 +1,27 @@
 import { create } from 'zustand';
-import type { RedWordEntry } from '../lib/types';
+import type { RedWordEntry, SentenceKey, WordRef } from '../lib/types';
 import { normalizeWord } from '../lib/timing';
+import { loadJSON, saveJSON } from '../lib/storage';
+import { sentenceKey } from './progress';
 
 const STORAGE_KEY = 'par-ici/red-words/v1';
+type RedWordsData = Record<string, RedWordEntry>;
 
-function load(): Record<string, RedWordEntry> {
-  try {
-    return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
-  } catch {
-    return {};
+// True when a ref points at the given sentence (ignores wordIdx).
+const refMatchesSentence = (r: WordRef, ep: number, piste: number, sentenceId: number): boolean =>
+  r.ep === ep && r.piste === piste && r.sentenceId === sentenceId;
+
+// Set of sentence keys that have at least one red word — computed once, O(refs).
+export function redSentenceKeys(data: RedWordsData): Set<SentenceKey> {
+  const keys = new Set<SentenceKey>();
+  for (const entry of Object.values(data)) {
+    for (const ref of entry.refs) keys.add(sentenceKey(ref.ep, ref.piste, ref.sentenceId));
   }
-}
-
-function save(data: Record<string, RedWordEntry>) {
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+  return keys;
 }
 
 type RedWordsStore = {
-  data: Record<string, RedWordEntry>;
+  data: RedWordsData;
   isRed: (wordText: string, ep: number, piste: number, sentenceId: number) => boolean;
   addRed: (wordText: string, ep: number, piste: number, sentenceId: number, wordIdx: number) => void;
   removeRed: (wordText: string, ep: number, piste: number, sentenceId: number) => void;
@@ -25,70 +29,61 @@ type RedWordsStore = {
   getRedKeysForSentence: (ep: number, piste: number, sentenceId: number) => string[];
 };
 
-export const useRedWordsStore = create<RedWordsStore>((set, get) => ({
-  data: load(),
+export const useRedWordsStore = create<RedWordsStore>((set, get) => {
+  const commit = (data: RedWordsData) => {
+    saveJSON(STORAGE_KEY, data);
+    set({ data });
+  };
 
-  isRed: (wordText, ep, piste, sentenceId) => {
-    const norm = normalizeWord(wordText);
-    return get().data[norm]?.refs.some(
-      r => r.ep === ep && r.piste === piste && r.sentenceId === sentenceId
-    ) ?? false;
-  },
+  return {
+    data: loadJSON<RedWordsData>(STORAGE_KEY, {}),
 
-  addRed: (wordText, ep, piste, sentenceId, wordIdx) => {
-    const norm = normalizeWord(wordText);
-    const cur = get().data;
-    const entry = cur[norm] ?? { word: wordText, refs: [] };
-    const alreadyHasRef = entry.refs.some(
-      r => r.ep === ep && r.piste === piste && r.sentenceId === sentenceId && r.wordIdx === wordIdx
-    );
-    if (alreadyHasRef) return;
-    const next = {
-      ...cur,
-      [norm]: { word: wordText, refs: [...entry.refs, { ep, piste, sentenceId, wordIdx }] },
-    };
-    save(next);
-    set({ data: next });
-  },
+    isRed: (wordText, ep, piste, sentenceId) => {
+      const norm = normalizeWord(wordText);
+      return get().data[norm]?.refs.some(r => refMatchesSentence(r, ep, piste, sentenceId)) ?? false;
+    },
 
-  removeRed: (wordText, ep, piste, sentenceId) => {
-    const norm = normalizeWord(wordText);
-    const cur = get().data;
-    const entry = cur[norm];
-    if (!entry) return;
-
-    const remaining = entry.refs.filter(
-      r => !(r.ep === ep && r.piste === piste && r.sentenceId === sentenceId)
-    );
-    const next = { ...cur };
-    if (remaining.length > 0) {
-      next[norm] = { ...entry, refs: remaining };
-    } else {
-      delete next[norm];
-    }
-    save(next);
-    set({ data: next });
-  },
-
-  clearSentenceReds: (ep, piste, sentenceId) => {
-    const cur = get().data;
-    const next: Record<string, RedWordEntry> = {};
-    for (const [norm, entry] of Object.entries(cur)) {
-      const remaining = entry.refs.filter(
-        r => !(r.ep === ep && r.piste === piste && r.sentenceId === sentenceId)
+    addRed: (wordText, ep, piste, sentenceId, wordIdx) => {
+      const norm = normalizeWord(wordText);
+      const cur = get().data;
+      const entry = cur[norm] ?? { word: wordText, refs: [] };
+      const exists = entry.refs.some(
+        r => refMatchesSentence(r, ep, piste, sentenceId) && r.wordIdx === wordIdx
       );
-      if (remaining.length > 0) {
-        next[norm] = { ...entry, refs: remaining };
-      }
-    }
-    save(next);
-    set({ data: next });
-  },
+      if (exists) return;
+      commit({
+        ...cur,
+        [norm]: { word: wordText, refs: [...entry.refs, { ep, piste, sentenceId, wordIdx }] },
+      });
+    },
 
-  getRedKeysForSentence: (ep, piste, sentenceId) => {
-    const cur = get().data;
-    return Object.keys(cur).filter(norm =>
-      cur[norm].refs.some(r => r.ep === ep && r.piste === piste && r.sentenceId === sentenceId)
-    );
-  },
-}));
+    removeRed: (wordText, ep, piste, sentenceId) => {
+      const norm = normalizeWord(wordText);
+      const cur = get().data;
+      const entry = cur[norm];
+      if (!entry) return;
+
+      const remaining = entry.refs.filter(r => !refMatchesSentence(r, ep, piste, sentenceId));
+      const next = { ...cur };
+      if (remaining.length > 0) next[norm] = { ...entry, refs: remaining };
+      else delete next[norm];
+      commit(next);
+    },
+
+    clearSentenceReds: (ep, piste, sentenceId) => {
+      const next: RedWordsData = {};
+      for (const [norm, entry] of Object.entries(get().data)) {
+        const remaining = entry.refs.filter(r => !refMatchesSentence(r, ep, piste, sentenceId));
+        if (remaining.length > 0) next[norm] = { ...entry, refs: remaining };
+      }
+      commit(next);
+    },
+
+    getRedKeysForSentence: (ep, piste, sentenceId) => {
+      const cur = get().data;
+      return Object.keys(cur).filter(norm =>
+        cur[norm].refs.some(r => refMatchesSentence(r, ep, piste, sentenceId))
+      );
+    },
+  };
+});

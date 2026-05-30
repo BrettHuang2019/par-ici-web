@@ -1,4 +1,4 @@
-import React from 'react';
+import type { ChangeEvent } from 'react';
 import { usePlayerStore } from '../store/player';
 import type { AudioEngine } from '../lib/audio';
 import { TranslationModeButton } from './TranslationModeButton';
@@ -26,7 +26,7 @@ export function AudioBar({ engine }: Props) {
     }
   };
 
-  const seek = (e: React.ChangeEvent<HTMLInputElement>) => {
+  const seek = (e: ChangeEvent<HTMLInputElement>) => {
     if (!engine) return;
     engine.seek(Number(e.target.value));
   };
